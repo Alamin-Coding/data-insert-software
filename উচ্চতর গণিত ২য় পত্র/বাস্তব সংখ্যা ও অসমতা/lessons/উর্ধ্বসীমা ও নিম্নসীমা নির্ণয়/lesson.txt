@@ -1,0 +1,971 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 792274,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\( x&lt;2\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(2&gt;x&gt;3\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\( 2&lt;x&lt;3\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(x&gt;3, x&lt;2\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]5 x-x^2-6&gt;0[/math]\u003C/span\u003E হলে-\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(5 x-x^2-6&gt;0 \\Rightarrow x^2-5 x+6&lt;0\\)\u003C/span\u003E\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\begin{aligned}&amp; \\Rightarrow \\mathrm{x}^2-3 \\mathrm{x}-2 \\mathrm{x}+6&lt;0\\\\ &amp;\\Rightarrow \\mathrm{x}(\\mathrm{x}-3)-2(\\mathrm{x}-3)&lt;0 \\\\&amp; \\Rightarrow(\\mathrm{x}-3)(\\mathrm{x}-2)&lt;0\\\\ &amp;\\therefore 2&lt;\\mathrm{x}&lt;3\\end{aligned}\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5198,
+          "full_name": "ঢাকা বিশ্ববিদ্যালয়'৮,ইসলামী বিশ্ববিদ্যালয়'১৬",
+          "short_name": "ঢাকা বিশ্ববিদ্যালয়'৮,ইসলামী বিশ্ববিদ্যালয়'১৬",
+          "slug": "dhaka-biswbidzaly8islamee-biswbidzalz16",
+          "pivot": {
+            "question_bank_id": 792274,
+            "tag_id": 5198,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792282,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(2\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(4\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(9\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(10\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003Eযদি&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]A=\\left\\{x \\in N: 4 \\leq x^2 \\leq 81\\right\\}[/math]\u003C/span\u003E&nbsp; হয়, তবে Sup A কত?\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(A=\\left\\{x \\in N: 4 \\leq x^2 \\leq 81\\right\\}=\\{x \\in N: 2 \\leq x \\leq 9\\} =\\{2,3,4,5,6,7,8,9\\}\\)\u003C/span\u003E যা উর্ধ্বে সীমিত সেট।\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\therefore \\mathrm{A}\\)\u003C/span\u003E এর লঘিষ্ঠ উর্ধ্বসীমা =9\u003Cbr /\u003Eঅর্থাৎ \u003Cspan class=\"math-tex\"\u003E\\(\\operatorname{Sup} \\mathrm{A}=9\\)\u003C/span\u003E\u003Cbr /\u003Eআবার A এর গরিষ্ঠ নিম্নসীমা =2\u003Cbr /\u003Eঅর্থাৎ \u003Cspan class=\"math-tex\"\u003E\\(\\operatorname{Inf} \\mathrm{A}=2\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5200,
+          "full_name": "বঙ্গমাতা শেখ ফজিলাতুন্নেছা মুজিব বি. ও প্র.বি'১৮",
+          "short_name": "বঙ্গমাতা শেখ ফজিলাতুন্নেছা মুজিব বি. ও প্র.বি'১৮",
+          "slug": "bngomata-sekh-fjilatunnecha-mujib-bi-oo-prbi18",
+          "pivot": {
+            "question_bank_id": 792282,
+            "tag_id": 5200,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792281,
+      "value": {
+        "options": {
+          "ক": "0 এবং &nbsp;-1",
+          "খ": "-1 এবং \u003Cspan class=\"math-tex\"\u003E\\(-\\frac{1}{2}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{1}{2} \\)\u003C/span\u003Eএবং -1",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "\u003Cdiv\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\left\\{x: x=(-1)^{\\mathrm{n}} \\cdot \\frac{1}{\\mathrm{n}} ; \\mathrm{n} \\in \\mathrm{N}\\right\\}[/math]\u003C/span\u003E&nbsp;সেটের &nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\sup[/math]\u003C/span\u003E এবং&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]inf[/math]\u003C/span\u003E&nbsp; নিম্নের কোনটি?\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\begin{aligned}&amp; \\text {  }\\left\\{x: x=(-1)^{\\mathrm{n}} \\cdot \\frac{1}{\\mathrm{n}}: \\mathrm{n} \\in \\mathrm{N}\\right\\} \\\\&amp; =\\left\\{-1, \\frac{1}{2},-\\frac{1}{3}, \\frac{1}{4},-\\frac{1}{5}, \\ldots \\ldots \\ldots \\ldots . .0\\right\\} \\\\&amp; =\\left\\{\\ldots \\ldots \\ldots . \\frac{1}{5},-\\frac{1}{3},-1,0, \\frac{1}{2}, \\frac{1}{4}, \\frac{1}{6} \\ldots \\ldots \\ldots \\ldots\\right\\} \\\\&amp; =\\left\\{-1,-\\frac{1}{3},-\\frac{1}{5} \\ldots \\ldots \\ldots . .0 \\ldots \\ldots . . . \\frac{1}{6}, \\frac{1}{4}, \\frac{1}{2}\\right\\}\\end{aligned}\\)\u003C/span\u003E\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\therefore\\)\u003C/span\u003E সেটের\u003Cspan class=\"math-tex\"\u003E\\(sup =\\frac{1}{2}\\)\u003C/span\u003E এবং সেটের\u003Cspan class=\"math-tex\"\u003E\\(inf =-1\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5194,
+          "full_name": "বঙ্গবন্ধু শেখ মুজিবুর রহমান বিজ্ঞান ও প্র.বি'১৭",
+          "short_name": "বঙ্গবন্ধু শেখ মুজিবুর রহমান বিজ্ঞান ও প্র.বি'১৭",
+          "slug": "bngobndhu-sekh-mujibur-rhman-bijngan-oo-prbi17",
+          "pivot": {
+            "question_bank_id": 792281,
+            "tag_id": 5194,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792280,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\( -4&lt;x&lt;6\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(-4 \\leq x \\leq 6\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(x&lt;-3\\)\u003C/span\u003E&nbsp;এবং&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(x&gt;7\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(-3&lt;x&lt;7\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\frac{x+4}{x+3}&gt;\\frac{x-6}{x-7}[/math]\u003C/span\u003Eঅসমতাটির সমাধান হলো-&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{x+4}{x+3}-\\frac{x-6}{x-7}&gt;0\\\\\\Rightarrow \\frac{(x+4)(x-7)-(x-6)(x+3)}{(x+3)(x-7)}&gt;0\\\\\\Rightarrow \\frac{-10}{(\\mathrm{x}+3)(\\mathrm{x}-7)}&gt;0\\\\ \\Rightarrow(\\mathrm{x}+3)(\\mathrm{x}-7)&lt;0\\\\ \\therefore-3&lt;\\mathrm{x}&lt;7\\)\u003C/span\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5199,
+          "full_name": "KUET'১৭",
+          "short_name": "KUET'১৭",
+          "slug": "kuet17",
+          "pivot": {
+            "question_bank_id": 792280,
+            "tag_id": 5199,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792279,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(1\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\( -1\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(2\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(0\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]S=\\{x \\in R: x \\leq 0\\}[/math]\u003C/span\u003E&nbsp; হলে, S এর লঘিষ্ঠ উর্ধ্বসীমা কত?\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(S=\\{x \\in R: x \\leq 0\\}=(-\\infty, 0]\\)\u003C/span\u003E\u003Cbr /\u003Eলঘিষ্ঠ উর্ধ্বসীমা = 0",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4167,
+          "full_name": "যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৯",
+          "short_name": "যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৯",
+          "slug": "zsor-bijngan-oo-przukti-biswbidzaly19",
+          "pivot": {
+            "question_bank_id": 792279,
+            "tag_id": 4167,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792278,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(x \\leq 0\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(1 \\leq x\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(0 \\leq x \\leq 1\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(\\mathrm{x} \\leq 0 \\)\u003C/span\u003E&nbsp;অথবা&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(1 \\leq \\mathrm{x}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003Eঅসমতা&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]x \\leq x^2[/math]\u003C/span\u003E এর সমাধান হবে-&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(x \\leq x^2 \\Rightarrow x^2 \\geq x\\\\ \\Rightarrow x^2-x \\geq 0\\\\\\Rightarrow \\mathrm{x}(\\mathrm{x}-1) \\geq 0\\\\ \\Rightarrow \\mathrm{x} \\leq 0\\)\u003C/span\u003E\u003Cbr /\u003Eঅথবা ;\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\mathrm{x}-1 \\geq 0\\\\\\Rightarrow \\mathrm{x} \\leq 0\\)\u003C/span\u003E\u003Cbr /\u003Eঅথবা ,\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\mathrm{x} \\geq 1\\\\\\Rightarrow \\mathrm{x} \\leq 0\\)\u003C/span\u003E\u003Cbr /\u003Eঅথবা ,\u003Cspan class=\"math-tex\"\u003E\\(​​​​​​​1 \\leq \\mathrm{x}\\)\u003C/span\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4201,
+          "full_name": "চট্টগ্রাম বিশ্ববিদ্যালয়'১৪",
+          "short_name": "চট্টগ্রাম বিশ্ববিদ্যালয়'১৪",
+          "slug": "cttgram-biswbidzaly14",
+          "pivot": {
+            "question_bank_id": 792278,
+            "tag_id": 4201,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792277,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\( x&gt;3\\ or\\ x&lt;-\\frac{1}{3}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(\\mathrm{x}&lt;3\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(x&gt;8\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\( -\\frac{1}{3}&lt;x&lt;3\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]8 x+3&lt;3 x^2[/math]\u003C/span\u003E&nbsp;হলে, x এর মান নির্ণয় কর।\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(8 x+3&lt;3 x^2 \\Rightarrow 3 x^2-8 x-3&gt;0\\)\u003C/span\u003E\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\begin{aligned} &amp; \\Rightarrow 3 x^2-9 x+x-3&gt;0 \\Rightarrow 3 x(x-3)+(x-3)&gt;0 \\\\ &amp; \\Rightarrow(x-3)(3 x+1)&gt;0 \\Rightarrow(x-3)\\left(x+\\frac{1}{3}\\right)&gt;0\\\\ &amp;\\therefore x&gt;3 \\text { or } x&lt;-\\frac{1}{3} \\end{aligned}\\)\u003C/span\u003E",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4168,
+          "full_name": "চট্টগ্রাম বিশ্ববিদ্যালয়'১৮",
+          "short_name": "চট্টগ্রাম বিশ্ববিদ্যালয়'১৮",
+          "slug": "cttgram-biswbidzaly18",
+          "pivot": {
+            "question_bank_id": 792277,
+            "tag_id": 4168,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792276,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(S=\\{x: x&lt;-1,1&lt;x&lt;2\\}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(S=\\{x:-1&lt;x&lt;1, x&gt;2\\}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(S=\\{x:-1&lt;x&lt;2\\}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(S=\\{x: x&lt;1, x&gt;2\\}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E&nbsp;x এর কোন মানের জন্য &nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\left(x^2-1\\right)(x-2)&gt;0\\ ?[/math]\u003C/span\u003E&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(x-2&gt;0 \\therefore x&gt;2\\)\u003C/span\u003E\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\begin{aligned}&amp; \\left(x^2-1\\right)&lt;0 \\Rightarrow x^2&lt;1 \\\\&amp; \\Rightarrow|x|&lt;1 \\Rightarrow-1&lt;x&lt;1 \\\\&amp; S=\\{x:-1&lt;x&lt;1, x&gt;2\\}\\end{aligned}\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4070,
+          "full_name": "রাজশাহী বিশ্ববিদ্যালয়'১৭",
+          "short_name": "রাজশাহী বিশ্ববিদ্যালয়'১৭",
+          "slug": "rajsahee-biswbidzaly17",
+          "pivot": {
+            "question_bank_id": 792276,
+            "tag_id": 4070,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792275,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(-7&lt;x&lt;-1\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(7&lt;x&lt;-9\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(-7&lt;x&lt;9\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(7&lt;x&lt;9\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\frac{1}{(x-7)(x-9)}&lt;0[/math]\u003C/span\u003E&nbsp;অসমতাটির সমাধান নিচের কোনটি?\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{1}{(x-7)(x-9)}&lt;0\\\\\\Rightarrow(x-7)(x-9)&lt;0\\\\ \\therefore 7&lt;x&lt;9\\)\u003C/span\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4063,
+          "full_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৯",
+          "short_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৯",
+          "slug": "jahangoeerngr-biswbidzaly19",
+          "pivot": {
+            "question_bank_id": 792275,
+            "tag_id": 4063,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792265,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(0,5\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(1,5\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(2,5\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(-1,-5\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003Eবাস্তব সংখ্যার&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]S=\\{0,1,2,3,4,5\\}[/math]\u003C/span\u003E উপসেটটির গরিষ্ঠ নিম্নসীমা ও লঘিষ্ঠ ঊর্ধ্বসীমা কোনগুলো হবে?\u003C/div\u003E",
+        "solution": "গরিষ্ঠ নিম্নসীমা = 0; লঘিষ্ঠ ঊর্ধ্বসীমা = 5",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4150,
+          "full_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২০",
+          "short_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২০",
+          "slug": "jahangoeerngr-biswbidzaly20",
+          "pivot": {
+            "question_bank_id": 792265,
+            "tag_id": 4150,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792273,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\( -5\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(-3\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(3\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(5\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003Eবাস্তব সংখ্যার উপসেট&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]S = {x: 5x² - 16x + 3≤0}[/math]\u003C/span\u003E এর লঘিষ্ঠ উর্ধ্বসীমা কোনটি?\u003C/div\u003E",
+        "solution": "এখানে, \u003Cspan class=\"math-tex\"\u003E\\(5 x^2-16 x+3 \\leq 0\\)\u003C/span\u003E\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\begin{aligned}&amp; \\Rightarrow 5 x^2-15 x-x+3 \\leq 0\\\\ &amp;\\Rightarrow 5 x(x-3)-(x-3) \\leq 0 \\\\&amp; \\Rightarrow(x-3)(5 x-1) \\leq 0\\\\ &amp;\\Rightarrow(x-3)\\left(x-\\frac{1}{5}\\right) \\leq 0\\\\ &amp;\\therefore \\frac{1}{5} \\leq x \\leq 3\\end{aligned}\\)\u003C/span\u003E\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\therefore \\)\u003C/span\u003Eলঘিষ্ট উর্ধ্বসীমা\u003Cspan class=\"math-tex\"\u003E\\((\\operatorname{supS})=3\\)\u003C/span\u003E এবং গরিষ্ঠ নিম্নসীমা\u003Cspan class=\"math-tex\"\u003E\\((\\inf S)=\\frac{1}{5}\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5197,
+          "full_name": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়'১৮,KUET'৪,জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৫",
+          "short_name": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়'১৮,KUET'৪,জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৫",
+          "slug": "banglades-krrishi-biswbidzaly18kuet4jahangoeerngr-biswbidzaly15",
+          "pivot": {
+            "question_bank_id": 792273,
+            "tag_id": 5197,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792272,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(\\{1,-2,3\\}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(\\{0,1,3\\}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(\\{0, \\sqrt{6},-\\sqrt{6}\\}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\( \\{0,1+\\sqrt{6}, 1-\\sqrt{6}\\}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math](x-1)(x+2)(x-3)=6[/math]\u003C/span\u003E&nbsp;সমীকরণের সমাধান সেট হবে\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\((x-1)(x+2)(x-3)=6\\\\\\Rightarrow\\left(\\mathrm{x}^2+\\mathrm{x}-2\\right)(\\mathrm{x}-3)=6\\\\ \\Rightarrow \\mathrm{x}^3-3 \\mathrm{x}^2+\\mathrm{x}^2-3 \\mathrm{x}-2 \\mathrm{x}+6=6\\\\\\Rightarrow \\mathrm{x}^3-2 \\mathrm{x}^2-5 \\mathrm{x}=0\\\\ \\Rightarrow \\mathrm{x}\\left(\\mathrm{x}^2-2 \\mathrm{x}-5\\right)=0\\\\\\Rightarrow x=0, x=\\frac{2 \\pm \\sqrt{4+20}}{2}=\\frac{2 \\pm 2 \\sqrt{6}}{2}=1 \\pm \\sqrt{6}\\)\u003C/span\u003E\u003Cbr /\u003Eসমাধান সেট,\u003Cspan class=\"math-tex\"\u003E\\(\\{0,1+\\sqrt{6}, 1-\\sqrt{6}\\}\\)\u003C/span\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5196,
+          "full_name": "শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৪",
+          "short_name": "শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৪",
+          "slug": "sahjalal-bijngan-oo-przukti-biswbidzaly14",
+          "pivot": {
+            "question_bank_id": 792272,
+            "tag_id": 5196,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792271,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\( 4\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(3\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(5\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(2\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]A = {x∈R:x-2|≤3}[/math]\u003C/span\u003Eএর ক্ষুদ্রতম ঊর্ধ্বসীমা কত?\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(|x-2| \\leq 3 \\Rightarrow-3 \\leq x-2 \\leq 3\\)\u003C/span\u003E\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\Rightarrow-3+2 \\leq x \\leq 3+2 \\Rightarrow-1 \\leq x \\leq 5 \\Rightarrow[-1,5]\\)\u003C/span\u003E\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\therefore\\)\u003C/span\u003E ক্ষুদ্রতম উর্ধ্বসীমা =5",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4189,
+          "full_name": "বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর'১৭",
+          "short_name": "বেগম রোকেয়া বিশ্ববিদ্যালয়, রংপুর'১৭",
+          "slug": "begm-rokeya-biswbidzaly-rngpur17",
+          "pivot": {
+            "question_bank_id": 792271,
+            "tag_id": 4189,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792270,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\((-\\infty, 1)\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\((1,2)\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\([1,2]\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\( [2, \\infty)\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003Eঅসমতা&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]x^2-3 x+2 \\leq 0[/math]\u003C/span\u003E&nbsp; এর সমাধান হচ্ছে-&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\mathrm{x}^2-3 \\mathrm{x}+2 \\leq 0\\\\ \\Rightarrow \\mathrm{x}^2-2 \\mathrm{x}-\\mathrm{x}+2 \\leq 0\\\\\\Rightarrow(x-1)(x-2) \\leq 0\\\\ \\Rightarrow 1 \\leq x \\leq 2 \\Rightarrow[1,2]\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4220,
+          "full_name": "চট্টগ্রাম বিশ্ববিদ্যালয়'১৭",
+          "short_name": "চট্টগ্রাম বিশ্ববিদ্যালয়'১৭",
+          "slug": "cttgram-biswbidzaly17",
+          "pivot": {
+            "question_bank_id": 792270,
+            "tag_id": 4220,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792269,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\( 3\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(4\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(6\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(18\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]S=\\left\\{x \\in N: 9 \\leq x^2 \\leq 36\\right\\}[/math]\u003C/span\u003Eহলে,&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\sup S[/math]\u003C/span\u003E&nbsp; কোনটি?\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(S=\\left\\{x \\in N: 9 \\leq x^2 \\leq 36\\right\\}\\)\u003C/span\u003E\u003Cbr /\u003Eএখানে,\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(​​​​​​​ 9 \\leq x^2 \\leq 36 \\Rightarrow 3 \\leq x \\leq 6\\\\\\therefore S=\\{3,4,5,6\\} \\quad\\\\ \\therefore Sup S=6\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4068,
+          "full_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৭",
+          "short_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৭",
+          "slug": "jahangoeerngr-biswbidzaly17",
+          "pivot": {
+            "question_bank_id": 792269,
+            "tag_id": 4068,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792268,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(x&lt;-1\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(x&gt;1\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(0 \\leq x&lt;2\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(-1&lt;x&lt;0, x&gt;2\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003Eঅসমতা&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\frac{x(x+1)}{x-2}&gt;0[/math]\u003C/span\u003E &nbsp;এর সমাধান সেট হলো-&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{x(x+1)}{x-2}&gt;0 \\ldots \\ldots (i)\\)\u003C/span\u003E\u003Cbr /\u003E(i) নং অসমতাটি সত্য হবে যদি এবং কেবল যদি\u003Cspan class=\"math-tex\"\u003E\\(\\mathrm{x},(\\mathrm{x}+1) \\)\u003C/span\u003E এবং\u003Cspan class=\"math-tex\"\u003E\\((\\mathrm{x}-2) \\)\u003C/span\u003E এই তিনটির মধ্যে তিনটির চিহ্ন ধনাত্মক অথবা তিনটির মধ্যে দুইটির চিহ্ন ঋণাত্মক এবং একটির চিহ্ন ধনাত্মক হয়।\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\t\u003Ctbody\u003E\t\t\u003Ctr\u003E\t\t\t\u003Ctd\u003Eশর্ত\u003C/td\u003E\t\t\t\u003Ctd\u003Ex এর চিহ্ন\u003C/td\u003E\t\t\t\u003Ctd\u003E(x+1) এর চিহ্ন\u003C/td\u003E\t\t\t\u003Ctd\u003E(x-2) এর চিহ্ন\u003C/td\u003E\t\t\u003C/tr\u003E\t\t\u003Ctr\u003E\t\t\t\u003Ctd\u003E\u003Cspan class=\"math-tex\"\u003E\\(x&lt;-1\\)\u003C/span\u003E\u003C/td\u003E\t\t\t\u003Ctd\u003E-\u003C/td\u003E\t\t\t\u003Ctd\u003E-\u003C/td\u003E\t\t\t\u003Ctd\u003E-\u003C/td\u003E\t\t\u003C/tr\u003E\t\t\u003Ctr\u003E\t\t\t\u003Ctd\u003E\u003Cspan class=\"math-tex\"\u003E\\(-1&lt;x&lt;0 \\)\u003C/span\u003E\u003C/td\u003E\t\t\t\u003Ctd\u003E-\u003C/td\u003E\t\t\t\u003Ctd\u003E+\u003C/td\u003E\t\t\t\u003Ctd\u003E-\u003C/td\u003E\t\t\u003C/tr\u003E\t\t\u003Ctr\u003E\t\t\t\u003Ctd\u003E\u003Cspan class=\"math-tex\"\u003E\\(0&lt;x&lt;2\\)\u003C/span\u003E\u003C/td\u003E\t\t\t\u003Ctd\u003E+\u003C/td\u003E\t\t\t\u003Ctd\u003E+\u003C/td\u003E\t\t\t\u003Ctd\u003E-\u003C/td\u003E\t\t\u003C/tr\u003E\t\t\u003Ctr\u003E\t\t\t\u003Ctd\u003E\u003Cspan class=\"math-tex\"\u003E\\(x&gt;2\\)\u003C/span\u003E\u003C/td\u003E\t\t\t\u003Ctd\u003E+\u003C/td\u003E\t\t\t\u003Ctd\u003E+\u003C/td\u003E\t\t\t\u003Ctd\u003E+\u003C/td\u003E\t\t\u003C/tr\u003E\t\u003C/tbody\u003E\u003C/table\u003E\u003Cbr /\u003E(i) নং সত্য হবে যদি \u003Cspan class=\"math-tex\"\u003E\\(-1&lt;x&lt;0 \\)\u003C/span\u003Eঅথবা \u003Cspan class=\"math-tex\"\u003E\\(x&gt;2 \\)\u003C/span\u003Eহয়।\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\therefore \\)\u003C/span\u003Eনির্ণেয় সমাধান সেট,\u003Cspan class=\"math-tex\"\u003E\\(S=\\{x \\in R:-1&lt;x&lt;0\\} \\cup\\{x \\in R: x&gt;2\\}\\)\u003C/span\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4156,
+          "full_name": "ঢাকা বিশ্ববিদ্যালয়'২০",
+          "short_name": "ঢাকা বিশ্ববিদ্যালয়'২০",
+          "slug": "dhaka-biswbidzaly20",
+          "pivot": {
+            "question_bank_id": 792268,
+            "tag_id": 4156,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792267,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(0,1\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(-2,-1\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{3}{2}, \\frac{5}{3}\\)\u003C/span\u003E",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "\u003Cdiv\u003Eবাস্তব সংখ্যার&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]S=\\left\\{\\frac{1}{n}: n \\in N\\right\\}[/math]\u003C/span\u003E&nbsp; উপসেটটির গরিষ্ঠ নিম্নসীমা ও লঘিষ্ঠ ঊর্ধ্বসীমা কোনগুলো হবে?\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(S=\\left\\{\\frac{1}{n}: n \\in N\\right\\}=\\left\\{1, \\frac{1}{2}, \\frac{1}{3}, \\frac{1}{4}, \\ldots\\right\\}\\)\u003C/span\u003E\u003Cbr /\u003Eএখানে, S সেটটি নিম্নসীমিত এবং এর নিম্নসীমাগুলোর সেট\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\{\\mathrm{x} \\in \\mathrm{R}: \\mathrm{x} \\leq 0\\}\\)\u003C/span\u003E\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\therefore \\mathrm{S} \\)\u003C/span\u003Eএর গরিষ্ঠ নিম্নসীমা = 0\u003Cbr /\u003Eআবার, S সেটটি উর্ধ্বসীমিত এবং উর্ধ্বসীমাগুলোর সেট\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(​​​​​​​\\{x \\in R: x \\geq 1\\}\\)\u003C/span\u003E\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\therefore \\mathrm{S}\\)\u003C/span\u003E এর লঘিষ্ট উর্ধ্বসীমা =1",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5195,
+          "full_name": "GST গুচ্ছভুক্ত বিশ্ববিদ্যালয়'২০,জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২০",
+          "short_name": "GST গুচ্ছভুক্ত বিশ্ববিদ্যালয়'২০,জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২০",
+          "slug": "gst-gucchvukt-biswbidzaly20jahangoeerngr-biswbidzaly20",
+          "pivot": {
+            "question_bank_id": 792267,
+            "tag_id": 5195,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792266,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\( -\\frac{2}{3} \\leq \\mathrm{x} \\leq \\frac{1}{3}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(​​​​​​​x&gt;1\\)\u003C/span\u003E অথবা&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(x&lt;-2\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\( -1 \\leq x \\leq 3\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\( -1&lt;x&lt;3\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003Eবাস্তব সংখ্যায় &nbsp;\u003Cspan class=\"math-tex\"\u003E[math](x-1)(x+2)&gt;0[/math]\u003C/span\u003E &nbsp;অসমতাটির সমাধান\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(x-1&gt;0 \\)\u003C/span\u003Eঅথবা\u003Cspan class=\"math-tex\"\u003E\\(x+2&lt;0\\)\u003C/span\u003E\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\Rightarrow x&gt;1\\)\u003C/span\u003E অথবা\u003Cspan class=\"math-tex\"\u003E\\(x&lt;-2\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4078,
+      "created_at": "2025-12-09T05:46:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4086,
+          "full_name": "চট্টগ্রাম বিশ্ববিদ্যালয়'২২",
+          "short_name": "চট্টগ্রাম বিশ্ববিদ্যালয়'২২",
+          "slug": "cttgram-biswbidzaly22",
+          "pivot": {
+            "question_bank_id": 792266,
+            "tag_id": 4086,
+            "year": null,
+            "created_at": "2025-12-09T05:46:35.000000Z",
+            "updated_at": "2025-12-09T05:46:35.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4078&grade=1&lesson=15349&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4078&grade=1&lesson=15349&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4078&grade=1&lesson=15349&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 18,
+  "total": 18
+}

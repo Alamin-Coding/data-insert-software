@@ -1,0 +1,1049 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 792863,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E25, 15\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E10,25\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E15, 20\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E10,20\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eদুইটি বিপরীতমুখী সমান্তরাল বলের লব্ধি 10 dyne। লব্ধি তাদের একটি হতে 3 cm এবং অপরটি হতে 5cm দূরে ক্রিয়া করে। বলদ্বয়ের মান কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792874,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ei ও ii&nbsp;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ei ও iii&nbsp;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eii ও iii&nbsp;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ei, ii ও iii&nbsp;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E2.1 মিটার ব্যবধানে দুইটি বিন্দুতে 20N ও ৪N মানের দুইটি সমান্তরাল বল কার্যরত থাকলে -\u003Cbr\u003E\ni. বলদ্বয় সদৃশ হলে লব্ধির মান 28N\u003Cbr\u003E\nii, বলদ্বয় অসদৃশ হলে লব্ধির মান 12N\u003Cbr\u003E\niii. বলদ্বয় সদৃশ হলে লব্ধির ক্রিয়াবিন্দু বৃহত্তম বল থেকে 0.6 মিটার ভিতরে অবস্থিত\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792873,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ei ও ii&nbsp;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ei ও iii&nbsp;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eii ও iii&nbsp;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ei, ii ও iii&nbsp;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eদুইটি সমান্তরাল বল 18 N এবং 12 N যথাক্রমে A ও B বিন্দুতে ক্রিয়ারত এবং তাদের লব্ধি বিন্দুতে ক্রিয়াশীল। AB = 15 মি\u003Cbr\u003E\ni. যদি বলদ্বয় অসদৃশ হয় তাহলে লব্ধির মান 6N\u003Cbr\u003E\nii. বলদ্বয় সদৃশ হলে BC = 9 মিটার\u003Cbr\u003E\niii. বলদ্বয় অসূদশ হলে AC = 30 মিটার\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3860,
+          "full_name": "কু. বো.'২০২১",
+          "short_name": "কু. বো.'২০২১",
+          "slug": "ku-bo2021",
+          "pivot": {
+            "question_bank_id": 792873,
+            "tag_id": 3860,
+            "year": null,
+            "created_at": "2025-12-09T09:57:31.000000Z",
+            "updated_at": "2025-12-09T09:57:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792872,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ei ও ii\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ei ও iii\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eii ও iii\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ei, ii ও iii\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E4 একক দূরত্বে P ও Q বিন্দুতে ক্রিয়ারত 3 ও 6 একক সমান্তরাল বলদ্বয়-\u003Cbr\u003E\ni. সদৃশ হলে লব্ধি 9 একক\u003Cbr\u003E\nii. অসদৃশ হলে লব্ধি ও একক\u003Cbr\u003E\niii. অসদৃশ এবং লব্ধি R বিন্দুগামী হলে QR = 4\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3880,
+          "full_name": "চ. বো.'২০২১",
+          "short_name": "চ. বো.'২০২১",
+          "slug": "c-bo2021",
+          "pivot": {
+            "question_bank_id": 792872,
+            "tag_id": 3880,
+            "year": null,
+            "created_at": "2025-12-09T09:57:31.000000Z",
+            "updated_at": "2025-12-09T09:57:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792871,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003EP : Q : R = sinA : sinB : sinC\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003EP : Q : R = tanA : tanB : tanC\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003EP : Q : R sin2A : sin2B : sin2C\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003EP : Q : R =1 : 1 : 1\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E[math]\\triangle ABC[/math]\u003C/span\u003E&nbsp;এর কৌণিক বিন্দু A, B&nbsp;ও C&nbsp;তে যথাক্রমে P, Q এবং R&nbsp;মানের তিনটি সদৃশ সমান্তরাল বল&nbsp;ক্রিয়াশীল। লম্বি ত্রিভুজের&nbsp;ভরকেন্দ্রগামী হলে-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3878,
+          "full_name": "ব. বো.'২০২১",
+          "short_name": "ব. বো.'২০২১",
+          "slug": "b-bo2021",
+          "pivot": {
+            "question_bank_id": 792871,
+            "tag_id": 3878,
+            "year": null,
+            "created_at": "2025-12-09T09:57:31.000000Z",
+            "updated_at": "2025-12-09T09:57:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792870,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ei ও ii\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ei ও iii\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eii ও iii\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ei, ii ও iii\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003EP ও Q দুইটি সদৃশ সমান্তরাল বলের ক্ষেত্রে-\u003Cbr\u003E\ni. লব্ধি বল, R = P + Q\u003Cbr\u003E\nii. যদি P = Q তাহলে&nbsp;লব্ধিটি বলদ্বয়ের সংযোজক সরলরেখার মধ্যবিন্দুতে কার্যরত থাকবে\u003Cbr\u003E\niii. যদি P &gt; Q হয় তাহলে লব্ধিটি P বলের নিকটে কার্যরত হবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4109,
+          "full_name": "নটর ডেম কলেজ, ঢাকা",
+          "short_name": "নটর ডেম কলেজ, ঢাকা",
+          "slug": "ntr-dem-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 792870,
+            "tag_id": 4109,
+            "year": null,
+            "created_at": "2025-12-09T09:57:31.000000Z",
+            "updated_at": "2025-12-09T09:57:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792869,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003EP &gt; Q\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003EQ &gt; P\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003EP = Q\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003EQ &gt; P\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003EP ও Q দুইটি সদৃশ সমান্তরাল বল। বলদ্বয়ের ক্রিয়ারেখার অবস্থান বদল করলে ও তাদের লব্ধির ক্রিয়ারেখার অবস্থান বদল না করলে উক্ত বলদ্বয়ের ক্ষেত্রে কোনটি সত্য?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792868,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E16 cm\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E15 cm\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E14 cm\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E13 cm\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E39 সে.মি ব্যবধানে দুইটি বিন্দুতে 10 kg ও 5 kg ওজনের দুইটি সদৃশ সমান্তরাল ক্রিয়ারত বল দুইটির ক্রিয়া বিন্দু বিনিময় করলে লব্ধি বলের ক্রিয়া বিন্দু কত দূরে যাবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792867,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E15 kg\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E20 kg\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E30 kg\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E40 kg\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E30 মিটার লম্বা AB রডের A প্রান্তে 20&nbsp;kg ওজন এবং B প্রান্তে P kg&nbsp;ওজন ঝুলানো আছে। তাদের লব্ধি C বিন্দুতে ক্রিয়াশীল। AC এর&nbsp;দৈর্ঘ্য 20 মিটার হলে P এর মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792866,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E5 মিটার\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E10 মিটার\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E15 মিটার\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E30 মিটার\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E10N এবং 5N দুইটি সদৃশ সমান্তরাল বল 15 মিটার লম্বা একটি হালকা দণ্ডের দুই প্রান্তে কার্যকর হলে ক্ষুদ্রতর বল থেকে লব্ধি কত দূরে ক্রিয়া করবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792865,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E7:6\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E7:4\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E6:7\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E4:7\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eদুইটি অসদৃশ সমান্তরাল বল 42N ও 24N যথাক্রমে A ও B বিন্দুতে কার্যরত। তাদের লব্ধি বর্ধিত BA এর C বিন্দুতে ক্রিয়া করলে AC ও BC এর অনুপাত কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792864,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E25 kg\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E25.25 kg\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E26 kg\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E26.25 kg\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E2m লম্বা এবং 5kg ওজনের একটি সুষম দণ্ড একটি টেবিলের ওপর এমনভাবে অবস্থিত যে এর এক প্রান্ত টেবিলটি থেকে 16cm বাইরে অবস্থিত। দন্ডটির ঐ প্রান্তে সর্বোচ্চ কত ওজন ঝুলানো যাবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792852,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E1\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E3\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E6\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E9\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E12 মিটার দীর্ঘ একটি সূক্ষ্ম হালকা রডের দুই বিপরীত প্রান্তে 3W এবং W ওজন দুটি ক্রিয়া করছে। W ওজন থেকে এদের লব্ধির ক্রিয়াবিন্দুর দূরত্ব কত মিটার?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 792852,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-09T09:57:31.000000Z",
+            "updated_at": "2025-12-09T09:57:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792862,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E5 m\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E10 m\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E15 m\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E20 m\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003EA ও B বিন্দুতে ক্রিয়ারত 45N ও 15N বিসদৃশ সমান্তরাল বলের লব্ধি C বিন্দুতে ক্রিয়া করে। AC = 5m হলে AB = কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3872,
+          "full_name": "ম. বো.'২০২২",
+          "short_name": "ম. বো.'২০২২",
+          "slug": "m-bo2022",
+          "pivot": {
+            "question_bank_id": 792862,
+            "tag_id": 3872,
+            "year": null,
+            "created_at": "2025-12-09T09:57:31.000000Z",
+            "updated_at": "2025-12-09T09:57:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792861,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E2\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E8\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E12\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E18\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E10N ও 6N দুইটি সমমুখী সমান্তরাল বল একটি ওজনহীন দণ্ডের এক প্রান্ত থেকে যথাক্রমে 2 সে.মি. এবং 18 সে.মি. দূরত্বে ক্রিয়া করে। লব্ধির ক্রিয়াবিন্দু দণ্ডটির প্রান্ত বিন্দু থেকে কত দূর ক্রিয়া করবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792860,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E3 m\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E4 m\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E9 m\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E12 m\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E3N ও 4N দুটি সদৃশ সমান্তরাল বল 21m লম্বা একটি হালকা দণ্ডের দুই প্রান্তে ক্রিয়া করলে বৃহত্তম বল হতে লব্ধি কত দূরে ক্রিয়া করে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792859,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E35 কেজি\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E45 কেজি\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E55 কেজি\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E65 কেজি\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E4 মিটার দীর্ঘ এবং 15 কেজি ওজনের একটি সুষম তক্তা দুইটি খুঁটির উপর আনুভূমিকভাবে স্থির আছে। একটি খুঁটি A প্রান্ত এবং অন্যটি B প্রান্ত হতে 0.5 মিটার ভিতরে অবস্থিত। একটি বালক তক্তাটিকে না উল্টিয়ে এর উপর দিয়ে B প্রান্তে পৌঁছতে সক্ষম হলে বালকটির ওজন। কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792858,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E5 মিটার\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E7 মিটার\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E21 মিটার\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E15 মিটার\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E36 মিটার দৈর্ঘ্যের AB দণ্ডের A প্রান্তে 5P এবং B প্রান্তে 7P নিউটন মানের দুইটি সদৃশ সমান্তরাল বল ক্রিয়ারত। এদের লব্ধি C বিন্দুতে ক্রিয়াশীল হলে AC এর দৈর্ঘ্য কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792857,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E30 kg\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E40 kg\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E45 kg\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E48 kg\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003EAB একটি দন্ডের A ও B প্রান্তে যথাক্রমে 10 এবং 6 কেজি ওজন স্থাপন করলে তা C বিন্দুতে আনুভূমিকভাবে স্থির থাকে। যদি A প্রান্তে 75 কেজি ওজন রাখা হয় তবে B প্রান্তে কত ওজন দিলে দন্ডটি পূর্বের ন্যায় স্থির থাকবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792856,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E35cm\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E40cm\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E48cm\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E52cm\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E32cm ব্যবধানে দুইটি বিন্দুতে 15 কেজি ও ৭ কেজি ওজনের দুইটি বিসদৃশ সমান্তরাল বল কার্যরত আছে। বৃহত্তর বল থেকে এদের লব্ধির প্রয়োগবিন্দুর দূরত্ব-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 792856,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-09T09:57:31.000000Z",
+            "updated_at": "2025-12-09T09:57:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792855,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E1 একক\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E2 একক\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E3 একক\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E4 একক\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E8 ও 6 একক মানের দুইটি সমমুখী সমান্তরাল বল 21 একক দূরত্বে একটি অনড় বস্তুর উপর ক্রিয়ারত। বলদ্বয় অবস্থান বিনিময় করলে লব্ধির ক্রিয়াবিন্দু কত একক দূরত্বে সরে যাবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3888,
+          "full_name": "দি. বো.'২০২২",
+          "short_name": "দি. বো.'২০২২",
+          "slug": "di-bo2022",
+          "pivot": {
+            "question_bank_id": 792855,
+            "tag_id": 3888,
+            "year": null,
+            "created_at": "2025-12-09T09:57:31.000000Z",
+            "updated_at": "2025-12-09T09:57:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792854,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E50 সে.মি.\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E75 সে.মি.\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E25 সে.মি\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E15 সে.মি.\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকই আনুভূমিক রেখায় 10 কেজি ও 5 কেজি ওজনের দুটি বিসদৃশ সমান্তরাল বল দুটি বিন্দুতে ক্রিয়ারত আছে। বৃহত্তর বল থেকে এদের লব্ধির প্রয়োগ বিন্দুর দূরত্ব 25 সে.মি. হলে বল দুটির মধ্যবর্তী দূরত্ব কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 792854,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-09T09:57:31.000000Z",
+            "updated_at": "2025-12-09T09:57:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792853,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E3:7\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E4:7\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E7:3\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E7:4\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eকোনো জড় বস্তুর উপর A ও B বিন্দুতে যথাক্রমে 42N এবং 24N মানের দুইটি অসদৃশ সমান্তরাল বল ক্রিয়ারত আছে। যদি তাদের লম্বির ক্রিয়াবিন্দু BA এর বর্ধিতাংশকে C বিন্দুতে ছেদ করে তবে AB: BC = কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3880,
+          "full_name": "চ. বো.'২০২১",
+          "short_name": "চ. বো.'২০২১",
+          "slug": "c-bo2021",
+          "pivot": {
+            "question_bank_id": 792853,
+            "tag_id": 3880,
+            "year": null,
+            "created_at": "2025-12-09T09:57:31.000000Z",
+            "updated_at": "2025-12-09T09:57:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4085&grade=1&lesson=15380&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4085&grade=1&lesson=15380&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4085&grade=1&lesson=15380&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 23,
+  "total": 23
+}

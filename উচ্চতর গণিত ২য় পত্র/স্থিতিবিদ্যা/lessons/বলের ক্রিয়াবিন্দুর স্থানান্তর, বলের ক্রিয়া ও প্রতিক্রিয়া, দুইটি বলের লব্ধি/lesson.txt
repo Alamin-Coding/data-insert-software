@@ -1,0 +1,1559 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 792816,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E7N বলের ক্রিয়ারেখার সাথে লম্ব বরাবর\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E1N বলের ক্রিয়ারেখার সমান্তরাল বরাবর\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E5N বলের ক্রিয়ারেখার সমান্তরাল বরাবর\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E5N বলের ক্রিয়ারেখা বরাবর\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E5N ও 7N মানের দুটি বল পরস্পর বিপরীত দিকে ক্রিয়াশীল। এদের লব্ধি কোন দিকে ক্রিয়া করবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3839,
+          "full_name": "ঢা. বো.'২০২১",
+          "short_name": "ঢা. বো.'২০২১",
+          "slug": "dha-bo2021",
+          "pivot": {
+            "question_bank_id": 792816,
+            "tag_id": 3839,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792831,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(2 \\tan^{-1} 10\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(2 \\tan^{-1} 5\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\tan^{-1} 5\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(2 \\tan^{-1} 2\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eযদি 12 এবং 8 একক মানের বলদ্বয় একটি বিন্দুতে এমন কোণে ক্রিয়াশীল যেন তাদের লব্ধি তাদের অন্তর্গত কোণের সমদ্বিখণ্ডকের সাথে 45° কোণ উৎপন্ন করে, তবে বলদ্বয়ের মধ্যবর্তী কোণের মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3873,
+          "full_name": "ঢা. বো.'২০২২",
+          "short_name": "ঢা. বো.'২০২২",
+          "slug": "dha-bo2022",
+          "pivot": {
+            "question_bank_id": 792831,
+            "tag_id": 3873,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792830,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E7N\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E13N\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt{119} N\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E17 N\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eদুটি বলের লব্ধি 12N যা ক্ষুদ্রতর 5N বলের উপর লম্ব। বৃহত্তর বলটি হলো-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 792830,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792829,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(5\\sqrt{3}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(3\\sqrt{5}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(2\\sqrt{7}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(7\\sqrt{7}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eদুইটি বল সমকোণে ক্রিয়া করলে লব্ধির মান \u003Cspan class=\"math-tex\"\u003E[math]2\\sqrt{13}[/math]\u003C/span\u003E একক এবং এদের বৃহত্তম লব্ধির মান 10&nbsp;একক। বল দুটি 120° কোণে ক্রিয়া&nbsp;করলে লব্ধির মান কত একক?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792828,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\( \\sqrt{39} N\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(2 \\sqrt{19} N\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt{79} N\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(2 \\sqrt{39} N\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eপরস্পর 60° কোণে ক্রিয়াশীল দুইটি বলের বৃহত্তম লব্ধি 10N এবং ক্ষুদ্রতম লব্ধি 4N হলে, তাদের লব্ধির মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 792828,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792827,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E2&radic;6 N\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E2&radic;3 N\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E18 N\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E3&radic;/2 N\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E√6N মানের দুইটি সমান বল 60° কোণে এক বিন্দুতে ক্রিয়াশীল হলে, তাদের লব্ধির মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3912,
+          "full_name": "কু. বো.'২০২২",
+          "short_name": "কু. বো.'২০২২",
+          "slug": "ku-bo2022",
+          "pivot": {
+            "question_bank_id": 792827,
+            "tag_id": 3912,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792826,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003EP\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E2P\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E3P\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E4P\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E120° কোণে ক্রিয়ারত P মানের সমান দুইটি বলের লব্ধির মান-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3865,
+          "full_name": "ম. বো.'২০২১",
+          "short_name": "ম. বো.'২০২১",
+          "slug": "m-bo2021",
+          "pivot": {
+            "question_bank_id": 792826,
+            "tag_id": 3865,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792825,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E3N\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E4N\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E5N\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E6N\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E3N এবং 4N মানের বল দুইটি পরস্পর লম্বভাবে ক্রিয়াশীল হলে লম্বির মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 792825,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792824,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(5\\sqrt{2}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(6\\sqrt{5}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E10\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(5\\sqrt{3}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003EP এবং \u003Cspan class=\"math-tex\"\u003E[math]10\\sqrt2[/math]\u003C/span\u003E এককের সমবিন্দু দুইটি বলের লব্ধি P বলের উপর লম্ব এবং লব্ধির মান P বলের এক-তৃতীয়াংশ। P এর মান কত একক?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 792824,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792823,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E60&deg;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E30&deg;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E120&deg;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E150&deg;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003EP, Q যখন P = 1, Q = 2 দুইটি সমবিন্দু বলের লব্ধি R এবং P এর দিকে R এর লম্বাংশ। বলদ্বয়ের মধ্যবর্তী কোণ কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792822,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E2N\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E4N\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E5N\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E6N\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E120° কোণে ক্রিয়াশীল দুইটি সমবিন্দু বলের লব্ধি ক্ষুদ্রতর বলটির সাথে সমকোণ উৎপন্ন করে। বৃহত্তর বলটি 10N হলে ক্ষুদ্রতর বলটির মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792821,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(8\\sqrt{2} N\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(4\\sqrt{2} N\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(32\\sqrt{2} N\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(8N\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003EP ও Q মানের দুটি বল পরস্পর 45° কোণে কোনো একটি বিন্দুতে&nbsp;ক্রিয়ারত। এদের লব্ধি 16N, P বলের সাথে 30° কোণ উৎপন্ন করে।&nbsp;Q বলের মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3867,
+          "full_name": "দি. বো.'২০২১",
+          "short_name": "দি. বো.'২০২১",
+          "slug": "di-bo2021",
+          "pivot": {
+            "question_bank_id": 792821,
+            "tag_id": 3867,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792820,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E5N\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E2N\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E7N\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E3N\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকই বিন্দুতে ক্রিয়ারত দুটি বলের ক্ষুদ্রতম লব্ধি 1N এবং বল দুটি লম্বভাবে ক্রিয়াশীল হলে লব্ধির মান 5N, বলদ্বয় দ্বারা বৃহত্তম লব্ধির&nbsp;মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3868,
+          "full_name": "য. বো.'২০২১",
+          "short_name": "য. বো.'২০২১",
+          "slug": "z-bo2021",
+          "pivot": {
+            "question_bank_id": 792820,
+            "tag_id": 3868,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792819,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E120&deg;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E90&deg;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E60&deg;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E45&deg;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eকোনো বিন্দুতে ক্রিয়াশীল P এবং Q বলের লব্ধি R।&nbsp; P = Q=R হলে, P, Q বলের অন্তর্গত কোণ কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 792819,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792818,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E&radic;3 একক\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E3 একক\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E2&radic;3 একক\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E4&radic;3 একক\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E√3 একক মানের দুটি সমান বল 120° কোণে এক বিন্দুতে ক্রিয়াশীল হলে তাদের লব্ধির মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5256,
+          "full_name": "য. বো.'২০১৯;সি. বো.'২০১৭",
+          "short_name": "য. বো.'২০১৯;সি. বো.'২০১৭",
+          "slug": "z-bo2019si-bo2017",
+          "pivot": {
+            "question_bank_id": 792818,
+            "tag_id": 5256,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792817,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-\\alpha\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-{\\alpha \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\({\\alpha \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(\\alpha\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eদুইটি সমান বল P, \u003Cspan class=\"math-tex\"\u003E[math]\\alpha[/math]\u003C/span\u003E কোণে ক্রিয়ারত এবং R লব্ধি হলে, লব্ধি ও বলদ্বয়ের মধ্যবর্তী কোণ কত হবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792800,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E30&deg;&nbsp;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E60&deg;&nbsp;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E45&deg;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E0&deg;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E2P ও P মানের দুটি বল একটি বস্তুর উপর ক্রিয়ারত আছে। প্রথমটিকে দ্বিগুণ করে দ্বিতীয়টিকে 8 একক বৃদ্ধি করলে নতুন লব্ধি পূর্বের লব্ধির সাথে কত ডিগ্রি কোণ তৈরি করবে যখন P = 8?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792815,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E30&deg;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E60&deg;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E90&deg;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E120&deg;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E6N ও 8N বল দুটির মধ্যবর্তী কোণ কত হলে, লক্ষ্মি \u003Cspan class=\"math-tex\"\u003E[math]2\\sqrt{13}\\space N[/math]\u003C/span\u003E হবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3872,
+          "full_name": "ম. বো.'২০২২",
+          "short_name": "ম. বো.'২০২২",
+          "slug": "m-bo2022",
+          "pivot": {
+            "question_bank_id": 792815,
+            "tag_id": 3872,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792814,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E30&deg;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E60&deg;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E90&deg;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E120&deg;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E5p এবং 4p মানের দুইটি বল একটি কণার উপর \u003Cspan class=\"math-tex\"\u003E[math]\\alpha[/math]\u003C/span\u003E কোণে ক্রিয়া করে। তাদের লব্ধি &nbsp; \u003Cspan class=\"math-tex\"\u003E[math]\\sqrt{21}p[/math]\u003C/span\u003E হলে&nbsp;&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\alpha[/math]\u003C/span\u003E এর মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 792814,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792813,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E31 N\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E7N\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E&radic;31 N\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E&radic;7 N\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eকোনো বিন্দুতে 4N ও √3 N দুইটি বল পরস্পর 30° কোণে কার্যরত। এদের লব্ধি-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 792813,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792812,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(1:\\sqrt3\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt3:1\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\sqrt3 }{2} : 1\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\({1 \\over 2} \\sqrt3\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eকোনো বিন্দুতে ক্রিয়ারত P ও Q বল দুটি তাদের লব্ধি R বলের উভয় দিকে যথাক্রমে 30° ও 60° কোণে আনত। বলদ্বয়ের অনুপাত কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5255,
+          "full_name": "ব. বো.'২০২৩;ব. বো.'২০২১",
+          "short_name": "ব. বো.'২০২৩;ব. বো.'২০২১",
+          "slug": "b-bo2023b-bo2021",
+          "pivot": {
+            "question_bank_id": 792812,
+            "tag_id": 5255,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792811,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt{3}N \\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(3N\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(8N\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(8\\sqrt{3}N\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি বিন্দুতে 120° কোণে ক্রিয়াশীল দুইটি বলের বৃহত্তর বলটির মান 16N এবং ক্ষুদ্রতর বলটি এদের লব্ধির সাথে সমকোণ উৎপন্ন করে। ক্ষুদ্রতর বলটির মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792810,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E5 N\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(5\\sqrt5\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E15 N\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eপরস্পর বিপরীতমুখী ক্রিয়াশীল 5N ও 10 N মানের বলদ্বয়ের লব্ধি কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3860,
+          "full_name": "কু. বো.'২০২১",
+          "short_name": "কু. বো.'২০২১",
+          "slug": "ku-bo2021",
+          "pivot": {
+            "question_bank_id": 792810,
+            "tag_id": 3860,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792809,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E45&deg;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E60&deg;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E120&deg;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E135&deg;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eকোনো বিন্দুতে ক্রিয়ারত P ও √2 P বলদ্বয়ের লব্ধি R, P বলের উপর লম্ব হলে তাদের অন্তর্গত কোণ কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3804,
+          "full_name": "সি. বো.'২০২১",
+          "short_name": "সি. বো.'২০২১",
+          "slug": "si-bo2021",
+          "pivot": {
+            "question_bank_id": 792809,
+            "tag_id": 3804,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792808,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(10\\sqrt{5} \\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(10\\sqrt{3} \\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(5\\sqrt{11}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(5\\sqrt{15}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকই বিন্দুতে ক্রিয়ারত P ও 30 N বলদ্বয়ের লব্ধি 25N, যা P বলের ক্রিয়ারেখার উপর লম্ব। P এর মান কত N?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3860,
+          "full_name": "কু. বো.'২০২১",
+          "short_name": "কু. বো.'২০২১",
+          "slug": "ku-bo2021",
+          "pivot": {
+            "question_bank_id": 792808,
+            "tag_id": 3860,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792807,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E1N\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E2N\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E5N\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E7N\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকই বিন্দুতে ক্রিয়ারত দুটি বলের বৃহত্তম লব্ধি 7N এবং বল দুটি লম্বভাবে ক্রিয়াশীল হলে লব্ধির মান 5N। ক্ষুদ্রতম লম্বির মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792806,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E0&deg;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E90&deg;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E135&deg;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E180&deg;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eদুইটি সমান বলের লব্ধির বর্গ তাদের গুণফলের দ্বিগুণ হলে বলদ্বয়ের অন্তর্গত কোণ কত?&nbsp;\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 792806,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792805,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E1.732\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E3\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E4\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E1\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003EP ও 1N একটি বিন্দুতে 30° কোণে ক্রিয়াশীল। তাদের লব্ধি √7N হলে P এর মান কত নিউটন?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792804,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E7/5\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E2/3\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E3/2\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E5/7\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eদুটি বলের অনুপাত 2: 1.5 এবং তারা পরস্পর লম্বভাবে ক্রিয়াশীল। এদের লব্ধি বলদ্বয়ের সমষ্টির কতগুণ?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792803,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E4N\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E7N\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E18N\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E20N\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E7N ও 11N বল দুইটির লব্ধি বল নিচের কোনটি হতে পারে না?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 792803,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792802,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E180&deg;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E90&deg;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E-180&deg;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E0&deg;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eদুটি বলের লব্ধি বৃহত্তম হলে, তাদের মধ্যবর্তী কোণ কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5254,
+          "full_name": "রা. বো.'২০২২;চ. বো.'২০১৭",
+          "short_name": "রা. বো.'২০২২;চ. বো.'২০১৭",
+          "slug": "ra-bo2022c-bo2017",
+          "pivot": {
+            "question_bank_id": 792802,
+            "tag_id": 5254,
+            "year": null,
+            "created_at": "2025-12-09T09:56:41.000000Z",
+            "updated_at": "2025-12-09T09:56:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792801,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(3P, \\tan^{-1} {\\sqrt 3 \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(3P, \\tan^{-1} {2 \\over \\sqrt 3}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt{7}P, \\tan^{-1} {\\sqrt 3 \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E&nbsp;&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt7P, \\tan^{-1} {2 \\over \\sqrt 3}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eকোন সমবাহু ত্রিভুজের যেকোনো শীর্ষ হতে দুই বাহু বরাবর বিপরীতদিকে ক্রিয়ারত P ও 2P মানের বলদ্বয়ের লব্ধির মান ও P বলের সাপেক্ষে লব্ধির দিক নিচের কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:56:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4085&grade=1&lesson=15377&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4085&grade=1&lesson=15377&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4085&grade=1&lesson=15377&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 32,
+  "total": 32
+}

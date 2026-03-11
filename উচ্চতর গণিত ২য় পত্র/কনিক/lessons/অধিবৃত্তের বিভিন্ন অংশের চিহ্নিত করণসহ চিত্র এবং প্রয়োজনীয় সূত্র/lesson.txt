@@ -1,0 +1,201 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 792689,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ex = &radic;3 (y - 1)\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ex = &radic;3 (y + 1)\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex = &radic;3 (x - 1)\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ex = &radic;3 (x + 1)\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E3x\u003Csup\u003E2\u003C/sup\u003E - 2y\u003Csup\u003E2\u003C/sup\u003E = 6 অধিবৃত্তের (2,√3) বিন্দুতে স্পর্শকের সমীকরণ কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4083,
+      "created_at": "2025-12-09T09:24:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792690,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E2&radic;3\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E-2&radic;3\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E&plusmn;2&radic;2\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E&plusmn;3&radic;2\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ey = k - 2x সরলরেখাটি xy = 1 অধিবৃত্তকে স্পর্শ করলে k এর মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4083,
+      "created_at": "2025-12-09T09:24:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792691,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E16xy + 3 = 0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E12xy + 3 = 0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E14xy + 3 = 0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E12xy + 4 = 0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E4x\u003Csup\u003E2\u003C/sup\u003E - 2y\u003Csup\u003E2\u003C/sup\u003E&nbsp;= 1 অধিবৃত্তের অসীমতটদ্বয়কে স্থানাংকের অক্ষ ধরে অনুবন্ধী অধিবৃত্তের সমীকরণ কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4083,
+      "created_at": "2025-12-09T09:24:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792692,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E-1\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E3/4\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E1\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E4/3\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E3x\u003Csup\u003E2\u003C/sup\u003E - 4y\u003Csup\u003E2\u003C/sup\u003E = 12 অধিবৃত্তের (4,3) বিন্দুতে স্পর্শকের ঢালের মান-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4083,
+      "created_at": "2025-12-09T09:24:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 792692,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-09T09:24:20.000000Z",
+            "updated_at": "2025-12-09T09:24:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4083&grade=1&lesson=15372&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4083&grade=1&lesson=15372&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4083&grade=1&lesson=15372&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 4,
+  "total": 4
+}

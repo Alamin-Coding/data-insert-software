@@ -1,0 +1,367 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 792613,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Eদিকাক্ষ\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eনাভিলম্ব\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eব্যাসার্ধ\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eজ্যা\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eউপকেন্দ্রে অক্ষের উপর অঙ্কিত লম্বকে কী বলে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4083,
+      "created_at": "2025-12-09T09:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792614,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(e \\rightarrow \\infty\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(e \\rightarrow 0\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(e \\rightarrow 1\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(e = 1\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eকোন শর্তে কোনো কণিক জোড় সরলরেখা হবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4083,
+      "created_at": "2025-12-09T09:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792615,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Eকোণ\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eঘনক\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eসিলিন্ডার\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eকোণক\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eকোনটি থেকে কণিকের উৎপত্তি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4083,
+      "created_at": "2025-12-09T09:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792616,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ea=b এবং h=0&nbsp;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eab - h\u003Csup\u003E2\u003C/sup\u003E = 0&nbsp;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eab - h\u003Csup\u003E2\u003C/sup\u003E &gt; 0&nbsp;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eab - h\u003Csup\u003E2\u003C/sup\u003E &lt; 0&nbsp;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eax\u003Csup\u003E2\u003C/sup\u003E + 2hxy + by\u003Csup\u003E2\u003C/sup\u003E + 2gx + 2fy + c = 0 দ্বিমাত্রিক সমীকরণটি একটি অধিবৃত্ত হলে-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4083,
+      "created_at": "2025-12-09T09:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792617,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Eউপবৃত্ত\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eবৃত্ত\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eপরাবৃত্ত\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eঅধিবৃত্ত\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E[math]{x^2 \\over a^2} + {y^2 \\over b^2} = 1[/math]\u003C/span\u003E&nbsp;কণিকটির উৎকেন্দ্রিকতা শূন্য হলে বক্ররেখাটির নাম-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4083,
+      "created_at": "2025-12-09T09:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3865,
+          "full_name": "ম. বো.'২০২১",
+          "short_name": "ম. বো.'২০২১",
+          "slug": "m-bo2021",
+          "pivot": {
+            "question_bank_id": 792617,
+            "tag_id": 3865,
+            "year": null,
+            "created_at": "2025-12-09T09:19:40.000000Z",
+            "updated_at": "2025-12-09T09:19:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792618,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ea=b এবং h=0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eab - h\u003Csup\u003E2\u003C/sup\u003E = 0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eab - h\u003Csup\u003E2\u003C/sup\u003E &gt; 0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eab - h\u003Csup\u003E2\u003C/sup\u003E &lt; 0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eax\u003Csup\u003E2\u003C/sup\u003E + 2hxy + by\u003Csup\u003E2\u003C/sup\u003E + 2gx + 2fy + c = 0 দ্বিমাত্রিক সমীকরণটি একটি&nbsp;পরাবৃত্ত নির্দেশ করে যখন-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4083,
+      "created_at": "2025-12-09T09:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792619,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Eনিরক্ষরেখা\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eকারিকা রেখা\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eঘূর্ণায়মান অক্ষ\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eদিকাক্ষ রেখা\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eবৃত্তীয় কোণকের ঘূর্ণায়মান রেখাকে কী বলা হয়?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4083,
+      "created_at": "2025-12-09T09:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792620,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ee = 0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ee = 1\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E0 &lt; e &lt; 1\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ee &gt; 1\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eঅধিবৃত্তের ক্ষেত্রে নিচের কোনটি সঠিক?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4083,
+      "created_at": "2025-12-09T09:19:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 792620,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-09T09:19:40.000000Z",
+            "updated_at": "2025-12-09T09:19:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4083&grade=1&lesson=15362&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4083&grade=1&lesson=15362&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4083&grade=1&lesson=15362&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 8,
+  "total": 8
+}

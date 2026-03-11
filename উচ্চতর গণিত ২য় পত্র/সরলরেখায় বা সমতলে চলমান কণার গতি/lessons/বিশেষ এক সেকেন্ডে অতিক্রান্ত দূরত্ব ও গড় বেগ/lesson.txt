@@ -1,0 +1,1043 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 792920,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E2/3\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E2\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E1\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E1/2\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি বুলেট কোনো দেওয়ালের ভিতর 2 ইঞ্চি ঢুকবার পর উহার অর্ধেক বেগ হারায়। বুলেটটি দেওয়ালের ভিতর আরো কত ইঞ্চি ঢুকবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4112,
+          "full_name": "আদমজী ক্যান্টনমেন্ট কলেজ, ঢাকা",
+          "short_name": "আদমজী ক্যান্টনমেন্ট কলেজ, ঢাকা",
+          "slug": "admjee-kzantnment-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 792920,
+            "tag_id": 4112,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792930,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E2 m/sec\u003Csup\u003E2\u003C/sup\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E3 m/sec\u003Csup\u003E2\u003C/sup\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E4 m/sec\u003Csup\u003E2\u003C/sup\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E5 m/sec\u003Csup\u003E2\u003C/sup\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eদুটি ট্রেন একই পথে বিপরীত দিক থেকে একই 60 m/sec গতিবেগে পরস্পরের দিকে অগ্রসর হচ্ছে। 1200 m দূরত্বে একে অপরকে দেখতে পেল। মন্দনের সর্বনিম্ন মান নির্ণয় কর যাতে সংঘর্ষ এড়ানো যেতে পারে।\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792929,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E36 m\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E38 m\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E42 m\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E150 m\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E20 m/s বেগে ও 4 m/s\u003Csup\u003E2\u003C/sup\u003E সমত্বরণে চলমান বস্তুকণার 5-তম সেকেন্ডে অতিক্রান্ত দূরত্ব-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3854,
+          "full_name": "চ. বো.'২০২২",
+          "short_name": "চ. বো.'২০২২",
+          "slug": "c-bo2022",
+          "pivot": {
+            "question_bank_id": 792929,
+            "tag_id": 3854,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792928,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E18 m\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E22 m\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E50 m\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E100 m\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eকোনো বস্তু কণা স্থির অবস্থা হতে&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]4m \\over s^2[/math]\u003C/span\u003E সমত্বরণে যাত্রা করলে পঞ্চম সেকেন্ড অতিক্রান্ত দূরত্ব কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 792928,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792927,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E6 m/sec\u003Csup\u003E2\u003C/sup\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E12 m/sec\u003Csup\u003E2\u003C/sup\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E18 m/sec\u003Csup\u003E2\u003C/sup\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E24 m/sec\u003Csup\u003E2\u003C/sup\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eযদি s= t\u003Csup\u003E3\u003C/sup\u003E + 3t\u003Csup\u003E2\u003C/sup\u003E + 6 হয়, তবে 2sec পরে এর ত্বরণ কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3857,
+          "full_name": "রা. বো.'২০২২",
+          "short_name": "রা. বো.'২০২২",
+          "slug": "ra-bo2022",
+          "pivot": {
+            "question_bank_id": 792927,
+            "tag_id": 3857,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792926,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E- 75 মি./সে.\u003Csup\u003E2\u003C/sup\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E75 মি./সে.\u003Csup\u003E2\u003C/sup\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E- 3/4&nbsp;মি./সে.\u003Csup\u003E2\u003C/sup\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E3/4&nbsp;মি./সে.\u003Csup\u003E2\u003C/sup\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি কণা সমত্বরণে 5 মি./সে. আদিবেগে 50 সে.মি. পথ অতিক্রম করে 10 মি./সে. গতিবেগ অর্জন করে। কণাটির ত্বরণ কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 792926,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792925,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E৭ মিটার\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E11 মিটার\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E18 মিটার\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E22 মিটার\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eস্থিরাবস্থা হতে সমত্বরণে চলমান একটি কণা 4 সেকেন্ডে 16 মিটার দূরত্ব অতিক্রম করে। মে সেকেন্ডে কণাটি কত দূরত্ব অতিক্রম করবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3912,
+          "full_name": "কু. বো.'২০২২",
+          "short_name": "কু. বো.'২০২২",
+          "slug": "ku-bo2022",
+          "pivot": {
+            "question_bank_id": 792925,
+            "tag_id": 3912,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792924,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E100 m\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E150 m\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E200 m\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E250 m\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eসরল পথে স্থিরাবস্থা হতে সমত্বরণে চলমান একটি বস্তুকণা 5ম সেকেন্ডে 18m পথ অতিক্রম করে। 10 সেকেন্ডে এর অতিক্রান্ত দূরত্ব-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 792924,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792923,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E2ms\u003Csup\u003E-2\u003C/sup\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E4ms\u003Csup\u003E-2\u003C/sup\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E6ms\u003Csup\u003E-2\u003C/sup\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E10ms\u003Csup\u003E-2\u003C/sup\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি বস্তু কোন সরলরেখা বরাবর চলে কোন এক সেকেন্ডে 10m যায় এবং পরবর্তী 4 সেকেন্ডে 60m যায়। এর ত্বরণ কত হবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792922,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E14/6 km/h\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E2/3 km/h\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E2 km/h\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E2.3 km/h\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএক ব্যক্তি ঘণ্টায় 3km বেগে উত্তর দিকে 12km হাঁটার পর পশ্চিম দিকে 150 মিনিটে 5km পথ হাঁটলো। ব্যক্তিটির গড়বেগ কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4112,
+          "full_name": "আদমজী ক্যান্টনমেন্ট কলেজ, ঢাকা",
+          "short_name": "আদমজী ক্যান্টনমেন্ট কলেজ, ঢাকা",
+          "slug": "admjee-kzantnment-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 792922,
+            "tag_id": 4112,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792921,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E3 মি./সে.\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E60&nbsp;মি./সে.\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E3/50&nbsp;মি./সে.\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E50/3&nbsp;মি./সে.\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি গাড়ি স্থিরাবস্থা থেকে সমত্বরণে চলে 2 মিনিটে 1 কিলোমিটার দূরত্ব অতিক্রম করে। গাড়িটির বেগ কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4036,
+          "full_name": "জয়পুরহাট গার্লস ক্যাডেট কলেজ",
+          "short_name": "জয়পুরহাট গার্লস ক্যাডেট কলেজ",
+          "slug": "jypurhat-garls-kzadet-klej",
+          "pivot": {
+            "question_bank_id": 792921,
+            "tag_id": 4036,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792910,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E37.75 m/s\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E30.75 m/s\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E29.75 m/s\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E28.75 m/s\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি গাড়ী 15 m/s আদিবেগে এবং 4 ms\u003Csup\u003E-2\u003C/sup\u003E সমত্বরণে চলে 150 m দূরে অবস্থিত একটি খুঁটিকে অতিক্রম করে। খুঁটিটি অতিক্রমের মুহূর্তে গাড়িটির বেগ কত ছিল? চলতে শুরু করলে 1 মিনিট পর তার বেগ কত হবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792919,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E7টি\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E8টি\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E9টি\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E10টি\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি বুলেট একটি তক্তা ভেদ করে 1/16 অংশ বেগ হারায়, বুলেট থামার পূর্বে পরপর স্থাপিত এরূপ কতটি তক্তা ভেদ করতে পারবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792918,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E3/8&nbsp;ইঞ্চি\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E3/4&nbsp;ইঞ্চি\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E6/5&nbsp;ইঞ্চি\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E12/5&nbsp;ইঞ্চি\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি বুলেট কোনো দেয়ালের ভিতর 3 ইঞ্চি ভেদ করতে এর বেগের 1/3 অংশ হারায়। বুলেটটি দেয়ালের ভিতর আর কতদূর ঢুকবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 792918,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792917,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E24/5\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E30\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E50\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E60\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি কণার একাদশ ও পঞ্চদশ সেকেন্ডে অতিক্রান্ত দূরত্ব যথাক্রমে 720 সে.মি. ও 960 সে.মি. হলে ত্বরণ কত সে.মি./সে.\u003Csup\u003E2\u003C/sup\u003E?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792916,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E20\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E21\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E24\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E30\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি বিড়াল 21 মিটার দূরে একটি ইঁদুর দেখে তাকে ধরার জন্য স্থিরাবস্থা থেকে 2 মি./সে.\u003Csup\u003E2\u003C/sup\u003E সমত্বরণে দৌড়াতে লাগল। যদি ইঁদুরটি 20 মি./সে. সমবেগে দৌড়াতে থাকে, তবে কত সেকেন্ড পরে বিড়ালটি ইঁদুরটিকে ধরতে পারবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4102,
+          "full_name": "হলিক্রস কলেজ, ঢাকা",
+          "short_name": "হলিক্রস কলেজ, ঢাকা",
+          "slug": "hlikrs-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 792916,
+            "tag_id": 4102,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792915,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E12.5 মি\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E14.5 মি\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E16.5 মি\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E18.5 মি\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি ট্রেন 30 মি./সে. বেগে চলা অবস্থায় ব্রেক করে 5 মি./সে.\u003Csup\u003E2\u003C/sup\u003E মন্দন সৃষ্টি করা হলো। চতুর্থ সেকেন্ডে এটি কত দূরত্ব অতিক্রম করবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3888,
+          "full_name": "দি. বো.'২০২২",
+          "short_name": "দি. বো.'২০২২",
+          "slug": "di-bo2022",
+          "pivot": {
+            "question_bank_id": 792915,
+            "tag_id": 3888,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792914,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E4000 মিটার/সে\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E800&nbsp; মিটার/সে\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E400 মিটার/সে\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E2000 মিটার/সে\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি চলন্ত ট্রেনকে ব্রেক করে 10 সেকেন্ডে থামিয়ে দেওয়া হল। ট্রেনটির গড় মন্দন 80 মিটার/সে. হলে, এর গড়বেগ কত ছিল?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4103,
+          "full_name": "ঢাকা কলেজ",
+          "short_name": "ঢাকা কলেজ",
+          "slug": "dhaka-klej",
+          "pivot": {
+            "question_bank_id": 792914,
+            "tag_id": 4103,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792913,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E20 m/s\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E25 m/s\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E30 m/s\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E35 m/s\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি মটর সাইকেল 15m/s আদিবেগে এবং 2mm/s² সমত্বরণে চলে 100m দূরে অবস্থিত একটি ল্যাম্প পোস্টকে অতিক্রম করে। ল্যাম্প পোস্টটি অতিক্রমের মুহূর্তে মটর সাইকেলের বেগ কত ছিল?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792912,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E120 m/sec\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E90 m/sec\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E45 m/sec\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E30 m/sec\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eসরলরেখায় গতিশীল একটি কণা 2m/sec\u003Csup\u003E2\u003C/sup\u003E সমত্বরণে 30 সেকেন্ড যাবৎ&nbsp;চলে গড়বেগ 60 m/sec হলে তার আদিবেগ-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 792912,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792911,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E3 cm/sec\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E60 cm/sec\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E120 cm/sec\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E180 cm/sec\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি কণা স্থিরাবস্থা হতে 3 cm/sec\u003Csup\u003E2\u003C/sup\u003E ত্বরণে চলতে শুরু করলে 1 মিনিট পর তার বেগ কত হবে?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4086,
+      "created_at": "2025-12-09T10:01:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3857,
+          "full_name": "রা. বো.'২০২২",
+          "short_name": "রা. বো.'২০২২",
+          "slug": "ra-bo2022",
+          "pivot": {
+            "question_bank_id": 792911,
+            "tag_id": 3857,
+            "year": null,
+            "created_at": "2025-12-09T10:01:11.000000Z",
+            "updated_at": "2025-12-09T10:01:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4086&grade=1&lesson=15382&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4086&grade=1&lesson=15382&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4086&grade=1&lesson=15382&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 21,
+  "total": 21
+}

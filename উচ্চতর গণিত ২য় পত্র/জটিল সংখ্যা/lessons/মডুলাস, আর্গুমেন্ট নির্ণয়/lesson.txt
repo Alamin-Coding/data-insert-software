@@ -1,0 +1,2769 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 792355,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\pi}{3}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{3 \\pi}{4}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{2 \\pi}{3}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\pi}{6}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]-1+\\sqrt{3} \\mathbf{i}[/math]\u003C/span\u003E&nbsp;এর আর্গুমেন্ট কত?&nbsp;&nbsp;\u003C/div\u003E",
+        "solution": "আর্গুমেন্ট,\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(​​​​​​​\\theta=\\pi-\\tan ^{-1}(\\sqrt{3})=\\pi-\\frac{\\pi}{3}=\\frac{2 \\pi}{3}\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5223,
+          "full_name": "যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৭,জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয়'১৭",
+          "short_name": "যশোর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৭,জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয়'১৭",
+          "slug": "zsor-bijngan-oo-przukti-biswbidzaly17jateey-kbi-kajee-njrul-islam-biswbidzaly17",
+          "pivot": {
+            "question_bank_id": 792355,
+            "tag_id": 5223,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792342,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E-1\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E-i\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E1\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ei\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ei\u003Csup\u003E5\u003C/sup\u003E + i\u003Csup\u003E6\u003C/sup\u003E + i\u003Csup\u003E7\u003C/sup\u003E + i\u003Csup\u003E8\u003C/sup\u003E + i\u003Csup\u003E9&nbsp;\u003C/sup\u003Eএর মান কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 792342,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792343,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E-i&nbsp;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E0&nbsp;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E1&nbsp;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ei&nbsp;&nbsp;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eকাল্পনিক সংখ্যা i এবং n ∈ N এর জন্য&nbsp; i\u003Csup\u003E4n\u003C/sup\u003E - i + i\u003Csup\u003E4n+1\u003C/sup\u003E -1 এর মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4106,
+          "full_name": "ঢা. বো.'২০১৮",
+          "short_name": "ঢা. বো.'২০১৮",
+          "slug": "dha-bo2018",
+          "pivot": {
+            "question_bank_id": 792343,
+            "tag_id": 4106,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792344,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(1-i\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(1+\\mathrm{i}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(2 i\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(-\\mathrm{i}+\\mathrm{i}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]\\frac{\\mathrm{i}}{1-\\frac{1}{1-\\frac{1}{\\mathrm{i}}}}[/math]\u003C/span\u003E&nbsp;এর মান-\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{i}{1-\\frac{1}{1-\\frac{1}{i}}}=\\frac{i}{1-\\frac{i}{i-1}}=\\frac{i(i-1)}{i-1-i}=\\frac{i^2-i}{-1}=\\frac{-1-i}{-1}=1+i\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5213,
+          "full_name": "ঢাকা বিশ্ববিদ্যালয়'৭",
+          "short_name": "ঢাকা বিশ্ববিদ্যালয়'৭",
+          "slug": "dhaka-biswbidzaly7",
+          "pivot": {
+            "question_bank_id": 792344,
+            "tag_id": 5213,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792345,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\( 0,0\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(-2 \\mathrm{i},-\\frac{\\pi}{2}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(2 \\mathrm{i}, \\frac{\\pi}{2}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\( -2, \\pi\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]\\frac{i-i^{-1}}{i+2 i^{-1}}[/math]\u003C/span\u003Eএর মান এবং নতি হবে যথাক্রমে-\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5214,
+          "full_name": "ঢাকা বিশ্ববিদ্যালয়'১৪,জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২২,জগন্নাথ বিশ্ববিদ্যালয়'১১,ইসলামী বিশ্ববিদ্যালয়'১৬,রাজশাহী বিশ্ববিদ্যালয়'২২",
+          "short_name": "ঢাকা বিশ্ববিদ্যালয়'১৪,জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২২,জগন্নাথ বিশ্ববিদ্যালয়'১১,ইসলামী বিশ্ববিদ্যালয়'১৬,রাজশাহী বিশ্ববিদ্যালয়'২২",
+          "slug": "dhaka-biswbidzaly14jahangoeerngr-biswbidzaly22jgnnath-biswbidzalz11islamee-biswbidzalz16rajsahee-biswbidzaly22",
+          "pivot": {
+            "question_bank_id": 792345,
+            "tag_id": 5214,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792346,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(\\pi\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(-\\pi\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\( \\frac{\\pi}{2}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(-\\frac{\\pi}{2}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\frac{(\\mathrm{i}+1)^2}{(\\mathrm{i}-1)^4}[/math]\u003C/span\u003E&nbsp;জটিল সংখ্যাটির আর্গুমেন্ট হবে-&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{(i+1)^2}{(i-1)^4}=\\frac{i^2+2 i+1}{\\left(i^2-2 i+1\\right)^2}=\\frac{2 i}{4 i^2}=\\frac{1}{2 i}=-\\frac{i}{2}\\)\u003C/span\u003E\u003Cbr /\u003Eআর্গুমেন্ট, \u003Cspan class=\"math-tex\"\u003E\\(\\theta=-\\tan ^{-1}\\left(\\frac{\\frac{1}{2}}{0}\\right)=-\\tan ^{-1} \\tan \\frac{\\pi}{2}=-\\frac{\\pi}{2}\\)\u003C/span\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5215,
+          "full_name": "ঢাকা বিশ্ববিদ্যালয়'১২,চট্টগ্রাম বিশ্ববিদ্যালয়'২২",
+          "short_name": "ঢাকা বিশ্ববিদ্যালয়'১২,চট্টগ্রাম বিশ্ববিদ্যালয়'২২",
+          "slug": "dhaka-biswbidzaly12cttgram-biswbidzaly22",
+          "pivot": {
+            "question_bank_id": 792346,
+            "tag_id": 5215,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792347,
+      "value": {
+        "options": {
+          "ক": "&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(60^{\\circ}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\( \\tan ^{-1} 3\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(30^{\\circ}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\( 45^{\\circ}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]\\frac{1+\\sqrt{3} i}{\\sqrt{3}+i}[/math]\u003C/span\u003E এর আর্গুমেন্ট কত?&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{1+\\sqrt{3} i}{\\sqrt{3}+i}\\)\u003C/span\u003E এর আর্গুমেন্ট \u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(=\\arg (1+\\sqrt{3} i)-\\arg (\\sqrt{3}+i)\\\\ =\\tan ^{-1}(\\sqrt{3})-\\tan ^{-1}\\left(\\frac{1}{\\sqrt{3}}\\right)\\\\=60^{\\circ}-30^{\\circ}=30^{\\circ}\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5216,
+          "full_name": "রাজশাহী বিশ্ববিদ্যালয়'২২",
+          "short_name": "রাজশাহী বিশ্ববিদ্যালয়'২২",
+          "slug": "rajsahee-biswbidzaly22",
+          "pivot": {
+            "question_bank_id": 792347,
+            "tag_id": 5216,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792348,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(1 \\pm \\sqrt{2}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(-1 \\pm \\sqrt{2}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(2 \\pm \\sqrt{2}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(-2 \\pm \\sqrt{2}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math](1+a i)^2[/math]\u003C/span\u003E &nbsp;জটিল রাশিটির আর্গুমেন্ট \u003Cspan class=\"math-tex\"\u003E[math]\\frac{\\pi}{4}[/math]\u003C/span\u003Eহলে, a এর মান কত?\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\((1+a i)^2=1+2 a i+a^2 i^2=1-a^2+i 2 a\\)\u003C/span\u003E\u003Cbr /\u003Eপ্রশ্নমতে ,\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(​​​​​​​\\tan ^{-1}\\left(\\frac{2 \\mathrm{a}}{1-\\mathrm{a}^2}\\right)=\\frac{\\pi}{4}\\\\ \\Rightarrow \\frac{2 \\mathrm{a}}{1-\\mathrm{a}^2}=\\tan \\frac{\\pi}{4}\\\\ \\Rightarrow \\frac{2 \\mathrm{a}}{1-\\mathrm{a}^2}=1\\\\\\begin{aligned}&amp; \\Rightarrow 2 a=1-a^2 \\Rightarrow a^2+2 a-1=0 \\Rightarrow(a+1)^2=2 \\\\&amp; \\Rightarrow a+1=\\sqrt{2} \\Rightarrow a=-1 \\pm \\sqrt{2}\\end{aligned}\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5217,
+          "full_name": "চট্টগ্রাম বিশ্ববিদ্যালয়'২২,শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৭",
+          "short_name": "চট্টগ্রাম বিশ্ববিদ্যালয়'২২,শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়'১৭",
+          "slug": "cttgram-biswbidzaly22sahjalal-bijngan-oo-przukti-biswbidzaly17",
+          "pivot": {
+            "question_bank_id": 792348,
+            "tag_id": 5217,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792349,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt{2}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(1\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\( \\sqrt{3}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(2\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]\\left(\\frac{1+2 \\sqrt{2} i}{-1+2 \\sqrt{2} i}\\right)^3[/math]\u003C/span\u003E এর মডুলাস = ?&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\left(\\frac{1+2 \\sqrt{2} i}{-1+2 \\sqrt{2} i}\\right)^3\\)\u003C/span\u003E এর মডুলাস\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(=\\left(\\frac{|1+2 \\sqrt{2} i|}{|-1+2 \\sqrt{2} i|}\\right)^3 =\\left(\\frac{\\sqrt{(2 \\sqrt{2})^2+1^2}}{\\sqrt{(2 \\sqrt{2})^2+1^2}}\\right)^3=1^3=1\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5218,
+          "full_name": "কৃষি গুচ্ছভুক্ত বিশ্ববিদ্যালয়'২২",
+          "short_name": "কৃষি গুচ্ছভুক্ত বিশ্ববিদ্যালয়'২২",
+          "slug": "krrishi-gucchvukt-biswbidzaly22",
+          "pivot": {
+            "question_bank_id": 792349,
+            "tag_id": 5218,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792350,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(1,0\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(1, \\frac{\\pi}{2}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(1, \\pi\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(1, \\frac{3 \\pi}{2}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]z=1-\\frac{1}{1-\\frac{1}{1+i}}[/math]\u003C/span\u003E &nbsp;জটিল সংখ্যাটির মডুলাস ও আর্গুমেন্ট-\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(1-\\frac{\\mathrm{i}}{1-\\frac{1}{1+i}}=1-\\frac{\\mathrm{i}}{\\frac{1+\\mathrm{i}-1}{1+\\mathrm{i}}}=1-(1+\\mathrm{i})=-\\mathrm{i}\\)\u003C/span\u003E\u003Cbr /\u003Eমডুলাস\u003Cspan class=\"math-tex\"\u003E\\(=\\sqrt{(-1)^2+0^2}=1\\)\u003C/span\u003E\u003Cbr /\u003Eআর্গুমেন্ট \u003Cspan class=\"math-tex\"\u003E\\(=\\tan ^{-1}\\left(\\frac{-1}{0}\\right)=2 \\pi-\\tan ^{-1}(\\infty)=2 \\pi-\\frac{\\pi}{2}=\\frac{3 \\pi}{2}\\)\u003C/span\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4062,
+          "full_name": "ঢাকা বিশ্ববিদ্যালয়'১৫",
+          "short_name": "ঢাকা বিশ্ববিদ্যালয়'১৫",
+          "slug": "dhaka-biswbidzaly15",
+          "pivot": {
+            "question_bank_id": 792350,
+            "tag_id": 4062,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792351,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(6\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(5 \\sqrt{2}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\( 7\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(5 \\sqrt{3}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]\\mathrm{z}_1=2+\\mathrm{i}[/math]\u003C/span\u003E&nbsp;এবং&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\mathrm{z}_2=3+\\mathrm{i}[/math]\u003C/span\u003E&nbsp; হলে&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\mathrm{z}_1 \\overline{\\mathrm{z}_2}[/math]\u003C/span\u003E&nbsp; এর মডুলাস-\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\left|z_1 \\bar{z}_2\\right|=|(2+i)(3-i)|=|7+i|=\\sqrt{7^2+1^2}=5 \\sqrt{2}\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5219,
+          "full_name": "ঢাকা বিশ্ববিদ্যালয়'১৩,BUET'২০,চট্টগ্রাম বিশ্ববিদ্যালয়'২২,জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৮,বঙ্গবন্ধু শেখ মুজিবুর রহমান বিজ্ঞান ও প্র.বি'১৯",
+          "short_name": "ঢাকা বিশ্ববিদ্যালয়'১৩,BUET'২০,চট্টগ্রাম বিশ্ববিদ্যালয়'২২,জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৮,বঙ্গবন্ধু শেখ মুজিবুর রহমান বিজ্ঞান ও প্র.বি'১৯",
+          "slug": "dhaka-biswbidzaly13buet20cttgram-biswbidzaly22jahangoeerngr-biswbidzaly18bngobndhu-sekh-mujibur-rhman-bijngan-oo-prbi19",
+          "pivot": {
+            "question_bank_id": 792351,
+            "tag_id": 5219,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792352,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\( -2 i\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(2 i\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(-2\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(2\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]i^2=-1[/math]\u003C/span\u003E&nbsp;হলে,&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\frac{i^{-1}-i}{2 i^{-1}+i}[/math]\u003C/span\u003E এর মান-&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{i^{-1}-i}{2 i^{-1}+i}=\\frac{1-i^2}{2+i^2}=\\frac{1+1}{2-1}=2\\)\u003C/span\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5220,
+          "full_name": "ঢাকা বিশ্ববিদ্যালয়'৯,চট্টগ্রাম বিশ্ববিদ্যালয়'২২",
+          "short_name": "ঢাকা বিশ্ববিদ্যালয়'৯,চট্টগ্রাম বিশ্ববিদ্যালয়'২২",
+          "slug": "dhaka-biswbidzaly9cttgram-biswbidzaly22",
+          "pivot": {
+            "question_bank_id": 792352,
+            "tag_id": 5220,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792353,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(1\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(i\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\( -i\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(-1\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math](1-i)^{-2}-(1+i)^{-2}[/math]\u003C/span\u003E&nbsp;এর মান কত?&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\begin{aligned}&amp; \\frac{1}{(1-i)^2}-\\frac{1}{(1+i)^2}=\\frac{1}{1-2 i+i^2}-\\frac{1}{1+2 i+i^2} \\\\&amp; =\\frac{1}{-2 i}-\\frac{1}{2 i}=-\\frac{2}{2 i}=\\frac{-1}{i}=\\frac{i^2}{i}=i\\end{aligned}\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5221,
+          "full_name": "রাজশাহী বিশ্ববিদ্যালয়'৯,ইসলামী বিশ্ববিদ্যালয়'৯",
+          "short_name": "রাজশাহী বিশ্ববিদ্যালয়'৯,ইসলামী বিশ্ববিদ্যালয়'৯",
+          "slug": "rajsahee-biswbidzaly9islamee-biswbidzalz9",
+          "pivot": {
+            "question_bank_id": 792353,
+            "tag_id": 5221,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792354,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\pi}{2}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(0\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(\\pi\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{2 \\pi}{3}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]\\frac{1+i}{1-i}[/math]\u003C/span\u003E&nbsp;জটিল সংখ্যাটির আর্গুমেন্ট হবে-&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{1+\\mathrm{i}}{1-\\mathrm{i}}=\\frac{(1+\\mathrm{i})^2}{1-\\mathrm{i}^2}=\\frac{1+2 \\mathrm{i}+\\mathrm{i}^2}{2}=\\mathrm{i}\\)\u003C/span\u003E\u003Cbr /\u003Eআর্গুমেন্ট\u003Cspan class=\"math-tex\"\u003E\\(=\\tan ^{-1}\\left(\\frac{1}{0}\\right)=\\frac{\\pi}{2}\\)\u003C/span\u003E",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5222,
+          "full_name": "চট্টগ্রাম বিশ্ববিদ্যালয়'৯",
+          "short_name": "চট্টগ্রাম বিশ্ববিদ্যালয়'৯",
+          "slug": "cttgram-biswbidzaly9",
+          "pivot": {
+            "question_bank_id": 792354,
+            "tag_id": 5222,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792341,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E2i\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E-2i\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ei\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ei\u003Csup\u003E15\u003C/sup\u003E + i\u003Csup\u003E-15\u003C/sup\u003E এর মান কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792356,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\pi}{4}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{2 \\pi}{3}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{5 \\pi}{4}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\pi}{3}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]-3-3i[/math]\u003C/span\u003E&nbsp;এর আর্গুমেন্ট -\u003C/div\u003E",
+        "solution": "আর্গুমেন্ট\u003Cspan class=\"math-tex\"\u003E\\(=\\pi+\\tan ^{-1} 1=\\pi+\\frac{\\pi}{4}=\\frac{5 \\pi}{4}\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4226,
+          "full_name": "ঢাবি অধিভুক্ত ৭ কলেজ'২২",
+          "short_name": "ঢাবি অধিভুক্ত ৭ কলেজ'২২",
+          "slug": "dhabi-odhivukt-7-klej22",
+          "pivot": {
+            "question_bank_id": 792356,
+            "tag_id": 4226,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792357,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(0\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(1\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt{2}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(i\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\frac{1+i}{1-i}[/math]\u003C/span\u003E&nbsp;এর পরম মান হলো-\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\left|\\frac{1+i}{1-\\mathrm{i}}\\right|=\\frac{\\sqrt{1^2+1^2}}{\\sqrt{1^2+1^2}}=1\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4203,
+          "full_name": "ঢাকা বিশ্ববিদ্যালয়'১৯",
+          "short_name": "ঢাকা বিশ্ববিদ্যালয়'১৯",
+          "slug": "dhaka-biswbidzaly19",
+          "pivot": {
+            "question_bank_id": 792357,
+            "tag_id": 4203,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792358,
+      "value": {
+        "options": {
+          "ক": "&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\pi}{4}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{3 \\pi}{4}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{5 \\pi}{4}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{7 \\pi}{4}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]-1+i[/math]\u003C/span\u003Eএর আর্গুমেন্ট কোনটি?\u003C/div\u003E",
+        "solution": "আর্গুমেন্ট \u003Cspan class=\"math-tex\"\u003E\\(=\\pi-\\tan ^{-1} 1=\\pi-\\frac{\\pi}{4}=\\frac{3 \\pi}{4}\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4069,
+          "full_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২২",
+          "short_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২২",
+          "slug": "jahangoeerngr-biswbidzaly22",
+          "pivot": {
+            "question_bank_id": 792358,
+            "tag_id": 4069,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792359,
+      "value": {
+        "options": {
+          "ক": "&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(21\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(22\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(23\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(24\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]z_1=3+2 i[/math]\u003C/span\u003E&nbsp;হলে&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]z_2=3-2 i[/math]\u003C/span\u003E হলে,&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]z_1{ }^2+z_1 z_2+z_2{ }^2[/math]\u003C/span\u003E&nbsp; এর মান কত?\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(z_1{ }^2+z_1 z_2+z_2{ }^2=\\left(z_1+z_2\\right)^2-z_1 z_2\\\\ =(3+2 \\mathrm{i}+3-2 \\mathrm{i})^2-(3+2 \\mathrm{i})(3-2 \\mathrm{i})\\\\ =6^2-\\left(3^2+2^2\\right)=36-13=23\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5224,
+          "full_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২২,ইসলামী বিশ্ববিদ্যালয়'১৭,চট্টগ্রাম বিশ্ববিদ্যালয়'১৪",
+          "short_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২২,ইসলামী বিশ্ববিদ্যালয়'১৭,চট্টগ্রাম বিশ্ববিদ্যালয়'১৪",
+          "slug": "jahangoeerngr-biswbidzaly22islamee-biswbidzalz17cttgram-biswbidzaly14",
+          "pivot": {
+            "question_bank_id": 792359,
+            "tag_id": 5224,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792360,
+      "value": {
+        "options": {
+          "ক": "&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(\\frac{-2 \\pi}{3}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\( \\frac{2 \\pi}{3}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{-\\pi}{3}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\pi}{3}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]-3-\\sqrt{27} i[/math]\u003C/span\u003E&nbsp;জটিল সংখ্যার আর্গুমেন্ট নির্ণয় কর।\u003C/div\u003E",
+        "solution": "আর্গুমেন্ট \u003Cspan class=\"math-tex\"\u003E\\(=-\\pi+\\tan ^{-1} \\frac{\\sqrt{27}}{3}\\)\u003C/span\u003E\u003Cbr /\u003E\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(=-\\pi+\\tan ^{-1} \\sqrt{3}=-\\pi+\\frac{\\pi}{3}=-\\frac{2 \\pi}{3}\\)\u003C/span\u003E",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4063,
+          "full_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৯",
+          "short_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'১৯",
+          "slug": "jahangoeerngr-biswbidzaly19",
+          "pivot": {
+            "question_bank_id": 792360,
+            "tag_id": 4063,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792361,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\( 54 \\sqrt{3}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\( 27 \\sqrt{3}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\( 36 \\sqrt{3}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(45 \\sqrt{3}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math](3 \\sqrt{3}-3 i)(-3 \\sqrt{3}+9 i)[/math]\u003C/span\u003Eএর মডুলাস = ?&nbsp;&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(|(3 \\sqrt{3}-3 \\mathrm{i})(-3 \\sqrt{3}+9 \\mathrm{i})|\\\\=\\left|\\sqrt{(3 \\sqrt{3})^2+(-3)^2} \\times \\sqrt{(-3 \\sqrt{3})^2+9^2}\\right|\\\\=|\\sqrt{27+9} \\times \\sqrt{27+81}|\\\\=|\\sqrt{36} \\times \\sqrt{108}|=36 \\sqrt{3}\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5225,
+          "full_name": "GST গুচ্ছভুক্ত বিশ্ববিদ্যালয়'২২",
+          "short_name": "GST গুচ্ছভুক্ত বিশ্ববিদ্যালয়'২২",
+          "slug": "gst-gucchvukt-biswbidzaly22",
+          "pivot": {
+            "question_bank_id": 792361,
+            "tag_id": 5225,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792362,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\( \\frac{\\pi}{6}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\pi}{4}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\pi}{3}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\( \\frac{\\pi}{2}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]i[/math]\u003C/span\u003E এর আর্গুমেন্ট-&nbsp;\u003C/div\u003E",
+        "solution": "আর্গুমেন্ট\u003Cspan class=\"math-tex\"\u003E\\(=\\tan ^{-1}\\left(\\frac{1}{0}\\right)=\\tan ^{-1}(\\infty)=\\frac{\\pi}{2}\\)\u003C/span\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4064,
+          "full_name": "ইসলামী বিশ্ববিদ্যালয়'১৭",
+          "short_name": "ইসলামী বিশ্ববিদ্যালয়'১৭",
+          "slug": "islamee-biswbidzalz17",
+          "pivot": {
+            "question_bank_id": 792362,
+            "tag_id": 4064,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792363,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{5 \\pi}{12}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\pi}{6}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(-\\frac{\\pi}{4}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(-\\frac{5 \\pi}{12}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003Eযদি&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\mathrm{z}_1=1-i, z_2=\\sqrt{3}+i[/math]\u003C/span\u003E&nbsp; হয়, তবে&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\frac{z_2}{z_1}[/math]\u003C/span\u003E&nbsp; এর &nbsp;নতি-\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{z_2}{z_1}=\\frac{\\sqrt{3}+i}{1-i} \\)\u003C/span\u003Eএর নতি\u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\begin{aligned}&amp; =\\arg (\\sqrt{3}+i)-\\arg (1-i)=\\tan ^{-1}\\left(\\frac{1}{\\sqrt{3}}\\right)-\\tan ^1\\left(\\frac{-1}{1}\\right) \\\\&amp; =\\tan ^{-1}\\left(\\frac{1}{\\sqrt{3}}\\right)+\\tan ^{-1}(1)=\\frac{\\pi}{6}+\\frac{\\pi}{4}=\\frac{5 \\pi}{12}\\end{aligned}\\)\u003C/span\u003E",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4085,
+          "full_name": "ঢাকা বিশ্ববিদ্যালয়'১৭",
+          "short_name": "ঢাকা বিশ্ববিদ্যালয়'১৭",
+          "slug": "dhaka-biswbidzaly17",
+          "pivot": {
+            "question_bank_id": 792363,
+            "tag_id": 4085,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792364,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(0\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\( -2 i\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(2 i\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(2\n\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E\u003Cspan class=\"math-tex\"\u003E[math]i^2=-1[/math]\u003C/span\u003E&nbsp;হলে,&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\frac{i+i^{-1}}{i-i^{-1}}[/math]\u003C/span\u003E&nbsp; এর মান কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5226,
+          "full_name": "ঢাকা বিশ্ববিদ্যালয়'১১,জগন্নাথ বিশ্ববিদ্যালয়'১১,বঙ্গমাতা শেখ ফজিলাতুন্নেছা মুজিব বি. ও প্র.বি'১৪",
+          "short_name": "ঢাকা বিশ্ববিদ্যালয়'১১,জগন্নাথ বিশ্ববিদ্যালয়'১১,বঙ্গমাতা শেখ ফজিলাতুন্নেছা মুজিব বি. ও প্র.বি'১৪",
+          "slug": "dhaka-biswbidzaly11jgnnath-biswbidzalz11bngomata-sekh-fjilatunnecha-mujib-bi-oo-prbi14",
+          "pivot": {
+            "question_bank_id": 792364,
+            "tag_id": 5226,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792365,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\pi}{4}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{2 \\pi}{3}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\( \\frac{5 \\pi}{4}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{\\pi}{3}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]-2-2 \\mathrm{i}[/math]\u003C/span\u003E&nbsp;জটিল সংখ্যার আর্গুমেন্ট কোনটি?\u003C/div\u003E",
+        "solution": "আর্গুমেন্ট \u003Cspan class=\"math-tex\"\u003E\\(=\\pi+\\tan ^{-1} 1=\\pi+\\frac{\\pi}{4}=\\frac{5 \\pi}{4}\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4069,
+          "full_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২২",
+          "short_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২২",
+          "slug": "jahangoeerngr-biswbidzaly22",
+          "pivot": {
+            "question_bank_id": 792365,
+            "tag_id": 4069,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792366,
+      "value": {
+        "options": {
+          "ক": "&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(-\\pi+\\cot ^{-1} \\frac{3}{4}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(-\\pi+\\tan ^{-1} \\frac{3}{4}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(-\\pi\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(\\pi\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]4 - 3i[/math]\u003C/span\u003E&nbsp;জটিল সংখ্যার আর্গুমেন্ট কোনটি?\u003C/div\u003E",
+        "solution": "আর্গুমেন্ট,\u003Cspan class=\"math-tex\"\u003E\\(\\theta=-\\pi+\\tan ^{-1} \\frac{3}{4}\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4150,
+          "full_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২০",
+          "short_name": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়'২০",
+          "slug": "jahangoeerngr-biswbidzaly20",
+          "pivot": {
+            "question_bank_id": 792366,
+            "tag_id": 4150,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792367,
+      "value": {
+        "options": {
+          "ক": "&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(8\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(2 \\sqrt{2}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(4 \\sqrt{2}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(2\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003Eযদি&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]z=3+4i[/math]\u003C/span\u003E&nbsp; হয়, তবে z এবং এর মধ্যবর্তী দূরত্ব কত একক?&nbsp;\u003C/div\u003E",
+        "solution": "\u003Cspan class=\"math-tex\"\u003E\\(\\mathrm{z}=3+4 \\mathrm{i} \\Rightarrow \\overline{\\mathrm{z}}=3-4 \\mathrm{i}\\)\u003C/span\u003E\u003Cbr /\u003Ez এর বিন্দু ((3,4) এবং \u003Cspan class=\"math-tex\"\u003E\\(\\overline{\\mathrm{z}}\\)\u003C/span\u003E এর বিন্দু =(3,-4)\u003Cbr /\u003Eদূরত্ব \u003Cspan class=\"math-tex\"\u003E\\(=\\sqrt{(3-3)^2+(4+4)^2}=8\\)\u003C/span\u003E",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5216,
+          "full_name": "রাজশাহী বিশ্ববিদ্যালয়'২২",
+          "short_name": "রাজশাহী বিশ্ববিদ্যালয়'২২",
+          "slug": "rajsahee-biswbidzaly22",
+          "pivot": {
+            "question_bank_id": 792367,
+            "tag_id": 5216,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792368,
+      "value": {
+        "options": {
+          "ক": "&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(90^{\\circ}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(270^{\\circ}\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(120^{\\circ}\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(300^{\\circ}\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]-2i[/math]\u003C/span\u003E&nbsp;জটিল সংখ্যার আর্গুমেন্ট হবে-&nbsp;\u003C/div\u003E",
+        "solution": "আর্গুমেন্ট \u003Cbr /\u003E\u003Cspan class=\"math-tex\"\u003E\\(=2 \\pi-\\tan ^{-1}\\left|\\frac{-2}{0}\\right|\\\\=2 \\pi-\\tan ^{-1} \\infty =2 \\pi-\\frac{\\pi}{2}\\\\=\\frac{3 \\pi}{2}=270^{\\circ}\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4067,
+          "full_name": "রাজশাহী বিশ্ববিদ্যালয়'১৯",
+          "short_name": "রাজশাহী বিশ্ববিদ্যালয়'১৯",
+          "slug": "rajsahee-biswbidzaly19",
+          "pivot": {
+            "question_bank_id": 792368,
+            "tag_id": 4067,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792328,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E-2\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E1/2\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E2\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ei\u003Csup\u003E2\u003C/sup\u003E = -1&nbsp;হলে&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]-i - i^{-5} \\over 2i^{-5} + i[/math]\u003C/span\u003E&nbsp;এর মান -\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3854,
+          "full_name": "চ. বো.'২০২২",
+          "short_name": "চ. বো.'২০২২",
+          "slug": "c-bo2022",
+          "pivot": {
+            "question_bank_id": 792328,
+            "tag_id": 3854,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792315,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-{\\pi \\over 3}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-{\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-{\\pi \\over 6}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\({2\\pi \\over 3}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E[math]-2\\sqrt{3} + 6i \\over -25[/math]\u003C/span\u003E এর আর্গুমেন্ট কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792316,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E1,0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(1, {\\pi \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(1,\\pi\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(1,2\\pi\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E[math]1 - {1 \\over {1 - {1 \\over 1 + i}}}[/math]\u003C/span\u003E এর মডুলাস ও আর্গুমেন্ট-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3843,
+          "full_name": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ",
+          "short_name": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ",
+          "slug": "dhaka-residensiyal-mdel-klej",
+          "pivot": {
+            "question_bank_id": 792316,
+            "tag_id": 3843,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792317,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Eবৃত্ত&nbsp;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eসরলরেখা&nbsp;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eবিন্দুবৃত্ত&nbsp;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eউপবৃত্ত&nbsp;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ez = 2x + i.3y; x ও y বাস্তব সংখ্যা হলে |z|= 1 দ্বারা কি নির্দেশিত হয়?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 792317,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792318,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E1\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E-1\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ei\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E-i\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003En ∈ N হলে, i\u003Csup\u003E8n+5\u003C/sup\u003E এর মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3931,
+          "full_name": "সি. বো.'২০২২",
+          "short_name": "সি. বো.'২০২২",
+          "slug": "si-bo2022",
+          "pivot": {
+            "question_bank_id": 792318,
+            "tag_id": 3931,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792319,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E1\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E-1\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ei\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E-i\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ei\u003Csup\u003E-51\u003C/sup\u003E এর মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792320,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E-i\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E1\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ei&nbsp;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ei\u003Csup\u003E2020\u003C/sup\u003E + i\u003Csup\u003E2021\u003C/sup\u003E + i\u003Csup\u003E2022\u003C/sup\u003E + i\u003Csup\u003E2023\u003C/sup\u003E এর মান কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 792320,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792321,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Eপ্রথম&nbsp;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eদ্বিতীয়&nbsp;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eতৃতীয়&nbsp;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eচতুর্থ&nbsp;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E5 - 3i জটিল সংখ্যাটি কোন চতুর্ভাগে অবস্থিত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3843,
+          "full_name": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ",
+          "short_name": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ",
+          "slug": "dhaka-residensiyal-mdel-klej",
+          "pivot": {
+            "question_bank_id": 792321,
+            "tag_id": 3843,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792322,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(2, {\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt2, {\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt2, {\\pi \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(2, {\\pi \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E1 + i জটিল সংখ্যার মডুলাস ও আর্গুমেন্ট কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 792322,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792323,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\({\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E&nbsp;&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(-{\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\({3\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\({5\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E- 1+ i এর আর্গুমেন্ট কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5212,
+          "full_name": "ব. বো.'২০২২;য. বো.'২০১৯",
+          "short_name": "ব. বো.'২০২২;য. বো.'২০১৯",
+          "slug": "b-bo2022z-bo2019",
+          "pivot": {
+            "question_bank_id": 792323,
+            "tag_id": 5212,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792324,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-{3\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(-{\\pi \\over4}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E&nbsp;&nbsp;\u003Cspan class=\"math-tex\"\u003E\\({\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\({3\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E[math]z = (1-i)^3[/math]\u003C/span\u003E&nbsp; হলে arg(z) হবে-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 792324,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792325,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-{3\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-{\\pi \\over 4}\\)\u003C/span\u003E&nbsp;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\({\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\({3\\pi \\over 4}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E[math]z = {1 \\over 1 + i}[/math]\u003C/span\u003E এর আর্গুমেন্ট কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 792325,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792326,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E1\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E2\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E3\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ez = x + iy এবং |2z - 1| = |z - 2| হলে x\u003Csup\u003E2\u003C/sup\u003E + y\u003Csup\u003E2\u003C/sup\u003E = কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792327,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E1&nbsp;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E-1&nbsp;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ei&nbsp;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E-i&nbsp;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ei\u003Csup\u003E65\u003C/sup\u003E এর মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3872,
+          "full_name": "ম. বো.'২০২২",
+          "short_name": "ম. বো.'২০২২",
+          "slug": "m-bo2022",
+          "pivot": {
+            "question_bank_id": 792327,
+            "tag_id": 3872,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792314,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E0&nbsp;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\pi \\over 4\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\pi \\over 2\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E1\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E[math]- {1 \\over i}[/math]\u003C/span\u003E&nbsp;এর আর্গুমেন্ট কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792329,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-{2\\pi \\over 3}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(-{\\pi \\over 3}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E&nbsp;&nbsp;\u003Cspan class=\"math-tex\"\u003E\\({\\pi \\over 3}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\({2\\pi \\over 3}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E[math]-1 - \\sqrt{-3} \\over 2[/math]\u003C/span\u003E এর মুখ্য আর্গুমেন্ট কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 792329,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792330,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-{2\\pi \\over 3}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E&nbsp;&nbsp;&nbsp;&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(-{5\\pi \\over6}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E&nbsp;&nbsp;\u003Cspan class=\"math-tex\"\u003E\\({\\pi \\over 6}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\({\\pi \\over 3}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E[math]z = -i - \\sqrt3[/math]\u003C/span\u003E এর মূখ্য আর্গুমেন্ট কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792331,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-\\tan^{-1}{5 \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(\\tan^{-1}{5 \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(\\pi-\\tan^{-1}{5 \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E&nbsp;&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(\\pi+\\tan^{-1}{5 \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003EZ = 2 - 5i এর আর্গুমেন্ট কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792332,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ex\u003Csup\u003E2&nbsp;\u003C/sup\u003E- y\u003Csup\u003E2&nbsp;\u003C/sup\u003E= 3\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E - y\u003Csup\u003E2\u003C/sup\u003E = 9\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E + y\u003Csup\u003E2\u003C/sup\u003E = 3\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E + y\u003Csup\u003E2\u003C/sup\u003E = 9\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E[math]x+iy = 3e^{-3i\\theta}[/math]\u003C/span\u003E হলে, নিচের কোন সমীকরণটি সত্য?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 792332,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792333,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Eবৃত্ত\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eসরলরেখা\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eবিন্দুবৃত্ত\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eউপবৃত্ত\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ep = x + iy হলে | p - 2 | = 3 সমীকরণটি নির্দেশ করে-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 792333,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792334,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Eবৃত্ত&nbsp;\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eসরলরেখা&nbsp;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eবিন্দুবৃত্ত&nbsp;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eউপবৃত্ত&nbsp;\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ez = x + iy হলে | z + 1| = |z - 2| দ্বারা নির্দেশিত সঞ্চারপথ কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 792334,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792335,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E-2i\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E2i\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E2\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ei\u003Csup\u003E2\u003C/sup\u003E = -1&nbsp;হলে&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]i^{-1} - 1 \\over  i + 2i^{-1}[/math]\u003C/span\u003E&nbsp;এর মান -\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792336,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Eপ্রথম\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eদ্বিতীয়\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eতৃতীয়\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eচতুর্থ\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E-3 - 5i জটিল সংখ্যাটি আর্গন্ডচিত্রে যে বিন্দুকে নির্দেশ করে সেই বিন্দুটির অবস্থান কোন চতুর্ভাগে অবস্থিত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792337,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\pi \\over 2\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\pi\\)\u003C/span\u003E&nbsp;\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(3\\pi \\over 2\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ez = 2 + 3i একটি জটিল সংখ্যা হলে&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]z - \\bar z[/math]\u003C/span\u003E মুখ্য আর্গুমেন্ট কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 792337,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792338,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\pi\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-\\pi\\)\u003C/span\u003E&nbsp;\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(-{\\pi \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\({\\pi \\over 2}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E[math]{(i+1)^2} \\over (i -1)^2[/math]\u003C/span\u003E এর আর্গুমেন্ট কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 792338,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792339,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Eবৃত্ত\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eসরলরেখা\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Eবিন্দুবৃত্ত\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eউপবৃত্ত\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ez = x + iy হলে,| z | = 5 সমীকরণটি প্রকাশ করে-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3889,
+          "full_name": "য. বো.'২০২২",
+          "short_name": "য. বো.'২০২২",
+          "slug": "z-bo2022",
+          "pivot": {
+            "question_bank_id": 792339,
+            "tag_id": 3889,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792340,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E2\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E1 - i\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E1 + i\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ei\u003Csup\u003E-70\u003C/sup\u003E&nbsp;+1 এর মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4080,
+      "created_at": "2025-12-09T05:47:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3811,
+          "full_name": "য. বো.'২০১৭",
+          "short_name": "য. বো.'২০১৭",
+          "slug": "z-bo2017",
+          "pivot": {
+            "question_bank_id": 792340,
+            "tag_id": 3811,
+            "year": null,
+            "created_at": "2025-12-09T05:47:55.000000Z",
+            "updated_at": "2025-12-09T05:47:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4080&grade=1&lesson=15353&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4080&grade=1&lesson=15353&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4080&grade=1&lesson=15353&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 55,
+  "total": 55
+}

@@ -1,0 +1,371 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 792832,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E10N\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E12N\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E14N\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E16 N\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি বলের অনুভূমিক ও উল্লম্ব অংশের মান যথাক্রমে 8N এবং 6N হলে বলটির মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 792832,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-09T09:57:01.000000Z",
+            "updated_at": "2025-12-09T09:57:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792833,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt{2}P \\over \\sqrt 3\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(2P \\over \\sqrt 3\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt{3}P \\over \\sqrt 2\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt{3}P \\over 2\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003EP বলের উপাংশদ্বয় P এর সাথে 15° ও 45° কোণ উৎপন্ন করে। P বলের একটি উপাংশ কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3860,
+          "full_name": "কু. বো.'২০২১",
+          "short_name": "কু. বো.'২০২১",
+          "slug": "ku-bo2021",
+          "pivot": {
+            "question_bank_id": 792833,
+            "tag_id": 3860,
+            "year": null,
+            "created_at": "2025-12-09T09:57:01.000000Z",
+            "updated_at": "2025-12-09T09:57:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792834,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E-9\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E4\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E9\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E7N, 13N, 19N এর তিনটি বল পরস্পরের সাথে 120° কোণ উৎপন্ন করে। 7N বলের দিকে লব্ধির লম্বাংশ কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4109,
+          "full_name": "নটর ডেম কলেজ, ঢাকা",
+          "short_name": "নটর ডেম কলেজ, ঢাকা",
+          "slug": "ntr-dem-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 792834,
+            "tag_id": 4109,
+            "year": null,
+            "created_at": "2025-12-09T09:57:01.000000Z",
+            "updated_at": "2025-12-09T09:57:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792835,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(3\\sqrt{5}, 10\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(2\\sqrt{3}, \\sqrt3\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(5\\sqrt{3}, 10\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt3 , 2\\sqrt{3}\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E√3 kg ওজনের একটি বস্তুকে দুটি বল দ্বারা টেনে রাখা হয়েছে। একটি আনুভূমিক এবং অপরটি আনুভূমিকের সাথে 30° কোণে ক্রিয়ারত হলে বলদ্বয় এর ওজন কত কেজি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3868,
+          "full_name": "য. বো.'২০২১",
+          "short_name": "য. বো.'২০২১",
+          "slug": "z-bo2021",
+          "pivot": {
+            "question_bank_id": 792835,
+            "tag_id": 3868,
+            "year": null,
+            "created_at": "2025-12-09T09:57:01.000000Z",
+            "updated_at": "2025-12-09T09:57:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792836,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E5N\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E10N\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E2/3N\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E7N\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি বলের আনুভূমিক ও উলম্ব অংশের মান 4N ও 3N হলে বলটির মান-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792837,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(4\\sqrt{3}\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(5N\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(7N\\)\u003C/span\u003E\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt{3} + 2N\\)\u003C/span\u003E\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E2N ও \u003Cspan class=\"math-tex\"\u003E[math]2\\sqrt3[/math]\u003C/span\u003E মানের বলদ্বয় 30° কোণ ক্রিয়ারত। 2N মানের বল বরাবর বলদ্বয়ের লম্বাংশের সমষ্টি কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 792837,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-09T09:57:01.000000Z",
+            "updated_at": "2025-12-09T09:57:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792838,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E10\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E2\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E5\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E8\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি আনত সমতলে 10 kg ওজনের বস্তুকে সমতল বরাবর 2 kg ওজন বল এবং একটি অনুভূমিক বল প্রয়োগ করে বস্তুটিকে স্থির রাখা&nbsp;হয়েছে&nbsp;। যদি ভূমির সাথে সমতলের নতি \u003Cspan class=\"math-tex\"\u003E[math]\\sin^{-1} {3 \\over 5}[/math]\u003C/span\u003E হয়, তবে অনুভূমিক। বলটির মান কত kg?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4085,
+      "created_at": "2025-12-09T09:57:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4085&grade=1&lesson=15378&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4085&grade=1&lesson=15378&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4085&grade=1&lesson=15378&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 7,
+  "total": 7
+}

@@ -1,0 +1,1345 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 792572,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E-1/3\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E2/3\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E-2/3\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E3x\u003Csup\u003E3\u003C/sup\u003E - 2x\u003Csup\u003E2\u003C/sup\u003E + 1 = 0 সমীকরণের মূলগুলো \u003Cspan class=\"math-tex\"\u003E[math]\\alpha,\\beta[/math]\u003C/span\u003E এবং \u003Cspan class=\"math-tex\"\u003E[math]\\gamma[/math]\u003C/span\u003E হলে Σαβ = ?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 792572,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792584,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E-5\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E-4\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E4\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E5\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E4x\u003Csup\u003E3\u003C/sup\u003E + 12x\u003Csup\u003E2\u003C/sup\u003E - 3x + 52 = 0 সমীকরণের একটি মূল&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]{1\\over2} - \\sqrt3i[/math]\u003C/span\u003E হলে, এর বাস্তব মূল কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 792584,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792583,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E-4\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E-3\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E3\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E4\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ex\u003Csup\u003E3&nbsp;\u003C/sup\u003E- 3x\u003Csup\u003E2&nbsp;\u003C/sup\u003E- 16x + 48 = 0 সমীকরণের দুটি মূলের যোগফল শূন্য হলে, তৃতীয় মূল কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 792583,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792582,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E1/2\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E1/4\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E-1/4\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E-1/8\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E + 2x + 4 = 0 সমীকরণের মূলদ্বয় \u003Cspan class=\"math-tex\"\u003E[math]\\alpha[/math]\u003C/span\u003E এবং \u003Cspan class=\"math-tex\"\u003E[math]\\beta[/math]\u003C/span\u003E হলে,&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]{1 \\over \\alpha^3} + {1 \\over \\beta^3}[/math]\u003C/span\u003E&nbsp;কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4109,
+          "full_name": "নটর ডেম কলেজ, ঢাকা",
+          "short_name": "নটর ডেম কলেজ, ঢাকা",
+          "slug": "ntr-dem-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 792582,
+            "tag_id": 4109,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792581,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E&plusmn;4\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E&plusmn;8\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E&plusmn;&radic;-4\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E&plusmn;&radic;-8\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ex\u003Csup\u003E2&nbsp;\u003C/sup\u003E- 2x - 3 = 0 সমীকরণের মূলদ্বয় \u003Cspan class=\"math-tex\"\u003E[math]\\alpha,\\beta[/math]\u003C/span\u003E হলে \u003Cspan class=\"math-tex\"\u003E[math]\\alpha-\\beta =[/math]\u003C/span\u003E&nbsp;কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 792581,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792580,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E - 2x - 1 = 0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E + 2x - 1 = 0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E - 2x + 1 = 0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ex&sup2; + 2x + 1 = 0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E1+√2 মূলবিশিষ্ট দ্বিঘাত সমীকরণ কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3811,
+          "full_name": "য. বো.'২০১৭",
+          "short_name": "য. বো.'২০১৭",
+          "slug": "z-bo2017",
+          "pivot": {
+            "question_bank_id": 792580,
+            "tag_id": 3811,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792579,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ex\u003Csup\u003E2&nbsp;\u003C/sup\u003E+ 1 = 0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E - 1 = 0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E + 1= 0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E - i = 0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eএকটি দ্বিঘাত সমীকরণের একটি মূল -i হলে সমীকরণটি-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 792579,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792578,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E9x\u003Csup\u003E2\u003C/sup\u003E-12x+5=0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E5x\u003Csup\u003E2\u003C/sup\u003E-4x+1=0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E5x\u003Csup\u003E2\u003C/sup\u003E+4x+1=0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E25x\u003Csup\u003E2\u003C/sup\u003E-20x+3-0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eকোনো দ্বিঘাত সমীকরণের একটি মূল&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]1 \\over 2 + i[/math]\u003C/span\u003E হলে সমীকরণটি হবে-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3873,
+          "full_name": "ঢা. বো.'২০২২",
+          "short_name": "ঢা. বো.'২০২২",
+          "slug": "dha-bo2022",
+          "pivot": {
+            "question_bank_id": 792578,
+            "tag_id": 3873,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792577,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+2x+6=0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+x+3=0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+2x-6=0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+x-3=0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E√-5 - 1 মূলবিশিষ্ট দ্বিঘাত সমীকরণ নিচের কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3874,
+          "full_name": "ব. বো.'২০২২",
+          "short_name": "ব. বো.'২০২২",
+          "slug": "b-bo2022",
+          "pivot": {
+            "question_bank_id": 792577,
+            "tag_id": 3874,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792576,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E2x\u003Csup\u003E2\u003C/sup\u003E-3x+1=0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E2x\u003Csup\u003E2\u003C/sup\u003E-3x-1=0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E3x\u003Csup\u003E2\u003C/sup\u003E-2x+1=0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E3x\u003Csup\u003E2\u003C/sup\u003E-2x-1=0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eনিচের কোন দ্বিঘাত সমীকরণের একটি মূল&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]1 \\over 1 + \\sqrt{-2}[/math]\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3860,
+          "full_name": "কু. বো.'২০২১",
+          "short_name": "কু. বো.'২০২১",
+          "slug": "ku-bo2021",
+          "pivot": {
+            "question_bank_id": 792576,
+            "tag_id": 3860,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792575,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E-3/5\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E-2/5\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E3/5\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E5x\u003Csup\u003E3&nbsp;\u003C/sup\u003E- 3x + 2 = 0 এর মূলত্রয় \u003Cspan class=\"math-tex\"\u003E[math]\\alpha, \\beta,\\gamma[/math]\u003C/span\u003E হলে \u003Cspan class=\"math-tex\"\u003E[math]\\alpha+ \\beta+\\gamma = ?[/math]\u003C/span\u003E\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3854,
+          "full_name": "চ. বো.'২০২২",
+          "short_name": "চ. বো.'২০২২",
+          "slug": "c-bo2022",
+          "pivot": {
+            "question_bank_id": 792575,
+            "tag_id": 3854,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792574,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E-x\u003Csup\u003E3\u003C/sup\u003E + bx\u003Csup\u003E2\u003C/sup\u003E - cx + a = 0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Eax\u003Csup\u003E3&nbsp;\u003C/sup\u003E+ cx\u003Csup\u003E2\u003C/sup\u003E - bx + 1 = 0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex\u003Csup\u003E3\u003C/sup\u003E + bx\u003Csup\u003E2\u003C/sup\u003E + cx + a=0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Eax\u003Csup\u003E3\u003C/sup\u003E - cx\u003Csup\u003E2\u003C/sup\u003E + bx - 1 = 0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ex\u003Csup\u003E3\u003C/sup\u003E - bx\u003Csup\u003E2\u003C/sup\u003E + cx - a = 0 সমীকরণের মূলগুলির বিপরীত মূলগুলি দ্বারা গঠিত সমীকরণ নিচের কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 792574,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792573,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E-i\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E-1\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ei\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ex\u003Csup\u003E3&nbsp;\u003C/sup\u003E-&nbsp; x\u003Csup\u003E2\u003C/sup\u003E + x - 1= 0 সমীকরণের মূলদ্বয় i ও 1 হলে অপরটি কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792559,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E-2x+2=0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+2x-2=0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E-2x-2=0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+2x+2=0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E1-√-1 মূলবিশিষ্ট দ্বিঘাত সমীকরণটি-&nbsp;\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3865,
+          "full_name": "ম. বো.'২০২১",
+          "short_name": "ম. বো.'২০২১",
+          "slug": "m-bo2021",
+          "pivot": {
+            "question_bank_id": 792559,
+            "tag_id": 3865,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792571,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E45\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E5\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E-5\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E-45\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E9x\u003Csup\u003E3\u003C/sup\u003E + 45x\u003Csup\u003E2\u003C/sup\u003E + 60x - 27 = 0 সমীকরণের মূলত্রয়ের সমষ্টি কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3795,
+          "full_name": "ব. বো.'২০১৭",
+          "short_name": "ব. বো.'২০১৭",
+          "slug": "b-bo2017",
+          "pivot": {
+            "question_bank_id": 792571,
+            "tag_id": 3795,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792570,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E-1=0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E-8x+1=0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+1=0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+8x+1=0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E + 4x + 5 = 0 সমীকরণের মূলদ্বয় \u003Cspan class=\"math-tex\"\u003E[math]\\alpha,\\beta[/math]\u003C/span\u003E হলে \u003Cspan class=\"math-tex\"\u003E[math]\\alpha+2[/math]\u003C/span\u003E এবং \u003Cspan class=\"math-tex\"\u003E[math]\\beta+2[/math]\u003C/span\u003E মূলবিশিষ্ট সমীকরণ নিচের কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 792570,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792569,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E-2x-5=0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+2x-5-0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E-2x+5=0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+2x+5=0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E + 4x - 2 = 0 সমীকরণের মূলের চেয়ে । বেশি মূলবিশিষ্ট সমীকরণ-\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 792569,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792568,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E3x\u003Csup\u003E2\u003C/sup\u003E-17x-23 = 0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E3x\u003Csup\u003E2\u003C/sup\u003E-17x+23 = 0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E3x\u003Csup\u003E2\u003C/sup\u003E+17x+23 = 0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E17x+23-3x&sup2; = 0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E3x\u003Csup\u003E2\u003C/sup\u003E+x-1=0 সমীকরণের মূলের চেয়ে ও বেশি মূলবিশিষ্ট সমীকরণ-&nbsp;\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792567,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E8/35\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E35/8\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E20\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E215/8\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E2x\u003Csup\u003E2\u003C/sup\u003E - 5x + 3 = 0 সমীকরণের মূলদ্বয় \u003Cspan class=\"math-tex\"\u003E[math]\\alpha,\\beta[/math]\u003C/span\u003E হলে, \u003Cspan class=\"math-tex\"\u003E[math]\\sum \\alpha^3[/math]\u003C/span\u003E এর মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 792567,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792566,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ei + 1\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E-i + 1\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E1/2(-i + 1)\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E1/2(i + 1)\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Eদ্বিঘাত সমীকরণের একটি মূল \u003Cspan class=\"math-tex\"\u003E[math]1 \\over -i + 1[/math]\u003C/span\u003E হলে অপর মূলটি\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 792566,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792565,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E + 2x + 4 = 0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E- 2x + 4 = 0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E + 2x - 4 = 0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E - 2x - 4 = 0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E√-3+1 মূলবিশিষ্ট দ্বিঘাত সমীকরণ নিচের কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 792565,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792564,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E-2x-4-0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E-2x+4=0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+2x-4-0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+2x+4=0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E1- √-3 মূলবিশিষ্ট দ্বিঘাত সমীকরণ কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3889,
+          "full_name": "য. বো.'২০২২",
+          "short_name": "য. বো.'২০২২",
+          "slug": "z-bo2022",
+          "pivot": {
+            "question_bank_id": 792564,
+            "tag_id": 3889,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792563,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+4x+13=0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E-4x+13=0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+4x-13-0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E-4x-13-0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E2+3i মূলবিশিষ্ট দ্বিঘাত সমীকরণ নিচের কোনটি?&nbsp;\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3969,
+          "full_name": "রা. বো.'২০২১",
+          "short_name": "রা. বো.'২০২১",
+          "slug": "ra-bo2021",
+          "pivot": {
+            "question_bank_id": 792563,
+            "tag_id": 3969,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792562,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E-4x+3=0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+4x+3=0\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E+4x+5=0\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003Ex\u003Csup\u003E2\u003C/sup\u003E-4x+5=0\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E-i+2 মূলবিশিষ্ট সমীকরণ কোনটি?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3839,
+          "full_name": "ঢা. বো.'২০২১",
+          "short_name": "ঢা. বো.'২০২১",
+          "slug": "dha-bo2021",
+          "pivot": {
+            "question_bank_id": 792562,
+            "tag_id": 3839,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792561,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E0\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E1\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E2\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E3\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003Ex\u003Csup\u003E3\u003C/sup\u003E - 5x\u003Csup\u003E2\u003C/sup\u003E +5x - 1=0 এর একটি মূল (2 - √3) হলে, অপর মূলটি কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4055,
+          "full_name": "মির্জাপুর ক্যাডেট কলেজ, টাঙ্গাইল",
+          "short_name": "মির্জাপুর ক্যাডেট কলেজ, টাঙ্গাইল",
+          "slug": "mirjapur-kzadet-klej-tangoail",
+          "pivot": {
+            "question_bank_id": 792561,
+            "tag_id": 4055,
+            "year": null,
+            "created_at": "2025-12-09T09:11:50.000000Z",
+            "updated_at": "2025-12-09T09:11:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 792560,
+      "value": {
+        "options": {
+          "ক": "\u003Cp\u003E3\u003C/p\u003E\n",
+          "খ": "\u003Cp\u003E-3\u003C/p\u003E\n",
+          "গ": "\u003Cp\u003E-3/2\u003C/p\u003E\n",
+          "ঘ": "\u003Cp\u003E3/2\u003C/p\u003E\n"
+        },
+        "question": "\u003Cdiv\u003E\u003Cp\u003E2x\u003Csup\u003E2\u003C/sup\u003E - 5x + 3 = 0 সমীকরণের মূলত্রয় \u003Cspan class=\"math-tex\"\u003E[math]\\alpha,\\beta,\\gamma[/math]\u003C/span\u003E হলে \u003Cspan class=\"math-tex\"\u003E[math](\\alpha+\\beta)(\\beta+\\gamma)(\\gamma+\\alpha)[/math]\u003C/span\u003E এর মান কত?\u003C/p\u003E\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 187,
+      "book_grade_id": 1,
+      "content_chunk_id": 4081,
+      "created_at": "2025-12-09T09:11:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 187,
+        "title": "উচ্চতর গণিত ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=4081&grade=1&lesson=15361&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=4081&grade=1&lesson=15361&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=4081&grade=1&lesson=15361&per_page=200&question_paper_id=48484&subject=187&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 26,
+  "total": 26
+}

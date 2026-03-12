@@ -1,0 +1,695 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 742370,
+      "value": {
+        "options": [],
+        "question": "I am _____ home. (come)",
+        "solution": "coming",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742379,
+      "value": {
+        "options": [],
+        "question": "You can _____ and look. (stand)",
+        "solution": "stand",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742378,
+      "value": {
+        "options": [],
+        "question": "_____ do we dine?",
+        "solution": "When",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742377,
+      "value": {
+        "options": [],
+        "question": "Story",
+        "solution": "an account of past events in someone's life",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742376,
+      "value": {
+        "options": [],
+        "question": "I _____ some bread. (want)",
+        "solution": "want",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742375,
+      "value": {
+        "options": [],
+        "question": "Let's _____ in the pond. (swim)",
+        "solution": "swim",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742374,
+      "value": {
+        "options": [],
+        "question": "_____ can't Dog, Mouse and Duck have any bread?",
+        "solution": "Why",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742373,
+      "value": {
+        "options": [],
+        "question": "Fun",
+        "solution": "amusement",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742372,
+      "value": {
+        "options": [],
+        "question": "You _____ plants. (not plant)",
+        "solution": "didn't plant",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742371,
+      "value": {
+        "options": [],
+        "question": "He _____ happy. (be)",
+        "solution": "is",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742360,
+      "value": {
+        "options": [],
+        "question": "Group work",
+        "solution": "work done by a group of people",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742369,
+      "value": {
+        "options": [],
+        "question": "There _____ two frogs. (be)",
+        "solution": "are",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742368,
+      "value": {
+        "options": [],
+        "question": "_____ are having fun?",
+        "solution": "Who",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742367,
+      "value": {
+        "options": [],
+        "question": "Again",
+        "solution": "once more",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742366,
+      "value": {
+        "options": [],
+        "question": "Hot",
+        "solution": "a high temperature",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742365,
+      "value": {
+        "options": [],
+        "question": "We _____ and play with him. (laugh)",
+        "solution": "laugh",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742364,
+      "value": {
+        "options": [],
+        "question": "When do we _____? (dine)",
+        "solution": "dine",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742363,
+      "value": {
+        "options": [],
+        "question": "Let's _____ a stone. (throw)",
+        "solution": "throw",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742362,
+      "value": {
+        "options": [],
+        "question": "_____ are they working hard?",
+        "solution": "Where",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742361,
+      "value": {
+        "options": [],
+        "question": "_____ is the day?",
+        "solution": "How",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7312,
+      "created_at": "2025-11-27T05:35:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7312&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7312&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7312&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 20,
+  "total": 20
+}

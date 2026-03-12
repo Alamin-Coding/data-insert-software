@@ -106,16 +106,20 @@ const csvRecords = [];
 // CSV Header
 csvRecords.push('\uFEFFSubject,Chapter,Total Questions,Total Answers'); // \uFEFF for Excel UTF-8 BOM
 
-const subjects = fs.readdirSync(targetDir).filter(f => fs.statSync(path.join(targetDir, f)).isDirectory());
+const subjects = fs.readdirSync(targetDir).filter(f => !f.startsWith('.') && fs.statSync(path.join(targetDir, f)).isDirectory());
 
 console.log('Calculating counts... Please wait.');
+
+let grandTotalQ = 0;
+let grandTotalA = 0;
+let classCount = 0;
 
 for (const subject of subjects) {
     const subjectPath = path.join(targetDir, subject);
     let subjectQ = 0;
     let subjectA = 0;
     
-    const chapters = fs.readdirSync(subjectPath).filter(f => fs.statSync(path.join(subjectPath, f)).isDirectory());
+    const chapters = fs.readdirSync(subjectPath).filter(f => !f.startsWith('.') && fs.statSync(path.join(subjectPath, f)).isDirectory());
     
     for (const chapter of chapters) {
         const chapterPath = path.join(subjectPath, chapter);
@@ -131,8 +135,20 @@ for (const subject of subjects) {
     
     // Add Subject summary row (blank chapter column, or "All Chapters")
     csvRecords.push(`"${subject}","-- TOTAL --",${subjectQ},${subjectA}`);
+    csvRecords.push(`=================================================`);
     console.log(`SUBJECT TOTAL: ${subject} -> Q: ${subjectQ}, A: ${subjectA}\n`);
+    
+    grandTotalQ += subjectQ;
+    grandTotalA += subjectA;
+    classCount++;
 }
+
+csvRecords.push('');
+csvRecords.push('------------------------------------------------');
+csvRecords.push(`ALL CLASS: ${classCount}`);
+csvRecords.push(`TOTAL QUESTION: ${grandTotalQ}`);
+csvRecords.push(`TOTAL ANSWER: ${grandTotalA}`);
+csvRecords.push('------------------------------------------------');
 
 // Write to CSV
 const csvFilePath = path.join(__dirname, 'QA_Counts.csv');

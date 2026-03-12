@@ -1,0 +1,5575 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 744939,
+      "value": {
+        "options": [],
+        "question": "পাঠানেরা কীভাবে টাঙ্গা চালায়?",
+        "solution": "পাঠান মুলুকে টাঙ্গা বা গাড়ি চালাতে হয় পাঠানি কায়দায়। কেননা পথিক পাঠানরা কখনো কারও জন্য রাস্তা ছেড়ে দেয় না। তারা যে যেরকম খুশি চলে। গাড়িকেই এঁকে-বেঁকে রাস্তা করে নিতে হয়। এতে ঘোড়ার লাথি খেয়ে কারও এক খাবলা মাংস উড়ে গেলেও পাঠানরা গালাগালি, মারামারি বা পুলিশ ডাকাডাকি না করে শ্রদ্ধা ও বিরক্তি সহকারে ঘাড় বাঁকিয়ে শুধু জিজ্ঞেস করে, 'দেখতে পাস না?' গাড়ির চালক গাড়োয়ানও একজন স্বাধীন পাঠান। তাই সেও ততোধিক অবজ্ঞা প্রকাশ করে বলে, 'তোর চোখ নেই?' ব্যস, ওখানেই মিটে গেল, আর যে যার পথে চলল।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744939,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744940,
+      "value": {
+        "options": [],
+        "question": "আসব",
+        "solution": "স্যার, আমি কাল একবার আসব?",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744940,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744941,
+      "value": {
+        "options": [],
+        "question": "খেতাম",
+        "solution": "আমি রোজ সকালে দুধ খেতাম।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744941,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744942,
+      "value": {
+        "options": [],
+        "question": "করতাম",
+        "solution": "আমি প্রতিদিন বন্ধুর সঙ্গে খেলা করতাম।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744942,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744943,
+      "value": {
+        "options": [],
+        "question": "ডাকাডাকি",
+        "solution": "পাখিরা ভোর না হতেই ডাকাডাকি শুরু করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744943,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744944,
+      "value": {
+        "options": [],
+        "question": "অবজ্ঞা",
+        "solution": "গরিব বলে কাউকে অবজ্ঞা করা ঠিক নয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744944,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744945,
+      "value": {
+        "options": [],
+        "question": "আরম্ভ",
+        "solution": "শেষ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744945,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744946,
+      "value": {
+        "options": [],
+        "question": "কঠিন",
+        "solution": "সহজ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744946,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744947,
+      "value": {
+        "options": [],
+        "question": "লেখক বিছানা গুটিয়ে হোল্ডল বন্ধ করতেও পারছিলেন না কেন?",
+        "solution": "লেখক বিছানা গুটিয়ে হোল্ডল বন্ধ করতেও পারছিলেন না, কারণ তার গায়ে তখন শক্তি ছিল না। গরমে, ধুলোয়, কয়লার গুঁড়োয়, কাবাব-রুটিতে আর স্নানাভাবে তার গায়ে একরত্তি শক্তিও ছিল না। তিনি কষ্টকর দীর্ঘ ভ্রমণে প্রচণ্ড ক্লান্ত ছিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744948,
+      "value": {
+        "options": [],
+        "question": "লেখক পাঠানদের তরফ থেকে কেমন সংবর্ধনা পেয়েছিলেন? বর্ণনা দাও।",
+        "solution": "লেখক পাঠানদের তরফ থেকে গরম সংবর্ধনা পেয়েছিলেন। পাঠান শেখ আহমদ আলী লেখকের হাতটি দুহাতে লুফে নিয়ে পরম উৎসাহে দিলেন এক চাপ। তারপর হঠাৎ লেখককে দুহাতে জড়িয়ে ধরে খাস পাঠানি কায়দায় আলিঙ্গন আরম্ভ করলেন। সেই সঙ্গে তিনি উর্দু পশতুতে মিলিয়ে অনেক কথা বলছিলেন। যেমন- \"ভালো আছেন তো, মঙ্গল তো, সব ঠিক তো, বেজায় ক্লান্ত হয়ে পড়েননি তো?\" লেখক শুধু 'জি হাঁ, জি'না' বলছিলেন। এরপর খানিকটা কোলে-পিঠে, খানিকটা টেনে-হিচড়ে তিনি লেখককে স্টেশনের বাইরে টাঙ্গায় বসিয়েছিলেন। লেখক এমন উষ্ণ বা গরম সংবর্ধনা পেয়েছিলেন পাঠানদের কাছ থেকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744949,
+      "value": {
+        "options": [],
+        "question": "আদব-কায়দা",
+        "solution": "ভদ্র-সমাজের রীতিনীতি/শিষ্টাচার।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744950,
+      "value": {
+        "options": [],
+        "question": "পাঠানদের অভ্যর্থনা সম্পূর্ণ _____ আন্তরিক।",
+        "solution": "\u003Cdiv\u003Eনির্জলা\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744951,
+      "value": {
+        "options": [],
+        "question": "আরম্ভ",
+        "solution": "শেষ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744952,
+      "value": {
+        "options": [],
+        "question": "শ্রদ্ধা",
+        "solution": "অশ্রদ্ধা, ঘৃণা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744953,
+      "value": {
+        "options": [],
+        "question": "স্বাধীন",
+        "solution": "পরাধীন",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744954,
+      "value": {
+        "options": [],
+        "question": "চুল",
+        "solution": "কেশ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744955,
+      "value": {
+        "options": [],
+        "question": "শক্তি",
+        "solution": "বল",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744956,
+      "value": {
+        "options": [],
+        "question": "দিন",
+        "solution": "দিবস",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744957,
+      "value": {
+        "options": [],
+        "question": "স্নানাভাবে",
+        "solution": "স্নানাভাবে তার চুল ও ত্বক রুক্ষ হয়ে গিয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744958,
+      "value": {
+        "options": [],
+        "question": "ধরা যাক ঘোড়ার নালের চাট লেগে তার পায়ের এক খাবলা মাংস উড়ে গেল এতে সে রেগে গালাগালি মারামারি বা পুলিশে ডাকাডাকি করে না পরম শ্রদ্ধায় ও বিরক্তি সহকারে ঘাড় বাঁকিয়ে শুধু জিজ্ঞাসা করে দেখতে পাস না",
+        "solution": "\u003Cdiv\u003Eধরা যাক, ঘোড়ার নালের চাট লেগে তার পায়ের এক খাবলা মাংস উড়ে গেল। এতে সে রেগে গালাগালি, মারামারি বা পুলিশে ডাকাডাকি করে না। পরম শ্রদ্ধায় ও বিরক্তি সহকারে ঘাড় বাঁকিয়ে শুধু জিজ্ঞাসা করে, দেখতে পাস না?\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744959,
+      "value": {
+        "options": {
+          "ক": "পাঠানের",
+          "খ": "বাঙালির",
+          "গ": "গজাপানির",
+          "ঘ": "শিখদের"
+        },
+        "question": "দিনের বেলা পেশাওয়ার ইংরেজের কিন্তু রাতের বেলা কাদের?",
+        "solution": "ক. পাঠানের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744960,
+      "value": {
+        "options": {
+          "ক": "সকাল ৯টায়",
+          "খ": "রাত ৯টায়",
+          "গ": "সকাল ৮টায়",
+          "ঘ": "রাত ৮টায়"
+        },
+        "question": "গাড়ি কয়টায় এসে পেশাওয়ারে পৌঁছায়?",
+        "solution": "খ. রাত ৯টায়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744961,
+      "value": {
+        "options": {
+          "ক": "উর্দু",
+          "খ": "পশতু",
+          "গ": "বাঙালি",
+          "ঘ": "পাঠানি"
+        },
+        "question": "টাঙ্গা চলছে - কায়দায়।",
+        "solution": "ঘ. পাঠানি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744962,
+      "value": {
+        "options": {
+          "ক": "অতিথিকে বাড়িতে ডেকে নেওয়ায়",
+          "খ": "পড়ালেখায় কৃতিত্বপূর্ণ সাফল্যে",
+          "গ": "আত্মীয়দের সাথে একসাথে হলে",
+          "ঘ": "পৃথিবীর বিভিন্ন দেশ ভ্রমণে"
+        },
+        "question": "পাঠান সবচেয়ে আনন্দ পায় কীসে?",
+        "solution": "ক. অতিথিকে বাড়িতে ডেকে নেওয়ায়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744963,
+      "value": {
+        "options": {
+          "ক": "দেশ",
+          "খ": "ভাষা",
+          "গ": "রীতি",
+          "ঘ": "সংস্কৃতি"
+        },
+        "question": "পঙ্গু কী?",
+        "solution": "খ. ভাষা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744964,
+      "value": {
+        "options": {
+          "ক": "চেয়ারে",
+          "খ": "সোফায়",
+          "গ": "মোটর গাড়িতে",
+          "ঘ": "টাঙ্গায়"
+        },
+        "question": "আহমদ আলী লেখককে স্টেশনের বাইরে এনে কোথায় বসালেন?",
+        "solution": "ঘ. টাঙ্গায়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744965,
+      "value": {
+        "options": [],
+        "question": "স্নানের অভাব",
+        "solution": "স্নানাভাব",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744966,
+      "value": {
+        "options": [],
+        "question": "আদর করে ডেকে আনা",
+        "solution": "অভ্যর্থনা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744967,
+      "value": {
+        "options": [],
+        "question": "যা ফুরিয়ে বা শেষ হয়ে যায় না",
+        "solution": "অফুরন্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744968,
+      "value": {
+        "options": [],
+        "question": "যাতে কাজ দেয় না",
+        "solution": "বৃথা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744969,
+      "value": {
+        "options": [],
+        "question": "ম্ভ",
+        "solution": "ম + ভ, সম্ভব",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744970,
+      "value": {
+        "options": [],
+        "question": "ক্ত",
+        "solution": "ক + ত, মুক্তিযোদ্ধা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744971,
+      "value": {
+        "options": [],
+        "question": "ল্ড",
+        "solution": "ল + ড, গোল্ড",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744972,
+      "value": {
+        "options": [],
+        "question": "ন্ধ",
+        "solution": "ন + ধ, বন্ধু",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744973,
+      "value": {
+        "options": [],
+        "question": "আলিঙ্গন করা",
+        "solution": "কোলাকুলি করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744973,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744974,
+      "value": {
+        "options": [],
+        "question": "ঘোড়ার নালের চাট",
+        "solution": "ঘোড়ার পায়ের লাথি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744974,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744975,
+      "value": {
+        "options": [],
+        "question": "আমার চোখে _____ ঘুম নেই।",
+        "solution": "\u003Cdiv\u003Eএকরত্তি\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744975,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744976,
+      "value": {
+        "options": [],
+        "question": "এসেছি",
+        "solution": "আমি এই মাত্র স্কুল থেকে এসেছি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744976,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744977,
+      "value": {
+        "options": [],
+        "question": "আসতাম",
+        "solution": "আমি প্রতিদিন একবার তোমাদের বাড়ি আসতাম।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744977,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744978,
+      "value": {
+        "options": [],
+        "question": "করেছি",
+        "solution": "আমি স্কুলের পড়া শেষ করেছি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744978,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744979,
+      "value": {
+        "options": [],
+        "question": "পেশাওয়ার",
+        "solution": "পেশাওয়ার শহর দিনে ইংরেজের দখলে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744979,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744980,
+      "value": {
+        "options": [],
+        "question": "সংবর্ধনা",
+        "solution": "ভালো ফল করায় শিক্ষামন্ত্রী ছাত্রদের সংবর্ধনা দিয়েছেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744980,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744981,
+      "value": {
+        "options": [],
+        "question": "গরম",
+        "solution": "ঠান্ডা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744981,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744982,
+      "value": {
+        "options": [],
+        "question": "কীসের মতো আনন্দ পাঠান অন্য কোনো জিনিসে পায় না?",
+        "solution": "অতিথিকে বাড়িতে ডেকে নেওয়ার মতো আনন্দ পাঠান অন্য কোনো জিনিসে পায় না। আর সেই অতিথি যদি বিদেশি হয় তাহলে তো কথাই নেই। আসলে পাঠানরা খুবই আন্তরিক।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744983,
+      "value": {
+        "options": [],
+        "question": "পাঠানের সঙ্গে ভ্রমণে সুখ কেন?",
+        "solution": "'পাঠান মুলুকে' রচনায় লেখক বলেছেন, পাঠানের সঙ্গে ভ্রমণ করাতে সুখ আছে। আর এই সুখের কারণ হলো তারা খুবই আন্তরিক। আমাদের কাছে যেটা কঠিন বলে মনে হয় পাঠানরা সেটা নিজে থেকেই করে দেয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744984,
+      "value": {
+        "options": [],
+        "question": "পাঠানেরা স্বাধীনতার দাম কীভাবে দিতে কসুর করে না?",
+        "solution": "পাঠানেরা রাস্তায় যে যার মতো স্বাধীনভাবে চলে, টাঙ্গায় বা ঘোড়ার গাড়িকে রাস্তা ছেড়ে দেয় না। এই স্বাধীনতার দাম দিতেও তারা কসুর করে না। যেমন- ঘোড়ার পায়ের লাথি লেগে কারও পায়ের এক খাবলা মাংস উঠে গেলেও সে রেগে গালাগালি, মারামারি বা পুলিশ ডাকাডাকি করে না। বিরক্তি নিয়ে ঘাড় বাঁকিয়ে শুধু জিজ্ঞেস করে, 'দেখতে পাস না?' গাড়োয়ানও অবজ্ঞায় উত্তর দেয়, 'তোর চোখ নেই?'",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744985,
+      "value": {
+        "options": [],
+        "question": "ইতোমধ্যে",
+        "solution": "এর মধ্যে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744986,
+      "value": {
+        "options": [],
+        "question": "সে _____ এখানে চলে এসেছে।",
+        "solution": "\u003Cdiv\u003Eইতোমধ্যে\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744987,
+      "value": {
+        "options": [],
+        "question": "সে _____ আমার দিকে তাকাল।",
+        "solution": "\u003Cdiv\u003Eঅবজ্ঞাভরে\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744988,
+      "value": {
+        "options": [],
+        "question": "গরম",
+        "solution": "ঠান্ডা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744989,
+      "value": {
+        "options": [],
+        "question": "মঙ্গল",
+        "solution": "কল্যাণ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744990,
+      "value": {
+        "options": [],
+        "question": "প্ল্যাটফরম",
+        "solution": "প্ল্যাটফরম থেকে ট্রেনটি ছেড়ে যাচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744991,
+      "value": {
+        "options": [],
+        "question": "উৎসাহ",
+        "solution": "সে তুমুল উৎসাহে ক্রীড়া প্রতিযোগিতায় অংশ নিচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744992,
+      "value": {
+        "options": [],
+        "question": "স্টেশন",
+        "solution": "গৌরীপুর রেল স্টেশনটি এখন ফাঁকা।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744993,
+      "value": {
+        "options": [],
+        "question": "রাজত্ব",
+        "solution": "আমরা সবাই রাজা আমাদের এই রাজার রাজত্বে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744994,
+      "value": {
+        "options": {
+          "ক": "সর্দারজির",
+          "খ": "পাঠানের",
+          "গ": "লেখকের",
+          "ঘ": "আহমদ আলীর"
+        },
+        "question": "কার গায়ে একরত্তি শক্তি নেই?",
+        "solution": "গ. লেখকের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744995,
+      "value": {
+        "options": {
+          "ক": "ঘোড়ার গাড়ি",
+          "খ": "বাস গাড়ি",
+          "গ": "মোটর গাড়ি",
+          "ঘ": "গরুর গাড়ি"
+        },
+        "question": "টাঙ্গা কী?",
+        "solution": "ক. ঘোড়ার গাড়ি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744996,
+      "value": {
+        "options": {
+          "ক": "ভালো আছেন তো",
+          "খ": "মঙ্গল তো",
+          "গ": "জিহাঁ, জি না",
+          "ঘ": "সব ঠিক তো"
+        },
+        "question": "শেখ আহমদ আলীকে লেখক শুধু বলে যাচ্ছিলেন-",
+        "solution": "গ. জিহাঁ, জি না",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744997,
+      "value": {
+        "options": {
+          "ক": "ঠা-ঠা আলো",
+          "খ": "ম্লান আলো",
+          "গ": "রাতের আঁধার",
+          "ঘ": "সন্ধ্যার স্নিগ্ধ আলো"
+        },
+        "question": "পেশাওয়ারে রাত ৯টায় ছিল-",
+        "solution": "ক. ঠা-ঠা আলো",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744998,
+      "value": {
+        "options": {
+          "ক": "সর্দারজি",
+          "খ": "শেখ আহমদ আলী",
+          "গ": "সৈয়দ মুজতবা আলী",
+          "ঘ": "টাঙ্গাওয়ালা"
+        },
+        "question": "লেখককে অভ্যর্থনা জানালেন কে?",
+        "solution": "খ. শেখ আহমদ আলী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744999,
+      "value": {
+        "options": {
+          "ক": "নির্জন",
+          "খ": "কম ভিড়",
+          "গ": "লোকে ঠাসা",
+          "ঘ": "ঘনিস্তব্ধ"
+        },
+        "question": "পেশাওয়ারের প্ল্যাটফরম ছিল –",
+        "solution": "খ. কম ভিড়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745000,
+      "value": {
+        "options": [],
+        "question": "ন্ট",
+        "solution": "ন + ট, বণ্টন",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745001,
+      "value": {
+        "options": [],
+        "question": "পশু",
+        "solution": "পাঠান এলাকার একটি ভাষার নাম।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745001,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745002,
+      "value": {
+        "options": [],
+        "question": "অভ্যর্থনা",
+        "solution": "আদর করে ডেকে আনা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745002,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745003,
+      "value": {
+        "options": [],
+        "question": "বৃথা",
+        "solution": "নিষ্ফল, অনর্থক।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745003,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745004,
+      "value": {
+        "options": [],
+        "question": "অবজ্ঞা",
+        "solution": "তাচ্ছিল্য, তুচ্ছতা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745004,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745005,
+      "value": {
+        "options": [],
+        "question": "টাঙ্গা",
+        "solution": "ঘোড়াবাহিত দুই চাকার গাড়িবিশেষ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745005,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745006,
+      "value": {
+        "options": [],
+        "question": "কসুর",
+        "solution": "দোষ, ত্রুটি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745006,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745007,
+      "value": {
+        "options": [],
+        "question": "প্ল্যাটফরম",
+        "solution": "রেলগাড়ি থামার স্থান, উন্নত সমতল ভূমি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745007,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745008,
+      "value": {
+        "options": [],
+        "question": "এত _____ চোখ মেলে তাকানো যায় না।",
+        "solution": "\u003Cdiv\u003Eঠা-ঠা আলো\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745008,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745009,
+      "value": {
+        "options": [],
+        "question": "ঈদের সময় আমরা সবাই ______ করে থাকি।",
+        "solution": "\u003Cdiv\u003Eআলিঙ্গন\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745009,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745010,
+      "value": {
+        "options": [],
+        "question": "তাদের _____ অনেক ভালো ছিল।",
+        "solution": "\u003Cdiv\u003Eঅভ্যর্থনা\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745010,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745011,
+      "value": {
+        "options": [],
+        "question": "খাই",
+        "solution": "আমি পুষ্টিকর খাবার খাই।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745011,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745012,
+      "value": {
+        "options": [],
+        "question": "খাব",
+        "solution": "আমি এখন ভাত খাব।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745012,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745013,
+      "value": {
+        "options": [],
+        "question": "করি",
+        "solution": "আমি আম্মাকে ঘরের কাজে সাহায্য করি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745013,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745014,
+      "value": {
+        "options": [],
+        "question": "করব",
+        "solution": "আমি প্রতিদিন অঙ্ক করব।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745014,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745015,
+      "value": {
+        "options": [],
+        "question": "ভ্রমণ",
+        "solution": "ভ্রমণ করা আমার প্রিয় শখ।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745015,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745016,
+      "value": {
+        "options": [],
+        "question": "দিন",
+        "solution": "রাত",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745016,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745017,
+      "value": {
+        "options": [],
+        "question": "'পাঠান মুলুকে' রচনায় লেখকের পেশাওয়ার পৌঁছানোর মুহূর্তের ভাবনার বর্ণনা দাও।",
+        "solution": "'পাঠান মুলুকে' রচনায় লেখক সর্দারজিকে চুল বাঁধতে, দাড়ি সাজাতে আর পাগড়ি পাকাতে দেখে বুঝতে পারেন পেশাওয়ার পৌঁছাতে আর ঘণ্টাখানেক বাকি। ইতোমধ্যে লেখক পাঠান মুলুকের প্রবাদ জানতে পান। প্রবাদটি হলো পেশাওয়ার দিনের বেলা ইংরেজের, রাতে পাঠানের। এদিকে গাড়ি রাত নয়টায় পেশাওয়ার পৌঁছাবে। যখন গাড়ি পেশাওয়ার পৌঁছাবে তখন কার রাজত্ব চলবে এমন ভাবনা ভাবতে ভাবতে তিনি পেশাওয়ার পৌঁছান।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745018,
+      "value": {
+        "options": [],
+        "question": "সংবর্ধনা",
+        "solution": "সম্মাননা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745019,
+      "value": {
+        "options": [],
+        "question": "গাড়োয়ান",
+        "solution": "ঘোড়ায় টানা গাড়ি চালানো যার পেশা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745020,
+      "value": {
+        "options": [],
+        "question": "সাফ",
+        "solution": "পরিষ্কৃত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745021,
+      "value": {
+        "options": [],
+        "question": "মঙ্গল",
+        "solution": "অমঙ্গল",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745022,
+      "value": {
+        "options": [],
+        "question": "আনন্দ",
+        "solution": "সুখ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745023,
+      "value": {
+        "options": [],
+        "question": "সংবর্ধনা",
+        "solution": "প্রধান শিক্ষকের আগমন উপলক্ষ্যে সংবর্ধনা অনুষ্ঠানের আয়োজন করা হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745024,
+      "value": {
+        "options": {
+          "ক": "স্নিগ্ধ আলো",
+          "খ": "অল্প আলো",
+          "গ": "ম্লান আলো",
+          "ঘ": "তীব্র প্রখর আলো"
+        },
+        "question": "ঠা-ঠা আলো বলতে কী বোঝানো হয়েছে?",
+        "solution": "ঘ. তীব্র প্রখর আলো",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745025,
+      "value": {
+        "options": {
+          "ক": "নির্জলা আন্তরিক",
+          "খ": "লোক দেখানো আন্তরিক",
+          "গ": "গণিতান্ত লৌকিকতা",
+          "ঘ": "অনান্তরিক"
+        },
+        "question": "পাঠানের অভ্যর্থনা কেমন?",
+        "solution": "ক. নির্জলা আন্তরিক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745026,
+      "value": {
+        "options": {
+          "ক": "খাস পাঠান",
+          "খ": "খাস বাঙালি",
+          "গ": "অভদ্র পাঠান",
+          "ঘ": "শক্তিশালী পাঠান"
+        },
+        "question": "কে কখনো কারও জন্য রাস্তা ছেড়ে দেয় না?",
+        "solution": "ক. খাস পাঠান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745027,
+      "value": {
+        "options": [],
+        "question": "ঠা-ঠা আলো",
+        "solution": "এত তেজি আলো যে চোখ মেলে তাকানো যায় না।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745027,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745028,
+      "value": {
+        "options": [],
+        "question": "দিনের বেলায় ও রাত্রে পেশাওয়ার শহরে কী হয়?",
+        "solution": "পাঠান মুলুকের পেশাওয়ার শহরের নিয়ম একটু অদ্ভুত। কেননা এ শহর দিনে থাকে ইংরেজের দখলে আর রাতের বেলায় থাকে পাঠানদের দখলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745028,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745029,
+      "value": {
+        "options": [],
+        "question": "পাঠানদের অভ্যর্থনা কেমন হয়ে থাকে এবং কেন?",
+        "solution": "পাঠানরা খুবই অতিথিপরায়ণ। তাঁরা অতিথিকে বাড়িতে ডেকে নেওয়ার মতো আনন্দ অন্য কোনো কিছুতে পান না। অতিথিকে পাওয়া মাত্র তাকে জড়িয়ে ধরে কোলাকুলি করেন। পরম উৎসাহে খুবই আন্তরিকতার সঙ্গে রাস্তার সুবিধা-অসুবিধার কথা জানতে চান। সবকিছু ঠিকঠাক আছে কিনা জিজ্ঞেস করেন। কোলে-পিঠে করে নিয়ে গিয়ে টাঙ্গায় বসান। এ রকমই নির্জলা আন্তরিক পাঠানদের অভ্যর্থনা।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745029,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745030,
+      "value": {
+        "options": [],
+        "question": "আসি",
+        "solution": "প্রতিবছর আমি বইমেলায় আসি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745030,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745031,
+      "value": {
+        "options": [],
+        "question": "খেয়েছি",
+        "solution": "আমি দুপুরের খাবার খেয়েছি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745031,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745032,
+      "value": {
+        "options": [],
+        "question": "ঠা-ঠা আলো",
+        "solution": "সূর্যের ঠা-ঠা আলোতে পুড়ে কৃষক ফসল ফলান।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745032,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745033,
+      "value": {
+        "options": [],
+        "question": "ভিতর",
+        "solution": "বাহির",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745033,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745034,
+      "value": {
+        "options": [],
+        "question": "রাস্তায় চলাচলের ক্ষেত্রে পাঠানদের স্বাধীনচেতা মনোভাবের পরিচয় দাও।",
+        "solution": "রাস্তায় চলাচলের ক্ষেত্রে পাঠানরা স্বাধীনচেতা মনোভাব নিয়ে চলে। আমাদের দেশে সাধারণত লোকজন রাস্তা ফাঁকা করে দেয় আর গাড়ি সোজা চলে। কিন্তু পাঠান মুলুকে লোকজন যার যে রকম খুশি চলে। গাড়িই বরং এঁকেবেঁকে জায়গা করে নেয়। ঘণ্টা বাজানো বা চিৎকার করা বৃথা। খাস পাঠান কখনো কারো জন্য রাস্তা ছেড়ে দেয় না। সে স্বাধীন। তবে সেই স্বাধীনতার দামও দিতে হয় কখনো কখনো। কিন্তু তাতে তারা কসুর করে না। ঘোড়ার পায়ের লাথি লেগে পাঠানের পায়ের এক খাবলা মাংস উঠে গেলেও বিরক্তিসহ শুধু ঘাড় বাঁকিয়ে জিজ্ঞাসা করে, 'দেখতে পাস না?' স্বাধীন পাঠান গাড়োয়ানও অবজ্ঞা ভরে বলে, 'তোর চোখ নেই?' ব্যস। এই হলো রাস্তায় চলাচলের ক্ষেত্রে পাঠানদের স্বাধীনচেতা মনোভাবের চিত্র।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745035,
+      "value": {
+        "options": [],
+        "question": "অতিথি",
+        "solution": "মেহমান, গৃহে আগত ব্যক্তি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745036,
+      "value": {
+        "options": [],
+        "question": "ততোধিক",
+        "solution": "তার চেয়ে বেশি/ আরও বেশি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745037,
+      "value": {
+        "options": [],
+        "question": "সে কোনো _____ জানে না।",
+        "solution": "\u003Cdiv\u003Eআদব-কায়দা\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745038,
+      "value": {
+        "options": [],
+        "question": "পরীক্ষায় প্রথম হয়ে সে _____ খুশি।",
+        "solution": "\u003Cdiv\u003Eবেজায়\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745039,
+      "value": {
+        "options": [],
+        "question": "উনি _____ পাঠানি আদব-কায়দা মেনে চলেন।",
+        "solution": "\u003Cdiv\u003Eখাস\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745040,
+      "value": {
+        "options": [],
+        "question": "রাত",
+        "solution": "দিন",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745041,
+      "value": {
+        "options": [],
+        "question": "রাত",
+        "solution": "নিশি",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745042,
+      "value": {
+        "options": [],
+        "question": "অতিথি",
+        "solution": "মেহমান",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745043,
+      "value": {
+        "options": [],
+        "question": "লুফে নেওয়া",
+        "solution": "সে সুযোগটি লুফে নিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745044,
+      "value": {
+        "options": {
+          "ক": "বাংলা-হিন্দি",
+          "খ": "উর্দু-বাংলা",
+          "গ": "আরবি-ফারসি",
+          "ঘ": "উর্দু-পশতু"
+        },
+        "question": "আহমদ আলী কোন কোন ভাষা মিলিয়ে অনেক কথা বলছিলেন?",
+        "solution": "ঘ. উর্দু-পশতু",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745045,
+      "value": {
+        "options": [],
+        "question": "যে বোঁচকার ভেতরে বালিশ বিছানা ভরে বেঁধে রাখা হয়",
+        "solution": "হোল্ডল",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745046,
+      "value": {
+        "options": [],
+        "question": "রেলগাড়ি থামার স্থান",
+        "solution": "প্ল্যাটফরম",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745047,
+      "value": {
+        "options": [],
+        "question": "অত্যন্ত চালাক যে ব্যক্তি",
+        "solution": "সুচতুর",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745048,
+      "value": {
+        "options": [],
+        "question": "স্ন",
+        "solution": "স + ন, স্নান",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745049,
+      "value": {
+        "options": [],
+        "question": "ন্ত",
+        "solution": "ন + ত, অন্তত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744935,
+      "value": {
+        "options": [],
+        "question": "নির্জলা",
+        "solution": "নির্ভেজাল, খাঁটি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744935,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744936,
+      "value": {
+        "options": [],
+        "question": "খাস",
+        "solution": "আসল, প্রকৃত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744936,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744937,
+      "value": {
+        "options": [],
+        "question": "_____ সময় নষ্ট করা ঠিক নয়।",
+        "solution": "\u003Cdiv\u003Eবৃথা\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744937,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744938,
+      "value": {
+        "options": [],
+        "question": "সর্দারজিকে চেনা যায় কী দেখে?",
+        "solution": "চুল বাঁধা, দাড়ি সাজানো আর পাগড়ি বাঁধানো দেখলেই সর্দারজিকে চেনা যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-11-27T06:38:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744938,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 172298,
+      "value": {
+        "options": [],
+        "question": "পাঠানদের আতিথেয়তা কেমন এবং তাদের স্বাধীনতা সম্পর্কে কী বলা হয়েছে?",
+        "chapter_id": "1347",
+        "explanation": "ব্যাখ্যা: পাঠান সমাজে অতিথি গ্রহণকে উচ্চ মর্যাদা দেওয়া হয়, তাই তারা অতিথিকে আন্তরিক ও উদারভাবে স্বাগত জানায়। পাশাপাশি তাদের স্বাধীনচেতা প্রকৃতি ও ব্যক্তিগত মর্যাদার ধারণার ফলে তারা স্বাধীনভাবে চলাফেরা করে এবং সাধারণত রাস্তা ছেড়ে দিতে অনিচ্ছুক।",
+        "correct_answer": "পাঠানরা অতিথিদের আন্তরিকভাবে স্বাগত জানায় এবং স্বাধীনভাবে চলাফেরা করে, রাস্তা ছেড়ে দিতে রাজি হয়না।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-08-04T01:37:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123313,
+      "value": {
+        "options": {
+          "a": "কাজলা দিদি চলে যাওয়ার পর ছোট্ট বোনটির একাকীত্ব অনুভূতি।",
+          "b": "মা'র স্নেহ এবং আদর ছোটবেলায় শিক্ষা অর্জনের সময়।",
+          "c": "পাঠানের অতিথিপরায়ণতা এবং তাদের স্বাধীনতার প্রকাশ।",
+          "d": "মা ও কাজলা দিদির প্রতি ভালবাসার প্রকাশ শারীরিক অনুভূতির মাধ্যমে।"
+        },
+        "question": "কাজলা দিদির কবিতা ও মা'র প্রতি ভালোবাসার মধ্যে কোনটি সবচেয়ে বেশি দৃষ্টান্তমূলক?",
+        "solution": "সমাধান:\n1) প্রশ্নের মূল লক্ষ্য হলো কোন দৃষ্টান্তটি কবিতায় প্রেম ও আত্মিক বন্ধনের সবচেয়ে স্পষ্ট প্রকাশ নির্দেশ করে সেটা নির্ধারণ করা।  \n2) কবিতায় কাজলা দিদি চলে যাওয়ার পর ছোট্ট বোনটির একাকীত্ব ও নিঃসঙ্গতা বারবার ফুটে ওঠে, যা সম্পর্কের গভীর সান্নিধ্য ও ভালোবাসার অভাবকে সবচেয়ে ভালোভাবে প্রদর্শন করে — তাই a সঠিক।  \n3) অন্যান্য বিকল্পগুলোর সংক্ষিপ্ত ব্যাখ্যা: b মা'র স্নেহ উল্লেখযোগ্য হলেও তা পাঠ্যভিত্তিকভাবে সবচেয়ে প্রবল দৃষ্টান্ত নয়; c পাঠানের অতিথিপরায়ণতা বিষয়ভিত্তিক ও প্রাসঙ্গিক নয়; d শারীরিক অনুভূতি দিয়ে ভালোবাসার প্রকাশ উল্লেখ আছে কিন্তু মোট অনুভূতির তুলনায় প্রধান উদাহরণ নয়।",
+        "chapter_id": "1347",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-25T13:38:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123297,
+      "value": {
+        "options": {
+          "a": "পাঠানরা অতিথিকে সহজে চিনে ফেলে",
+          "b": "পাঠানরা অতিথিকে কষ্ট সহ্য করতে দেয়",
+          "c": "বাঙালিরা অতিথিকে সাদরে গ্রহণ করে",
+          "d": "পাঠানরা অতিথিকে আন্তরিকভাবে স্বাগতম জানায়"
+        },
+        "question": "পাঠানদের অতিথি গ্রহণের কৌশল কীভাবে বাঙালিদের থেকে ভিন্ন?",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ: প্রথমে প্রশ্নটি বুঝুন—পাঠানদের অতিথি গ্রহণের কৌশল কীভাবে বাঙালিদের থেকে ভিন্ন তা জানতে হবে। পাঠানদের আতিথেয়তা সাধারণত অত্যন্ত হৃদ্য ও আন্তরিক; তারা অতিথিকে সম্মান ও আন্তরিকভাবে স্বাগত জানান, তাই উত্তরের যথার্থ বিবরণ \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E‑এর সঙ্গে মিলে যায়। অন্যান্য বিকল্পগুলো ভুল কারণ: (a) — \"সহজে চিনে ফেলা\" আতিথেয়তার মূল বৈশিষ্ট্য নয়; (b) — \"অতিথিকে কষ্ট সহ্য করতে দেয়\" সম্পূর্ণ বিপরীত অর্থ প্রকাশ করে; (c) — বাঙালিরাও সাদরে গ্রহণ করে তবে প্রশ্নটি পার্থক্য খুঁজছে, তাই সবচেয়ে উপযুক্ত উত্তর হলো d। সঠিক উত্তর: d।",
+        "chapter_id": "1347",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123298,
+      "value": {
+        "options": {
+          "a": "তাদের অতিথিপরায়ণতা",
+          "b": "তাদের কঠোরতা",
+          "c": "তাদের স্বাধীনতা",
+          "d": "তাদের শৃঙ্খলা"
+        },
+        "question": "সৈয়দ মুজতবা আলী পাঠানদের কি বৈশিষ্ট্য তুলে ধরেছেন?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি পড়ে বুঝতে হবে সৈয়দ মুজতবা আলীর পাথানদের সম্পর্কে যে বর্ণনা আছে সেটি কোন বৈশিষ্ট্যের সঙ্গে সামঞ্জস্যপূর্ণ।  \nধাপ ২: তাঁর রচনায় পাথানদের মূলত আন্তরিকতা ও অতিথিপরায়ণতার ওপর জোর দেওয়া হয়েছে, অর্থাৎ তারা অতিথিদের গ্রহণে উদার ও সৎ। তাই সঠিক উত্তর হলো বিকল্প (a) — তাদের অতিথিপরায়ণতা।  \nব্যাখ্যা: অন্য বিকল্পগুলো—কঠোরতা, স্বাধীনতা বা শৃঙ্খলা—কোনোটিই তাঁর প্রধান বক্তব্য হিসেবে উল্লেখিত নয়, অতএব সেগুলো অনুপযুক্ত।",
+        "chapter_id": "1347",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123299,
+      "value": {
+        "options": {
+          "a": "তাদের পরিচয়হীনতা",
+          "b": "তাদের আতিথেয়তার অভাব",
+          "c": "পাঠান জীবনের আনন্দ",
+          "d": "পাঠানদের সৃষ্টিশীলতা"
+        },
+        "question": "পাঠানদের সঙ্গে ভ্রমণ করার সময় লেখক কি অনুভব করেন?",
+        "solution": "সমাধান:\nধাপ ১: লেখকের বর্ণনা থেকে তাকে পাঠানদের পাশে ভ্রমণে কেমন অনুভব করছিলেন তা খুঁজে বের করুন — লেখক পাঠান জীবনের সহজ-সরলতা ও আনন্দের কথা তুলে ধরেছেন।  \nধাপ ২: প্রদত্ত বিকল্পগুলোর সঙ্গে মিলিয়ে দেখলে এটি সরাসরি \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E অপশনের অর্থের সাথে মেলে, অর্থাৎ পাঠান জীবনের আনন্দ।  \nঅপর অপশনগুলোর ব্যাখ্যা: a (পরিচয়হীনতা) এবং b (আতিথেয়তার অভাব) লেখকের অনুভবের বিপরীত ধারণা; d (সৃষ্টিশীলতা) প্রাসঙ্গিক হলেও লেখক মূলত জীবনের আনন্দের কথা বলেছেন, সুতরাং সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E — পাঠান জীবনের আনন্দ।",
+        "chapter_id": "1347",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123300,
+      "value": {
+        "options": {
+          "a": "এটি বিশৃঙ্খলা সৃষ্টি করে",
+          "b": "এটি তাদের শক্তি বাড়ায়",
+          "c": "এটি অতিথিদের ওপর প্রভাব ফেলে",
+          "d": "এটি তাদের স্বাভাবিক রীতি"
+        },
+        "question": "পাঠানদের স্বাধীনতার প্রতি লেখকের দৃষ্টিভঙ্গি কী?",
+        "solution": "সমাধান:\n1) প্রশ্নে 'লেখকের দৃষ্টিভঙ্গি' বলতে লেখক কীভাবে পাঠানদের স্বাধীনতাকে দেখেছেন তা খুঁজতে হবে — পাঠানদের স্বাধীনতা এখানে তাদের স্বাভাবিক আচরণ বা রীতি হিসেবে উপস্থাপিত।  \n2) তাই সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E — এটি তাদের স্বাভাবিক রীতি।  \n3) অন্যান্য বিকল্পগুলি কেন ভুল: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (বিশৃঙ্খলা সৃষ্টি করে) — লেখক স্বাধীনতাকে নৈতিক বা রীতিগত ব্যাখ্যায় দেখিয়েছেন, বিশৃঙ্খলার নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (শক্তি বাড়ায়) — লেখক স্বাধীনতাকে শক্তির বৃদ্ধির দিক থেকে নয় বরং আচরণগত রীতি হিসেবে বর্ণনা করেছেন; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (অতিথিদের ওপর প্রভাব ফেলে) — এটির কোনো প্রাসঙ্গিক উল্লেখ নেই।",
+        "chapter_id": "1347",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123301,
+      "value": {
+        "options": {
+          "a": "অভ্যর্থনা, সংবর্ধনায় ব্যবহার হয়",
+          "b": "বন্ধুত্ব, শত্রুতা প্রকাশ করে",
+          "c": "শ্রম, কর্মব্যস্ততা বোঝায়",
+          "d": "কষ্ট, দুঃখ প্রকাশ করে"
+        },
+        "question": "শব্দ 'আলিঙ্গান' এর অর্থ ও ব্যবহার কিভাবে হয়?",
+        "solution": "সমাধান:\nধাপ ১: শব্দ 'আলিঙ্গন' বাংলা-ইংরেজী অভিধানে সাধারণত \"আঁকড়ে ধরা\", \"জড়িয়ে ধরা\" অর্থে ব্যবহৃত হয়—অর্থাৎ শারীরিকভাবে আলিঙ্গন করা, যা সাধারণত সদয় অভিবাদন বা সংবর্ধনা প্রকাশ করে।  \nধাপ ২: তাই ব্যবহারিক ভাষায় 'আলিঙ্গন' বলতে কাউকে স্বাগত জানানোর, আনন্দে বা সান্ত্বনায় জড়িয়ে ধরার কার্যকে বোঝায়; এই কারণে \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (\"অভ্যর্থনা, সংবর্ধনায় ব্যবহার হয়\") সঠিক।  \nধাপ ৩: অন্যান্য বিকল্পগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (শত্রুতা) এর সাথে আলিঙ্গনের কোনো মিল নেই, \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E (শ্রম, কর্মব্যস্ততা) ও \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E (কষ্ট, দুঃখ) শব্দের মূল অর্থকে প্রতিফলিত করে না।",
+        "chapter_id": "1347",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123302,
+      "value": {
+        "options": {
+          "a": "এটি তাদের শৃঙ্খলার অভাব বোঝায়",
+          "b": "এটি তাদের আত্মবিশ্বাসের অভাব বোঝায়",
+          "c": "এটি তাদের আবেগকে প্রকাশ করে",
+          "d": "এটি তাদের সংস্কৃতির শক্তি বোঝায়"
+        },
+        "question": "পাঠানদের স্বাধীনতা ও আত্মবিশ্বাস লেখকের কি ধরনের অভিজ্ঞতা প্রকাশ করে?",
+        "solution": "সমাধান: লেখক যখন \"পাঠানদের স্বাধীনতা ও আত্মবিশ্বাস\" উল্লেখ করেন, তিনি তাদের ব্যক্তিগত বা সামাজিক শক্তি, মর্যাদা ও সাংস্কৃতিক গৌরবকে ফুটিয়ে তুলছেন — অর্থাৎ তাদের সংস্কৃতির শক্তিকে প্রকাশ করছেন। তাই সঠিক উত্তর হলো d। অন্য অপশনগুলি ভুল কারণ (a) শৃঙ্খলার অভাব নির্দেশ করে যা এখানে উল্লিখিত নেই, (b) আত্মবিশ্বাসের অভাব বিরোধী বক্তব্য—লেখক আসলে আত্মবিশ্বাসের কথা বলছেন, এবং (c) শুধুমাত্র আবেগ বোঝায় — কিন্তু মূলত এখানে সাংস্কৃতিক শক্তি ও মর্যাদাই প্রধান বিষয়।",
+        "chapter_id": "1347",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123303,
+      "value": {
+        "options": {
+          "a": "সঙ্কোচ",
+          "b": "আত্মবিশ্বাস",
+          "c": "আবেগ",
+          "d": "অস্বস্তি"
+        },
+        "question": "অতিথি হিসেবে পাঠানদের কাছে যাওয়ার সময় লেখক কি ধরনের অনুভূতি অনুভব করেন?",
+        "solution": "সমাধান:\nStep 1: পাঠ্যের সুর ও লেখকের আচরণ লক্ষ্য করুন — লেখক যখন পাঠানদের কাছে অতিথি হিসেবে যায়, তখন তিনি নির্ভয়ে, সাহসের সঙ্গে আচরণ করেন এবং আশপাশের মানুষের সঙ্গে সহজে মিশে যান।  \nStep 2: এই আচরণ থেকে অনুভূতির ধরন নির্ধারণ করুন — এমন আত্মবিশ্বাসী ও নিশ্চিন্ত আচরণ নির্দেশ করে যে লেখক সঙ্কোচ বা অস্বস্তিতে নেই বরং আত্মবিশ্বাসী।  \n\nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E আত্মবিশ্বাস।\n\nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সঙ্কোচ এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অস্বস্তি পাঠকের বর্ণনার সঙ্গে মিলছে না, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E আবেগ খুব সাধারণ ও অস্পষ্ট — কিন্তু লেখকের প্রকাশিত আচরণ স্পষ্টতই আত্মবিশ্বাস নির্দেশ করে।",
+        "chapter_id": "1347",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123304,
+      "value": {
+        "options": {
+          "a": "পাঠানরা সাধারণত অতিথিকে অবহেলা করে",
+          "b": "বাঙালিরা অতিথিকে সাদরে গ্রহণ করে",
+          "c": "পাঠানরা অতিথিকে ভালোবাসে",
+          "d": "বাঙালিরা অতিথিকে নিরুৎসাহিত করে"
+        },
+        "question": "পাঠানদের আতিথেয়তা কিভাবে বাঙালি সংস্কৃতির সাথে তুলনা করা যায়?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে পড়ে বোঝা যায় যে তুলনা করা হচ্ছে পাঠানদের আতিথেয়তা এবং বাঙালি সংস্কৃতির আতিথেয়তার মধ্যে সাধারণ মিল/ফারাক নিয়ে।  \nধাপ ২: বিকল্পগুলোর বিবরণ দেখে স্পষ্ট যে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"বাঙালিরা অতিথিকে সাদরে গ্রহণ করে\" বাঙালি আতিথেয়তার সঠিক এবং স্বীকৃত বৈশিষ্ট্য তুলে ধরে, তাই এটি সঠিক উত্তর।  \nভুল বিকল্পগুলো কেন সঠিক নয়: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অতিথিকে অবহেলা/নিরুৎসাহিত করার কথা বলে যা সাধারণ ধ্যানধারণার সঙ্গে সঙ্গতিপূর্ণ নয়, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাঠানদের আতিথেয়তা সম্পর্কে সত্য হতে পারে হলেও প্রশ্নের সরাসরি তুলনা হিসেবে বাঙালিদের আতিথেয়তার বৈশিষ্ট্য প্রকাশ করে না।",
+        "chapter_id": "1347",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123305,
+      "value": {
+        "options": {
+          "a": "শত্রুতায়",
+          "b": "ভালোবাসায়",
+          "c": "আতিথেয়তায়",
+          "d": "দূরত্বে"
+        },
+        "question": "পাঠানদের সঙ্গে লেখকের সম্পর্ক কিভাবে গড়ে উঠে?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে বলা হয়েছে লেখক এবং পাঠানদের মধ্যে কীভাবে সম্পর্ক গড়ে ওঠে — গল্পের ঘটনার বর্ণনায় দেখা যায় যে পাঠানরা লেখককে স্বাগত ও সেবা করে, ফলে তাদের মধ্যে ইতিবাচক পারস্পরিক বন্ধন তৈরি হয়।\nধাপ ২: এসব আচরণ মূলত আতিথেয়তার পরিচায়ক — অতিথি গ্রহণ, সম্মান ও যত্নের মাধ্যমে সম্পর্ক গড়ে উঠে, তাই বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (আতিথেয়তায়) সঠিক।\nকেন অন্যগুলি খারাপ: শত্রুতায় এবং দূরত্বে সম্পর্ক নেগেটিভ বা বিচ্ছিন্ন থাকে, যে পরিস্থিতি বর্ণনায় নেই; ভালোবাসা সম্ভবত বেশি ঘনিষ্ঠ সম্পর্ক বোঝায়, কিন্তু বর্ণনায় মূল মাধ্যম ছিল আতিথেয়তা। \nসুতরাং সঠিক উত্তর: c — আতিথেয়তায়।",
+        "chapter_id": "1347",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 114628,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): পাঠানদের অভ্যর্থনার বিশেষত্ব কী?",
+          "খ": "(অনুধাবন): সর্দারজির আচরণ থেকে কী শিক্ষা গ্রহণ করা যায়?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): পাঠানদের স্বাধীনতার ধারণা বিশ্লেষণ করো এবং তার প্রভাব আলোচনা করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): অতিথিদের প্রতি আন্তরিকতা বৃদ্ধির জন্য সমাজে কী সংস্কৃতির পরিবর্তন আসা উচিত তা প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: সর্দারজির অভ্যর্থনা ও পাঠানদের আচার-আচরণ বর্ণনা করা হয়েছে, যেখানে অতিথির প্রতি আন্তরিকতা ও স্বাধীনতার কথা উল্লেখ আছে। ",
+        "solution": "সমাধান:\n\nপদ্ধতি (উপযুক্ত দিশা): প্রথমে উদ্ধৃত সংকেত অনুযায়ী পাঠানদের অভ্যর্থনার বৈশিষ্ট্যগুলো শনাক্ত করা হবে, তারপর সর্দারজির আচরণের নীতিসিদ্ধান্ত থেকে শেখার উপযোগিতা নির্ধারণ করা হবে। এরপর স্বাধীনতার ধারণাটি বিশ্লেষণ করে তার সামাজিক প্রতিফলন ও সম্ভাব্য সুফল-অসুবিধা আলোচনা করা হবে। শেষে অতিথিবাদের প্রতি আন্তরিকতা বাড়াতে বাস্তবসম্মত সংস্কারগত প্রস্তাবনা দেওয়া হবে। প্রতিটি অংশে সংক্ষিপ্ত কারণ-যুক্ত যুক্তি ও প্রয়োজনে সংক্ষিপ্ত উদাহরণ দেওয়া হবে। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পাঠানদের অভ্যর্থনার বিশেষত্ব কী?\n- মূল বৈশিষ্ট্য: আন্তরিকতা ও স্বাধীনতার সমন্বয়। অর্থাৎ অতিথির প্রতি আন্তরিক স্বাগত (খাবার, আরাম, সম্মান) প্রদান করা হয়, একই সঙ্গে অতিথিকে স্বাধীনতা—নিজের ইচ্ছা অনুযায়ী আচরণ করার স্বাধীনতা—দেওয়া হয়।  \n- সাংস্কৃতিক ভিত্তি: এটি পারস্পরিক সম্মান ও আচার-সংহতির মানসিকতার অংশ (পশতুনwali-এর melmastia বা অতিথি-আতিথেয়তা নীতির অনুরূপ)।  \n- বহুমাত্রিক প্রকাশ: অতিথিকে খাবার ও আশ্রয় দেওয়া হয় কিন্তু চাপে আনা হয় না; ব্যক্তিগত সীমা সম্মান করা হয়; আত্মগোপনীয়তা রক্ষা করা হয়; অতিথির ইচ্ছা ও সিদ্ধান্তকে গুরুত্ব দেওয়া হয়।  \n- কারণ ও উপকারিতা: এই বিশেষত্ব অতিথিকে আরাম দেয় এবং সম্পর্ককে টেকসই করে, কারণ সম্মান ও স্বাধীনতা মিললে বিশ্বাস গড়ে ওঠে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সর্দারজির আচরণ থেকে কী শিক্ষা গ্রহণ করা যায়?\n- মূল শিক্ষা: সদয় হওয়া মানে কর্তৃত্ব প্রয়োগ করা নয় — আন্তরিকতার সঙ্গে মানুষকে সম্মান ও স্বাধীনতা দেবার মূল্য।  \n- আচরণের নীতিসমূহ: নম্রতা, অতিথির প্রতি অকল্প্য করুণার বদলে বাস্তবিক সহনশীলতা; নির্দেশ না দিয়ে সুযোগ ও বিকল্প দেওয়া; ব্যক্তিগত মর্যাদা রক্ষা করা।  \n- ব্যবহারিক শেখা: অতিথি-আতিথেয়তায় — উদ্বুদ্ধ করে অফার করবে কিন্তু জবরদস্তি করবে না; নেতৃত্বেও — আদেশ-ভিত্তিকের বদলে পরামর্শ ও সম্মতিতে সিদ্ধান্ত নেবে।  \n- সংক্ষিপ্ত উদাহরণ: সর্দারজি অতিথিকে নিজের খাবার সার্ভ করে কিন্তু যদি অতিথি অতিরিক্ত না খায় বা আলাদা খাবার চাই, তাকে বাধ্য না করে বিকল্প দেওয়া।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাঠানদের স্বাধীনতার ধারণা বিশ্লেষণ করো এবং তার প্রভাব আলোচনা করো।\n- ধারণার বিশ্লেষণ: এখানে স্বাধীনতা হচ্ছে ব্যক্তিগত সিদ্ধান্ত গ্রহণের মর্যাদা—আচরণ, খাওয়া-দাওয়া, চলাফেরা ইত্যাদিতে বাধ্য করার অতিরিক্ত হস্তক্ষেপ না করা। এটি কেবল ব্যক্তিগত মুক্তি নয়, বরং পারস্পরিক সম্মান ও বিশ্বাসের ভিত্তিতেও দাঁড়িয়ে আছে।  \n- সামাজিক ও মানসিক প্রভাব:  \n  - ইতিবাচক: আত্মসম্মান বাড়ে, অতিথি আরামবোধ করে; সম্পর্ক নির্ভরযোগ্য ও সমান ভূমিকার ওপর গড়ে ওঠে; উদ্ভাবনী ও উদ্যোগী মনোভাব উৎসাহিত হয় (মানুষ স্বাধীনভাবে সিদ্ধান্ত নিলে দক্ষতা বৃদ্ধি পায়)।  \n  - নেতিবাচক সম্ভাব্যতা: অত্যধিক স্বাধীনতা কোনো সময়ে সামাজিক সমন্বয় বা নিয়ম-শৃঙ্খলাকে দুর্বল করতে পারে; সম্মিলিত সিদ্ধান্ত-গ্রহণে অসুবিধা সৃষ্টি হতে পারে যদি সকলেই শুধুই ব্যক্তিগত স্বেচ্ছা মেনে চলে।  \n- ভারসাম্য গুরুত্বপূর্ণ: স্বাধীনতা ও সামাজিক দায়বদ্ধতার মধ্যে সঠিক সমতা রাখলে এ থেকে সর্বাধিকা সুফল পাওয়া যায়—অতিথেয়তা বজায় থাকবে এবং সামাজিক নিয়মও রক্ষা পাবে।  \n- প্রাসঙ্গিক উদাহরণ: অতিথিকে বাড়ির যে কোন কক্ষ ব্যবহারের অনুমতি দেওয়া কিন্তু বাড়ির সাধারণ নীতিমালা (রাতের নির্দিষ্ট সময়ে শান্ত থাকা ইত্যাদি) অবৈধ করা হবে না—এটি স্বাধীনতার সঙ্গে সামাজিক নিয়মের সামঞ্জস্য।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অতিথিদের প্রতি আন্তরিকতা বৃদ্ধির জন্য সমাজে কী সংস্কৃতির পরিবর্তন আসা উচিত তা প্রস্তাবনা দাও।\n- পরিবারভিত্তিক শৈলী উন্নয়ন: ছোটবেলা থেকেই সহযোগিতা, সহমর্মিতা ও অতিথি-সম্মান শেখানো (পালের নিয়মে অতিথি আসলে কী করা উচিত—সিদ্ধান্তে সম্মান প্রদর্শন)।  \n- শিক্ষা ও পাঠ্যক্রমে নৈতিকতা: স্কুলে সামাজিক-নৈতিক পাঠে অতিথি-আচরণ, সম্মান এবং স্বাধীনতা কীভাবে বজায় রাখবে তা বাস্তব উদাহরণসহ শেখানো।  \n- সামাজিক রূপক ও গণমাধ্যম: টিভি, সিনেমা ও সংস্কৃতি-প্রচার মাধ্যমগুলোতে বাস্তব, নম্র ও স্বাধীনতা-সম্মত আতিথেয়তার দৃশ্য উপস্থিত করা; ভদ্রতা ও সহমর্মিতাকে আদর্শ হিসেবে তুলে ধরা।  \n- সম্প্রদায় কার্যক্রম: কমিউনিটি মিলন অনুষ্ঠান, গৃহোৎসব, স্বেচ্ছাসেবী হোস্টিং প্রোগ্রাম—যাতে মানুষ অতিথি গ্রহণ ও ধারণার ওপর অনুশীলন পায়।  \n- নীতি ও অনুপ্রেরণা: সম্মানজনক আচরণকে পুরস্কৃত করা (স্থানীয় সম্মাননা, প্রচার) এবং অতিথির ইচ্ছাকে মান্য করার সামাজিকভাবে প্রশংসনীয় রীতি গঠন।  \n- বাস্তব ধারনায় ভারসাম্য: আন্তরিকতা বাড়াতে চাপ বা ছল নয়—বরং সহানুভূতি, শ্রবণশীলতা ও ব্যক্তিগত সীমার শ্রদ্ধা চালু করা; অতিরিক্ত প্রদর্শন বা বাধ্যবাধকতা না করে প্রকৃত চাহিদার প্রতি মনোযোগী হওয়া।  \n\nসংক্ষেপে: পাঠানদের অভ্যর্থনা আন্তরিকতার সঙ্গে স্বাধীনতার সম্মিলিত নীতি—এটি সম্মান ও বিশ্বাস গড়ে তোলে। সর্দারজির আচরণ থেকে শেখা যায় যে অতিথিকে সত্যিকারভাবে সম্মান করার মানে হলো তাকে স্বাধীনতা ও মর্যাদা দেওয়া। সমাজে যদি পরিবার, শিক্ষা ও মিডিয়ার মাধ্যমে এই মূল্যবোধগুলো অনুশীলিত ও পুরস্কৃত করা হয়, তবে আন্তরিক আতিথেয়তা বৃদ্ধি পাবে এবং সামাজিক সম্পর্ক শক্তিশালী হবে।",
+        "chapter_id": "1347",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পাঠানদের অভ্যর্থনার বিশেষত্ব হলো অতিথির প্রতি খোলা মন ও আন্তরিকতা এবং তাদের স্বাধীনতা ও সম্মান রাখার প্রবণতা; তারা অতিথিকে বাধ্য করা না করে স্বাচ্ছন্দ্য ও সন্মান দেয়, যেটা তাদের আতিথেয়তাকে আলাদা করে তোলে। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সর্দারজির আচরণ থেকে শেখা যায় যে অতিথির প্রতি নম্রতা ও স্বাধীনতা প্রদানের মাধ্যমে বিশ্বাস ও আরাম সৃষ্টি করা যায়; শক্ত করে বেঁধে রাখার চেয়ে সম্মান দেখালে সম্পর্ক দৃঢ় হয়। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাঠানদের স্বাধীনতার ধারণা হলো ব্যক্তিগত মর্যাদা ও সিদ্ধান্তকে সম্মান করা; এটির প্রভাব হিসেবে অতিথি নিজেকে মূল্যায়িত ও আরামদায়ক মনে করে এবং সম্পর্কগুলো আত্মবিশ্বাস ও সন্মানের ওপর তৈরি হয়, ফলে সামাজিক বন্ধন শক্তিশালী হয়। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E আন্তরিকতা বৃদ্ধির জন্য সমাজে সহানুভূতি, পরস্পরের সম্মান ও আত্মপর্যায়ের প্রশিক্ষণ বাড়ানো উচিত; স্কুল-বাড়ি-কমিউনিটিতে আতিথেয়তার মূল্য শেখানো এবং ভোগবাদী মনোভাব কমিয়ে নিঃস্বার্থ সেবা উৎসাহিত করলে আন্তরিকতা বৃদ্ধি পাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-21T12:16:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56596,
+      "value": {
+        "options": {
+          "a": "চুল বাঁধতে",
+          "b": "দাড়ি কাটতে",
+          "c": "পাগড়ি পাকাতে",
+          "d": "সবিশেষ কিছু না"
+        },
+        "question": "সর্দারজি কী করতে আরম্ভ করেন?",
+        "solution": "সমাধান: প্রশ্নে 'সর্দারজি' শব্দ দেখে বোঝা যায় যে তিনি ঐতিহ্যগতভাবে পাগড়ি পরিধানকারী ব্যক্তি; তাই তিনি প্রথমে পাগড়ি পাকাতে শুরু করবেন। ধাপে ধাপে: (১) প্রদত্ত অপশনগুলো বিশ্লেষণ করা হলো, (২) পাগড়ি পাকানো সবচেয়ে প্রাসঙ্গিক কাজ, (৩) অন্যগুলো বাতিল করা যায় — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E চুল বাঁধা সাধারণত পাগড়ি সংক্রান্ত নয়, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দাড়ি কাটা প্রসঙ্গভিত্তিক নয়, আর \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E 'সবিশেষ কিছু না' স্পষ্টতই উপযুক্ত নয়। তাই সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (পাগড়ি পাকাতে)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56597,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "পেশাওয়ার দিনে ইংরেজ এবং রাতে পাঠানদের রাজত্ব থাকে।",
+        "solution": "সমাধান: এটি একটি প্রচলিত প্রবাদবাক্য যা বোঝায় যে ব্রিটিশর শাসন সীমিত ছিল—দিবাকালে অফিসিয়া ও সেনাবাহিনী দ্বারা নিয়ন্ত্রণ থাকত, কিন্তু রাতের বেলায় স্থানীয় পাঠানদের প্রভাব ও নিয়ন্ত্রণ বজায় থাকত। তাই উক্ত বক্তব্যটি ঐতিহাসিক পরিপ্রেক্ষিতে সত্য। \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E অপশনটি ভুল, কারণ তা ঐ প্রবাদটির অর্থ ও পর্যালোচিত বাস্তবতার বিরুদ্ধে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56598,
+      "value": {
+        "options": {
+          "a": "স্রানাভাবে",
+          "b": "খুব",
+          "c": "একটু",
+          "d": "কখনো"
+        },
+        "question": "গরমে, ধুলোয়, কয়লার গুঁড়োয়, রুটিতে আর __________ আমার গায়ে একরন্তি শক্তি নেই।",
+        "solution": "সমাধান:\nবাক্যটির আগে যে জিনিসগুলো列 করা হয়েছে — গরমে, ধুলোয়, কয়লার গুঁড়োয়, রুটিতে — এগুলো সবই কষ্ট বা ক্লান্তি প্রকাশ করে এবং শেষের অংশে বলা হচ্ছে “আর ... আমার গায়ে একরন্তি শক্তি নেই” অর্থাৎ अब আর সহ্য করার শক্তি নেই। তাই শূন্য স্থানে এমন একটি ক্রিয়া-বিশেষণ লাগবে যা পুরো অর্থকে সম্পূর্ণ করে এবং “অধিকতর সহ্য না করা/সম্পূর্ণভাবে আর নেই” অর্থ প্রকাশ করে। \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (স্রানাভাবে) শব্দটি এই প্রেক্ষাপটে সঠিকভাবে মানানসই বলে, ফলে সেটি সঠিক উত্তর।\n\nঅন্য অপশনগুলোর অযোগ্যতার সংক্ষিপ্ত কারণে:\n- \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (খুব) কেবল মাত্র তীব্রতা বাড়ায় কিন্তু “আর... নেই” এভাবে ব্যবহার করলে অর্থ ঠিক মেলে না।\n- \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (একটু) বাক্যের সঙ্গে বিরোধী, কারণ “একটু” মানে সামান্য আছে, কিন্তু বাক্যটি বলছে “আর নেই” অর্থাৎ সম্পূর্ণ কষ্ট/শক্তি সরে গেছে।\n- \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (কখনো) সময়সূচক শব্দ, এখানে প্রাসঙ্গিক নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56599,
+      "value": {
+        "options": [],
+        "question": "পাঠানের অতিথি হিসাবে সর্দারজি কেমন সংবর্ধনা পেয়েছিলেন?",
+        "solution": "সমাধান:\n1) প্রথমে প্রশ্নে উল্লেখিত পরিস্থিতি থেকে পরিচিত পাঠ্যভাগ খুঁটিনাটি দেখুন — সেখানে সর্দারজির প্রতি যেভাবে আচরণ করা হয়েছে তা উষ্ণ ও হৃদ্য ছিল।  \n2) উষ্ণ অভিব্যক্তি, আন্তরিক আলাপন বা আদরের বর্ণনা থাকলে তা \"পরম আন্তরিকতা\" নির্দেশ করে। তাই সঠিক উত্তর \"পরম আন্তরিকতা\"।  \nব্যাখ্যা: অন্যান্য সম্ভাব্য বিকল্পগুলো (যেমন আনুষ্ঠানিক সংবর্ধনা বা নির্দিষ্টভাবে মর্যাদাসূচক আচরণ) পাঠ্যের উষ্ণ ও হৃদ্য বর্ণনার সঙ্গে খাপ খায় না, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "পরম আন্তরিকতা"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56600,
+      "value": {
+        "options": {
+          "a": "হাতে চাপ দিয়ে",
+          "b": "আলিঙ্গন করে",
+          "c": "শুভেচ্ছা জানিয়ে",
+          "d": "বাসা নিয়ে"
+        },
+        "question": "শেখ আহমদ আলী কীভাবে সর্দারজিকে অভ্যর্থনা জানান?",
+        "solution": "সমাধান:\n1) প্রশ্নটি পড়ে দেখা যাক—শেখ আহমদ আলী কীভাবে সর্দারজিকে অভ্যর্থনা জানান তা জানতে হবে।  \n2) প্রসঙ্গ অনুযায়ী তিনি সর্দারজিকে আলিঙ্গন করে অভ্যর্থনা জানান, ফলে সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (আলিঙ্গন করে)।  \n3) অন্যান্য অপশনগুলো ভুল কারণ: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (হাতে চাপ দিয়ে) আলিঙ্গনের সমতুল্য নয়, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (শুভেচ্ছা জানিয়ে) অস্পষ্ট সাধারণ ক্রিয়া এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (বাসা নিয়ে) প্রশ্নের সঙ্গে সম্পর্কহীন।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56601,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "পাঠানেরা গাড়ি চলালে রাস্তা ছেড়ে দেয়।",
+        "solution": "সমাধান: বিবৃতিটি একটি সর্বজনীন দাবি — “সব পাঠানরা গাড়ি চালালে রাস্তা ছেড়ে দেয়।” এমন সর্বজনীন দাবিকে খারিজ করার সবচেয়ে সহজ উপায় হলো একটি বিপরীত উদাহরণ দেখানো। যদি এক জন পাঠান গাড়ি চালানোর সময় রাস্তা না ছেড়ে দিয়ে চলতে থাকে, তাহলে দাবি মিথ্যে প্রমাণিত হয়। তাই যেহেতু একক বিপরীত উদাহরণই যথেষ্ট, বিবৃতিটি ভুল এবং সঠিক উত্তর হল b; বিকল্প a ভুল কারণ সাধারণীকরণ সবসময় সত্য হতে পারে না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56602,
+      "value": {
+        "options": {
+          "a": "সাংবাদিকতা",
+          "b": "লৌকিকতা",
+          "c": "নির্জলা আন্তরিক",
+          "d": "শব্দহীন"
+        },
+        "question": "পাঠানদের অভ্যর্থনা সম্পূর্ণ __________।",
+        "solution": "সমাধান: বাক্যে 'অভ্যর্থনা'-এর সঙ্গে যে শব্দটি মানাবে তা হতে হবে একটি আন্তরিকতা বোঝানো বিশেষণ। অপশনগুলো পরীক্ষা করলে (a) সাংবাদিকতা ও (b) লৌকিকতা অর্থগতভাবে সম্পর্কহীন এবং বাক্যের গঠনেও মানায় না। (d) শব্দহীন = নীরবতা, যা 'অভ্যর্থনা'‑র বর্ণনার জন্য অনুচিত। অতএব উপযুক্ত ও অর্থগতভাবে মিল থাকা উত্তর হচ্ছে (c) নির্জলা আন্তরিক — খাঁটি, বিনা ছল ও আন্তরিক অভ্যর্থনা।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56603,
+      "value": {
+        "options": [],
+        "question": "পাঠানের স্বাধীনতার অনুভূতি কেমন?",
+        "solution": "সমাধান: প্রথমে প্রশ্নের প্রেক্ষাপট বা পাঠ্যের মূল বক্তব্য থেকে \"স্বাধীনতা\" সম্পর্কিত শব্দ ও ভাব খুঁজে বের করতে হবে — লেখায় যদি পাঠানকে সীমাবদ্ধতা ছাড়া নিজস্ব সিদ্ধান্ত নেয়ার, অবাধ চলাচল বা পূর্ণ নিয়ন্ত্রক হিসেবে দেখানো থাকে, তা হলে এটি বড় ধরনের স্বাধীনতার ইঙ্গিত দেয়। এগুলো বিচার করে স্পষ্ট যে সঠিক উত্তরটি \"বিরাট স্বাধীনতা\"। অন্য সম্ভাব্য উত্তরগুলো যেমন \"সামান্য স্বাধীনতা\" বা \"স্বাধীনতা নেই\" ভুল, কারণ তারা পাঠ্যে প্রকাশিত ব্যাপক ও পূর্ণাঙ্গ স্বাধীনতার মাত্রাকে প্রতিফলিত করে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বিরাট স্বাধীনতা"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56604,
+      "value": {
+        "options": {
+          "a": "রাস্তা সাফ করা হয়",
+          "b": "গাড়ি সোজা চলে",
+          "c": "কোনো বাধা থাকে না",
+          "d": "রাস্তা ছেড়ে দেয়"
+        },
+        "question": "তাদের শিষ্টাচার অনুযায়ী গাড়ি চলার সময় কি ঘটে?",
+        "solution": "সমাধান:\n১) প্রশ্নের মানে: \"তারাদের শিষ্টাচার\" বলতে বুঝায় যে তারা সৎ ও ভদ্রভাবে আচরণ করে — যখন গাড়ি চলে তখন পথ প্রশস্ত রাখা বা বাধা না দেয়া।  \n২) তাই সবচেয়ে সঠিক উত্তর হলো (c) — \"কোনো বাধা থাকে না\", কারণ ভদ্র আচরণ মানে গাড়ির পথে বাধা না রেখে সরে যাওয়া।  \n৩) অন্যান্য অপশনগুলো ভুল কারণ: (a) রাস্তা সাফ করা হয় — এটি ভাদ্রতার পরিবর্তে পরিচ্ছন্নতার কথা; (b) গাড়ি সোজা চলে — গাড়ির চালনার দিশার কথা, শিষ্টাচারের সঙ্গে সরাসরি সম্পর্ক নেই; (d) রাস্তা ছেড়ে দেয় — মানুষের আচরণ বর্ণনা করলেও প্রশ্নে যা ঘটে তা হল কোনো বাধা থাকে না, তাই (c) সঠিক।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56605,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "সর্দারজির গায়ে শক্তি আছে বলেই তিনি গাড়ির জন্য রাস্তা ছেড়ে দেন।",
+        "solution": "সমাধান:\n1) বিবৃতি বিশ্লেষণ: বাক্যটি বলছে—“সর্দারজির গায়ে শক্তি আছে বলেই তিনি গাড়ির জন্য রাস্তা ছেড়ে দেন।” এখানে কথাটির কাঠামো একটি কারণ-ফল সম্পর্ক স্থাপন করছে (শক্তি থাকার কারণে রাস্তা ছেড়ে দেওয়া)।  \n2) কারণ যাচাই: রাস্তা ছেড়ে দেওয়া এমন একটি আচরণ যা শক্তি থাকার কারণে হওয়া জরুরি নয়; এটি ভদ্রতা, সামাজিক আদেশ, নিরাপত্তা বা ব্যক্তিগত ইচ্ছার কারণে হতে পারে। তাই প্রদত্ত কারণ (শক্তি আছে) থেকে প্রত্যক্ষভাবে সেই ফল (রাস্তা ছেড়ে দেওয়া) বের করা তত্ত্বগতভাবে সঠিক নয় — এটি একটি non sequitur বা ভুল কারণগত নির্ণয়।  \n3) উপসংহার: তাই বাক্যটি মিথ্যা। সঠিক উত্তর: b (False)।  \n\nঅন্য অপশনটি (a) ভুল কারণ এটি কারণ ও ফলকে ভুলভাবে মিলিয়েছে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56606,
+      "value": {
+        "options": {
+          "a": "আটটা",
+          "b": "নয়টা",
+          "c": "দশটা",
+          "d": "সাতটা"
+        },
+        "question": "গাড়ি পেশাওয়ার __________ সময়ে পৌঁছায়।",
+        "solution": "সমাধান:\n1. বাক্যটি দেখে দেখা যায় খালি স্থানে একটি নির্দিষ্ট সময় বসাতে হবে: \"গাড়ি পেশাওয়ার __________ সময়ে পৌঁছায়।\"\n2. দেওয়া বিকল্পগুলোর মধ্যে \u003Cb\u003Eনয়টা\u003C/b\u003E (বিকল্প b) সবচেয়ে উপযুক্ত এবং প্রদত্ত সঠিক উত্তরও এটি—অতএব উত্তর হলো নয়টা।\n3. অন্যান্য বিকল্পগুলো (আটটা, দশটা, সাতটা) আলাদা সময় নির্দেশ করে এবং প্রশ্নে প্রদত্ত সঠিক উত্তর নয়, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56607,
+      "value": {
+        "options": [],
+        "question": "পাঠানদের অতিথি হিসেবে পাওয়ার সময় সর্দারজির অনুভূতি কী?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে বলা হয়েছে “পাঠানদের অতিথি হিসেবে পাওয়ার সময়…”, এখানে সর্দারজির মনোভাব হিসেবে অতিথি সম্মান বা সামাজিক মর্যাদা পাওয়ার অনুভূতি প্রত্যাশিত।  \nধাপ ২: পাঠ্যভিত্তিক বিশ্লেষনে দেখা যায় সর্দারজি গর্বিত ও খুশি ছিলেন, অর্থাৎ তিনি আনন্দ এবং বিরল সম্মান অনুভব করেছেন।  \nধাপ ৩: তাই সঠিক উত্তর হচ্ছে “আনন্দ ও বিরল সম্মান” — অন্য সম্ভাব্য বিকল্পগুলোর (যেমন ভয়, লজ্জা, দুঃখ) সঙ্গে পাঠ্যবস্তুর ধারণা মিলছে না, তাই সেগুলো খারিজ।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "আনন্দ ও বিরল সম্মান"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56608,
+      "value": {
+        "options": {
+          "a": "গাড়িওয়ালা",
+          "b": "পুলিশ",
+          "c": "নিজেদের",
+          "d": "অন্য কেউ"
+        },
+        "question": "পাঠানেরা সাধারণত কাদের নিয়ে চিৎকার করে?",
+        "solution": "সমাধান:\n1. প্রশ্নের অর্থ বুঝেছি: এখানে पूछा হচ্ছে পাঠানরা সাধারণত কাদের সম্পর্কে চিৎকার বা উচ্চস্বরে কথা বলে।  \n2. বিকল্পগুলোর বিশ্লেষণ: \u003Cbr\u003Ea) গাড়িওয়ালা — সাধারণত নয়; b) পুলিশ — সাধারণত নয়; d) অন্য কেউ — অস্পষ্ট ও অপ্রযোজ্য।  \n3. উপসংহার: তারা সাধারণত নিজেদের নিয়ে চিৎকার করে, তাই সঠিক উত্তর হল c (নিজেদের)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56609,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "সর্দারজি পুরো সময় ক্লান্ত বোধ করেন।",
+        "solution": "সমাধান:\n1) প্রশ্নে বলা আছে “পুরো সময় ক্লান্ত বোধ করেন” — এটি একটি ধারাবাহিক/অবিরত অবস্থা উল্লেখ করছে।  \n2) যদি মূল বক্তব্যে বা পাঠ্যাংশে সর্দারজির ক্লান্তির ধারাবাহিকতা স্পষ্টভাবে উল্লেখ থাকে, তাহলে এই বিবৃতিটি সঠিক হিসেবে গ্রহণ করতে হবে।  \n3) তাই সঠিক উত্তর হলো (a) True; (b) False ভুল কারণ তা মূল বক্তব্যের ধারাবাহিক ক্লান্তির তথ্যের সঙ্গে বিরোধী।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56610,
+      "value": {
+        "options": {
+          "a": "পেশাওয়ার",
+          "b": "গাড়ি",
+          "c": "বাজার",
+          "d": "ছাত্ররা"
+        },
+        "question": "পাঠানদের মধ্যে __________ বেশী ভিড় নেই।",
+        "solution": "সমাধান:\nStep 1: বাক্যটি বুঝুন — \"পাঠানদের মধ্যে __________ বেশী ভিড় নেই।\" এখানে \"পাঠানদের মধ্যে\" বলতে একটি জনগোষ্ঠীর মধ্যেই আরেকটি জনগোষ্ঠী বা গোষ্ঠীর উপস্থিতি বোঝানো হয়েছে।\n\nStep 2: অপশনগুলো যাচাই করুন:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পেশাওয়ার — পেশাওয়ারেরা (পেশাওয়ার থেকে আগত লোক) একটি জনগোষ্ঠী, তাই \"পাঠানদের মধ্যে পেশাওয়ার বেশী ভিড় নেই\" অর্থপূর্ণ (অর্থাৎ পাঠানদের মধ্যে পেশাওয়ারদের সংখ্যা বেশি নয়)।\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E গাড়ি — অজীব বস্তু; \"পাঠানদের মধ্যে গাড়ি বেশী ভিড় নেই\" বাক্যে প্রাসঙ্গিক না।\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বাজার — স্থান; \"পাঠানদের মধ্যে বাজার বেশী ভিড় নেই\" অর্থবোধক নয়।\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ছাত্ররা — সম্ভবত মানে করা যায়, কিন্তু মূল প্রেক্ষাপট \"পাঠানদের মধ্যে\" জনজাতিগত/স্থানভিত্তিক গোষ্ঠীর তুলনা হওয়ায় \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বেশি উপযুক্ত।\n\nসুতরাং সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পেশাওয়ার।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56611,
+      "value": {
+        "options": [],
+        "question": "কীভাবে পাঠানেরা টাঙ্গা চালায়?",
+        "solution": "সমাধান:\nধাপ ১: পর্যবেক্ষণ — পাঠানরা প্রথাগতভাবে টাঙ্গা চালানোর সময় স্বাধীনভাবে সিদ্ধান্ত নেয় এবং ঝুঁকি সহ্য করে কাজ করে; তাদের চালনার ধরন স্বতন্ত্র ও নির্ভীক।  \nধাপ ২: বিশ্লেষণ — প্রশ্নে দেওয়া বিকল্পগুলোর মধ্যে যেটি তাদের আচরণ সবচেয়ে ভালোভাবে বর্ণনা করে তা হলো \"স্বাধীনভাবে এবং নির্ভয়ে\"।  \nধাপ ৩: উপসংহার — তাই সঠিক উত্তর হলো \"স্বাধীনভাবে এবং নির্ভয়ে\"। অন্যান্য বিকল্পগুলো যদি নির্ভরশীলতা বা ভয়ের চিত্র তুলে ধরে তা সত্যপর্যায়ে পাঠানদের প্রকৃত স্বভাবের সাথে মেলে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "স্বাধীনভাবে এবং নির্ভয়ে"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56612,
+      "value": {
+        "options": {
+          "a": "ভারত",
+          "b": "বাংলাদেশ",
+          "c": "পাকিস্তান",
+          "d": "আফগানিস্তান"
+        },
+        "question": "লেখক সৈয়দ মুজতবা আলী কোন দেশের নাগরিক?",
+        "solution": "সমাধান:\n১) লেখক সৈয়দ মুজতবা আলী ১৯০৪ সালে করিমগঞ্জ, আসামে (ভারতীয় উপনিবেশ — বর্তমানে ভারতের অংশ) জন্মগ্রহণ করেছিলেন।  \n২) জন্মস্থান এবং ঐতিহাসিক প্রেক্ষাপটের উপর ভিত্তি করে তার নাগরিকত্ব ভারতীয় হিসেবে গণ্য হয়। তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a: ভারত)।\n\nব্যাখ্যা: বাংলাদেশ ও পাকিস্তান তিনি পরে স্থায়ী নাগরিক ছিলেন না এবং আফগানিস্তানও সম্পর্কিত নয়, তাই বাকি অপশনগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56613,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "লেখক আলীগড় বিশ্ববিদ্যালয়ে পড়াশোনা করেছেন।",
+        "solution": "সমাধান: প্রথমে প্রশ্নে বা প্রদত্ত পাঠ্যে সরাসরি তথ্য খুঁজে দেখুন — যদি সেখানে বলা থাকে যে লেখক আলীগড় বিশ্ববিদ্যালয়ে পড়াশোনা করেছেন, তাহলে উক্ত বিবৃতি সত্য। প্রদত্ত উত্তর অনুযায়ী পাঠ্যে এমনটি বলা আছে, তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a: True)। অপশন b (False) ভুল কারণ তা পাঠ্যের সরাসরি বর্ণনার সঙ্গে বিরোধী।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56614,
+      "value": {
+        "options": {
+          "a": "১৯০৪",
+          "b": "১৯২৭",
+          "c": "১৯৭৪",
+          "d": "১৯০০"
+        },
+        "question": "সৈয়দ মুজতবা আলীর জন্ম __________ সালে।",
+        "solution": "সমাধান:\nধাপ ১: ঐতিহাসিক তথ্য অনুযায়ী সৈয়দ মুজতবা আলীর জন্ম [math]১৩\\ জানুয়ারি\\ ১৯০৪[/math]-এ ঘটে।  \nধাপ ২: প্রদত্ত অপশনগুলোর মধ্যে যে অপশনে জন্মবছর [math]১৯০৪[/math] আছে তা মিলিয়ে নেওয়া হচ্ছে — এটি অপশন a।  \nধাপ ৩: তাই সঠিক উত্তর হল অপশন a; অন্যান্য অপশনগুলো (১৯২৭, ১৯৭৪, ১৯০০) ঐতিহাসিক জন্মবছরের সাথে মেলে না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56615,
+      "value": {
+        "options": [],
+        "question": "সৈয়দ মুজতবা আলী কোথা থেকে স্নাতক ডিগ্রি লাভ করেন?",
+        "solution": "সমাধান: সৈয়দ মুজতবা আলীর জীবনী অনুসারে তিনি তাঁর স্নাতক ডিগ্রি পেয়েছিলেন সান্তিনিকেতনের বিশ্বভারতী বিশ্ববিদ্যালয় থেকে। ঐ সময় তিনি রবীন্দ্রসংস্কৃতির পরিবেশে অধ্যয়ন করেছিলেন, তাই স্নাতক পর্যায়ের শিক্ষা বিশ্বভারতীতেই সম্পন্ন করা হয়েছে। অতএব সঠিক উত্তর: বিশ্বভারতী।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বিশ্বভারতী"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56616,
+      "value": {
+        "options": {
+          "a": "শিক্ষক",
+          "b": "বিজ্ঞানী",
+          "c": "রাজনীতিবিদ",
+          "d": "সাহিত্যিক"
+        },
+        "question": "লেখকের কাবুলে পেশা কী ছিল?",
+        "solution": "সমাধান: লেখায় থাকা তথ্য বিশ্লেষণ করে পেশা নির্ণয় করতে হবে। ধাপ ১: লেখায় যদি লেখক ছাত্র-ছাত্রীদের পড়ানোর, ক্লাস নেওয়ার বা স্কুল/কলেজে নিয়োজিত থাকার সরাসরি বর্ণনা থাকে তবে সেটি স্পষ্টভাবে “শিক্ষক” নির্দেশ করে। ধাপ ২: অন্য বিকল্পগুলো কেন ভুল—যদি গবেষণা বা পরীক্ষাগারের কাজের উল্লেখ থাকত তাহলে \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (বিজ্ঞানী) হতে পারত; রাজনৈতিক কর্মকাণ্ড বা নির্বাচনী কাজের উল্লেখ থাকলে \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E (রাজনীতিবিদ) বিবেচিত হতো; এবং পূর্ণকালীন সাহিত্য রচনার উল্লেখ থাকলে \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E (সাহিত্যিক) হতো। লেখায় শিক্ষাদানের সরাসরি ইঙ্গিত থাকা দেখে সঠিক উত্তর (a) — শিক্ষক।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7381,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7381&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7381&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7381&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 148,
+  "total": 148
+}

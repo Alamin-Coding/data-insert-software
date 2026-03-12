@@ -1,0 +1,301 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747398,
+      "value": {
+        "options": {
+          "ক": "তাপমাত্রা",
+          "খ": "আবহাওয়া",
+          "গ": "মেঘ",
+          "ঘ": "জলবায়ু"
+        },
+        "question": "আকাশ ও বায়ুমণ্ডলের সাময়িক অবস্থাকে কী বলে?",
+        "solution": "খ. আবহাওয়া",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747399,
+      "value": {
+        "options": {
+          "ক": "সূর্যের অবস্থান",
+          "খ": "বায়ুপ্রবাহ",
+          "গ": "আর্দ্রতা",
+          "ঘ": "অক্ষাংশ"
+        },
+        "question": "আমরা দুপুরে গরম ও বিকেলে ঠাণ্ডা অনুভব করি। তাপমাত্রার এ পরিবর্তনের কারণ কী?",
+        "solution": "ক. সূর্যের অবস্থান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747400,
+      "value": {
+        "options": {
+          "ক": "তাপমাত্রা",
+          "খ": "বাতাস",
+          "গ": "আর্দ্রতা",
+          "ঘ": "বৃষ্টিপাত"
+        },
+        "question": "মেঘ সরিয়ে আকাশ পরিষ্কার করে কোনটি?",
+        "solution": "খ. বাতাস",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747401,
+      "value": {
+        "options": {
+          "ক": "বাড়তে থাকে",
+          "খ": "কমতে থাকে",
+          "গ": "পরিবর্তন হয় না",
+          "ঘ": "সর্বোচ্চ থাকে"
+        },
+        "question": "বিকেলে সূর্য যখন অস্ত যায় তখন বায়ু ধীরে ধীরে ঠাণ্ডা হয়। এ সময় তাপমাত্রা কেমন থাকে?",
+        "solution": "খ. কমতে থাকে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747402,
+      "value": {
+        "options": {
+          "ক": "বন্যা",
+          "খ": "খরা",
+          "গ": "সাইক্লোন",
+          "ঘ": "বৃষ্টি"
+        },
+        "question": "বায়ুপ্রবাহ কোনটির সৃষ্টি করে?",
+        "solution": "গ. সাইক্লোন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747403,
+      "value": {
+        "options": {
+          "ক": "বৃষ্টি",
+          "খ": "শিশির",
+          "গ": "বায়ু প্রবাহ",
+          "ঘ": "মেঘ"
+        },
+        "question": "আবহাওয়া পরিবর্তনের প্রধান কারণ কোনটি?",
+        "solution": "গ. বায়ু প্রবাহ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747404,
+      "value": {
+        "options": {
+          "ক": "বৃষ্টিপাত",
+          "খ": "তাপমাত্রা",
+          "গ": "বায়ুপ্রবাহ",
+          "ঘ": "আর্দ্রতা"
+        },
+        "question": "নিচের কোনটি আবহাওয়ার পরিবর্তন ঘটায়?",
+        "solution": "গ. বায়ুপ্রবাহ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13512&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13512&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13512&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 7,
+  "total": 7
+}

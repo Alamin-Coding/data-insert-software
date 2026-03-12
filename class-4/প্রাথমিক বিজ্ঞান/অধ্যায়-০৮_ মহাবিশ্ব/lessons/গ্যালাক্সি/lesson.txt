@@ -1,0 +1,529 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747332,
+      "value": {
+        "options": {
+          "ক": "সূর্য",
+          "খ": "চাঁদ",
+          "গ": "মেঘ",
+          "ঘ": "ধূলাবালি"
+        },
+        "question": "রাতে তুমি আকাশের দিকে তাকালে। এ সময় তুমি কোনটি দেখতে পাবে?",
+        "solution": "খ. চাঁদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747333,
+      "value": {
+        "options": {
+          "ক": "আকাশ",
+          "খ": "সূর্য",
+          "গ": "মেঘ",
+          "ঘ": "চাঁদ"
+        },
+        "question": "পৃথিবীর একমাত্র প্রাকৃতিক উপগ্রহ কোনটি?",
+        "solution": "ঘ. চাঁদ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747334,
+      "value": {
+        "options": {
+          "ক": "শিলা",
+          "খ": "মার্বেল",
+          "গ": "গ্যাস",
+          "ঘ": "ধূলিকণা"
+        },
+        "question": "চাঁদ কী দিয়ে গঠিত?",
+        "solution": "ক. শিলা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747335,
+      "value": {
+        "options": {
+          "ক": "সূর্য",
+          "খ": "নক্ষত্র",
+          "গ": "চাঁদ",
+          "ঘ": "জ্যোতিষ্ক"
+        },
+        "question": "মহাকাশের যে বস্তু পৃথিবীর চারদিকে ঘুরে তার নাম কী?",
+        "solution": "গ. চাঁদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747336,
+      "value": {
+        "options": {
+          "ক": "সূর্য",
+          "খ": "নক্ষত্র",
+          "গ": "কালপুরুষ",
+          "ঘ": "চাঁদ"
+        },
+        "question": "নিচের কোনটির নিজস্ব আলো নেই?",
+        "solution": "ঘ. চাঁদ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747337,
+      "value": {
+        "options": {
+          "ক": "৩০ দিন",
+          "খ": "সাড়ে ৩০ দিন",
+          "গ": "২৯ দিন",
+          "ঘ": "সাড়ে ২৯ দিন"
+        },
+        "question": "চাঁদ তার পূর্বের দশায় ফিরতে সময় নেয়—",
+        "solution": "ঘ. সাড়ে ২৯ দিন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747338,
+      "value": {
+        "options": {
+          "ক": "দূরবীক্ষণ",
+          "খ": "অণুবীক্ষণ",
+          "গ": "পেরিস্কোপ",
+          "ঘ": "ক্যামেরা"
+        },
+        "question": "নিচের কোনটির সাহায্যে আমরা চাঁদের গায়ে পাহাড়, পর্বত, উপত্যকা ইত্যাদি দেখতে পাই?",
+        "solution": "ক. দূরবীক্ষণ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747339,
+      "value": {
+        "options": {
+          "ক": "তারা",
+          "খ": "চাঁদ",
+          "গ": "সূর্য",
+          "ঘ": "আগুন"
+        },
+        "question": "দিনের বেলায় আকাশে আমরা কী দেখতে পাই?",
+        "solution": "গ. সূর্য",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747340,
+      "value": {
+        "options": {
+          "ক": "পাহাড়",
+          "খ": "উপত্যকা",
+          "গ": "পর্বত",
+          "ঘ": "শিলা"
+        },
+        "question": "চাঁদের গায়ে কোনটি দেখতে পাওয়া যায় না?",
+        "solution": "ঘ. শিলা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747341,
+      "value": {
+        "options": {
+          "ক": "চাঁদের দশা",
+          "খ": "চাঁদের বিস্তার",
+          "গ": "চাঁদের দৈর্ঘ্য",
+          "ঘ": "চাঁদের আবর্তন"
+        },
+        "question": "চাঁদের উজ্জ্বল অংশের আকৃতি পরিবর্তনকে কী বলে?",
+        "solution": "ক. চাঁদের দশা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747342,
+      "value": {
+        "options": {
+          "ক": "৭",
+          "খ": "৯",
+          "গ": "৮",
+          "ঘ": "১০"
+        },
+        "question": "চাঁদের পর্যায় কয়টি?",
+        "solution": "গ. ৮",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747343,
+      "value": {
+        "options": {
+          "ক": "১ দিন",
+          "খ": "সাড়ে ২৯ দিন",
+          "গ": "২৮ দিন",
+          "ঘ": "৩০ দিন"
+        },
+        "question": "কোন এক রাতে তুমি আকাশে চাঁদের একটি দশা দেখলে। ঐ একই দশা দেখতে হলে তোমাকে কতদিন অপেক্ষা করতে হবে?",
+        "solution": "খ. সাড়ে ২৯ দিন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747344,
+      "value": {
+        "options": {
+          "ক": "অমাবস্যা",
+          "খ": "শুক্লতারা",
+          "গ": "পূর্ণিমা",
+          "ঘ": "ক্রিসেন্ট"
+        },
+        "question": "মেধা এক রাতে চাঁদকে পূর্ণ থালার আকৃতিতে দেখতে পেল। চাঁদের এ দশাটির নাম কী?",
+        "solution": "গ. পূর্ণিমা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:49:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7411&grade=7&lesson=13506&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7411&grade=7&lesson=13506&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7411&grade=7&lesson=13506&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 13,
+  "total": 13
+}

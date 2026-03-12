@@ -1,0 +1,225 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746558,
+      "value": {
+        "options": {
+          "ক": "খনিজদ্রব্য",
+          "খ": "লোহা ও ইস্পাত",
+          "গ": "বনজ",
+          "ঘ": "কার্পাস বয়ন"
+        },
+        "question": "এশিয়ার শিল্পগুলোর মধ্যে উল্লেখযোগ্য কোনটি?",
+        "solution": "খ. লোহা ও ইস্পাত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7397,
+      "created_at": "2025-11-27T09:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746559,
+      "value": {
+        "options": {
+          "ক": "পাট",
+          "খ": "রাবার",
+          "গ": "চা",
+          "ঘ": "ভুট্টা"
+        },
+        "question": "এশিয়ার উৎপাদিত খাদ্যশস্য নিচের কোনটি?",
+        "solution": "ঘ. ভুট্টা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7397,
+      "created_at": "2025-11-27T09:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746560,
+      "value": {
+        "options": {
+          "ক": "ভুট্টা",
+          "খ": "তৈলবীজ",
+          "গ": "গম",
+          "ঘ": "বার্লিজ"
+        },
+        "question": "কোনটি উৎপাদনে এশিয়া পৃথিবীর মধ্যে প্রথম?",
+        "solution": "গ. গম",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7397,
+      "created_at": "2025-11-27T09:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746561,
+      "value": {
+        "options": {
+          "ক": "আখ",
+          "খ": "কফি",
+          "গ": "পাট",
+          "ঘ": "রেশম"
+        },
+        "question": "এশিয়ার প্রধান অর্থকরী ফসল কোনটি?",
+        "solution": "গ. পাট",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7397,
+      "created_at": "2025-11-27T09:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746562,
+      "value": {
+        "options": {
+          "ক": "এশিয়া",
+          "খ": "ইউরোপ",
+          "গ": "আফ্রিকা",
+          "ঘ": "উত্তর আমেরিকা"
+        },
+        "question": "পৃথিবীর কোন মহাদেশে সবচেয়ে বেশি ধান-উৎপাদন হয়?",
+        "solution": "ক. এশিয়া",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7397,
+      "created_at": "2025-11-27T09:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7397&grade=7&lesson=13445&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7397&grade=7&lesson=13445&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7397&grade=7&lesson=13445&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

@@ -1,0 +1,200 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 742700,
+      "value": {
+        "options": [],
+        "question": "A tailor takes care of teeth.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7326,
+      "created_at": "2025-11-27T06:00:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742701,
+      "value": {
+        "options": [],
+        "question": "A cleaner washes and cleans things.",
+        "solution": "T",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7326,
+      "created_at": "2025-11-27T06:00:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742702,
+      "value": {
+        "options": [],
+        "question": "A teacher helps us to learn.",
+        "solution": "T",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7326,
+      "created_at": "2025-11-27T06:00:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742703,
+      "value": {
+        "options": [],
+        "question": "A boatman takes people across a river.",
+        "solution": "T",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7326,
+      "created_at": "2025-11-27T06:00:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742704,
+      "value": {
+        "options": [],
+        "question": "A nurse sews and stitches clothes.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7326,
+      "created_at": "2025-11-27T06:00:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7326&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7326&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7326&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

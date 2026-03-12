@@ -1,0 +1,339 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746699,
+      "value": {
+        "options": {
+          "ক": "পোলাও",
+          "খ": "খিচুড়ি",
+          "গ": "পান্তা ভাত",
+          "ঘ": "বিরিয়ানি"
+        },
+        "question": "গরমের দিনে কৃষক পরিবারে নানারকম ভর্তা, ভাজি ও কাঁচামরিচ দিয়ে কী খাওয়ার প্রচলন রয়েছে?",
+        "solution": "গ. পান্তা ভাত",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746700,
+      "value": {
+        "options": {
+          "ক": "ক্ষীর",
+          "খ": "নাড়ু",
+          "গ": "পিঠা",
+          "ঘ": "দই"
+        },
+        "question": "হিন্দুরা বিভিন্ন পূজা উপলক্ষে কী তৈরি করেন?",
+        "solution": "খ. নাড়ু",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746701,
+      "value": {
+        "options": {
+          "ক": "মাংস ও ভাত",
+          "খ": "মাছ ও ভাত",
+          "গ": "ডাল ও ভাত",
+          "ঘ": "শাকসবজি ও ভাত"
+        },
+        "question": "আমাদের প্রধান খাবার কোনটি?",
+        "solution": "খ. মাছ ও ভাত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746702,
+      "value": {
+        "options": {
+          "ক": "সেমাই",
+          "খ": "মিষ্টি",
+          "গ": "পায়েস",
+          "ঘ": "হালুয়া"
+        },
+        "question": "শবেবরাতে কী তৈরি করা হয়?",
+        "solution": "ঘ. হালুয়া",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746703,
+      "value": {
+        "options": {
+          "ক": "মসলা",
+          "খ": "সবজি",
+          "গ": "টক",
+          "ঘ": "পনির"
+        },
+        "question": "খাবারকে সুস্বাদু করার জন্য আমরা কী ব্যবহার করি?",
+        "solution": "ক. মসলা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746704,
+      "value": {
+        "options": {
+          "ক": "দুধ",
+          "খ": "নারিকেল",
+          "গ": "চাল",
+          "ঘ": "ঘি"
+        },
+        "question": "আমাদের মিষ্টি খাবারগুলো সাধারণত কী দিয়ে তৈরি করা হয়?",
+        "solution": "ক. দুধ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746705,
+      "value": {
+        "options": {
+          "ক": "সেমাই",
+          "খ": "হালুয়া",
+          "গ": "পিঠা",
+          "ঘ": "পায়েস"
+        },
+        "question": "বড়দিনে খ্রিস্টানরা কী তৈরি করেন?",
+        "solution": "গ. পিঠা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746706,
+      "value": {
+        "options": {
+          "ক": "পোলাও",
+          "খ": "বিরিয়ানি",
+          "গ": "খিচুড়ি",
+          "ঘ": "পায়েস"
+        },
+        "question": "বৃষ্টির দিনে কোন খাবার খাওয়া বাঙালিদের সংস্কৃতিতে পরিণত হয়েছে?",
+        "solution": "গ. খিচুড়ি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7403&grade=7&lesson=13461&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7403&grade=7&lesson=13461&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7403&grade=7&lesson=13461&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 8,
+  "total": 8
+}

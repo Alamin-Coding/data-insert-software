@@ -1,0 +1,377 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747405,
+      "value": {
+        "options": {
+          "ক": "বৃষ্টি",
+          "খ": "শিশির",
+          "গ": "শিলা",
+          "ঘ": "আবহাওয়া"
+        },
+        "question": "শীতের সকালে ঘাসের উপর যে ক্ষুদ্র পানি-কণা সৃষ্টি হয়, এটিকে কী বলে?",
+        "solution": "খ. শিশির",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747406,
+      "value": {
+        "options": {
+          "ক": "মেঘ",
+          "খ": "বৃষ্টি",
+          "গ": "শিশির",
+          "ঘ": "বায়ুপ্রবাহ"
+        },
+        "question": "শীতের সকালে ঘাসের উপর হাঁটতে গিয়ে মিষ্টর পা ভিজে যায়। মিষ্টর পা ভেজার কারণ কী?",
+        "solution": "গ. শিশির",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747407,
+      "value": {
+        "options": {
+          "ক": "বর্ষাকালে",
+          "খ": "বসন্তকালে",
+          "গ": "শীতকালে",
+          "ঘ": "গ্রীষ্মকালে"
+        },
+        "question": "কুয়াশা কখন দেখা যায়?",
+        "solution": "গ. শীতকালে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747408,
+      "value": {
+        "options": {
+          "ক": "ধূসর স্তরীভূত মেঘ",
+          "খ": "সাদা স্তরীভূত মেঘ",
+          "গ": "উঁচু স্তূপাকার মেঘ",
+          "ঘ": "সাদা ধোঁয়ার মতো মেঘ"
+        },
+        "question": "নিচের কোনটি পুঁজমেঘ?",
+        "solution": "গ. উঁচু স্তূপাকার মেঘ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747409,
+      "value": {
+        "options": {
+          "ক": "বাতাস",
+          "খ": "শিশির",
+          "গ": "রোদ",
+          "ঘ": "জলীয়বাষ্প"
+        },
+        "question": "মেঘ তৈরি হয় কোনটি থেকে?",
+        "solution": "ঘ. জলীয়বাষ্প",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747410,
+      "value": {
+        "options": {
+          "ক": "মেঘ",
+          "খ": "শিলা",
+          "গ": "ধুলিকণা",
+          "ঘ": "শিশির"
+        },
+        "question": "আবহাওয়া অবস্থা কোনটি থেকে তৈরি হয়?",
+        "solution": "গ. ধুলিকণা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747411,
+      "value": {
+        "options": {
+          "ক": "শিলা",
+          "খ": "মেঘ",
+          "গ": "বৃষ্টি",
+          "ঘ": "ধুলিকণা"
+        },
+        "question": "বড় পানি-কণাগুলো যখন বাতাসে ভেসে বেড়াতে পারে না, তখন ফোঁটা ফোঁটা পানি নিচে নেমে আসে। এ ফোঁটা ফোঁটা পানি কণাকে কী বলে?",
+        "solution": "গ. বৃষ্টি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747412,
+      "value": {
+        "options": {
+          "ক": "বৃষ্টিতে",
+          "খ": "জলীয়বাষ্পে",
+          "গ": "কুয়াশায়",
+          "ঘ": "শিলাতে"
+        },
+        "question": "রৌদ্রের তাপে সাগর বা নদীর পানি বাষ্পীভূত হয়ে কিসে পরিণত হয়?",
+        "solution": "খ. জলীয়বাষ্পে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747413,
+      "value": {
+        "options": {
+          "ক": "পাথর কণার সমষ্টি",
+          "খ": "ক্ষুদ্র পানি-কণার সমষ্টি",
+          "গ": "শিলাদানার সমষ্টি",
+          "ঘ": "বড় পানি-কণার সমষ্টি"
+        },
+        "question": "আকাশে সাদা, কালো, ধূসর বর্ণের মেঘ ভেসে বেড়াতে দেখা যায়। এগুলো মূলত কীসের সমষ্টি?",
+        "solution": "খ. ক্ষুদ্র পানি-কণার সমষ্টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13513&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13513&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13513&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 9,
+  "total": 9
+}

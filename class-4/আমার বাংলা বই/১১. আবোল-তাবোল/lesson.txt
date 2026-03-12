@@ -1,0 +1,4278 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 744379,
+      "value": {
+        "options": [],
+        "question": "ঘ্যাঁচং ঘ্যাঁচ",
+        "solution": "এক কোপে কিছু কেটে ফেলার আওয়াজ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744379,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744380,
+      "value": {
+        "options": [],
+        "question": "ধাঁই ধপাধপ আওয়াজে কোথায় তবলা বাজছে?",
+        "solution": "যে মনের খেয়ালে আবোল-তাবোল কথা বলে যাচ্ছে, থামার কোনো চেষ্টা করছে না তার মনের মাঝে ধাঁই ধপাধপ আওয়াজে তবলা বাজছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744380,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744381,
+      "value": {
+        "options": [],
+        "question": "কখন গানের পালা সাঙ্গ হলো?",
+        "solution": "আবোল-তাবোল কথা বলতে বলতে যখন লোকটার চোখে ঘুম ঘনিয়ে এলো তখন গানের পালা সাঙ্গ হলো।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744381,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744382,
+      "value": {
+        "options": [],
+        "question": "লোকটিকে থামানো যায় না কেন?",
+        "solution": "লোকটি মনের সুখে অনর্গল কথা বলছে। আর একবার লোকটির কথা ছুটলে তাকে থামানো যায় না। সে কথা বলতেই থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744383,
+      "value": {
+        "options": [],
+        "question": "ঘোর",
+        "solution": "আবেশ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744384,
+      "value": {
+        "options": [],
+        "question": "সাজ্জা",
+        "solution": "শুরু",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744385,
+      "value": {
+        "options": [],
+        "question": "ঘন",
+        "solution": "হালকা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744386,
+      "value": {
+        "options": [],
+        "question": "ঠেকায়",
+        "solution": "থামায়",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744387,
+      "value": {
+        "options": [],
+        "question": "মন",
+        "solution": "অন্তর",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744388,
+      "value": {
+        "options": [],
+        "question": "ঘুম",
+        "solution": "তন্দ্রা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744389,
+      "value": {
+        "options": [],
+        "question": "কথা",
+        "solution": "বচন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744390,
+      "value": {
+        "options": [],
+        "question": "ঘুম",
+        "solution": "ঘুম শরীরের জন্য খুবই উপকারী।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744391,
+      "value": {
+        "options": [],
+        "question": "সাঙ্গ",
+        "solution": "আমার যাত্রা সাঙ্গ হলো।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744392,
+      "value": {
+        "options": [],
+        "question": "কথা",
+        "solution": "বাচ্চাটি এখনো কথা বলতে শেখেনি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744393,
+      "value": {
+        "options": {
+          "ক": "পেঁচ",
+          "খ": "প্যাঁচ",
+          "গ": "পেচ",
+          "ঘ": "প্যাচ"
+        },
+        "question": "নিচের কোন বানানটি সঠিক?",
+        "solution": "খ. প্যাঁচ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744394,
+      "value": {
+        "options": [],
+        "question": "ন্ত",
+        "solution": "ন্‌ + ত = অনন্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744395,
+      "value": {
+        "options": [],
+        "question": "'আবোল-তাবোল' কবিতাটির মূলভাব লেখ।",
+        "solution": "আবোল-তাবোল কথা বলার মানে, মনের খেয়ালে কথা বলতে থাকা। আমরা কথা বলি যাতে অন্যে সে-কথা শোনে এবং শুনে কিছু একটা করে। যেমন, যদি বলি- মা, ভাত খাব। মা তখন আমায় ভাত দিতে ছুটবেন! কিন্তু যদি ভূতের মতো নাকি সুরে বলি &#39;আঁউ মাঁউ খাঁউ ভাঁতের গন্ধ পাউ&#39; তখন মা ভাববেন, আমি খেলা করছি। সেটা তখন আবোল-তাবোল কথা হয়ে গেল, যে কথার অর্থ\u003Cbr /\u003E\nনেই, যে কথা দিয়ে কিছু বোঝাতে চাইছি না।",
+        "correct_answer": null
+      },
+      "question_type_id": 61,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 61,
+        "name": "মূলভাব",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744396,
+      "value": {
+        "options": [],
+        "question": "তবলা",
+        "solution": "একপ্রকার বাদ্যযন্ত্র।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744396,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744397,
+      "value": {
+        "options": [],
+        "question": "প্যাঁচ",
+        "solution": "মোচড়, মোড়ানো।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744397,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744398,
+      "value": {
+        "options": [],
+        "question": "ঘুম",
+        "solution": "তন্দ্রা, নিদ্রা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744398,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744399,
+      "value": {
+        "options": [],
+        "question": "সাঙ্গ",
+        "solution": "শেষ, সমাপ্ত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744399,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744400,
+      "value": {
+        "options": [],
+        "question": "লোকটি _____ করে গাছের ডালটি কেটে ফেলল।",
+        "solution": "ঘ্যাঁচাং ঘ্যাঁচ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744400,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744401,
+      "value": {
+        "options": [],
+        "question": "_____ দেওয়া কথা বোঝা যায় না।",
+        "solution": "প্যাঁচ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744401,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744402,
+      "value": {
+        "options": [],
+        "question": "তাড়াতাড়ি খেলাধুলা _____ করো, পড়তে বসতে হবে।",
+        "solution": "সাঙ্গ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744402,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744403,
+      "value": {
+        "options": [],
+        "question": "পরীক্ষায় ভালো রেজাল্ট করায় তার _____ আনন্দের ঢেউ বয়ে যায়।",
+        "solution": "মনের মাঝে",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744403,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744404,
+      "value": {
+        "options": [],
+        "question": "কী ছুটছে যাকে থামানো যাচ্ছে না?",
+        "solution": "কথা ছুটছে যাকে থামানো যাচ্ছে না।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744404,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744405,
+      "value": {
+        "options": [],
+        "question": "আবোল-তাবোল কথা বলার মানে কী?",
+        "solution": "আবোল-তাবোল কথা বলার মানে হলো মনের খেয়ালে কথা বলতে থাকা। আবোল-তাবোল কথা হলো যে কথার কোনো অর্থ নেই, যে কথা দিয়ে কিছু বোঝাতে চাওয়া হয় না। আবোল-তাবোল কথা এমনি এমনি অহেতুক বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744406,
+      "value": {
+        "options": [],
+        "question": "আমরা সাধারণত কথা বলি কেন? আর আবোল-তাবোল কথা বলতে কী বোঝ? উদাহরণসহ লেখ।",
+        "solution": "আমরা সাধারণত কথা বলি যাতে অন্যে সে কথা শোনে এবং শুনে কিছু একটা করে। যেমন- যদি বলি মা, ক্ষুধা লেগেছে, ভাত খাব। মা তখন আমাকে ভাত দিতে ব্যস্ত হবেন। কিন্তু যদি ভূতের মতো নাকি সুরে বলি, &quot;আউ মাঁউ খাঁউ ভাঁতের গন্ধ পাউ, আমার ক্ষুধা লেগেছে মাঁউ&quot; মা তখন ভাববেন, আমি দুষ্টুমি বা মজা করছি। এটা তখন আবোল-তাবোল বা অকারণ কথা হয়ে গেল। সুতরাং আবোল-তাবোল কথা বলতে বুঝি মনের খেয়ালে কথা বলতে থাকা। যে কথার অর্থ নেই, যে কথা দিয়ে কাউকে কিছু বোঝানো হয় না, যা অহেতুক বা &#39;অকারণ তাই হলো আবোল-তাবোল কথা।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744407,
+      "value": {
+        "options": [],
+        "question": "মনের মাঝে",
+        "solution": "মনের ভিতরে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744408,
+      "value": {
+        "options": [],
+        "question": "পালা",
+        "solution": "পর্যায়, স্তর।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744409,
+      "value": {
+        "options": [],
+        "question": "কথায় কাটে কথার _____।",
+        "solution": "প্যাঁচ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744410,
+      "value": {
+        "options": [],
+        "question": "আজকে",
+        "solution": "কালকে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744411,
+      "value": {
+        "options": [],
+        "question": "প্যাঁচ",
+        "solution": "মোড়ানো",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744412,
+      "value": {
+        "options": [],
+        "question": "প্যাঁচ",
+        "solution": "দড়িটায় প্যাঁচ লেগেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744413,
+      "value": {
+        "options": {
+          "ক": "দাঁড়ি (।)",
+          "খ": "কমা (,)",
+          "গ": "প্রশ্নসূচক (?)",
+          "ঘ": "কোলন (:)"
+        },
+        "question": "‘ছুটলে কথা, থামায় কে’— বাক্যের শেষে কোন বিরামচিহ্ন বসবে?",
+        "solution": "গ. প্রশ্নসূচক (?)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744414,
+      "value": {
+        "options": {
+          "ক": "গানের",
+          "খ": "কথার",
+          "গ": "ঘুমের",
+          "ঘ": "ব্যাথার"
+        },
+        "question": "কীসের ঘোর ঘনিয়ে এলো?",
+        "solution": "গ. ঘুমের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744415,
+      "value": {
+        "options": {
+          "ক": "হিমু",
+          "খ": "ছোটো রাজা",
+          "গ": "পাগলা দাশু",
+          "ঘ": "পথে প্রবাসে"
+        },
+        "question": "সুকুমার রায়ের অমর সৃষ্টির মধ্যে অন্যতম-",
+        "solution": "গ. পাগলা দাশু",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744416,
+      "value": {
+        "options": [],
+        "question": "যা সোজা-সরল নয়",
+        "solution": "প্যাঁচ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744417,
+      "value": {
+        "options": [],
+        "question": "খুব জোরেশোরে খটাখট শব্দ",
+        "solution": "রাম-খটাখট",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744418,
+      "value": {
+        "options": [],
+        "question": "ঘনিয়ে এলো",
+        "solution": "ঘন হয়ে এলো, জড়ো হলো।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744418,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744419,
+      "value": {
+        "options": [],
+        "question": "তুহিন লেখাপড়ায় এত ভালো যে ওকে _____ কে?",
+        "solution": "ঠেকায়",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744419,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744420,
+      "value": {
+        "options": [],
+        "question": "বসে থাকতে থাকতে তার ঘুম _____ ।",
+        "solution": "ঘনিয়ে এলো",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744420,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744421,
+      "value": {
+        "options": [],
+        "question": "লোকটির গানের পালা সাঙ্গ হলো কেন? চারটি বাক্যে লেখ।",
+        "solution": "লোকটি ঘুমানোর আগ পর্যন্ত আবোল-তাবোল কথা বলে। সে মনের আনন্দে কেবলই বকবক করে কথা বলে চলেছে। যতক্ষণ তার দুচোখে ঘুম না নামল, ততক্ষণ সে এমনটাই করে গেল। অর্থাৎ ঘুমিয়ে পড়ার কারণে তার গানের পালা সাঙ্গ হলো।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744422,
+      "value": {
+        "options": [],
+        "question": "বাজা",
+        "solution": "ধ্বনিত হওয়া।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744423,
+      "value": {
+        "options": [],
+        "question": "আজকে _____ আমায় কে?",
+        "solution": "ঠেকায়",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744424,
+      "value": {
+        "options": [],
+        "question": "ধাঁই ধপাধপ _____ বাজে।",
+        "solution": "তবলা",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744425,
+      "value": {
+        "options": [],
+        "question": "গানের পালা _____ মোর।",
+        "solution": "সাঙ্গ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744426,
+      "value": {
+        "options": [],
+        "question": "মাঝে",
+        "solution": "বাইরে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744427,
+      "value": {
+        "options": [],
+        "question": "ঠেকায়",
+        "solution": "চালায়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744428,
+      "value": {
+        "options": [],
+        "question": "আমার",
+        "solution": "তোমার",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744429,
+      "value": {
+        "options": [],
+        "question": "গান",
+        "solution": "সংগীত",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744430,
+      "value": {
+        "options": [],
+        "question": "তবলা",
+        "solution": "ছেলেটি ভালো তবলা বাজায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744431,
+      "value": {
+        "options": {
+          "ক": "ট্রেন",
+          "খ": "তবলা",
+          "গ": "গাড়ি",
+          "ঘ": "কথা"
+        },
+        "question": "কী ছুটলে কেউ থামাতে পারে না?",
+        "solution": "ঘ. কথা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744432,
+      "value": {
+        "options": {
+          "ক": "বাঁশি",
+          "খ": "একতারা",
+          "গ": "দোতারা",
+          "ঘ": "তবলা"
+        },
+        "question": "‘আবল-তাবল’ ছড়ায় মনের মাঝে কী বাজে?",
+        "solution": "ঘ. তবলা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744433,
+      "value": {
+        "options": {
+          "ক": "দাঁড়ি (।)",
+          "খ": "কমা (,)",
+          "গ": "প্রশ্নসূচক (?)",
+          "ঘ": "কোলন (:)"
+        },
+        "question": "‘গানের পালা সাঙ্গ মোর’— এ বাক্যের শেষে কোন বিরামচিহ্ন বসবে?",
+        "solution": "ক. দাঁড়ি (।)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744434,
+      "value": {
+        "options": {
+          "ক": "২৮",
+          "খ": "২৯",
+          "গ": "৩০",
+          "ঘ": "৩১"
+        },
+        "question": "সুকুমার রায় জন্মগ্রহণ করেন অক্টোবর মাসের কত তারিখ?",
+        "solution": "গ. ৩০",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744435,
+      "value": {
+        "options": [],
+        "question": "প্য",
+        "solution": "প + য (য-ফলা) = প্যান্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744436,
+      "value": {
+        "options": [],
+        "question": "ঙ্গ",
+        "solution": "ঙ্‌ + গ = সাঙ্গ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744437,
+      "value": {
+        "options": [],
+        "question": "ন্ধ",
+        "solution": "ন্‌ + ধ = বন্ধ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744438,
+      "value": {
+        "options": [],
+        "question": "এক কোপে কিছু কেটে ফেলার আওয়াজ",
+        "solution": "ঘ্যাঁচাং ঘ্যাঁচ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744439,
+      "value": {
+        "options": [],
+        "question": "তবলার শব্দ",
+        "solution": "ধাঁই ধপাধপ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744440,
+      "value": {
+        "options": [],
+        "question": "ঠেকায়",
+        "solution": "বাধা দেয়, মানা করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744440,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744441,
+      "value": {
+        "options": [],
+        "question": "রাম-খটাখট",
+        "solution": "খুব জোরেশোরে খটাখট শব্দ। (রাম শব্দটি দিয়ে আমরা বড় আকারের কিছু বোঝাই। যেমন- রামছাগল, রামবোকা,  হাদারাম)।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744441,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744442,
+      "value": {
+        "options": [],
+        "question": "কথায় কী কাটে?",
+        "solution": "কথায় কাটে কথার প্যাঁচ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744442,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744443,
+      "value": {
+        "options": [],
+        "question": "লোকটির মনে মাঝে কী বাজে? কীভাবে বাজে?",
+        "solution": "লোকটির মনের মাঝে তবলা বাজে। তার মনে ধাঁই ধপাধপ তবলা বাজে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744444,
+      "value": {
+        "options": [],
+        "question": "লোকটির কথার প্যাঁচ কীভাবে কাটে?",
+        "solution": "লোকটি ঘুমানোর আগ পর্যন্ত অনেক কিছু চিন্তা করে একাই কথা বলছে। সে নিজেই নিজের কথার উত্তর দিচ্ছে। আর এ কারণেই কথা দিয়ে সে তার কথার প্যাঁচ দূর করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744445,
+      "value": {
+        "options": [],
+        "question": "আর্বোল-তাবোল",
+        "solution": "এলোমেলো কথা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744446,
+      "value": {
+        "options": [],
+        "question": "আজকে ____ মনের মাঝে।",
+        "solution": "আমার",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744447,
+      "value": {
+        "options": [],
+        "question": "থামায়",
+        "solution": "চালায়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744448,
+      "value": {
+        "options": [],
+        "question": "আজ",
+        "solution": "অদ্য",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744449,
+      "value": {
+        "options": [],
+        "question": "ছুটলে কথা থামায় কে\u003Cbr\u003E\nআজকে ঠেকায় আমায় কে\u003Cbr\u003E\nআজকে আমার মনের মাঝে\u003Cbr\u003E\nধাঁই ধপাধপ তবলা বাজে\u003Cbr\u003E\nরাম খটাখট ঘ্যাঁচাং ঘ্যাঁচ",
+        "solution": "ছুটলে কথা, থামায় কে?\u003Cbr /\u003E\nআজকে ঠেকায় আমায় কে?\u003Cbr /\u003E\nআজকে আমার মনের মাঝে\u003Cbr /\u003E\nধাঁই ধপাধপ তবলা বাজে-\u003Cbr /\u003E\nরাম-খটাখট ঘ্যাঁচাং ঘ্যাঁচ",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744450,
+      "value": {
+        "options": {
+          "ক": "সুকুমার রায়",
+          "খ": "কামিনী রায়",
+          "গ": "অম্লানজ্যোতি রায়",
+          "ঘ": "হরিহর রায়"
+        },
+        "question": "‘আবল-তাবল’ ছড়াটি কে লিখেছেন?",
+        "solution": "ক. সুকুমার রায়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744451,
+      "value": {
+        "options": {
+          "ক": "মনের",
+          "খ": "চোখের",
+          "গ": "কথার",
+          "ঘ": "মুখের"
+        },
+        "question": "কথায় কীসের প্যাঁচ কাটে?",
+        "solution": "গ. কথার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744452,
+      "value": {
+        "options": {
+          "ক": "যাত্রার",
+          "খ": "নাচের",
+          "গ": "কথার",
+          "ঘ": "গানের"
+        },
+        "question": "কীসের পালা সাঙ্গ হলো?",
+        "solution": "ঘ. গানের",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744453,
+      "value": {
+        "options": {
+          "ক": "১৮৮৭ সালে",
+          "খ": "১৮৮৭ সালে",
+          "গ": "১৮৮৮ সালে",
+          "ঘ": "১৮৮৯ সালে"
+        },
+        "question": "সুকুমার রায় কত সালে জন্মগ্রহণ করেন?",
+        "solution": "ক. ১৮৮৭ সালে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744454,
+      "value": {
+        "options": {
+          "ক": "উপন্যাস",
+          "খ": "হাসির গল্প ও কবিতা",
+          "গ": "নাটক",
+          "ঘ": "কঙ্কালকাহিনি"
+        },
+        "question": "সুকুমার রায় বিখ্যাত হয়ে আছেন ছোটোদের জন্য কী লিখে?",
+        "solution": "খ. হাসির গল্প ও কবিতা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744455,
+      "value": {
+        "options": {
+          "ক": "পুত্র",
+          "খ": "ভাই",
+          "গ": "পিতা",
+          "ঘ": "বন্ধু"
+        },
+        "question": "সত্যজিৎ রায় ছিলেন সুকুমার রায়ের-",
+        "solution": "ক. পুত্র",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744456,
+      "value": {
+        "options": {
+          "ক": "১৯২২ সালে",
+          "খ": "১৯২৩ সালে",
+          "গ": "১৯২৪ সালে",
+          "ঘ": "১৯২৫ সালে"
+        },
+        "question": "সুকুমার রায় মৃত্যুবরণ করেন কত সালে?",
+        "solution": "খ. ১৯২৩ সালে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744457,
+      "value": {
+        "options": [],
+        "question": "চ্ছ",
+        "solution": "চ্ + ছ = শুভেচ্ছা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744458,
+      "value": {
+        "options": [],
+        "question": "ক্ষ",
+        "solution": "ক্ + ষ = ক্ষতস্থান",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744459,
+      "value": {
+        "options": [],
+        "question": "স্ক",
+        "solution": "স্ + ক = পুরস্কার",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744460,
+      "value": {
+        "options": [],
+        "question": "তন্দ্রাচ্ছন্ন ভাব",
+        "solution": "ঘুমের ঘোর",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-11-27T06:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 189333,
+      "value": {
+        "options": {
+          "a": "আবোল তাবোল",
+          "b": "পাগলা দাশু",
+          "c": "অবরোধবাসিনী",
+          "d": "খাইখাই"
+        },
+        "question": "কোনটি সুকুমার রায়ের রচনা নয়?",
+        "chapter_id": "1341",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-08-07T16:44:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186785,
+      "value": {
+        "options": {
+          "a": "সুকুমার রায়",
+          "b": "হুমায়ুন আহমেদ",
+          "c": "অন্নদাশঙ্কর রায়",
+          "d": "উপেন্দ্রকিশোর রায়চৌধুরী"
+        },
+        "question": "আবোল-তাবোল ছড়ার লেখক কে?",
+        "chapter_id": "1341",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 162248,
+      "value": {
+        "options": {
+          "a": "হুমায়ুন আহমেদ",
+          "b": "সুকুমার রায়",
+          "c": "অন্নদাশঙ্কর রায়",
+          "d": "উপেন্দ্রকিশোর রায়চৌধুরী"
+        },
+        "question": "কোন লেখক শিশুদের জন্য হাসির ছড়া লিখেছেন?",
+        "chapter_id": "1341",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-08-01T18:13:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 147935,
+      "value": {
+        "options": {
+          "a": "সত্য",
+          "b": "মিথ্যা"
+        },
+        "question": "সুকুমার রায় শিশুসাহিত্যিক হিসাবে পরিচিত হলেও তিনি রাজনীতির সাথে যুক্ত ছিলেন না।",
+        "solution": "সমাধান:\n\nউত্তর: মিথ্যা (b)\n\nউত্তর প্রদানের কৌশল:\n1. প্রশ্নের বক্তব্যটি বিশ্লেষণ করা — “সুকুমার রায় শিশুসাহিত্যিক হিসাবে পরিচিত হলেও তিনি রাজনীতির সাথে যুক্ত ছিলেন না” একটি চরমজনক (absolute) দাবি।\n2. ঐতিহাসিক ও সাংস্কৃতিক প্রেক্ষাপট যাচাই করা — কোনো ব্যক্তি শুধু রাজনৈতিক কর্মকর্তা নয়েও রাজনৈতিক/সামাজিক আন্দোলন বা সমালোচনার সঙ্গে যুক্ত থাকতে পারে; সাংস্কৃতিক কাজেও রাজনৈতিক অর্থ থাকা সম্ভব।\n\nপ্রধান যুক্তি ও পর্যবেক্ষণ:\n- সুকুমার রায় প্রধানত বাচ্চাদের বই ও হাস্যরসাত্মক রচনার জন্য পরিচিত এবং তিনি শিশু সাহিত্য ও হিউমারের মধ্যে স্বতন্ত্র অবদান রেখেছেন। কিন্তু এটিই বোঝায় না যে তিনি সম্পূর্ণভাবে রাজনীতি থেকে আলাদা ছিলেন।\n- তিনি 'স্যান্ডেশ' জাতীয় প্রকাশনা ও সাংস্কৃতিক কাজে সক্রিয় ছিলেন এবং তার রচনাগুলোতে অনেক সময় সমাজ, প্রশাসন ও জীবনের ব্যঙ্গাত্মক উপস্থাপনা আছে, যা সমালোচনামূলক চিন্তাকে উদ্দীপ্ত করে — এটি সাংগঠনিক রাজনৈতিক কাজ না হলেও সামাজিক-নৈতিক এবং রাজনৈতিক মন্তব্য হিসেবে দেখা যায়।\n- এছাড়া তার পারিপার্শ্বিক ও বৌদ্ধিক জগত ও সমসাময়িক বুদ্ধিজীবী-চর্চার সঙ্গে সংযোগও ছিল, ফলে তিনি সরাসরি রাজনৈতিক কর্মী না হলেও সাংস্কৃতিক রাজনীতি বা সামাজিক সমালোচনার অংশ ছিলেন।\n\nনির্ধারণ:\n- প্রশ্নে থাকা “তিনি রাজনীতির সাথে যুক্ত ছিলেন না” — এই কঠোর/সম্পূর্ণ বিচ্ছেদকে ইতিহাস সমর্থন করে না। তাই বক্তব্যটি মিথ্যা।",
+        "chapter_id": "1341",
+        "explanation": "ব্যাখ্যা: উক্তিটি মিথ্যা, কারণ সুকুমার রায় কেবল শিশুসাহিত্যিক ছিলেন না — তাঁর রচনায় ও নাটকে সামাজিক ও রাজনৈতিক বিষয়গুলোকে ব্যঙ্গ করে সমালোচনা দেখা যায় এবং তিনি তৎকালীন সাহিত্যিক‑সাংস্কৃতিক পরিসরে রাজনীতিক চিন্তার সঙ্গে জড়িত ছিলেন; তাই বলা যে তিনি রাজনীতির সাথে যুক্ত ছিলেন না, ভুল।",
+        "correct_answer": "b"
+      },
+      "question_type_id": 4,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-30T10:41:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 4,
+        "name": "True False",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 147930,
+      "value": {
+        "options": [],
+        "question": "সুকুমার রায়ের পরিচয় ও তাঁর রচনা সম্পর্কে কি জানেন?",
+        "solution": "সমাধান:\n\nউত্তর দেওয়ার পদ্ধতি:\n- প্রথমে লেখকের সংক্ষিপ্ত পরিচয় বলা হবে।\n- এরপর তাঁর রচনার ধরন ও বৈশিষ্ট্য অনুসরণ করে প্রধান কৃতিত্বগুলো উল্লেখ করা হবে।\n- শেষেই সংক্ষিপ্ত উপসংহার দেওয়া হবে।\n\nধাপ ১ — পরিচয়:\nসুকুমার রায় (জন্ম ১৮৮৭ — মৃত্যু ১৯২৩) বাংলার প্রখ্যাত লেখক ও চিত্রশিল্পী ছিলেন। তিনি বিশেষভাবে শিশুসাহিত্য ও হাস্যরসাত্মক রচনায় পরিচিত ছিলেন। তিনি ভাষার খেলায় পারদর্শী এবং কল্পনাশক্তি ভালোভাবে কাজে লাগাতেন।\n\nধাপ ২ — রচনার বৈশিষ্ট্য ও ধারাবাহিকতা:\n- প্রধানত শিশু ও কিশোরদের জন্য রসবোধযুক্ত কাব্য, গল্প ও নাটক রচনা করেছেন।\n- ভাষায় শব্দ-খেলা, বাচনভঙ্গি ও বর্ণনায় অবিচিত কল্পনার সংমিশ্রণ দেখা যায় (ননসেন্স সাহিত্যের বৈশিষ্ট্য)।\n- রচনায় ব্যঙ্গ-বিদ্রূপ, কৌতুক এবং মনোজ্ঞ চরিত্রগঠন প্রাধান্য পায়, যা শিশুদের মাঝে বিনোদন ও বুদ্ধিবিকাশ দুটোই ঘটায়।\n\nধাপ ৩ — প্রধান রচনা ও তাদের স্বরূপ (উদাহরণস্বরূপ):\n- 'আবোল-তাবোল' — ননসেন্স কাব্যসংগ্রহ, যেখানে অদ্ভুত চরিত্র ও শব্দ-খেলার মাধ্যমে হাস্যরস উপস্থাপিত হয়েছে।\n- 'পাগলা দাশু' — হাস্যরসাত্মক কাহিনী-সংকলন, যেখানে দাশু নামের চরিত্রের দুরন্ত ও ব্যতিক্রমী কীর্তির বর্ণনা আছে।\n(উপরোক্ত দুই গ্রন্থই শিশুসাহিত্য ও বাংলা ননসেন্স সাহিত্যে বিশেষভাবে মূল্যবান।)\n\nউপসংহার:\nসুকুমার রায় ছিলেন প্রধানত শিশুসাহিত্যিক ও হাস্যরস লেখক; তাঁর জনপ্রিয় রচনাগুলোর মধ্যে 'আবোল-তাবোল' ও 'পাগলা দাশু' বিশেষ পরিচিত এবং বাংলা সাহিত্যে দীর্ঘস্থায়ী প্রভাব রেখেছে।",
+        "chapter_id": "1341",
+        "explanation": "ব্যাখ্যা: সুকুমার রায় বাংলা সাহিত্যের একজন প্রখ্যাত শিশুসাহিত্যিক ও রসিক কবি; তিনি শিশুরা ও সাধারণ পাঠকদের বিনোদনের জন্য রসাত্মক ছড়া ও হাস্যরসাত্মক গল্প লিখেছেন। তার দুই প্রধান রচনা হলো 'আবোল-তাবোল' (ছড়ার সংকলন) ও 'পাগলা দাশু' (হাস্যরসাত্মক গল্পসংগ্রহ), তাই উক্ত উত্তরটি সঠিক।",
+        "correct_answer": "তিনি শিশুসাহিত্যিক ছিলেন এবং 'আবোল-তাবোল' ও 'পাগলা দাশু' লিখেছিলেন।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-30T10:40:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136734,
+      "value": {
+        "options": {
+          "a": "শিশুর আনন্দ",
+          "b": "আবোল তাবোল",
+          "c": "বড়দের কবিতা",
+          "d": "বালকদের গল্প"
+        },
+        "question": "শিশুসাহিত্যিক সুকুমার রায়ের সবচেয়ে পরিচিত কাজ কী?",
+        "solution": "সমাধান:\n1. ধাপ ১: শিশুসাহিত্যিক সুকুমার রায়ের সবচেয়ে পরিচিত ও প্রসিদ্ধ কাজ হলো \"আবোল তাবোল\" — এটি বাচ্চাদের জন্য রচিত রসাত্মক এবং অদ্ভুত কবিতা ও কৌতুকের সংগ্রহ।  \n2. ধাপ ২: এটি তার লেখা রচনাগুলোর মধ্যে সর্বাধিক পরিচিত ও পাঠকপ্রিয় হওয়ার কারণে সঠিক উত্তর হলো b: আবোল তাবোল।  \n3. ধাপ ৩: অন্যান্য অপশনগুলি এই প্রসঙ্গে ততটাই জনপ্রিয় নয় — \"শিশুর আনন্দ\", \"বড়দের কবিতা\", \"বালকদের গল্প\" তার প্রধান পরিচিত কাজ হিসেবে পরিচিত নয়।",
+        "chapter_id": "1341",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130186,
+      "value": {
+        "options": {
+          "a": "ভ্রমণকাহিনি",
+          "b": "কবিতা ও ছড়া",
+          "c": "নাটক",
+          "d": "উপন্যাস"
+        },
+        "question": "সুকুমার রায়ের রচনাসমূহের মধ্যে কী ধরনের সাহিত্য অন্তর্ভুক্ত?",
+        "solution": "সমাধান:\nধাপ ১: সুকুমার রায় বাংলা শিশুসাহিত্য ও ননসেন্স কবিতার জন্য বিখ্যাত; তাঁর পরিচিত কृति হলো \"আবোল-তাবোল\" যা ছড়া ও কবিতার সংগ্রহ।  \nধাপ ২: এই তথ্য অনুযায়ী সঠিক বিকল্প হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E — কবিতা ও ছড়া।  \nখারিজের ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (ভ্রমণকাহিনি), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (নাটক) ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (উপন্যাস) প্রধানত তাঁর প্রধান পরিচয় নয়, তাই সেগুলি ভুল।",
+        "chapter_id": "1341",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-27T12:30:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130187,
+      "value": {
+        "options": {
+          "a": "হ.য.ব.র.ল",
+          "b": "মতিচুর",
+          "c": "পদ্মরাগ",
+          "d": "সাঁঝের মায়া"
+        },
+        "question": "অন্নদাশঙ্কর রায়ের উল্লেখযোগ্য গ্রন্থের মধ্যে কোনটি অন্তর্ভুক্ত?",
+        "solution": "সমাধান: অন্নদাশঙ্কর রায় একজন প্রতিষ্ঠিত বাংলা সাহিত্যিক; তার রচনাসমগ্রে বিশেষভাবে পরিচিত হচ্ছে \"সাঁঝের মায়া\"। তাই প্রদত্ত বিকল্পগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E সঠিক। বাকি বিকল্পগুলো (a, b, c) অন্নদাশঙ্কর রায়ের বিশিষ্ট গ্রন্থ হিসেবে পরিচিত নয়,তাই তারা বাতিল।",
+        "chapter_id": "1341",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-27T12:30:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130188,
+      "value": {
+        "options": {
+          "a": "ছড়া ও হাসির গল্প লেখা",
+          "b": "পদ্য রচনা",
+          "c": "নাটক লেখা",
+          "d": "জীবনী লেখা"
+        },
+        "question": "বিহারী লেখকের মধ্যে সুকুমার রায়ের বিশেষত্ব কী?",
+        "solution": "সমাধান:\nসুকুমার রায় প্রধানত শিশুসাহিত্য ও হাস্যরসযুক্ত ছড়া ও হাসির গল্প লেখার জন্য প্রসিদ্ধ ছিলেন—তার পরিচিত কাব্যগ্রন্থগুলোর মধ্যে যেমন \u003Ci\u003Eঅবোল-তাবোল\u003C/i\u003E রয়েছে, যা ছড়া ও রসাত্মক লেখার মিশ্রণ। তাই দেওয়া অপশনগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (ছড়া ও হাসির গল্প লেখা) সঠিক। অন্যান্য অপশনগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (পদ্য রচনা) যদিও কিছু কাব্য রচনা আছে, তার প্রধান পরিচয় নয়; \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E (নাটক লেখা) ও \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E (জীবনী লেখা) তার বিশেষ দক্ষতার ক্ষেত্রে পড়ে না।",
+        "chapter_id": "1341",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-27T12:30:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 106658,
+      "value": {
+        "options": {
+          "a": "দুইটা বিষয়ই হাসির সাথে সম্পর্কিত।",
+          "b": "ছোটদের জন্য লেখা ও স্বাস্থ্যবিধির গুরুত্ব।",
+          "c": "শিশুসাহিত্য ও খেলাধুলার মিল।",
+          "d": "সৃষ্টির সময়কাল ও চরিত্রের নাম।"
+        },
+        "question": "সুকুমার রায়ের সৃষ্টি ও অন্তুর পরিচ্ছন্নতার অভ্যাসের মধ্যে কী সম্পর্ক রয়েছে?",
+        "solution": "সমাধান:\nধাপ ১: সুকুমার রায় মূলত শিশুদের জন্য রচনা করতেন এবং তার রচনায় কৌতুকের সঙ্গে নৈতিক শিক্ষা ও জীবনাচরণের প্রসঙ্গও থাকতে দেখা যায়।  \nধাপ ২: \"অন্তুর পরিচ্ছন্নতার অভ্যাস\" একটি স্বাস্থ্যবিধি/পরিচ্ছন্নতা সম্পর্কিত শিক্ষা, যা বিশেষভাবে শিশুদের মধ্যে গঠনমূলক অভ্যাস হিসেবে প্রতিষ্ঠা করা যায়।  \nধাপ ৩: তাই সুকুমার রায়ের সৃষ্টি ও অন্তুর পরিচ্ছন্নতার অভ্যাসের সম্পর্ক হলো—ছোটদের জন্য লেখা ও স্বাস্থ্যবিধির গুরুত্ব, অর্থাৎ বিকল্প b সঠিক।  \n\nঅন্য বিকল্পগুলোর অপ্রাসঙ্গিকতা সংক্ষেপে: বিকল্প a কেবল হাস্যরসের কথা বলছে কিন্তু পরিচ্ছন্নতা হাস্যরসের সঙ্গে সরাসরি সম্পর্কিত নয়; বিকল্প c খেলাধুলার কথা বলেছে যা এখানে নেই; বিকল্প d সময়কাল বা চরিত্রের নাম সম্পর্কিত যা প্রশ্নের উদ্দেশ্য নয়।",
+        "chapter_id": "1341",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-17T03:57:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56460,
+      "value": {
+        "options": {
+          "a": "অভিনব গল্প",
+          "b": "ছুটোছুটি",
+          "c": "ছাত্রদের শিক্ষা",
+          "d": "মনের আনন্দ"
+        },
+        "question": "ছড়াটির মূল বিষয় কি?",
+        "solution": "সমাধান:\n1. প্রথমে ছড়াটির প্রধান ক্রিয়া ও আবেগ পর্যবেক্ষণ করতে হবে — ছড়ায় বারবার দৌড়ানো, খেলাধুলা বা শিশুদের চলাফেরা নিয়ে প্রকাশ থাকলে তা ছুটোছুটি নির্দেশ করে।\n2. ছড়ার শব্দচয়ন ও চিত্রায়নে খেলার দৃশ্য স্পষ্ট হওয়ায় মূল বিষয় হিসেবে ছুটোছুটিই সুস্পষ্ট হয়।\n3. তাই সঠিক উত্তর (b) ছুটোছুটি। অন্যগুলো ভুল কারণ (a) অভিনব গল্প — ছড়া কোন দীর্ঘ গল্প বলছে না; (c) ছাত্রদের শিক্ষা — নীতিবাক্য বা শিক্ষা মূলত প্রতীয়মান নয়; (d) মনের আনন্দ — অনুভূতি থাকতে পারে, কিন্তু তা প্রধান বিষয় না হয়ে ছুটোছুটির ফলাফল বা তীব্রতা মাত্র।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56461,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "ছড়াটিতে ঘুমের কথা বলা হয়েছে।",
+        "solution": "সমাধান:\nStep 1: ছড়াটি খুব মনোযোগ দিয়ে পড়ে দেখুন যে সেখানে কোন শব্দ বা ভাব আছে কিনা যা ঘুম বোঝায় (যেমন \"ঘুম\", \"নিদ্রা\", \"ঘুমিয়ে পড়া\" ইত্যাদি)।  \nStep 2: ছড়ায় স্পষ্টভাবে ঘুম সম্পর্কিত শব্দ/বর্ণনা আছে বলে বিষয়টি সত্য হিসেবে প্রমাণিত হয়। তাই সঠিক উত্তর হলো a (True)।  \nবিকল্প b (False) ভুল, কারণ ছড়ায় ঘুমের কথার উল্লেখ পাওয়া যায়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56462,
+      "value": {
+        "options": {
+          "a": "১৮৭০",
+          "b": "১৮৮৭",
+          "c": "১৯০০",
+          "d": "১৮৯৫"
+        },
+        "question": "সুকুমার রায় ____________তে জন্মগ্রহণ করেন।",
+        "solution": "সমাধান:\nচরণ ১: পরিচিত ইতিহাসগত তথ্য অনুযায়ী সাহিত্যিক ও ব্যঙ্গচিত্রশিল্পী সুকুমার রায় ৩০ অক্টোবর ১৮৮৭ সালে জন্মগ্রহণ করেন।  \nচরণ ২: তাই প্রদত্ত অপশনগুলোর মধ্যে সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (১৮৮৭)।  \nঅন্য অপশনগুলি কেন ভুল: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (১৮৭০), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (১৯০০) ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (১৮৯৫) — এগুলি সুকুমার রায়ের প্রকৃত জন্মবছরের সঙ্গে মেলে না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56463,
+      "value": {
+        "options": [],
+        "question": "ছড়ার মূল বিষয় কী তা লিখুন।",
+        "solution": "সমাধান:\n1. প্রথমে ছড়ার সারমর্ম পড়লে দেখা যায় প্রধানভাবে ছুটতে থাকা কণ্ঠস্বর, আলাপ-আচরণ এবং গতির ওপর জোর দেওয়া হয়েছে—এগুলো থেকে মূল ভাব খুঁজে নেওয়া যায়।  \n2. ছড়ার পুনরাবৃত্ত উপাদান এবং শেষের সারিতে যা প্রকাশ পেয়েছে তা থেকে বোঝা যায় এটি মূলত ছুটলে কথার বিষয়ে—অর্থাৎ দৌড়ানোর কালীন কথাবার্তা বা প্রাণবন্ত আলাপই কেন্দ্রীয় বিষয়।  \n3. অন্য সম্ভাব্য বিষয় যেমন প্রকৃতি, দুঃখ বা নীরবতা উপমিত হলেও ছড়ার প্রতিটি লাইন এগুলোর পরিবর্তে দৌড়নো ও কথা বলাকে গুরুত্ব দিয়েছে, তাই সেগুলো মূল বিষয় নয়।  \n\nউপসংহার: ছড়ার মূল বিষয় হলো “ছুটলে কথা”।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ছুটলে কথা"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56464,
+      "value": {
+        "options": {
+          "a": "গিটার",
+          "b": "তবলা",
+          "c": "হারমোনিয়াম",
+          "d": "ড্ৰাম"
+        },
+        "question": "ছড়াটিতে কোন বাদ্যযন্ত্রের কথা বলা হয়েছে?",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ:\n1. ছড়ার ভাষা ও শব্দ-অনুকরণ (যেমন তাল, ঠোকাঠোক, কাঁপা শব্দ) যদি উপস্থিত থাকে, তবে তা কোনো তালবাদ্য অর্থাৎ হাতে বাজানো ঢাকার類 বাদ্যযন্ত্র নির্দেশ করে।\n2. প্রদত্ত চারটি বিকল্পের মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E তবলা হলো ভারতীয় উপমহাদেশে প্রচলিত হাতে বাজানো জোড়া ঢোল—ছড়ায় যে ধরনের তালবদ্ধ শব্দ থাকে তা তবলায় পাওয়া যায়।\n3. অন্য অপশনগুলো অনুপযুক্ত কারণ: গিটার ও হারমোনিয়াম স্ট্রিং/কী ব্যবহার করে সুরমুখী যন্ত্র, এবং ড্ৰাম (পশ্চিমা ড্রাম কিট) সাধারণত ছড়ার সাংস্কৃতিক প্রসঙ্গে তবলার মতো বর্ণনা পায় না।\n\nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E তবলা।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56465,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "সুকুমার রায় শিশুসাহিত্যিক ছিলেন।",
+        "solution": "সমাধান:\n১) সুকুমার রায় বাংলার বিখ্যাত শিশুতোষ ও আবোলতাবোল ধরনের কাব্যরচনায় খ্যাত একজন লেখক ও কবি।  \n২) তার প্রধান রচনার মধ্যে আছে \u003Ci\u003Eঅবলতাবোল\u003C/i\u003E এবং শিশুসাহিত্যভিত্তিক গল্প-রচনাগুলো যেমন \u003Ci\u003Eপাগলা দাশু\u003C/i\u003E, যা শিশু ও কিশোরদের মধ্যে খুবই জনপ্রিয়।  \n৩) তাই বিবৃতিটি সত্য — সঠিক উত্তর হলো (a)। (b) ভুল, কারণ তিনি শিশু সাহিত্য রচনায় পরিচিত ছিলেন।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56466,
+      "value": {
+        "options": {
+          "a": "স্পষ্ট",
+          "b": "অর্থহীন",
+          "c": "সঠিক",
+          "d": "বিদ্যালয়ের"
+        },
+        "question": "তাদের বলেনি আবোল-তাবোল কথা ____________।",
+        "solution": "সমাধান:\n1. ধাপ ১: শব্দগুচ্ছ \"আবোল-তাবোল কথা\" বলতে এমন কথা বোঝায় যা বোঝা যায় না বা কোনো অর্থ নেই — অর্থাৎ বেম্যসাল, অপ্রাসঙ্গিক বা অর্থহীন কথা।\n2. ধাপ ২: প্রদত্ত বিকল্পগুলোর সঙ্গে মিলিয়ে দেখা যায়: a \"স্পষ্ট\" (এটি বিপরীত), b \"অর্থহীন\" (সঠিক মিল), c \"সঠিক\" (অপ্রাসঙ্গিক), d \"বিদ্যালয়ের\" (সম্পূর্ণ সম্পর্কহীন)।\n3. উপসংহার: যথার্থ উত্তর হল বিকল্প b \"অর্থহীন\"।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56467,
+      "value": {
+        "options": [],
+        "question": "সুকুমার রায় কবে মৃত্যুবরণ করেন?",
+        "solution": "সমাধান:\n১. সুকুমার রায়ের জীবনবৃত্তান্ত বা আধিকারিক জীবনী দেখে মৃত্যু তারিখ যাচাই করা হয়।  \n২. বিশ্বাসযোগ্য সূত্র অনুযায়ী (উদাহরণ: প্রতিটি সাহিত্যভিত্তিক জীবনী ও বিশ্বকোষ) তিনি মারা যান \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ১৯২৩ সালের ১০ই সেপ্টেম্বর।  \n৩. তাই অন্য বছরের বা ভিন্ন দিনের অপশনগুলো ভুল, কারণ মূল জীবনী ও ঐতিহাসিক নথিপত্রে এই একই তারিখই consistently উল্লেখ আছে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "১৯২৩ সালের ১০ই সেপ্টেম্বর"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56468,
+      "value": {
+        "options": {
+          "a": "বড়দের",
+          "b": "শিশুদের",
+          "c": "কিশোরদের",
+          "d": "বয়স্কদের"
+        },
+        "question": "ছড়াটি কাদের জন্য লেখা হয়েছে?",
+        "solution": "সমাধান: কবিতার ভাষা সহজ ও খেলাধুলোধর্মী, বর্ণনা ছোটদের মনম Rezোনে উপযোগী (যেমন খেলনা, প্রাণী বা গণনা-ধাঁচের পংক্তি) এবং সরল আহ্বান বা খেলার নির্দেশ থাকলে তা সাধারণত শিশুকর্মেই লেখা হয়। ধাপে ধাপে: (১) কবিতার শব্দচয়ন ও ছন্দ পরীক্ষা করলে দেখা যায় ভাষা সরল ও আনন্দমুখর; (২) বিষয়বস্তু শিশুসম্মত (খেলা, স্নেহ, সহজ শিক্ষা); (৩) তাই লক্ষ্য পাঠক বাচ্চারা—অর্থাৎ বিকল্প (b) শিশুদের সঠিক। অন্যান্য বিকল্পগুলো ভুল কারণ বড়/কিশোর/বয়স্কদের জন্য সাধারণত জটিল ভাবনা, দীর্ঘ বাক্য বা গভীর ভাবনাচিন্তা থাকে, যা এখানে অনুপস্থিত।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56469,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "ছড়ায় মনের খেয়ালে কথা বলা হয়েছে।",
+        "solution": "সমাধান: ছড়ার নির্দিষ্ট পঙক্তিতে স্পষ্টভাবে \"মনের খেয়ালে কথা বলা\" উল্লেখ রয়েছে, তাই বাক্যটি পাঠ্যভিত্তিকভাবে সঠিক। অতএব সঠিক উত্তর হলো a (True)। বিকল্প b মিথ্যা, কারণ প্রদত্ত বিবৃতি ছড়ার সঙ্গে সামঞ্জস্যপূর্ণ নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56470,
+      "value": {
+        "options": {
+          "a": "দেখবে",
+          "b": "থামাবে",
+          "c": "শুনবে",
+          "d": "বলবে"
+        },
+        "question": "ছড়ার লাইন অনুযায়ী, আমায় ____________ কে?",
+        "solution": "সমাধান: প্রথমে বাক্যের শেষের শব্দ \"কে\" দেখে বোঝা যায় এটি কারো উপর প্রশ্নভঙ্গি — \"কারা আমাকে ... করবে?\" অর্থাৎ ক্রিয়াটি ভবিষ্যত কালেই হওয়া প্রয়োজন। তাই এমন একটি ক্রিয়া দরকার যা \"আমায়\"‑এর সঙ্গে মানায় ও অর্থগতভাবে প্ররোচক (যেমন \"কারা আমাকে থামাবে?\") — তা হচ্ছে \"থামাবে\"। অতএব সঠিক উত্তর: b: থামাবে; অন্যগুলোর (দেখবে, শুনবে, বলবে) এই প্রসঙ্গে অর্থ বা খেয়ালপত্র অনুযায়ী প্রাসঙ্গিকতা নেই।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56471,
+      "value": {
+        "options": [],
+        "question": "কোন শব্দটি আঁধারে রূপান্তরিত হয়?",
+        "solution": "সমাধান:\nধাপ ১: এখানে \"আঁধারে রূপান্তরিত\" অর্থ হলো এমন একটি অবস্থা বা বিষয় যা গেলে দৃশ্য বা অবস্থান অন্ধকারে চলে যায়।  \nধাপ ২: যখন কেউ \u003Cspan class=\"cq-explanation-label\"\u003Eঘুম\u003C/span\u003Eায় (চোখ বন্ধ করে), তখন দেখার অভিজ্ঞতা অন্ধকারে পরিণত হয়। তাই সঠিক উত্তর হলো \"ঘুম\"।  \nব্যাখ্যা: অন্যান্য সম্ভাব্য শব্দ যেমন \"আলো\" বা \"প্রভাত\" উলটো অর্থে উজ্জ্বলতার সঙ্গে সম্পর্কিত, সেগুলি আঁধারের দিকে রূপান্তরিত হয় না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ঘুম"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56472,
+      "value": {
+        "options": {
+          "a": "শব্দ",
+          "b": "ঢাল",
+          "c": "ঘনিয়ে",
+          "d": "নাচ"
+        },
+        "question": "দেওয়া শব্দগুলোর মধ্যে কোনটি ছড়ায় ব্যবহৃত হয়েছে?",
+        "solution": "সমাধান:\nধাতুর গুণবাচক বা ক্রিয়ার বর্ণনা করে যে শব্দগুলোকে ছড়া (ক্রিয়াবিশেষণ) বলে—যেমন ক্রিয়ার ধরণ, সময়, পরিমাণ ইত্যাদি প্রকাশ করে। পর্যবেক্ষণ করলে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (ঘনিয়ে) ক্রিয়াকে বর্ণনা করে, উদাহরণ: “বৃষ্টি ঘনিয়ে পড়ছে” — এখানে “ঘনিয়ে” হলো ক্রিয়ার বর্ণনা, অর্থাৎ ছড়া। অন্যগুলো—শব্দ, ঢাল, নাচ—সাধারণত বিশেষ্য বা ক্রিয়ার মূল রূপ (নাম) হিসেবে ব্যবহৃত হয় এবং ছড়া হিসেবে ব্যবহৃত হয় না। সুতরাং সঠিক উত্তর: c (ঘনিয়ে)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56473,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "ছড়ায় গান গাওয়ার কথা বলা হয়েছে।",
+        "solution": "সমাধান: প্রশ্নের বাক্যটি সরাসরি বলছে যে ছড়ায় গান গাওয়ার কথা বলা হয়েছে, অর্থাৎ ছড়ার ভেতর গান গাওয়া বা গান গাওয়ার আহ্বান উপস্থিত। প্রথম ধাপ: বক্তব্যের অর্থ বিশ্লেষণ করলে দেখা যায় এটি একটি সরাসরি বিবৃতি যা ছড়ার বিষয়বস্তু সম্পর্কে জানায়। দ্বিতীয় ধাপ: যেহেতু বাক্যটি স্পষ্টভাবে গান গাওয়ার উল্লেখ করছে, তাই এটি সঠিক — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বিকল্প (a: True) হলো সঠিক উত্তর। বিকল্প (b: False) ভুল, কারণ তা প্রশ্নের সরাসরি দাবিকে প্রত্যাখ্যান করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56474,
+      "value": {
+        "options": {
+          "a": "সত্যজিৎ রায়",
+          "b": "উপেন্দ্রকিশোর রায় চৌধুরী",
+          "c": "অমি রায়",
+          "d": "প্রবীণ রায়"
+        },
+        "question": "সুকুমার রায়ের পিতার নাম ____________।",
+        "solution": "সমাধান:\nStep 1: ইতিহাসগত পরিচিতি অনুযায়ী, সুকুমার রায়ের পিতা ছিলেন উপেন্দ্রকিশোর রায় চৌধুরী।  \nStep 2: উপেন্দ্রকিশোর ছিলেন একজন খ্যাতনামা লেখক ও প্রিন্টিং শিল্পপতী, এবং এটাই সুকুমার রায়ের ঐতিহাসিক পারিবারিক সূত্র থেকে নিশ্চিত হয়।  \nঅতএব সঠিক উত্তর: b) উপেন্দ্রকিশোর রায় চৌধুরী।  \nঅন্য অপশনগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E সত্যজিৎ রায় আসলে সুকুমার রায়ের পুত্র নন—তিনি সুকুমারের পুত্র, এবং \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E, \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E অপ্রাসঙ্গিক নাম।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56475,
+      "value": {
+        "options": [],
+        "question": "বাক্যটি সম্পূর্ণ করুন: 'আমার মনের মাঝে ____________ তবলা বাজে।'",
+        "solution": "সমাধান:\n1. প্রথমে বাক্যের প্রেক্ষাপট বিশ্লেষণ করি: \"তবলা বাজে\" — এখানে তবলার তালবদ্ধ, ছন্দধর্মী শব্দ প্রয়োজন যা তবলার ধ্বনি অনুকরণ করে।\n2. উপযুক্ত অনুকরণধ্বনি বেছে নেওয়া: \"ধাই ধপাধপ\" শব্দযুগলটি তবলার ধর্মেকে (বাঁশি বা ঘণ্টার মত ধ্বনি নয়) ছন্দ এবং স্পন্দন মিলিয়ে সঠিকভাবে কল্পিত করে।\n3. তাই বাক্যটি পূরণ করলে হবে: \"আমার মনের মাঝে ধাই ধপাধপ তবলা বাজে।\" অন্যান্য সম্ভাব্য বিকল্পগুলো যদি অনুকরণধ্বনি না করে বা তবলার ছন্দ অনুকরণ না করে (যেমন স্থির শব্দ বা ভিন্ন বাদ্যের অনুকরণ) তাহলে সেগুলো অপ্রয়োজ্য কারণ সঠিক ছন্দ ও প্রতিধ্বনি মেলেনা।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ধাই ধপাধপ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56476,
+      "value": {
+        "options": {
+          "a": "তবলা",
+          "b": "গান",
+          "c": "কথার প্যাচ",
+          "d": "অনুশীলনী"
+        },
+        "question": "ছড়ার কোন অংশ বারবার পড়লে শোনা যায়?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নের মানে বুঝে নিতে হবে—ছড়ায় যে অংশটি বারবার পুনরাবৃত্তি করে শোনা যায় সেটি হল refr ain বা পুনরাবৃত্ত অংশ।  \nধাপ ২: বিকল্পগুলো যাচাই করলে দেখা যায় \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তবলা একটি বাদ্যযন্ত্র, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E গান সাধারণভাবে পুরো কাব্য নয়, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অনুশীলনী কোনো অংশের নাম নয়, আর \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কথার প্যাচ অর্থাৎ ছড়ার পুনরাবৃত্ত অংশ—এটিই বারবার শোনা যায়।  \nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কথার প্যাচ।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56477,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বলতে বলা আবোল-তাবোল কথা অর্থহীন।",
+        "solution": "সমাধান:\nধাপ ১: শব্দবিশ্লেষণ — \"আবোল-তাবোল\" কথাটি বাংলা ভাষায় সাধারণত অর্থহীন, বোধগম্য নয় এমন কথা বোঝাতে ব্যবহৃত হয়।  \nধাপ ২: বিবৃতিটি যাচাইকরণ — বিবৃতিটি বলছে \"বলতে বলা আবোল-তাবোল কথা অর্থহীন।\" যা সরাসরি উপরের শব্দার্থের সঙ্গে一致 করে।  \nঅতএব সঠিক উত্তর হল a (True)। অপশন b (False) ভুল, কারণ তা শব্দটির প্রকৃত অর্থের পরিপন্থী।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56478,
+      "value": {
+        "options": {
+          "a": "কাটে",
+          "b": "বিরতি",
+          "c": "ধ্বংস",
+          "d": "তীব্র"
+        },
+        "question": "কথার প্যাচ ____________।",
+        "solution": "সমাধান:\nধাপ ১: বাক্যে উপযুক্ত সমাহিতি খুঁজে দেখি — বাংলা কথোপকথনে সাধারণত “কথা কাটে” বা “প্যাচ কাটে” বলে, যেখানে “কাটে” অর্থৎ কথায় বিঘ্ন বা চীষ্টা হওয়া।  \nধাপ ২: বিকল্পগুলো যাচাই করা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E “কাটে” একটি ক্রিয়া হিসেবে বাক্যের সঙ্গে মানানসই; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E “বিরতি” নাম এবং ব্যাকরণগতভাবে অংশবাচক নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E “ধ্বংস” ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E “তীব্র” অর্থগতভাবে মিলছে না।  \nঅতএব সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E — কাটে।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56479,
+      "value": {
+        "options": [],
+        "question": "ছড়ায় কতগুলো শব্দের আওয়াজের কথা বলা হয়েছে?",
+        "solution": "সমাধান:\nছড়াটি মনোযোগ দিয়ে পড়লে অনুকরণধর্মী (onomatopoeic) শব্দ হিসেবে দেখা যায় \"ধাই\" এবং \"ধপাধপ\" — এগুলোই শব্দের আওয়াজ। সেগুলোর সংখ্যা নিয়ে প্রশ্ন করলে মোট দুইটি আলাদা আওয়াজ বলা হয়েছে, তাই সঠিক উত্তর হল \"ধাই ধপাধপ\"। অন্য বিকল্পগুলো ভুল কারণ সেগুলোতে বা তো একটাই আওয়াজ আছে বা ভিন্ন কোনো শব্দ দেওয়া আছে, কিন্তু ছড়ায় যে দুটি আওয়াজ আছে তা হলো উপরের দুটি।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ধাই ধপাধপ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56480,
+      "value": {
+        "options": {
+          "a": "আবোল তাবোল",
+          "b": "ডাঁশু",
+          "c": "পাগলা দাশু",
+          "d": "ওয়ার্ল্ড ফেমাস"
+        },
+        "question": "সুকুমার রায়ের কোন কবিতা উল্লেখ করা হয়নি?",
+        "solution": "সমাধান:\nStep 1: সুকুমার রায়ের পরিচিত রচনা হলো বাচ্চাদের জন্যের হাস্যরসাত্মক বাগধারা — যেমন \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E আবোল তাবোল এবং \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাগলা দাশু।  \nStep 2: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ডাঁশু-ও তার নানান রংধনু চরিত্রের মধ্যে দেখা যায়।  \nStep 3: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ওয়ার্ল্ড ফেমাস (World Famous) একটি ইংরেজি শিরোনাম, এটি সুকুমার রায়ের পরিচিত কোনো কবিতা/রচনা নয়। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56481,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মনের খেয়ালে কথা বলতে থাকা একটা আনন্দের ব্যাপার।",
+        "solution": "সমাধান:\n1. প্রথমে বাক্যটির অর্থ নির্ধারণ করি: \"মনের খেয়ালে কথা বলতে থাকা\" মানে নিজে নিজে ভেবে বা মনের ভাব প্রকাশ করা, যা অনেক সময় স্বতঃস্ফূর্ত আনন্দ দেয়।\n2. মূল্যায়ন: এটি সাধারণত মানসিক চাপ কমায়, সৃজনশীলতা বাড়ায় এবং নিজেকে প্রকাশ করার একটি সহজ উপায় হওয়ায় অনেকের জন্য আনন্দদায়ক।\n3. উপসংহার: তাই বিবৃতিটি সত্য—সঠিক উত্তর হল a। বিকল্প b ভুল, কারণ এটি বলে যে এটা আনন্দের ব্যাপার নয়, যা সাধারণ অভিজ্ঞতার সঙ্গে মানানসই নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56482,
+      "value": {
+        "options": {
+          "a": "ঘনিয়ে",
+          "b": "ভোঁ ভোঁ",
+          "c": "ঠেকায়",
+          "d": "ঘন্টা"
+        },
+        "question": "রান্নাঘরে ____________ শব্দ হয়।",
+        "solution": "সমাধান: প্রশ্নটি জানাচ্ছে যে বাক্যটিতে রান্নাঘরে কোন ধরনের শব্দ হয় সেটি পূরণ করতে হবে — অর্থাৎ শব্দ বা আওয়াজ বোঝানো শব্দ দরকার।\n\nধাপ ১: প্রতিটি বিকল্প বিশ্লেষণ করা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ঘনিয়ে — ঘন হওয়া বা ঘনত্ব বোঝায়, শব্দ নয়;  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভোঁ ভোঁ — কুকুরের ভোঁ ভোঁ, রান্নাঘরের সাধারণ আওয়াজ নয়;  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ঠেকায় — কোনো জিনিস ধাক্কা খেয়ে বা ভাঁজে শব্দ করা, যেমন বাসন-পাত্রের দাঁড়িকাঠামো বা কুকার ঠেকানোর শব্দ, রান্নাঘরে প্রযোজ্য আওয়াজ;  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ঘন্টা — সময় বা ঘণ্টা বোঝায়, শব্দ হিসেবে প্রাসঙ্গিক নয়।\n\nধাপ ২: উপযুক্ততার ভিত্তিতে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ঠেকায় হল সঠিক উত্তর কারণ এটি রান্নাঘরে বস্তু সংঘর্ষ বা আঘাতের ফলে হওয়া আওয়াজকে নির্দেশ করে।  \n\nসঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ঠেকায়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56483,
+      "value": {
+        "options": [],
+        "question": "গানের পালা কখন সাঙ্গ হলো তা লিখুন।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি বুঝুন — এখানে জানতে চাওয়া হয়েছে গানের পালা কখন সাঙ্গ হলো কি না।  \nধাপ ২: মূল পাঠ্য বা বর্ণনা খুঁটিয়ে দেখুন — পাঠ্যে গানের শেষ হওয়ার সময় বা কোনো নির্দিষ্ট সংকেত স্পষ্টভাবে দেওয়া হয়নি।  \nধাপ ৩: যেহেতু লেখায় কোনো সময় বা ঘটনার উল্লেখ নেই, তাই সঠিক উত্তর হলো \"কখনো বলা হয়নি\"।  \nঅন্য সম্ভাব্য বিকল্পগুলো ভুল, কারণ সেগুলোকে সমর্থন করার জন্য পাঠ্যে কোনো তথ্য নেই।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "কখনো বলা হয়নি"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7375,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7375&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7375&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7375&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 116,
+  "total": 116
+}

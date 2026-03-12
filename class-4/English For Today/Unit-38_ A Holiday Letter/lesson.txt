@@ -1,0 +1,2403 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 742673,
+      "value": {
+        "options": [],
+        "question": "Moloy is talking to",
+        "solution": "Tania",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742681,
+      "value": {
+        "options": [],
+        "question": "Visit",
+        "solution": "To go somewhere",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742680,
+      "value": {
+        "options": [],
+        "question": "Limon is a student of Class 3. He gets up at (a) _____. Then he brushes his teeth and takes a bath. He has his breakfast at (b) _____. He starts for school at (c) _____. He comes back home at (d) _____. Then he goes to the playground at (e) _____.",
+        "solution": "(a) 6 a.m.; (b) 7 a.m.; (c) 8 a.m.; (d) 12 p.m.; (e) 5 p.m.",
+        "correct_answer": null
+      },
+      "question_type_id": 57,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 57,
+        "name": "blank (info related)",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742679,
+      "value": {
+        "options": [],
+        "question": "They will _____ (drink) juice.",
+        "solution": "drink",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742678,
+      "value": {
+        "options": [],
+        "question": "They will _____ (do) many exciting things!",
+        "solution": "do",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742677,
+      "value": {
+        "options": [],
+        "question": "_____ is everything?",
+        "solution": "How",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742676,
+      "value": {
+        "options": [],
+        "question": "_____ is he going to Cox's Bazar?",
+        "solution": "When",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742675,
+      "value": {
+        "options": [],
+        "question": "The place Moloy will visit",
+        "solution": "Cox's Bazar",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742674,
+      "value": {
+        "options": [],
+        "question": "Moloy will go with",
+        "solution": "Family",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742682,
+      "value": {
+        "options": [],
+        "question": "Thanks for your letter Im happy you enjoyed your holiday in oxford last week i'm going on holiday next week my exams will end on the 6th november then, on the 7th we'll go to dhaka and stay with my uncles family.",
+        "solution": "Thanks for your letter! I&#39;m happy you enjoyed your holiday in Oxford last week! I&#39;m going on holiday next week. My exams will end on the 6th November. Then, on the 7th we&#39;ll go to Dhaka and stay with my uncle&#39;s family.",
+        "correct_answer": null
+      },
+      "question_type_id": 19,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742672,
+      "value": {
+        "options": [],
+        "question": "Enjoy",
+        "solution": "to get pleasure from something",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742671,
+      "value": {
+        "options": [],
+        "question": "What is the unique aspect of Cox's Bazar sea beach?",
+        "solution": "Cox's Bazar sea beach is the longest beach in the world.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742670,
+      "value": {
+        "options": [],
+        "question": "Where did Jenny go on holiday?",
+        "solution": "Jenny went to Oxford on holiday.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742669,
+      "value": {
+        "options": [],
+        "question": "Moloy's uncle lives in Chattogram.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742668,
+      "value": {
+        "options": [],
+        "question": "Oxford has the longest sea beach in the world.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742667,
+      "value": {
+        "options": {
+          "a": "Moloy",
+          "b": "Jenny",
+          "c": "Mina",
+          "d": "Jeremy"
+        },
+        "question": "The letter is written by _____.",
+        "solution": "a. Moloy",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742666,
+      "value": {
+        "options": [],
+        "question": "1st November, 2025\u003Cbr\u003E\n\u003Cbr\u003E\nDear Jenny,\u003Cbr\u003E\nThanks for your letter! I'm happy you enjoyed your holiday in Oxford last week! I'm going on holiday next week. My exams will end on the 6th November. Then, on the 7th we'll go to Dhaka and stay with my uncle's family. Then, on the 8th we'll travel to Cox's Bazar. We'll also visit Inani Beach, Himchari and Maheshkhali. Cox's Bazar has the longest beach in the world! It's more than 120 kilometres long! I'm very excited.\u003Cbr\u003E\nWrite Soon!\u003Cbr\u003E\n\u003Cbr\u003E\nLove,\u003Cbr\u003E\nMoloy",
+        "solution": ".",
+        "correct_answer": null
+      },
+      "question_type_id": 24,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 24,
+        "name": "Text/Passgage",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742665,
+      "value": {
+        "options": [],
+        "question": "Then, on the 7th we'll _____ (go) to Dhaka.",
+        "solution": "go",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742691,
+      "value": {
+        "options": [],
+        "question": "He will travel to Cox's Bazar from his own house.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742699,
+      "value": {
+        "options": [],
+        "question": "He _____ (not think) about exams.",
+        "solution": "won't think",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742698,
+      "value": {
+        "options": [],
+        "question": "Moloy will also _____ (go) there.",
+        "solution": "go",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742697,
+      "value": {
+        "options": [],
+        "question": "The family _____ (not get) up before 8 a.m.",
+        "solution": "won't get",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742696,
+      "value": {
+        "options": [],
+        "question": "Moloy's family is _____ (go) to Cox's Bazar on holiday.",
+        "solution": "going",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742695,
+      "value": {
+        "options": [],
+        "question": "_____ will they do after the exam?",
+        "solution": "What",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742694,
+      "value": {
+        "options": [],
+        "question": "_____ is Moloy going with?",
+        "solution": "Who",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742693,
+      "value": {
+        "options": [],
+        "question": "Holiday",
+        "solution": "period of leisure and recreation",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742692,
+      "value": {
+        "options": [],
+        "question": "Write a short composition about \"Your Visit to Cox's Bazar\".\u003Cbr\u003E\na) When did you go to Cox's Bazar?\u003Cbr\u003E\nb) Whom did you go there with?\u003Cbr\u003E\nc) How did you go there?\u003Cbr\u003E\nd) How many days did you pass there?\u003Cbr\u003E\ne) Why did you go to Cox's Bazar?",
+        "solution": "\u003Cdiv style=\"text-align: center;\"\u003E\u003Cstrong\u003EMy Visit to Cox&#39;s Bazar\u003C/strong\u003E\u003C/div\u003E\n\n\u003Cdiv\u003EI went to Cox&#39;s Bazar last month. I went there on the occasion of summer vacation. I went there with my family members. We went there by bus. We passed three days in Cox&#39;s Bazar. I went there because I wanted to visit the longest beach of the world.\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 28,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 28,
+        "name": "Short Composition",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742664,
+      "value": {
+        "options": [],
+        "question": "Moloy is excited about",
+        "solution": "Holiday",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742690,
+      "value": {
+        "options": [],
+        "question": "Jenny spent her holiday in Oxford.",
+        "solution": "T",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742689,
+      "value": {
+        "options": [],
+        "question": "Moloy will _____ to Cox's Bazar on 8th November.",
+        "solution": "travel",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742688,
+      "value": {
+        "options": {
+          "a": "the day before his exam starts",
+          "b": "the day after his exam starts",
+          "c": "the day after his exam ends",
+          "d": "the day before his exam ends"
+        },
+        "question": "Moloy will go to Dhaka _____.",
+        "solution": "c. the day after his exam ends",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742687,
+      "value": {
+        "options": {
+          "a": "adjective",
+          "b": "adverb",
+          "c": "noun",
+          "d": "pronoun"
+        },
+        "question": "Which parts of speech is the word 'excited' in the sentence 'I am very excited'?",
+        "solution": "a. adjective",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742686,
+      "value": {
+        "options": [],
+        "question": "I _____ (be) very excited.",
+        "solution": "am",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742685,
+      "value": {
+        "options": [],
+        "question": "Then, on the 8th we'll _____ (travel) to Cox's Bazar.",
+        "solution": "travel",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742684,
+      "value": {
+        "options": [],
+        "question": "I am happy you _____ (enjoy) your holiday in Oxford last week!",
+        "solution": "enjoyed",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742683,
+      "value": {
+        "options": [],
+        "question": "Moloy's letter is to",
+        "solution": "Jenny",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742638,
+      "value": {
+        "options": [],
+        "question": "Beach",
+        "solution": "an area of sand near the sea",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742646,
+      "value": {
+        "options": [],
+        "question": "Stay",
+        "solution": "To live",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742645,
+      "value": {
+        "options": [],
+        "question": "Suppose, you are Joli. You went to visit Kuakata. Write a letter to your friend Khadiza about your visit.",
+        "solution": "Uttara, Dhaka\u003Cbr /\u003E\n1 December, 2025\u003Cbr /\u003E\n\u003Cbr /\u003E\nKhadiza!\u003Cbr /\u003E\nI am just back from Kuakata. It was a nice visit. I am going to describe it now.\u003Cbr /\u003E\nKuakata is a very beautiful place. It has a sandy beach. It is about 30 kilometres long and 6 kilometres wide. We saw both the sunrise and the sunset from the beach. It was a wonderful experience. I am really happy to experience such a nice journey.\u003Cbr /\u003E\nNo more today. More when we meet.\u003Cbr /\u003E\n\u003Cbr /\u003E\nWith love,\u003Cbr /\u003E\nJoli",
+        "correct_answer": null
+      },
+      "question_type_id": 33,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 33,
+        "name": "Letter",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742644,
+      "value": {
+        "options": [],
+        "question": "Because they _____ (want) to sleep a lot.",
+        "solution": "want",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742643,
+      "value": {
+        "options": [],
+        "question": "They will _____ (sit) on the beach.",
+        "solution": "sit",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742642,
+      "value": {
+        "options": [],
+        "question": "_____ is Moloy going?",
+        "solution": "Where",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742641,
+      "value": {
+        "options": [],
+        "question": "Tania's village home",
+        "solution": "Lalmonirhat",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742640,
+      "value": {
+        "options": [],
+        "question": "Moloy's plan after exams",
+        "solution": "To go on holiday",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742639,
+      "value": {
+        "options": [],
+        "question": ": hi moloy how is everything\u003Cbr\u003E\n: not bad tania",
+        "solution": ": Hi, Moloy. How is everything?\u003Cbr /\u003E\n: Not bad, Tania.",
+        "correct_answer": null
+      },
+      "question_type_id": 19,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742647,
+      "value": {
+        "options": [],
+        "question": "Beach",
+        "solution": "Seashore",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742637,
+      "value": {
+        "options": [],
+        "question": "Week",
+        "solution": "a period of seven days",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742636,
+      "value": {
+        "options": [],
+        "question": "Who is happy and why?",
+        "solution": "Moloy is happy because Jenny had enjoyed his holiday in Oxford last week.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742635,
+      "value": {
+        "options": [],
+        "question": "Moloy's holiday will _____ from next week.",
+        "solution": "start",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742634,
+      "value": {
+        "options": {
+          "a": "Oxford",
+          "b": "London",
+          "c": "Cox's Bazar",
+          "d": "Dhaka"
+        },
+        "question": "Moloy's uncle lives in _____.",
+        "solution": "d. Dhaka",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742633,
+      "value": {
+        "options": [],
+        "question": "It _____ (be) more than 120 kilometres long!",
+        "solution": "is",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742632,
+      "value": {
+        "options": [],
+        "question": "My exams will _____ (end) on the 6th November.",
+        "solution": "end",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742631,
+      "value": {
+        "options": [],
+        "question": "I am _____ (go) on holiday next week.",
+        "solution": "going",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742630,
+      "value": {
+        "options": [],
+        "question": "The longest beach",
+        "solution": "Cox's Bazar",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742655,
+      "value": {
+        "options": [],
+        "question": "Moloy is very _____ about his journey.",
+        "solution": "excited",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742663,
+      "value": {
+        "options": [],
+        "question": "Moloy's exams",
+        "solution": "Ending in November",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742662,
+      "value": {
+        "options": [],
+        "question": "His brother will _____ (drink) coconut juice.",
+        "solution": "drink",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742661,
+      "value": {
+        "options": [],
+        "question": "They _____ (eat) delicious fruits.",
+        "solution": "will eat",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742660,
+      "value": {
+        "options": [],
+        "question": "Excited",
+        "solution": "feeling very happy",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742659,
+      "value": {
+        "options": [],
+        "question": "Where will Moloy go first?",
+        "solution": "Moloy will go to Dhaka first.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742658,
+      "value": {
+        "options": [],
+        "question": "When will Moloy's exam end?",
+        "solution": "Moloy's exam will end on the 6th November.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742657,
+      "value": {
+        "options": [],
+        "question": "Inani Beach, Himchari and Maheshkhali are some interesting places to visit.",
+        "solution": "T",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742656,
+      "value": {
+        "options": [],
+        "question": "The longest beach in the world is _____ at Cox's Bazar.",
+        "solution": "situated",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742629,
+      "value": {
+        "options": [],
+        "question": "Enjoy",
+        "solution": "To feel happy",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742654,
+      "value": {
+        "options": [],
+        "question": "Jenny enjoyed his _____ in Oxford.",
+        "solution": "holiday",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742653,
+      "value": {
+        "options": {
+          "a": "his own house",
+          "b": "Oxford",
+          "c": "his uncle's house",
+          "d": "his friend's house"
+        },
+        "question": "Moloy will travel to Cox's Bazar from _____.",
+        "solution": "c. his uncle's house",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742652,
+      "value": {
+        "options": [],
+        "question": "Cox's Bazar _____ (have) the longest beach in the world!",
+        "solution": "has",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742651,
+      "value": {
+        "options": [],
+        "question": "We'll also _____ (visit) Inani Beach, Himchari and Maheshkhali.",
+        "solution": "visit",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742650,
+      "value": {
+        "options": [],
+        "question": "And _____ (stay) with my uncle's family.",
+        "solution": "stay",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742649,
+      "value": {
+        "options": [],
+        "question": "Jenny went to",
+        "solution": "Oxford",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742648,
+      "value": {
+        "options": [],
+        "question": "Excited",
+        "solution": "Feeling very happy",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7325,
+      "created_at": "2025-11-27T05:59:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7325&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7325&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7325&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 71,
+  "total": 71
+}

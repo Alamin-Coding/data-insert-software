@@ -1,0 +1,5671 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 485572,
+      "value": {
+        "options": [],
+        "question": "আল্লাহ তায়ালা আমাদের — করেছেন।",
+        "solution": "সৃষ্টি",
+        "explanation": "ব্যাখ্যা: ইসলাম শেখায় আল্লাহ তায়ালা স্রষ্টা, তাই তিনি আমাদের সৃষ্টি করেছেন। এটা তাওহীদ‑বিশ্বাসের অংশ — সব জীব ও জগত আল্লাহর ইচ্ছা ও শক্তি দ্বারা প্রতিষ্ঠিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485572,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485573,
+      "value": {
+        "options": [],
+        "question": "নবি-রাসুল আমাদের — ।",
+        "solution": "শিক্ষক",
+        "explanation": "নবি-রাসুল আমাদের আদর্শ। তাদের জীবন, আচরণ ও শিক্ষাই সৎ আচরণ, ঈমান ও নৈতিকতার প্রতিধর্ম হিসেবে স্থাপন করেছে, তাই তারা মানবজীবনের অনুসরণীয় দৃষ্টান্ত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485573,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485574,
+      "value": {
+        "options": [],
+        "question": "আল্লাহ তায়ালা অনেক – পাঠিয়েছেন।",
+        "solution": "নবি-রাসুল",
+        "explanation": "ব্যাখ্যা: এখানে সঠিক উত্তর \"রাসূল\" — আল্লাহ তায়ালা মানুষকে নির্দেশ ও হেদায়েত দেওয়ার জন্য বহু রাসূল পাঠিয়েছেন। \"রাসূল\" শব্দটি এমন দূতদের বোঝায় যারা আল্লাহর বাণী এবং নির্দেশনাগুলো মানুষের কাছে পৌঁছে দেন, তাই বাক্যে এটি সঠিকভাবে মানায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485574,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485575,
+      "value": {
+        "options": [],
+        "question": "— সর্বশেষ ও সর্বশ্রেষ্ঠ নবি।",
+        "solution": "মুহাম্মদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম",
+        "explanation": "ইসলামের বিশ্বাস অনুযায়ী শেষ ও সর্বশ্রেষ্ঠ নবী হলেন মুহাম্মদ (সা.), কারণ কোরআন ও হাদিসে তাঁকে \"খাতামুন নবিয়্যিন\" অর্থাৎ নবীদের শেষ বলা হয়েছে; ফলে তার প্রেরিত বার্তাই পূর্ববর্তী সব পুনরুদ্ধার করে সম্পূর্ণ ও চূড়ান্ত ধর্মীয় পথ হিসেবে প্রতিষ্ঠিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485575,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485576,
+      "value": {
+        "options": [],
+        "question": "মহানবি হযরত মুহাম্মদ (স) — কুরাইশ বংশে জন্মগ্রহণ করেন।",
+        "solution": "৫৭০",
+        "explanation": "হ্যাঁ — মহানবি হযরত মুহাম্মদ (স) মক্কায় কুরাইশ বংশে জন্মগ্রহণ করেন; তিনি কুরাইশ গোত্রের বনী হাশিম শাখায় জন্মেছিলেন। কুরাইশ তখন মক্কার প্রভাবশালী গোত্র ও কাবা রক্ষকের পরিচয়ে ছিল, তাই তাঁর বংশগত পরিচয় ইসলামের প্রাথমিক ইতিহাসে গুরুত্ব রাখে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485576,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485577,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স)-এর জন্মের আগেই তাঁর — ইন্তিকাল করেন।",
+        "solution": "আব্বা",
+        "explanation": "ব্যাখ্যা: মহানবীর পিতা আবদুল্লাহ ইবনে আব্দুলমুত্তালিব ছিলেন এবং তিনি মহানবীর জন্মের আগেই ইন্তিকাল করেন; ফলে নবীর জন্মের সময় তাঁর পিতা জীবিত ছিলেন না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485577,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485578,
+      "value": {
+        "options": [],
+        "question": "শিশুকাল থেকেই মহানবি (স) সবসময় — বলতেন।",
+        "solution": "সত্য কথা",
+        "explanation": "শিশুকাল থেকেই মহানবি (স) সবসময় সত্য বলতেন। তিনি সততার অনন্য নীলনকশা ছিলেন—মানুষের কাছে 'আল-আমীন' হিসেবে পরিচিত ছিলেন এবং কোনো পরিস্থিতিতেই মিথ্যা বলতেন না, তাই সঠিক উত্তর 'সত্য'।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485578,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485579,
+      "value": {
+        "options": [],
+        "question": "আল-আমিন অর্থ —",
+        "solution": "বিশ্বাসী",
+        "explanation": "আল-আমিন অর্থ \"বিশ্বস্ত\" বা \"বিশ্বাসযোগ্য\"। এই উপাধি পবিত্র নবী মুহাম্মদ (স.)-কে দেওয়া হয়েছিল কারণ তিনি সততা ও নৈতিকতায় খ্যাত ছিলেন এবং মানুষ তাঁকে তাদের বিশ্বাস ও দায়িত্ব সঁপে দিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485579,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485580,
+      "value": {
+        "options": [],
+        "question": "জুয়াখেলা মারাত্মক –",
+        "solution": "অপরাধ",
+        "explanation": "জুয়াখেলা মারাত্মক কারণ এতে সহজেই বড় আর্থিক ক্ষতি, ঋণ ও পারিবারিক–সামাজিক সম্পর্কের অবনতি ঘটে। সময়ের সঙ্গে এতে আসক্তি ও মানসিক চাপ বাড়ে এবং ব্যক্তির জীবন-মান ও নিরাপত্তা নষ্ট করে, তাই এ থেকে বিরত থাকা উচিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485580,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485581,
+      "value": {
+        "options": [],
+        "question": "ওকায মেলার নুদ্ধ দীর্ঘ- — বছর স্থায়ী ছিল।",
+        "solution": "পাঁচ",
+        "explanation": "প্রশ্নটি অসম্পূর্ণ — শূন্যস্থান (দশমিক/সংখ্যা) দেওয়া নেই। দয়া করে খালি অংশ বা বিকল্পগুলো দিন, তখন আমি সঠিক উত্তর ও সংক্ষিপ্ত ব্যাখ্যা দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485581,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485582,
+      "value": {
+        "options": [],
+        "question": "হারবুল ফিজার যুদ্ধের দৃশ্য দেখে মহানবি (স)-এর — উঠল।",
+        "solution": "প্রাণ কেঁদে",
+        "explanation": "ব্যাখ্যা: মহানবি (স)-এর হৃদয়ে গভীর দুঃখ ও বেদনা উঠল। তিনি রক্তপাত, অবিচার ও জনহানিকে ঘৃণা করতেন, তাই হারবুল ফিজার যুদ্ধের নির্মম দৃশ্য দেখে তখনকারও প্রবল সহানুভূতি ও নৈতিক অাগ্রহণের প্রকাশ ঘটেছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485582,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485583,
+      "value": {
+        "options": [],
+        "question": "মহানবি হযরত মুহাম্মদ (স) সমাজের দুরবস্থা দেখে – পেতেন।",
+        "solution": "দুঃখ",
+        "explanation": "ব্যাখ্যা: মহানবি হযরত মুহাম্মদ (স) সমাজের দুরবস্থা দেখে দুঃখ বা বেদনায় পেতেন। তিনি অত্যন্ত সহানুভূতিশীল ও দয়ালু ছিলেন; মানুষের অজ্ঞতা ও অনৈতিকতা দেখে তিনি কষ্ট পেতেন এবং তাদের সৎ পথে ফেরানোর জন্য শিক্ষা ও দোয়া করতেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485583,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485584,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স) মক্কা থেকে তিন মাইল দূরে — নামক পর্বতের নির্জন গুহায় থাকতেন।",
+        "solution": "হেরা",
+        "explanation": "মহানবি (স) মক্কা থেকে তিন মাইল দূরে অবস্থিত জাবাল আন-নূর (হিরা) পর্বতের নির্জন গুহা—গুহা হিরায় অবস্থান করতেন। তিনি সেখানে একান্ততার মধ্যে ইবাদত ও ধ্যান করতেন এবং প্রথম ওহি তিনি সেখানেই গ্রহণ করেছিলেন, তাই答案টি হিরা/জাবাল আন-নূর সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485584,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485585,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স) ৪০ বছর বয়সে – লাভ করলেন।",
+        "solution": "নবুয়ত",
+        "explanation": "ব্যাখ্যা: মহানবি (স) ৪০ বছর বয়সে প্রথম ওহী লাভ করেন — ফেরেশতা জিবরাইলের মাধ্যমে কোরআনের প্রথম আয়াত নাজিল হয় এবং এভাবেই তাঁর নবুয়ত শুরু হয়। সীরাহ ও হাদিসে এই ঘটনা স্পষ্টভাবে বর্ণিত থাকায় এটিই সঠিক উত্তর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485585,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485586,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স) নবুয়ত লাভের পর — থাকলেন।",
+        "solution": "আল্লাহর তাওহিদ",
+        "explanation": "মহানবি (স) নবুয়ত লাভের পর ১৩ বছর মক্কায় অবস্থান করেছিলেন। কারণ তিনি ৪০ বছর বয়সে নবুয়ত লাভ করেন এবং ৫৩ বছর বয়সে হিজরত করলে মক্কার অবস্থানকাল হয়ে যায় ১৩ বছর; প্রথম ৩ বছর গোপনে দাওয়াত দিয়েছিলেন এবং পরবর্তী ১০ বছর খোলাভাবে প্রচারণা চালিয়েছিলেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485586,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485587,
+      "value": {
+        "options": [],
+        "question": "তাওহিদ অর্থ –",
+        "solution": "একত্ববাদ",
+        "explanation": "তাওহিদ বলতে আল্লাহর একত্বে বিশ্বাস বোঝায় — অর্থাৎ আল্লাহ একক, অদ্বিতীয়, তাঁর কোনো অংশীদার বা সমকক্ষ নেই এবং সকল ইবাদত শুধুমাত্র তাঁর জন্যই প্রযোজ্য। এই সংজ্ঞাই তাওহিদ সঠিক কারণ ইসলামিক বিশ্বাসের মূলভিত্তি হলো আল্লাহর অনন্যত্ব স্বীকার করা ও শির্ক প্রত্যাখ্যান করা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485587,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485588,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স)-এর স্ত্রী —",
+        "solution": "হযরত খাদিজা (রা)",
+        "explanation": "খাদিজা (রা.) মহানবীর প্রথম ও প্রধান স্ত্রী ছিলেন, এবং তিনি নবুয়তের প্রথম সময়ে নবীজিকে নৈতিক ও আর্থিকভাবে সমর্থন করে প্রথম মুসলিমা হিসেবে পরিচিত। এজন্য সাধারণ প্রশ্নে মহানবীর স্ত্রীর নাম বললে খাদিজা (রা.)ই সঠিক উত্তর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485588,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485589,
+      "value": {
+        "options": [],
+        "question": "পুরুষদের মধ্যে — এবং বালকদের মধ্যে — গ্রহণ করেন।",
+        "solution": "হযরত আবু বকর (রা), হযরত আলী (রা)",
+        "explanation": "প্রশ্নটি অসম্পূর্ণ — দুইটি শূন্যস্থান কীভাবে পূরণ করতে হবে তা জানার জন্য সম্পূর্ণ বাক্য বা বিকল্পগুলো প্রয়োজন। সাধারণভাবে এমন শূন্যস্থান পূরণ করার সময় বাক্যের প্রসঙ্গ দেখে লিঙ্গ‑সংখ্যা, ক্রিয়া বা বিশেষণের মিল এবং উকর/অবশ্যকতা বিবেচনা করতে হয়; সঠিক উত্তর নির্ভর করে ওই grammatical ও অর্থগত মিলের উপর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485589,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485590,
+      "value": {
+        "options": [],
+        "question": "প্রথম তিন বছরে — নরনারী ইসলাম গ্রহণ করেন।",
+        "solution": "৪৫ জন",
+        "explanation": "ব্যাখ্যা: প্রথম তিন বছরে কেবল পুরুষই নয়, নারীও ইসলাম গ্রহণ করেছিলেন কারণ নবীর সঙ্কল্পের প্রথম যুগে দাওয়াতটি লিঙ্গভেদ ছাড়া সবার উদ্দেশ্যে ছিল; প্রাথমিক বিশ্বাসীদের মধ্যে খানজাদা (খাদিজা), আলী ও আবু বকরসহ পুরুষ ও নারী উভয়ই ছিল, যা এই বিষয়টি প্রমাণ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485590,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485591,
+      "value": {
+        "options": [],
+        "question": "শ্রম মানে –",
+        "solution": "কাজ করা, পরিশ্রম করা",
+        "explanation": "ব্যাখ্যা: শ্রম মানে হলো মানুষের শারীরিক ও মানসিক পরিশ্রম বা দক্ষতা, যা উৎপাদন প্রক্রিয়ায় পণ্য ও সেবা তৈরি করতে ব্যবহার করা হয়। এটি উৎপাদনের একটি মৌলিক উপাদান এবং শ্রমের বিনিময়ে মানুষকে বেতন বা মজুরি প্রদান করা হয়, তাই শ্রমের সংজ্ঞা এভাবে সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485591,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485592,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স) সবসময় – করতেন।",
+        "solution": "নিজের কাজ নিজেই",
+        "explanation": "মহানবি (স) সবসময় সত্য বলতেন। তিনি আল-আমীন (বিশ্বাসযোগ্য) নামে খ্যাত ছিলেন, তাই কখনও মিথ্যা বলতেন না। সত্যনিষ্ঠা ইসলামে ও নবীর চরিত্রে গুরুত্বপূর্ণ গুণ, যা বিশ্বাস ও নৈতিকতা গড়ে তোলে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485592,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485593,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স) ছেঁড়া জামাকাপড় নিজ হাতে –",
+        "solution": "সেলাই",
+        "explanation": "মুহাম্মদ (স) নিজের ছেঁড়া জামাকাপড় নিজেই সেলাই/মেরামত করতেন। হাদিসে উল্লেখ আছে তিনি নিজের কাপড় ও জুতো নিজে ঠিক করতেন, যা তাঁর নম্রতা ও আত্মনির্ভরতার প্রকাশ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485593,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485594,
+      "value": {
+        "options": [],
+        "question": "শ্রমিককে তার গায়ের ঘাম শুকানোর আগেই — দাও।",
+        "solution": "পারিশ্রমিক",
+        "explanation": "ব্যাখ্যা: এখানে যা দিতে বলা হয়েছে তা হল শ্রমিকের অধিকার—তার মজুরি, তাই খালি স্থানে \"বেতন\" বসালে বাক্য সম্পূর্ণ ও স্বাভাবিক হয়। এছাড়া ক্রিয়ার উদ্দেশ্য জানাতে সাধারণত বস্তু-নাম (বেতন) দরকার, তাই \"বেতন দাও\" অর্থাৎ শ্রমিককে তার ঘাম শুকানোর আগেই মজুরি প্রদানে এই শব্দটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485594,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485595,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স) ছিলেন – ।",
+        "solution": "দয়ার উজ্জ্বল আদর্শ",
+        "explanation": "মহানবি (স) ছিলেন খতম নবী — অর্থাৎ তিনি اللہর শেষ নফী ছিলেন। কারণ কোরআন ও হাদিসে বলা আছে যে তার পরে আর কোনো নবী পাঠানো হবে না এবং তিনি ইসলামের চূড়ান্ত বাণী তথা ধর্মীয় বিধান সম্পূর্ণ করেছেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485595,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485596,
+      "value": {
+        "options": [],
+        "question": "যারা আল্লাহর সৃষ্টির প্রতি দয়া দেখায় — ভালোবাসেন।",
+        "solution": "আল্লাহ",
+        "explanation": "ব্যাখ্যা: যারা আল্লাহর সৃষ্টির প্রতি দয়া দেখায় তারা অন্যের প্রতি সহানুভূতি ও সহমর্মিতা দেখায়, যা ভালোবাসার প্রতিফলন। এমন দয়ালু আচরণ আল্লাহ ও মানুষের কাছে প্রিয়তা অর্জন করে এবং সম্পর্ককে মজবুত করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485596,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485597,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স) ছিলেন — মূর্তপ্রতীক।",
+        "solution": "ক্ষমার",
+        "explanation": "ব্যাখ্যা: মহানবি (স) একজন জীবন্ত মানুষ ও আল্লাহর রাসূল ছিলেন, মূর্তপ্রতীক বলতে মূর্তি বা উপাসনার বস্তু বোঝায়। ইসলামে মূর্তি পূজা হারাম এবং নবীকে কোনো উপাস্য বা প্রতীকেরূপে দেখার কোনো ভিত্তি নেই, তাই বলা ভুল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485597,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485598,
+      "value": {
+        "options": [],
+        "question": "আব্বা-আম্মা আমাদের সবচেয়ে — ।",
+        "solution": "আপনজন",
+        "explanation": "ব্যাখ্যা: এখানে 'সবচেয়ে' সর্বোচ্চ মাত্রা বোঝায়, তাই শূন্যস্থানটি পূরণ করার যোগ্য ক্রিয়ারূপ হল 'ভালোবাসেন'। বাক্যটি হবে 'আব্বা-আম্মা আমাদের সবচেয়ে ভালোবাসেন', অর্থাৎ বাবা-মা আমাদের প্রতি সবচেয়ে বেশি স্নেহ দেখান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485598,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485599,
+      "value": {
+        "options": [],
+        "question": "মহানবির (স) বয়স যখন ৬ বছর তখন তাঁর — ইন্তিকাল করেন।",
+        "solution": "আম্মা আমিনা",
+        "explanation": "ব্যাখ্যা: মহানবির (স) ছয় বছর বয়সে তাঁর মা আমিনা বিনত ওয়াহব ইন্তিকাল করেন। তিনি মক্কা থেকে যাত্রা করে ফিরে আসার পথে আল-আবওয়া এলাকায় অসুস্থ হয়ে মারা যান; এরপর মহানবিকে (স) তাঁর দাদা আব্দুল-মুততালিব লালন-পালন করেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485599,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485600,
+      "value": {
+        "options": [],
+        "question": "প্রাচীনকালে মিশরের বাদশাহকে বলা হতো —।",
+        "solution": "ফিরআউন",
+        "explanation": "ব্যাখ্যা: প্রাচীন মিশরের বাদশাহকে \"ফরাউন\" বলা হত। ফরাউন ছিলেন রাজ্য ও ধর্মীয় জীবনের সর্বোচ্চ নেতা এবং তাকে দেবতার প্রতিনিধি বা দেবতার সমান মনে করা হতো, তাই এই বিশেষ উপাধি ব্যবহার করা হতো।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485600,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485601,
+      "value": {
+        "options": [],
+        "question": "আছিয়া ছিলেন —।",
+        "solution": "ইসরাইলি কন্যা",
+        "explanation": "প্রশ্নটি অসম্পূর্ণ—\"আছিয়া ছিলেন —।\" থেকে সঠিক উত্তর নির্ধারণ করা যায় না। অনুগ্রহ করে পুরো বাক্য বা বিকল্পগুলো দিন, তখন আমি কেন সঠিক তা সংক্ষিপ্তভাবে ব্যাখ্যা করে বলব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485601,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485602,
+      "value": {
+        "options": [],
+        "question": "হযরত মুসা (আ) স্ত্রী —।",
+        "solution": "সফুরা",
+        "explanation": "হযরত মুসা (আ) এর স্ত্রী ছিলেন শু'আইবের কন্যা সিফরা (জিপোরাহ)। কোরআন ও ইসলামি বর্ণনায় মুসা (আ) মদিয়ানে গিয়ে শু'আইবের কন্যার সাথে বিবাহ করেছিলেন, তাই তিনি সিফরা নামে পরিচিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485602,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485603,
+      "value": {
+        "options": [],
+        "question": "হযরত মুসা (আ) — ।",
+        "solution": "কালিমুল্লাহ",
+        "explanation": "হযরত মুসা (আ) ছিলেন একজন নবী ও রসূল। কোরআন ও হাদীসে আল্লাহ তাকে বনী ইসরাঈলকে তাগিদ দিতে ও ফেরউনের আওয়ামীদের বিরুদ্ধে নেতা হিসেবে পাঠিয়েছেন; তাঁর লাঠি সাপ হওয়া, সমুদ্র বিভক্ত করা ও শাস্ত্র (তমূরাহ/তোরা) প্রাপ্তি—এই মহাজনিত ঘটনা গুলোই তাঁর নবুয়তের সুস্পষ্ট প্রমাণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485603,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485604,
+      "value": {
+        "options": [],
+        "question": "হযরত মূসা (আ) — বছর জীবিত ছিলেন।",
+        "solution": "১২০",
+        "explanation": "বহু ধর্মীয় ও ঐতিহাসিক সূত্র—বিশেষ করে তৌরাতের (দ্বিতীয় কিতাব) বর্ণনা—বলেন হযরত মূসা (আ) প্রায় [math]১২০[/math] বছর বয়সে ইন্তেকাল করেছিলেন। কোরআনে তার নির্দিষ্ট বয়স দেয়নি, তাই ঐতিহাসিক ও ধর্মীয় রেকর্ডের ওপর ভিত্তি করে এই সংখ্যা স্বীকৃত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485604,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485605,
+      "value": {
+        "options": [],
+        "question": "হযরত হূদ (আ) একজন — ।",
+        "solution": "নবি ছিলেন",
+        "explanation": "হযরত হূদ (আ) একজন নবী ছিলেন, যিকে আল্লাহ আদদের জনগণের কাছে তাওহীদ ও নৈতিকতা প্রতিষ্ঠার জন্য পাঠিয়েছিলেন। কোরআন ও ইসলামিক ইতিহাসে তিনি পরিষ্কারভাবে নবী হিসেবে বর্ণিত এবং আদ জনগণকে দাওয়াত দিতেও তিনি পরিচিত ছিলেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485605,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485606,
+      "value": {
+        "options": [],
+        "question": "হযরত হূদ (আ) তাদের শিরক ও মূর্তিপূজা ত্যাগ করে — ইবাদত করতে বলেন।",
+        "solution": "এক আল্লাহর",
+        "explanation": "ব্যাখ্যা: হযরত হূদ (আ) পূর্ববর্তী নবীদের মতোই প্রধানভাবে মনুষ্যকে একমাত্র আল্লাহর প্রতি ঈমান ও ইবাদতে আহ্বান করেছিলেন; তাই তিনি তাদের শিরক ও মূর্তিপূজা ত্যাগ করে একমাত্র স্রষ্টাকে উপাসনা করার জন্য বলেছিলেন। এই আহ্বানের উদ্দেশ্য ছিল মানুষকে ভুল পূজা-প্রথা থেকে মুক্ত করে তাওহীদ ও পার্থিব ও আখেরাতের উত্তম জীবন নিশ্চিত করা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485606,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485607,
+      "value": {
+        "options": [],
+        "question": "সামুদ জাতির ওপর – ।",
+        "solution": "আল্লাহর আজাব এলো",
+        "explanation": "ব্যাখ্যা: সামুদ জাতির ওপর শাস্তি (অভিশাপ) নেমে আসে কারণ তারা নবী সালেহের দেখানো নিদর্শন ও উপদেশ অগ্রাহ্য করে এবং ঈমান সমস্যা ও অন্যায় আচরণের ফলে আল্লাহ তাদেরকে ধ্বংস করেন—এটি কোরআনে বর্ণিত ইতিহাস থেকে স্পষ্ট।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485607,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485608,
+      "value": {
+        "options": [],
+        "question": "হযরত ইসহাক (আ) ছিলেন প্রসিদ্ধ নবি হযরত — এর দ্বিতীয় পুত্র।",
+        "solution": "ইবরাহীম (আ)",
+        "explanation": "ব্যাখ্যা: হযরত ইসহাক (আ) ছিলেন হযরত ইব্রাহীম (আ)-এর দ্বিতীয় পুত্র, কারণ তিনি সারাহ থেকে জন্মগ্রহণ করেছিলেন এবং হযরত ইসমাইল (আ) প্রথম পুত্র হিসেবে হাগর (হাজার) থেকে উঠে এসেছিলেন; তাই ইসহাককে ইব্রাহীমের দ্বিতীয় পুত্র বলা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485608,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485609,
+      "value": {
+        "options": [],
+        "question": "সামুদবাসীর আজাবের নিদর্শন – ।",
+        "solution": "এখনও বিদ্যমান",
+        "explanation": "ব্যাখ্যা: সামুদবাসীর আজাবের প্রধান নিদর্শন ছিল তাদের শহর-গৃহের সম্পূর্ণ ধ্বংস, মানুষের বিনাশ ও ধ্বংসাবশেষে নিস্তব্ধ অবস্থা; কারণ তারা নবী সালীহের দাওয়াকে জানাজানি করে পবিত্র উটটিকে মারিয়ে ফেলায় আল্লাহ্‌ তাদের ওপর প্রবল বজ্র-ধ্বংস ও ভূকম্পনের মাধ্যমে শাস্তি প্রেরণ করেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485609,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485610,
+      "value": {
+        "options": [],
+        "question": "মাদয়ান একটি — ।",
+        "solution": "জাতির ও একটি শহরের নাম",
+        "explanation": "প্রশ্নটি অসম্পূর্ণ—অনুগ্রহ করে পূর্ণ বাক্য বা উত্তর বিকল্পগুলো দিন যাতে সঠিক উত্তর এবং স্বল্প ব্যাখ্যা দেওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485610,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485611,
+      "value": {
+        "options": [],
+        "question": "শুয়াইব (আ)-কে তাঁর চমৎকার বক্তৃতার জন্য — বলা হয়।",
+        "solution": "খতিবুল আম্বিয়া",
+        "explanation": "প্রশ্নে দেওয়া সম্ভাব্য বিকল্পগুলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ইত্যাদি দিলে আমি সঠিক উত্তরটি নির্ধারণ করে সংক্ষিপ্ত ব্যাখ্যা দিতে পারব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485611,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485612,
+      "value": {
+        "options": [],
+        "question": "মাদয়ানবাসীদের — দ্বারা ধ্বংস করে দেওয়া হয়।",
+        "solution": "বিকট শব্দ, অগ্নিবৃষ্টি ও ভূমিকম্প",
+        "explanation": "প্রশ্নটি অসম্পূর্ণ—\"মাদয়ানবাসীদের — দ্বারা ধ্বংস করে দেওয়া হয়।\" এখানে কোন বিকল্প বা প্রসঙ্গ নেই, তাই সঠিক উত্তর নির্ধারণ করা যাচ্ছে না। দয়া করে সমস্ত বিকল্প বা সম্পূর্ণ বাক্যটি দিন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485612,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485613,
+      "value": {
+        "options": [],
+        "question": "হযরত ইলিয়াস (আ) জর্দানের — নামক স্থানে জন্মগ্রহণ করেন।",
+        "solution": "“আলআদ”",
+        "explanation": "ব্যাখ্যা: হযরত ইলিয়াস (আ) জন্মগ্রহণ করেছিলেন তিশবে, গিলআদ অঞ্চলে—যা জর্ডানের পূর্ব তীরে অবস্থিত একটি ছোট নগরী। বাইবেল ও ইসলামী ঐতিহ্যে তিনি তিশবের বাসিন্দা হিসেবে বিবেচিত হওয়ায় এই স্থানই সঠিক উত্তর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485613,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485614,
+      "value": {
+        "options": [],
+        "question": "হযরত যুলকিফল (আ) ছিলেন আল্লাহ তায়ালার — ।",
+        "solution": "একজন প্রিয় বান্দা",
+        "explanation": "ব্যাখ্যা: হযরত যুলকিফল (আ) কোরআন ও ইসলামী ঐতিহ্যে স্মরিত একজন নবী ছিলেন; তিনি আল্লাহর বান্দা ও লোকদের ন্যায্যতা ও সদাচরণ শিক্ষা দিতেন, তাই তাকে নবী হিসেবে গণ্য করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485614,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485615,
+      "value": {
+        "options": [],
+        "question": "যুলকিফল অর্থ —।",
+        "solution": "প্রতিজ্ঞা রক্ষাকারী",
+        "explanation": "আপনি \"যুলকিফল\" বলতে কোন প্রসঙ্গে (বিজ্ঞান, গণিত, ভাষা বা অন্য কোনো বিষয়) জানতে চাচ্ছেন? শব্দটি সাধারণত পরিচিত নয় — প্রসঙ্গ দিলে সঠিক ও সংক্ষিপ্ত অর্থ বলে দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485615,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485616,
+      "value": {
+        "options": [],
+        "question": "হযরত ঈসা (আ)-এর মাতা মরিয়মের অভিভাবক ছিলেন —।",
+        "solution": "হযরত যাকারিয়া (আ)",
+        "explanation": "হযরত ঈসা (আ)-এর মাতা মরিয়মের অভিভাবক ছিলেন হযরত জাকারিয়া (আ)। কোরআনে উল্লেখ আছে যে মরিয়মকে তাঁর পিতা ইমরান আল্লাহর পথে নিয়োজিত করলে তিনি মসজিদে থাকতেন এবং নবী জাকারিয়া (আ) তাকে দেখাশোনা ও রোজনামার দায়িত্ব পালন করতেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485616,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485617,
+      "value": {
+        "options": [],
+        "question": "হান্না ছিলেন মরিয়মের — ।",
+        "solution": "মাতা",
+        "explanation": "ব্যাখ্যা: সঠিক উত্তর 'বোন'। হান্না ও মরিয়ম দুজনই নারী নাম এবং বাক্যে সম্পর্ক নির্দেশ করতে যে শব্দটি মানানসই হয় তা হলো 'বোন', ফলে বাক্যটি শুদ্ধ ও অর্থপূর্ণ হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485617,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485618,
+      "value": {
+        "options": [],
+        "question": "আল্লাহ তায়ালা হযরত যাকারিয়া (আ)-কে — সুসংবাদ দিলেন।",
+        "solution": "পুত্র",
+        "explanation": "ব্যাখ্যা: আল্লাহ তায়ালা হযরত যাকারিয়া (আ)-কে একটি পুত্রের সুসংবাদ দিলেন, যাঁর নাম ছিল ইয়াহ্যা (ইয়াহিয়া)। কোরআনে উল্লেখ আছে যে তিনি ও তাঁর স্ত্রী বৃদ্ধা ও নিষ্ফল হওয়া সত্ত্বেও আল্লাহ তাঁদেরকে সন্তান দেবেন—এ কারণেই এটি সত্যিকারের সুসংবাদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485618,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485619,
+      "value": {
+        "options": [],
+        "question": "হযরত যাকারিয়া (আ) একটি গাছের কোটরে —।",
+        "solution": "আশ্রয় নিলেন",
+        "explanation": "ব্যাখ্যা: হযরত যাকারিয়া (আ) একাকিত্বে আল্লাহর স্মরণ ও দোয়া করার জন্য একটি গাছের কোটরে অবস্থান করতেন; সেখানে তিনি সন্তানের দোয়া করেছিলেন এবং আল্লাহ তাকে হযরত ইয়াহিয়া (আ) উপহার দেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485619,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485620,
+      "value": {
+        "options": [],
+        "question": "হযরত মূসা (আ) ছিলেন একজন বিখ্যাত — ।",
+        "solution": "নবি",
+        "explanation": "হযরত মূসা (আ) ছিলেন একজন বিখ্যাত নবী ও রাসূল। তিনি আল্লাহ্‌রের পক্ষ থেকে তাওরাত প্রাপ্তি ও ফেরাউনের বিরুদ্ধে ইসরায়েলীয়দের নেতৃত্ব প্রদানের মাধ্যমে প্রমাণ করেন এবং তাঁর ঘটনা কুরআনে বহুবার বর্ণিত রয়েছে, তাই তিনি নবী হিসেবে স্বীকৃত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485620,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485621,
+      "value": {
+        "options": [],
+        "question": "হযরত ইসহাক (আ) ছিলেন হযরত ইব্রাহীম (আ)-এর দ্বিতীয় —।",
+        "solution": "পুত্র",
+        "explanation": "হযরত ইসহাক (আ) হযরত ইব্রাহীম (আ)-এর দ্বিতীয় পুত্র, কারণ তিনি ইসমাইল (আ)-এর পরে সারা থেকে জন্মগ্রহণ করেছিলেন এবং ইসলামী ঐতিহ্যে ইসমাইলকে প্রথম ও ইসহাককে দ্বিতীয় পুত্র হিসেবে বর্ণনা করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485621,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485622,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স)-এর আম্মা ইন্তেকালের পর তাঁকে কে লালন-পালন করেন?",
+        "solution": "মহানবি (স)-এর আম্মা আমিনা তাঁর নাম রাখেন আহমাদ (প্রশংসাকারী)।\n\nজন্মের আগেই তাঁর আব্বা আব্দুল্লাহ ইন্তেকাল করেন।\n\nআর তাঁর ছয় বছর বয়সে আম্মা ইন্তেকাল করেন।\n\nবাবা-মা হারা এতিম শিশু মহানবি (স)-কে তাঁর দাদা আব্দুল মুত্তালিব লালন-পালন করেন।",
+        "explanation": "মাহানবী (স)-এর আম্মা ইন্তেকালের পর তাঁকে তাঁর ঠাকুরদা আবদুল-মুত্থালিব লালন-পালন করেছিলেন; ঠাকুরদার মৃত্যুর পর তাঁর কাকাত্তা আবু তালিব তাঁর দায়িত্ব গ্রহণ করেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485622,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485623,
+      "value": {
+        "options": [],
+        "question": "মুহাম্মদ (স)-এর চরিত্রের ৫টি সুন্দর আদর্শ লেখ। সামাজিক জীবনে উক্ত আদর্শগুলোর গুরুত্ব কী?",
+        "solution": "মুহাম্মদ (স)-এর চরিত্রের পাঁচটি সুন্দর আদর্শ হলো-\n\n১. শিশুকাল থেকেই তিনি সবসময় সত্য কথা বলতেন।\n\n২. মানুষের উপকার করতেন।\n\n৩. বড়দের সম্মান করতেন।\n\n৪. ছোটদের আদর করতেন।\n\n৫. কাউকে গালি দিতেন না।\n\nসামাজিক জীবনে উক্ত আদর্শের গুরুত্ব অনেক।\n\nসমাজের সুন্দর ও আদর্শবান মানুষ হতে হলে তাঁর এ আদর্শ অনুসরণ করতে হবে।\n\nআদর্শবান মানুষ সমাজ ও রাষ্ট্রের অমূল্য সম্পদ।",
+        "explanation": "ব্যাখ্যা: মুহাম্মদ (স)-এর চরিত্রের পাঁচটি সুন্দর আদর্শ: সততা, দয়া ও করুণা, ধৈর্য্য ও সহনশীলতা, ন্যায়পরতা, নম্রতা। এই উত্তর সঠিক কারণ এসব গুণ কোরআন, হাদীস ও সীরাহতে স্পষ্ট উদাহরণসহ প্রতিপাদিত হয়েছে এবং ব্যক্তিগত ও সামাজিক মর্যাদা গঠনে মৌলিক নৈতিক নীতি। সামাজিক জীবনে এই আদর্শগুলো ভরসা ও ঐক্য বৃদ্ধি করে, অবিচার ও সংঘাত কমায় এবং সহযোগিতা ও শান্তিপূর্ণ সহাবস্থানের পরিবেশ সৃষ্টি করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485623,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485624,
+      "value": {
+        "options": [],
+        "question": "শিশু মুহাম্মদ (স) কীভাবে অন্যের অধিকার সংরক্ষণ করেছেন? বর্ণনা কর।",
+        "solution": "মহানবি (স) ছোটবেলা থেকেই অপরের অধিকার সম্পর্কে অত্যন্ত সজাগ ছিলেন।\n\nশিশু অবস্থায়ই তিনি অন্যের অধিকার সংরক্ষণ করেছেন।\n\nতাঁর দুধমা হালিমার একটি পুত্র সন্তান ছিল।\n\nতিনি তাঁর দুধমার একটি স্তনের দুধ নিজে পান করতেন এবং অন্য স্তরের দুধ তাঁর দুধ ভাইয়ের জন্য রেখে দিতেন।\n\nছোটবেলা থেকেই তিনি অপরের দুঃখে দুঃখ পেতেন। অন্যের কষ্টে কষ্ট পেতেন, অন্যের ব্যথায় ব্যথিত হতেন।",
+        "explanation": "শিশু মুহাম্মদ (স) অন্যদের অধিকার সংরক্ষণ করতেন নীতিনির্ধারণ ও ব্যক্তিগত আচরণের মাধ্যমে; তিনি ন্যায়বিচার, দয়া ও বিশ্বাসযোগ্যতা অনুশাসন করে ব্যক্তিদের জীবন, সম্পত্তি, মর্যাদা ও চুক্তির অধিকার রক্ষা করেছেন। উদাহরণ হিসেবে তিনি অত্যাচার নিষিদ্ধ করেছেন, কেলেঙ্কারি-মিথ্যা থেকে বিরত থাকতে বলেছেন, অনাথদের ও সংখ্যালঘুদের সুরক্ষা নিশ্চিত করেছেন এবং আমানত ফিরিয়ে দেওয়ার গুরুত্ব শিখিয়েছেন। এ কারণেই সুত্র ও কার্যকলাপ (সুন্নাহ) থেকে বোঝা যায় যে তিনি ধারাবাহিকভাবে মানুষের মৌলিক অধিকার রক্ষা করতেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485624,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485625,
+      "value": {
+        "options": [],
+        "question": "জুয়াখেলার খারাপ দিকগুলো বর্ণনা কর। জুয়াখেলা বন্ধের জন্য তুমি কীভাবে জনমত সৃষ্টি করবে মতামত দাও।",
+        "solution": "জুয়াখেলা মারাত্মক অপরাধ।\n\nজুয়াখেলার খারাপ দিকগুলো হলো-\n\n১. জুয়াখেলার ফলে সুসম্পর্ক নষ্ট হয়।\n\n২. শত্রুতা বাড়ে।\n\n৩. কলহ ও মারামারি হয় এবং\n\n৪. যুদ্ধবিগ্রহ ঘটে।\n\nজুয়াখেলা বন্ধের জন্য আমি যেভাবে জনমত সৃষ্টি করব তা হলো-\n\n১. যুদ্ধের ভয়াবহতা উপস্থাপন করব।\n\n২. দেশে কীভাবে শান্তিশৃঙ্খলা রক্ষা করা যায় তা তুলে ধরব।\n\n৩. বিভিন্ন সমাজের মধ্যে সুসম্পর্ক স্থাপনের উপকারিতা বর্ণনা করব।\n\n৪. অসহায়দের কীভাবে সহায়তা করা যায় তা বর্ণনা করব।",
+        "explanation": "ব্যাখ্যা: জুয়াখেলা বন্ধ করা যুক্তিযুক্ত কারণ এটি ব্যক্তিগত আর্থিক ক্ষতি, আসক্তি, অপরাধ ও পারিবারিক ভাঙন বাড়িয়ে সমাজের অর্থনৈতিক ও নৈতিক ক্ষতি করে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E জুয়াখেলার খারাপ দিক — দ্রুত অর্থনৈতিক ধ্বস, মানসিক ও শারীরিক স্বাস্থ্যের অবনতি, অপরাধ ও দুর্নীতির বৃদ্ধি, শিক্ষা ও কর্মদক্ষতার হ্রাস এবং পরিবারের গঠনে ব্যাঘাত।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E জনমত সৃষ্টির উপায় — তথ্যভিত্তিক সচেতনতা ক্যাম্পেইন, 피해জনের বাস্তবকাহিনী ও পরিসংখ্যান প্রদর্শন, ধর্মীয় ও সামাজিক নেতাদের সমর্থন নেওয়া, স্কুলে শিক্ষা ও বিকল্প বিনোদনের প্রচারণা এবং আইনগত সংস্কারের জন্য পিটিশন ও গণআন্দোলন করা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485625,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485626,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স) নিজ হাতে কী কী কাজ করতেন? নিজ নিজ পরিবারে নিজ হাতে করতে পারা যায় এমন ৫টি কাজের তালিকা তৈরি কর।",
+        "solution": "মহানবি (স) নিজ হাতে যেসব কাজ করতেন তা হলো--\n\n১. মহানবি (স) ছেঁড়া জামাকাপড় নিজ হাতে সেলাই করতেন।\n\n২. জুতা মেরামত করতেন।\n\n৩. জামাকাপড় ধুয়ে পরিষ্কার করতেন।\n\n৪. ঘর ঝাড়ু দিতেন।\n\n৫. মেহমানকে নিজে খাওয়াতেন।\n\n৬. সেবাযত্ন করতেন।\n\n৭. সকলের সাথে মিলেমিশে কাজ করতেন।\n\nনিজ নিজ পরিবারে নিজ হাতে করতে পারা যায় এমন পাঁচটি কাজের তালিকা হলো-\n\n১. পড়ার টেবিল পরিষ্কার করা।\n\n২. পরিবারে কেউ অসুস্থ হলে তার সেবাযত্ন করা।\n\n৩. বাবা-মায়ের কাজে সহযোগিতা করা।\n\n৪. বাড়িঘর অপরিষ্কার হলে পরিষ্কার করা।\n\n৫. পরিবারের সবাই মিলেমিশে যেকোনো কাজ করা।",
+        "explanation": "নবী (স) নিজ হাতে করতেন— ১) কাপড় সেলাই/মেরামত করা, ২) জুতা মেরামত বা পদার্থগত কাজ করা, ৩) পানি তোলা ও খাবার পরিবেশন করা, ৪) পশু পালা বা দুধ দেত্তয়া/চরানো, ৫) বাগান করা বা জমিতে সাধারণ কাজ করা। এই উত্তর সঠিক কারণ নবী (স) ব্যক্তিগতভাবে ছোট-বড় গৃহকর্ম ও কৃষিকাজ করে অন্যদের জন্য নম্রতা, সহযোগিতা ও আত্মনির্ভরতার উদাহরণ স্থাপন করতেন—এটিই পরিবারে নিজ হাতে কাজ করার মূল ধারণা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485626,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485627,
+      "value": {
+        "options": [],
+        "question": "দয়া মহানবি (স)-এর একটি উজ্জ্বল আদর্শ-উদাহরণসহ ব্যাখ্যা কর।",
+        "solution": "মহানবি (স) ছিলেন দয়ার উজ্জ্বল আদর্শ।\n\nতিনি মানুষ, পশুপাখি ও গাছপালা সকলের প্রতি দয়া প্রদর্শন করতেন।\n\nকেউ ক্ষুধার্ত হলে তাকে খাদ্য দিতেন।\n\nঅসুস্থ হলে তার খোঁজখবর নিতেন।\n\nসেবাযত্ন করতেন।\n\nগরিব, ভিক্ষুক, এতিম ও অসহায়দের প্রতি দয়া দেখাতেন।\n\nএকদা মহানবি (স) সাহাবিদের নিয়ে বসে আছেন। এমন সময় এক এতিম বালক মহানবি (স)-এর কাছে আসল।\n\nগায়ে তার জামাকাপড় নেই। দুঃখকষ্ট সইতে সইতে তার বুকের হাড়গুলো বের হয়ে গেছে।\n\nবালকটি কাঁদতে কাঁদতে মহানবি (স)-কে বলল, আমার আব্বু নেই। আবু জেহেল আমাদের সম্পদ কেড়ে নিয়েছে। তার কাছে সম্পদের কিছু চাইলে সে আমাকে মারধর করে। অত্যাচার করে। তাড়িয়ে দেয়।\n\nবালকটির কথা শুনে মহানবি (স)-এর মনে দয়া হলো।\n\nতিনি বালকটিকে নিয়ে আবু জেহেলের কাছে গেলেন।\n\nবালকটির সব পাওনা আবু জেহেলের কাছ থেকে আদায় করে দিলেন।\n\nএতিম বালকটি খুব খুশি হলো।",
+        "explanation": "দয়া মানে দয়ালুতা ও ক্ষমাশীলতা, এবং মহানবি (স) এর চরিত্রে এই গুণটি সর্বোচ্চ মাত্রায় পরিলক্ষিত হয়—তিনি সবসময় দুর্বলদের দেখাশোনা করেন ও শত্রুদেরও ক্ষমা করতেন। উদাহরণ—মক্কা জয়ের সময় তিনি প্রতিপক্ষদের ব্যাপকভাবে ক্ষমা করেছেন এবং কাউকে শাস্তি দেওয়ার পরিবর্তে সবার নিরাপত্তা ও মর্যাদা বজায় রেখেছেন, যা তাঁর নিষ্ঠাবান দয়া ও উচ্চ নৈতিকতার প্রমাণ। এই ঘটনাটি শেখায় যে সত্যিকারের নেতৃত্ব দয়া ও ক্ষমার মাধ্যমে সমাজে শান্তি ও সহমর্মিতা স্থাপন করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485627,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485628,
+      "value": {
+        "options": [],
+        "question": "মাতৃভক্তির গুরুত্ব বর্ণনা কর।",
+        "solution": "মাতৃভক্তির গুরুত্ব অপরিসীম।\n\nআব্বা-আম্মা আমাদের সবচেয়ে আপনজন।\n\nবিশেষ করে আম্মা আমাদের জন্য অনেক কষ্ট করেন।\n\nতিনি স্নেহ-মমতা ও দরদ দিয়ে আমাদের লালন-পালন করেন।\n\nআমাদের অসুখ-বিসুখ হলে অনেক সেবাযত্ন করেন।\n\nআমাদের আনন্দে তাঁরা আনন্দ পান।\n\nআমাদের দুঃখকষ্টে তাঁরাও দুঃখকষ্ট পান।\n\nআমাদের কল্যাণ ও মঙ্গল কামনা করেন।\n\nআমাদের সুস্থতা ও সুখ-সমৃদ্ধির জন্য আল্লাহর কাছে দোয়া করেন।\n\nএহেন হিতাকাঙ্ক্ষী মায়ের সাথে ভালো ব্যবহার করব।\n\nতাঁদের আদেশ-নিষেধ শুনব এবং মেনে চলব।\n\nতাঁদের সম্মান দেখাব।\n\nতাঁদের সেবাযত্ন করব।\n\nতাঁরা অসুস্থ হলে সেবা করব।\n\nচিকিৎসার ব্যবস্থা করব।\n\nতারা যাতে সুখে-শান্তিতে জীবনযাপন করতে পারে সেদিকে খেয়াল রাখব।",
+        "explanation": "মাতৃভক্তি ব্যক্তিগত ও সামাজিক জীবনে নৈতিকতা, সম্মান ও স্নেহের ভিত্তি গড়ে তোলে এবং সন্তানের মধ্যে কৃতজ্ঞতা ও দায়বোধ সৃষ্টি করে। একজন মায়ের ত্যাগ ও ভালোবাসা পরবর্তী প্রজন্মকে মানসিক সুরক্ষা ও সঠিক মূল্যবোধ দেয়, ফলে সমাজে সংহতি ও পারস্পরিক সম্মান বজায় থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485628,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485629,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স) চাকর ও শ্রমিকদের সম্পর্কে কী বলেছেন তার বর্ণনা দাও।",
+        "solution": "মহানবি (স) চাকরদের সম্পর্কে বলেছেন, “যারা কাজ করে তারা তোমাদের ভাই।\n\nতাদের কষ্ট দেবে না। মর্যাদা দেবে। নিজে যা খাবে তাদের তা খাওয়াবে। নিজে যা পরবে তাদের তা পরাবে। কাজকর্মে তাদের সাহায্য করবে।”\n\nমহানবি (স) শ্রমিকদের সম্পর্কে আরও বলেছেন, “শ্রমিককে তার গায়ের ঘাম শুকানোর আগেই পারিশ্রমিক দিয়ে দাও।”",
+        "explanation": "মাহানবী (সা.) চাকর ও শ্রমিকদের ন্যায্য আচরণ করতে বলেছেন: তাদের প্রতি সহানুভূতি দেখাতে, ঠিকঠাক ও সময়মতো মজুরি দিতে এবং'exploitation (শোষণ) থেকে বিরত থাকতে। একটি পরিচিত হাদিসে তিনি বলেছেন যে শ্রমিকের মজুরি “তার ঘামের শুষ্ক হওয়ার আগেই” দিতে হবে, অর্থাৎ কাজের পর দ্রুত বেতন দিতে হবে এবং মজুরি আটকে রাখা কঠোরভাবে নিন্দনীয়। তিনি শ্রমিকদের মানবিক মর্যাদা রক্ষা করা, অতিরিক্ত বোজা চাপানো vermeiden এবং ন্যায় প্রতিষ্ঠার ওপর জোর দিয়েছেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485629,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485630,
+      "value": {
+        "options": [],
+        "question": "ফিরআউন কী? ওলীদ স্বপ্নে কী দেখে? বর্ণনা কর।",
+        "solution": "প্রাচীনকালে মিসরের বাদশাহকে ফিরআউন বলা হতো।\n\nতাদের মধ্যে এক ফিরআউনের নাম ছিল ওলীদ।\n\nওলীদ ছিল খুব লোভী।\n\nওলীদ স্বপ্নে দেখল যে, বায়তুল মুকাদ্দাস থেকে এক ঝলক আগুন বের হয়ে এসে তার রাজপ্রাসাদসহ গ্রাস করছে।\n\nতার অনুসারী কিবতী বংশকেও জ্বালিয়ে দিচ্ছে।\n\nকিন্তু বনি ইসরাইলগণ সম্পূর্ণ নিরাপদ। আগুন তাদের স্পর্শ করছে না।",
+        "explanation": "প্রশ্নে যে 'ওলীদ' বলেছেন তা কোন গল্প বা পাঠ থেকে—দয়া করে নির্দিষ্ট করে বলুন; আপনি যদি ইসলামি কাহিনী (যেমন ফেরাউন ও মুসা) বা স্কুলের নির্দিষ্ট পাঠের প্রসঙ্গে জানতে চান বলে জানালে আমি সংক্ষিপ্ত ও সঠিক ব্যাখ্যা দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485630,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485631,
+      "value": {
+        "options": [],
+        "question": "ফিরআউন কীভাবে মারা যায় তার বর্ণনা দাও।",
+        "solution": "ফিরাউন হযরত মূসা (আ) ও তাঁর অনুসারীদের হত্যার ষড়যন্ত্র করে।\n\nহযরত মূসা (আ) ফিরআউনের কুমতলব জানতে পেরে ইসরাইলীদের নিয়ে মিশর ছেড়ে চলে যাচ্ছিলেন।\n\nসংবাদ পেয়ে ফিরআউন তার সেনাবাহিনী নিয়ে তাদের পিছু ধাওয়া করল।\n\nমূসা (আ) তাঁর অনুসারীদের নিয়ে নীলনদের তীরে উপস্থিত হলেন।\n\nসামনে নদী, পিছনে ফিরআউন বাহিনী।\n\nএমন বিপদের সময়ে আল্লাহর আদেশে মূসা (আ) হাতের লাঠি দ্বারা নদীতে আঘাত করলেন।\n\nপানি দুই ধারে সরে গেল।\n\nবনি ইসরাইলের ১২টি দলের জন্য ১২টি রাস্তা হয়ে গেল।\n\nমূসা (আ) তাঁর লোকজনসহ নিরাপদে নদী পার হয়ে গেলেন।\n\nফিরআউন নদীতে শুকনো রাস্তা দেখে সে রাস্তা ধরেই পার হতে লাগল।\n\nযেই না তারা সদলবলে নদীর মাঝখানে পৌঁছল, অমনি রাস্তা নদীর পানিতে মিলিয়ে গেল।\n\nফিরআউন তার দলবলসহ ডুবে মরল।\n\nআল্লাহর নবিকে ধ্বংস করতে গিয়ে ফিরআউন (ওলীদ) নিজেই সদলবলে ধ্বংস হলো।",
+        "explanation": "কুরআন ও বাইবেলের বর্ণনা অনুযায়ী ফেরাউন মূসা (আ:)–কে ও ইহুদী জনগণকে তাড়া করতে লাল সাগরে ঢুকে পড়লে আল্লাহ সমুদ্রকে ফিরিয়ে দিয়ে পানি জলে ভরে দেয় এবং ফেরাউন ও তাঁর সৈন্যরা সেই সময় ডুবে মারা যায়। এই ঘটনাটি দেখায় যে আল্লাহর ইচ্ছা ও শক্তি মহাসমস্ত এবং অবিশ্বাস ও ঘৃণার ফল্বরূপ গর্বের শাস্তি ঘটে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485631,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485632,
+      "value": {
+        "options": [],
+        "question": "আদ জাতি কোথায় বসবাস করত? তাদের ধ্বংসের কারণ লেখ।",
+        "solution": "আদ জাতি আম্মান থেকে শুরু করে হাযরামাওত ও ইয়েমেন পর্যন্ত বসবাস করত।\n\nআদ জাতি এক আল্লাহকে ভুলে গিয়ে মূর্তিপূজা ও নানারকম শিরকে লিপ্ত ছিল।\n\nহযরত হূদ (আ) তাদের শিরক ও মূর্তিপূজা ত্যাগ করে এক আল্লাহর ইবাদত করতে বলেন।\n\nজুলুম-অত্যাচার ত্যাগ করে ন্যায়নীতি ও সুবিচার করতে বলেন।\n\nতারা অহংকার করে আল্লাহ ও রাসুলের আদেশ অমান্য করল।\n\nহযরত হূদ (আ) তাদের আজাবের ভয় দেখান, কিন্তু তারা ভয় পেল না।\n\nআল্লাহর ইচ্ছায় প্রথমে অনাবৃষ্টি ও দুর্ভিক্ষ এলো। এতেও তারা শোধরালো না।\n\nপরে তাদের ওপর লাগাতার ৭ রাত ও ৮ দিন ভীষণ ঘূর্ণিঝড় চলল।\n\nএতে তাদের ঘরবাড়ি, দালানকোঠা, গাছপালা ও লোকজন ধূলিসাৎ হয়ে গেল।\n\nগোটা এলাকা মরুভূমিতে পরিণত হলো।\n\nতাদের অহংকার তাদের পতনের কারণ হলো।\n\nআজাবের সময় হযরত হূদ (আ) তাঁর অনুসারীদের নিয়ে একটি কুঁড়েঘরে আশ্রয় নিয়েছিলেন।\n\nতাঁদের কিছুই হলো না। আল্লাহ তাঁদের নিরাপদে রাখলেন।\n\nপরে তাঁরা মক্কায় চলে যান।",
+        "explanation": "আদিজাতি সাধারণত গুহা, বন, নদীর তীর ও পার্বত্য অঞ্চলগুলোতে বসবাস করত কারণ তারা শিকার‑সঞ্চয় ও বনজসম্পদের ওপর নির্ভরশীল ছিল এবং স্থায়ী কৃষিকাজ ও শহুরি জীবনযাপনের সঙ্গে যুক্ত ছিল না। তাদের ধ্বংসের কারণ ছিল জমি ও উৎসদখলের ফলে বাস্তুচ্যুতি, উন্নত প্রযুক্তি ও কৃষি সম্প্রসারণ, বাইরের রোগ-ব্যাধি, যুদ্ধ এবং সাংস্কৃতিক একীকরণ, যেগুলো তাদের সামাজিক ও অর্থনৈতিক ভিত্তি ধ্বংস করে দেয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485632,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485633,
+      "value": {
+        "options": [],
+        "question": "লূত বা মৃতসাগর কোথায়? বর্ণনা কর।",
+        "solution": "আরব, ফিলিস্তিন ও শামের মানচিত্রে দৃষ্টিপাত করলে বর্তমান পূর্ব জর্দান ও ফিলিস্তিনের মধ্যে একটি বিখ্যাত ও বিশাল যে জলাশয় দেখা যায় সেখানে ভূত বা মৃতসাগর অবস্থিত।\n\nসামুদ ছিল অত্যন্ত উর্বর ও সবুজ-সজীব এলাকা।\n\nলূত (আ) সেখানেই বসতি নির্মাণ করেন।\n\nসেখানকার লোকেরা অতিবিলাসী জীবনযাপন করত।\n\nতারা পাপ, লজ্জাহীনতা ও নাফরমানির কাজগুলো গর্বের সাথে প্রকাশ্যে করে বেড়াত।\n\nএজন্য আল্লাহ তায়ালা আজাবরূপে বিকট শব্দ ও পাথরবৃষ্টি বর্ষণ করলেন এবং এলাকাটিকে উল্টিয়ে দিলেন।\n\nএতে মৃতসাগর সৃষ্টি হয়।\n\nসামুদবাসীর আজাবের নিদর্শনস্বরূপ তা এখনও বিদ্যমান।",
+        "explanation": "লূত বা মৃতসাগর পশ্চিম এশিয়ায় জর্ডান উপত্যকায় জর্ডান ও ইস্রায়েল/ফিলিস্তিনের সীমান্তে অবস্থিত এবং মূলত জর্ডান নদীর জল দ্বারা খাদ্য যোগ হয়। এটি পৃথিবীর সবচেয়ে নিচু স্থলভাগ এবং ব্যতিক্রমীভাবে লবণাক্ত হওয়ায় পানিতে অনেক লবণ ও খনিজ জমে, ফলে মাছ-জন্তু বড় ধরনের বেঁচে থাকতে পারে না—এই কারণেই নাম “মৃতসাগর”। উচ্চ লবণমাত্রার ফলে পানির ঘনত্ব বেশি হওয়ায় মানুষ এখানে সহজে ভাসতে পারে এবং প্রাকৃতিক খনিজচময়ও দেখা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-08-20T06:36:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485633,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:43.000000Z",
+            "updated_at": "2025-08-20T06:36:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746862,
+      "value": {
+        "options": {
+          "ক": "হযরত ইয়াহইয়া (আ)",
+          "খ": "হযরত ইলিয়াস (আ)",
+          "গ": "হযরত ইউনুস (আ)",
+          "ঘ": "হযরত ইয়াকুব (আ)"
+        },
+        "question": "হয়রত যাকারিয়া (আ) একজন পুত্রসন্তানের জনক। তাঁর পুত্র ছিলেন-",
+        "solution": "ক. হযরত ইয়াহইয়া (আ)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746863,
+      "value": {
+        "options": {
+          "ক": "হযরত সুলাইমান (আ)",
+          "খ": "হযরত আইয়ুব (আ)",
+          "গ": "হযরত ইউনুস (আ)",
+          "ঘ": "হযরত ইউসুফ (আ)"
+        },
+        "question": "হযরত যাকারিয়া (আ) কার বংশধর?",
+        "solution": "ক. হযরত সুলাইমান (আ)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746864,
+      "value": {
+        "options": {
+          "ক": "ইমাম হওয়ার",
+          "খ": "ধৈর্যের শিক্ষা",
+          "গ": "শত্রুতার শিক্ষা",
+          "ঘ": "অভিভাবক হওয়ার শিক্ষা"
+        },
+        "question": "আমরা যাকারিয়া (আ)-এর জীবন থেকে কী শিক্ষা পাই?",
+        "solution": "খ. ধৈর্যের শিক্ষা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746865,
+      "value": {
+        "options": {
+          "ক": "সব মানুষের",
+          "খ": "বনি ইসরাইলের",
+          "গ": "আদ জাতির",
+          "ঘ": "সামুদ জাতির"
+        },
+        "question": "হযরত যাকারিয়া (আ) কাদের নবি ছিলেন?",
+        "solution": "খ. বনি ইসরাইলের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746857,
+      "value": {
+        "options": {
+          "ক": "সত্যবাদী",
+          "খ": "প্রতিজ্ঞা রক্ষাকারী",
+          "গ": "দায়িত্বহীন",
+          "ঘ": "মিথ্যাবাদী"
+        },
+        "question": "যুলকিফল অর্থ কী?",
+        "solution": "খ. প্রতিজ্ঞা রক্ষাকারী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746858,
+      "value": {
+        "options": {
+          "ক": "হযরত মূসা (আ)",
+          "খ": "হযরত ঈসা (আ)",
+          "গ": "হযরত যুলকিফল (আ)",
+          "ঘ": "হযরত শীষ (আ)"
+        },
+        "question": "কোন নবি কখনো রাগ করতেন না?",
+        "solution": "গ. হযরত যুলকিফল (আ)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746859,
+      "value": {
+        "options": {
+          "ক": "১টি",
+          "খ": "৩টি",
+          "গ": "৫টি",
+          "ঘ": "৭টি"
+        },
+        "question": "নবি হযরত ইয়াসা (আ) প্রতিনিধি নিয়োগের জন্য কয়টি শর্ত দিয়েছিলেন?",
+        "solution": "খ. ৩টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746860,
+      "value": {
+        "options": {
+          "ক": "হযরত ইয়াকুব (আ)",
+          "খ": "হযরত ইয়াহ্ইয়া (আ)",
+          "গ": "হযরত যুলকিফল (আ)",
+          "ঘ": "হযরত যাকারিয়া (আ)"
+        },
+        "question": "ইয়াসা (আ) এর শর্ত পালন করে তাঁর প্রতিনিধি নির্বাচিত হয়েছিলেন-",
+        "solution": "গ. হযরত যুলকিফল (আ)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746861,
+      "value": {
+        "options": {
+          "ক": "ইবলিস শয়তান",
+          "খ": "দুষ্ট বুড়ি",
+          "গ": "দুষ্ট বৃদ্ধ",
+          "ঘ": "সুন্দরী রমণী"
+        },
+        "question": "কে পর পর তিনদিন যুলকিফল (আ)-কে পথভ্রষ্ট করতে চাইল?",
+        "solution": "ক. ইবলিস শয়তান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746854,
+      "value": {
+        "options": {
+          "ক": "হযরত মূসা (আ)",
+          "খ": "হযরত হারুন (আ)",
+          "গ": "হযরত ঈসা (আ)",
+          "ঘ": "হযরত ইসহাক (আ)"
+        },
+        "question": "হযরত ইলিয়াস (আ) কার বংশধর?",
+        "solution": "খ. হযরত হারুন (আ)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746855,
+      "value": {
+        "options": {
+          "ক": "বা'ল দেবতা",
+          "খ": "হোবল দেবতা",
+          "গ": "মানব দেবতা",
+          "ঘ": "বিষ্ণু দেবতা"
+        },
+        "question": "ইলিয়াস (আ)-এর সম্প্রদায় কর্তৃক যেসব মূর্তির পূজা করা হতো তাদের প্রধান ছিল-",
+        "solution": "ক. বা'ল দেবতা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746856,
+      "value": {
+        "options": {
+          "ক": "বালাদিল আমিন",
+          "খ": "বালাবাক্কু ",
+          "গ": "মাদায়েন",
+          "ঘ": "জেরুজালেম"
+        },
+        "question": "হযরত ইলিয়াস (আ) শামের বাসিন্দাদের হিদায়েতের জন্য প্রেরিত হয়েছিলেন। তাঁর দ্বীন প্রচারের কেন্দ্র ছিল কোন শহর?",
+        "solution": "খ. বালাবাক্কু ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746849,
+      "value": {
+        "options": {
+          "ক": "ইলিয়াস (আ)",
+          "খ": "শুয়াইব (আ)",
+          "গ": "ইউনুছ (আ)",
+          "ঘ": "ইয়াকুব (আ)"
+        },
+        "question": "মাদয়ানবাসী ছিল মূর্তি পূজারি। এদের হিদায়েতের জন্য আল্লাহ কাকে প্রেরণ করেন?",
+        "solution": "খ. শুয়াইব (আ)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:01:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746850,
+      "value": {
+        "options": {
+          "ক": "হযরত লূত (আ)-কে",
+          "খ": "হযরত ইসহাক (আ)-কে",
+          "গ": "হযরত ইলিয়াস (আ)-কে",
+          "ঘ": "হযরত শুয়াইব (আ)-কে"
+        },
+        "question": "কাকে তাঁর চমৎকার বক্তৃতার জন্য খতিবুল আম্বিয়া বলা হয়?",
+        "solution": "ঘ. হযরত শুয়াইব (আ)-কে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:01:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746851,
+      "value": {
+        "options": {
+          "ক": "সামুদে",
+          "খ": "আমুরায়",
+          "গ": "আরবে",
+          "ঘ": "হাযরামাওতে"
+        },
+        "question": "হযরত শুয়াইব (আ) কোথায় ইন্তেকাল করেন?",
+        "solution": "ঘ. হাযরামাওতে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:01:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746852,
+      "value": {
+        "options": {
+          "ক": "৮ বছর",
+          "খ": "১০ বছর",
+          "গ": "৫ বছর",
+          "ঘ": "১২ বছর"
+        },
+        "question": "হযরত মূসা (আ) শুয়াইব (আ)-এর আশ্রয়ে কত বছর ছিলেন?",
+        "solution": "খ. ১০ বছর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:01:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746853,
+      "value": {
+        "options": {
+          "ক": "আসহাবে কাহফ",
+          "খ": "আসহাবে আইকা",
+          "গ": "আসহাবে সুফফা",
+          "ঘ": "আসহাবে রাসুল"
+        },
+        "question": "হযরত শুয়াইব (আ) কাদের নিকট প্রেরিত হয়েছিলেন?",
+        "solution": "খ. আসহাবে আইকা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:01:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746846,
+      "value": {
+        "options": {
+          "ক": "বিস্ময়কৃত সৃষ্টি রহস্য",
+          "খ": "একমাত্র ব্যতিক্রমী সাগর",
+          "গ": "সামুদবাসীর আজাবের নিদর্শন",
+          "ঘ": "প্রাকৃতিক বিবর্তনের পরিক্রমা"
+        },
+        "question": "বর্তমান পূর্ব জর্দান ও ফিলিস্তিনের মধ্যে মৃত সাগর অবস্থিত। এ মৃত সাগর কীসের নিদর্শন?",
+        "solution": "গ. সামুদবাসীর আজাবের নিদর্শন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:01:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746847,
+      "value": {
+        "options": {
+          "ক": "আব্দুল্লাহ",
+          "খ": "আহমদ",
+          "গ": "হারান",
+          "ঘ": "দাউদ"
+        },
+        "question": "লূত (আ)-এর পিতার নাম কী?",
+        "solution": "গ. হারান",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:01:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746848,
+      "value": {
+        "options": {
+          "ক": "হযরত ইসহাক (আ)",
+          "খ": "হযরত ইয়াকুব (আ)",
+          "গ": "হযরত মূসা (আ)",
+          "ঘ": "হযরত লূত (আ)"
+        },
+        "question": "ইবরাহীম (আ)-এর সাথে হিজরত করেছিলেন-",
+        "solution": "ঘ. হযরত লূত (আ)",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:01:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746844,
+      "value": {
+        "options": {
+          "ক": "হযরত ইয়াকুব (আ)",
+          "খ": "হযরত ইলিয়াস (আ)",
+          "গ": "হযরত ইউনুছ (আ)",
+          "ঘ": "হযরত ইদ্রিস (আ)"
+        },
+        "question": "হযরত ইসহাক (আ)-এর পুত্রের নাম কী?",
+        "solution": "ক. হযরত ইয়াকুব (আ)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:01:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746845,
+      "value": {
+        "options": {
+          "ক": "হযরত আছিয়া",
+          "খ": "হযরত হাজেরা (আ)",
+          "গ": "হযরত সারা (আ)",
+          "ঘ": "সফুরা"
+        },
+        "question": "ইসহাক (আ)-এর পিতা ছিলেন হযরত ইবরাহীম (আ)। তাঁর মাতা কে ছিলেন?",
+        "solution": "গ. হযরত সারা (আ)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:01:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746840,
+      "value": {
+        "options": {
+          "ক": "মাদায়েনে",
+          "খ": "মাদায়েনে সালিহ",
+          "গ": "মাদায়েনে মূসা",
+          "ঘ": "মাদায়েনে ঈসা"
+        },
+        "question": "হিজর শহরটি বর্তমানে কী নামে পরিচিত?",
+        "solution": "খ. মাদায়েনে সালিহ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746841,
+      "value": {
+        "options": {
+          "ক": "শীষ (আ)",
+          "খ": "সাম",
+          "গ": "হাবিল",
+          "ঘ": "কাবিল"
+        },
+        "question": "সামুদ জাতি কার বংশধর?",
+        "solution": "খ. সাম",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746842,
+      "value": {
+        "options": {
+          "ক": "লূত (আ)",
+          "খ": "সালিহ (আ)",
+          "গ": "মূসা (আ)",
+          "ঘ": "ঈসা (আ)"
+        },
+        "question": "আল্লাহ সামুদ জাতির হিদায়েতের জন্য নবি প্রেরণ করেন। ওই প্রেরিত নবি কে ছিলেন?",
+        "solution": "খ. সালিহ (আ)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746843,
+      "value": {
+        "options": {
+          "ক": "বন্যা",
+          "খ": "প্রচণ্ড খরা",
+          "গ": "ঘূর্ণিঝড়",
+          "ঘ": "ভীষণ শব্দ ও ভূমিকম্প"
+        },
+        "question": "সামুদ জাতিকে কী দ্বারা ধ্বংস করা হয়েছিল?",
+        "solution": "ঘ. ভীষণ শব্দ ও ভূমিকম্প",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746835,
+      "value": {
+        "options": {
+          "ক": "কিবতী",
+          "খ": "কুরাইশ",
+          "গ": "আদ",
+          "ঘ": "সেলজুক"
+        },
+        "question": "পৃথিবীতে ধ্বংসপ্রাপ্ত জাতির মধ্যে আদ ও সামুদ জাতি অন্যতম। আম্মান থেকে শুরু করে হাযরামাওত ও ইয়েমেন পর্যন্ত কোন জাতির বসতি ছিল?",
+        "solution": "গ. আদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746836,
+      "value": {
+        "options": {
+          "ক": "সূর্যের",
+          "খ": "মূর্তির",
+          "গ": "সাপের",
+          "ঘ": "অগ্নির"
+        },
+        "question": "আদ জাতি কীসের পূজা করত?",
+        "solution": "খ. মূর্তির",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746837,
+      "value": {
+        "options": {
+          "ক": "হযরত হূদ (আ)",
+          "খ": "হযরত সালিহ (আ)",
+          "গ": "হযরত ইসহাক (আ)",
+          "ঘ": "হযরত শুয়াইব (আ)"
+        },
+        "question": "আদ জাতি মূর্তিপূজা করত এবং শিরকে লিপ্ত ছিল। তাদের হিদায়েতের জন্য আল্লাহ কাকে প্রেরণ করেছিলেন?",
+        "solution": "ক. হযরত হূদ (আ)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746838,
+      "value": {
+        "options": {
+          "ক": "বিরাটাকায় দেহ",
+          "খ": "সুঠাম দেহ",
+          "গ": "শক্তিশালী দেহ",
+          "ঘ": "সবগুলো"
+        },
+        "question": "আদ জাতির দেহের গঠন প্রকৃতি কেমন ছিল?",
+        "solution": "ঘ. সবগুলো",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746839,
+      "value": {
+        "options": {
+          "ক": "অনাবৃষ্টি",
+          "খ": "ঘূর্ণিঝড়",
+          "গ": "দুর্ভিক্ষ",
+          "ঘ": "সবগুলো"
+        },
+        "question": "আদ জাতিকে ধ্বংস করা হয়েছিল কীভাবে?",
+        "solution": "ঘ. সবগুলো",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746821,
+      "value": {
+        "options": {
+          "ক": "সাফিয়া",
+          "খ": "ইমরান",
+          "গ": "সফুরা",
+          "ঘ": "হালিমা"
+        },
+        "question": "মূসা (আ)-এর স্ত্রীর নাম কী?",
+        "solution": "গ. সফুরা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746822,
+      "value": {
+        "options": {
+          "ক": "৯০ বছর",
+          "খ": "১০০ বছর",
+          "গ": "১১০ বছর",
+          "ঘ": "১২০ বছর"
+        },
+        "question": "মূসা (আ) কত বছর জীবিত ছিলেন?",
+        "solution": "ঘ. ১২০ বছর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746823,
+      "value": {
+        "options": {
+          "ক": "আম্বিয়া",
+          "খ": "হাজেরা",
+          "গ": "আছিয়া",
+          "ঘ": "আমিনা"
+        },
+        "question": "ফিরআউনের স্ত্রীর নাম কী?",
+        "solution": "গ. আছিয়া",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746824,
+      "value": {
+        "options": {
+          "ক": "আবরাহা",
+          "খ": "সুমির",
+          "গ": "হাদীদ",
+          "ঘ": "ওলীদ"
+        },
+        "question": "প্রাচীনকালে মিশরের বাদশাহকে ফিরআউন বলা হতো। কোন ফিরআউনের সাথে মূসা (আ)-এর বিরোধ ছিল?",
+        "solution": "ঘ. ওলীদ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746825,
+      "value": {
+        "options": {
+          "ক": "নীল নদে",
+          "খ": "ফোরাত নদীতে",
+          "গ": "টাইগ্রিস নদীতে",
+          "ঘ": "মৃত সাগরে"
+        },
+        "question": "বাদশাহ ওলীদ কোথায় ডুবে মরেছিল?",
+        "solution": "ক. নীল নদে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746826,
+      "value": {
+        "options": {
+          "ক": "সামেরী",
+          "খ": "সাবেরী",
+          "গ": "হাশেমী",
+          "ঘ": "রাফেজী"
+        },
+        "question": "বনি-ইসরাইলিদের ধোঁকা দিয়ে গো-বৎস পূজায় লিপ্ত করেছিল কে?",
+        "solution": "ক. সামেরী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746827,
+      "value": {
+        "options": {
+          "ক": "আছিয়া",
+          "খ": "ইউখাবেজ",
+          "গ": "হাজেরা",
+          "ঘ": "আম্বিয়া"
+        },
+        "question": "হযরত মূসা (আ)-এর মাতার নাম কী?",
+        "solution": "খ. ইউখাবেজ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746828,
+      "value": {
+        "options": {
+          "ক": "প্রেসিডেন্ট",
+          "খ": "বাদশাহ",
+          "গ": "রাজা",
+          "ঘ": "ফিরাউন"
+        },
+        "question": "প্রাচীনকালে মিশরের বাদশাকে বলা হতো-",
+        "solution": "ঘ. ফিরাউন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746829,
+      "value": {
+        "options": {
+          "ক": "হযরত ঈসা (আ)",
+          "খ": "হযরত মূসা (আ)",
+          "গ": "হযরত লূত (আ)",
+          "ঘ": "হযরত হূদ (আ)"
+        },
+        "question": "মিশরের রাজা ওলীদ নিজেকে খোদা দাবি করেছিল। তাকে হিদায়েতের বাণী শোনানোর জন্য কোন রাসুলকে প্রেরণ করা হয়?",
+        "solution": "খ. হযরত মূসা (আ)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746830,
+      "value": {
+        "options": {
+          "ক": "বনি ইসরাইল",
+          "খ": "কিবতি",
+          "গ": "বনি বকর",
+          "ঘ": "বনি হাসেম"
+        },
+        "question": "হযরত মূসা (আ) কোন বংশে জন্মগ্রহণ করেন?",
+        "solution": "ক. বনি ইসরাইল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746831,
+      "value": {
+        "options": {
+          "ক": "খুব ভালো",
+          "খ": "দয়ালু",
+          "গ": "লোভী",
+          "ঘ": "কৃপণ"
+        },
+        "question": "মিশরের বাদশাহ ওলীদ কেমন ছিল?",
+        "solution": "গ. লোভী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746832,
+      "value": {
+        "options": {
+          "ক": "নমরুদ",
+          "খ": "ইয়াজিদ",
+          "গ": "হামান",
+          "ঘ": "সাজ্জাদ"
+        },
+        "question": "ওলীদের মন্ত্রী কে ছিল?",
+        "solution": "গ. হামান",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746833,
+      "value": {
+        "options": {
+          "ক": "হযরত শুয়াইব (আ)",
+          "খ": "হযরত ইসহাক (আ)",
+          "গ": "হযরত ইলিয়াস (আ)",
+          "ঘ": "হযরত ইয়াকূব (আ)"
+        },
+        "question": "মূসা (আ)-এর শ্বশুরের নাম কী?",
+        "solution": "ক. হযরত শুয়াইব (আ)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746834,
+      "value": {
+        "options": {
+          "ক": "হযরত নূহ (আ)",
+          "খ": "হযরত ইবরাহীম (আ)",
+          "গ": "হযরত শুয়াইব (আ)",
+          "ঘ": "হযরত মূসা (আ)"
+        },
+        "question": "কে 'কালিমুল্লাহ' উপাধিতে ভূষিত হন?",
+        "solution": "ঘ. হযরত মূসা (আ)",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746801,
+      "value": {
+        "options": {
+          "ক": "মদিনা",
+          "খ": "জেদ্দা",
+          "গ": "সিরিয়া",
+          "ঘ": "মক্কা নগরীতে"
+        },
+        "question": "হযরত মুহাম্মদ কোথায় জন্মগ্রহণ করেন?",
+        "solution": "ঘ. মক্কা নগরীতে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746802,
+      "value": {
+        "options": {
+          "ক": "সঠিক",
+          "খ": "সফলতা",
+          "গ": "কৃতিত্ব",
+          "ঘ": "বিশ্বাসী"
+        },
+        "question": "আল-আমিন অর্থ-",
+        "solution": "ঘ. বিশ্বাসী",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746803,
+      "value": {
+        "options": {
+          "ক": "৩টি",
+          "খ": "৪টি",
+          "গ": "৫টি",
+          "ঘ": "৬টি"
+        },
+        "question": "সূরা আলাকের কয়টি আয়াত সর্বপ্রথম অবতীর্ণ হয়েছিল?",
+        "solution": "গ. ৫টি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746804,
+      "value": {
+        "options": {
+          "ক": "আল্লাহ তায়ালা",
+          "খ": "জিবরাইল (আ)",
+          "গ": "মহানবি (স)",
+          "ঘ": "হযরত উমর (রা)"
+        },
+        "question": "\"শ্রমিককে তার গায়ের ঘাম শুকানোর আগেই পারিশ্রমিক দিয়ে দাও।\" উক্তিটি কে করেছেন?",
+        "solution": "গ. মহানবি (স)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746805,
+      "value": {
+        "options": {
+          "ক": "হাতেমতাই",
+          "খ": "মহানবি (স)",
+          "গ": "হাতেম",
+          "ঘ": "বারবার্ট ক্লাইভ"
+        },
+        "question": "দয়ার উজ্জ্বল আদর্শ কে?",
+        "solution": "খ. মহানবি (স)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746806,
+      "value": {
+        "options": {
+          "ক": "আমিনা",
+          "খ": "খাদিজা (রা)",
+          "গ": "আয়েশা (রা)",
+          "ঘ": "হালিমা (রা)"
+        },
+        "question": "কাকে বসানোর জন্য মহানবি (স) নিজের গায়ের চাদর বিছিয়ে দিয়েছিলেন?",
+        "solution": "ঘ. হালিমা (রা)",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746807,
+      "value": {
+        "options": {
+          "ক": "৫৭০",
+          "খ": "৫৭১",
+          "গ": "৫৭২",
+          "ঘ": "৫৭৩"
+        },
+        "question": "হযরত মুহাম্মদ (স)-এর জন্ম কত খ্রিষ্টাব্দে?",
+        "solution": "ক. ৫৭০",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746808,
+      "value": {
+        "options": {
+          "ক": "৩ বছর",
+          "খ": "৪ বছর",
+          "গ": "৫ বছর",
+          "ঘ": "৬ বছর"
+        },
+        "question": "হারবুল ফিজার কত বছর স্থায়ী ছিল?",
+        "solution": "গ. ৫ বছর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746809,
+      "value": {
+        "options": {
+          "ক": "অন্যায় সমর",
+          "খ": "ন্যায় সমর",
+          "গ": "শান্তি",
+          "ঘ": "শৃঙ্খলা"
+        },
+        "question": "হারবুল ফিজার শব্দের অর্থ কী?",
+        "solution": "ক. অন্যায় সমর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746810,
+      "value": {
+        "options": {
+          "ক": "হযরত জিবরাইল (আ)",
+          "খ": "হযরত মিকাইল (আ)",
+          "গ": "হযরত ইসরাফিল (আ)",
+          "ঘ": "হযরত আজরাইল (আ)"
+        },
+        "question": "আল্লাহর বাণী নিয়ে কোন ফেরেশতা সর্বপ্রথম মুহাম্মদ (স)-এর নিকট এসেছিলেন?",
+        "solution": "ক. হযরত জিবরাইল (আ)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746811,
+      "value": {
+        "options": {
+          "ক": "পড়ুন",
+          "খ": "লিখুন",
+          "গ": "ঘুমিয়ে যান",
+          "ঘ": "দাওয়াত দিন"
+        },
+        "question": "ইকরা শব্দের অর্থ কী?",
+        "solution": "ক. পড়ুন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746812,
+      "value": {
+        "options": {
+          "ক": "আল্লাহর",
+          "খ": "পীর-আউলিয়ার",
+          "গ": "ইমামের",
+          "ঘ": "পিতামাতার"
+        },
+        "question": "মহানবি (স) ৪০ বছর বয়সে নবুয়ত লাভ করেন। নবুয়ত লাভের পর তিনি কার তাওহিদ (একত্ববাদ) প্রচার করতে থাকলেন?",
+        "solution": "ক. আল্লাহর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746813,
+      "value": {
+        "options": {
+          "ক": "৪৩ জন",
+          "খ": "৪৪ জন",
+          "গ": "৪৫ জন",
+          "ঘ": "৪৬ জন"
+        },
+        "question": "প্রথম তিন বছরে কতজন নরনারী ইসলাম গ্রহণ করেন?",
+        "solution": "গ. ৪৫ জন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746814,
+      "value": {
+        "options": {
+          "ক": "কাজের একদিন আগে",
+          "খ": "শ্রমিকের গায়ের ঘাম শুকানোর পরে",
+          "গ": "শ্রমিকের গায়ের ঘাম শুকানোর আগে",
+          "ঘ": "মাস শেষ হলে"
+        },
+        "question": "শ্রমিকের পারিশ্রমিক কখন দেব?",
+        "solution": "গ. শ্রমিকের গায়ের ঘাম শুকানোর আগে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746815,
+      "value": {
+        "options": {
+          "ক": "আবু তালেব",
+          "খ": "আবু লাহাব",
+          "গ": "আবু জাহল",
+          "ঘ": "আবু সুফিয়ান"
+        },
+        "question": "ইয়াতিম বালকটির সম্পদ কে কেড়ে নিয়েছিল?",
+        "solution": "গ. আবু জাহল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746816,
+      "value": {
+        "options": {
+          "ক": "মহানবি (স)-এর",
+          "খ": "আল্লাহ তায়ালার",
+          "গ": "জনৈক ব্যক্তির",
+          "ঘ": "মনীষীদের"
+        },
+        "question": "\"পৃথিবীতে যারা আছে তাদের প্রতি দয়া দেখাও, তাহলে আল্লাহ তোমাদের প্রতি দয়া দেখাবেন।\"- এ বাণীটি কার?",
+        "solution": "ক. মহানবি (স)-এর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746817,
+      "value": {
+        "options": {
+          "ক": "সকল মক্কাবাসীকে",
+          "খ": "সকল মদিনাবাসীকে",
+          "গ": "ইরাকিদের",
+          "ঘ": "সিরীয়দের"
+        },
+        "question": "মক্কা বিজয় ইতিহাসের এক যুগান্তকারী ঘটনা। মক্কা বিজয়ের পর মহানবি (স) ক্ষমা করে দিয়েছিলেন-",
+        "solution": "ক. সকল মক্কাবাসীকে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746818,
+      "value": {
+        "options": {
+          "ক": "হযরত উমর (রা)",
+          "খ": "হযরত খাদিজা (রা)",
+          "গ": "হযরত ফাতিমা (রা)",
+          "ঘ": "হযরত বিলাল (রা)"
+        },
+        "question": "সর্বপ্রথম কে ইসলাম গ্রহণ করেন?",
+        "solution": "খ. হযরত খাদিজা (রা)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746819,
+      "value": {
+        "options": {
+          "ক": "হযরত আলী (রা)",
+          "খ": "হযরত আবু বকর (রা)",
+          "গ": "হযরত ওমর (রা)",
+          "ঘ": "হযরত উসমান (রা)"
+        },
+        "question": "পুরুষদের মধ্যে সর্বপ্রথম কে ইসলাম গ্রহণ করেন?",
+        "solution": "খ. হযরত আবু বকর (রা)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746820,
+      "value": {
+        "options": {
+          "ক": "ওমর ফারুক (রা)",
+          "খ": "মহানবি (স)",
+          "গ": "হাতেম",
+          "ঘ": "বারবার্ট ক্লাইভ"
+        },
+        "question": "ক্ষমার মূর্তপ্রতীক কে?",
+        "solution": "খ. মহানবি (স)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746796,
+      "value": {
+        "options": {
+          "ক": "জাহান্নাম",
+          "খ": "দোযখ",
+          "গ": "জান্নাত",
+          "ঘ": "আরব"
+        },
+        "question": "কোথায় চরম শান্তি ও পরম আনন্দ রয়েছে?",
+        "solution": "গ. জান্নাত",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746797,
+      "value": {
+        "options": {
+          "ক": "নবি-রাসুলগণ",
+          "খ": "আলেমগণ",
+          "গ": "শিক্ষকগণ",
+          "ঘ": "পিতামাতা"
+        },
+        "question": "আমরা নিয়মিত আল্লাহর ইবাদত করি। কারা আমাদের আল্লাহর ইবাদত করার নিয়মকানুন শিখিয়েছেন?",
+        "solution": "ক. নবি-রাসুলগণ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746798,
+      "value": {
+        "options": {
+          "ক": "হযরত আদম (আ)",
+          "খ": "হযরত মূসা (আ)",
+          "গ": "হযরত মুহাম্মদ (স)",
+          "ঘ": "হযরত ইবরাহীম (আ)"
+        },
+        "question": "সর্বশেষ ও সর্বশ্রেষ্ঠ নবির নাম কী?",
+        "solution": "গ. হযরত মুহাম্মদ (স)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746799,
+      "value": {
+        "options": {
+          "ক": "৭১ জন",
+          "খ": "২৯ জন",
+          "গ": "২৫ জন",
+          "ঘ": "৭৫ জন"
+        },
+        "question": "কুরআন মজিদে কত জন নবি-রাসুলের নাম উল্লেখ আছে?",
+        "solution": "গ. ২৫ জন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746800,
+      "value": {
+        "options": {
+          "ক": "হযরত মূসা (আ)",
+          "খ": "হযরত আদম (আ)",
+          "গ": "হযরত হূদ (আ)",
+          "ঘ": "হযরত মুহাম্মদ (সা.)"
+        },
+        "question": "পৃথিবীর সর্বপ্রথম মানুষ ও প্রথম নবি কে?",
+        "solution": "খ. হযরত আদম (আ)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7334&grade=7&per_page=2000&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7334&grade=7&per_page=2000&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7334&grade=7&per_page=2000&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 132,
+  "total": 132
+}

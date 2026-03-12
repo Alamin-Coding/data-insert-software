@@ -1,0 +1,5199 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 745265,
+      "value": {
+        "options": [],
+        "question": "রাঙা",
+        "solution": "রঙিন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745265,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745266,
+      "value": {
+        "options": [],
+        "question": "জোড়াদিঘি",
+        "solution": "যেখানে পাশাপাশি দুটি দিঘি রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745266,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745267,
+      "value": {
+        "options": [],
+        "question": "থরথর",
+        "solution": "প্রচন্ড কম্পন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745267,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745268,
+      "value": {
+        "options": [],
+        "question": "'ভাগ্যে খোকা সঙ্গে ছিল'— মা একথা বললেন কেন?",
+        "solution": "খোকা তার মাকে নিয়ে দেশ-বিদেশ ঘুরতে বের হয়। সন্ধ্যা হলে তারা কোনো এক জোড়াদিঘির ঘাটে গিয়ে পৌছায়। এমন সময় একদল ডাকাত তাদের ওপর আক্রমণ করলে সাহসী খোকা একাই ডাকাতদের সঙ্গে যুদ্ধ করে জয়লাভ করে। তাই মা একথা বললেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745268,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745269,
+      "value": {
+        "options": [],
+        "question": "বিদেশ",
+        "solution": "স্বদেশ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745269,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745270,
+      "value": {
+        "options": [],
+        "question": "দূরে",
+        "solution": "কাছে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745270,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745271,
+      "value": {
+        "options": [],
+        "question": "সকাল",
+        "solution": "সন্ধ্যা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745271,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745272,
+      "value": {
+        "options": [],
+        "question": "ঝনঝন",
+        "solution": "কাচের আয়নাটা ঝনঝন করে ভেঙে গেল।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745272,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745273,
+      "value": {
+        "options": [],
+        "question": "ভনভন",
+        "solution": "ময়লা জায়গাটায় ভনভন করে মাছি উড়ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745273,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745274,
+      "value": {
+        "options": [],
+        "question": "মাঠ",
+        "solution": "ময়দান",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745275,
+      "value": {
+        "options": [],
+        "question": "মেঘ",
+        "solution": "জলরাশি",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745276,
+      "value": {
+        "options": [],
+        "question": "কোনোখানে _____ নাই।",
+        "solution": "জনমানব",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745277,
+      "value": {
+        "options": [],
+        "question": "বিদেশ",
+        "solution": "স্বদেশ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745278,
+      "value": {
+        "options": [],
+        "question": "দূরে",
+        "solution": "নিকটে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745279,
+      "value": {
+        "options": [],
+        "question": "ঘোড়া",
+        "solution": "অশ্ব",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745280,
+      "value": {
+        "options": [],
+        "question": "ভাগ্য",
+        "solution": "অদৃষ্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745281,
+      "value": {
+        "options": [],
+        "question": "বিদেশ",
+        "solution": "তিনি আগামী মাসে বিদেশ থেকে আসবেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745282,
+      "value": {
+        "options": [],
+        "question": "জনমানব",
+        "solution": "রাস্তাটি খুব নীরব, কোনো জনমানব নেই।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745283,
+      "value": {
+        "options": [],
+        "question": "ভয়ানক",
+        "solution": "বগুড়া-রংপুর মহাসড়কে ভয়ানক দুর্ঘটনা ঘটেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745284,
+      "value": {
+        "options": [],
+        "question": "স্মরণ",
+        "solution": "কাজী নজরুল ইসলামের জন্মদিনে স্মরণসভার আয়োজন করা হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745285,
+      "value": {
+        "options": [],
+        "question": "ভয়",
+        "solution": "বোকারা ভূতকে ভয় পায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745286,
+      "value": {
+        "options": {
+          "ক": "ভয়ে কাঁদছেন",
+          "খ": "ঠাকুর-দেবতা স্মরণ করছেন",
+          "গ": "খোকাকে ডাকছেন",
+          "ঘ": "ডাকাতদের বকছেন"
+        },
+        "question": "মা পালকির কোণে বসে কী করছেন?",
+        "solution": "খ. ঠাকুর-দেবতা স্মরণ করছেন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745287,
+      "value": {
+        "options": {
+          "ক": "কাঁটাবনে",
+          "খ": "দিঘির ধারে",
+          "গ": "জোড়া দিঘিতে",
+          "ঘ": "নদীর সোঁতায়"
+        },
+        "question": "বেয়ারাগুলো কোথায় কাঁপছে?",
+        "solution": "ক. কাঁটাবনে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745288,
+      "value": {
+        "options": {
+          "ক": "সঙ্গী-সাথিদের",
+          "খ": "চাকরদের",
+          "গ": "পথচারীদের",
+          "ঘ": "পালকি বাহকদের"
+        },
+        "question": "বেয়ারা বলা হয়েছে কাদের?",
+        "solution": "ঘ. পালকি বাহকদের",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745289,
+      "value": {
+        "options": {
+          "ক": "আমি প্রবাসে থাকি",
+          "খ": "আমি স্বদেশকে খুব ভালোবাসি",
+          "গ": "আমাদের প্রতিবেশী দেশ ভারত",
+          "ঘ": "সে দেশান্তরে গিয়েছে"
+        },
+        "question": "'বিদেশ' শব্দের বিপরীত শব্দ দিয়ে বাক্য নিচের কোনটি?",
+        "solution": "খ. আমি স্বদেশকে খুব ভালোবাসি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745290,
+      "value": {
+        "options": {
+          "ক": "খোকার মঙ্গলের জন্য",
+          "খ": "ডাকাতের ভয়ে",
+          "গ": "পুণ্যের জন্য",
+          "ঘ": "বাড়ি ফেরার জন্য"
+        },
+        "question": "মা ঠাকুর-দেবতাকে স্মরণ করছেন কেন?",
+        "solution": "খ. ডাকাতের ভয়ে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745291,
+      "value": {
+        "options": [],
+        "question": "চ্ছ",
+        "solution": "চ্+ছ - ইচ্ছা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745292,
+      "value": {
+        "options": [],
+        "question": "ন্ধ",
+        "solution": "ন্+ধ - বন্ধু",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745293,
+      "value": {
+        "options": [],
+        "question": "স্ম",
+        "solution": "স্+ম - স্মরণ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745294,
+      "value": {
+        "options": [],
+        "question": "'বীরপুরুষ' কবিতাটির মূলভাব লেখ।",
+        "solution": "শিশুরা কল্পনা করতে ভালোবাসে। এই কবিতাটিও তেমনি এক ছোট্ট শিশুর কল্পনা। কল্পনায় সে মায়ের সঙ্গে দূর দেশে যায়। পথে সে ডাকাতদের মোকাবেলা করে, বীরের মতো লড়াই করে মাকে রক্ষা করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 61,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 61,
+        "name": "মূলভাব",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745295,
+      "value": {
+        "options": [],
+        "question": "ঝনঝনিয়ে",
+        "solution": "ঝনঝন শব্দ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745295,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745296,
+      "value": {
+        "options": [],
+        "question": "সোঁতা",
+        "solution": "ক্ষীণ স্রোত বা প্রবাহ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745296,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745297,
+      "value": {
+        "options": [],
+        "question": "মা ও খোকা কীভাবে যাচ্ছে?",
+        "solution": "মা যাচ্ছে পালকিতে চড়ে দরজা দুটো একটুখানি ফাঁকা রেখে। আর খোকা রাঙা ঘোড়ায় চেপে টগবগিয়ে মায়ের পাশে পাশে যাচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745297,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745298,
+      "value": {
+        "options": [],
+        "question": "ভয়",
+        "solution": "সাহস",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745298,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745299,
+      "value": {
+        "options": [],
+        "question": "আলো",
+        "solution": "আঁধার",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745299,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745300,
+      "value": {
+        "options": [],
+        "question": "কবি ও কবিতার নামসহ 'বীরপুরুষ' কবিতার প্রথম ৮ লাইন লেখ।",
+        "solution": "\u003Cdiv style=\"text-align: center;\"\u003E\u003Cstrong\u003Eবীরপুরুষ\u003C/strong\u003E\u003Cbr /\u003E\nরবীন্দ্রনাথ ঠাকুর\u003Cbr /\u003E\n\u003Cbr /\u003E\nমনে করো, যেন বিদেশ ঘুরে\u003Cbr /\u003E\nমাকে নিয়ে যাচ্ছি অনেক দূরে।\u003Cbr /\u003E\nতুমি যাচ্ছ পালকিতে মা চড়ে\u003Cbr /\u003E\nদরজা দুটো একটুকু ফাঁক করে,\u003Cbr /\u003E\nআমি যাচ্ছি রাঙা ঘোড়ার &#39;পরে\u003Cbr /\u003E\nটগবগিয়ে তোমার পাশে পাশে।\u003Cbr /\u003E\nরাস্তা থেকে ঘোড়ার খুরে খুরে\u003Cbr /\u003E\nরাঙা ধুলোয় মেঘ উড়িয়ে আসে।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 51,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 51,
+        "name": "কবিতা",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745301,
+      "value": {
+        "options": [],
+        "question": "যুদ্ধ থেকে ফেরার পর মা কী করল?",
+        "solution": "যুদ্ধে ডাকাতদের কুপোকাত করে খোকা এসে মাকে জানায় লড়াই থেমে গেছে। তখন মা পালকি থেকে নেমে খোকাকে চুমু খেয়ে কোলে নেয়। তারপর বলে ভাগ্যিস খোকা সঙ্গে ছিল। তা না হলে যে কী হতো!",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745302,
+      "value": {
+        "options": [],
+        "question": "ডাকাতদের সাথে খোকার লড়াইয়ের বর্ণনা দাও।",
+        "solution": "'হাঁরে রে রে রে রে' ডাক ছেড়ে ডাকাত দলের আসতে দেখে মা পালকির এক কোণে বসে ভয়ে ঠাকুর-দেবতাকে ডাকছিলেন। আর বেয়ারাগুলো পালকি ছেড়ে পাশের কাঁটাবনে বসে ভয়ে থরথর করে কাঁপছিল। এ অবস্থায় খোকা মাকে ডেকে অভয় দেয়, কিন্তু মা খোকাকে ডাকাতদের কাছে যেতে নিষেধ করেন। কিন্তু খোকা ঘোড়া ছুটিয়ে তাদের মাঝে যায় এবং ভয়ানক লড়াই শুরু হয়। ঢাল ও তলোয়ার ঝনঝন করে বাজে। অনেক লোক ভয়ে পালিয়ে যায়, অনেক লোকের মাথা কাটা পড়ে। খোকা রক্ত মেখে ঘেমে গিয়েছিল। মা তো ভেবেছিলেন, খোকা হয়তো মরেই গেছে, কিন্তু খোকা এসে জানায় লড়াই থেমে গেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745303,
+      "value": {
+        "options": [],
+        "question": "অন্ধকার",
+        "solution": "আঁধার",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745304,
+      "value": {
+        "options": [],
+        "question": "_____&nbsp;লোকের মাথা পড়ল কাটা।",
+        "solution": "কত",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745305,
+      "value": {
+        "options": [],
+        "question": "সময়",
+        "solution": "অসময়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745306,
+      "value": {
+        "options": [],
+        "question": "মরা",
+        "solution": "বাঁচা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745307,
+      "value": {
+        "options": [],
+        "question": "রাস্তা",
+        "solution": "পথ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745308,
+      "value": {
+        "options": [],
+        "question": "তলোয়ার",
+        "solution": "শিশু দুটি প্লাস্টিকের তলোয়ার নিয়ে যুদ্ধ যুদ্ধ খেলছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745309,
+      "value": {
+        "options": {
+          "ক": "পথচারী",
+          "খ": "দোকান",
+          "গ": "আলো",
+          "ঘ": "অন্ধকার"
+        },
+        "question": "দিঘির ধারে কী দেখা যায়?",
+        "solution": "গ. আলো",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745310,
+      "value": {
+        "options": {
+          "ক": "ভাবছ খোকা গেলই বুঝি মরে",
+          "খ": "তুমি বললে, 'যাসনে খোকা ওরে'",
+          "গ": "আমি বলি, 'দেখো-না চুপ করে'",
+          "ঘ": "দরজা দুটো একটুকু ফাঁক করে"
+        },
+        "question": "\"এত লোকের সঙ্গে লড়াই করে\"- এর পরের লাইন কোনটি?",
+        "solution": "ক. ভাবছ খোকা গেলই বুঝি মরে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745311,
+      "value": {
+        "options": [],
+        "question": "ক্ত",
+        "solution": "ক্+ত - মুক্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745312,
+      "value": {
+        "options": [],
+        "question": "প্রচন্ড কম্পন অনুভূত হওয়া",
+        "solution": "থরথর",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745313,
+      "value": {
+        "options": [],
+        "question": "বেয়ারা (বেহারা)",
+        "solution": "যারা কাঁধে পালকি বহন করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745313,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745314,
+      "value": {
+        "options": [],
+        "question": "দুর্দশা",
+        "solution": "খারাপ অবস্থা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745314,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745315,
+      "value": {
+        "options": [],
+        "question": "বেয়ারারা কোথায় পালাল?",
+        "solution": "ডাকাতের ভয়ে বেয়ারারা পাশের কাঁটাবনে পালাল।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745315,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745316,
+      "value": {
+        "options": [],
+        "question": "হু-হু",
+        "solution": "হু-হু করে হাওয়া বইছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745316,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745317,
+      "value": {
+        "options": [],
+        "question": "সোঁ-সোঁ",
+        "solution": "সোঁ-সোঁ করে বাতাস ছুটছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745317,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745318,
+      "value": {
+        "options": [],
+        "question": "জোড়াদিঘির মাঠের পরিবেশ কেমন ছিল?",
+        "solution": "জোড়াদিঘির মাঠটি ছিল নির্জন। কোথাও জনমানব তো ছিলই না, বরং যেকোনো দিকে তাকালেই ধু ধু ফাঁকা মাঠ দেখা যাচ্ছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745319,
+      "value": {
+        "options": [],
+        "question": "মা ও খোকা কোন বাহনে করে দূর দেশে যাচ্ছিল?",
+        "solution": "মা পালকিতে চড়ে খোকার সঙ্গে দূর দেশে যাচ্ছিলেন। আর খোকা রাঙা ঘোড়ায় চড়ে টগবগিয়ে মায়ের পাশে পাশে যাচ্ছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745320,
+      "value": {
+        "options": [],
+        "question": "মা ঠাকুর-দেবতা স্মরণ করেছেন কেন?",
+        "solution": "মা ভয়ে ঠাকুর দেবতা স্মরণ করেছেন। জোড়াদিঘির মাঠে অন্ধকারে দিঘির ধারে আলো দেখতে পান। এরপর 'হাঁরে রে রে রে রে' করে ডাকাত দল ডাক ছেড়ে আসছে দেখে মা ভয়ে পালকির এক কোণে বসে ঠাকুর-দেবতাকে স্মরণ করেছেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745321,
+      "value": {
+        "options": [],
+        "question": "বেয়ারাগুলো কাঁপছে কেন?",
+        "solution": "দিঘির ধারে ডাকাত দলকে 'হাঁরে রে রে রে রে' করে ডাক ছেড়ে আসছে দেখে বেয়ারাগুলো ভয় পায়। ডাকাতদের ভয়ে বেয়ারাগুলো পালকি ছেড়ে পাশের কাঁটাবনে বসে থরথর করে কাঁপছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745322,
+      "value": {
+        "options": [],
+        "question": "দিঘির ধারে ডাকাত দল কীভাবে এলো এবং মা ও বেয়ারাদের কী অবস্থা হলো?",
+        "solution": "দিঘির ধারে ডাকাত দল 'হাঁরে রে রে রে রে' ডাক ছেড়ে এলো। মা ভয়ে পালকির এক কোণে বসে ঠাকুর-দেবতাকে স্মরণ করছিলেন। বিপদ থেকে উদ্ধার পেতেই তিনি ঠাকুর-দেবতাকে ডাকছিলেন। আর বেয়ারাগুলো পালকি ছেড়ে পাশের কাঁটাবনে চলে যায়। সেখানে বসে তারা ভয়ে থরথর করে কাঁপতে থাকে। ডাকাত দলের হঠাৎ আক্রমণে মা ও বেয়ারাগুলো প্রচন্ড ভয় পেয়ে যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745323,
+      "value": {
+        "options": [],
+        "question": "সূর্য",
+        "solution": "রবি",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745324,
+      "value": {
+        "options": [],
+        "question": "ঘোড়া",
+        "solution": "অশ্ব",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745325,
+      "value": {
+        "options": [],
+        "question": "আমি তখন _____ মেখে ঘেমে\u003Cbr\u003E\nবলছি এসে, _____ গেছে থেমে।",
+        "solution": "রক্ত, লড়াই",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745326,
+      "value": {
+        "options": [],
+        "question": "আসে",
+        "solution": "যায়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745327,
+      "value": {
+        "options": [],
+        "question": "আপন",
+        "solution": "পর",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745328,
+      "value": {
+        "options": [],
+        "question": "মা",
+        "solution": "জননী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745329,
+      "value": {
+        "options": [],
+        "question": "সূর্য",
+        "solution": "তপন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745330,
+      "value": {
+        "options": [],
+        "question": "আমরা কোথায় যাচ্ছি কে তা জানে\u003Cbr\u003E\nঅন্ধকারে দেখা যায় না ভালো\u003Cbr\u003E\nতুমি যেন বললে আমায় ডেকে\u003Cbr\u003E\nদিঘির ধারে ওই যে কিসের আলো",
+        "solution": "আমরা কোথায় যাচ্ছি কে তা জানে-\u003Cbr /\u003E\nঅন্ধকারে দেখা যায় না ভালো।\u003Cbr /\u003E\nতুমি যেন বললে আমায় ডেকে,\u003Cbr /\u003E\n&#39;দিঘির ধারে ওই-যে কিসের আলো!&#39;",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745331,
+      "value": {
+        "options": {
+          "ক": "আনন্দ",
+          "খ": "দুঃখ",
+          "গ": "শক্তি",
+          "ঘ": "সাহস"
+        },
+        "question": "ভয়-এর বিপরীত শব্দ কী?",
+        "solution": "ঘ. সাহস",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745332,
+      "value": {
+        "options": {
+          "ক": "মোটরগাড়িতে",
+          "খ": "গরুরগাড়িতে",
+          "গ": "ঘোড়ায় চড়ে",
+          "ঘ": "পালকিতে চড়ে"
+        },
+        "question": "মা কীভাবে দূর দেশে যাচ্ছেন?",
+        "solution": "ঘ. পালকিতে চড়ে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745333,
+      "value": {
+        "options": [],
+        "question": "স্ত",
+        "solution": "স্+ত - আস্তে",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745334,
+      "value": {
+        "options": [],
+        "question": "পানি ফোটার মতো শব্দ করে চলা",
+        "solution": "টগবগিয়ে",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745335,
+      "value": {
+        "options": [],
+        "question": "পাশাপাশি অবস্থিত দুটি দিঘি",
+        "solution": "জোড়াদিঘি",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745336,
+      "value": {
+        "options": [],
+        "question": "ভয়ানক অবস্থা",
+        "solution": "দুর্দশা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745337,
+      "value": {
+        "options": [],
+        "question": "টগবগিয়ে",
+        "solution": "পানি ফোটার মতো শব্দ করে, ধাবমান ঘোড়ার পায়ের শব্দ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745337,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745338,
+      "value": {
+        "options": [],
+        "question": "পাট",
+        "solution": "আকাশের পশ্চিম দিকের শেষভাগ, অস্তাচল, যেখানে সূর্য ডোবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745338,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745339,
+      "value": {
+        "options": [],
+        "question": "স্মরণ",
+        "solution": "মনে করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745339,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745340,
+      "value": {
+        "options": [],
+        "question": "খোকা মাকে নিয়ে কোথায় যাচ্ছে?",
+        "solution": "খোকা মাকে নিয়ে অনেক দূরে বিদেশ ঘুরতে যাচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745340,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745341,
+      "value": {
+        "options": [],
+        "question": "তারা কখন জোড়াদিঘির ঘাটে পৌছাল? এমন সময় কী ঘটল?",
+        "solution": "তারা সন্ধ্যার সময় জোড়াদিঘির ঘাটে পৌঁছাল। এমন সময় একদল ডাকাত তাদের আক্রমণ করল। বেয়ারাগুলো ভয়ে পাশের কাঁটাবনে গিয়ে লুকাল। আর সাহসী খোকা একা ডাকাতের বিরুদ্ধে লড়াই করে বিজয়ী হলো।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745341,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745342,
+      "value": {
+        "options": [],
+        "question": "বীরপুরুষ কে? সে কাদের হারিয়ে বীরপুরুষ হলো?",
+        "solution": "'বীরপুরুষ' কবিতার সাহসী খোকা বীরপুরুষ। সে তাদের ওপর আক্রমণকারী, একদল ডাকাতকে হারিয়ে বীরপুরুষ হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745342,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745343,
+      "value": {
+        "options": [],
+        "question": "ধু-ধু",
+        "solution": "চারদিকে মানুষজন নেই, গ্রামটা যেন ধু-ধু করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745343,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745344,
+      "value": {
+        "options": [],
+        "question": "সন্ধে হলো, _____ নামে পাটে।",
+        "solution": "সূর্য",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745345,
+      "value": {
+        "options": [],
+        "question": "ওই দেখা যায় মরা নদীর _____।",
+        "solution": "সোঁতা",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745346,
+      "value": {
+        "options": [],
+        "question": "অন্ধকার",
+        "solution": "আলো",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745347,
+      "value": {
+        "options": [],
+        "question": "মেঘ",
+        "solution": "জলধর",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745348,
+      "value": {
+        "options": [],
+        "question": "অন্ধকার",
+        "solution": "আঁধার",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745349,
+      "value": {
+        "options": [],
+        "question": "পালকি",
+        "solution": "আমি পালকির ছবি দেখেছি, কিন্তু বাস্তবে দেখিনি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745350,
+      "value": {
+        "options": {
+          "ক": "বেয়ারাগুলো",
+          "খ": "ডাকাতগুলো",
+          "গ": "পথচারীরা",
+          "ঘ": "খোকা"
+        },
+        "question": "মাকে অভয় দিল কে?",
+        "solution": "ঘ. খোকা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745351,
+      "value": {
+        "options": [],
+        "question": "ঙ্গ",
+        "solution": "ঙ্&zwnj;+গ -&nbsp;সঙ্গে",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745352,
+      "value": {
+        "options": [],
+        "question": "ল্প",
+        "solution": "ল্+প - অল্প",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745353,
+      "value": {
+        "options": [],
+        "question": "যেখানে সূর্য ডোবে",
+        "solution": "পাট",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745354,
+      "value": {
+        "options": [],
+        "question": "যারা কাঁধে পালকি বহন করেন",
+        "solution": "বেয়ারা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745355,
+      "value": {
+        "options": [],
+        "question": "ক্ষীণ স্রোত বা প্রবাহ",
+        "solution": "সোঁতা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745356,
+      "value": {
+        "options": [],
+        "question": "বীরের ন্যায় যে পুরুষ",
+        "solution": "বীরপুরুষ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-11-27T06:39:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 172304,
+      "value": {
+        "options": [],
+        "question": "বীরপুরুষ কবিতায় শিশুর কল্পনার চিত্রায়ণ কিভাবে করা হয়েছে?",
+        "chapter_id": "1350",
+        "explanation": "ব্যাখ্যা: কবিতায় শিশু তার কল্পনায় মায়ের সঙ্গে দূর দেশে যাত্রা করে এবং ডাকাতদের মোকাবেলা করে মাকে রক্ষা করার সাহসী দৃশ্য কল্পনা করে, যা সরাসরি তার বীরत्व তুলে ধরে। রচনায় শিশুসুলভ ভাবনা, অতিরঞ্জিত কল্পনা ও জোরালো চিত্রায়নের মাধ্যমে এই বীরত্ব ও মমতার অনুভূতি স্পষ্টভাবে প্রকাশ পেয়েছে।",
+        "correct_answer": "শিশু কল্পনায় মায়ের সঙ্গে দূর দেশে ভ্রমণ করে ডাকাতদের মোকাবেলা করার বীরত্ব প্রকাশিত হয়েছে।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-08-04T01:37:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 160356,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): প্রকৃতির এই পরিবর্তনগুলি মানুষের জীবনে কীভাবে প্রভাব ফেলে তা বলো।",
+          "খ": "(অনুধাবন): ঋতুর পরিবর্তনগুলি কেন মানুষের আবেগকে প্রভাবিত করে?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): প্রকৃতির পরিবর্তন ও মানুষের অনুভূতির মধ্যে সম্পর্ক বিশ্লেষণ করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): প্রকৃতির সৌন্দর্য মানুষের জীবনযাত্রায় কীভাবে অন্তর্ভুক্ত করা যায়, তা নিয়ে একটি প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: \nসারাবাংলায় প্রকৃতি মানুষের জীবনে বিশেষ গুরুত্ব রাখে। চারপাশের দৃশ্য, পরিবর্তিত ঋতুগুলোর সৌন্দর্য, এবং স্থানীয় পাখি ও ফুলের উপস্থিতি মানুষের মনের আনন্দকে বাড়িয়ে তোলে। উদাহরণস্বরূপ, শীতকালে শিউলি, বসন্তে কোকিলের ডাক, এবং বর্ষায় ইলশেগুঁড়ির সঙ্গে মাটির সোঁদা গন্ধ প্রকৃতির এক অপরূপ রূপ নিয়ে আসে। এইসব প্রকৃতির রূপ রসিকতা ও আনন্দের উৎস হিসেবে কাজ করে।",
+        "chapter_id": "1350",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রকৃতির পরিবর্তন মানুষের ভাব, শারীরিক কর্মকাণ্ড ও দৈনন্দিন রুটিনকে প্রভাবিত করে—উদাহরণস্বরূপ শীতকালে স্নিগ্ধ আবহাওয়া আর ফুল-ফুলে বসন্তে মানুষ বেশি সক্রিয় ও খুশি হয়; এরা সামাজিক অনুষ্ঠান, খাদ্যাভ্যাস ও কাজের ধরণেও পরিবর্তন আনে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ঋতুর পরিবর্তন মানুষের আবেগে প্রভাব ফেলে কারণ তাপমাত্রা, আলোর পরিমাণ ও গন্ধ–শব্দের মতো সংবেদনগত উদ্দীপনা সরাসরি মস্তিষ্কে অনুভূতি ও মেজাজ নিয়ন্ত্রণ করে; তাছাড়া স্মৃতি ও সাংস্কৃতিক শ্রমও আবেগ জাগায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রকৃতির পরিবর্তন ও অনুভূতির সম্পর্ক বিশ্লেষণ করলে দেখা যায়—প্রাকৃতিক উদ্দীপনা (দৃশ্য, শব্দ, গন্ধ) ধীরগতিতে অনুভূতি জাগায়, তা আচরণ ও মানসিক অবস্থা বদলে দেয়; উদাহরণ: বর্ষায় মাটির গন্ধ আর শান্ত বজ্র পরিবেশ মন শান্ত করে, ফলে মানুষের সতর্কতা, সৃজনশীলতা বা সামাজিক মিথস্ক্রিয়া পরিবর্তিত হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রকৃতির সৌন্দর্য জীবনে অন্তর্ভুক্ত করার প্রস্তাবনা: বাসস্থান ও স্কুলে গাছ লাগানো, ঋতু অনুযায়ী উৎসব ও প্রকৃতি ভ্রমণের আয়োজন, এবং শহরে সবুজ স্থান ও হাঁটার পথ তৈরি করা—এইগুলো মানুষকে নিয়মিত প্রকৃতির সংস্পর্শে রেখে মানসিক ও শারীরিক কল্যাণ বাড়ায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-08-01T12:20:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 131591,
+      "value": {
+        "options": {
+          "a": "তারা বিদেশে যাচ্ছে এবং ডাকাতদের মোকাবেলা করছে",
+          "b": "তারা জোড়াদিঘিতে যাচ্ছে এবং মরা নদীর সৌতা দেখছে",
+          "c": "তারা বাড়িতে ফিরে আসছে এবং কোনো বিপদের সম্মুখীন হচ্ছে",
+          "d": "তারা গ্রামের দিকে যাচ্ছে এবং শান্তিপূর্ণ অবস্থায় আছে"
+        },
+        "question": "বীরপুরুষ কবিতায় খোকা তার মাকে নিয়ে কোথায় যাচ্ছে এবং তাদের যাত্রার সময় কী ঘটছে?",
+        "solution": "সমাধান:\nধাপ ১: কবিতার বর্ণনা মনে করলে দেখা যায় খোকা তার মাকে নিয়ে এক নির্দিষ্ট স্থান—জোড়াদিঘি—এর দিকে যাচ্ছে এবং পথে তারা প্রাকৃতিক দৃশ্য দেখে মুগ্ধ হয়।  \nধাপ ২: কবিতায় মরা নদীর চিত্র এবং তার নীরব, রহস্যময় সৌন্দর্য উৎসর্গ করে দেখানো হয়েছে, যা যাত্রার সময়ের প্রধান দৃশ্যপট।  \nধাপ ৩: তাই দেওয়া অপশনগুলোর মধ্যে (b) \"তারা জোড়াদিঘিতে যাচ্ছে এবং মরা নদীর সৌতা দেখছে\" সরাসরি কবিতার বর্ণনার সাথে মিলে যায়।  \n\nঅন্য অপশনগুলো ভুল কারণ (a) বিদেশে যাওয়া ও ডাকাত-সংঘর্ষ, (c) বাড়ি ফেরার সময় বিপদ এবং (d) গ্রামেই শান্তিপূর্ণ থাকা—এসব কবিতায় দেখানো প্রধান বিষয় নয়।",
+        "chapter_id": "1350",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-27T17:04:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116423,
+      "value": {
+        "options": [],
+        "question": "কবিতায় খোকা ও মায়ের যাত্রার সময় তারা কিসের মোকাবেলা করে?",
+        "solution": "সমাধান:\nউত্তর: ডাকাতদের\n\nউত্তর নির্ণয়ের পদ্ধতি ও যুক্তি:\n1. প্রশ্নের সান্দ্র্য বিশ্লেষণ: প্রশ্নটি জিজ্ঞাসা করছে যে কবিতায় খোকা ও মায়ের যাত্রার সময় তারা কিসের মোকাবেলা করে — অর্থাৎ যাত্রার পথে ঘটা প্রধান সংঘাত বা বাধা কী ছিল তা নির্ণয় করতে হবে।  \n2. কাব্যগত সূত্রানুযায়ী প্রাসঙ্গিক স্তবক/দিক খোঁজা: কবিতার সেই অংশগুলো পড়ে বা মনন করলে দেখা যায় যাত্রার সময় হঠাৎ কোনো আক্রমণাত্মক দলের সঙ্গে তারা টক্কর করে। সেটি ব্যক্তিগত বিরোধ নয় বরং বাইরের বিপদ, তাই এটি 'বহিরাগত সংঘাত' বা man vs man ধাঁচের ঘটনা।  \n3. স্পষ্টীকরণ ও উপসংহার: কবিতায় যে আক্রমণকারীদের বর্ণনা আছে তারা ডাকাত বা হামলাকারী চরিত্রের—অতএব সরাসরি বলা যায় তারা ডাকাতদের মোকাবেলা করেছে।\n\nসংক্ষিপ্ত ব্যাখ্যা:\nএই ঘটনার ধরন কাব্যশিল্পে বাহ্যিক সংঘাত হিসেবে চিহ্নিত হয়; চরিত্রদের ভৌত ও নৈরাশ্যের বিপরীতে দাঁড়িয়ে থাকার দৃশ্য প্রতিষ্ঠা করে। তাই সঠিক ও সরল উত্তর হচ্ছে: ডাকাতদের।",
+        "chapter_id": "1350",
+        "explanation": "কবিতার বর্ণনায় যাত্রার সময় খোকা ও মায়ের ওপর আক্রমণ করে এবং তাদের টাকা-পয়সা ও নিরাপত্তায় হুমকি সৃষ্টি করে—এগুলোই হলো ডাকাতদের কাজ, তাই সঠিক উত্তর \"ডাকাতদের\"। এটি বুঝতে হবে যে কবিতায় সরাসরি আঘাতকারী ও ছিনতাইকারী ব্যক্তিদের উল্লেখ আছে, যা ঘটনাটিকে বিপজ্জনক করে তোলে।",
+        "correct_answer": "ডাকাতদের"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:55:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116424,
+      "value": {
+        "options": [],
+        "question": "মা খোকাকে 'ভাগ্যে খোকা সঙ্জো ছিল' বলার কারণ কী?",
+        "solution": "সমাধান:\nউত্তর দিতে গেলে প্রথমে বাক্যটির অর্থ বোঝা প্রয়োজন — \"ভাগ্যে খোকা সঙ্জো ছিল\" বলতে মা বলতে চান যে খোকা ভাগ্যবান ছিল। এখানে কেন মা এমন বললেন তা ব্যাখ্যা করতে ক্রমানুসারে যুক্তি উপস্থাপন করা হলো।\n\nপদ্ধতি ও যুক্তি:\n1. ভাবার্থ নির্ণয়: এই উক্তি একটি মায়ের গর্ব ও সন্তুষ্টি প্রকাশ করে — অর্থাৎ খোকার ওপর মা গর্বিত।  \n2. প্রমাণ-ভিত্তিক পর্যবেক্ষণ: খোকা যে পরিস্থিতিতে ছিল (যা প্রশ্নে উল্লেখিত), সে পরিস্থিতিতে সে সাহস দেখিয়েছে এবং বীরের মতো লড়াই করেছে।  \n3. ফলাফল ও অনুভূতি সংযোগ: খোকার বীরত্ব এবং দৃঢ়তা দেখে মা সন্তুষ্ট ও প্রশংসিত হয়েছেন; তাই তিনি মনে করেন খোকার ভাগ্য ছিলেন ভালো—কারণ তার সন্তান বিপদে সাহস দেখিয়ে সম্মান বা সাফল্য অর্জন করেছে।  \n4. উপসংহার: অতএব মা বললেন \"ভাগ্যে খোকা সঙ্জো ছিল\" — কারণ খোকা বীরের মতো লড়াই করায় মায়ের সন্তুষ্টি ও গর্ব প্রকাশ পেয়েছে।\n\nসংক্ষিপ্তভাবে: মা এই কথা বলেছেন কারণ খোকা সাহসিকতার সঙ্গে লড়াই করে মায়ের গর্ব অর্জন করেছে, তাই মা তাকে ভাগ্যবান হিসেবে দেখেছেন।",
+        "chapter_id": "1350",
+        "explanation": "ব্যাখ্যা: মা বলছেন \"ভাগ্যে খোকা সঙ্জো ছিল\" কারণ খোকা বীরের মতো লড়াই করে মায়ের আনন্দ ও সন্তুষ্টি অর্জন করেছে। এই কথাটি মায়ের গর্ব ও সন্তোষ প্রকাশ করে, যেন ভাগ্যবশত এমন সাহসী সন্তান পেয়েছেন।",
+        "correct_answer": "খোকা যে বীরের মতো লড়াই করেছে তাতে মায়ের সন্তুষ্টি প্রকাশ পেয়েছে"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:55:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116425,
+      "value": {
+        "options": [],
+        "question": "বীরপুরুষ কবিতায় ধু-ধু শব্দটি কোন পরিস্থিতির কথা জানাচ্ছে?",
+        "solution": "সমাধান:\n1. শব্দের ধরন নির্ণয়: \"ধু-ধু\" একটি অনুকরণধ্বনি—প্রকৃত কোনো শব্দের অনুকরণ করে লেখা শব্দ, যা পাঠকের কাছে বিশেষ পরিবেশগত আওয়াজের সামনোচ্ছে।\n\n2. প্রেক্ষিত বিশ্লেষণ: কোনো গ্রামে মানুষের উপস্থিতি কম বা নেই এমন পরিস্থিতিতে বাতাস ঘরে-ঘরে, ফাঁকা রাস্তা বা খামারে কাঁপুনি সৃতভাবে শুনায়—এধরনের নীরব পরিবেশে ধু-ধু শব্দটি ধারাবাহিক, শূন্যতাজনিত আওয়াজকে বোঝায়।\n\n3. অনুভূতিগত প্রভাব: অনুকরণধ্বনি হিসেবে \"ধু-ধু\" পাঠকে গ্রাম্য জনশূন্যতা ও নির্জনতার অনুভূতিতে নিয়ে যায়—কোনো কার্যক্রমের অনুপস্থিতি, নিস্তব্ধতা এবং একাকীত্বের মনস্তাত্ত্বিক প্রভাব তৈরি করে।\n\n4. তুলনামূলক যুক্তি: যদি পরিবেশে জীবন ও ব্যস্ততা থাকত, সাথে থাকা শব্দগুলো (কথা, হাঁটাচলা, গানের আওয়াজ) থাকত; কিন্তু এখানে ধারাবাহিক \"ধু-ধু\" শব্দটি সেইসব জীবন্ত শব্দের অনুপস্থিতি এবং শূন্যতার উপস্থিতি নির্দেশ করে।\n\nউপসংহার: কবিতায় \"ধু-ধু\" শব্দটি গ্রামের জনশূন্যতা এবং নির্জনতার অনুভূতিই প্রতিফলিত করে।",
+        "chapter_id": "1350",
+        "explanation": "ধু-ধু শব্দটি কাব্যে অনুকরণধর্মী শব্দ হিসেবে গ্রামে মানুষের অনুপস্থিতি ও নীরবতা বোঝায়; এটি হাওয়া বায়ুর স্রোত বা ফাঁকা আশেপাশের ম্লান শব্দের ছাপ ফুটিয়ে তোলে। শব্দটির পুনরাবৃত্তি এবং সাদামাটা ছন্দ পড়লেই গ্রামটি জনশূন্য, নির্জন ও খালি অবস্থায় আছে বলে বোধ ঘটে।",
+        "correct_answer": "গ্রামের জনশূন্য এবং নির্জনতার অনুভূতি"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:55:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116426,
+      "value": {
+        "options": [],
+        "question": "কবিতায় খোকা মায়ের সঙ্গে কোথায় যাত্রা করছে এবং সে পথে তাদের কি ঘটছে?",
+        "solution": "সমাধান:\n\nউত্তর নির্ণয়ের দিশা:\n- কবিতার প্রাসঙ্গিক অংশ মনোযোগ দিয়ে পড়ে টানসামান্য নাম ও ক্রিয়াকে শনাক্ত করতে হবে — কোথায় যাচ্ছিলেন এবং পথে কী ঘটছিল তার বিস্তারিত বর্ণনা খুঁজে বের করতে হবে।\n\nপ্রমাণভিত্তিক ধাপে ধাপে বিশ্লেষণ:\n1. स्थान নির্ণয়: কবিতায় উল্লেখ আছে যে খোকা মায়ের সঙ্গে জোড়াদিঘির মাঠে যাচ্ছিল — তাই গন্তব্য হলো জোড়াদিঘির মাঠ।  \n2. ঘটনার স্বরূপ নির্ণয়: একই অংশে পথের বর্ণনায় দেখা যায় তাদের পথে হঠাৎ বিপজ্জনক পরিস্থিতি এসেছে — কবিতার ভাষা থেকে বোঝা যায় তারা ডাকাতদের মুখোমুখি হয়েছে (ডাকাতের উপস্থিতি, ভয় বা লুটপাটের সংকেত ইত্যাদি)।  \n3. যৌক্তিক সম্পর্ক: কবিতার ক্রম অনুযায়ী গন্তব্য ও পথে ঘটা ঘটনার বর্ণনা মিলিয়ে এগুলোই স্পষ্ট ফলাফল দেয় — তারা জোড়াদিঘির মাঠে যাচ্ছিল এবং পথে ডাকাতদের সম্মুখীন হয়েছিল।\n\nচূড়ান্ত উত্তর:\n- খোকা মায়ের সঙ্গে জোড়াদিঘির মাঠে যাচ্ছিল এবং পথে তাদের ডাকাতদের মুখোমুখি হতে হচ্ছে।  \n\nসংক্ষিপ্ত ব্যাখ্যা:\n- এটি ঐ কবিতার প্রধান ঘটনাবলীর একটি; এখানে স্থান (জোড়াদিঘির মাঠ) এবং সংঘটিত বিপদ (ডাকাতের সম্মুখীনতা) স্পষ্টভাবে উল্লিখিত।",
+        "chapter_id": "1350",
+        "explanation": "ব্যাখ্যা: কবিতার বর্ণনায় সরাসরি উল্লেখ আছে যে খোকা মায়ের সঙ্গে জোড়াদিঘির মাঠে যাচ্ছে, তাই স্থানটি ঠিক এই। পথে তাদের ডাকাতদের সম্মুখীন হতে হয়—এটি কাহিনীর সংঘাত ও বিপদের মুহূর্ত নির্দেশ করে।",
+        "correct_answer": "জোড়াদিঘির মাঠে, ডাকাতদের মুখোমুখি হতে হচ্ছে"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:55:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116427,
+      "value": {
+        "options": [],
+        "question": "বীরপুরুষ কবিতায় বেয়ারাদের পালানোর কারণ কী?",
+        "solution": "সমাধান:\nপ্রশ্নের উত্তর জানার পদ্ধতি: কবিতার নarrative অংশ থেকে টেক্সট বিশ্লেষণ করে দেখা যে সংঘর্ষ কোথায় ঘটেছে এবং বেয়ারাদের আচরণ পরিবর্তনের কারণ কী—এটাই নির্ণায়ক।\n\nপ্রধান ধাপ ও যুক্তি:\n1. অবস্থান নির্ধারণ: কবিতায় বেয়ারা (চোর/দস্যু) ও খোকা—দুই পক্ষের মধ্যে সংঘর্ষ ঘটেছে। বেয়ারাদের উদ্দেশ্য হলো লুটপাট বা দাপট দেখানো।  \n2. ঘটনা বিশ্লেষণ: কবিতার বর্ণনায় খোকা সাহস দেখায়, সক্রিয়ভাবে তাদের মোকাবিলা করে (হামলা করে, দাঁত টিকে লড়াই করে বা প্রতিবাদ জ্ঞাপন করে)। এই সাহসিকতা ও প্রত্যাঘাতই বেয়ারাদের জন্য অনাকাঙ্ক্ষিত ও বিপজ্জনক পরিস্থিতি তৈরি করে।  \n3. কারণ-প্রভাব সম্পর্ক: যেসব ব্যক্তি সহজে বাড়তি প্রতিরোধ পান না, তারা সাধারণত সম্মুখীন শক্তির মুখে পালায়। তাই খোকার বীরত্বপূর্ণ আচরণই বেয়ারাদের ভয় ও পরাজয়ের আশঙ্কা বাড়িয়ে তাদের পালাতে বাধ্য করেছিল।  \n\nপ্রাসঙ্গিক ধারণা: চরিত্র-চিত্রণ, সংঘর্ষ ও ফলাফল (cause-effect), নীরবে শক্তি প্রদর্শনের বদলে সরাসরি প্রতিরোধের ফলাফল—এই সব কবিতার মূল তত্ত্ব।\n\nউপসংহারে, বেয়ারাদের পালানোর কারণ হলো খোকা বীরত্বের সঙ্গে তাদের মোকাবিলা করেছে—অর্থাৎ \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E।",
+        "chapter_id": "1350",
+        "explanation": "বীরপুরুষ কবিতায় খোকা নিজেকে এক সাহসী বীর হিসেবে কল্পনা করে ও দুষ্টু বেয়ারাদের সামনে নড়ে বসে, তাদের সঙ্গে বীরত্বের সঙ্গে লড়াই করে। তার নির্ভীক আচরণ ও প্রত্যক্ষ মোকাবেলার কারণে বেয়ারারা ভয় পেয়ে পালিয়ে যায়।",
+        "correct_answer": "খোকা বীরত্বের সঙ্গে তাদের মোকাবেলা করেছে"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:55:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116422,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): সারার উদ্যোগের নাম কী হতে পারে এবং এর উদ্দেশ্য কী?",
+          "খ": "(অনুধাবন): পরিবেশবান্ধব পণ্যের ব্যবহার কেন জরুরি?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): সারার উদ্যোগ কীভাবে সমাজে পরিবর্তন আনতে সহায়ক হচ্ছে তা বিশ্লেষণ করো。",
+          "ঘ": "(মূল্যায়ন/সৃজন): পরিবেশ রক্ষায় তরুণ উদ্যোক্তাদের ভূমিকা কিভাবে বৃদ্ধি করা যায় তা প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: সারা একজন তরুণ উদ্যোক্তা। সে একটি পরিবেশবান্ধব পণ্য তৈরি করে যা প্লাস্টিকের পরিবর্তে ব্যবহৃত হয়। তার উদ্যোগটি সমাজে পরিবেশ সচেতনতা বৃদ্ধি করছে ও জনগণের মধ্যে পুনর্ব্যবহারযোগ্য পণ্যের চাহিদা বাড়াচ্ছে।",
+        "solution": "সমাধান:\nনীচে প্রতিটি অংশের জন্য স্পষ্ট পদ্ধতি ও যুক্তিসহ উত্তর দেওয়া হলো — প্রথমে উদ্দেশ্য নির্ধারণ, তারপর কারণ বিশ্লেষণ, কার্যত পরিবর্তন কিভাবে আসে তা বিশ্লেষণ এবং শেষে কৌশলগত প্রস্তাবনা।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সারার উদ্যোগের নাম ও উদ্দেশ্য:\n- নামের উদাহরণ (সংক্ষিপ্ত, স্মরণীয় ও উদ্দেশ্য প্রতিফলিত): \"সবুজসাথী\", \"পুনর্সৃষ্টি\", \"ইকো-প্যাক\", \"পরিবর্তন প্লাস্ট\"।\n- উদ্দেশ্য (সংক্ষেপে): প্লাস্টিক নির্ভর পণ্যের বিকল্প সরবরাহ করে প্লাস্টিক দূষণ কমানো, পুনর্ব্যবহার ও বায়োডিগ্রেডেবল পণ্যের ব্যবহার বাড়ানো, স্থানীয় উৎপাদন ও বিষয়ভিত্তিক সচেতনতা সৃষ্টি করে টেকসই জীবনধারা প্রসার করা।\n- কার্যত লক্ষ্যবস্তু ও মানদণ্ড: গ্রাহক বর্গ (হোটেল, বাজার, ঘরোয়া ব্যবহার), পরিবেশগত লক্ষ্য (বর্জ্য কমানো, কার্বন ফুটপ্রিন্ট হ্রাস), সামাজিক লক্ষ্য (কর্মসংস্থান, স্থানীয় কাঁচামাল ব্যবহারে লাভ)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পরিবেশবান্ধব পণ্যের ব্যবহার কেন জরুরি:\n- পরিবেশগত কারণ: প্লাস্টিক মূলে ফেলে পর্যায়ক্রমে মাটি ও জল দূষিত হয়, সমুদ্রজীবন হুমকির মুখে পড়ে এবং মাইক্রোপ্লাস্টিক খাদ্যশৃঙ্খলে প্রবেশ করে।\n- স্বাস্থ্যের কারণ: ক্ষতিকর রাসায়নিক ও মাইক্রোপ্লাস্টিক মানবদেহে জমা হতে পারে, যা দীর্ঘমেয়াদি স্বাস্থ্যঝুঁকি বাড়ায়।\n- সম্পদ ও অর্থনৈতিক কারণ: প্লাস্টিক তেল-নির্ভর এবং পুনর্চক্রায় না গেলে সম্পদের অপচয়; পুনর্ব্যবহারযোগ্য পণ্য অর্থনৈতিকভাবে স্থানীয় উদ্যোগকে শক্তিশালী করে।\n- নীতিগত ও সামাজিক কারণ: আন্তর্জাতিক ও জাতীয় নীতিতে প্লাস্টিক নিয়ন্ত্রণের চাপ বাড়ছে; সচেতনতা বাড়ালে টেকসই আচরণ ও বাজার গড়ে উঠে।\n(সংক্ষেপে: পরিবেশ, স্বাস্থ্য, অর্থনীতি ও নীতিগত কারণে জরুরি।)\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সারার উদ্যোগ কীভাবে সমাজে পরিবর্তন আনতে সহায়ক হচ্ছে — বিশ্লেষণ:\n- সরবরাহ ও অভিগম্যতা: প্লাস্টিকের পরিবর্তে সহজলভ্য বিকল্প পেলে ভোক্তা সহজে বদলাতে পারে — চাহিদা বাড়ালে সংস্কৃতি বদলায়।\n- আচরণগত শিক্ষা: উদ্যোগ যদি পণ্যের সাথে সচেতনতামূলক বার্তা ও ব্যবহারবিধি দেয়, মানুষ পুনর্ব্যবহার ও দায়িত্বশীল ব্যবহার শিখে।\n- অর্থনৈতিক প্রভাব: স্থানীয় কাঁচামাল ও উৎপাদন বাড়লে নতুন শ্রমসংস্থান সৃষ্টি হয়; মূল্য-মানুষের সিদ্ধান্তে স্বল্পতম ভগ্নাংশে প্লাস্টিকের ব্যবহার কমে।\n- নেটওয়ার্ক ও অনুকরণ: সফল উদ্যোক্তা অন্য তরুণকে অনুপ্রাণিত করে — কপিরাইট/নকলে নয় বরং প্রতিযোগিতামূলক উদ্ভাবন বাড়ে।\n- মাপযোগ্য ফলাফল (উদাহরণ): প্লাস্টিক ব্যাগ ব্যবহারে শতাংশগত হ্রাস, পুনর্ব্যবহারযোগ্য পণ্য বিক্রয়ের বৃদ্ধি, স্থানীয় বর্জ্য পরিমাণ হ্রাস — এই উপাত্তগুলো উদ্যোগের পরিবর্তন প্রদর্শন করবে।\n(যুক্তি: সরবরাহ + শিক্ষা + অর্থনীতি + অনুকরণী প্রভাব মিলিয়ে সমাজে দীর্ঘমেয়াদি আচরণগত পরিবর্তন আসে।)\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পরিবেশ রক্ষায় তরুণ উদ্যোক্তাদের ভূমিকা কিভাবে বৃদ্ধি করা যায় — প্রস্তাবনা:\n- শিক্ষা ও দক্ষতা উন্নয়ন: স্কুল-কলেজে পরিবেশউদ্যোক্তা বিষয়ক কর্মশালা; প্রযুক্তি ও ব্যবসায় দক্ষতা শেখানো (ডিজাইন, সাপ্লাইচেইন, মার্কেটিং)।\n- অর্থায়ন ও সুবিধা: স্টার্টআপ গ্র্যান্ট, র কম সুদের লোন, ট্যাক্স রিবেট — বিশেষত সবুজ উদ্যোগের জন্য তহবিল সহজ করা।\n- ইনকিউবেটর ও মেন্টরিং: পরিবেশ-ফোকাসড ইনকিউবেটর, শিল্প-বিশেষজ্ঞদের মেন্টরশিপ, পরীক্ষামূলক উৎপাদন সুবিধা (বেঞ্চমার্ক ফ্যাক্টরি)।\n- নীতিগত উৎসাহ: সরকারি ক্রয়নীতি (Green procurement), ছোট উদ্যোক্তাদের জন্য সহজ ক্লিয়ারেন্স, স্থানীয় নীতিতে সবুজ স্টার্টআপকে অগ্রাধিকার।\n- প্লাটফর্ম ও নেটওয়ার্ক: তরুণ উদ্যোক্তাদের জন্য প্ল্যাটফর্ম/হ্যাকারথন, প্রতিযোগিতা ও প্রদর্শনী যেখানে পণ্য প্রদর্শিত ও ক্রেতার সঙ্গে সংযুক্ত হওয়া যায়।\n- সচেতনতা ও অংশগ্রহণ: সামাজিক মিডিয়া ক্যাম্পেইন, স্কুল-কমিউনিটি প্রোগ্রাম, কৃষক/কাঁচামাল সরবরাহকারীকে সংযুক্ত করে পূর্ণ চেইন-ভিত্তিক সমাধান।\n- উদাহরণমূলক পদক্ষেপ (সংক্ষিপ্ত): শহর পর্যায়ে একটি 'ইকো-ফেয়ার' আয়োজন, যেখানে তরুণরা পণ্য বিক্রি ও গ্রাহক প্রতিক্রিয়া পেয়ে উন্নয়ন করবে; স্থানীয় সরকার ১ বছরের জন্য সবুজ স্টার্টআপকে করমুক্ত করতে পারে — এসব পদক্ষেপ সরাসরি অংশগ্রহণ বাড়ায়।\n\nসংক্ষিপ্ত উপসংহার:\nসারার উদ্যোগ শুধুমাত্র পণ্য বিক্রি নয়—এটি আচরণগত, অর্থনৈতিক ও নীতিগত পরিবর্তন আনতে সক্ষম। নাম ও উদ্দেশ্য স্পষ্ট হলে বাজারে পরিচিতি দ্রুত বাড়ে; পরিবেশবান্ধব পণ্যের ব্যবহার জরুরি কারণ তা পরিবেশ, স্বাস্থ্য ও অর্থনীতিতে ইতিবাচক প্রভাব ফেলে; তরুণ উদ্যোক্তাদের অংশগ্রহণ বাড়াতে শিক্ষা, অর্থায়ন, মেন্টরিং ও নীতিগত সহায়তা সবচেয়ে কার্যকর।",
+        "chapter_id": "1350",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E নাম যেমন \"সবুজসাথী\" বা \"রিইউজবাগ\" রাখা যেতে পারে; উদ্দেশ্য হলো প্লাস্টিক ব্যবহন কমানো, পুনর্ব্যবহারযোগ্য বিকল্পগুলো প্রচার করা এবং টেকসই জীবনযাপন উৎসাহিত করা। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পরিবেশবান্ধব পণ্যের ব্যবহার জরুরি কারণ প্লাস্টিক ও অবস্তুত বর্জ্য মাটি, জল ও বায়ু দুষণ করে এবং জীববৈচিত্র্য ক্ষতিগ্রস্ত করে; পরিবেশবান্ধব পণ্য বর্জ্য কমায়, সম্পদ রক্ষা করে এবং মানুষের স্বাস্থ্য সংরক্ষণে সাহায্য করে। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সারার উদ্যোগ সমাজে পরিবর্তন আনছে কারণ এটি বিকল্প পণ্যের চাহিদা সৃষ্টি করে, মানুষকে সচেতন করে এবং পুনর্ব্যবহারের সংস্কৃতি গড়ে তোলে; স্থানীয় উৎপাদন ও কর্মসংস্থান বৃদ্ধি ও নৈতিক ক্রয়ের ধারণাও জোরদার হয়। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E তরুণ উদ্যোক্তাদের ভূমিকা বাড়াতে শিক্ষা ও প্রশিক্ষণ, সহজতর অনুদান ও ঋণ, নেটওয়ার্কিং প্ল্যাটফরম, এবং সরকারি-ব্যক্তিগত সহযোগিতায় নীতি ও বাজার সহায়তা প্রদান করা উচিত; এসব ব্যবস্থা উদ্যোগকে ত্বরান্বিত করে এবং মসৃণভাবে বিস্তার নিশ্চিত করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:55:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116417,
+      "value": {
+        "options": {
+          "a": "সে বিদেশ ভ্রমণের জন্য যাচ্ছিল এবং ডাকাতদের সাথে লড়াই করছিল।",
+          "b": "সে স্কুলে যাচ্ছিল এবং বন্ধুদের সাথে খেলছিল।",
+          "c": "সে বাজারে যাচ্ছিল এবং মিষ্টির দোকানে ছিল।",
+          "d": "সে বাড়িতে যাচ্ছিল এবং বই পড়ছিল।"
+        },
+        "question": "কবিতাটিতে শিশু খোকা তার মাকে নিয়ে কোথায় যাচ্ছিল এবং পথে কী ঘটছিল?",
+        "solution": "সমাধান: কবিতার নির্দিষ্ট শব্দ ও বাক্যাংশ বিশ্লেষণ করেই উত্তর নির্ণয় করা যায়। প্রথমে কবিতার যে অংশগুলোযোগ করতে হয় সেগুলোতে “বিদেশ ভ্রমণ” বা “বিদেশে যাচ্ছিল” এবং পথে “ডাকাতদের সংগে লড়াই”‑এর মত সরাসরি উল্লেখ আছে কি না সেটি দেখা হয়—কবিতায় এসব স্পষ্টভাবে থাকা মেনে নেওয়া হয়। এতে করে বাকি বিকল্পগুলো অসামঞ্জস্যপূর্ণ প্রমাণ হয়: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E‑তে স্কুল বা খেলার উল্লেখ নেই, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E‑তে বাজার/মিষ্টির দোকানের কথা নেই, আর \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E‑তে বই পড়ার কথা নেই। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E — সে বিদেশ ভ্রমণের জন্য যাচ্ছিল এবং পথে ডাকাতদের সাথে লড়াই করছিল।",
+        "chapter_id": "1350",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:55:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116418,
+      "value": {
+        "options": {
+          "a": "কারণ তারা একটি সুন্দর জায়গায় যাচ্ছিল।",
+          "b": "কারণ খোকা সাহসী হয়ে লড়াই করে ছিল।",
+          "c": "কারণ মা ঘোড়ার খুরের শব্দ শুনতে পাচ্ছিলেন।",
+          "d": "কারণ তারা সূর্যাস্ত দেখতে যাচ্ছিল।"
+        },
+        "question": "মা কেন খোকাকে সাহস দিয়ে বলছিলেন, 'ভয় করো না মা গো'?",
+        "solution": "সমাধান:\n1. প্রথম ধাপ: বাক্য \"ভয় করো না মা গো\" থেকে বোঝা যায় মা খোকাকে সাহস দেওয়ার চেষ্টা করছেন — অর্থাৎ খোকা কোনো ভয়ঙ্কর বা সাহসপ্রয়োজন পরিস্থিতির সম্মুখীন ছিল।\n2. দ্বিতীয় ধাপ: প্রদত্ত অপশনগুলোর মধ্যে কেবল অপশন b—\"কারণ খোকা সাহসী হয়ে লড়াই করে ছিল\"—ই এমন পরিস্থিতি ব্যাখ্যা করে যেখানে মা বলবেন \"ভয় করো না\"।  \n3. তৃতীয় ধাপ: অন্য অপশনগুলো অযৌক্তিক: a (সুন্দর জায়গায় যাওয়া), c (ঘোড়ার খুরের শব্দ শোনা) এবং d (সূর্যাস্ত দেখা) সাধারণত ভয়ের কারণ নয় এবং সেজন্য মা বিশেষভাবে সাহস দিতে বলতেন না।  \n\nসুতরাং সঠিক উত্তর: b।",
+        "chapter_id": "1350",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:55:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116419,
+      "value": {
+        "options": {
+          "a": "ডাকাতদের হারিয়ে।",
+          "b": "রাজাদের হারিয়ে।",
+          "c": "সঙ্গীদের হারিয়ে।",
+          "d": "মায়ের হারানো বীরত্বের জন্য।"
+        },
+        "question": "কবিতার বীরপুরুষ হিসেবে খোকা কাদের হারিয়ে বীরপুরুষ হলো?",
+        "solution": "সমাধান:\nধাপ ১: কবিতার বর্ণনায় খোকা যেভাবে বীরత్వ দেখায় তা থেকে স্পষ্ট যে সে বিদেশি বা রাজক নয়, বরং সহিংস হুমকির বিরুদ্ধে লড়েছে — বিশেষত ডাকাতদের।  \nধাপ ২: “বীরপুরুষ” হওয়া মানে বিপক্ষের বিরুদ্ধে সাহসিকতার প্রদর্শন; কবিতায় খোকা ডাকাতদের পরাজিত করে বীর হিসেবে উপস্থাপিত হয়েছে।  \nঅতএব সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (ডাকাতদের হারিয়ে)।  \nঅন্যান্য অপশনগুলো ভুল কারণ কবিতায় রাজাদের পরাজয়, সঙ্গীদের হারানো বা মায়ের হারানো বীরত্ব নিয়ে এমন বর্ণনা নেই।",
+        "chapter_id": "1350",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:55:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116420,
+      "value": {
+        "options": {
+          "a": "'ধু-ধু' শব্দটি অর্থহীন এবং কেবলমাত্র সুরের জন্য ব্যবহৃত হয়েছে।",
+          "b": "'ধু-ধু' শব্দটি নিঃসঙ্গতা বোঝাতে ব্যবহৃত হয়েছে।",
+          "c": "'ধু-ধু' শব্দটি প্রাণবন্ত দৃশ্য বোঝাতে ব্যবহৃত হয়েছে।",
+          "d": "'ধু-ধু' শব্দটি মনোরম দৃশ্য বোঝাতে ব্যবহৃত হয়েছে।"
+        },
+        "question": "বীরপুরুষ কবিতায় 'ধু-ধু' শব্দটির অর্থ কী এবং এটি কিভাবে ব্যবহার হয়েছে?",
+        "solution": "সমাধান:  \nধাপে ধাপে বিশ্লেষণ করে দেখা যায়—প্রথমে কবিতার প্রাসঙ্গিক লাইনগুলোতে 'ধু-ধু' শব্দটি কীভাবে ব্যবহৃত হয়েছে তা পড়তে হবে; শব্দটি একা একা ছড়িয়ে পড়া আওয়াজের মতো, শূন্যতা ও নিঃসঙ্গতার অনুভূতি জাগায়। তারপর শব্দাত্মক অর্থ (onomatopoeia) বিবেচনা করে দেখা যায় এটি প্রাণবন্ত বা মনোরম দৃশ্যকে চিত্রিত করে না, বরং একাকিত্ব ও নিরবতার ভঙ্গি প্রকাশ করে। তাই সঠিক উত্তর হলো b: 'ধু-ধু' শব্দটি নিঃসঙ্গতা বোঝাতে ব্যবহৃত হয়েছে। অন্য বিকল্পগুলো খাটোভাবে বাতিল করা যায়—(a) শুধুমাত্র সুরের জন্য হলে অনুভবগত বোঝা থাকত না, (c) ও (d) প্রাণবন্ত বা মনোরম মানে উল্লসিত ভাবনা বোঝায়, যা এখানে প্রাসঙ্গিক নয়।",
+        "chapter_id": "1350",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:55:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116421,
+      "value": {
+        "options": {
+          "a": "শিশুর কল্পনা তাকে সাহসী করে তোলে এবং ভয়ের অনুভূতি দূর করে।",
+          "b": "শিশুর কল্পনা কেবলমাত্র আনন্দ দিতে পারে।",
+          "c": "শিশুর কল্পনা বাস্তবতাকে উপেক্ষা করে।",
+          "d": "শিশুর কল্পনা শুধুমাত্র দুঃস্বপ্ন তৈরী করে।"
+        },
+        "question": "রবীন্দ্রনাথ ঠাকুরের 'বীরপুরুষ' কবিতার মধ্যে শিশুর কল্পনার গুরুত্ব কিভাবে ফুটে উঠেছে?",
+        "solution": "সমাধান:  \nধাপ ১: কবিতার বর্ণনায় শিশুটি নিজেকে বীরপুরুষ কল্পনা করে, ঘরে শোনা শব্দ বা অন্ধকারকে সাহস দিয়ে মোকাবিলা করে — এই অংশ থেকে বোঝা যায় কল্পনা তাকে ভয়ের বদলে সাহসি করে।  \nধাপ ২: কাব্যিক উদাহরণগুলোতে কল্পনা বাস্তবকে উপেক্ষা না করে শিশুর মানসিক শক্তি ও নিরাপত্তাবোধ বাড়ায়, ফলে প্রশ্নটির উত্তর হিসেবে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E-এর সমতুল্য বিকল্প (a) সঠিক।  \n\nঅন্য অপশনের ব্যাখ্যা: (b) কেবল আনন্দ দেয়—অপূর্ণ, কারণ কবিতায় কল্পনা সাহসও জাগায়; (c) বাস্তবতাকে উপেক্ষা করে—ভুল, কল্পনা এখানে সুবিধাপ্রদ মানসিক প্রতিরক্ষা; (d) শুধুমাত্র দুঃস্বপ্ন তৈরি করে—সত্য নয়। সুতরাং সঠিক উত্তর: a।",
+        "chapter_id": "1350",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:55:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116416,
+      "value": {
+        "options": {
+          "a": "খোকা ও মায়ের কল্পনার সফর",
+          "b": "মায়ের সাহস",
+          "c": "ডাকাতদের গল্প",
+          "d": "সাহসের শিক্ষা"
+        },
+        "question": "গল্পের শিরোনাম কি?",
+        "solution": "সমাধান:\nগল্পের কাহিনীর কেন্দ্রবিন্দু যদি একটি ছেলে (খোকা) এবং তার মায়ের কল্পনাভ্রমণ হয়, তাহলে শিরোনামে সেটিকেই তুলে ধরতে হবে। তাই অপশনগুলোর মিল দেখে স্পষ্ট যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \"খোকা ও মায়ের কল্পনার সফর\" কাহিনীর মূল বিষয়বস্তুকে সঠিকভাবে প্রতিফলিত করে। অন্যগুলো—\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মায়ের সাহস (কোনভাবে কেবল সাহসের ওপর জোর দেয়), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ডাকাতদের গল্প (ব entirely ভিন্ন বিষয়), \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সাহসের শিক্ষা (অপেক্ষাকৃত সার্বিক নৈতিক শিক্ষা)—এই সব শিরোনাম কাহিনীর মূল কল্পনাপ্রवासকে প্রতিফলিত করে না। তাই সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E.",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:53:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116410,
+      "value": {
+        "options": {
+          "a": "১৮৫৭",
+          "b": "১৮৬১",
+          "c": "১৯১৩",
+          "d": "১৯৪১"
+        },
+        "question": "রবীন্দ্রনাথ ঠাকুরের জন্ম বছর কী?",
+        "solution": "সমাধান: রবীন্দ্রনাথ ঠাকুরের জন্ম সালটি ঐতিহাসিক ও জীবনীগতভাবে জানা তথ্য এবং তা হচ্ছে [math]১৮৬১[/math]। এটি যাচাই করতে বলা যায় যে তিনি ১৯১৩ সালে নোবেল পান; তখন তার বয়স ছিল [math]1913 - 1861 = 52[/math] বছর, যা সঙ্গতিপূর্ণ। অন্যান্য বিকল্পগুলো অনুপযুক্ত: [math]1913[/math] সম্ভব নয় কারণ সেটিই নোবেলের বছর, [math]1941[/math] পরে ও অসম্ভব, আর [math]1857[/math] দিলে ১৯১৩ সালে তার বয়স [math]1913 - 1857 = 56[/math] হয়ে যায় যা পরিচিত তথ্যের সাথে মিলছে না। সুতরাং সঠিক উত্তর হলো b: ১৮৬১।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:52:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116411,
+      "value": {
+        "options": {
+          "a": "বাজারে",
+          "b": "বিদেশে",
+          "c": "গ্রামে",
+          "d": "স্কুলে"
+        },
+        "question": "‘বীরপুরুষ’ কবিতায় খোকা মাকে নিয়ে কোথায় যাচ্ছে?",
+        "solution": "সমাধান:\n1. প্রশ্নে কোন গন্তব্য বলা হয়েছে তা জানতে কবিতার বিবরণ বা ওই স্থানের সরাসরি উল্লেখ খুঁজে দেখা উচিত।  \n2. কবিতার ভিতরে খোকা মাকে নিয়ে যাত্রার গন্তব্য হিসেবে স্পষ্টভাবে \"বিদেশে\" উল্লেখ আছে, তাই সেটিই মূল সূংকেত।  \n3. তাই প্রদত্ত বিকল্পগুলোর মধ্যে সঠিক উত্তর হল b: বিদেশে।  \nব্যাখ্যা: অন্যান্য বিকল্প—বাজারে, গ্রামে, স্কুলে—কবিতায় উল্লেখিত নয়, তাই সেগুলো ব্যর্থ।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:52:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116412,
+      "value": {
+        "options": {
+          "a": "ডাকাতদের জন্য",
+          "b": "বৃষ্টির জন্য",
+          "c": "অন্ধকারের জন্য",
+          "d": "বাঘের জন্য"
+        },
+        "question": "খোকা কি কারণে ভয় পেয়েছিল?",
+        "solution": "সমাধান: প্রথমে প্রশ্নের প্রেক্ষাপট থেকে খোকা কীভাবে ভয় পেয়েছিল তা শনাক্ত করতে হবে — প্রসঙ্গ অনুযায়ী খোকা সরাসরি ডাকাতদের উপস্থিতি বা হুমকির কারণে সাড়া দিয়ে ভয় পেয়েছিল। তাই সঠিক কারণ হলো ডাকাতদের জন্য, অর্থাৎ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ডাকাতদের জন্য। অন্য বিকল্পগুলো—\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বৃষ্টি, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E অন্ধকার, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বাঘ—প্রসঙ্গে উল্লেখিত বা উপযুক্ত সঙ্গত কারণ নয়, তাই এগুলো বাতিল করা যায়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:52:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116413,
+      "value": {
+        "options": {
+          "a": "পালিয়ে যায়",
+          "b": "সাহসিকতার সাথে লড়াই করে",
+          "c": "কাঁদে",
+          "d": "সাহায্য চায়"
+        },
+        "question": "খোকা মাকে রক্ষা করতে কীভাবে লড়াই করে?",
+        "solution": "সমাধান: প্রশ্নটি বলছে খোকা মাকে রক্ষা করতে কীভাবে আচরণ করে — এটি সক্রিয় ও সাহসিক কাজ বোঝায়, তাই সবচেয়ে উপযুক্ত উত্তর হলো যে সে সাহসিকতার সাথে লড়াই করে। ধাপ 1: প্রশ্নের কেন্দ্রীয় কাজটি হলো 'রক্ষা করা', যা প্রতিরোধ বা লড়াই করে করা হয়। ধাপ 2: অপশনগুলি যাচাই করলে, পালিয়ে যাওয়া বা কাঁদা রক্ষার জন্য কার্যকর উপায় নয় এবং সাহায্য চাওয়া সহায়ক হতে পারে কিন্তু তা সরাসরি লড়াই করে রক্ষা করার অর্থ দেয় না। অতএব সঠিক উত্তর: b — সাহসিকতার সাথে লড়াই করে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:52:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116414,
+      "value": {
+        "options": {
+          "a": "জনমানব",
+          "b": "মরা নদী",
+          "c": "সুন্দর ফুল",
+          "d": "পশু"
+        },
+        "question": "খোকা এবং মায়ের পালকির পথে কি দেখা যায়?",
+        "solution": "সমাধান:\nধাপ 1: প্রশ্নে বলা আছে \"খোকা এবং মায়ের পালকি\" — এটি নির্দিষ্ট দুজনের ছোট একটি দলকে বোঝায়, সুতরাং ভিড় বা জনমানব থাকার ইঙ্গিত নেই।  \nধাপ 2: প্রাসঙ্গিক বর্ণনা থেকে সহজেই অনুমান করা যায় যে তাদের পথে জলাশয়টি জীবন্ত নয়, অর্থাৎ মরা নদী দেখা যায় — তাই সঠিক উত্তর হলো b: মরা নদী।  \nধাপ 3: অন্যান্য বিকল্পগুলির অপ্রাসঙ্গিকতা — a (জনমানব) নামানুসারে ভিড় নির্দেশ করে, কিন্তু এখানে কেবল খোকা ও মা; c (সুন্দর ফুল) বা d (পশু) সম্পর্কে কোনো উল্লেখ নেই, তাই সেগুলো মেনে না নেওয়াই যুক্তিযুক্ত।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:52:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 116415,
+      "value": {
+        "options": {
+          "a": "ডাকাতদের সাথে আলোচনা করব",
+          "b": "পালিয়ে যাব",
+          "c": "সাহস নিয়ে লড়াই করব",
+          "d": "অন্যদের সাহায্য চাইব"
+        },
+        "question": "যদি তুমি খোকা হতাহ, তাহলে তুমি কীভাবে মাকে রক্ষা করত?",
+        "solution": "সমাধান:\nধাপ ১: লক্ষ্য স্পষ্ট — মাকে নিরাপদ রাখা। তা হলে এমন কাজ করতে হবে যা অবিলম্বে মাকে বিপদ থেকে মুক্ত করবে।  \nধাপ ২: প্রতিটি বিকল্প মূল্যায়ন করা যায় — (a) ডাকাতদের সাথে আলোচনা ঝুঁকিপূর্ণ এবং সফল না-ও হতে পারে; (b) পালিয়ে গেলে মা একা বিপন্ন থাকবে; (d) অন্যদের সাহায্য চাওয়া নিরাপদ হতে পারে কিন্তু সময় নেওয়ার কারণে মা অব্যাহত ঝুঁকিতে থাকতে পারেন।  \nধাপ ৩: অবস্থা যদি তাৎক্ষণিক সঙ্কটজনক হয়, তখন সাহস নিয়ে লড়াই করে মুহূর্তেই মাকে রক্ষা করা সবচেয়ে কার্যকরী পদক্ষেপ — তাই সঠিক উত্তর: c।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-22T17:52:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105041,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): সোনারগাঁওয়ের কোন স্থাপনাগুলি উল্লেখযোগ্য?",
+          "খ": "(অনুধাবন): সোনারগাঁওয়ের ইতিহাস সম্পর্কে সংক্ষেপে বলো।",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): সোনারগাঁওয়ের লোকশিল্প জাদুঘরের গুরুত্ব কি?",
+          "ঘ": "(মূল্যায়ন/সৃজন): সোনারগাঁও-এর সাংস্কৃতিক ঐতিহ্য কীভাবে সংরক্ষণ করা উচিত?"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\nসোনারগাঁও বাংলাদেশের একটি প্রাচীন নগরী যা মসলিন কাপড় তৈরির জন্য প্রসিদ্ধ ছিল। এখানে আছে গোয়ালদি মসজিদ এবং পানাম নগর। সোনারগাঁও লোকশিল্প জাদুঘর একটি বিশেষ আকর্ষণ।",
+        "solution": "সমাধান:\nপ্রথমে উদ্ধৃতিটি পড়ে গুরুত্বপূর্ণ তথ্য বের করা—সোনারগাঁও একটি প্রাচীন নগরী, মসলিন কাপড় তৈরির জন্য প্রসিদ্ধ, এখানে গোয়ালদি মসজিদ, পানাম নগর ও সোনারগাঁও লোকশিল্প জাদুঘর উল্লেখ আছে। এই তথ্যগুলোকে ভিত্তি করে প্রশ্নগুলোর উত্তর দেবো।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সোনারগাঁওয়ের কোন স্থাপনাগুলি উল্লেখযোগ্য?\nউত্তর ও মূল যুক্তি:\n- উদ্ধৃতিতে সরাসরি পাওয়া স্থাপনাগুলো: গোয়ালদি মসজিদ, পানাম নগর, সোনারগাঁও লোকশিল্প জাদুঘর।  \n- পাশাপাশি ঐতিহাসিক প্রসঙ্গে মসলিন কাপড়ের কারিগরি কেন্দ্র হিসেবে সোনারগাঁওকে গুরুত্ব দেওয়া হয়েছে, তাই মসলিন সম্পর্কিত পুরাবশেষ, বস্ত্রকর্মশালা এবং পুরোনো বানিজ্যিক স্থাপনাগুলোও উল্লেখযোগ্য ধরা উচিত।  \nতথ্যের উৎস অনুযায়ী প্রধানত: গোয়ালদি মসজিদ, পানাম নগর ও লোকশিল্প জাদুঘর।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সোনারগাঁওয়ের ইতিহাস সম্পর্কে সংক্ষেপে বলো।\nউত্তর ও যুক্তিতর্ক:\n- সোনারগাঁও ছিল বাংলাদেশের এক প্রাচীন ও গুরুত্বপূর্ণ নগরী।  \n- এটি মধ্যযুগে বিশেষ করে মসলিন (সূক্ষ্ম সূতা) তৈরির জন্য খ্যাত ছিল এবং বাণিজ্যিক ও সাংস্কৃতিক কেন্দ্র হিসেবে প্রতিষ্ঠিত ছিল।  \n- নগরের স্থাপত্য—যেমন গোয়ালদি মসজিদ ও পানাম নগরের ভবন—তার ঐতিহাসিক মর্যাদা ও নগরজীবনের পরিচয় বহন করে।  \n- সময়ের সঙ্গে নদীপথ পরিবর্তন, অর্থনৈতিক ও রাজনৈতিক পরিবর্তন ইত্যাদির ফলে সোনারগাঁওয়ের গুরুত্ব কিছুটা কমে যায়, তবে ধ্বংসাবশেষ ও জাদুঘর এখন ঐতিহ্য ও গবেষণার কেন্দ্র।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সোনারগাঁওয়ের লোকশিল্প জাদুঘরের গুরুত্ব কি?\nউত্তর ও বিশ্লেষণ:\n- সংরক্ষণ: লোকশিল্প জাদুঘর ঐতিহ্যবাহী কারুশিল্প, টেক্সটাইল ও জিনিসপত্র সংরক্ষণ করে ভবিষ্যৎ প্রজন্মের জন্য রক্ষা করে।  \n- শিক্ষা ও গবেষণা: এটি কুড়ি, শিক্ষার্থী ও গবেষকদের জন্য প্রকৃত উদাহরণ ও তথ্য উৎস হিসেবে কাজ করে।  \n- অর্থনৈতিক সহায়তা: প্রদর্শনী, কর্মশালা ও হস্তশিল্প বিক্রির মাধ্যমে কারিগরদের আয় বাড়ায় এবং শিল্পসম্প্রদায়ের টেকসই উন্নয়নে সহায়তা করে।  \n- পর্যটন ও পরিচিতি: পর্যটকদের আকর্ষণে স্থানীয় অর্থনীতি উন্নত করে এবং সোনারগাঁওয়ের সাংস্কৃতিক পরিচিতি বৃদ্ধি করে।  \nউদাহরণস্বরূপ, মসলিনের পুরোনো তাঁত ও কারিগরদের কাজ জাদুঘরে রেখে হলে নতুন প্রজন্ম টেকনিক শিখতে পারে এবং প্রদর্শনীর মাধ্যমে বাজার পাওয়া যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সোনারগাঁও-এর সাংস্কৃতিক ঐতিহ্য কীভাবে সংরক্ষণ করা উচিত?\nউত্তর ও মূল্যায়ন-সৃজনধর্মী পরিকল্পনা:\nপ্রাথমিক নীতি: পৌরায়নতা (authenticity), সম্প্রদায়ের অংশগ্রহণ, টেকসইতা এবং বৈজ্ঞানিক সংরক্ষণ।\n\nপ্রস্তাবিত কার্যক্রম (তৎক্ষণাত → মাঝারি → দীর্ঘমেয়াদি):\n1. তৎক্ষণাত (ডকুমেন্টেশন ও জরুরি সংরক্ষণ)\n   - সব স্থাপনা, কারুশিল্প ও oral ইতিহাস ডিজিটালি এবং আখ্যান অনুযায়ী নথিভুক্ত করা।  \n   - ক্ষতিগ্রস্থ স্থাপনার জরুরি মেরামত ও সংরক্ষণ কাজ শুরু করা।  \n2. মাঝারি মেয়াদ (জীবন্ত ঐতিহ্য ও শিক্ষা)\n   - লোকশিল্প জাদুঘরকে কেন্দ্র করে কারিগরদের কর্মশালা, প্রশিক্ষণ ও স্টুডিও পরিচালনা করা যাতে টেকনিক রক্ষা পায়।  \n   - স্থানীয় সম্প্রদায়কে পরিকল্পনায় অংশীভূত করে তা তাদের আয়ের উৎস হিসেবে গড়ে তোলা (হস্তশিল্প বিক্রয়, হোমস্টে, গাইডিং ইত্যাদি)।  \n   - স্কুল ও কলেজে স্থানীয় ঐতিহ্য সম্বন্ধে পাঠ্যবহুল কার্যক্রম চালু করা।  \n3. দীর্ঘমেয়াদি (নীতি, আইনী সুরক্ষা ও টেকসই পর্যটন)\n   - ঐতিহ্য সংরক্ষণে স্থানীয় ও জাতীয় আইনগত সুরক্ষা নিশ্চিত করা (নিয়মিত রক্ষণাবেক্ষণ বরাদ্দ)।  \n   - নিয়ন্ত্রিত ও টেকসই পর্যটন নীতি যেখানে ভ্রমণ চাপ সীমিত থাকবে এবং রাজস্ব স্থানীয় পুনর্গঠন ও সংরক্ষণে ব্যবহার করা হবে।  \n   - অবস্থানগত বিপদের (নদীর ভাঙন, জলবায়ু পরিবর্তন) জন্য পরিবেশগত ব্যবস্থাপনা ও অভিযোজন পরিকল্পনা গ্রহণ করা।  \nমূল্যায়ন মাপকাঠি: সংরক্ষণের কার্যকারিতা, সমাজের অংশগ্রহণ, কারিগরদের আয় বৃদ্ধি, এবং পর্যটন-আধারিত চাপ নিয়ন্ত্রণ—এই চারটি মান নিরীক্ষণ করে নীতি সমন্বয় করা হবে।\n\nসংক্ষিপ্ত যুক্তি: ঐতিহ্য রক্ষা শুধুমাত্র পুরাতন জিনিস সংরক্ষণ নয়; এটি জীবন্ত কারুশিল্প, মানুষের জীবিকা ও স্থানীয় জ্ঞানের ধারাবাহিকতা নিশ্চিত করা। তাই প্রযুক্তি (ডিজিটালায়ন), সামাজিক উদ্যোগ ও নীতিনির্ধারণ—তিনটি একযোগে দরকার।",
+        "chapter_id": "1350",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সোনারগাঁওয়ের উল্লেখযোগ্য স্থাপনাগুলো হলো গোয়ালদি মসজিদ, পানাম নগর এবং সোনারগাঁও লোকশিল্প জাদুঘর — কারণ উদ্দীপকে এগুলোকেই বিশেষভাবে বলা হয়েছে এবং এগুলোই ঐতিহাসিক ও সাংস্কৃতিকভাবে পরিচিত। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সোনারগাঁও হলো একটি প্রাচীন নগরী যা মসলিন কাপড় তৈরির জন্য প্রসিদ্ধ ছিল; এ থেকে বোঝা যায় এখানে প্রচলিত বস্ত্রশিল্প ও বাণিজ্য ছিল এবং তাই এর ইতিহাস সমৃদ্ধ ও বাণিজ্যিকভাবে গুরুত্বপূর্ণ। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সোনারগাঁওয়ের লোকশিল্প জাদুঘর গুরুত্ব রাখে কারণ এটি স্থানীয় শিল্প ও নৈপুণ্য সংরক্ষণ করে, পর্যটক ও শিক্ষার্থীদের মাধ্যমে ঐতিহ্য পরিচিত করে এবং কারুশিল্পীদের সমর্থন করে সাংস্কৃতিক ধারাবাহিকতা বজায় রাখে। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সাংস্কৃতিক ঐতিহ্য সংরক্ষণ করতে হবে স্মারক ও জাদুঘর রক্ষায়, কারিগরদের প্রশিক্ষণ ও আর্থিক সহায়তায়, ঐতিহাসিক স্থানসমূহ রক্ষণাবেক্ষণ ও জার্নালিং/ডকুমেন্টেশনের মাধ্যমে এবং শিক্ষামাধ্যম ও ট্যুরিজম নিয়ন্ত্রণ করে—যাতে ঐতিহ্য টিকে থাকে এবং ভবিষ্যৎেও ছড়ায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-16T03:53:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105042,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): শিশুর কল্পনায় কি কি ঘটছে?",
+          "খ": "(অনুধাবন): শিশুর মায়ের প্রতি মমতা কিভাবে প্রকাশিত হয়েছে?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): শিশুর কল্পনার মাধ্যমে কি বার্তা দেয়া হয়েছে?",
+          "ঘ": "(মূল্যায়ন/সৃজন): এই গল্পের মাধ্যমে শিশুদের কল্পনা ও সাহসিকতার গুরুত্ব কীভাবে বোঝানো হয়েছে?"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\nশিশুরা কল্পনা করতে ভালোবাসে। এক শিশুর কল্পনায় সে মায়ের সাথে দূর দেশে যাচ্ছে এবং পথে ডাকাতদের মোকাবেলা করে মাকে রক্ষা করছে।",
+        "solution": "সমাধান:\nউত্তর নির্ণয়ের উদ্দেশ্য ও ধাপগুলো স্পষ্ট করতে প্রথমে পড়া পাঠ্য থেকে ঘটনাবলি, চরিত্রের মনোভাব ও সম্মুখাভাস চিহ্নিত করা হবে। কাজের ধাপ: (১) অনুচ্ছেদ মনোযোগ দিয়ে পড়া, (২) ঘটনার ক্রম ও প্রধান কর্ম覚া নির্ণয়, (৩) শিশুর অভিব্যক্তি ও মায়ের প্রতি সম্পর্ক বিশ্লেষণ, (৪) কল্পনার অর্থ ও প্রকাশিত বার্তা নিরূপণ, (৫) মূল্যায়ন করে সারমর্ম উপস্থাপন। এখন নম্বরভিত্তিক উত্তরগুলো দেওয়া হলো।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E শিশুর কল্পনায় কি কি ঘটছে?\nউত্তরপ্রক্রিয়া: পাঠ্য থেকে সরাসরি ঘটনার বিবরণ সংগ্রহ করা হয়েছে।  \nউত্তর: শিশুটির কল্পনায় সে মায়ের সঙ্গে দূরে ভ্রমণে যাচ্ছে; পথে তারা ডাকাতদের সম্মুখীন হয় এবং শিশু সাহস দেখিয়ে মা-কে রক্ষা করে। এখানে প্রধান উপাদানগুলো—ভ্রমণ, বিপদ (ডাকাত), এবং রক্ষা করার সাহসিকতা।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শিশুর মায়ের প্রতি মমতা কিভাবে প্রকাশিত হয়েছে?\nউত্তরপ্রক্রিয়া: শিশুর কাজ ও মনোভাব দেখে মা-প্রেম চিহ্নিত করা হয়।  \nউত্তর: মায়ের সঙ্গ ও নিরাপত্তা নিশ্চিত করার জন্য শিশু নিজের জীবনঝুঁকি নেওয়ার ভাব দেখায়—এটা মমতার সরল, আত্মত্যাগী প্রকাশ। কল্পনায় মা-কে রক্ষা করার দৃশ্যটি শিশুর মমতা ও সংরক্ষণশীল অনুভূতির স্পষ্ট প্রতিফলন; অর্থাৎ মা-র প্রতি যত্ন, স্নেহ ও নিরাপত্তা নিশ্চিত করার ইচ্ছাই প্রধানভাবে প্রকাশিত হয়েছে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শিশুর কল্পনার মাধ্যমে কি বার্তা দেয়া হয়েছে?\nউত্তরপ্রক্রিয়া: কল্পনার প্রতীকী অর্থ ও পাঠকের উপর এর প্রভাব বিবেচনা করা হয়েছে।  \nউত্তর: কল্পনা বার্তা দেয়—শিশুদের কল্পনাশক্তি তাদের সাহস ও দায়িত্ববোধ গঠনে সহায়ক; পাশাপাশি মায়ের প্রতি ভালবাসা ও রক্ষাকারী মনোভাব প্রয়োজনীয় গুণ। অন্যদিকে এটি দেখায় যে খেলাধুলা ও কল্পনাযাত্রা মাধ্যমে শিশুর আত্মবিশ্বাস ও সমস্যা সমাধানের ক্ষমতা বাড়ে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E এই গল্পের মাধ্যমে শিশুদের কল্পনা ও সাহসিকতার গুরুত্ব কীভাবে বোঝানো হয়েছে?\nউত্তরপ্রক্রিয়া: গল্পের উপাদানগুলোকে শিক্ষা-মানসিক বিকাশের দিক থেকে বিশ্লেষণ করা হয়েছে।  \nউত্তর: গল্পে কল্পনা-ভিত্তিক একটি কঠিন পরিস্থিতিতে শিশু নেতৃত্ব ও রক্ষা-কাজ করায়, এটা দেখায় কল্পনা শুধু বিনোদন নয়—এটি চিন্তা, পরিকল্পনা এবং সাহসিকতার অনুশীলনও। কল্পনার মাধ্যমে শিশু বাস্তব জীবনের ভয় কাটিয়ে আত্মবিশ্বাস লাভ করে; সাহসিকতা প্রকাশে পরিবারপ্রতি অনুকম্পা ও দায়িত্ববোধ গড়ে ওঠে। সুতরাং গল্পটি কল্পনা ও সাহসকে ব্যবহৃত করে নেতিবাচক পরিস্থিতি মোকাবিলার জন্য মানসিক প্রস্তুতি ও নৈতিক মূল্যগুলোর গুরুত্ব বোঝায়।\n\nসংক্ষিপ্ত মন্তব্য: উপরের প্রতিটি ধাপে পাঠ্য থেকে সরাসরি উপাদান ও তার প্রতীকী অর্থ নিয়ে যুক্তিসঙ্গত বিশ্লেষণ করা হয়েছে, যা শিশুর মানসিক ও নৈতিক বিকাশের প্রাসঙ্গিক তত্ত্বগুলোর সঙ্গে খাপ খায়।",
+        "chapter_id": "1350",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E শিশুটির কল্পনায় সে মায়ের সাথে দূরদেশে যাচ্ছে, পথে ডাকাতদের মুখোমুখি হয় এবং তাদের লড়াই করে মাকে রক্ষা করছে — ঘটনার সরল বর্ণনা यही।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মাকে রক্ষা করার চেষ্টা, সাহস দেখানো ও মাকে নিরাপদ রাখার ইচ্ছার মাধ্যমে শিশুটি নিজের মমতা ও স্নেহ প্রকাশ করেছে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কল্পনার মাধ্যমে বার্তাটি হলো ভালোবাসা ও দায়িত্ববোধে সাহসী হওয়া; কল্পনা শিশুদের ভিতরের শক্তি ও সুরক্ষার অনুভূতি বাড়ায়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গল্পটি দেখায় যে কল্পনা শিশুদের সাহস, আত্মবিশ্বাস ও সৃজনশীলতা বাড়ায় এবং অন্যকে রক্ষা করার মূল্যবোধ গড়ে তোলে; তাই কল্পনা ও সাহসিকতা শিক্ষা ও মনস্তাত্ত্বিক বিকাশে গুরুত্বপূর্ণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-16T03:53:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105043,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): সোনারগাঁওয়ের কোন স্থাপনাগুলি উল্লেখযোগ্য?",
+          "খ": "(অনুধাবন): সোনারগাঁওয়ের ইতিহাস সম্পর্কে সংক্ষেপে বলো।",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): সোনারগাঁওয়ের লোকশিল্প জাদুঘরের গুরুত্ব কি?",
+          "ঘ": "(মূল্যায়ন/সৃজন): সোনারগাঁও-এর সাংস্কৃতিক ঐতিহ্য কীভাবে সংরক্ষণ করা উচিত?"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\nসোনারগাঁও বাংলাদেশের একটি প্রাচীন নগরী যা মসলিন কাপড় তৈরির জন্য প্রসিদ্ধ ছিল। এখানে আছে গোয়ালদি মসজিদ এবং পানাম নগর।",
+        "solution": "সমাধান:\nউত্তর প্রদানের পদ্ধতি: প্রথমে উদ্দীপক থেকে প্রধান তথ্য শনাক্ত করা, তারপর সংক্ষেপে ইতিহাস উপস্থাপন করা, পরবর্তী অংশে জাদুঘরের গুরুত্ব বিশ্লেষণ করা এবং শেষে সংস্কারের জন্য বাস্তবসম্মত প্রস্তাব দেওয়া হবে। প্রতিটি ধাপে যুক্তি-ভিত্তিক ব্যাখ্যা দেওয়া হবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সোনারগাঁওয়ের কোন স্থাপনাগুলি উল্লেখযোগ্য?\nউত্তর: উদ্দীপকে উল্লেখ আছে গোয়ালদি (গোয়ালদী) মসজিদ এবং পানাম নগর। এছাড়া সাধারণত সোনারগাঁওয়ে উল্লেখযোগ্য স্থান হিসেবে গণ্য হয় — লোকশিল্প জাদুঘর (Sonargaon Folk Art and Craft Museum), পুরাতন ইটের বিলাসবহুল বাড়িঘরগুলো এবং বিভিন্ন ঐতিহাসিক মসজিদ ও স্থাপনা। (এই নামগুলো সনাক্ত করা উদ্দীপকের তথ্য ও স্থানীয় ঐতিহাসিক সূত্রের উপর ভিত্তি করে করা হয়েছে।)\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সোনারগাঁওয়ের ইতিহাস সম্পর্কে সংক্ষেপে বলো।\nউত্তর: সোনারগাঁও একটি প্রাচীন ও ঐতিহাসিক শহর, যা কুটনৈতিক ও বাণিজ্যিক কেন্দ্র হিসেবে পরিচিত ছিল। এটি মসলিন কাপড় তৈরির জন্য বিশেষভাবে খ্যাত ছিল এবং মধ্যযুগে অঞ্চলের বাণিজ্যে গুরুত্বপূর্ণ ভূমিকা রাখে। বিভিন্ন শাসন কালে (স্থানীয় শাসক, মুঘল যুগ ইত্যাদি) সোনারগাঁও প্রশাসনিক ও সাংস্কৃতিক কেন্দ্র হিসেবে বিবেচিত ছিল। স্থানটিতে বহু পূরাতাত্ত্বিক দলিল, ঐতিহাসিক মসজিদ ও পুরনো নগরী-বিশেষ (পানাম নগর) পাওয়া যায় যা শহরের উল্লেখযোগ্য ঐতিহ্য তুলে ধরে। সময়ের সঙ্গে বাণিজ্য ও ভৌগোলিক পরিবর্তনের কারণে এর প্রাধান্য ধীরে ধীরে কমে যায়, তবু সাংস্কৃতিক ও কারুশিল্পে এর অবদান এখনো স্পষ্ট।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সোনারগাঁওয়ের লোকশিল্প জাদুঘরের গুরুত্ব কি?\nউত্তর:\n- সাংস্কৃতিক সংরক্ষণ: জাদুঘরটি লোকশিল্প, পারম্পরিক বস্ত্র (মসলিন সংক্রান্ত উপকরণ সহ) ও মোটিফ সংরক্ষণে গুরুত্বপূর্ণ ভুমিকা রাখে; ভবিষ্যৎ প্রজন্মের জন্য ঐতিহ্যের সাক্ষ্য রক্ষা করে।\n- শিক্ষা ও গবেষণা: ইতিহাস, নকশা ও কারুশিল্পের উপর গবেষণা এবং শিক্ষামূলক কার্যক্রমে সাহায্য করে।\n- অর্থনৈতিক সহায়তা: স্থানীয় শিল্পী ও কুটিরশিল্পীদের কাজ প্রদর্শন ও বিক্রির মাধ্যমে স্থানীয় আয়ের সুযোগ তৈরি করে।\n- পর্যটন ও সচেতনতা: পর্যটক আকর্ষণ করে, যা স্থানীয় অর্থনীতি ও ঐতিহ্য সম্পর্কে আন্তর্জাতিক/জাতীয় সচেতনতা বাড়ায়।\nউপরের প্রতিটি পয়েন্ট যুক্তি-সূত্র হিসেবে ব্যাখ্যা করে যে জাদুঘর কেবল প্রদর্শনীর স্থান নয়, বরং সাংস্কৃতিক ধারাবাহিকতা ও স্থানীয় উন্নয়নের এক কার্যকর উপায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সোনারগাঁও-এর সাংস্কৃতিক ঐতিহ্য কীভাবে সংরক্ষণ করা উচিত?\nউত্তর (প্রস্তাবিত নীতিমালা ও কার্যক্রম):\n1. সংরক্ষণ ও পুনরুদ্ধার: পুরাতন স্থাপনা ও নিদর্শনসমূহের প্রফেশনাল সংরক্ষণ এবং সময়মত পুনরুদ্ধার কাজ করা। আইনগত অভিজ্ঞান দিয়ে ঐতিহ্যবাহী স্থানগুলো রক্ষা করা।\n2. ডকুমেন্টেশন ও ডিজিটালায়ন: সব নকশা, কৌশল, বর্ণনা ও ভাস্কর্য/বস্ত্রের ডিজিটাল আর্কাইভ তৈরি করা—যাতে গবেষণা ও দৃষ্টি-সঞ্চয়ে সুবিধা হয়।\n3. স্থানীয় সম্পৃক্ততা ও ক্ষমতায়ন: শিল্পীদের প্রশিক্ষণ, দকুমেন্টেশন প্রশিক্ষণ ও বাজার সংযোগ নিশ্চিত করা; কুটিরশিল্পীর কো-অপারেটিভ ও মাইক্রোফাইন্যান্সে সহায়তা।\n4. শিক্ষাগত কার্যক্রম: স্কুল-কলেজে স্থানীয় ঐতিহ্য সংক্রান্ত পাঠ্যক্রম, কর্মশালা ও ভ্রমণ অন্তর্ভুক্ত করা।\n5. টেকসই পর্যটন নীতি: পর্যটন বৃদ্ধি করলেও স্থানীয় সমাজ ও পরিবেশ রক্ষা করা; প্রবেশ মূল্য ও টিকিট থেকে আয় স্থানীয় সমাজে বিনিয়োগ করা।\n6. গবেষণা ও সহযোগিতা: বিশ্ববিদ্যালয়, মিউজিয়াম, এনজিও ও আন্তর্জাতিক সংস্থার সঙ্গে অংশীদারিত্ব করে গবেষণা ও অনুদান আকর্ষণ করা।\n7. আইনি ও নীতিগত ব্যবস্থা: ঐতিহ্য সংরক্ষণে জাতীয় নীতিমালা ও কোটিপত্র প্রণয়ন, অননুমোদিত নির্মাণ ও অবক্ষয়ের বিরুদ্ধে কার্যকর নজরদারি।\n\nসংক্ষিপ্ত যুক্তি: উপরের প্রস্তাবগুলো বাস্তবায়িত হলে সোনারগাঁওয়ের ঐতিহ্য কেবল সংরক্ষিতই থাকবে না—স্থানীয় অর্থনীতি ও সামাজিক চেতনা শক্তিশালী হবে। উদাহরণস্বরূপ, ডিজিটালায়ন করলে দুরবর্তী গবেষকও ঐতিহ্য অর্নিবাসযোগ্যভাবে অনুধাবন করতে পারবে; একইভাবে রোগশিল্পীদের বাজার সংযোগ দিলে সাংস্কৃতিক দক্ষতা টেকসই আয়ের উৎসে পরিণত হবে।\n\nশেষ কথা: উত্তরগুলো উদ্দীপকের তথ্য ও সাধারণ ঐতিহাসিক‑সাংস্কৃতিক নীতির উপর ভিত্তি করে সংক্ষিপ্ত, যুক্তিসঙ্গত ও প্রয়োগযোগ্যভাবে উপস্থাপন করা হয়েছে।",
+        "chapter_id": "1350",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সোনারগাঁওয়ের উল্লেখযোগ্য স্থাপনাগুলির মধ্যে গোয়ালদি মসজিদ ও পানাম নগর আছে—কারণ এগুলো ঐতিহাসিক ও স্থাপত্যগত দিক থেকে বিশেষ গুরুত্ব রাখে এবং স্থানীয় মসলিন বাণিজ্য ও নগর জীবনের প্রতিফলন।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সোনারগাঁও ছিল প্রাচীন ও মধ্যযুগীয় বাণিজ্য কেন্দ্র যেখানে মসলিন কাপড় তৈরি ও বাইরে বিক্রয় হতো; বিভিন্ন সময় এখানে প্রশাসনিক ও সাংস্কৃতিক কার্যক্রম विकसित হয়েছিল।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E লোকশিল্প জাদুঘর সোনারগাঁওয়ের সাংস্কৃতিক ঐতিহ্য সংরক্ষণ করে, স্থানীয় কারিগরদের কাজ সংরক্ষণ ও প্রদর্শন করে এবং শিক্ষণীয় করে তোলে; এতে পর্যটন ও স্থানীয় অর্থনীতি সহায়তা পায়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ঐতিহ্য সংরক্ষণে প্রথমে পুরনো ইমারত ও শিল্পকর্ম সংরক্ষণ ও মেরামত করা উচিত, পাশাপাশি নথিবদ্ধকরণ, স্থানীয় কমিউনিটিকে অংশগ্রহণ করানো, দক্ষতা হস্তান্তর ও টেকসই পর্যটন প্রচার করা দরকার।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-16T03:53:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105032,
+      "value": {
+        "options": {
+          "a": "হাসির বই",
+          "b": "লোকশিল্প",
+          "c": "মসলিন কাপড়",
+          "d": "বৌদ্ধ স্থাপত্য"
+        },
+        "question": "সোনারগাঁওয়ের বিখ্যাত পানাম নগরটি কী জন্য প্রসিদ্ধ?",
+        "solution": "সমাধান:\nধাপ ১: ঐতিহাসিক তথ্য অনুযায়ী সোনারগাঁওয়ের পানাম নগর প্রধানত মসলিন কাপড়ের কেন্দ্র হিসেবে প্রসিদ্ধ ছিল — এখানে সূক্ষ্ম ও বিখ্যাত মসলিন বোনো হতো।  \nধাপ ২: তাই সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (মসলিন কাপড়)।  \nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E হাসির বই, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E লোকশিল্প ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বৌদ্ধ স্থাপত্য পানাম নগরের সঙ্গে মূলত সংযুক্ত নয়; বৌদ্ধ স্থাপত্য সাধারণত পাহতপুর (পাহাড়পুর) বা অন্যান্য স্থানে বেশি দেখা যায়।",
+        "chapter_id": "1350",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-16T03:52:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56663,
+      "value": {
+        "options": {
+          "a": "একাই",
+          "b": "মায়ের সাথে",
+          "c": "বন্ধুর সাথে",
+          "d": "কেউ জানে না"
+        },
+        "question": "শিশুরা কিভাবে বিদেশে যাওয়ার কল্পনা করে?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি পড়ে বিকল্পগুলো নির্ণয় করি — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E একাই, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মায়ের সাথে, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বন্ধুর সাথে, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কেউ জানে না।  \nধাপ ২: সাধারণভাবে শিশুরা নিরাপত্তা ও পরিচিতদের সঙ্গে ভ্রমণের কল্পনা করে, তাই মায়ের সঙ্গে যাওয়ার কল্পনা সবচেয়ে যৌক্তিক।  \nধাপ ৩: তাই সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (মায়ের সাথে)।  \nঅতিরিক্ত ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ও \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কম সাহজ্যিক/কম সাধারণ এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E স্পষ্ট কোনো উত্তর দেয় না, তাই এগুলো সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56664,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কবিতায় মা ও খোকা পালকিতে যাচ্ছিল।",
+        "solution": "সমাধান: কবিতার সরাসরি উক্তি অনুযায়ী বলা হয়েছে যে মা ও খোকা পালকিতে যাচ্ছিল, তাই বিবৃতিটি সত্য। ফলে সঠিক উত্তর হলো a (True)। বিকল্প b (False) ভুল, কারণ তা কবিতায় প্রতিপাদিত সরাসরি তথ্যের বিপরীত বক্তব্য।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56665,
+      "value": {
+        "options": {
+          "a": "পালকে যাচ্ছে",
+          "b": "কাশ্বার যাচ্ছে",
+          "c": "বিকেলে ফিরে আসছে",
+          "d": "বাসায় আসছে"
+        },
+        "question": "কবিতায় মা খোকার সাথে __________।",
+        "solution": "সমাধান:\nপ্রশ্নের বাক্যাংশটি কবিতার প্রসঙ্গ থেকে পূরণ করতে হবে; এখানে সঠিক শব্দটি হচ্ছে \"পালকে যাচ্ছে\"। তাই সঠিক উত্তর: a — পালকে যাচ্ছে।\n\nবিস্তারিত কারণ: কবিতার লাইনটি সরাসরি কোনো চলে যাওয়ার দিক নির্দেশ করে — \"পালকে যাচ্ছে\" এই অর্থটি বাক্যের সাথে স্বাভাবিকভাবে মানায়। অপর বিকল্পগুলো অনুচিত কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (\"কাশ্বার যাচ্ছে\") শব্দটি অর্থবহ নয়, \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E (\"বিকেলে ফিরে আসছে\") ফিরে আসার অর্থ বোঝায় যা বাক্যের কালোবিহীন, এবং \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E (\"বাসায় আসছে\") আসার দিক নির্দেশ করে যা মূল বাক্যের সাথে মেলে না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56666,
+      "value": {
+        "options": [],
+        "question": "কবিতায় খোকা কার জন্য লড়াই করছে?",
+        "solution": "সমাধান:\nধাপ ১: কবিতাটির বক্তব্য থেকে খোকা কার জন্য লড়াই করছে তা নির্ণয় করতে কবিতার নির্দেশক শব্দগুলো (যেমন \"মায়ের জন্য\", \"মা রক্ষার\", \"মাকে খাবার দেওয়ার\" ইত্যাদি) শনাক্ত করা হয়।  \nধাপ ২: কবিতায় যদি সংবেদনশীলতা, মমতা বা মাতৃসন্তানের সম্পর্কের উল্লেখ থাকে, তাহলে লড়াইয়ের উদ্দেশ্য সাধারণত মাকে রক্ষা বা সহায়তা করাই।  \nধাপ ৩: এই ভিত্তিতে সঠিক উত্তর হলো \"মা\" — কারণ অন্যান্য বিকল্পগুলো (যেমন বাবা, বন্ধু, দেশ) কবিতার বর্ণনায় স্পষ্টভাবে উল্লেখ বা সমর্থিত নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মা"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56667,
+      "value": {
+        "options": {
+          "a": "পাঠশালা",
+          "b": "জোড়াদিঘি",
+          "c": "বাজার",
+          "d": "ঘর"
+        },
+        "question": "খোকা যেখানে যাচ্ছে সেটি কি?",
+        "solution": "সমাধান: প্রশ্নে প্রদত্ত দৃশ্য অনুযায়ী খোকা যা দিকে যাচ্ছে সেখানে পানির উপস্থিতি এবং দীঘির ধার স্পষ্ট—এই সূচকগুলো নির্দেশ করে যে গন্তব্যটি কোনো জাগাড় বা ঘর নয়। পাঠশালা হলে বই বা শ্রেণিকক্ষের চিহ্ন এবং বাজার হলে দোকানপাট ও ভিড় দেখা যেত, কিন্তু এখানে পানির ধার ও নদীর ধারে চলার চিত্র মিলেছে। তাই সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E জোড়াদিঘি।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56668,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কবিতায় খোকার লড়াইয়ে অন্যের মাথা পড়ে গেছে।",
+        "solution": "সমাধান:\nধাপ ১: কবিতার নির্দিষ্ট পংক্তিতে স্পষ্টভাবে বলা আছে যে খোকার লড়াইয়ের সময় \"অন্যের মাথা পড়ে গেছে\" — তাই বিষয়টি কবিতাগতভাবে প্রতিপন্ন।  \nধাপ ২: এই সরাসরি বর্ণনা থেকে আমরা বুঝি যে ঘটনাটি কবিতায় ঘটেছে এবং এটি কেবল উপমা বা পরোক্ষ ইঙ্গিত নয়, বরং সরাসরি ঘটনার বর্ণনা।  \nধাপ ৩: অতএব বিবৃতিটি সত্য; \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বা a (True) সঠিক উত্তর। বিকল্প b (False) ভুল, কারণ কবিতায় দেয়া পংক্তি সরাসরি বিপরীতটি প্রতিফলিত করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56669,
+      "value": {
+        "options": {
+          "a": "রবীন্দ্রনাথ ঠাকুর",
+          "b": "শেকসপিয়ার",
+          "c": "হুমায়ূন আহমেদ",
+          "d": "সাদাত হাসান মন্টু"
+        },
+        "question": "বীরপুরুষ নামক কবিতাটি __________ লেখা হয়েছে।",
+        "solution": "সমাধান:\n1. \"বীরপুরুষ\" একটি সুপরিচিত বাংলা কবিতা; এটি বাংলাভাষার ক্লাসিকদের মধ্যে পড়ে এবং সাধারণ জ্ঞান অনুযায়ী রবীন্দ্রনাথ ঠাকুরের রচিত।  \n2. যাচাইয়ের পদ্ধতি: কবিতার ভাষা, শৈলী ও প্রকাশভঙ্গি রবীন্দ্রনাথের রচনাশৈলীর সঙ্গে মিলে যায়, তাই লেখক হিসেবে রবীন্দ্রনাথকে মান্য করা হয়।  \n3. সঠিক উত্তর: রবীন্দ্রনাথ ঠাকুর (option a)।  \n4. অন্যগুলো ভুল কেন: শেক্সপিয়ার ইংরেজি নাট্যকার ও কবি — তিনি বাংলা কবিতা রচনা করেননি; হুমায়ূন আহমেদ ও সাদাত হাসান মন্টু সাম্প্রতিক বা ভিন্ন কালের লেখক, তারা \"বীরপুরুষ\" রচিত নন।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56670,
+      "value": {
+        "options": [],
+        "question": "কবিতার মধ্যে 'ধু-ধু' শব্দের অর্থ কী?",
+        "solution": "সমাধান: 'ধু-ধু' শব্দটি অনুকরণধর্মী শব্দ যা সাধারণত নীরবতা, শুন্যতা বা চারপাশে মানুষ না থাকার অনুভূতি প্রকাশ করে। কবিতার প্রেক্ষাপটে এই শব্দের পুনরাবৃত্তি ও নিভৃতে ভাব দেখে বোঝা যায় এটি চারদিকে মানুষজন নেই—অর্থাৎ পরিপূর্ণ শুন্যতা নির্দেশ করে। অন্য বিকল্পগুলি (যেমন বৃষ্টি, কোলাহল ইত্যাদি) মধ্যে শব্দের অনুকরণ ও চিত্রায়ন মিল না থাকার কারণে সেগুলো উপযুক্ত নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "চারদিকে মানুষজন নেই"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56671,
+      "value": {
+        "options": {
+          "a": "ঝুঁকিপূর্ণ পথে",
+          "b": "নিরাপদ পথে",
+          "c": "জোড়াদিঘির দিকে",
+          "d": "বাড়ির দিকে"
+        },
+        "question": "মায়ের কাঁধে খোকা কোথায় যাচ্ছে?",
+        "solution": "সমাধান:\n1. প্রশ্নটি লক্ষ্য করলে জানতে পারি যে উত্তর হিসেবে একটি নির্দিষ্ট গন্তব্য আছে—\"কোথায় যাচ্ছে?\" তাই সবচেয়ে যুক্তিসঙ্গত উত্তর হবে একটি স্পষ্ট স্থান নাম।  \n2. অপশনগুলো বিশ্লেষণ করলে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E \"জোড়াদিঘির দিকে\" একমাত্র স্পষ্ট স্থান নির্দেশ করে, ফলে এটি সরাসরি প্রশ্নের সাথে মিলছে।  \n3. অন্য অপশনগুলো অযথা বর্ণনা বা দিশানির্দেশ (ঝুঁকিপূর্ণ পথ, নিরাপদ পথে, বাড়ির দিকে) — এগুলোতে প্রশ্নের মতো স্পষ্ট স্থান নেই বা প্রসঙ্গভিত্তিক তথ্য অনুপস্থিত। সুতরাং কেবল \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সঠিক।\n\nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E — জোড়াদিঘির দিকে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56672,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "পালকির মধ্যে খোকা পলিয়ে যায়।",
+        "solution": "সমাধান:\n1. বাক্য বিশ্লেষণ করলে দেখা যায় \"পালকির মধ্যে\" মানে ভেতরে থাকা এবং \"পলিয়ে যায়\" মানে বাইরে পালানো—এই দুটি অংশের অর্থগত সামঞ্জস্য নেই।  \n2. সঠিকভাবে বলতে হলে হবে \"পালকি থেকে খোকা পলিয়ে যায়\" (ভেতর থেকে বাইরে পালিয়ে যায়) অথবা \"পালকির মধ্যে খোকা থাকে\" ইত্যাদি।  \n3. তাই প্রদত্ত বাক্যটি ভুল; সঠিক উত্তর: b (False)।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56673,
+      "value": {
+        "options": {
+          "a": "সান্ত্বনা দেয়",
+          "b": "ঝগড়া করে",
+          "c": "বিরক্ত করে",
+          "d": "অভিযোগ করে"
+        },
+        "question": "মায়ের ভয় দেখিয়ে খোকা তাকে __________।",
+        "solution": "সমাধান:\nধাপ ১: বাক্যটি বিশ্লেষণ করলে \"মায়ের ভয় দেখিয়ে\" থেকে বোঝা যায় মা ভীত বা দুঃখিত অবস্থায় আছে।  \nধাপ ২: এমন পরিস্থিতিতে সাধারণত খোকা মাকে সান্ত্বনা দেয়, তাই প্রাকৃতিক ক্রিয়া হলো সান্ত্বনা দেয়া।  \nধাপ ৩: অন্যান্য বিকল্পগুলি (ঝগড়া করে, বিরক্ত করে, অভিযোগ করে) প্রাসঙ্গিক নয়। তাই সঠিক উত্তর হলো a: সান্ত্বনা দেয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56674,
+      "value": {
+        "options": [],
+        "question": "খোকা কবে মাকে চুমো খায়?",
+        "solution": "সমাধান:\nধাপ ১: শিশুর আচরণ লক্ষ্য করলে দেখা যায় যে সে তখন চুমো দেয় যখন আরাম ও স্নেহের ঘনিষ্ঠতা থাকে।  \nধাপ ২: মা যখন তাকে কোলে নেয়, তখন শারীরিক সান্নিধ্য ও নিরাপত্তা প্রদান করে — এই পরিস্থিতিতে খোকা মাকে চুমো দেয়।  \nঅন্যান্য সময়গুলো (যেমন খেলাধুলা করা বা দূরে থাকা) সাধারণত সেই ধরণের সান্নিধ্য ও আরাম দেয় না, তাই সেগুলো ভুল উত্তর।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "যখন মা তাকে কোলে নিচ্ছে"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56675,
+      "value": {
+        "options": {
+          "a": "ভয় পায়",
+          "b": "নাচে",
+          "c": "হাসে",
+          "d": "গায়ক হয়"
+        },
+        "question": "যখন প্যালকিতে ডাকাত আসে, মা কি করে?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি বোঝা — প্যালকিতে ডাকাত এলে পরিস্থিতি বিপদজনক ও ভীতিজনক হয়।  \nধাপ ২: বিকল্পগুলো যাচাই করা — (a) ভয় পায় বাস্তবসম্মত ও স্বাভাবিক প্রতিক্রিয়া; (b) নাচে, (c) হাসে, (d) গায়ক হয় এইগুলো পরিস্থিতির সঙ্গে সাংঘর্ষিক বা অপ্রাসঙ্গিক।  \nসিদ্ধান্ত: সুতরাং সঠিক উত্তর হল (a) ভয় পায়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56676,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বীরপুরুষ কবিতার লেখক ১৯১৩ সালে নোবেল পুরস্কার পেয়েছিলেন।",
+        "solution": "সমাধান:\n1. ধাপ ১: \"বীরপুরুষ\" কবিটির লেখক হলেন রবীন্দ্রনাথ ঠাকুর (Rabindranath Tagore) — এটি বাংলা সাহিত্যের বিখ্যাত একটি কবিতা।  \n2. ধাপ ২: রবীন্দ্রনাথ ঠাকুর ১৯১৩ সালে সাহিত্যে নোবেল পুরস্কার পেয়েছিলেন — এই সত্যটি ইতিহাসভিত্তিক ও নোবেল পুরস্কারের অফিসিয়াল রেকর্ডে আছে।  \n3. ধাপ ৩: যেহেতু কবির নাম ও পুরস্কারের সাল উভয়ই মিলেছে, তাই উক্ত বিবৃতি সঠিক — উত্তর: a (True)।  \n\nবিকল্প b (False) ভুল, কারণ উপরের ঐতিহাসিক তথ্যসমূহ তা খণ্ডন করে না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56677,
+      "value": {
+        "options": {
+          "a": "শিশু",
+          "b": "অভিযান",
+          "c": "ভ্রমণ",
+          "d": "সাহিত্য"
+        },
+        "question": "বীরপুরুষ কবিতাটি __________ বিষয়বস্তু নিয়ে লেখা।",
+        "solution": "সমাধান:\nধাপ 1: কবিতার ভাষা, উদ্দেশ্য ও রচনাশৈলী পর্যবেক্ষণ করলে দেখা যায় এটি সরল, খেলাধুলো-মতো ভাব এবং সরাসরি শিশু পাঠককে উদ্দেশ্য করে লেখা।  \nধাপ 2: এমন সরলতা ও নৈতিক/মনোদৈহিক বার্তা সাধারণত শিশু-কাব্য বা শিশু-শিক্ষণমূলক কাব্য্যের লক্ষণ; তাই বিষয়বস্তु হিসেবে \"শিশু\" প্রতীয়মান হয়।  \nধাপ 3: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সঠিক—অন্য অপশনগুলো (অভিযান, ভ্রমণ, সাহিত্য) কবিতাটির প্রধান উদ্দেশ্য বা লক্ষ্যপাঠককে সঠিকভাবে বোঝায় না।  \n\nসঠিক উত্তর: a: শিশু",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56678,
+      "value": {
+        "options": [],
+        "question": "কবিতার প্রধান চরিত্রের নাম কী?",
+        "solution": "সমাধান:\nধাপ ১: কবিতাটি মনোযোগ দিয়ে পড়ে লক্ষ করুন কার কথা বারবার বলা হয়েছে এবং কার ভাবনা-কর্ম-কথন কেন্দ্রস্থলে আছে।  \nধাপ ২: প্রধান চরিত্রটি যাকে কেন্দ্র করে কাহিনি গড়ে উঠেছে—যিনি কয়েকবার উল্লেখ বা বিশদভাবে বর্ণনা করা হয়েছেন—সে হল প্রধান চরিত্র।  \nধাপ ৩: উপরের নির্ণয়ের ওপর ভিত্তি করে সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E খোকা। অন্য বিকল্পগুলো ভুল, কারণ সেগুলো কবিতার কেন্দ্রীয় চরিত্র নয় বা উল্লেখযোগ্য বিবরণ পাওয়া যায়নি।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "খোকা"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56679,
+      "value": {
+        "options": {
+          "a": "মা",
+          "b": "খোকা",
+          "c": "ডাকাত",
+          "d": "বেয়ারা"
+        },
+        "question": "ক্ষমতার চূড়ান্ত সিংহাসন কে বসে?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নের অর্থ বুঝুন — \"ক্ষমতার চূড়ান্ত সিংহাসন\" বলতে সেই ব্যক্তি বা সাবজেক্ট বোঝানো হচ্ছে যার উপরে সর্বশেষ সিদ্ধান্ত ও নিয়ন্ত্রণ থাকে।  \nধাপ ২: চারটি বিকল্পের মধ্যে তুলনা করুন — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মা হলো করুণাময় ও প্রভাবশালী, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ডাকাত বলপ্রয়োগে ক্ষমতা চাইতে পারে, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বেয়ারা কোনো শক্তিশালী অবস্থান রাখে না, আর \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E খোকা এখানে রূপকভাবে চূড়ান্ত কর্তৃত্ব বা রাজত্বের প্রতীক হিসেবে নেওয়া হয়েছে।  \nধাপ ৩: সিদ্ধান্ত — বিবেচনায় রেখে সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (খোকা), কারণ প্রশ্নের সূক্ষ্ম রসিকতা ও রূপক অর্থে খোকাই চূড়ান্ত সিংহাসনের আসনে বসে থাকা মানানসই।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56680,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কবিতাটির লেখক রাজনীতির সাথে জড়িত ছিলেন।",
+        "solution": "সমাধান:\nধাপ ১: কবির জীবননոլক ও গান্ধীয়–রাজনৈতিক সূত্র ও কবিতার বিষয়বস্তু থেকে দেখা যাচ্ছে তিনি সরাসরি রাজনৈতিক কার্যক্রমে সক্রিয় ছিলেন (যেমন জনসভা, রাজনৈতিক লেখালেখি বা দলের সঙ্গে সম্পৃক্ততা)।  \nধাপ ২: সেই প্রমাণের ভিত্তিতে মূল বিবৃতিটি যাচাই করলে এটি সঠিক বলে ধরা যায়।  \nঅতএব সঠিক উত্তর হচ্ছে: a (True)।  \nবিকল্প b (False) ভুল, কারণ এতে কবির রাজনৈতিক সম্পৃক্ততার প্রমাণ অগ্রাহ্য করা হয়েছে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56681,
+      "value": {
+        "options": {
+          "a": "নতুন বই",
+          "b": "কবিতা",
+          "c": "গল্প",
+          "d": "নাটক"
+        },
+        "question": "রবীন্দ্রনাথ ঠাকুর শিশুদের জন্য __________ লিখেছেন।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি বোঝা — \"রবীন্দ্রনাথ শিশুদের জন্য __________ লিখেছেন\" ফলে আমরা দেখতে চাই তিনি কোন ধরনের সাহিত্য শিশুদের জন্য বিশেষভাবে লিখেছেন।  \nধাপ ২: সাধারণ পরিচিত তথ্য অনুযায়ী রবীন্দ্রনাথ ঠাকুর শিশুদের জন্য বহু কবিতা রচনা করেছেন, তাই সঠিক উত্তর হলো \"কবিতা\" (b)।  \nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E \"নতুন বই\" খুব সাধারণ এবং নির্দিষ্ট নয়; \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E \"গল্প\" ও \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E \"নাটক\" তিনি লিখেছেন, কিন্তু শিশুদের জন্য বিশেষভাবে প্রসিদ্ধ তা হলো তাঁর কবিতা, তাই (b) সঠিক।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56682,
+      "value": {
+        "options": [],
+        "question": "মায়ের কাছে খোকার সঙ্গী কে?",
+        "solution": "সমাধান:\nপ্রশ্নটি ধাঁধা (রিডল) হিসেবে বিশ্লেষণ করলে \"মায়ের কাছে খোকার সঙ্গী কে?\" বলতে এখানে খোকার সঙ্গী বলতে সেই ব্যক্তিকে বোঝানো হয়েছে যে খোকাকে নিয়ে কাজ করে, অর্থাৎ খোকার জন্য কিছু নিতে বা আদায় করতে যাওয়া। ধাঁধার সংকেতটি \"নেঁওয়া\" বা \"নেওয়া\" ক্রিয়ার দিকে ইঙ্গিত করলে সবচেয়ে উপযুক্ত ব্যাখ্যা হল \"নেওয়ার যোদ্ধা\" — অর্থাৎ যে ব্যক্তি সংগ্রাম করে নিয়ে আসে। নতুন বিকল্পগুলো (যেমন রক্ষক, বন্ধু, বড়ভাই ইত্যাদি) সরাসরি \"নেওয়া\" ক্রিয়ার সঙ্গে মেলে না, তাই সঠিক উত্তর হচ্ছে \"নেওয়ার যোদ্ধা\"।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "নেওয়ার যোদ্ধা"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56683,
+      "value": {
+        "options": {
+          "a": "ডাকাতদের উদ্দেশ্যে",
+          "b": "বীরসভ্যতার মধ্যে",
+          "c": "সাধারণ মানুষের জন্য",
+          "d": "ছোট শিশুদের কল্পনায়"
+        },
+        "question": "কবিতে মহূর্ত ও নির্ভীকতা কি হিসেবে প্রকাশিত হয়েছে?",
+        "solution": "সমাধান:\n1. প্রথমে কবিতার প্রদত্ত বর্ণনা ও অনুভব বিশ্লেষণ করতে হবে — \"মহূর্ত ও নির্ভীকতা\" শব্দদ্বয় সাহসিকতা ও নির্ভয়ে কৃতকর্মের ভাব প্রকাশ করে।  \n2. কবিতার প্রসঙ্গে যে চিত্র আঁকা হয়েছে তা সংগ্রামী বা বীরত্বপূর্ণ পরিবেশের সঙ্গে মিশে আছে, তাই এগুলোকে সঠিকভাবে বোঝায় \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E — বীরসভ্যতার মধ্যে।  \n3. অন্য অপশনগুলো অপ্রাসঙ্গিক: (a) ডাকাতদের উদ্দেশ্যে — নৈতিক ও সাহসিকতার মানচিত্র আলাদা; (c) সাধারণ মানুষের জন্য — খুব সাধারণ ও বিমূর্ত, কবিতার বীরত্বসূচক টোন মেলে না; (d) ছোট শিশুদের কল্পনায় — নির্বিঘ্ন ও সাহসিকতার গভীরতা শিশুসুলভ কল্পনার সঙ্গে সামঞ্জস্য রাখে না।  \n\nঅতএব সঠিক উত্তর: ব.",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56684,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মায়ের সঙ্গে খোকা বিদেশে যেতে চায়।",
+        "solution": "সমাধান:\n১) বাক্যটি সরলভাবে পড়লে অর্থ: “খোকা (শিশুটি) মায়ের সঙ্গে বিদেশে যেতে চায়।” এটি একটি ইতিবাচক বিবৃতি।  \n২) তাই বিবৃতিটি সঠিক হলে উত্তর হবে True, অর্থাৎ অপশন a সঠিক।  \n৩) অপশন b (False) ভুল, কারণ সেটি বক্তব্যের বিপরীত বলছে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56685,
+      "value": {
+        "options": {
+          "a": "১৮৬১ সালের ৭ মে",
+          "b": "১৯১৩ সালের ৭ মে",
+          "c": "১৯৪১ সালের ৭ মে",
+          "d": "১৮৬১ সালের ১ জানুয়ারি"
+        },
+        "question": "কবির জন্ম তারিখ __________।",
+        "solution": "সমাধান:\nপ্রশ্নে বলা 'কবির' দ্বারা এখানে বোঝানো কবি রবীন্দ্রনাথ ঠাকুরকে। ঐতিহাসিক তথ্য অনুযায়ী তিনি জন্মগ্রহণ করেছেন ৭ মে ১৮৬১। অন্য অপশনগুলো অস্বীকৃত — ১৯১৩ সালটিও গুরুত্বপূর্ণ (সে বছর তিনি নোবেল পুরস্কার পান), ১৯৪১ হল তাঁর মৃত্যুর বছর, এবং ১৮৬১ সালের ১ জানুয়ারি ভুল তারিখ। তাই সঠিক উত্তর হলো a (১৮৬১ সালের ৭ মে)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7384,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7384&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7384&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7384&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 140,
+  "total": 140
+}

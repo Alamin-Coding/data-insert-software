@@ -1,0 +1,2304 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 742520,
+      "value": {
+        "options": [],
+        "question": "He _____ to study at Kolkata Art College. (want)",
+        "solution": "wanted",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742528,
+      "value": {
+        "options": [],
+        "question": "He _____ drawing since childhood. (love)",
+        "solution": "loved",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742527,
+      "value": {
+        "options": [],
+        "question": "_____ exhibited the paintings?",
+        "solution": "Who",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742526,
+      "value": {
+        "options": [],
+        "question": "Draw",
+        "solution": "to produce picture",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742525,
+      "value": {
+        "options": [],
+        "question": "What kind of pictures did Sultan draw?",
+        "solution": "Sultan drew the pictures of rivers, trees, villages and its people, farmers and fishermen.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742524,
+      "value": {
+        "options": [],
+        "question": "What kind of family was SM Sultan born in?",
+        "solution": "SM Sultan was born in a poor family.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742523,
+      "value": {
+        "options": [],
+        "question": "He _____ at Kolkata Art College.",
+        "solution": "studied",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742522,
+      "value": {
+        "options": {
+          "a": "69",
+          "b": "70",
+          "c": "71",
+          "d": "72"
+        },
+        "question": "Sultan died at the age of _____.",
+        "solution": "c. 71",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742521,
+      "value": {
+        "options": {
+          "a": "unhonoured",
+          "b": "renowned",
+          "c": "unknown",
+          "d": "notorious"
+        },
+        "question": "Salvador Dali was a/an _____ artist.",
+        "solution": "b. renowned",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742529,
+      "value": {
+        "options": [],
+        "question": "My mother wakes up early at (a) _____. She says her prayer at (b) _____. Then, she starts cleaning house till (c) _____. She prepares breakfast for the family at (d) _____. She takes her breakfast at (e) _____.",
+        "solution": "a) 5.00 am; b) 5.30 am; c) 6.00 am; d) 7.00 am; e) 8.00 am",
+        "correct_answer": null
+      },
+      "question_type_id": 57,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 57,
+        "name": "blank (info related)",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742519,
+      "value": {
+        "options": [],
+        "question": "SM Sultan _____ born in Narail in 1923. (be)",
+        "solution": "was",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742518,
+      "value": {
+        "options": [],
+        "question": "He _____ to Kolkata, Europe and other countries to _____. (go / learn)",
+        "solution": "went / learn",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742517,
+      "value": {
+        "options": [],
+        "question": "He dropped out of school and joined his father to _____. (earn)",
+        "solution": "earn",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742516,
+      "value": {
+        "options": [],
+        "question": "SM Sultan's family was",
+        "solution": "poor",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742515,
+      "value": {
+        "options": [],
+        "question": "sm sultan established nandankanon and shishuswargo for children in narail every year there is a sultan mela in narail",
+        "solution": "SM Sultan established &#39;Nandankanon&#39; and &#39;Shishuswargo&#39; for children in Narail. Every year, there is a Sultan Mela in Narail.",
+        "correct_answer": null
+      },
+      "question_type_id": 19,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742514,
+      "value": {
+        "options": [],
+        "question": "Write a short composition in five sentences about 'SM Sultan' answering the following questions.&nbsp;\u003Cbr\u003E\na) Where was SM Sultan born?\u003Cbr\u003E\nb) How was the financial condition of his family?\u003Cbr\u003E\nc) Where did he go to study?\u003Cbr\u003E\nd) Where did he travel?\u003Cbr\u003E\ne) What did he do during his travel?",
+        "solution": "\u003Cdiv style=\"text-align: center;\"\u003E\u003Cstrong\u003ESM Sultan\u003C/strong\u003E\u003C/div\u003E\nSM Sultan was born in Narail in 1923. The financial condition of his family was not good at all. He went to Kolkata to study. He travelled around Asia and Europe. He painted rivers, trees, villages and the people during his travel.",
+        "correct_answer": null
+      },
+      "question_type_id": 28,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 28,
+        "name": "Short Composition",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742513,
+      "value": {
+        "options": [],
+        "question": "Why did Sultan go to work with his father?",
+        "solution": "Sultan went to work with his father because of poverty.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742537,
+      "value": {
+        "options": [],
+        "question": "Exhibited",
+        "solution": "displayed",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742545,
+      "value": {
+        "options": [],
+        "question": "He _____ in 1994. (die)",
+        "solution": "died",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742544,
+      "value": {
+        "options": [],
+        "question": "So, he could not _____ on his education. (carry)",
+        "solution": "carry",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742543,
+      "value": {
+        "options": [],
+        "question": "He _____ from a poor family. (come)",
+        "solution": "came",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742542,
+      "value": {
+        "options": [],
+        "question": "_____ did Sultan establish 'Nandankanon' and 'Shishuswargo'?",
+        "solution": "Why",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742541,
+      "value": {
+        "options": [],
+        "question": "_____ did Sultan love?",
+        "solution": "Whom",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742540,
+      "value": {
+        "options": [],
+        "question": "_____ did he want to study?",
+        "solution": "Where",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742539,
+      "value": {
+        "options": [],
+        "question": "Salvador Dali",
+        "solution": "an artist",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742538,
+      "value": {
+        "options": [],
+        "question": "Birth place of SM Sultan",
+        "solution": "Narail",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742512,
+      "value": {
+        "options": [],
+        "question": "Sultan never went to school.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742536,
+      "value": {
+        "options": [],
+        "question": "Study",
+        "solution": "to read",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742535,
+      "value": {
+        "options": [],
+        "question": "He _____ up a school for children.",
+        "solution": "set",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742534,
+      "value": {
+        "options": [],
+        "question": "In 1938, he _____ the money and he went to the Kolkata Art College. (get)",
+        "solution": "got",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742533,
+      "value": {
+        "options": [],
+        "question": "Left school",
+        "solution": "For lack of money",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742532,
+      "value": {
+        "options": [],
+        "question": "Born",
+        "solution": "Narail in 1923",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742531,
+      "value": {
+        "options": [],
+        "question": "travel",
+        "solution": "visit",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742530,
+      "value": {
+        "options": [],
+        "question": "draw",
+        "solution": "paint",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742486,
+      "value": {
+        "options": {
+          "a": "adverb",
+          "b": "pronoun",
+          "c": "noun",
+          "d": "adjective"
+        },
+        "question": "Sultan studied at school for five years. The word 'five' is a/an _____.",
+        "solution": "d. adjective",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742494,
+      "value": {
+        "options": [],
+        "question": "What did Sultan do for children?",
+        "solution": "Sultan established 'Nandankanon' and 'Shishuswargo' for children.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742493,
+      "value": {
+        "options": [],
+        "question": "People around the world know about Sultan.",
+        "solution": "T",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742492,
+      "value": {
+        "options": [],
+        "question": "SM Sultan became solvent overnight.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742491,
+      "value": {
+        "options": [],
+        "question": "SM Sultan was born in a poor family.",
+        "solution": "T",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742490,
+      "value": {
+        "options": [],
+        "question": "He hated drawing in his childhood.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742489,
+      "value": {
+        "options": [],
+        "question": "Sultan is a _____ painter.",
+        "solution": "famous",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742488,
+      "value": {
+        "options": [],
+        "question": "Sultan _____ children.",
+        "solution": "loved",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742487,
+      "value": {
+        "options": [],
+        "question": "SM Sultan was born in _____.",
+        "solution": "Narail",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742495,
+      "value": {
+        "options": [],
+        "question": "Write the names of two other famous painters mentioned in the passage.",
+        "solution": "The names of two other famous painters mentioned in the passage are Pablo Picasso and Salvador Dali.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742485,
+      "value": {
+        "options": {
+          "a": "rich",
+          "b": "educated",
+          "c": "poor",
+          "d": "royal"
+        },
+        "question": "SM Sultan was born in a _____ family.",
+        "solution": "c. poor",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742484,
+      "value": {
+        "options": [],
+        "question": "sm sultan is a famous painter of our country he was born in narail in 1923 his family didnt have a lot of money sultan went to school for five years, but then he went to work with his father.",
+        "solution": "SM Sultan is a famous painter of our country. He was born in Narail in 1923. His family didn&#39;t have a lot of money. Sultan went to school for five years, but then he went to work with his father.",
+        "correct_answer": null
+      },
+      "question_type_id": 19,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742483,
+      "value": {
+        "options": [],
+        "question": "As a child, Sultan _____ to draw. (love)",
+        "solution": "loved",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742482,
+      "value": {
+        "options": [],
+        "question": "Then he _____ to work with his father. (go)",
+        "solution": "went",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742481,
+      "value": {
+        "options": [],
+        "question": "Sultan loved",
+        "solution": "Drawing",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742480,
+      "value": {
+        "options": [],
+        "question": "SM Sultan",
+        "solution": "A famous painter",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742479,
+      "value": {
+        "options": [],
+        "question": "exhibit",
+        "solution": "display",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742503,
+      "value": {
+        "options": [],
+        "question": "establish",
+        "solution": "found",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742511,
+      "value": {
+        "options": {
+          "a": "Indian",
+          "b": "American",
+          "c": "British",
+          "d": "Bangladeshi"
+        },
+        "question": "What is the nationality of SM Sultan?",
+        "solution": "d. Bangladeshi",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742510,
+      "value": {
+        "options": [],
+        "question": "SM Sultan is a famous painter of our country. He was born in Narail in 1923. His family didn't have a lot of money. Sultan went to school for five years, but then he went to work with his father.\u003Cbr\u003E\nAs a child, Sultan loved to draw. He drew pictures of buildings and other things. He wanted to study at Kolkata Art College, but his family didn't have the money. In 1938, he got the money and he went to the Kolkata Art College. He stayed there for three years and then he left. He travelled around Asia and Europe and painted rivers, trees and villages and its people. Then he came back to Bangladesh. He painted pictures of the farmers and fishermen of Bangladesh.\u003Cbr\u003E\nPeople around the world know about Sultan and his paintings. He exhibited his paintings along with the famous painters, Pablo Picasso and Salvador Dali.\u003Cbr\u003E\nSultan loved children. He established 'Nandankanon' and 'Shishuswargo' for children. Here they could get some education and learn painting. Every year, there is a Sultan Mela in Narail. He died in 1994 at a hospital in Jashore.",
+        "solution": ".",
+        "correct_answer": null
+      },
+      "question_type_id": 24,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 24,
+        "name": "Text/Passgage",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742509,
+      "value": {
+        "options": [],
+        "question": "But his family didn't _____ the money. (have)",
+        "solution": "have",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742508,
+      "value": {
+        "options": [],
+        "question": "He _____ pictures of buildings and other things. (draw)",
+        "solution": "drew",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742507,
+      "value": {
+        "options": [],
+        "question": "Sultan _____ to school for five years. (go)",
+        "solution": "went",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742506,
+      "value": {
+        "options": [],
+        "question": "His family _____ a lot of money. (not have)",
+        "solution": "didn't have",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742505,
+      "value": {
+        "options": [],
+        "question": "He _____ a famous painter of our country. (be)",
+        "solution": "is",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742504,
+      "value": {
+        "options": [],
+        "question": "Sultan studied",
+        "solution": "Kolkata Art College",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742478,
+      "value": {
+        "options": [],
+        "question": "famous",
+        "solution": "renowned",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742502,
+      "value": {
+        "options": [],
+        "question": "Therefore, he _____ a wish to _____. (have / study)",
+        "solution": "had / study",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742501,
+      "value": {
+        "options": [],
+        "question": "SM Sultan _____ a famous painter of Bangladesh. (be)",
+        "solution": "is",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742500,
+      "value": {
+        "options": [],
+        "question": "_____ pictures did Sultan draw?",
+        "solution": "What",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742499,
+      "value": {
+        "options": [],
+        "question": "SM Sultan is famous for",
+        "solution": "painting",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742498,
+      "value": {
+        "options": [],
+        "question": "Sultan went to school",
+        "solution": "for five years",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742497,
+      "value": {
+        "options": [],
+        "question": "Famous",
+        "solution": "known by many people",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742496,
+      "value": {
+        "options": [],
+        "question": "Painter",
+        "solution": "a person who draws picture",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7321,
+      "created_at": "2025-11-27T05:58:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7321&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7321&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7321&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 68,
+  "total": 68
+}

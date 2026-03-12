@@ -1,0 +1,605 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746646,
+      "value": {
+        "options": {
+          "ক": "সোনারগাঁও",
+          "খ": "গৌড়",
+          "গ": "কলকাতা",
+          "ঘ": "কর্ণসুবর্ণ"
+        },
+        "question": "রাজা শশাংকের রাজধানী কোথায় ছিল?",
+        "solution": "ঘ. কর্ণসুবর্ণ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746647,
+      "value": {
+        "options": {
+          "ক": "রাজা রামপাল",
+          "খ": "রাজা শশাংক",
+          "গ": "রাজা গোপাল",
+          "ঘ": "রাজা লক্ষণ সেন"
+        },
+        "question": "কোন রাজা অষ্টম শতকে বাংলার সিংহাসনে বসেন?",
+        "solution": "গ. রাজা গোপাল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746648,
+      "value": {
+        "options": {
+          "ক": "মোহাম্মদ ঘুরি",
+          "খ": "রাজা শশাংক",
+          "গ": "বখতিয়ার খলজি",
+          "ঘ": "রাজা গোপাল"
+        },
+        "question": "বাংলায় মুসলিম শাসনের সূচনা করেন কে?",
+        "solution": "গ. বখতিয়ার খলজি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746649,
+      "value": {
+        "options": {
+          "ক": "গ্রাম",
+          "খ": "সমাজ",
+          "গ": "বাজার",
+          "ঘ": "শহর"
+        },
+        "question": "প্রাচীন যুগে সমাজজীবনের মূলভিত্তি কী ছিল?",
+        "solution": "ক. গ্রাম",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746650,
+      "value": {
+        "options": {
+          "ক": "একটি",
+          "খ": "দুইটি",
+          "গ": "তিনটি",
+          "ঘ": "চারটি"
+        },
+        "question": "প্রাচীন যুগে কয়টি প্রধান ধর্ম ছিল?",
+        "solution": "খ. দুইটি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746651,
+      "value": {
+        "options": {
+          "ক": "চতুর্থ শতক",
+          "খ": "পঞ্চম শতক",
+          "গ": "সপ্তম শতক",
+          "ঘ": "নবম শতক"
+        },
+        "question": "কত শতকে বাংলায় শশাংক নামে একজন প্রভাবশালী রাজা ছিলেন?",
+        "solution": "গ. সপ্তম শতক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746652,
+      "value": {
+        "options": {
+          "ক": "কৃষিকাজ",
+          "খ": "শিল্প",
+          "গ": "ব্যবসা-বাণিজ্য",
+          "ঘ": "পশুপালন"
+        },
+        "question": "প্রাচীন বাংলার মানুষের প্রধান পেশা কী ছিল?",
+        "solution": "ক. কৃষিকাজ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746653,
+      "value": {
+        "options": {
+          "ক": "রাজা শশাংক",
+          "খ": "রাজা গোপাল",
+          "গ": "রাজা লক্ষণ সেন",
+          "ঘ": "রাজা আকবর"
+        },
+        "question": "সপ্তম শতকে বাংলায় প্রভাবশালী কোন রাজা ছিলেন?",
+        "solution": "ক. রাজা শশাংক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746654,
+      "value": {
+        "options": {
+          "ক": "প্রায় পঞ্চাশ",
+          "খ": "প্রায় একশ বছর",
+          "গ": "প্রায় দুইশত বছর",
+          "ঘ": "প্রায় চারশত বছর"
+        },
+        "question": "রাজা শশাংকের পর কত বছর ধরে বাংলায় ভীষণ অস্থির অবস্থা বিরাজ করছিল?",
+        "solution": "খ. প্রায় একশ বছর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746655,
+      "value": {
+        "options": {
+          "ক": "২০০ বছর",
+          "খ": "৩০০ বছর",
+          "গ": "৩৫০ বছর",
+          "ঘ": "৪০০ বছর"
+        },
+        "question": "পাল রাজবংশ কত বছর রাজত্ব করেছিল?",
+        "solution": "ঘ. ৪০০ বছর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746656,
+      "value": {
+        "options": {
+          "ক": "দ্বিতীয়",
+          "খ": "তৃতীয়",
+          "গ": "চতুর্থ",
+          "ঘ": "পঞ্চম"
+        },
+        "question": "রাজা লক্ষণ সেন সেন রাজবংশের কততম রাজা?",
+        "solution": "গ. চতুর্থ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746657,
+      "value": {
+        "options": {
+          "ক": "লক্ষণ সেন",
+          "খ": "শশাংক",
+          "গ": "গোপাল",
+          "ঘ": "মহিপাল"
+        },
+        "question": "কোন রাজা একজন সুপন্ডিত ও কবি ছিলেন?",
+        "solution": "ক. লক্ষণ সেন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746658,
+      "value": {
+        "options": {
+          "ক": "রাজা গোপাল",
+          "খ": "রাজা ধর্মপাল",
+          "গ": "রাজা দেবপাল",
+          "ঘ": "রাজা মহেন্দ্রপাল"
+        },
+        "question": "পাল রাজবংশের প্রতিষ্ঠাতা কে?",
+        "solution": "ক. রাজা গোপাল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746659,
+      "value": {
+        "options": {
+          "ক": "রাজা বিজয় সেন",
+          "খ": "রাজা হেমন্ত সেন",
+          "গ": "রাজা গোপাল",
+          "ঘ": "রাজা লক্ষণ সেন"
+        },
+        "question": "সেন বংশের কোন শাসক দ্বাদশ শতকে বাংলায় রাজত্ব করেন?",
+        "solution": "ঘ. রাজা লক্ষণ সেন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746660,
+      "value": {
+        "options": {
+          "ক": "১২০২ খ্রিস্টাব্দে",
+          "খ": "১২০৪ খ্রিস্টাব্দে",
+          "গ": "১২০৩ খ্রিস্টাব্দে",
+          "ঘ": "১২০৬ খ্রিস্টাব্দে"
+        },
+        "question": "বখতিয়ার খিলজী কত খ্রিস্টাব্দে লক্ষণ সেনকে পরাজিত করেন?",
+        "solution": "খ. ১২০৪ খ্রিস্টাব্দে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7401&grade=7&lesson=13455&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7401&grade=7&lesson=13455&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7401&grade=7&lesson=13455&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 15,
+  "total": 15
+}

@@ -1,0 +1,4692 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 745450,
+      "value": {
+        "options": [],
+        "question": "বন্ধন",
+        "solution": "বাঁধন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745450,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745451,
+      "value": {
+        "options": [],
+        "question": "বঙ্গলিপি",
+        "solution": "বাংলা ভাষার বর্ণ বা হরফ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745451,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745452,
+      "value": {
+        "options": [],
+        "question": "মানুষের সাথে মানুষের _____ দৃঢ় হোক।",
+        "solution": "বন্ধন",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745452,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745453,
+      "value": {
+        "options": [],
+        "question": "আবার নতুন করে নতুন _____ বানাতে হতো।",
+        "solution": "গল্প",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745453,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745454,
+      "value": {
+        "options": [],
+        "question": "লিপিকে কেউ বলেন _____।",
+        "solution": "লিখন পদ্ধতি",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745454,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745455,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন",
+        "solution": "আধুনিক",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745455,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745456,
+      "value": {
+        "options": [],
+        "question": "শিক্ষক",
+        "solution": "শিক্ষককে ছাত্ররা সম্মান করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745456,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745457,
+      "value": {
+        "options": [],
+        "question": "আনন্দ",
+        "solution": "আনন্দ-বেদনা নিয়েই মানুষের জীবন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745457,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745458,
+      "value": {
+        "options": [],
+        "question": "সাক্ষর",
+        "solution": "ছয়-সাত হাজার বছর আগে পৃথিবীতে সাক্ষর লোক ছিল না।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745458,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745459,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন",
+        "solution": "সোনারগাঁও একটি প্রাচীন নগর।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745459,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745460,
+      "value": {
+        "options": [],
+        "question": "লিপি আবিষ্কারকদের নাম লিখি।",
+        "solution": "প্রাগৈতিহাসিক কালে কে কখন কীভাবে লিপি আবিষ্কার করেছিলেন, তা কেউ ঠিকভাবে বলতে পারবে না। তবে আধুনিক কালে যাঁরা এ ধরনের কাজ করেছেন তাঁদের কারও কারও নাম জানা যায়। যেমন- কোরিয়ার রাজা সে জং এবং ইউরোপের এক ধর্মযাজক সন্ত সিরিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745460,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745461,
+      "value": {
+        "options": [],
+        "question": "বাংলা লিপি কীভাবে এলো?",
+        "solution": "বাংলা লিপির প্রচলন কে করেছেন তা এখনও জানা যায়নি। তবে প্রাচীন ব্রাহ্মী লিপি থেকে অশোক লিপি, অশোক লিপি থেকে কুটিল লিপি এবং কুটিল লিপি থেকে বঙ্গলিপি। এমনি করে লিপির নানা ধাপ পেরিয়ে বঙ্গলিপি থেকে বাংলা লিপি এসেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745461,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745462,
+      "value": {
+        "options": [],
+        "question": "কথাকে কীভাবে বন্দি করা হলো?",
+        "solution": "হাতে আঁকা রেখায় কথাকে বন্দি করা হলো। কথাকে রেখার বন্ধনে বন্দি করার জন্য মানুষ লিপি তৈরি করেছিল। শূন্যে মিলিয়ে যাওয়া কথাকে রেখার বন্ধনে অর্থাৎ লিপিতে বন্দি করে মানুষ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745463,
+      "value": {
+        "options": [],
+        "question": "কোন লিপি থেকে বাংলা লিপি এসেছে বলে পণ্ডিতদের ধারণা?",
+        "solution": "প্রাচীন ব্রাহ্মী লিপি থেকে অশোক লিপি, অশোক লিপি থেকে কুটিল লিপি এবং কুটিল লিপি থেকে বঙ্গলিপি এসেছে বলে ধারণা করা হয়। আর পণ্ডিতদের ধারণা লিপির নানা ধাপ পেরিয়ে বঙ্গলিপি থেকেই বাংলা লিপি এসেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745464,
+      "value": {
+        "options": [],
+        "question": "লিপি কী? এ সম্পর্কে বর্ণনা দাও।",
+        "solution": "শূন্যে মিলিয়ে যাওয়া কথাকে রেখার বন্ধনে বন্দি করার ফন্দি হলো লিপি। ভুলে যাওয়ার বিপদ থেকে বাঁচার জন্য লিপি তৈরির চিন্তা আসে মানুষের মাথায়। লিপি মানে হলো লেখা। কোনো শব্দ শুনে লেখা, জিনিস দেখে লেখা অথবা চিন্তা করে মনের কথা লেখা। লিপিকে কেউ বলেন লিখন পদ্ধতি, কেউ বলেন বর্ণ, কেউ বলেন হরফ, কেউ বলেন অক্ষর। মোটকথা, হাতে আঁকা রেখায় বা লিপিতে মানুষ কথাকে বন্দি করে রাখা হয় ভবিষ্যতের মানুষের জন্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745465,
+      "value": {
+        "options": [],
+        "question": "অনেক লিপি কালে কালে _____ হয়ে গেছে।",
+        "solution": "বিলুপ্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745466,
+      "value": {
+        "options": [],
+        "question": "সেদিন থেকেই _____ পথে নতুন যাত্রা শুরু হলো।",
+        "solution": "সভ্যতার",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745467,
+      "value": {
+        "options": [],
+        "question": "ভালো",
+        "solution": "মন্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745468,
+      "value": {
+        "options": [],
+        "question": "লেখা",
+        "solution": "পড়া",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745469,
+      "value": {
+        "options": [],
+        "question": "বাবা",
+        "solution": "মা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745470,
+      "value": {
+        "options": [],
+        "question": "মানুষ",
+        "solution": "মানব",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745471,
+      "value": {
+        "options": [],
+        "question": "লিপি",
+        "solution": "লিপির গল্প মানে লেখার ইতিহাস।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745472,
+      "value": {
+        "options": {
+          "ক": "লেখা",
+          "খ": "আলো",
+          "গ": "গল্প",
+          "ঘ": "ইতিহাস"
+        },
+        "question": "'লিপি' মানে কী?",
+        "solution": "ক. লেখা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745473,
+      "value": {
+        "options": {
+          "ক": "আলোর মধ্যে",
+          "খ": "টেলিভিশনের মধ্যে",
+          "গ": "বেতার বক্সে",
+          "ঘ": "যন্ত্রের মধ্যে"
+        },
+        "question": "এখন কথাকে বন্দি করা হয় কীভাবে?",
+        "solution": "ঘ. যন্ত্রের মধ্যে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745474,
+      "value": {
+        "options": {
+          "ক": "অক্ষর-জ্ঞানসম্পন্ন",
+          "খ": "দস্তখত",
+          "গ": "অশিক্ষিত",
+          "ঘ": "আলোকপ্রাপ্তি"
+        },
+        "question": "'সাক্ষর' অর্থ কী?",
+        "solution": "ক. অক্ষর-জ্ঞানসম্পন্ন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745475,
+      "value": {
+        "options": {
+          "ক": "ভাষা",
+          "খ": "ধ্বনি",
+          "গ": "লিপি",
+          "ঘ": "সভ্যতা"
+        },
+        "question": "কথাকে রেখার বন্ধনে বন্দি করে রাখার জন্যই তৈরি হয়েছিল-",
+        "solution": "গ. লিপি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745476,
+      "value": {
+        "options": [],
+        "question": "ক্ষ",
+        "solution": "ক্+ষ - ক্ষতি",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745477,
+      "value": {
+        "options": [],
+        "question": "চ্ছ",
+        "solution": "চ্+ছ - ইচ্ছা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745478,
+      "value": {
+        "options": [],
+        "question": "নতুন কোনোকিছু তৈরি",
+        "solution": "আবিষ্কার",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745479,
+      "value": {
+        "options": [],
+        "question": "অক্ষর চেনে এমন",
+        "solution": "সাক্ষর",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745480,
+      "value": {
+        "options": [],
+        "question": "চা খাওয়ার সময় বাবার পত্রিকা পড়ার _____।",
+        "solution": "অভ্যাস",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745480,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745481,
+      "value": {
+        "options": [],
+        "question": "বাক্যটি বাংলা থেকে ইংরেজি ভাষায় _____ করো।",
+        "solution": "রূপান্তর",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745481,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745482,
+      "value": {
+        "options": [],
+        "question": "বাংলা লিপির পুরোনো নাম _____।",
+        "solution": "বঙ্গলিপি",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745482,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745483,
+      "value": {
+        "options": [],
+        "question": "বঙ্গলিপি থেকেই _____ এসেছে।",
+        "solution": "বাংলা লিপি",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745483,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745484,
+      "value": {
+        "options": [],
+        "question": "শিক্ষক",
+        "solution": "ছাত্র",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745484,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745485,
+      "value": {
+        "options": [],
+        "question": "চিন্তা",
+        "solution": "সবসময় ইতিবাচক চিন্তা করা উচিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745485,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745486,
+      "value": {
+        "options": [],
+        "question": "কখন থেকে মানুষের সভ্যতার পথে নতুন যাত্রা শুরু হলো?",
+        "solution": "মানুষ একসময় শুধু বানিয়ে বানিয়ে কথা বলত ও গল্প করত। কিন্তু তা লিখিত বা লিপিবদ্ধ করে রাখতে পারত না। পরবর্তীতে মানুষ তাদের কথাগুলো রেখার বন্ধনে আবদ্ধ করার জন্য লিপি তৈরি করে। তারপর সেই লিপি দিয়ে মানুষ একদিন কথাকে বন্দি করে রাখতে শেখে। আর সেদিন থেকেই মানুষের সভ্যতার পথে নতুন যাত্রা শুরু হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745486,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745487,
+      "value": {
+        "options": [],
+        "question": "কখন এবং কেন মানুষ গল্প বানাত?",
+        "solution": "অনেক কাল আগে যখন বর্ণমালা বা হরফ ছিল না, চিঠিপত্র ছিল না, বইপত্র ছিল না, কালি-কলম ছিল না সেই সময় মানুষ গল্প বানাত। সেকালে দাদা-দাদি, বাবা-মা বাচ্চাদের গল্প বানিয়ে বানিয়ে শোনাতেন। বড়োরা গল্প করতেন আর ছোটোরা গল্প শুনত। এভাবেই গল্পের ধারা চলত। গল্প বলতে গিয়ে যখন কেউ ভুলে যেত তখন সে পুনরায় গল্প বানাত।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745488,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন",
+        "solution": "পুরাতন, বহুকাল পূর্বের।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745489,
+      "value": {
+        "options": [],
+        "question": "পন্ডিত",
+        "solution": "জ্ঞানী, অভিজ্ঞ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745490,
+      "value": {
+        "options": [],
+        "question": "বিলুপ্ত",
+        "solution": "বিলীন, লোপ পেয়েছে এমন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745491,
+      "value": {
+        "options": [],
+        "question": "শূন্যে মিলিয়ে যাওয়া _____ রেখার বন্ধনে বন্দি করার _____ হলো লিপি।",
+        "solution": "কথাকে,&nbsp;ফন্দি",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745492,
+      "value": {
+        "options": [],
+        "question": "_____&nbsp;থেকেই বাংলা লিপি এসেছে বলে পণ্ডিতদের ধারণা।",
+        "solution": "বঙ্গলিপি",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745493,
+      "value": {
+        "options": [],
+        "question": "সত্য",
+        "solution": "মিথ্যা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745494,
+      "value": {
+        "options": [],
+        "question": "বন্দি",
+        "solution": "মুক্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745495,
+      "value": {
+        "options": [],
+        "question": "পৃথিবী",
+        "solution": "ধরা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745496,
+      "value": {
+        "options": [],
+        "question": "আলো: আচ্ছা এখন আমরা গল্প শুনব কিন্তু কোন গল্প রাক্ষস খোক্ষসের গল্প বেঙ্গমা বেঙ্গমির গল্প নাকি সুয়োরানি দুয়োরানির গল্প",
+        "solution": "আলো: আচ্ছা, এখন আমরা গল্প শুনব। কিন্তু কোন গল্প? রাক্ষস-খোক্ষসের গল্প, বেঙ্গমা-বেঙ্গমির গল্প, নাকি সুয়োরানি-দুয়োরানির গল্প?",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745497,
+      "value": {
+        "options": [],
+        "question": "ল্প",
+        "solution": "ল্+প - অল্প",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745498,
+      "value": {
+        "options": [],
+        "question": "ব্দ",
+        "solution": "ব্&zwnj;+দ -&nbsp;শব্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745499,
+      "value": {
+        "options": [],
+        "question": "ন্দ",
+        "solution": "ন্&zwnj;+দ -&nbsp;সুন্দর",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745500,
+      "value": {
+        "options": [],
+        "question": "প্রত্নবিষয় নিয়ে কাজ করেন যিনি",
+        "solution": "প্রত্নতাত্ত্বিক",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745501,
+      "value": {
+        "options": [],
+        "question": "যিনি শিক্ষা দেন",
+        "solution": "শিক্ষক",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745502,
+      "value": {
+        "options": [],
+        "question": "কোনোকিছু খুঁজে বের করা",
+        "solution": "আবিষ্কার",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745503,
+      "value": {
+        "options": [],
+        "question": "রূপান্তর",
+        "solution": "পরিবর্তন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745503,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745504,
+      "value": {
+        "options": [],
+        "question": "_____&nbsp;লোকের সংখ্যা দিন দিন বাড়ছে।",
+        "solution": "সাক্ষর",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745504,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745505,
+      "value": {
+        "options": [],
+        "question": "আনন্দ",
+        "solution": "বেদনা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745505,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745506,
+      "value": {
+        "options": [],
+        "question": "চিন্তা",
+        "solution": "নিশ্চিন্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745506,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745507,
+      "value": {
+        "options": [],
+        "question": "বিলুপ্ত",
+        "solution": "বাংলাদেশের নদীগুলো প্রায় বিলুপ্ত হয়ে যাচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745507,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745508,
+      "value": {
+        "options": [],
+        "question": "লিপি তৈরির চিন্তা এলো কীভাবে?",
+        "solution": "একসময় কোনো লিপি ছিল না বলে মানুষ তাদের কথা লিপিবদ্ধ করতে পারতেন না। সেকালে দাদা-দাদি, বাবা-মা বাচ্চাদের গল্প বানিয়ে শোনাতেন কিন্তু বানিয়ে বানিয়ে গল্প বলতে গিয়ে যখন তারা ভুলে যেতেন তখন আর গল্প বলতে পারতেন না। নতুন করে আবার গল্প বানাতে হতো। আর সেই জন্যই ভুলে যাওয়ার বিপদ থেকে বাঁচার জন্য লিপি তৈরির চিন্তা মাথায় এলো।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745508,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745509,
+      "value": {
+        "options": [],
+        "question": "পৃথিবীতে বহু আগে মানুষ লিখতে ও পড়তে জানত না কেন?",
+        "solution": "পৃথিবীতে বহু আগে অর্থাৎ প্রায় ছয়-সাত হাজার বছর আগে মানুষ লিখতে ও পড়তে জানত না। কারণ তখন বর্ণ বলে কিছুই ছিল না। কোনো ভাষারই বর্ণমালা, অক্ষর বা হরফ কিছুই ছিল না। তাই তখন মানুষ লিখতে ও পড়তে জানত না।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745510,
+      "value": {
+        "options": [],
+        "question": "প্রত্নতাত্ত্বিক",
+        "solution": "প্রত্নতত্ত্বে অভিজ্ঞ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745511,
+      "value": {
+        "options": [],
+        "question": "আজ",
+        "solution": "কাল",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745512,
+      "value": {
+        "options": [],
+        "question": "আজ",
+        "solution": "অদ্য",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745513,
+      "value": {
+        "options": [],
+        "question": "অভ্যাস",
+        "solution": "স্বভাব",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745514,
+      "value": {
+        "options": [],
+        "question": "অভ্যাস",
+        "solution": "হাত ধোয়ার অভ্যাস করতে হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745515,
+      "value": {
+        "options": [],
+        "question": "ডিভাইস",
+        "solution": "কথাবার্তা, আবৃত্তি, বক্তৃতা ইলেকট্রনিক ডিভাইসে ধরে রাখা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745516,
+      "value": {
+        "options": {
+          "ক": "জ্ঞানী লোক",
+          "খ": "বৃদ্ধ লোক",
+          "গ": "সাক্ষর লোক",
+          "ঘ": "ভালো লোক"
+        },
+        "question": "যখন লিপির প্রচলন হয়নি তখন ছিল না-",
+        "solution": "গ. সাক্ষর লোক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745517,
+      "value": {
+        "options": {
+          "ক": "সুখ",
+          "খ": "দুঃখ",
+          "গ": "ভালোবাসা",
+          "ঘ": "অনুভূতি"
+        },
+        "question": "আনন্দ-এর বিপরীত শব্দ কোনটি?",
+        "solution": "খ. দুঃখ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745518,
+      "value": {
+        "options": {
+          "ক": "বিপ্লবের মাধ্যমে",
+          "খ": "আন্দোলনের মাধ্যমে",
+          "গ": "লিপির মাধ্যমে",
+          "ঘ": "গল্পের মাধ্যমে"
+        },
+        "question": "সভ্যতার পথে নতুন যাত্রা শুরু হলো কিভাবে?",
+        "solution": "গ. লিপির মাধ্যমে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745519,
+      "value": {
+        "options": {
+          "ক": "গল্প বানাতেন",
+          "খ": "চাঁদের আলো দেখতেন",
+          "গ": "পোশাক বুনতেন",
+          "ঘ": "পড়ালেখা শিখতেন"
+        },
+        "question": "সেকালে দাদা-দাদি, বাবা-মা কী করতেন?",
+        "solution": "ক. গল্প বানাতেন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745520,
+      "value": {
+        "options": {
+          "ক": "একশো-দুশো বছর আগে",
+          "খ": "এক হাজার দুই হাজার বছর আগে",
+          "গ": "পাঁচশো-ছয়শো বছর আগে",
+          "ঘ": "ছয়-সাত হাজার বছর আগে"
+        },
+        "question": "কত বছর আগে পৃথিবীতে লোকজন লিখতে ও পড়তে জানত না?",
+        "solution": "ঘ. ছয়-সাত হাজার বছর আগে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745521,
+      "value": {
+        "options": [],
+        "question": "যা লুপ্ত হয়েছে",
+        "solution": "বিলুপ্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745522,
+      "value": {
+        "options": [],
+        "question": "অভ্যাস",
+        "solution": "স্বভাব।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745522,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745523,
+      "value": {
+        "options": [],
+        "question": "সাক্ষর",
+        "solution": "অক্ষরজ্ঞান, বর্ণ চেনে এমন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745523,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745524,
+      "value": {
+        "options": [],
+        "question": "তুমি খুব _____ প্রশ্ন করেছ।",
+        "solution": "সুন্দর",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745524,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745525,
+      "value": {
+        "options": [],
+        "question": "বিলুপ্ত",
+        "solution": "অস্তিত্বমান",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745525,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745526,
+      "value": {
+        "options": [],
+        "question": "আবিষ্কার",
+        "solution": "অনাবিষ্কার",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745526,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745527,
+      "value": {
+        "options": [],
+        "question": "সাক্ষর",
+        "solution": "নিরক্ষর",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745527,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745528,
+      "value": {
+        "options": [],
+        "question": "আবিষ্কার",
+        "solution": "বিজ্ঞানী জগদীশচন্দ্র বসু বেতার তরঙ্গ আবিষ্কার করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745528,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745529,
+      "value": {
+        "options": [],
+        "question": "লিপি বলতে কী বুঝি?",
+        "solution": "মানুষের মুখের কথাকে লিখে রাখার জন্য যে চিহ্ন বা প্রতীক ব্যবহার করা হয় তাই লিপি। লিপি মানে হচ্ছে লিখন পদ্ধতি। শূন্যে মিলিয়ে যাওয়া কথাকে যে পদ্ধতিতে রেখার বন্ধনে আবদ্ধ করা হয় তাই লিপি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745529,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745530,
+      "value": {
+        "options": [],
+        "question": "পৃথিবীতে কত লিপি ছিল? এ সম্পর্কে কী জান?",
+        "solution": "পৃথিবীতে কত লিপি ছিল তা সঠিক কেউ জানে না। অনেক লিপি কালে কালে ধীরে ধীরে বিলুপ্ত হয়ে গিয়েছে। তবে অনেক লিপির নমুনা পাওয়া গেছে। যেমন- মহেঞ্জোদারোর লিপি, মিশরীয় লিপি। তবে এগুলোর পাঠ উদ্ধারের জন্য এখনো ভাষাবিজ্ঞানী ও প্রত্নতাত্ত্বিকরা গবেষণা করছেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745531,
+      "value": {
+        "options": [],
+        "question": "লিপি",
+        "solution": "লেখা, অক্ষর, বর্ণমালা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745532,
+      "value": {
+        "options": [],
+        "question": "নমুনা",
+        "solution": "নিদর্শন, কোনো জিনিস বা কাজের সামান্য অংশ যা থেকে সমগ্রের পরিচয় পাওয়া যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745533,
+      "value": {
+        "options": [],
+        "question": "গবেষণা",
+        "solution": "তত্ত্বাদির বিশেষ অনুসন্ধান, বিজ্ঞানীরা যে উপায়ে তাঁদের অনুসন্ধান পরিচালনা করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745534,
+      "value": {
+        "options": [],
+        "question": "লিপি মানে _____।",
+        "solution": "লেখা",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745535,
+      "value": {
+        "options": [],
+        "question": "সে জন্যই ভুলে যাওয়ার _____&nbsp;থেকে বাঁচার জন্য লিপি&nbsp;তৈরির চিন্তা মাথায় এলো।",
+        "solution": "বিপদ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745536,
+      "value": {
+        "options": [],
+        "question": "অনেক",
+        "solution": "অল্প",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745537,
+      "value": {
+        "options": [],
+        "question": "গল্প",
+        "solution": "কাহিনি",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745538,
+      "value": {
+        "options": [],
+        "question": "রাত",
+        "solution": "নিশি",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745539,
+      "value": {
+        "options": [],
+        "question": "চাঁদ",
+        "solution": "চন্দ্র",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745540,
+      "value": {
+        "options": [],
+        "question": "গল্প",
+        "solution": "সেকালে দাদা-দাদিরা গল্প শোনাতেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745541,
+      "value": {
+        "options": [],
+        "question": "হাজার",
+        "solution": "ছয়-সাত হাজার বছর আগে লোকজন লিখতে জানত না।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745542,
+      "value": {
+        "options": [],
+        "question": "চিঠি",
+        "solution": "আজ বন্ধুকে চিঠি লিখব।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745543,
+      "value": {
+        "options": [],
+        "question": "সুন্দর",
+        "solution": "হাতের লেখা সুন্দর করতে হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745544,
+      "value": {
+        "options": {
+          "ক": "বঙ্গলিপি",
+          "খ": "মিশরীয় লিপি",
+          "গ": "হরপ্পা লিপি",
+          "ঘ": "মহেঞ্জোদারো লিপি"
+        },
+        "question": "বাংলা লিপি এসেছে কোন লিপি থেকে?",
+        "solution": "ক. বঙ্গলিপি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745545,
+      "value": {
+        "options": [],
+        "question": "ঙ্গ",
+        "solution": "ঙ্&zwnj;+গ -&nbsp;সঙ্গী",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745546,
+      "value": {
+        "options": [],
+        "question": "ন্ধ",
+        "solution": "ন্+ধ - অন্ধ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745547,
+      "value": {
+        "options": [],
+        "question": "বর্ণমালার লেখ্য সংকেত",
+        "solution": "হরফ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-11-27T06:40:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105046,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): লিপি কীভাবে তৈরি হয়েছিল?",
+          "খ": "(অনুধাবন): শিক্ষক ও শিক্ষার্থীদের আলোচনার মাধ্যমে লিপির আবিষ্কারের প্রেক্ষাপট তুলে ধরো।",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): লিপির আবিষ্কার কেন মানব সভ্যতার জন্য গুরুত্বপূর্ণ ছিল?",
+          "ঘ": "(মূল্যায়ন/সৃজন): লিপি তৈরির চিন্তা কিভাবে উদ্ভূত হয়েছিল তা বিস্তারিত বিবৃত করো।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\nলিপির গল্পটি বর্ণনা করে কিভাবে মানুষের কথাকে লিখে বন্দি করার পদ্ধতি আবিষ্কার করা হয়েছিল। এটি একটি কথোপকথনধর্মী রচনা।",
+        "solution": "সমাধান:\n\nউত্তর প্রকাশের উপযোগী পদ্ধতি (সংক্ষিপ্ত নির্দেশনা):\n- প্রথমে প্রশ্নের উদ্দেশ্য স্পষ্ট করো — প্রতিটি অংশে কী জানতে চাওয়া হয়েছে।\n- মূল বক্তব্যগুলো ধারাবাহিক ধাপে সাজাও: প্রেক্ষাপট → পর্যায়ক্রমিক প্রক্রিয়া → তাৎপর্য ও উদাহরণ → উপসংহার।\n- যুক্তি গঠন করো পর্যবেক্ষণ, কারণ-ফল, এবং বাস্তব উদাহরণের মাধ্যমে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (জ্ঞানমূলক): লিপি কীভাবে তৈরি হয়েছিল?\n- মূল ধারণা: লিপি সৃষ্টি সাধারণত মৌখিক ভাষা চিহ্নিত করে তা স্থায়ীভাবে সংরক্ষণ করার প্রয়োজন থেকেই।  \n- পর্যায়ক্রমিক প্রক্রিয়া (সংক্ষিপ্ত ধাপ):  \n  1. পর্যবেক্ষণ ও প্রয়োজন — বাণিজ্য, কর, ধর্মীয় আচার বা স্মরণ-সুত্র হিসেবে তথ্য সংরক্ষণ করতে চাওয়া।  \n  2. চিত্রচিহ্ন (পিক্টোগ্রাম) — সরল চিত্র দিয়ে কোনো বস্তু বা ঘটনার নির্দেশ।  \n  3. প্রতীকায়ন (আইডিওগ্রাফ) — একাধিক ধারণা বা শব্দকে একক চিহ্নে প্রকাশ শুরু।  \n  4. ধ্বনিগত উপস্থাপনা — শব্দ বা ধ্বনিকে চিহ্ন দিয়ে প্রকাশ করা (ফনেটিক উপাদান), ফলে জটিল বাক্য-প্রকাশ সম্ভব হয়।  \n  5. ধরণ ও নিয়মকরণ — চিহ্নগুলোর মানক রূপ নির্ধারণ ও লেখার নিয়ম তৈরি হওয়া।  \n- উপকরণ: পাথর, কাদামাটি, পাতা, খনিজ-বর্ণ ইত্যাদি মাধ্যমে লিপি রেকর্ড করা হয়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (অনুধাবন): শিক্ষক ও শিক্ষার্থীদের আলোচনার মাধ্যমে লিপির আবিষ্কারের প্রেক্ষাপট তুলে ধরো।\n- প্রেক্ষাপট বিশ্লেষণ (সংক্ষিপ্ত): কথোপকথনধর্মী রচনায় শিক্ষক সাধারণত সমস্যার কারণ ও ইতিহাস ব্যাখ্যা করে, আর শিক্ষার্থী প্রশ্ন করে ধাপগুলো পরিষ্কার করে নেয়।  \n- কীভাবে আলোচনাটি আবিষ্কারের প্রেক্ষাপট তুলে ধরে:  \n  1. সমস্যা চিহ্নিত করা — শিক্ষক বলে কেন লিখিত রেকর্ড দরকার (ট্রেড, আইন, স্মৃতি)।  \n  2. পর্যবেক্ষণ ও উদাহরণ — শিক্ষার্থী পুরোনো নিদর্শন বা কাহিনি তুলে ধরে; শিক্ষক তা বিশ্লেষণ করে বলে এগুলো পিক্টোগ্রাম থেকে এসেছে।  \n  3. প্রক্রিয়ার ধাপগুলো ব্যাখ্যা — শিক্ষক প্রতীকায়ন, ধ্বনিগত রূপ ধারণা ইত্যাদি ধাপে ধাপে বোঝায়; শিক্ষার্থী প্রতিটি ধাপকে প্রশ্ন করে নিশ্চিত করে।  \n  4. ফলাফল ও সামাজিক প্রভাব — আলোচনা হয় যে কীভাবে লিপি শিক্ষার, প্রশাসন ও সাংস্কৃতিক সংরক্ষণে ভূমিকা রাখে।  \n- উপসংহার: কথোপকথনটি পাঠকে দেখায় যে আবিষ্কারটি কেবল একক উদ্ভাবন নয়—একটি প্রয়োজন, পরীক্ষা, পর্যবেক্ষণ ও কমিউনিটি-গ্রহণের ধারাবাহিক ফলাফল।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বিশ্লেষণ/প্রয়োগ): লিপির আবিষ্কার কেন মানব সভ্যতার জন্য গুরুত্বপূর্ণ ছিল?\n- বিশ্লেষণগত কারণগুলো:  \n  1. তথ্য সংরক্ষণ ও স্থানান্তর — লিপি ছিল জ্ঞানের দীর্ঘস্থায়ী রেকর্ড রাখার মাধ্যম; প্রজন্মের পর প্রজন্মে জ্ঞান পৌঁছায়।  \n  2. প্রশাসন ও আইন — নিয়ম, চুক্তি, কর-রেকর্ড, আইন লিখে রাখা সম্ভব হয়ে সমাজ সংগঠিত ও স্থিতিশীল হয়।  \n  3. অর্থনীতি এবং বাণিজ্য — লেনদেনের হিসাব, চুক্তি ও দালিলিক রেকর্ড দিয়ে বাণিজ্যিক জটিলতা বৃদ্ধি পায়।  \n  4. বিজ্ঞান ও প্রযুক্তি — গণনা, সূচক, নিরীক্ষার লিখিত নোট থাকার ফলে জ্ঞান সিস্টেমেটিকলি বৃদ্ধি পায়।  \n  5. সাহিত্য ও সংস্কৃতি — ধর্মীয় গ্রন্থ, কাব্য, ইতিহাস লিখে রেখে সাংস্কৃতিক পরিচয় বজায় রাখে।  \n- প্রয়োগগত উদাহরণ: আইন-সংকলন (শাসনব্যবস্থা স্থায়ী করা), বীজতত্ত্ব কিংবা চিকিৎসার নোট সংরক্ষণ করে উন্নত প্রযুক্তি ও চিকিৎসা সম্ভাব্য হয়েছে।  \n- উপসংহার: লিপি ছিল সভ্যতার “সংরক্ষণ ও সংযোগ” টেকনোলজি—এটি সমাজকে জটিল, বৃহৎ এবং ধারাবাহিকভাবে চলমান করতে সাহায্য করেছে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মূল্যায়ন/সৃজন): লিপি তৈরির চিন্তা কিভাবে উদ্ভূত হয়েছিল তা বিস্তারিত বিবৃত করো।\n- ধারণাগত মূল্যায়ন ও সৃজনমুখী বর্ণনা (ধাপভিত্তিক):  \n  1. সামাজিক চাহিদা — বৃহত্তর জনসংখ্যা ও জটিল অর্থনীতি প্রশাসনিক তথ্য চাইল যে কেবল মৌখিক স্মৃতিতে রাখা সম্ভব নয়।  \n  2. সাংস্কৃতিক প্রেরণা — স্মৃতি রক্ষার ইচ্ছা (ধর্মীয় সিদ্ধান্ত, বংশগীতি ইত্যাদি) লিপির প্রয়োজন বাড়ায়।  \n  3. সূচনাত্মক উদ্ভাবন — সহজ চিত্র (যেমন পশু, সূর্য) দিয়ে শুরু; হাজার বার ব্যবহারের ফলে প্রতীকের অর্থ স্থায়ীভাবে সংযুক্ত হয়।  \n  4. বিমূর্তীকরণ — চিত্রগত থেকে ধ্বনিগত/ধারণাগত প্রতীক ধরনে পরিবর্তন। উদাহরণ: একটি ছবির মাধ্যমে কোনো বস্তু না করে তার নাম বা শব্দের একাংশ নির্দেশ করা।  \n  5. নিয়ম ও মানকায়ন — একাধিক মানুষ যখন একই প্রতীক ব্যবহার করে অর্থ সঙ্গত করে, তখন লিপি কার্যকর হয়; শিক্ষণ ও অনুকরণ ব্যবস্থার জন্ম।  \n  6. মাধ্যম ও প্রযুক্তি উন্নয়ন — কাদামাটি, খড়পত্র, পাথর, কালি ও কাগজের আবিষ্কার লিপিকে আরও বিস্তৃত করে।  \n- সৃজনমুখী উদাহরণ (সংক্ষিপ্ত): ভাবো একজন শিক্ষক বাকি শিক্ষার্থীদের বললো—“মহাযান বিক্রি হয়ে গেছে, আজ আমাদের কত গবাদি পশু ছিল তা মনে রাখা কঠিন”। এক শিক্ষার্থী একটি ঘোড়া আঁকতে শুরু করে; বারবার ব্যবহারে সেই চিহ্ন ‘ঘোড়া’ ছাড়া বিক্রি-লেনদেন বা মূল্য হিসেবে দেখানো হলো—এরকমই ক্রমে প্রতীক থেকে লিপি গড়ে ওঠে।  \n- মূল্যায়ন: লিপি কেবল প্রযুক্তি নয়, এটি একটি সামাজিক চুক্তি — প্রতীক ও নিয়ম গ্রামের, শহরের, বণিকের ও কৃত্রিম শিক্ষাব্যবস্থার মধ্যে গ্রহণযোগ্য হলে সেটি স্থায়ী হয়। লিপি উদ্ভাবনকে আমরা মানব বুদ্ধিমত্তার একটি মাইলফলক হিসেবে মূল্যায়ন করতে পারি, কারণ এটি জ্ঞানকে ব্যক্তিগত স্তর থেকে সামাজিক ও ঐতিহাসিক স্তরে উত্তীর্ণ করেছে।  \n\nসংক্ষিপ্ত উপসংহার:\nপ্রতিটি অংশে লিপির সৃষ্টি ও মৌলিক গুরুত্ব স্পষ্ট—এটি প্রয়োজন, পর্যবেক্ষণ, প্রতীকায়ন ও সামাজিক স্বীকৃতির মিলিত ফল; ফলে মানব সভ্যতা গঠন, সংরক্ষণ ও পরিশীলনে অগ্রণী ভূমিকা পালন করেছে।",
+        "chapter_id": "1352",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E লিপি তৈরি হওয়ার বর্ণনা: লিপি ধীরে ধীরে চিহ্ন ও প্রতীক ব্যবহার করে মানুষের কথাকে স্থায়ীভাবে ধরে রাখার প্রয়াস থেকে সৃষ্টি হয়েছিল, প্রথমে ছবি-চিহ্ন (পিক্টোগ্রাম) ও পরে ধ্বনি-চিহ্নে রূপান্তরিত হয়ে নিয়মভিত্তিক লিপিতে পরিণত হয় — কারণ উদ্দীপকে বলা আছে কথাকে লিখে বন্দি করার পদ্ধতি আবিষ্কার করা হয়েছিল। \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শিক্ষক ও শিক্ষার্থীদের আলোচনার মাধ্যমে প্রেক্ষাপট: উক্ত রচনা কথোপকথনধর্মী হওয়ায় শিক্ষক প্রশ্ন করে, শিক্ষার্থীরা জিজ্ঞাসা এবং উত্তর দেয়—এই সংলাপের মাধ্যমে আবিষ্কারের প্রয়োজন, ধাপ ও উদাহরণগুলো ধীরে ধীরে প্রকাশ পায়; তাই আলোচনা মাধ্যমেই প্রেক্ষাপট উঠে আসে। \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E আবিষ্কারের গুরুত্ব: লিপি তথ্য সংরক্ষণ, আইন-বাণিজ্য-শিক্ষা ও সাংস্কৃতিক ধারা নিরবচ্ছিন্নভাবে প্রসারিত করে মানুষকে জ্ঞান সংগ্রহ ও প্রজন্মান্তরে ভাগ করে নেওয়ার সুযোগ দেয়, ফলে সভ্যতার গতিশীলতা ও সংহতি সম্ভব হয়েছে। \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E লিপি তৈরির চিন্তার উদ্ভব: দৈনন্দিন চাহিদা—স্মরণ, ব্যবসা-রেকর্ড, ইতিহাস লিখে রাখা—এগুলো সমস্যার সমাধান হিসেবে চিহ্ন ও চিত্র ব্যবহার থেকে ধ্বনি-প্রতীক তৈরি হওয়ার মধ্যে লিপির ধারণা জন্মায়; তাই প্রয়োজন ও সমস্যা সমাধানের প্রয়াস থেকেই ধারণাটি উদ্ভূত হয়েছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-16T03:53:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105047,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): লিপি কীভাবে তৈরি হয়েছিল?",
+          "খ": "(অনুধাবন): শিক্ষক ও শিক্ষার্থীদের আলোচনার মাধ্যমে লিপির আবিষ্কারের প্রেক্ষাপট তুলে ধরো।",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): লিপির আবিষ্কার কেন মানব সভ্যতার জন্য গুরুত্বপূর্ণ ছিল?",
+          "ঘ": "(মূল্যায়ন/সৃজন): লিপি তৈরির চিন্তা কিভাবে উদ্ভূত হয়েছিল তা বিস্তারিত বিবৃত করো।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\nলিপির গল্পটি বর্ণনা করে কিভাবে মানুষের কথাকে লিখে বন্দি করার পদ্ধতি আবিষ্কার করা হয়েছিল। এটি একটি কথোপকথনধর্মী রচনা।",
+        "solution": "সমাধান:\n\nপ্রাথমিক পরিকল্পনা (Answer approach):\n- উদ্দীপকটিকে কথোপকথনধর্মী রচনা হিসেবে গ্রহণ করে তার কাহিনি ও উদ্দেশ্য বিশ্লেষণ করব।  \n- প্রতিটি প্রশ্নের জন্য (ক), (খ), (গ), (ঘ) অনুযায়ী সংক্ষিপ্ত কিন্তু منطقی পদক্ষেপে উত্তর দেব: প্রাসঙ্গিক তথ্য তুলে ধরা, কারণ-ফল বিশ্লেষণ এবং উদাহরণ যেখানে দরকার সেখানে দেব।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (জ্ঞানমূলক): লিপি কীভাবে তৈরি হয়েছিল?  \nউত্তর ও ব্যাখ্যা:\n- ধাপ 1: প্রেক্ষাপট শনাক্তকরণ — মানুষের মৌখিক কথোপকথন, স্মৃতি সীমা, অর্গানাইজেশন ও বাণিজ্যের চাহিদা ছিল।  \n- ধাপ 2: পর্যায়ক্রম — প্রথমে পিকটোগ্রাফ (চিত্রচিহ্ন) ব্যবহৃত হয়; পরে সংকেত সহজীকরণ হয়ে আইডিওগ্রাম এবং অবশেষে ধ্বনিগত চিহ্নে পরিণত হয়।  \n- ধাপ 3: উদাহরণ — প্রাচীন মেসোপটেমিয়ায় খামিরের টোকেন ও কিলকিলি চিহ্ন থেকে কিউনিফর্মের বিকাশ; মিশরে চিত্রলিপি (হায়ারোগ্লিফ) যা সময়ে ধ্বনিগত উপাদান গ্রহণ করে।  \n- সারমর্ম: লিপি তৈরির প্রক্রিয়া ধীরে ধীরে মৌখিক তথ্যকে স্থায়ীভাবে ধারণ করার চাহিদা থেকে বিকশিত হয় — সরল চিত্র → প্রতীক → ধ্বনিগত প্রতিনিধিত্ব → নিয়ম ও মানकीকরণ।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (অনুধাবন): শিক্ষক ও শিক্ষার্থীদের আলোচনার মাধ্যমে লিপির আবিষ্কারের প্রেক্ষাপট তুলে ধরো।  \nউত্তর ও ব্যাখ্যা:\n- ধাপ 1: কথোপকথনের শুরুর সেতু — শিক্ষক প্রশ্ন করেন: \"কেন আমাদের কথা মাথায় না রেখে লিখতে হবে?\" শিক্ষার্থী বলে: \"লেনদেন, আইন, স্মরণ রাখার জন্য\"।  \n- ধাপ 2: ধারণার বিকাশ — শিক্ষক দেখান কিভাবে প্রতিদিনের কাজ (জমা-খরচ, ধান-ভাণ্ডার, কর) স্মরণ রাখার জন্য চিহ্ন দরকার; শিক্ষার্থী প্রস্তাব দেয় চিত্রের মাধ্যমে চিহ্নিত করা যায়।  \n- ধাপ 3: পরীক্ষণ ও সংশোধন — তারা প্রাথমিক চিহ্ন তৈরি করে ব্যবহার করে দেখে কোন চিহ্ন সুবিচার করে; শিক্ষক নিয়ম ও মানক করার উপদেশ দেয় (একই চিহ্নের মানে যেন সব ক্ষেত্রে একই থাকে)।  \n- উপসংহার: শিক্ষক-শিক্ষার্থী সংলাপে ব্যবহারিক সমস্যার সমাধান (অর্থনৈতিক, প্রশাসনিক) জেনে চিহ্নগুলো ধাপে ধাপে উন্নত হয়; এই সংলাপ লিপির আবিষ্কারের সামাজিক ও শিক্ষামূলক প্রক্রিয়াকে ফুটিয়ে তোলে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বিশ্লেষণ/প্রয়োগ): লিপির আবিষ্কার কেন মানব সভ্যতার জন্য গুরুত্বপূর্ণ ছিল?  \nউত্তর ও বিশ্লেষণ:\n- ধারাবাহিকতা ও স্মৃতি সংরক্ষণ: লিখন মানুষকে বিচার, আইন, ইতিহাস সংরক্ষণ করতে দিয়েছে — সরকারি দলিল ও আইনের স্থায়িত্ব।  \n- প্রশাসন ও অর্থনীতি: ট্যাক্স, জমির দলিল, বণিকী হিসাব রাখা সহজ হয়; বড় রাষ্ট্র ও বাণিজ্যিক নেটওয়ার্ক চালানো যায়।  \n- জ্ঞান ও সংস্কৃতি সংক্রমণ: জ্ঞান পরবর্তী প্রজন্মে সঠিকভাবে পৌঁছায় — ধর্মগ্রন্থ, বিজ্ঞানী লেখালেখি, সাহিত্যিক রচনাবলী সংরক্ষিত হয়।  \n- প্রযুক্তি ও বিজ্ঞান উন্নয়ন: গণিত, نجومی জ্ঞান ইত্যাদি লিখে রাখলে উন্নতি দ্রুত হয়।  \n- সামাজিক সংগঠন ও আইডেন্টিটি: ভাষা-লিপির মাধ্যমে জাতীয় বা সাংস্কৃতিক পরিচিতি গড়ে ওঠে।  \n- উপস্থাপন (কার্যকরী যুক্তি): প্রতিটি ক্ষেত্রে লিখন ছিল \"স্থায়ী মেমরি\" — মৌখিককে ছাড়িয়ে বৃহৎ জটিলতা ও দায়িত্ব সামলাতে সাহায্য করেছে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মূল্যায়ন/সৃজন): লিপি তৈরির চিন্তা কিভাবে উদ্ভূত হয়েছিল তা বিস্তারিত বিবৃত করো।  \nউত্তর ও যৌক্তিক বিবরণ:\n- কার্যকরী কারণসমূহ (প্রাথমিক চালক):  \n  1) প্রশাসনিক প্রয়োজন — জমি, কর, শ্রমের হিসাব রাখার দাবি।  \n  2) বাণিজ্যিক চাহিদা — দরবারি লেনদেন ও চুক্তি রেকর্ড করা।  \n  3) আইন ও সামাজিক নিয়ম — শাস্তি, চুক্তি, পরিমাণ নির্ধারণে নির্ভুলতা প্রয়োজন।  \n  4) ধর্মীয় ও সাংস্কৃতিক কারনে — প্রার্থনা, বিবরণ, ইতিহাস সংরক্ষণ।  \n- মানসিক ও প্রযুক্তিগত ধাপসমূহ:  \n  1) সমস্যা চিহ্নিতকরণ (কী রেকর্ড করতে হবে)  \n  2) প্রাথমিক সমাধান (চিত্রচিহ্ন) — সহজ, উপলব্ধ ও বোধগম্য।  \n  3) জটিলতা বাড়লে চিহ্ন সংক্ষিপ্ত ও সঙ্কেতাত্মক করা (আইডিওগ্রাম)  \n  4) ধ্বনিগত উপাদান সংযোজন — শব্দের প্রতিনিধি চিহ্ন সৃষ্টি করা (ফোনেটিক লিপি)  \n  5) নিয়মকায়ীকরণ ও শিক্ষা — নির্দিষ্ট লিপি শেখানো ও মান্য করা।  \n- উদাহরণগত বিবেচনা: প্রাচীন বাণিজ্যিক শহরগুলোতে দ্রুত ও নির্ভুল রেকর্ডিং দরকার ছিল, ফলে কাঁচামাটির ট্যাগ/টোকেন থেকে চিহ্নের বিকাশ হয়েছে; শিক্ষক-শিক্ষার্থী সিস্টেম (স্কুল) সেই লিপি প্রচলনে সহায়ক ছিল।  \n- মূল্যায়ন: লিপির চিন্তা শুধুমাত্র প্রযুক্তিগত উদ্ভাবন নয়, বরং সামাজিক চাহিদি, অর্থনৈতিক চাপ এবং শিক্ষামূলক প্রতিষ্ঠানের সমন্বয়ে উদ্ভূত একটি জটিল সামাজিক প্রযুক্তি।  \n\nসংক্ষিপ্ত উপসংহার:\n- লিপি সৃষ্টি ছিল একটি ধাপে ধাপে বিকাশিত সমাধান: মৌখিক সীমাবদ্ধতা ও প্রশাসনিক-অর্থনৈতিক চাহিদি থেকে উদ্ভুত; শিক্ষক-শিক্ষার্থীর সংলাপ ও সামাজিক ব্যবহারের মধ্য দিয়ে মান্য ও প্রচলিত হয়েছে; ফলশ্রুতিতে এটি মানব সভ্যতার তথ্য সঞ্চয়, প্রশাসন ও সংস্কৃতি সংরক্ষণে অপরিহার্য ভূমিকা পালন করেছে।",
+        "chapter_id": "1352",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E এটি জ্ঞানমূলক কারণ—লিপি কীভাবে তৈরি হলো জানতে এখানে সরলতর, উপস্থাপনযোগ্য তথ্য (যেমন কথাকে চিহ্নে রূপান্তর, চিহ্নের ধরণ ও মানকরণ) চাই, যা জ্ঞানভিত্তিক উত্তর দিয়ে সোজা উত্তর দেয়া যায়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E এটি অনুধাবন স্তরের কারণ—শিক্ষক ও শিক্ষার্থীর আলোচনা থেকে প্রেক্ষাপট ও সংযোগ বোঝানো লাগে, অর্থাৎ সংলাপ ও প্রশ্নোত্তরের মাধ্যমে ধারণাগুলো বোঝা ও পুনরাবৃত্তি করা হচ্ছে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এটি বিশ্লেষণ/প্রয়োগ কারণ—লিপির আবিষ্কার কেন গুরুত্বপূর্ণ তা বলতে হলে কারণ–প্রভাব বিশ্লেষণ করে বাস্তব জীবনে কিভাবে ব্যবহার হয়েছে তা দেখাতে হবে (উদাহরণ: ইতিহাস সংরক্ষণ, প্রশাসন, বাণিজ্য)।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E এটি মূল্যায়ন/সৃজন কারণ—লিপি তৈরির চিন্তার উত্স কিভাবে উদ্ভূত হলো তা ব্যাখ্যা করতে হলে বিভিন্ন সম্ভাব্য কারণ তুলনা করে বিচার এবং সৃজনশীল অনুমান বা ব্যাখ্যা দেয়া প্রয়োজন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-16T03:53:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105035,
+      "value": {
+        "options": {
+          "a": "গল্প বলে",
+          "b": "মানুষের চিন্তার ফল",
+          "c": "শুধু কাগজে লেখা",
+          "d": "শব্দের প্রতীক"
+        },
+        "question": "লিপির আবিষ্কার সম্পর্কে শিক্ষক কী বলেছেন?",
+        "solution": "সমাধান:\nধাপ ১: বিকল্পগুলো পড়ে তাদের অর্থ যাচাই করি — \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E “মানুষের চিন্তার ফল” বলছে লিপি হলো মানুষের চিন্তার বহিঃপ্রকাশ।  \nধাপ ২: শিক্ষক যে বক্তব্যটি বলেছেন তা লিপিকে মানসিক ও সাংস্কৃতিক উদ্ভাবন হিসেবে বোঝায়, যা সরাসরি \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E-এর সঙ্গে মেলে।  \nধাপ ৩: অন্য বিকল্পগুলোর ত্রুটি সংক্ষেপে— \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E শুধুমাত্র গল্প বলা বোঝায় (উচ্চারণভিত্তিক), \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E “শুধু কাগজে লেখা” সীমাবদ্ধ ধারণা (লিপি শুধু কাগজে নয়), এবং \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E “শব্দের প্রতীক” আংশিকভাবে সত্য হলেও শিক্ষক মূলত লিপিকে চিন্তার ফল হিসেবে উল্লেখ করেছেন।  \nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E.",
+        "chapter_id": "1352",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-16T03:52:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105036,
+      "value": {
+        "options": {
+          "a": "শাব্দিক নিদর্শন",
+          "b": "কথাকে বন্দি করা",
+          "c": "শিল্পকলার উদ্ভাবন",
+          "d": "মানুষের সহজাত প্রবৃত্তি"
+        },
+        "question": "লিপির আবিষ্কারের পিছনে শিক্ষক কী ব্যাখ্যা দিয়েছিলেন?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নের বক্তব্য বিশ্লেষণ করলে দেখা যায় শিক্ষক লিপির মূল উদ্দেশ্য হিসেবে কথাকে স্থায়ীভাবে ধরে রাখার কথা বলেছেন।  \nStep 2: এই ব্যাখ্যার সাথে সঙ্গতিপূর্ণ বিকল্প হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E: কথাকে বন্দি করা। তাই সেটিই সঠিক উত্তর।  \nStep 3: অন্যান্য বিকল্পগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (শাব্দিক নিদর্শন) শুধুই শব্দ-নির্দেশক, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (শিল্পকলার উদ্ভাবন) এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মানুষের সহজাত প্রবৃত্তি) লিপির উদ্দেশ্য হিসেবে প্রধান ব্যাখ্যা প্রদান করে না।",
+        "chapter_id": "1352",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-16T03:52:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56710,
+      "value": {
+        "options": {
+          "a": "গল্প পড়তে হবে",
+          "b": "গল্প শুনতে হবে",
+          "c": "কাজ করতে হবে",
+          "d": "শুনতে হবে"
+        },
+        "question": "গল্প লেখার জন্য কি করতে হয়?",
+        "solution": "সমাধান: গল্প লেখার জন্য পাঠ্য আহরণ এবং রচনা শৈলী শেখা জরুরি, তাই সবচেয়ে প্রয়োজনে হলো গল্প পড়া। \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E গল্প পড়তে হবে — পড়ার মাধ্যমে শব্দভাণ্ডার, কাহিনি গঠন ও চরিত্র রচনা শেখা যায়, যা গল্প লেখায় সরাসরি কাজে লাগে। অন্যগুলো: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (গল্প শুনতে হবে) সহায়ক হলেও প্রধান নয়, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (কাজ করতে হবে) ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (শুনতে হবে) প্রশ্নের সরাসরি উত্তর দেয় না; তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E.",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56711,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "লিপি মানে লেখা।",
+        "solution": "সমাধান:\nলিপি শব্দের সাধারণ অর্থ হল লেখা অথবা ভাষা প্রকাশের জন্য ব্যবহৃত চিহ্ন ও প্রতীকপঞ্জি। তাই বলা যায় লিপি মানে লেখা—এটি সঠিক বিবৃতি। অপশন \u003Cb\u003Eb\u003C/b\u003E (False) ভুল কারণ লিপি লিখিত ভাষা বা লেখা নির্দেশ করে, তাই সঠিক উত্তর হলো \u003Cb\u003Ea\u003C/b\u003E (True)।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56712,
+      "value": {
+        "options": {
+          "a": "বেঙ্গলি",
+          "b": "বাংলা",
+          "c": "ভারত",
+          "d": "মুঘল"
+        },
+        "question": "রাজা গণেশের আমলে __________ মুদ্লা বেঙ্গল ছিল।",
+        "solution": "সমাধান:\nধাপ ১: রাজা গণেশ (মধ্য ১৫শ শতকের) ছিলেন বঙ্গ অঞ্চলের স্থানীয় শাসক; তাঁর শাসনকর্ম প্রধানত বর্তমান বাংলা অঞ্চলে সীমাবদ্ধ ছিল।  \nধাপ ২: তাই বাক্যটিতে যে শব্দটি অঞ্চলের নাম হিসেবে সঠিক সেটি হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"বাংলা\" — অতএব সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E।  \nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \"বেঙ্গলি\" শব্দটি মানুষ বা ভাষার স্বরূপ (Bengali), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E \"ভারত\" পুরো উপমহাদেশকে বোঝায় যা খুব বিস্তৃত, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E \"মুঘল\" ছিল এক আলাদা শাসন সংগ্রহ; তাই রাজনৈতিক/ভৌগোলিক সঠিক নাম হচ্ছে \"বাংলা\"।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56713,
+      "value": {
+        "options": [],
+        "question": "লিপি কিভাবে আবিষ্কৃত হয়েছিল?",
+        "solution": "সমাধান:\n1. লিপি আবিষ্কার বা ডিকোড করার সাধারণ পদ্ধতি হলো প্রথমে লেখার নিদর্শন সংগ্রহ করা এবং পুনরাবৃত্তি হওয়া চিহ্ন ও সূত্রগুলো শনাক্ত করা।  \n2. তারপর দুইভাষিক বা পরিচিত ভাষার তুলনায় (যেমন রোজেটা স্টোনের মতো) কিছু শব্দ/নাম মিলিয়ে প্রতীকগুলোর ধ্বন্যমান বা অর্থ নির্ধারণের অনুমান করা হয় এবং পরীক্ষা করা হয়।  \n3. পরীক্ষার ভিত্তিতে প্রতীকগুলোর কাজ—ধ্বনি নির্দেশক, স্বরবর্ণ বা সিলেবিক ইত্যাদি—কীভাবে কাজ করে তা জানাই লিপি বুঝতে সবচেয়ে জরুরি; তাই “লিপি কিভাবে কাজ করে তা জানতে হয়” এই উত্তরটি সঠিক।  \n4. অন্যান্য বিকল্পগুলি কেবল চিহ্ন দেখা বা নকল করার কথা বললে তা পর্যাপ্ত নয়, কারণ লিপি আবিষ্কার মানে তার কার্যপদ্ধতি ও মানে নির্ণয় করা।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "লিপি কিভাবে কাজ করে তা জানতে হয়।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56714,
+      "value": {
+        "options": {
+          "a": "জল",
+          "b": "লিপি",
+          "c": "গল্প",
+          "d": "ভাষা"
+        },
+        "question": "লেখার ইতিহাসের মূল বিষয় কি?",
+        "solution": "সমাধান: প্রশ্নে 'লেখার ইতিহাস' বলতে লিপির উদ্ভব, বিকাশ, রূপান্তর ও ব্যবহারের ক্রম বা অধ্যয়ন বোঝায়। তাই ধাপে ধাপে বিচার করলে মূল বিষয় হলো লিপি — এটি কীভাবে তৈরী হয়েছে এবং কিভাবে ব্যবহার হয়েছে তা নির্ণয় করে। অন্যান্য বিকল্পগুলো ভুল কারণ 'জল' (a) অপ্রাসঙ্গিক, 'গল্প' (c) লেখার বিষয়বস্তুকে নির্দেশ করে না, এবং 'ভাষা' (d) যদিও সম্পর্কিত, লেখার ইতিহাস বিশেষভাবে লিপি ও চিহ্ন ব্যবস্থার ওপর কেন্দ্রীভূত। তাই সঠিক উত্তর: b — লিপি।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56715,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মানুষ প্রথমে গল্প বানাত না।",
+        "solution": "সমাধান:\n1) প্রথমে বক্তব্যটির অর্থ বোঝা: \"মানুষ প্রথমে গল্প বানাত না\" বলে মনে করা হচ্ছে যে প্রাচীন মানুষেরা গল্প তৈরি করতেন না।  \n2) কারণ ও যুক্তি: মানব সমাজে কল্পনা ও কাহিনী বলার কাজ প্রাচীন কালের থেকেই আছে — গল্প মানুষকে শিক্ষিত, সংস্কৃতি সংরক্ষণ ও সমাজে সম্পর্ক গঠনে সাহায্য করেছে; তাই এটি একটি ঐতিহ্যগত আচরণ।  \n3) সিদ্ধান্ত: উক্তিটি মিথ্যা, সুতরাং সঠিক উত্তর হলো b (False)। অন্য বিকল্প a (True) ভুল কারণ ইতিহাস ও নৃবিজ্ঞানী প্রমাণ অনুসারে মানুষ আগে থেকেই গল্প বানাত।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56716,
+      "value": {
+        "options": {
+          "a": "পাঠ্যবই",
+          "b": "গান",
+          "c": "উপন্যাস",
+          "d": "কবিতা"
+        },
+        "question": "শিক্ষক বলেছেন, গল্প বানানোর জন্য __________ পড়তে হবে।",
+        "solution": "সমাধান: শিক্ষক বলেছেন গল্প বানানোর জন্য এমন কিছু পড়তে হবে যা গল্প সম্পর্কে ধারণা, ভাষা ও চরিত্রর নির্মাণ শেখায়; এই দিক থেকে স্কুলস্তরের উপকরণ হিসেবে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E্য—পাঠ্যবই (option a) সঠিক। কারণ পাঠ্যবইতে সংক্ষিপ্ত গল্প, গল্পরীতি ও বাক্যগঠন থাকে যা গল্প রচনায় সরাসরি সহায়ক। অন্য অপশনগুলো—গান এবং কবিতা (b, d) সাধারণত লিরিক্যাল ও ছন্দময় হওয়ায় সরাসরি কাহিনি গঠন শেখায় না, এবং উপন্যাস (c) দীর্ঘ বর্ণনার জন্য ভালো হলেও প্রশ্নের প্রাসঙ্গিকতা অনুযায়ী সরাসরি প্রস্তাবিত সঠিক উত্তর হল পাঠ্যবই (a)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56717,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন লিপি থেকে বাংলা লিপি কিভাবে এসেছে?",
+        "solution": "সমাধান: বাংলা লিপির ইতিহাস ধাপে ধাপে বিশ্লেষণ করলে দেখা যায় যে তা সরাসরি প্রাচীন ব্রাহ্মী লিপির ধারাবাহিক বিবর্তনের ফল। প্রথমে ব্রাহ্মী লিপি থেকে গুপ্ত লিপি ও পরে সিদ্ধাম ও গৌড়ী্য লিপি যেমন আকার পরিবর্তন এলো, সেগুলো স্থানীয়ভিত্তিতে পরিবর্তিত হয়ে মধ্যযুগে বাংলা-অসমীয়া লিপিতে রূপ নেয়। তাই মূল উৎস হিসেবে প্রাচীন ব্রাহ্মী লিপিকেই ধরা হয়, অন্য সম্ভাব্য উত্তরগুলো (যেমন আরবি বা ল্যাটিন) ঐতিহাসিক ও লিপ্যন্তরগত সূত্রে সম্পর্কহীন—সুতরাং সঠিক উত্তর: প্রাচীন ব্রাহ্মী লিপি থেকে এসেছে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "প্রাচীন ব্রাহ্মী লিপি থেকে এসেছে।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56718,
+      "value": {
+        "options": {
+          "a": "রাজা সে জং",
+          "b": "রাজা জন",
+          "c": "এক ধর্মযাজক",
+          "d": "তিনজন"
+        },
+        "question": "লিপির আবিষ্কারকদের মধ্যে কে পরিচিত?",
+        "solution": "সমাধান: লিপির আবিষ্কারকদের মধ্যে পরিচিত ব্যক্তি হলো রাজা সে জং।  \nকারণ ও ধাপগুলো: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E রাজা সে জং ১৫শ শতকে কোরিয়ান হাঙ্গুল লিপি প্রণয়ন করেছিলেন এবং ঐতিহাসিক সূত্র ও রাজকীয় দস্তাবেজ এ তথ্য নিশ্চিত করে। অন্য বিকল্পগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E রাজা জন কোনো প্রামাণ্যে লিপি আবিষ্কারক হিসেবে নেই, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E একজন ধর্মযাজক বা \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E তিনজন—এই দাবিগুলো ঐতিহাসিক রেকর্ডে সমর্থিত নয়। তাই সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56719,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "লিপি তৈরির চিন্তা ভুলে যাওয়ার বিপদ থেকে বাঁচার জন্য নয়।",
+        "solution": "সমাধান: বিবৃতিটি বলে যে \"লিপি তৈরির চিন্তা ভুলে যাওয়ার বিপদ থেকে বাঁচার জন্য নয়\", যা বাস্তবে ভুল। লিপি বা নোট তৈরির মূল উদ্দেশ্যগুলোর মধ্যে একটি হল তথ্য স্মরণে রাখা ও ভুলে যাওয়া থেকে রক্ষা করা, সুতরাং উক্ত বক্তব্যটি ভুল। তাই সঠিক উত্তর হচ্ছে b (False), আর a (True) ভুল কারণ এটি বাস্তব উদ্দেশ্যের বিপরীত দাবি করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56720,
+      "value": {
+        "options": {
+          "a": "লিপি",
+          "b": "কথা",
+          "c": "গল্প",
+          "d": "ভাষা"
+        },
+        "question": "মানুষের সভ্যতার নতুন যাত্রা শুরু হয়েছিল __________।",
+        "solution": "সমাধান:\nলিপি ছিল মানবসভ্যতার নতুন যাত্রার সূচনাকারী কারণ লিপি দিয়ে স্থায়ীভাবে তথ্য সংরক্ষণ, আইন-ব্যবস্থা, প্রশাসন ও ইতিহাস রচনা সম্ভব হয় — যা জটিল রাষ্ট্র ও সভ্যতা গঠনের জন্য অপরিহার্য। \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E লিপি এই পরিবর্তনের প্রযুক্তিগত ও সাংস্কৃতিক ভিত্তি গড়েছে; অন্যদিকে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কথা এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ভাষা ইতোমধ্যে মৌখিকভাবে বিদ্যমান ছিল এবং \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গল্প সাংস্কৃতিক প্রকাশ, কিন্তু এগুলোই স্বতঃসিদ্ধভাবে নতুন সভ্যতার সংগঠক হিসেবে লিপির মতো কার্যকরী নয়। তাই সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (লিপি)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56721,
+      "value": {
+        "options": [],
+        "question": "গল্প গল্পকারী এবং গল্প শুনে বড় হয়ে কি ঘটে?",
+        "solution": "সমাধান:\n1. পর্যবেক্ষণ: গল্প বলা ও শোনা শিশুর কল্পনা ও সৃজনশীলতা জাগিয়ে তোলে।  \n2. বিশ্লেষণ: বারবার গল্প শোনার ফলে শিশুরা নতুন ধারণা, চরিত্র ও ঘটনার ধারনা তৈরি করে।  \n3. উপসংহার: তাই গল্প বলার মাধ্যমে বড় হয়ে ছোটোরা নিজেদের গল্প বানায় — এটিই সঠিক উত্তর।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ছোটোরা নিজেদের গল্প বানায়।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56722,
+      "value": {
+        "options": {
+          "a": "কথা",
+          "b": "বর্ণ",
+          "c": "শব্দ",
+          "d": "রচনা"
+        },
+        "question": "লিপির অন্য নাম কি?",
+        "solution": "সমাধান: \"লিপি\" হলো লেখার জন্য ব্যবহৃত বর্ণসমূহের מערכת — অর্থাৎ চিহ্ন বা বর্ণের সেট যেগুলো দিয়ে শব্দ ও বাক্য লেখা হয়। তাই লিপির অন্য নাম সবচেয়ে সঠিকভাবে \u003Cb\u003Eবর্ণ\u003C/b\u003E (option b) হওয়া উচিত। অন্য অপশনগুলো ভুল কারণ \"কথা\" মৌখিক প্রকাশ, \"শব্দ\" ধ্বনি/বিবৃত্তি, আর \"রচনা\" হলো লেখার কাজ বা সাহিত্যিক সৃষ্টি।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56723,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "লিপি আবিষ্কারের ইতিহাস সঠিকভাবে জানা যায় নি।",
+        "solution": "সমাধান:\n1. প্রশ্নের অর্থ স্পষ্ট করা: বক্তব্যটি বলছে লিপি (সাক্ষর--লেখার ব্যবস্থার) আবিষ্কার কখন এবং কার দ্বারা সঠিকভাবে জানা যায়নি।  \n2. পর্যালোচনা: প্রত্নতাত্ত্বিক ও ভাষাতাত্ত্বিক তথ্য থেকে আমরা প্রাচীন লিপিগুলোর আনুমানিক সময় ও বিকাশের ধাপ জানি (যেমন মেসোপটেমিয়ার কিউনিফর্ম, মিশরের হায়ারোগ্লিফ), কিন্তু নির্দিষ্টভাবে কোনো একজন আবিষ্কারক বা নির্দিষ্ট এক মুহূর্ত উন্মোচিত করা সম্ভব হয়নি। তদুপরি, লিপির উত্স অনেক ক্ষেত্রেই ধাপে ধাপে বিকশিত হওয়ায় সঠিকভাবে \"আবিষ্কার\" বলা কঠিন।  \n3. সিদ্ধান্ত: উপরিউক্ত কারণে বিবৃতিটি সঠিক — উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (True)।  \n4. কেন \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভুল: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বলবে ইতিহাস সঠিকভাবে জানা যায়, যা বাস্তবে প্রমাণিত নেই; আমরা কেবল আনুমানিক সময় ও বিকাশের বিকল্প ব্যাখ্যা পেয়েছি, পূর্ণ নিশ্চিত তথ্য নেই।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56724,
+      "value": {
+        "options": {
+          "a": "বড়",
+          "b": "ছোট",
+          "c": "বুদ্ধিমান",
+          "d": "জ্ঞানী"
+        },
+        "question": "লিপি সম্পর্কে আরও জানার জন্য __________ হতে হবে।",
+        "solution": "সমাধান:\nপ্রশ্নটির অর্থ বিশ্লেষণ করলে বোঝা যায়—\"লিপি সম্পর্কে আরও জানার জন্য\" কাউকে অভিজ্ঞ বা বেশি সময় ধরে লিপির সঙ্গে পরিচিত হওয়া জরুরি, তাই উপযুক্ত শব্দটি হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বড় (বড়)। \n\nকারণ: বড় হওয়া মানে সাধারণত বেশি অভিজ্ঞতা বা দীর্ঘকালীন পরিচয়, যা লিপি সম্পর্কে গভীর জ্ঞান অর্জনে সহায়ক। অন্য বিকল্পগুলো সঠিক নয় কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ছোট বিপরীত অর্থ বহন করে; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বুদ্ধিমান ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E জ্ঞানী মানে ব্যক্তির মানসিক গুণ বা ইতিমধ্যেই বিদ্যমান জ্ঞান, কিন্তু এখানে প্রাসঙ্গিকতা অনুযায়ী সঠিক উত্তর হিসেবে প্রদত্ত শব্দটি হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বড়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56725,
+      "value": {
+        "options": [],
+        "question": "লিপির তৈরি চিন্তা সামাজিকতার জন্য কি গুরুত্বপূর্ণ?",
+        "solution": "সমাধান:  \nধাপ ১: লিপি বা লেখার মূল কার্যক্রম হলো ভাবনা, তথ্য এবং জ্ঞানের স্থায়ী রেকর্ড বা সংরক্ষণ করা — ফলে জ্ঞান সময় ও স্থান-পার করে অটুট থাকে।  \nধাপ ২: সামাজিকতার জন্য লিপি গুরুত্বপূর্ণ কারণ এটি সাংগঠনিক স্মৃতি, আইন-বিধান, ধর্মীয় ও সাংস্কৃতিক বিবরণ ইত্যাদি দীর্ঘকাল ধরে সংরক্ষণ ও ধারাবাহিকতা নিশ্চিত করে, ফলে সমাজের সমন্বয় ও পরিচয় রক্ষা পায়।  \nধাপ ৩: অন্য বিকল্পগুলি (যেমন মুখে যোগাযোগ বা সাময়িক সংযোগ) উপকারী হলেও সেগুলো সময়সীমিত; তাই মূল কারনে—বিষয়বস্তু সংরক্ষণ—ই লিপির সবচেয়ে সরাসরি ও গুরুত্বপূর্ণ সামাজিক ভূমিকা।  \n\nসুতরাং সঠিক উত্তর: বিষয়বস্তু সংরক্ষণের জন্য।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বিষয়বস্তু সংরক্ষণের জন্য।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56726,
+      "value": {
+        "options": {
+          "a": "বর্ণমালা",
+          "b": "কলম",
+          "c": "পেন",
+          "d": "ঠিকানা"
+        },
+        "question": "লিপির জন্য লেখার প্রাথমিক প্রয়োজন কি ছিল?",
+        "solution": "সমাধান:\nলিখন বা লিপির প্রধান প্রয়োজন হল ধাঁধাঁ (symbols)-এর একটি সুশৃঙ্খল সেট যা ভাষার শব্দ ও ধ্বনিকে চিত্রিত করে; এটিই হল বর্ণমালা। কলম বা পেন কেবল লেখার উপকরণ, আর ঠিকানা কোনো লিপির মৌলিক উপাদান নয়। তাই সঠিক উত্তর: a: বর্ণমালা।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56727,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মানুষ কথাকে রেখার বন্ধনে আটকাতে শিখেনি।",
+        "solution": "সমাধান:\n1. গবষণা ও ভাষা ইতিহাস থেকে বোঝা যায় মানুষ কথাকে লিখনায় রূপান্তর করতে শিখেছে — লিপি, ছাপা বই ও ডিজিটাল টেক্সটের মাধ্যমে কথাকে রেখার (লেখার) মধ্যে আটকানো সম্ভব হয়েছে।  \n2. ফলে মূল বিবৃতিটি — “মানুষ কথাকে রেখার বন্ধনে আটকাতে শিখেনি” — সত্য না, বরং মিথ্যা।  \n3. অতএব সঠিক উত্তর: b (False)। True বিকল্পটি ভুল, কারণ বাস্তবে মানুষ কথাকে লেখার মাধ্যমে রেখায় স্থানান্তর করতে শিখেছে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56728,
+      "value": {
+        "options": {
+          "a": "লেখার পদ্ধতি",
+          "b": "শব্দ",
+          "c": "ছবি",
+          "d": "গান"
+        },
+        "question": "লিপি আসলে __________।",
+        "solution": "সমাধান:\nধাপ ১: \"লিপি\" শব্দের সহজতম অর্থ হলো কোনও ভাষা লেখার পদ্ধতি বা লেখন শৈলি—অর্থাৎ চিহ্ন বা অক্ষরের ব্যবস্থা যার মাধ্যমে ভাষা লিখিতভাবে প্রকাশ করা হয়।  \nধাপ ২: উল্লিখিত অপশনগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \"লেখার পদ্ধতি\" এই সংজ্ঞার সাথে মিলছে, তাই এটি সঠিক উত্তর।  \nধাপ ৩: অন্য অপশনগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শব্দ একটি মৌখিক বা লিখিত একক শব্দ, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ছবি এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গান—এসব লিপির সার্বিক সংজ্ঞা প্রদর্শন করে না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56729,
+      "value": {
+        "options": [],
+        "question": "গল্প বলা এবং শুনার গুরুত্ব কি?",
+        "solution": "সমাধান:\n\nধাপ ১: গল্প বলার প্রধান কার্যগুলো চিন্হিত করা—মানবিক মূল্যবোধ ও ইতিহাস সংরক্ষণ, ভাষা ও যোগাযোগ দক্ষতা উন্নয়ন, বিনোদন ও নৈতিক শিক্ষা।  \nধাপ ২: প্রতিটি কার্যকে প্রশ্নের উদ্দেশ্যের সঙ্গে মিলিয়ে দেখা—\"গুরুত্ব\" বলতে সাধারণত যে কাজটি সমাজ বা সংস্কৃতির টেকসই রক্ষায় সবচেয়ে বেশি ভূমিকা রাখে তা বোঝায়।  \nধাপ ৩: গল্পগুলো প্রজন্ম পরপ্রজন্মে রীতি-নীতি, ইতিহাস, মূল্যবোধ ও সাম্প্রদায়িক স্মৃতি পৌঁছে দেয়; তাই গল্প বলা ও শোনা সবচেয়ে মূলত সাংস্কৃতিক ধারাবাহিকতা নিশ্চিত করে।  \n\nব্যাখ্যা: অন্যান্য সুবিধা (বিনোদন, ভাষা বিকাশ, নৈতিক শিক্ষা) সঠিক হলেও সেগুলি গল্পের উপকারিতার অংশ; প্রশ্নে দেওয়া সঠিক উত্তর—\"এটি সাংস্কৃতিক ধারাবাহিকতা তৈরি করে\"—সবচেয়ে মৌলিক গুরুত্ব নির্দেশ করে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "এটি সাংস্কৃতিক ধারাবাহিকতা তৈরি করে।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56730,
+      "value": {
+        "options": {
+          "a": "কল্পনা",
+          "b": "বিষয়",
+          "c": "গবেষণা",
+          "d": "কলম"
+        },
+        "question": "গল্প তৈরির জন্য কোনটি প্রয়োজন?",
+        "solution": "সমাধান:\nধাপ 1: গল্প তৈরির মূল উপাদান হল নতুন ধারণা, চরিত্র এবং ঘটনা সাজানো—এগুলো আসে কল্পনার মধ্য থেকেই।  \nধাপ 2: তাই গল্প বানাতে সবচেয়ে প্রয়োজন কল্পনা, কারণ বিষয়, গবেষণা বা কলম সাহায্য করে কিন্তু কল্পনা ছাড়া নতুন গল্প গঠিত হয় না।  \nধাপ 3: অতএব সঠিক উত্তর: a — কল্পনা।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56731,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মিশরীয় লিপির নমুনা পাওয়া গেছে।",
+        "solution": "সমাধান: হ্যাঁ—এটি সত্য। প্রাচীন মিশরের বিভিন্ন স্থলকর্ম ও সমাধি, মন্দির এবং রোদেস্টোন ও পিরামিডের দেয়ালে মিশরীয় লিপির প্রকৃত নমুনা খুঁজে পাওয়া গেছে, তাই উক্ত বিবৃতি বৈজ্ঞানিক ও প্রত্নতাত্ত্বিক প্রমাণ দ্বারা সমর্থিত। বিকল্প (b) ভুল কারণ মিশরীয় লিপির নমুনা বাস্তবে বহু প্রত্নতাত্ত্বিক আবিষ্কারের মাধ্যমে প্রতিষ্ঠিত।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56732,
+      "value": {
+        "options": {
+          "a": "না",
+          "b": "বলেছিল",
+          "c": "পেয়েছিল",
+          "d": "শিখেছিল"
+        },
+        "question": "লোকজন লিখতে ও পড়তে __________ জানত।",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ:\n1. বাক্যটি: \"লোকজন লিখতে ও পড়তে __________ জানত।\" — এখানে ক্রিয়ার আগে কোনো শব্দ বসে বাক্যটির অর্থ সম্পূর্ণ করতে হবে; সাধারণত এমন বাক্যে নেতিবাচক বা ক্রিয়ার স্বরূপ একটি উপযুক্ত শব্দ লাগে।\n2. বিকল্পগুলোর অর্থ ও ব্যাকরণ যাচাই:\n   - \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E না — বাক্যটি হবে \"লোকজন লিখতে ও পড়তে না জানত।\" অর্থাৎ তারা লিখতে ও পড়তে অক্ষম ছিল; বাংলা ভাষায় এই রকম নেতিবাচক রূপ স্বাভাবিক ও সঙ্গতিপূর্ণ।\n   - \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বলেছিল — \"বলেছিল জানত\" মিলবে না; দ্বৈত ক্রিয়া হয়ে বাক্যটি অস্বাভাবিক হয়।\n   - \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পেয়েছিল — \"পেয়েছিল জানত\" অর্থগত ও ব্যাকরণগতভাবে সঠিক নয়।\n   - \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E শিখেছিল — \"শিখেছিল জানত\" দ্বৈত ক্রিয়া এবং তর্কসাপেক্ষ; অর্থ পরিবর্তিত করে।\n3. সিদ্ধান্ত: উপযুক্ত ও স্বাভাবিক অর্থ দেওয়ায় সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56733,
+      "value": {
+        "options": [],
+        "question": "লিপি তৈরির চিন্তা কিভাবে এসেছে?",
+        "solution": "সমাধান:\n১) প্রাথমিক মানুষের মৌখিক স্মৃতি ও কথা সময়ে সময়ে ভুলে যাওয়ার ঝুঁকিতে ছিল।  \n২) গুরুত্বপূর্ণ তথ্য — আইন, ইতিহাস, গণনা ও বাণিজ্যিক লেনদেন — ধারাবাহিকভাবে সঠিকভাবে সংরক্ষণ করার দরকার ছিল।  \n৩) তাই তারা স্থায়ী রেকর্ড রাখার উপায় হিসেবে লিপি (লেখন) আবিষ্কার করলো যাতে ভুলে যাওয়ার বিপদ এড়ানো যায়। ফলে সঠিক উত্তর: ভুলে যাওয়ার বিপদ থেকে বাঁচার জন্য।  \n\nঅন্য বিকল্পগুলো (যেমন কেবল যোগাযোগ বা শোভাকরনের জন্য) সম্ভবত ভূমিকা রাখে, কিন্তু মূল প্রণোদনা ছিল জ্ঞানের স্থায়ী সংরক্ষণ—ভুলে যাওয়া থেকে রক্ষা।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ভুলে যাওয়ার বিপদ থেকে বাঁচার জন্য।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7386,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7386&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7386&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7386&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 126,
+  "total": 126
+}

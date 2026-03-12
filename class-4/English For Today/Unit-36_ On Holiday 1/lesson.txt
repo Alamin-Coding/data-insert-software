@@ -1,0 +1,761 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 742612,
+      "value": {
+        "options": [],
+        "question": "He _____ (be) starting his new job on Monday.",
+        "solution": "is",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742622,
+      "value": {
+        "options": [],
+        "question": "Sure",
+        "solution": "completely confident that one is right",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742621,
+      "value": {
+        "options": [],
+        "question": "You _____ (be) traveling to Paris next month.",
+        "solution": "are",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742620,
+      "value": {
+        "options": [],
+        "question": "We are _____ (go) to Cox's Bazar on next month.",
+        "solution": "going",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742619,
+      "value": {
+        "options": [],
+        "question": "a) Hi, moloy. How is everything\u003Cbr\u003E\nb) im going on a holiday with my family.\u003Cbr\u003E\nc) were going to Cox's bazar.\u003Cbr\u003E\nd) Is tania going to Cox's Bazar\u003Cbr\u003E\ne) Who may go to lalmonirhat",
+        "solution": "a) Hi, Moloy. How is everything?\u003Cbr /\u003E\nb) I&#39;m going on a holiday with my family.\u003Cbr /\u003E\nc) We&#39;re going to Cox&#39;s Bazar.\u003Cbr /\u003E\nd) Is Tania going to Cox&#39;s Bazar?\u003Cbr /\u003E\ne) Who may go to Lalmonirhat?",
+        "correct_answer": null
+      },
+      "question_type_id": 19,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742618,
+      "value": {
+        "options": [],
+        "question": "Family",
+        "solution": "Parents and their children",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742617,
+      "value": {
+        "options": [],
+        "question": "We are _____ (have) a party next Saturday.",
+        "solution": "having",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742616,
+      "value": {
+        "options": [],
+        "question": "She isn't _____ (visit) her grandparents next weekend.",
+        "solution": "visiting",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742615,
+      "value": {
+        "options": [],
+        "question": ": Where are you going\u003Cbr\u003E\n: Were going to Coxs bazar and you\u003Cbr\u003E\n: Im not sure We may go to our village home lalmonirhat.",
+        "solution": ": Where are you going?\u003Cbr /\u003E\n: We&#39;re going to Cox&#39;s Bazar. And you?\u003Cbr /\u003E\n: I&#39;m not sure. We may go to our village home Lalmonirhat.",
+        "correct_answer": null
+      },
+      "question_type_id": 19,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742614,
+      "value": {
+        "options": [],
+        "question": "Holiday",
+        "solution": "a day of festivity when no formal work is done",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742613,
+      "value": {
+        "options": [],
+        "question": "Pair work",
+        "solution": "work done by two person",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742601,
+      "value": {
+        "options": [],
+        "question": "Exam",
+        "solution": "Test",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742611,
+      "value": {
+        "options": [],
+        "question": "They are _____ (go) to the cinema this evening.",
+        "solution": "going",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742610,
+      "value": {
+        "options": [],
+        "question": "I _____ (be) meeting my friends tomorrow.",
+        "solution": "am",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742609,
+      "value": {
+        "options": [],
+        "question": "She isn't _____ (go) on holiday next week.",
+        "solution": "going",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742608,
+      "value": {
+        "options": [],
+        "question": "We may _____ (go) to our village home.",
+        "solution": "go",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742607,
+      "value": {
+        "options": [],
+        "question": "I _____ (be) going on a holiday with my family.",
+        "solution": "am",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742606,
+      "value": {
+        "options": [],
+        "question": "Bad",
+        "solution": "of poor quality",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742605,
+      "value": {
+        "options": [],
+        "question": "Continuous",
+        "solution": "without interruption",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742604,
+      "value": {
+        "options": [],
+        "question": "Sure",
+        "solution": "Certainly",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742603,
+      "value": {
+        "options": [],
+        "question": "Go",
+        "solution": "To travel",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742602,
+      "value": {
+        "options": [],
+        "question": "Holiday",
+        "solution": "Weekend",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7323,
+      "created_at": "2025-11-27T05:59:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7323&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7323&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7323&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 22,
+  "total": 22
+}

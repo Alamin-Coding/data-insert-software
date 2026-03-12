@@ -1,0 +1,878 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 57236,
+      "value": {
+        "options": [],
+        "question": "বাড়ির পরিবেশ কেন পরিষ্কার রাখা উচিত?",
+        "solution": "সমাধান:\n1. বিশ্লেষণ: ময়লা ও নোংরা পরিবেশে ব্যাকটেরিয়া, ভাইরাস, পোকামাকড় ও ছত্রাক বেড়ে ওঠে যা সংক্রমণ ও বিভিন্ন রোগের কারণ হয়ে থাকে।  \n2. কারণ-ফল: এসব রোগ ও অ্যালার্জি পরিবারের সদস্যদের শারীরিক ক্ষতিসাধন করে এবং অসুস্থতার সম্ভাবনা বাড়ায়।  \n3. উপসংহার: তাই বাড়ি পরিষ্কার রাখতে হবে যাতে রোগজীবাণু নিয়ন্ত্রণে থাকে এবং সুস্থতা বজায় থাকে—এটি মূল কারণ।  \n4. অন্যান্য সম্ভাব্য কারণ (যেমন বাড়ি সুন্দর দেখানো বা গন্ধ কমানো) আংশিকভাবে সত্য হলেও, প্রধান ও সবচেয়ে জরুরি কারণ হলো স্বাস্থ্য রক্ষা।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "কারণ ময়লা পরিবেশ শরীরকে ক্ষতি করে এবং অসুস্থতার সম্ভাবনা বাড়ায়।"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57246,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "যোগব্যায়াম সমস্ত রোগ প্রতিরোধ করে।",
+        "solution": "সমাধান:\n1. যোগব্যায়াম শারীরিক ফিটনেস, মানসিক স্থিতিশীলতা এবং সাধারণ রোগপ্রতিরোধ ক্ষমতা বাড়াতে সাহায্য করে।  \n2. তবুও কোনো একক কার্যক্রম—যেমন যোগ—সমস্ত রোগ (উদাহরণস্বরূপ জন্মগত ব্যাধি, কিছু সংক্রামক রোগ যেগুলো টিকা বা ওষুধ ছাড়া প্রতিরোধ/চিকিৎসাযোগ্য নয় ইত্যাদি) সম্পূর্ণরূপে প্রতিরোধ করতে পারে না।  \n3. তাই বিবৃতি \"যোগব্যায়াম সমস্ত রোগ প্রতিরোধ করে\" ভুল; সঠিক উত্তর হল b (False)।  \nঅপশন a (True) ভুল কারণ এটি অতিরঞ্জিত সাধারণীকরণ করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57245,
+      "value": {
+        "options": {
+          "a": "শরীরের স্বাস্থ্যের উন্নতি",
+          "b": "অথিতি বৃদ্ধি",
+          "c": "বিবেকহীনতা",
+          "d": "শুধু শান্তি"
+        },
+        "question": "যোগব্যায়ামের ফলাফল কি?",
+        "solution": "সমাধান:\nধাপে ধাপে চিন্তা করলে দেখা যায় যোগব্যায়াম শারীরিক ও মানসিক উপকার করে; তাই সর্বোত্তম উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E। কারণ যোগব্যায়ামের নিয়মিত অনুশীলনে নমনীয়তা, পেশীর শক্তি, রক্ত সঞ্চালন ও সার্বিক শারীরিক স্বাস্থ্যের উন্নতি ঘটে এবং মানসিক চাপও কমে। অন্য অপশনগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (অথিতি বৃদ্ধি) অর্থপরিপ্রেক্ষিতে অপ্রাসঙ্গিক, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বিবেকহীনতা) সম্পূর্ণ বিরোধী এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (শুধু শান্তি) আংশিক সঠিক হলেও যোগব্যায়াম শুধুমাত্র শান্তি দেয় না—এটি শারীরিক স্বাস্থ্যও উন্নত করে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57244,
+      "value": {
+        "options": [],
+        "question": "পদহস্তাসনের উপকারিতা বর্ণনা করুন।",
+        "solution": "সমাধান:\n1. পদহস্তাসন করার সময় উরু ও পেটের পেশী সংকুচিত ও প্রসারিত হয়, ফলে অন্ত্রের উপর মৃদু মালিশজাতীয় চাপ পড়ে যা পাচনতন্ত্রের গতি বাড়ায় এবং পাচনক্রিয়া উন্নত করে।\n2. একই অনুশীলনে কোমর ও মেরুদণ্ডের নমনীয়তা বাড়ে কারণ মেরুদণ্ড ও পার্শ্বের পেশীগুলি প্রসারিত ও শক্ত হয়, ফলে কোমরের ভড়কানো ও ঝুঁকশক্তি কমে।\n3. তাই সংশ্লেষে বলা যায়—এতে পাচনতন্ত্র সুস্থ হয় এবং কোমরের নমনীয়তা বাড়ে। \n4. অন্যান্য সম্ভাব্য দাবিগুলো (যেমন শুধুমাত্র ওজন কমানো বা হাড় সম্পূর্ণ সুস্থ হওয়া) সীমিত বা আংশিকভাবে সত্য হতে পারে, কিন্তু এগুলো সরাসরি বা একমাত্র উপকার বলে ধরে নেওয়া ঠিক নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "এতে পাচনতন্ত্র সুস্থ হয় এবং কোমরের নমনীয়তা বাড়ে।"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57243,
+      "value": {
+        "options": {
+          "a": "মস্তিষ্ক",
+          "b": "দিয়ে",
+          "c": "পায়ের",
+          "d": "হাত"
+        },
+        "question": "শীর্ষাসন ________ জন্য উপকারী।",
+        "solution": "সমাধান: শীর্ষাসন (সারীর উপরে মাথা রেখে ভঙ্গি) করলে মস্তিষ্কে রক্তস্রাব বাড়ে এবং মস্তিষ্কে অক্সিজেন সরবরাহ বৃদ্ধি পায়, ফলে মনোযোগ ও মস্তিষ্কী কার্যক্ষমতা উন্নত হয়। তাই শীর্ষাসন প্রধানত মস্তিষ্কের জন্য উপকারী, সুতরাং সঠিক উত্তর হল a — মস্তিষ্ক। অন্য বিকল্পগুলো (b: দিয়ে — অপ্রাসঙ্গিক শব্দ, c: পায়ের ও d: হাত) শীর্ষাসনের প্রধান সুবিধা নয়; পেশী বা ভারসাম্য বৃদ্ধি পেতে পারে কিন্তু মূল উদ্দেশ্য মস্তিষ্কের রক্তসঞ্চালন বাড়ানো।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57242,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "যোগব্যায়াম শুধুমাত্র শারীরিক সুস্থতার জন্য।",
+        "solution": "সমাধান: বিবৃতিটি ভুল। যোগব্যায়াম কেবল শারীরিক সুস্থতার জন্য নয় — এটি শ্বাসবায়ু নিয়ন্ত্রণ (প্রাণায়াম), ধ্যানের মাধ্যমে মানসিক চাপ কমানো এবং মানসিক সুস্থতা, মনোযোগ ও আবেগ নিয়ন্ত্রণও উন্নত করে; অনেক মানুষ আত্মিক ও সামাজিক উপকারও পায়। তাই সঠিক উত্তর হলো b (False), এবং a (True) ভুল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57241,
+      "value": {
+        "options": {
+          "a": "শরীরের পেশী মজবুত করা",
+          "b": "দীর্ঘ সময় বসে থাকা",
+          "c": "চেতনাবিহীন থাকা",
+          "d": "নিয়মিত খাওয়া"
+        },
+        "question": "যোগব্যায়ামের উদ্দেশ্য কি?",
+        "solution": "সমাধান:\n1. যোগব্যায়ামের প্রধান উদ্দেশ্য হল শারীরিক ফিটনেস, নমনীয়তা এবং পেশী শক্তি বৃদ্ধি করা এবং মানসিক স্বস্তি দেয়া।  \n2. প্রদত্ত অপশনগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \"শরীরের পেশী মজবুত করা\" এই উদ্দেশ্যের সঙ্গে সরাসরি মিলে যায়, তাই সঠিক উত্তর হচ্ছে a।  \n3. অন্যান্য অপশনগুলো ভুল কারণ (b) দীর্ঘ সময় বসে থাকা এবং (c) চেতনাবিহীন থাকা যোগব্যায়ামের লক্ষ্য নয়, এবং (d) নিয়মিত খাওয়া স্বাস্থ্যকর অভ্যাস হলেও তা যোগব্যায়ামের প্রধান উদ্দেশ্য নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57240,
+      "value": {
+        "options": [],
+        "question": "বৃষাসন কিভাবে করা হয়?",
+        "solution": "সমাধান:\n1. প্রথমে দুটো হাঁটু মুড়ে মাটিতে গেঁসে বসুন (দুটি হাটু ভেঙে)।  \n2. তারপর কোমর ও মেরুদণ্ড সোজা করে শরীরকে খাড়া অবস্থায় আনুন।  \n3. শেষমেশ দুইটি হাত কোমরের পাশে রাখতে হবে যাতে ভারসাম্য বজায় থাকে।  \n\nব্যাখ্যা: এই ধাপে হাঁটু ভাঙা বসার মাধ্যমে নিচের অংশ স্থির হয় এবং মেরুদণ্ড সোজা করার পরে হাত কোমরের পাশে রাখলে ভৃকসাসনের কাঙ্ক্ষিত ভঙ্গি ও ভারসাম্য আসে। অন্য বিকল্পগুলো (যেমন একপায়ে দাঁড়ানো বা ক্রস-লেগ বসা) এই ক্রম ও হাতের অবস্থানের সঙ্গে মেলে না, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "দুটি হাটু ভেঙে বসতে হয় এবং তারপর সোজা হয়ে দু'হাত কোমরের পাশে রাখতে হয়।"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57239,
+      "value": {
+        "options": {
+          "a": "যখন সময় থাকে",
+          "b": "অন্তত সপ্তাহে একবার",
+          "c": "নিয়মিত",
+          "d": "শুধুমাত্র স্কুলে"
+        },
+        "question": "শরীর-মন সুস্থ রাখতে _______ খেলাধুলা করতে হবে।",
+        "solution": "সমাধান:\nStep 1: প্রশ্নে বলা হয়েছে শরীর-মন সুস্থ রাখতে কী ধরনের খেলা করা উচিত — এখানে মূল কথা হলো ধারাবাহিকতা বা নিয়মিত কর্মকাণ্ড।  \nStep 2: অপশন বিশ্লেষণ: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \"যখন সময় থাকে\" — অনিয়মিত; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"অন্তত সপ্তাহে একবার\" — পর্যাপ্ত নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E \"নিয়মিত\" — ধারাবাহিক ও উপকারী; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E \"শুধুমাত্র স্কুলে\" — সীমাবদ্ধ ও অনিয়মিত।  \nStep 3: সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E, কারণ শরীর ও মনের সুস্থতার জন্য নিয়মিত ব্যায়াম বা খেলাধুলা করা সবচেয়ে কার্যকর; অন্যান্য বিকল্পগুলো অনিয়মিত বা অপর্যাপ্ত।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57238,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "দীর্ঘ সময় ধূমপান করা স্বাস্থ্যকর।",
+        "solution": "সমাধান: দীর্ঘ সময় ধূমপান ফুসফুসের ক্যান্সার, হৃদরোগ, ক্রনিক অবস্ট্রাকটিভ পালমোনারি রোগ (COPD) সহ বহু গুরুতর রোগের ঝুঁকি বৃদ্ধি করে কারণ তামাকের ধোঁয়ায় ক্যারসিনোজেন ও ক্ষতিকর রাসায়নিক থাকে। তাই বিবৃতিটি মিথ্যা — সঠিক উত্তর হলো b (False)। বিকল্প a ভুল, কারণ বৈজ্ঞানিক প্রমাণ দেখায় ধূমপান স্বাস্থ্যের জন্য ক্ষতিকর এবং এটি স্বাস্থ্যকর হতে পারে না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57237,
+      "value": {
+        "options": {
+          "a": "মদ্যপান এবং ধূমপান",
+          "b": "নিয়মিত ব্যায়াম",
+          "c": "অতিরিক্ত খাবার",
+          "d": "টেলিভিশন দেখা"
+        },
+        "question": "যেসব কাজ সুস্থ থাকার জন্য প্রয়োজন, সেগুলো কি কি?",
+        "solution": "সমাধান:\nStep 1: সুস্থ থাকার জন্য প্রয়োজন এমন কাজগুলো হলো যেগুলো শারীরিক ও মানসিক স্বাস্থ্য উন্নত করে ও রোগপ্রতিরোধ ক্ষমতা বাড়ায়।  \nStep 2: প্রদত্ত অপশনগুলো যাচাই করলে দেখা যায় — বিকল্প b (নিয়মিত ব্যায়াম) শারীরিক ফিটনেস, হৃদযন্ত্র ও মেন্টাল হেলথ উন্নত করে, তাই এটি সঠিক। অন্য অপশনগুলো ভুল কারণ: বিকল্প a (মদ্যপান এবং ধূমপান) স্বাস্থ্যের জন্য ক্ষতিকর, বিকল্প c (অতিরিক্ত খাবার) ওজন বাড়ায় ও রোগঝুঁকি বাড়ায়, এবং বিকল্প d (টেলিভিশন দেখা) সাধারণত নির্বাহী ও দীর্ঘস্থায়ী হলে অকার্যকর ও অলস জীবনযাপনকে উৎসাহিত করে। ফলাফল: সঠিক উত্তর — বিকল্প b।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57225,
+      "value": {
+        "options": {
+          "a": "ধর্মচর্চার জন্য",
+          "b": "শুধুমাত্র খেলার জন্য",
+          "c": "ফলে অসুস্থতার আক্রমণ",
+          "d": "এটি অপ্রয়োজনীয়"
+        },
+        "question": "শরীরের সুস্থতা কেন গুরুত্বপূর্ণ?",
+        "solution": "সমাধান:\nধাপ 1: প্রশ্নের মূল অর্থ হলো শরীরের সুস্থতার উদ্দেশ্য কী — এটি আমাদের দৈনন্দিন কাজ, ধর্মচর্চা ও সামাজিক দায়িত্ব পালনে দক্ষ করে তোলে।  \nধাপ 2: বিকল্পগুলোর তুলনা করে দেখা যায়, \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (\"ধর্মচর্চার জন্য\") সঠিক কারণ ধর্ম বা আচার-অনুষ্ঠান সঠিকভাবে সম্পাদনের জন্য শারীরিক সক্ষমতা প্রয়োজন হয়; সুস্থতা সেই সক্ষমতা নিশ্চিত করে।  \nধাপ 3: অন্যান্য বিকল্পগুলো খণ্ডিত কারণেই ভুল — \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শুধুমাত্র খেলার জন্য বলা অসম্পূর্ণ, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (\"ফলে অসুস্থতার আক্রমণ\") প্রশ্নের উত্তরের বিপরীত ধারনা এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (\"এটি অপ্রয়োজনীয়\") স্পষ্টভাবে ভুল।  \nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E.",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57235,
+      "value": {
+        "options": {
+          "a": "বেশি",
+          "b": "অল্প",
+          "c": "নিয়মিত ও পরিমিত",
+          "d": "ফাস্টফুড"
+        },
+        "question": "শরীরের সুস্থতার জন্য _______ আহার গ্রহণ করতে হবে।",
+        "solution": "সমাধান:\n১) প্রশ্নের অর্থ বুঝা: শরীর সুস্থ রাখতে খাদ্য হতে হবে পরিপূর্ণ ও সুষম — অতিরিক্ত বা অপর্যাপ্ত উভয়েই ক্ষতিকর।  \n২) অপশনগুলোর তুলনা করে দেখা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (বেশি) — অতিরিক্ত খাদ্য ও পুষ্টির ভারসাম্যহীনতা সৃষ্টি করে; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (অল্প) — অপর্যাপ্ত পুষ্টি ও শক্তি যোগান দেয় না; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (ফাস্টফুড) — সাধারণত অতিরিক্ত তেল, লবণ ও প্রক্রিয়াজাত উপাদান থাকে, তাই দীর্ঘমেয়াদি জন্য উপযুক্ত নয়।  \n৩) সঠিক বিকল্প: নিয়মিত ও পরিমিত আহার শরীরের জন্য সুষম পুষ্টি ও স্থিতিশীল স্বাস্থ্য নিশ্চিত করে। \n\nসঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (নিয়মিত ও পরিমিত)",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57234,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "পরিষ্কার ও পরিচ্ছন্ন পরিবেশ স্বাস্থ্য রক্ষা করে।",
+        "solution": "সমাধান: Step 1: পরিষ্কার ও পরিচ্ছন্ন পরিবেশ বলতে পরিচ্ছন্ন পানি, সঠিক আবর্জনা নিষ্পত্তি, জীবাণুমুক্ত পরিচ্ছন্নতা ও স্যানিটেশন ব্যবস্থা বোঝায়। Step 2: এই ধরণের পরিবেশ রোগজীবাণু ও পতঙ্গের বিস্তার কমায়, সংক্রমণের ঝুঁকি কমায় এবং জনস্বাস্থ্য রক্ষা করে। তাই বিবৃতিটি সঠিক — সঠিক উত্তর হলো a (True)। বিকল্প b (False) ভুল, কারণ অপরিষ্কার পরিবেশ স্বাস্থ্যহানির কারণ হয়ে থাকে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57233,
+      "value": {
+        "options": {
+          "a": "শরীরও খারাপ হয়",
+          "b": "কিছুই ঘটে না",
+          "c": "নতুন চিন্তা আসে",
+          "d": "শুধুমাত্র খারাপ খাবার হয়"
+        },
+        "question": "মন খারাপ হলে কি হয়?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে বলা হয়েছে মন খারাপ হলে কি হয়—মানসিক অবস্থা সরাসরি শারীরিক অবস্থার উপর প্রভাব ফেলে, তাই সাধারণভাবে একই সাথে শরীরও খারাপ অনুভব করে।  \nধাপ ২: কারণ ব্যাখ্যা — মন খারাপ হলে স্ট্রেস, ঘুমের ব্যাঘাত, ক্ষুধা ও শক্তির অভাব ইত্যাদি হতে পারে, যা শারীরিক রোগপ্রতিরোধ ক্ষমতা ও স্বাস্থ্যের অবনতি ঘটায়।  \nসংক্ষেপে সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (শরীরও খারাপ হয়)। অন্য অপশনগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (কিছুই ঘটে না) বাস্তবতার সঙ্গে মেলে না, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (নতুন চিন্তা আসে) সম্ভবত সত্য হতে পারে কিন্তু এটি সার্বজনীন ফলাফল নয়, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (শুধুমাত্র খারাপ খাবার হয়) অত্যন্ত সীমাবদ্ধ ও অনুপযুক্ত ব্যাখ্যা।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57232,
+      "value": {
+        "options": [],
+        "question": "শারীরিক স্বাস্থ্য এবং ধর্মচর্চার মধ্যে সম্পর্ক কি?",
+        "solution": "সমাধান: ধ্যান-অনুশীলন ও নিয়মিত ধর্মকর্ম ঠিকভাবে করার জন্য শরীরের সুস্থতা জরুরি; তাই শারীরিক স্বাস্থ্য ভালো হলে ধর্মচর্চা সঠিকভাবে করা যায়। কারণ ১) ভালো শারীরিক অবস্থা শক্তি ও ধৈর্য দেয় যাতে নিয়মিত প্রার্থনা, উপবাস বা আনুষ্ঠানিক আচরণ পালন করা যায়, ২) সুস্থ মস্তিষ্ক মনোযোগ ও নিষ্ঠা বজায় রাখতে সাহায্য করে, ফলে ধর্মচর্চার গঠনমূলক ফল পাওয়া যায়। অন্য বিকল্পগুলি—for example \"ধর্মচর্চাই সরাসরি শারীরিক স্বাস্থ্য তৈরি করে\" বা \"দুইটার কোনো সম্পর্ক নেই\"—অংশত সত্য হতে পারে (মানসিক শান্তি শরীরকে সহায়তা করে) তবুও প্রশ্নে চাওয়া সম্পর্ক অনুযায়ী প্রধান সঠিক ব্যাখ্যা হলো যে শারীরিক স্বাস্থ্য ভালো হলে ধর্মচর্চা সঠিকভাবে করা সম্ভব।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "শারীরিক স্বাস্থ্য ভালো হলে ধর্মচর্চা সঠিকভাবে করা যায়।"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57231,
+      "value": {
+        "options": {
+          "a": "দেশী স্টাইলে",
+          "b": "দীর্ঘ এবং অপরিষ্কার",
+          "c": "ছোট এবং পরিষ্কার",
+          "d": "পঁচা ভাবে"
+        },
+        "question": "মেয়েদের চুল কেমন রাখতে হবে ________।",
+        "solution": "সমাধান: ধাপে ধাপে বিশ্লেষণ করে দেখা যাক— \n\nStep 1: প্রশ্নটি মেয়েদের চুল থাকা কেমন হওয়া উচিত তা জানতে চাইছে, অর্থাৎ পরিষ্কারতা, পরিচ্ছন্নতা ও নিরাপত্তা বিবেচ্য।  \nStep 2: বিকল্পগুলো বিশ্লেষণ করলে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (দেশী স্টাইলে) নির্দিষ্ট নয় ও ব্যক্তিপছন্দে ভিন্ন হতে পারে; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (দীর্ঘ এবং অপরিষ্কার) অস্বাস্থ্যকর ও অনুচিত; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (পঁচা ভাবে) স্পষ্টভাবে ভুল ও অমানবিক।  \nStep 3: তাই সর্বোত্তম এবং যুক্তিযুক্ত উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E — ছোট এবং পরিষ্কার, যা পরিচ্ছন্নতা, স্বাস্থ্য ও পরিচয়ের জন্য উপযুক্ত।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57230,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "সাবান দিয়ে হাত ধোয়া স্বাস্থ্যসম্মত অভ্যাস নয়।",
+        "solution": "সমাধান:\nপ্রশ্নটি বলছে \"সাবান দিয়ে হাত ধোয়া স্বাস্থ্যসম্মত অভ্যাস নয়\" — এটিকে যাচাই করতে হবে। সাবান ও পানি দিয়ে হাত ধোয়া জীবাণু, ভাইরাস ও দূষণ রিমুভ করে এবং সংক্রমণ প্রবাহ কমায়; তাই এটি একটি স্বাস্থ্যসম্মত অভ্যাস। তাই দেওয়া বক্তব্যটি ভুল, সঠিক উত্তর: b (False)। বিকল্প a (True) ভুল কারণ বাস্তবে সাবান দিয়ে হাত ধোয়া স্বাস্থ্য রক্ষায় গুরুত্বপূর্ণ।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57229,
+      "value": {
+        "options": {
+          "a": "বড় এবং পঙ্কিত",
+          "b": "ছোট এবং পরিষ্কার",
+          "c": "যেমন খুশি",
+          "d": "মাঝারি এবং আব্রু"
+        },
+        "question": "হাত-পায়ের নখ কেমন রাখতে হবে?",
+        "solution": "সমাধান:\nStep 1: নখের উদ্দেশ্য হলো ব্যক্তিগত স্বাস্থ্য ও সুরক্ষা বজায় রাখা—অতএব নখে ময়লা না জমা হওয়া এবং আঘাতের ঝুঁকি কমানো জরুরি।  \nStep 2: ছোট নখ ময়লা ধরে রাখে না এবং পরিষ্কার করা সহজ, ফলে সংক্রমণ ও দুর্ঘটনা কমে।  \nStep 3: তাই সঠিক উত্তর হলো (b) ছোট এবং পরিষ্কার। অন্য অপশনগুলো ভুল কারণ (a) বড় ও পঙ্কিত নখ ময়লা জমায় ও আঘাত বাড়াতে পারে, (c) \"যেমন খুশি\" অস্বাস্থ্যকর হতে পারে, এবং (d) \"মাঝারি এবং আব্রু\" স্পষ্টভাবে নিরাপদ ও পরিচ্ছন্ন থাকার নির্দেশ দেয় না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57228,
+      "value": {
+        "options": [],
+        "question": "শরীরের এবং মনের সম্পর্ক বর্ণনা করুন।",
+        "solution": "সমাধান:\n\nধাপ ১: প্রশ্নটি বিশ্লেষণ করে দেখা—শরীর ও মনের সম্পর্ক কেমন তা নির্ধারণ করতে কারণ ও প্রভাব পর্যবেক্ষণ করতে হবে।  \nধাপ ২: সাধারণ অভিজ্ঞতা ও বৈজ্ঞানিক পর্যবেক্ষণ দেখায় যে শারীরিক অসুস্থতা (যেমন জ্বর বা ক্রনিক ব্যথা) মানসিক অবসাদ, উদ্বেগ বা মনচাপ সৃষ্টি করে; একইভাবে মানসিক চাপ ও হতাশা ইমিউন সিস্টেম দুর্বল করতে পারে এবং শারীরিক অসুস্থতা বাড়ায়। তাই যৌক্তিকভাবে বলা যায় যে শরীর ও মন একে অপরকে প্রভাবিত করে।  \nধাপ ৩: অতএব সঠিক উত্তর হলো—শরীর ও মন একে অপরকে প্রভাবিত করে; শরীর সুস্থ না থাকলে মনও অসুস্থ হয়ে পড়ে। অন্য সম্ভাব্য বিকল্পগুলো (যেমন শরীর ও মন সম্পূর্ণ পৃথক) ভুল, কারণ তাদের মধ্যে পরস্পরিক ক্রিয়া-প্রতিক্রিয়ার স্পষ্ট প্রমাণ রয়েছে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "শরীর ও মন একে অপরকে প্রভাবিত করে। শরীর সুস্থ না থাকলে মনও অসুস্থ হয়।"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57227,
+      "value": {
+        "options": {
+          "a": "ধ্যান",
+          "b": "খেলাধুলা",
+          "c": "রাত্রি জেগে থাকা",
+          "d": "অন্যের সাথে বিবদ্ব হওয়া"
+        },
+        "question": "স্বাস্থ্যরক্ষা করতে নিয়মিত _______ করতে হবে।",
+        "solution": "সমাধান:\nধাপে ধাপে বিচার করলে প্রথমে প্রশ্নটি জানতে চায় — স্বাস্থ্যরক্ষা করতে কোন কাজ নিয়মিত করতে হবে। \nধাপ ১: বিকল্পগুলো বিশ্লেষণ করা: (a) ধ্যান মানসিক শান্তির জন্য উপকারী, (b) খেলাধুলা শারীরিক সুস্থতা, সহনশীলতা ও রোগপ্রতিরোধ ক্ষমতা বাড়ায়, (c) রাত্রি জেগে থাকা স্বাস্থ্যের ক্ষতি করে, (d) অন্যের সাথে বিবাদ মানসিক চাপ বাড়ায় এবং অস্বাস্থ্যকর। \nধাপ ২: স্বাস্থ্যরক্ষা বলতে প্রধানত শারীরিক ও মানসিক সুস্থতা বজায় রাখা বোঝায়; এর মধ্যে নিয়মিত খেলাধুলা (ব্যায়াম) সবচেয়ে কার্যকর। তাই সঠিক উত্তর হল (b) খেলাধুলা।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57226,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "নিয়মিত ব্যায়াম করা শরীরের জন্য ভালো।",
+        "solution": "সমাধান:\nধাপ ১: নিয়মিত ব্যায়াম ফিটনেস বাড়ায়, হার্ট ও রক্তচাপ নিয়ন্ত্রণে সাহায্য করে, ওজন নিয়ন্ত্রণে সহায়ক এবং মানসিক স্বাস্থ্য উন্নত করে—এসব স্বাস্থ্যগত সুবিধার কারণে বিবৃতিটি যাচাইযোগ্য।  \nধাপ ২: বিশ্বস্বাস্থ্য সংস্থা ও চিকিৎসাবিজ্ঞানী গবেষণায় নিয়মিত শারীরিক ক্রিয়াকলাপকে শরীরের জন্য উপকারী বলে স্বীকৃতি দেয়।  \nসিদ্ধান্ত: বিবৃতিটি সত্য, সঠিক উত্তর: a। বিকল্প b ভুল কারণ এটি প্রচলিত বৈজ্ঞানিক তথ্যের বিপরীত।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7435,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7435&grade=7&per_page=2000&question_paper_id=47709&subject=108&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7435&grade=7&per_page=2000&question_paper_id=47709&subject=108&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7435&grade=7&per_page=2000&question_paper_id=47709&subject=108&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 22,
+  "total": 22
+}

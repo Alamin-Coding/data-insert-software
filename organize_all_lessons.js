@@ -16,6 +16,43 @@ function normalizeQuestionType(typeName) {
 	};
 	return typeMap[typeName] || typeName;
 }
+// Helper to strip HTML tags but preserve text and math equations
+function stripHtml(text) {
+	if (!text) return "";
+	let cleaned = text.toString();
+
+	// 1. Replace <br> and <p> with line breaks for spacing
+	cleaned = cleaned.replace(/<br\s*\/?>/gi, "\n");
+	cleaned = cleaned.replace(/<\/?p>/gi, "\n");
+
+	// 2. Keep image tags as [Image]
+	cleaned = cleaned.replace(/<img[^>]*>/gi, "[Image]");
+
+	// 3. Remove all other HTML tags (like <span>, <div>, etc.)
+	// Note: We avoid replacing MathJax \( \) by ensuring we only match <...> structures
+	cleaned = cleaned.replace(/<[^>]+>/g, "");
+
+	// 4. Decode HTML entities
+	cleaned = cleaned
+		.replace(/&nbsp;/g, " ")
+		.replace(/&#39;/g, "'")
+		.replace(/&quot;/g, '"')
+		.replace(/&lt;/g, "<")
+		.replace(/&gt;/g, ">")
+		.replace(/&amp;/g, "&");
+
+    // 5. Cleanup extra whitespace/newlines
+    cleaned = cleaned.replace(/\n\s*\n/g, "\n").trim();
+
+	return cleaned;
+}
+
+// Helper to check if text is just empty placeholders like "ক." or purely whitespace
+function isEffectivelyEmpty(text) {
+    if (!text) return true;
+    const t = text.trim().replace(/^[কখগঘঙচছজঝঞটঠডঢণতথদধনপফবভমযরলশষসহড়ঢ়য়ৎংঃাঁিীুূৃেৈোৌ]\.\s*/g, '');
+    return t.length === 0;
+}
 
 // Helper to format a single question to text
 function formatQuestionToText(question, index) {
@@ -37,51 +74,53 @@ function formatQuestionToText(question, index) {
 	output += `Type: ${qType} | Book: ${book} | Years: ${years} | Boards: ${boards} | Tags: ${tags}\n`;
 	output += lineSeparator + "\n";
 
-	let questionText = question.value?.question || "";
-	questionText = questionText
-		.replace(/<br\/?>/g, "\n")
-		.replace(/<img[^>]*>/g, "[Image]")
-		.replace(/<[^>]+>/g, "")
-		.replace(/\\n/g, "\n")
-		.replace(/&nbsp;/g, " ")
-		.replace(/&#39;/g, "'");
-
+	let questionText = stripHtml(question.value?.question);
 	output += "Question:\n" + questionText + "\n\n";
 
-	output += "Options:\n";
+	let hasOptions = false;
+	let optionsText = "Options:\n";
 	if (question.value?.options) {
 		Object.entries(question.value.options).forEach(([key, value]) => {
-			output += `${key}. ${value}\n`;
+			const cleanedOpt = stripHtml(value);
+			if (!isEffectivelyEmpty(cleanedOpt)) {
+				optionsText += `${key}. ${cleanedOpt}\n`;
+				hasOptions = true;
+			}
 		});
 	}
-	output += "\n\n";
+	if (hasOptions) {
+		output += optionsText + "\n\n";
+	}
 
-	output +=
-		"Correct Answer: " + (question.value?.correct_answer || "") + "\n\n";
+    const cleanedAns = stripHtml(question.value?.correct_answer);
+    if (!isEffectivelyEmpty(cleanedAns)) {
+	    output += "Correct Answer: " + cleanedAns + "\n\n";
+    }
 
-	let solution = question.value?.solution || "";
-	solution = solution
-		.replace(/<br\/?>/g, "\n")
-		.replace(/<img[^>]*>/g, "[Image]");
-	solution = solution
-		.replace(/<[^>]+>/g, "")
-		.replace(/\\n/g, "\n")
-		.replace(/&nbsp;/g, " ")
-		.replace(/&#39;/g, "'");
+	let solution = stripHtml(question.value?.solution);
+    if (!isEffectivelyEmpty(solution)) {
+	    output += "Solution:\n" + solution + "\n\n";
+    }
 
-	output += "Solution:\n" + solution + "\n\n";
-
-	let explanation = question.value?.explanation || "";
-	explanation = explanation.replace(/<br\/?>/g, "\n").replace(/<[^>]+>/g, "");
-
-	output += "Explanation:\n" + explanation + "\n\n";
-	output += "Sub-Questions:\n";
+	let explanation = stripHtml(question.value?.explanation);
+    if (!isEffectivelyEmpty(explanation)) {
+	    output += "Explanation:\n" + explanation + "\n\n";
+    }
+	
+	let hasSubQ = false;
+	let subQText = "Sub-Questions:\n";
 	if (question.sub_questions && question.sub_questions.length > 0) {
 		question.sub_questions.forEach((sq, i) => {
-			output += `  ${i + 1}. ${sq}\n`;
+			const cleanedSq = stripHtml(sq);
+			if (!isEffectivelyEmpty(cleanedSq)) {
+				subQText += `  ${i + 1}. ${cleanedSq}\n`;
+				hasSubQ = true;
+			}
 		});
 	}
-	output += "\n";
+	if (hasSubQ) {
+		output += subQText + "\n";
+	}
 
 	return output;
 }

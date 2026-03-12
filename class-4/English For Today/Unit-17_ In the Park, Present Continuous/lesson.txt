@@ -1,0 +1,563 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 742236,
+      "value": {
+        "options": [],
+        "question": "Talk",
+        "solution": "To speak",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742237,
+      "value": {
+        "options": [],
+        "question": "Happen",
+        "solution": "To occur",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742238,
+      "value": {
+        "options": [],
+        "question": "They _____ food in the open field. (cook)",
+        "solution": "are cooking",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742239,
+      "value": {
+        "options": [],
+        "question": "I _____ my bag. (open)",
+        "solution": "am opening",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742240,
+      "value": {
+        "options": [],
+        "question": "We _____ English. (study)",
+        "solution": "are studying",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742241,
+      "value": {
+        "options": [],
+        "question": "Very",
+        "solution": "Extremely",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742242,
+      "value": {
+        "options": [],
+        "question": "Play",
+        "solution": "To perform sport",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742243,
+      "value": {
+        "options": [],
+        "question": "Fast",
+        "solution": "At high speed",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742244,
+      "value": {
+        "options": [],
+        "question": "The boy is _____ very fast. (run)",
+        "solution": "running",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742245,
+      "value": {
+        "options": [],
+        "question": "A bird _____ in the sky. (fly)",
+        "solution": "is flying",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742246,
+      "value": {
+        "options": [],
+        "question": "A dog _____ under the tree. (sit)",
+        "solution": "is sitting",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742247,
+      "value": {
+        "options": [],
+        "question": "The boy _____ to his mother. (talk)",
+        "solution": "is talking",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742248,
+      "value": {
+        "options": [],
+        "question": "You _____ on my chair! (sit)",
+        "solution": "are sitting",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742249,
+      "value": {
+        "options": [],
+        "question": "The students _____ a song. (sing)",
+        "solution": "are singing",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742250,
+      "value": {
+        "options": [],
+        "question": "a) lets play with them!\u003Cbr\u003E\nb) where the teacher is writing\u003Cbr\u003E\nc) its not.raining.\u003Cbr\u003E\nd) theyre singing.\u003Cbr\u003E\ne) she's waking up",
+        "solution": "a) Let&#39;s play with them!\u003Cbr /\u003E\nb) Where the teacher is writing?\u003Cbr /\u003E\nc) It&#39;s not raining.\u003Cbr /\u003E\nd) They&#39;re singing.\u003Cbr /\u003E\ne) She&#39;s waking up.",
+        "correct_answer": null
+      },
+      "question_type_id": 19,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742251,
+      "value": {
+        "options": [],
+        "question": "The girl _____ her grandmother. (help)",
+        "solution": "is helping",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7304,
+      "created_at": "2025-11-27T05:32:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7304&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7304&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7304&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 16,
+  "total": 16
+}

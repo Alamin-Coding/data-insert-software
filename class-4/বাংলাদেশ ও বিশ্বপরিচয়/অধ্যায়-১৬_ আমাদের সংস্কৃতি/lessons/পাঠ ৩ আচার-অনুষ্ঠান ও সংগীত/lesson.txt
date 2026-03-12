@@ -1,0 +1,149 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746707,
+      "value": {
+        "options": {
+          "ক": "বাউল সংগীত",
+          "খ": "লোকসংগীত",
+          "গ": "গীত সংগীত",
+          "ঘ": "ফোক সংগীত"
+        },
+        "question": "কোনটিকে বাংলাদেশের প্রাণ বলা হয়?",
+        "solution": "খ. লোকসংগীত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746708,
+      "value": {
+        "options": {
+          "ক": "বাউলরা",
+          "খ": "সাধুরা",
+          "গ": "ফকিররা",
+          "ঘ": "মুসাফিররা"
+        },
+        "question": "এক গ্রাম থেকে অন্য গ্রামে যেতে যেতে কারা গান গায়?",
+        "solution": "ক. বাউলরা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746709,
+      "value": {
+        "options": {
+          "ক": "যাত্রাগান",
+          "খ": "পালাগান",
+          "গ": "কবিগান",
+          "ঘ": "লোকগান"
+        },
+        "question": "জারি, সারি ও বাউল কোন ধরনের গান?",
+        "solution": "ঘ. লোকগান",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7403&grade=7&lesson=13462&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7403&grade=7&lesson=13462&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7403&grade=7&lesson=13462&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 3,
+  "total": 3
+}

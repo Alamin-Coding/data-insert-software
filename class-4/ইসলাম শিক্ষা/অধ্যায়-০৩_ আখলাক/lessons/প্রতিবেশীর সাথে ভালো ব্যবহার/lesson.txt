@@ -1,0 +1,263 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746729,
+      "value": {
+        "options": {
+          "ক": "খাদ্য দেব",
+          "খ": "কাজ করে খাওয়ার পরামর্শ দেব",
+          "গ": "ভিক্ষা করতে বলব",
+          "ঘ": "চুপি চুপি খাবার খাব"
+        },
+        "question": "প্রতিবেশী ক্ষুধার্ত হলে কী করব?",
+        "solution": "ক. খাদ্য দেব",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746730,
+      "value": {
+        "options": {
+          "ক": "আল্লাহ তায়ালা",
+          "খ": "রাসূল (স)",
+          "গ": "শিক্ষক",
+          "ঘ": "বাবা-মা"
+        },
+        "question": "প্রতিবেশীর অনেক অধিকার রয়েছে। তাই প্রতিবেশীর সাথে তুমি উত্তম ব্যবহার করলে কে খুশি হবেন?",
+        "solution": "ক. আল্লাহ তায়ালা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746731,
+      "value": {
+        "options": {
+          "ক": "গ্রামবাসী",
+          "খ": "প্রতিবেশী",
+          "গ": "সহপাঠী",
+          "ঘ": "দেশবাসী"
+        },
+        "question": "আমাদের আশপাশে অনেকে বাস করে। যারা আশেপাশে বাস করে তাদেরকে তুমি কী বলবে?",
+        "solution": "খ. প্রতিবেশী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746732,
+      "value": {
+        "options": {
+          "ক": "খারাপ",
+          "খ": "ভালো",
+          "গ": "বিশৃঙ্খল",
+          "ঘ": "রাগী"
+        },
+        "question": "আমরা প্রতিবেশীর সাথে কেমন ব্যবহার করব?",
+        "solution": "খ. ভালো",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746733,
+      "value": {
+        "options": {
+          "ক": "খাদ্য দেব",
+          "খ": "কথা বলব",
+          "গ": "রাগ করব",
+          "ঘ": "সেবা করব"
+        },
+        "question": "প্রতিবেশী অসুস্থ হলে কী করব?",
+        "solution": "ঘ. সেবা করব",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746734,
+      "value": {
+        "options": {
+          "ক": "মহানবি (স)-এর",
+          "খ": "আল্লাহর",
+          "গ": "আবু বকর (রা)-এর",
+          "ঘ": "উমর (রা)-এর"
+        },
+        "question": "“যার অত্যাচার ও অন্যায় আচরণ থেকে তার প্রতিবেশী রক্ষা পায় না, সে জান্নাতে প্রবেশ করবে না” – এ বাণীটি কার?",
+        "solution": "ক. মহানবি (স)-এর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13467&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13467&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13467&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}

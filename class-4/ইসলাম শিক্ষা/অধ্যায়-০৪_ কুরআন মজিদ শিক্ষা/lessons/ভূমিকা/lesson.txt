@@ -1,0 +1,225 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746755,
+      "value": {
+        "options": {
+          "ক": "তাওরাত",
+          "খ": "যাবুর",
+          "গ": "ইনজিল",
+          "ঘ": "কুরআন"
+        },
+        "question": "সর্বশেষ আসমানি কিতাব–",
+        "solution": "ঘ. কুরআন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746756,
+      "value": {
+        "options": {
+          "ক": "ওয়াজিব",
+          "খ": "ফরজ",
+          "গ": "সুন্নাত",
+          "ঘ": "নফল"
+        },
+        "question": "সালাতের মধ্যে কুরআন তিলাওয়াত করা কী?",
+        "solution": "খ. ফরজ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746757,
+      "value": {
+        "options": {
+          "ক": "আল্লাহ তায়ালার",
+          "খ": "মহানবি (সা.)-এর",
+          "গ": "হযরত আবু বকর (রা)-এর",
+          "ঘ": "হযরত উমর (রা)-এর"
+        },
+        "question": "“তোমাদের মধ্যে সে উত্তম, যে নিজে কুরআন শিখে এবং অপরকে শিখায়।” – উক্তিটি কার?",
+        "solution": "খ. মহানবি (সা.)-এর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746758,
+      "value": {
+        "options": {
+          "ক": "কুরআন সর্বশেষ আসমানি কিতাব",
+          "খ": "কুরআনই সকলের সংবিধান",
+          "গ": "শুদ্ধভাবে কুরআন তিলাওয়াতের ফজিলত",
+          "ঘ": "কুরআন খতম করার ফজিলত"
+        },
+        "question": "মহানবি (স) বলেছেন, \"তোমাদের মধ্যে সে উত্তম, যে কুরআন শিখে এবং অপরকে শিখায়।\" রাসূল (স) এর উক্ত বাণী দ্বারা কী বোঝানো হয়েছে?",
+        "solution": "গ. শুদ্ধভাবে কুরআন তিলাওয়াতের ফজিলত",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746759,
+      "value": {
+        "options": {
+          "ক": "তাওরাত",
+          "খ": "যাবুর",
+          "গ": "ইনজিল",
+          "ঘ": "কুরআন"
+        },
+        "question": "আল্লাহ তায়ালা মানুষের হিদায়েতের জন্য আসমানি কিতাব নাজিল করেছেন। মহানবি (স)-এর ওপর নাজিলকৃত আসমানি কিতাব কোনটি?",
+        "solution": "ঘ. কুরআন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7333&grade=7&lesson=13474&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7333&grade=7&lesson=13474&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7333&grade=7&lesson=13474&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

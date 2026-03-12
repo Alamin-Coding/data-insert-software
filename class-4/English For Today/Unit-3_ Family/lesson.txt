@@ -1,0 +1,2568 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 742012,
+      "value": {
+        "options": [],
+        "question": "What is the first month of the year?",
+        "solution": "January is the first month of the year.",
+        "correct_answer": null
+      },
+      "question_type_id": 36,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 36,
+        "name": "Short Qus(T11)",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741992,
+      "value": {
+        "options": [],
+        "question": "Officer",
+        "solution": "Executive",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741993,
+      "value": {
+        "options": [],
+        "question": "Aziz Ahmed's parents ______ with the family. (live)",
+        "solution": "live",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741994,
+      "value": {
+        "options": [],
+        "question": "Jahanara Begum ______ 64 years old. (be)",
+        "solution": "is",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741995,
+      "value": {
+        "options": [],
+        "question": "Mother ______ care of her family. (take)",
+        "solution": "takes",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741996,
+      "value": {
+        "options": [],
+        "question": "Farzana ______ in a primary school. (read)",
+        "solution": "reads",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741997,
+      "value": {
+        "options": [],
+        "question": "She ______ to school every day. (go)",
+        "solution": "goes",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741998,
+      "value": {
+        "options": [],
+        "question": "Farzana and Jamil are from Kushtia. They go to Chachua Government Primary School. Farzana is nine years old. She is in Class 4. Jamil is seven years old. He is in Class 2. They like school and they are good students.\u003Cbr\u003E\nFarzana and Jamil's mother is Rehana Parvin. She is 33 years old. She works at a hospital in Kushtia. She is a doctor. She takes care of many patients everyday. She likes her job very much.\u003Cbr\u003E\nAziz Ahmed is Farzana and Jamil's father. He is a pilot of Biman Bangladesh Airlines. He flies to other countries. He travels to India, Thailand and China often. He loves to travel. He is 39 years old.\u003Cbr\u003E\nAziz Ahmed's parents also live with the family. His father Altaf Uddin is 68 years old. He doesn't work now, but he was a government officer. Jahanara Begum is Aziz Ahmed's mother. She is 64. She' is a homemaker. She reads stories to Farzana and Jamil. They both play carom and ludu with their grandchildren.",
+        "solution": "no answer",
+        "correct_answer": null
+      },
+      "question_type_id": 24,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 24,
+        "name": "Text/Passgage",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741999,
+      "value": {
+        "options": [],
+        "question": "Both the siblings are in a _____ school.",
+        "solution": "primary",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742000,
+      "value": {
+        "options": [],
+        "question": "Altaf Uddin is a government officer.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742001,
+      "value": {
+        "options": [],
+        "question": "What does Rehana Parvin do every day?",
+        "solution": "Rehana Parvin takes care of many patients every day.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742003,
+      "value": {
+        "options": [],
+        "question": "Pilot",
+        "solution": "Aviator",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742002,
+      "value": {
+        "options": [],
+        "question": "Like",
+        "solution": "To be fond of",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742011,
+      "value": {
+        "options": [],
+        "question": "What month is it now?",
+        "solution": "It is November now.",
+        "correct_answer": null
+      },
+      "question_type_id": 36,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 36,
+        "name": "Short Qus(T11)",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742010,
+      "value": {
+        "options": [],
+        "question": "Farzana and Jamil's mother ______ Rehana Parvin. (be)",
+        "solution": "is",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742009,
+      "value": {
+        "options": [],
+        "question": "Farzana ______ nine years old. (be)",
+        "solution": "is",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742008,
+      "value": {
+        "options": [],
+        "question": "Farzana and Jamil ______ to Chachua Government Primary School. (go)",
+        "solution": "go",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742007,
+      "value": {
+        "options": [],
+        "question": "Farzana and Jamil ______ from Kushtia. (be)",
+        "solution": "are",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742006,
+      "value": {
+        "options": [],
+        "question": "_____ old is Farzana?",
+        "solution": "How",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742005,
+      "value": {
+        "options": [],
+        "question": "_____ is the name of their school?",
+        "solution": "What",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742004,
+      "value": {
+        "options": [],
+        "question": "Farzana and Jamil come from",
+        "solution": "Kushtia",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741976,
+      "value": {
+        "options": [],
+        "question": "Altaf Uddin ______ a government officer. (was/were/are)",
+        "solution": "was",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741977,
+      "value": {
+        "options": [],
+        "question": "They both ______ carrom and ludo with their grandchildren. (play)",
+        "solution": "play",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741978,
+      "value": {
+        "options": {
+          "a": "homemaker",
+          "b": "doctor",
+          "c": "pilot",
+          "d": "student"
+        },
+        "question": "Farzana's mother is a -.",
+        "solution": "b. doctor",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741979,
+      "value": {
+        "options": {
+          "a": "preposition",
+          "b": "conjunction",
+          "c": "interjection",
+          "d": "adjective"
+        },
+        "question": "Farzana and Jamil are from Kushtia. The word 'and' is a/an -.",
+        "solution": "b. conjunction",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741980,
+      "value": {
+        "options": [],
+        "question": "Farzana and Jamil are _____.",
+        "solution": "siblings",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741981,
+      "value": {
+        "options": [],
+        "question": "Farzana's father flies _____.",
+        "solution": "planes",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741982,
+      "value": {
+        "options": [],
+        "question": "Farzana and Jamil are bright students.",
+        "solution": "T",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741983,
+      "value": {
+        "options": [],
+        "question": "Aziz Ahmed is a pilot.",
+        "solution": "T",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741984,
+      "value": {
+        "options": [],
+        "question": "Travel",
+        "solution": "Journey",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741985,
+      "value": {
+        "options": [],
+        "question": "Aziz ahmed is Farzana and jamils father. He is a pilot of Biman bangladesh Airlines He flies to other countries he travels to India Thailand and China often. he loves to travel he is 39 years old.",
+        "solution": "Aziz Ahmed is Farzana and Jamil&#39;s father. He is a pilot of Biman Bangladesh Airlines. He flies to other countries. He travels to India, Thailand and China often. He loves to travel. He is 39 years old.",
+        "correct_answer": null
+      },
+      "question_type_id": 19,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741986,
+      "value": {
+        "options": [],
+        "question": "Nine years old",
+        "solution": "Farzana",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741987,
+      "value": {
+        "options": [],
+        "question": "_____ does Aziz Ahmed often travel to?",
+        "solution": "Where",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741988,
+      "value": {
+        "options": [],
+        "question": "Farzana and Jamil like to school. (go/goes/to go)",
+        "solution": "to go",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741989,
+      "value": {
+        "options": [],
+        "question": "Rehena Parvin ______ care of many patients. (take)",
+        "solution": "takes",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741990,
+      "value": {
+        "options": [],
+        "question": "What is the last month of the year?",
+        "solution": "December is the last month of the year.",
+        "correct_answer": null
+      },
+      "question_type_id": 36,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 36,
+        "name": "Short Qus(T11)",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741991,
+      "value": {
+        "options": [],
+        "question": "What month is before November?",
+        "solution": "October is the month before November.",
+        "correct_answer": null
+      },
+      "question_type_id": 36,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 36,
+        "name": "Short Qus(T11)",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741975,
+      "value": {
+        "options": [],
+        "question": "Altaf Uddin ______ now. (not work)",
+        "solution": "doesn't work",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741946,
+      "value": {
+        "options": [],
+        "question": "_____ are Farzana and Jamil from?",
+        "solution": "Where",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741955,
+      "value": {
+        "options": {
+          "a": "Aziz Ahmed",
+          "b": "Rehana Parvin",
+          "c": "Altaf Uddin",
+          "d": "Jahanara Begum"
+        },
+        "question": "Who is the oldest member of the family?",
+        "solution": "c. Altaf Uddin",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741954,
+      "value": {
+        "options": [],
+        "question": "She ______ stories to Farzana and Jamil. (read)",
+        "solution": "reads",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741953,
+      "value": {
+        "options": [],
+        "question": "Rehana works at",
+        "solution": "Hospital in Kushtia",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741952,
+      "value": {
+        "options": [],
+        "question": "Work",
+        "solution": "To do a job",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741951,
+      "value": {
+        "options": [],
+        "question": "Suppose, you are Farabi. Now, write a letter to your new friend Rudra about your family.",
+        "solution": "\u003Cdiv style=\"text-align: right;\"\u003EPirojpur\u003Cbr /\u003E\nJanuary 7, 2025\u003C/div\u003E\nDear Rudra,\u003Cbr /\u003E\nHow&#39;re you? Today, I&#39;m writing you about my family in brief.\u003Cbr /\u003E\nThere are six members in our family. My father, Mr. Afnan Zaman, is a doctor. My mother, Mrs. Naila Zaman, is a teacher. My younger sister Lima is in Class two. We go to school together. Our parents help us in our studies. My grandfather is Mr. Asaduzzaman and grandmother is Mrs. Shahida Zaman. They love us very much. We also love them.\u003Cbr /\u003E\nNo more today. Please, write me soon about your\u003Cbr /\u003E\nfamily. With love,\u003Cbr /\u003E\nFarabi",
+        "correct_answer": null
+      },
+      "question_type_id": 33,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 33,
+        "name": "Letter",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741950,
+      "value": {
+        "options": [],
+        "question": "What month is after April?",
+        "solution": "May is the month after April.",
+        "correct_answer": null
+      },
+      "question_type_id": 36,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 36,
+        "name": "Short Qus(T11)",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741949,
+      "value": {
+        "options": [],
+        "question": "Rehena Parvin ______ her job very much. (like)",
+        "solution": "likes",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741948,
+      "value": {
+        "options": [],
+        "question": "Rehena Parvin ______ in a hospital. (work)",
+        "solution": "works",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741947,
+      "value": {
+        "options": [],
+        "question": "Aziz Ahmed ______ to India, Thailand, and China often. (travel)",
+        "solution": "travels",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741956,
+      "value": {
+        "options": {
+          "a": "Jahanara Begum",
+          "b": "Rehana Parvin",
+          "c": "Altaf Uddin",
+          "d": "Aziz Ahmed"
+        },
+        "question": "Who tells stories to Farzana and Jamil?",
+        "solution": "a. Jahanara Begum",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741945,
+      "value": {
+        "options": [],
+        "question": "Jamil is in",
+        "solution": "Class 2",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741944,
+      "value": {
+        "options": [],
+        "question": "Doctor",
+        "solution": "Physician",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741943,
+      "value": {
+        "options": [],
+        "question": "\u003Cstrong\u003EWrite a short composition in five sentences about 'Your Parents'. \u003C/strong\u003E(Remember to use capital letters, full stops and correct spelling.) 10",
+        "solution": "\u003Cdiv style=\"text-align: center;\"\u003E\u003Cstrong\u003EMy Parents\u003C/strong\u003E\u003C/div\u003E\nMy parents are Altaf Khan and Sabiha Moni. They are very affectionate to me. My father is 40 years old and my mother is 36 years old. My father is a businessman and my mother is a housewife. They take care of me. I also respect and love them very much.",
+        "correct_answer": null
+      },
+      "question_type_id": 28,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 28,
+        "name": "Short Composition",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741942,
+      "value": {
+        "options": [],
+        "question": "What was Jamil's grandfather?",
+        "solution": "Jamil's grandfather was a government officer.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741941,
+      "value": {
+        "options": [],
+        "question": "Aziz Ahmed works for Biman Bangladesh Airlines.",
+        "solution": "T",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741940,
+      "value": {
+        "options": {
+          "a": "2",
+          "b": "3",
+          "c": "4",
+          "d": "5"
+        },
+        "question": "How many children does Aziz Ahmed have?",
+        "solution": "a. 2",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741939,
+      "value": {
+        "options": [],
+        "question": "His father Altaf Uddin ______ 68 years old. (be)",
+        "solution": "is",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741938,
+      "value": {
+        "options": [],
+        "question": "A pilot of Biman Bangladesh Airlines",
+        "solution": "Aziz Ahmed",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741965,
+      "value": {
+        "options": [],
+        "question": "Rehana Parvin and Aziz Ahmed",
+        "solution": "Parents of these two kids",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741974,
+      "value": {
+        "options": [],
+        "question": "They play with their grandchildren",
+        "solution": "Carrom and ludu",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741973,
+      "value": {
+        "options": [],
+        "question": "Altaf Uddin and Jahanara Begum are",
+        "solution": "Grandparents of Farzana and Jamil",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741972,
+      "value": {
+        "options": [],
+        "question": "33 years old.",
+        "solution": "Rehana Pervin",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741971,
+      "value": {
+        "options": [],
+        "question": "Aziz ahmed's parents also live with the family. his father altaf uddin is 68 years old. He doesn't work now but he was a government officer Jahanara&nbsp;Begum is Aziz Ahmed's mother She is 64. She is a homemaker She reads stories to Farzana and Jamil. they both play carrom and ludu with their grandchildren",
+        "solution": "Aziz Ahmed&#39;s parents also live with the family. His father Altaf Uddin is 68 years old. He doesn&#39;t work now; but he was a government officer. Jahanara Begum is Aziz Ahmed&#39;s mother. She is 64. She is a homemaker. She reads stories to Farzana and Jamil. They both play carrom and ludu with their grandchildren.",
+        "correct_answer": null
+      },
+      "question_type_id": 19,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741970,
+      "value": {
+        "options": [],
+        "question": "Grandchildren",
+        "solution": "Children of children",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741969,
+      "value": {
+        "options": [],
+        "question": "Homemaker",
+        "solution": "Housewife",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741968,
+      "value": {
+        "options": [],
+        "question": "My elder brother reads in class five. He wakes up early in the morning at (a) _____ . He says his prayer at (b) _____ . He takes his breakfast at (c) _____ . He goes to school at (d) _____ . He returns home at (e) _____ .",
+        "solution": "(a) 5:00 a.m.; (b) 5:10 a.m.; (c) 7:15 a.m.; (d) 7:30 a.m.; (e) 11:00 a.m.",
+        "correct_answer": null
+      },
+      "question_type_id": 57,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 57,
+        "name": "blank (info related)",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741967,
+      "value": {
+        "options": [],
+        "question": "Aziz Ahmed ______ to other countries. (fly)",
+        "solution": "flies",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741966,
+      "value": {
+        "options": [],
+        "question": "_____ is Rehana Parvin? What does she do?",
+        "solution": "Who",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741937,
+      "value": {
+        "options": [],
+        "question": "Family",
+        "solution": "Parents and their children",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741964,
+      "value": {
+        "options": [],
+        "question": "Chachua A Government Primary School",
+        "solution": "Their school's name",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741963,
+      "value": {
+        "options": [],
+        "question": "Patients",
+        "solution": "Sick people",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741962,
+      "value": {
+        "options": [],
+        "question": "What does Jahanara Begum do for Farzana and Jamil?",
+        "solution": "Jahanara Begum reads story to Farzana and Jamil.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741961,
+      "value": {
+        "options": [],
+        "question": "What does Aziz Ahmed do?",
+        "solution": "Aziz Ahmed flies planes.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741960,
+      "value": {
+        "options": [],
+        "question": "What are the ages of Farzana and Jamil?",
+        "solution": "The ages of Farzana and Jamil are nine and seven respectively.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741959,
+      "value": {
+        "options": [],
+        "question": "Jamil is the son of Altaf Uddin.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741958,
+      "value": {
+        "options": [],
+        "question": "Rehana Parvin is a _____ by profession.",
+        "solution": "physician",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741957,
+      "value": {
+        "options": [],
+        "question": "They are _____ Kushtia.",
+        "solution": "from",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7290,
+      "created_at": "2025-11-27T05:17:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7290&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7290&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7290&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 76,
+  "total": 76
+}

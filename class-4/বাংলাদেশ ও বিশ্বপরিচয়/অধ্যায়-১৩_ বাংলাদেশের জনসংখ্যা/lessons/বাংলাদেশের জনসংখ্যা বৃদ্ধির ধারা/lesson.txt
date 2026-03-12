@@ -1,0 +1,491 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746628,
+      "value": {
+        "options": {
+          "ক": "৭ কোটি ৫০ লক্ষ",
+          "খ": "৭ কোটি ৬৪ লক্ষ",
+          "গ": "৭ কোটি ৭৪ লক্ষ",
+          "ঘ": "৭ কোটি ৮৪ লক্ষ"
+        },
+        "question": "আদিল বাংলাদেশে বাস করে। আদিলের দেশে ১৯৭৪ সালে লোকসংখ্যা কত ছিল?",
+        "solution": "খ. ৭ কোটি ৬৪ লক্ষ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746629,
+      "value": {
+        "options": {
+          "ক": "৯১৫ জন",
+          "খ": "১০১৫ জন",
+          "গ": "১১৯৯ জন",
+          "ঘ": "১২১৫ জন"
+        },
+        "question": "সাকিব বাংলাদেশের নাগরিক। তার দেশে প্রতি বর্গকিলোমিটারে কত জন লোক বাস করে?",
+        "solution": "গ. ১১৯৯ জন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746630,
+      "value": {
+        "options": {
+          "ক": "১৫ কোটি ২০ লক্ষ",
+          "খ": "১৬ কোটি ৫১ লক্ষ",
+          "গ": "১৭ কোটি ১০ লক্ষ",
+          "ঘ": "১৮ কোটি ৩০ লক্ষ"
+        },
+        "question": "২০২২ সালে বাংলাদেশের জনসংখ্যা কত ছিল?",
+        "solution": "খ. ১৬ কোটি ৫১ লক্ষ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746631,
+      "value": {
+        "options": {
+          "ক": "জাপান",
+          "খ": "মার্কিন যুক্তরাষ্ট্র",
+          "গ": "বাংলাদেশ",
+          "ঘ": "সিঙ্গাপুর"
+        },
+        "question": "কোন দেশে জনসংখ্যার ঘনত্ব খুব বেশি বলে তুমি মনে কর?",
+        "solution": "ঘ. সিঙ্গাপুর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746632,
+      "value": {
+        "options": {
+          "ক": "১১ কোটি ৫০ লক্ষ",
+          "খ": "১২ কোটি ৬০ লক্ষ",
+          "গ": "১৩ কোটি ৯৭ লক্ষ",
+          "ঘ": "১৪ কোটি ৪০ লক্ষ"
+        },
+        "question": "আদমশুমারি ২০১১ অনুযায়ী বাংলাদেশের লোকসংখ্যা কত?",
+        "solution": "ঘ. ১৪ কোটি ৪০ লক্ষ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746633,
+      "value": {
+        "options": {
+          "ক": "১.২০%",
+          "খ": "১.২২%",
+          "গ": "১.২৪%",
+          "ঘ": "১.২৬%"
+        },
+        "question": "সর্বশেষ হিসাব অনুযায়ী জনসংখ্যা বৃদ্ধির হার কত?",
+        "solution": "খ. ১.২২%",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746634,
+      "value": {
+        "options": {
+          "ক": "১%",
+          "খ": "২%",
+          "গ": "৩%",
+          "ঘ": "৪%"
+        },
+        "question": "১৯৭০ সালে বাংলাদেশে জনসংখ্যার ঘনত্ব প্রতি বর্গকিলোমিটারে কত ছিল?",
+        "solution": "গ. ৩%",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746635,
+      "value": {
+        "options": {
+          "ক": "সপ্তম",
+          "খ": "অষ্টম",
+          "গ": "নবম",
+          "ঘ": "দশম"
+        },
+        "question": "জনসংখ্যার ঘনত্বের দিক থেকে বাংলাদেশ বিশ্বের কততম?",
+        "solution": "ঘ. দশম",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746636,
+      "value": {
+        "options": {
+          "ক": "জনসংখ্যা পরিস্থিতি",
+          "খ": "জনসংখ্যা হারের পার্থক্য",
+          "গ": "জনসংখ্যামিতি",
+          "ঘ": "জনসংখ্যার ঘনত্ব"
+        },
+        "question": "একটি দেশে প্রতি বর্গকিলোমিটারে যতজন লোক বাস করে তাকেই বলে-",
+        "solution": "ঘ. জনসংখ্যার ঘনত্ব",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746637,
+      "value": {
+        "options": {
+          "ক": "৭ কোটি ৬৪ লক্ষ",
+          "খ": "৮ কোটি ৯৯ লক্ষ",
+          "গ": "১১ কোটি ১৪ লক্ষ",
+          "ঘ": "১২ কোটি ৯৩ লক্ষ"
+        },
+        "question": "২০০১ সালে বাংলাদেশের জনসংখ্যা কত ছিল?",
+        "solution": "ঘ. ১২ কোটি ৯৩ লক্ষ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746638,
+      "value": {
+        "options": {
+          "ক": "৪০ বছরে",
+          "খ": "৪৬ বছরে",
+          "গ": "৪৮ বছরে",
+          "ঘ": "৫০ বছরে"
+        },
+        "question": "বাংলাদেশের জনসংখ্যা কত বছরে প্রায় দ্বিগুণ হয়েছে?",
+        "solution": "খ. ৪৬ বছরে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746639,
+      "value": {
+        "options": {
+          "ক": "মানুষ কাজ পায় না",
+          "খ": "মানুষ অনেক খাবার খায়",
+          "গ": "সমাজে অপরাধ থাকে না",
+          "ঘ": "পরিবেশ সুন্দর থাকে"
+        },
+        "question": "অতিরিক্ত জনসংখ্যার কুফল নিচের কোনটি?",
+        "solution": "ক. মানুষ কাজ পায় না",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7400&grade=7&lesson=13453&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7400&grade=7&lesson=13453&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7400&grade=7&lesson=13453&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 12
+}

@@ -1,0 +1,187 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746735,
+      "value": {
+        "options": {
+          "ক": "আনন্দ করল",
+          "খ": "খুশি হলো",
+          "গ": "আল্লাহর শুকরিয়া আদায় করল",
+          "ঘ": "ভালো খাওয়ার আয়োজন করল"
+        },
+        "question": "ফুয়াদের আম্মা আরোগ্য লাভ করলে ফুয়াদ কী করল?",
+        "solution": "গ. আল্লাহর শুকরিয়া আদায় করল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:43:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746736,
+      "value": {
+        "options": {
+          "ক": "বিজ্ঞানীর",
+          "খ": "নার্সেল",
+          "গ": "ডাক্তারের",
+          "ঘ": "শিক্ষকের"
+        },
+        "question": "অসুস্থ হলে ওষুধ খেতে হয়। তুমি কার পরামর্শে ওষুধ খাবে?",
+        "solution": "গ. ডাক্তারের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:43:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746737,
+      "value": {
+        "options": {
+          "ক": "আল্লাহ",
+          "খ": "মহানবি (স)",
+          "গ": "ডাক্তার",
+          "ঘ": "কবিরাজ"
+        },
+        "question": "“তোমরা রোগীর সেবা কর” – উক্তিটি কে করেছেন?",
+        "solution": "খ. মহানবি (স)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:43:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746738,
+      "value": {
+        "options": {
+          "ক": "ডাক্তারকে",
+          "খ": "নানা ভাইকে",
+          "গ": "শিক্ষককে",
+          "ঘ": "নানীকে"
+        },
+        "question": "ফুয়াদের আম্মার ভীষণ জ্বর হলো। ফুয়াদ তার আম্মার চিকিৎসার জন্য কাকে ডেকে আনবে?",
+        "solution": "ক. ডাক্তারকে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:43:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13468&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13468&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13468&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 4,
+  "total": 4
+}

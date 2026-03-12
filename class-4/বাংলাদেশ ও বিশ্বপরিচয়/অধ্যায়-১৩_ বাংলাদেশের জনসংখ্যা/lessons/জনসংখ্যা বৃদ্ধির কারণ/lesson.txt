@@ -1,0 +1,263 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746640,
+      "value": {
+        "options": {
+          "ক": "বহুবিবাহ",
+          "খ": "বাল্যবিবাহ",
+          "গ": "বহুপতি বিবাহ",
+          "ঘ": "একপত্নী বিবাহ"
+        },
+        "question": "পারভিনের সহপাঠী রূপার সপ্তম শ্রেণিতে পড়া অবস্থায় বিয়ে হয়ে যায়। এখন সে ৪ সন্তানের জননী। এটি জনসংখ্যা বৃদ্ধির কোন সামাজিক কারণকে নির্দেশ করে?",
+        "solution": "খ. বাল্যবিবাহ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746641,
+      "value": {
+        "options": {
+          "ক": "কৃষির",
+          "খ": "শিল্পের",
+          "গ": "ব্যবসায় বাণিজ্যের",
+          "ঘ": "শ্রমের"
+        },
+        "question": "বাংলাদেশের অর্থনীতি কীসের ওপর নির্ভরশীল?",
+        "solution": "ক. কৃষির",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746642,
+      "value": {
+        "options": {
+          "ক": "চিকিৎসাবিজ্ঞানের উন্নতিতে",
+          "খ": "কৃষির উন্নতিতে",
+          "গ": "শিল্পের উন্নতিতে",
+          "ঘ": "যোগাযোগ ব্যবস্থার উন্নয়নে"
+        },
+        "question": "বাংলাদেশে মৃত্যুহার কমে গেছে কেন?",
+        "solution": "ক. চিকিৎসাবিজ্ঞানের উন্নতিতে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746643,
+      "value": {
+        "options": {
+          "ক": "নারী",
+          "খ": "শিশু",
+          "গ": "কিশোর",
+          "ঘ": "যুবক"
+        },
+        "question": "বাংলাদেশের জনসংখ্যার প্রায় অর্ধেক",
+        "solution": "ক. নারী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746644,
+      "value": {
+        "options": {
+          "ক": "সংসার সমৃদ্ধির জন্য",
+          "খ": "উত্তরাধিকারের জন্য",
+          "গ": "মানসিক শান্তির জন্য",
+          "ঘ": "বৃদ্ধ বয়সে নিরাপত্তার জন্য"
+        },
+        "question": "অনেক বাবা-মা কেন অধিক সন্তান কামনা করেন?",
+        "solution": "ঘ. বৃদ্ধ বয়সে নিরাপত্তার জন্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746645,
+      "value": {
+        "options": {
+          "ক": "শিল্পের উন্নয়ন",
+          "খ": "যোগাযোগ ব্যবস্থার উন্নয়ন",
+          "গ": "শিক্ষার উন্নয়ন",
+          "ঘ": "বাল্যবিবাহ"
+        },
+        "question": "নিচের কোনটি জনসংখ্যা বৃদ্ধির একটি সামাজিক কারণ?",
+        "solution": "ঘ. বাল্যবিবাহ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7400&grade=7&lesson=13454&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7400&grade=7&lesson=13454&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7400&grade=7&lesson=13454&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}

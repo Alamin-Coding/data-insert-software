@@ -1,0 +1,4623 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 743650,
+      "value": {
+        "options": [],
+        "question": "রাজার খামখেয়ালিতে মন্ত্রী _______ পড়লেন।",
+        "solution": "ফাঁপরে",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743650,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743651,
+      "value": {
+        "options": [],
+        "question": "রাজ্য",
+        "solution": "এ দেশ এক সময় কয়েকটি রাজ্যে বিভক্ত ছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743651,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743652,
+      "value": {
+        "options": [],
+        "question": "রথ",
+        "solution": "রাজা রথে চড়ে শিকারে যান।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743652,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743653,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা কীভাবে রাজ্য জয় করতে বের হলেন?",
+        "solution": "বড়ো রাজা বড়ো বড়ো হাতি-ঘোড়া, কামান-বন্দুক সাজিয়ে রাজ্য জয় করতে বের হলেন। তিনি মস্ত জয়ঢাক পিটিয়ে বড়ো বড়ো সেনাপতির সঙ্গে বড়ো বড়ো রাজ্য জয় করতে করতে চললেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743653,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743654,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা ছোটো রাজার উপর রেগে গেলেন কেন?",
+        "solution": "বড়ো রাজা একে একে সব বড়ো বড়ো রাজ্য জয় করেন। তিনি জানতে পারেন যে, ছোটো রাজা ছোটো ছোটো রাজ্য নিয়ে সুখে জীবনযাপন করছেন। তাই তিনি ছোটো রাজার বিরুদ্ধে যুদ্ধ ঘোষণা করেন। কিন্তু যুদ্ধে ছোটো রাজাকে পরাজিত করতে না পেরে তার সঙ্গে সন্ধির প্রস্তাব রাখেন। ছোটো রাজা বড়ো রাজার প্রস্তাব প্রত্যাখ্যান করেন এবং তিরস্কার করেন। তাই বড়ো রাজা ছোটো রাজার উপর রেগে গেলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743654,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743655,
+      "value": {
+        "options": [],
+        "question": "ছোটো রাজা রাজ্য জয় করতে কেমন সাজে চললেন?",
+        "solution": "ছোটো রাজা রাজ্য জয় করতে সাধারণ মানুষের সাজে চললেন। ছোটো ছোটো কামান-বন্দুক, হাতি-ঘোড়া নিয়ে ছোটো একটি পুঁটলি বেঁধে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743656,
+      "value": {
+        "options": [],
+        "question": "দূত ছোটো রাজার রাজত্ব দেখতে পেল না কেন?",
+        "solution": "ছোটো রাজার রাজ্যটি ছিল অনেক ছোটো। এতই ছোটো যে দূত তা দেখতেই পেল না। রাজা ও রাজত্ব সে খুঁজেই পেল না।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743657,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা ফাঁপরে পড়ে গেলেন কেন? সংক্ষেপে লেখ।",
+        "solution": "বড়ো রাজা ও ছোটো রাজার মধ্যে যুদ্ধ শুরু হলে ছোটো রাজার ফৌজ বড়ো রাজার সেনাপতির পায়ের তলা দিয়ে পালাল। তীর-কামান শত্রু আন্দাজ করতে না পেরে বাতাসে হানা দিতে থাকল। আকাশ থেকে সেগুলো ঝুপঝাপ বড়ো রাজার ছাউনির উপর পড়তে লাগল। বড়ো রাজার বড়ো বড়ো অস্ত্র বড় জিনিসকেই লক্ষ করে, ছোটকে দেখতে পায় না। এসব কারণে বড়ো রাজা ফাঁপরে পড়ে গেলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743658,
+      "value": {
+        "options": [],
+        "question": "সেনাপতির পায়ের তলা দিয়ে গলে ছোটো রাজার _______ পালাল।",
+        "solution": "ফৌজ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743659,
+      "value": {
+        "options": [],
+        "question": "সময়",
+        "solution": "অসময়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743660,
+      "value": {
+        "options": [],
+        "question": "ঘোড়া",
+        "solution": "অশ্ব",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743661,
+      "value": {
+        "options": [],
+        "question": "জয়",
+        "solution": "সাহস নিয়ে ভয়কে জয় করতে হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743662,
+      "value": {
+        "options": [],
+        "question": "অণুবীক্ষণ",
+        "solution": "ভাইরাসকে অণুবীক্ষণ দিয়ে দেখতে হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743663,
+      "value": {
+        "options": [],
+        "question": "যুদ্ধ",
+        "solution": "যুদ্ধ পৃথিবীকে অশান্ত করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743664,
+      "value": {
+        "options": {
+          "ক": "ঢোল",
+          "খ": "সানাই",
+          "গ": "জয়ঢাক",
+          "ঘ": "তবলা"
+        },
+        "question": "বড়ো রাজা কী পিটিয়ে রাজ্য জয় করতে চললেন?",
+        "solution": "গ. জয়ঢাক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743665,
+      "value": {
+        "options": {
+          "ক": "রানি",
+          "খ": "সেনাপতি",
+          "গ": "মন্ত্রী",
+          "ঘ": "চর"
+        },
+        "question": "ছোটো রাজার সুখে থাকার খবর বড়ো রাজাকে কে দিল?",
+        "solution": "ঘ. চর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743666,
+      "value": {
+        "options": {
+          "ক": "সামনে",
+          "খ": "অগোচরে",
+          "গ": "পিছনে",
+          "ঘ": "বাইরে"
+        },
+        "question": "ছোটো রাজার রাজ্যটি ছিল চক্ষুর-",
+        "solution": "খ. অগোচরে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743667,
+      "value": {
+        "options": {
+          "ক": "গাড়ি",
+          "খ": "যুদ্ধ বিমান",
+          "গ": "গোলাগুলি",
+          "ঘ": "জাহাজ"
+        },
+        "question": "ছোটো রাজার রাজ্যে চোখ চললেও কী চলার উপায় নেই?",
+        "solution": "গ. গোলাগুলি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743668,
+      "value": {
+        "options": [],
+        "question": "ঙ্গ",
+        "solution": "ঙ্ + গ, বিহঙ্গ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743669,
+      "value": {
+        "options": [],
+        "question": "যা গোচর নয় (জানা নয়)",
+        "solution": "অগোচর",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743670,
+      "value": {
+        "options": [],
+        "question": "যে ঢাক জয়ের পর বাজানো হয়",
+        "solution": "জয়ঢাক",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743671,
+      "value": {
+        "options": [],
+        "question": "চর",
+        "solution": "চর রাজাকে রাজ্যের সব খবর দেয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743671,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743672,
+      "value": {
+        "options": [],
+        "question": "ছোটো রাজার সুখের খবর শুনে বড়ো রাজা চরকে কী বললেন?",
+        "solution": "ছোটো রাজার সুখের খবর শুনে বড়ো রাজা চরকে বললেন, ছোটো রাজাকে যেন বলা হয়, বড়ো রাজা এই পৃথিবী জয় করে নিয়েছেন। তাই সে যেন রাজ্য ছেড়ে অন্যত্র চলে যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743673,
+      "value": {
+        "options": [],
+        "question": "মন্ত্রীরা কী মন্ত্রণা দিল? বুঝিয়ে লেখ।",
+        "solution": "মন্ত্রীরা সবার চোখে অণুবীক্ষণ লাগিয়ে যুদ্ধে যাওয়ার জন্য মন্ত্রণা দিল। বড়ো রাজা মস্ত মস্ত হাতি-ঘোড়া, রথ-রথী নিয়ে পৃথিবী কাঁপিয়ে চললেন। কিন্তু ছোটো রাজার রাজ্য এতই ছোটো যে, সেখানে হাতি-ঘোড়া কিছুই চলে না। তাই মন্ত্রীরা এমন মন্ত্রণা দিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743674,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা চললেন বড়ো বড়ো হাতি-ঘোড়া _______ সাজিয়ে।",
+        "solution": "বন্দুক-কামান",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743675,
+      "value": {
+        "options": [],
+        "question": "সুখে",
+        "solution": "দুঃখে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743676,
+      "value": {
+        "options": [],
+        "question": "খালি",
+        "solution": "পূর্ণ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743677,
+      "value": {
+        "options": [],
+        "question": "হাত",
+        "solution": "পাণি",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743678,
+      "value": {
+        "options": [],
+        "question": "পৃথিবী",
+        "solution": "ধরা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743679,
+      "value": {
+        "options": [],
+        "question": "ফৌজ",
+        "solution": "সৈনিক",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743680,
+      "value": {
+        "options": {
+          "ক": "ফাঁপরে",
+          "খ": "খালে",
+          "গ": "বিপদে",
+          "ঘ": "ফাঁদে"
+        },
+        "question": "বড়ো রাজা, বড়ো বড়ো মন্ত্রী ও বড়ো বড়ো সেনাপতি কীসে পড়ে গেলেন?",
+        "solution": "ক. ফাঁপরে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743681,
+      "value": {
+        "options": [],
+        "question": "ন্দ",
+        "solution": "ন্‌ + দ, আনন্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743682,
+      "value": {
+        "options": [],
+        "question": "ত্র",
+        "solution": "ত্ + র (র-ফলা), ছাত্ররাই",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743683,
+      "value": {
+        "options": [],
+        "question": "যিনি সেনাদলের পতি (প্রধান)",
+        "solution": "সেনাপতি",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743684,
+      "value": {
+        "options": [],
+        "question": "মধু সংগ্রহ করে যে মাছি",
+        "solution": "মৌমাছি",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743685,
+      "value": {
+        "options": [],
+        "question": "সমস্ত ছোটো রাজ্য জয় করে রাজা _______ বসলেন।",
+        "solution": "রাজসিংহাসনে",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743685,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743686,
+      "value": {
+        "options": [],
+        "question": "রাজা _______ করে এসেছেন।",
+        "solution": "দিগ্বিজয়",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743686,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743687,
+      "value": {
+        "options": [],
+        "question": "রাজ্য জয়ের আনন্দে চারিদিকে _______ বাজছে।",
+        "solution": "জয়ঢাক",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743687,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743688,
+      "value": {
+        "options": [],
+        "question": "রাজসিংহাসন",
+        "solution": "আমি রাজসিংহাসন চাই না।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743688,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743689,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা কেন ছোটো রাজ্যকে জয় করতে পারলেন না?",
+        "solution": "বড়ো রাজা বড়ো বড়ো অস্ত্রশস্ত্র, কামান, গোলাবারুদ নিয়ে ছোটো রাজার রাজ্য জয় করতে চললেন। কিন্তু ছোটো রাজা ও তাঁর রাজ্য এতই ছোটো ছিল যে, কেউ খালি চোখে তাকে দেখতে পায় না। তাঁর রাজ্যে হাতি-ঘোড়া কিছুই চলে না। এই কারণে বড়ো রাজা শত চেষ্টা করেও ছোটো রাজার রাজ্যকে জয় করতে পারলেন না।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743689,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743690,
+      "value": {
+        "options": [],
+        "question": "দূত 'ছোটো রাজার রাজ্য দেখতে না পেয়ে বড়ো রাজাকে কী খবর দিল?",
+        "solution": "দূত ছোটো রাজার রাজ্য দেখতে না পেয়ে বড়ো রাজাকে খবর দিল যে, ছোটো রাজার রাজ্য চক্ষুর অগোচর। সেখানে প্রবেশ করা ভারি কঠিন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743691,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা ছোটো রাজাকে অন্যত্র চলে যেতে বললেন কেন?",
+        "solution": "এ মস্ত পৃথিবীটা বড়ো রাজা ক্রমে ক্রমে জয় করে ফেললেন। চরের মুখে তিনি শুনলেন যে ছোটো রাজা তার ছোটো রাজ্য নিয়ে সুখে আছেন। তখন চরকে বড়ো রাজা বললেন, ছোটো রাজাকে যেন অন্যত্র চলে যেতে বলা হয়। কেননা পৃথিবীটা তিনি জয় করে নিয়েছেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743692,
+      "value": {
+        "options": [],
+        "question": "ছোটো রাজার রাজ্যে প্রবেশ করা ভারি কঠিন কেন?",
+        "solution": "ছোটো রাজার রাজ্যটি অনেক ছোটো। এটি এতই ছোটো যে, দূত দেখতেই পেল না। এখানে কোথায় রাজা, কোথায় রাজত্ব- কিছুই দেখা যায় না। এ রাজ্য ছিল চোখের অগোচরে। তাই ছোটো রাজার রাজ্যে প্রবেশ করা ভারি কঠিন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743693,
+      "value": {
+        "options": [],
+        "question": "সেখানে প্রবেশ করা ভারি _______।",
+        "solution": "কঠিন",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743694,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা হাত খুলে দেখলেন _______ খালি।",
+        "solution": "মুঠো",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743695,
+      "value": {
+        "options": [],
+        "question": "রাজা",
+        "solution": "নৃপতি",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743696,
+      "value": {
+        "options": [],
+        "question": "সন্ধি",
+        "solution": "জাপান ও বাংলাদেশ একটি সন্ধি করেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743697,
+      "value": {
+        "options": [],
+        "question": "দূত গেল ছোটো রাজার কাছে কিন্তু ছোটো রাজার সে রাজ্য এত ছোটো যে দূত দেখতেই পেল না কোথায় রাজা কোথায় রাজত্ব সে ফিরে এসে বড়ো রাজাকে খবর দিল চক্ষুর অগোচর সে রাজত্ব।",
+        "solution": "\u003Cdiv\u003Eদূত গেল ছোটো রাজার কাছে। কিন্তু ছোটো রাজার সে রাজ্য এত ছোটো যে দূত দেখতেই পেল না। কোথায় রাজা! কোথায় রাজত্ব! সে ফিরে এসে বড়ো রাজাকে খবর দিল- চক্ষুর অগোচর সে রাজত্ব।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743698,
+      "value": {
+        "options": {
+          "ক": "ছোটো",
+          "খ": "বড়ো",
+          "গ": "বিশাল",
+          "ঘ": "মাঝারি"
+        },
+        "question": "ছোটো রাজা কেমন রাজ্য জয় করতে করতে চললেন?",
+        "solution": "ক. ছোটো",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743699,
+      "value": {
+        "options": {
+          "ক": "বিশাল",
+          "খ": "বড়ো",
+          "গ": "ছোটো",
+          "ঘ": "মস্ত"
+        },
+        "question": "ছোটো রাজা কেমন রাজ্য নিয়ে সুখে ছিলেন?",
+        "solution": "গ. ছোটো",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743700,
+      "value": {
+        "options": {
+          "ক": "সহজ",
+          "খ": "আনন্দের",
+          "গ": "কঠিন",
+          "ঘ": "সৌভাগ্যের"
+        },
+        "question": "ছোটো রাজার রাজ্যে প্রবেশ করা ছিল ভারি-",
+        "solution": "গ. কঠিন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743701,
+      "value": {
+        "options": [],
+        "question": "স্ত",
+        "solution": "স্ + ত, মস্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743702,
+      "value": {
+        "options": [],
+        "question": "ক্র",
+        "solution": "ক্ + র (র-ফলা), ক্রিয়া",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743703,
+      "value": {
+        "options": [],
+        "question": "শিকারের খোঁজে রাজা _______ যাচ্ছেন।",
+        "solution": "অন্যত্র",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743703,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743704,
+      "value": {
+        "options": [],
+        "question": "রাজা _______ করলেন, ছোটো রাজা পালিয়ে যেতে পারেন।",
+        "solution": "আন্দাজ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743704,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743705,
+      "value": {
+        "options": [],
+        "question": "মুঠো",
+        "solution": "আমাকে একমুঠো চাল দাও।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743705,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743706,
+      "value": {
+        "options": [],
+        "question": "মস্ত বড়ো পৃথিবী জয় করার পর চর এসে বড়ো রাজাকে কীসের খবর দিল?",
+        "solution": "মস্ত বড়ো পৃথিবী জয় করার পর চর এসে বড়ো রাজাকে ছোটো রাজার খবর দিল। চর বলল, 'সে শুনেছে যে ছোটো রাজা তার ছোটো রাজ্য নিয়ে সুখে রয়েছেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743707,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজার সন্ধির কথা শুনে ছোটো রাজা কী বললেন?",
+        "solution": "বড়ো রাজার সন্ধির কথা শুনে ছোটো রাজা হেসে বললেন, বড়ো রাজা যেন নিজের মস্ত রাজত্ব নিয়ে সুখে থাকেন। ছোটোতে-বড়োতে সন্ধি হলে যা হয় সেটি বড়ো রাজা জানেন কি না তাও জানতে চান।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743708,
+      "value": {
+        "options": [],
+        "question": "মস্ত",
+        "solution": "বিশাল, দীর্ঘ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743709,
+      "value": {
+        "options": [],
+        "question": "কামান",
+        "solution": "গোলা নিক্ষেপ করা যায় এমন বৃহদাকার আগ্নেয়াস্ত্রবিশেষ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743710,
+      "value": {
+        "options": [],
+        "question": "পুঁটলি",
+        "solution": "ছোটো গাঁটরি, বোঁচকা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743711,
+      "value": {
+        "options": [],
+        "question": "অন্যত্র",
+        "solution": "অন্য স্থানে",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743712,
+      "value": {
+        "options": [],
+        "question": "আন্দাজ",
+        "solution": "অনুমান, ধারণা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743713,
+      "value": {
+        "options": [],
+        "question": "ছোটো রাজা চললেন _______ মানুষের সাজে।",
+        "solution": "সাধারণ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743714,
+      "value": {
+        "options": [],
+        "question": "সহজ",
+        "solution": "কঠিন",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743715,
+      "value": {
+        "options": [],
+        "question": "জয়",
+        "solution": "পরাজয়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743716,
+      "value": {
+        "options": [],
+        "question": "হাতি",
+        "solution": "হস্তী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743717,
+      "value": {
+        "options": [],
+        "question": "চক্ষু",
+        "solution": "চোখ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743718,
+      "value": {
+        "options": [],
+        "question": "সেনাপতি",
+        "solution": "সেনাপতি যুদ্ধ থেকে পালিয়ে গেলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743719,
+      "value": {
+        "options": {
+          "ক": "দিগ্বিজয়",
+          "খ": "হাঁটাহাঁটি",
+          "গ": "বাঘ শিকার",
+          "ঘ": "পাখি শিকার"
+        },
+        "question": "বড়ো রাজা ও ছোটো রাজা একদিন কী করতে চললেন?",
+        "solution": "ক. দিগ্বিজয়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743720,
+      "value": {
+        "options": {
+          "ক": "বড়ো",
+          "খ": "বুদ্ধিমান",
+          "গ": "ভদ্র",
+          "ঘ": "সাধারণ"
+        },
+        "question": "ছোটো রাজা কেমন মানুষের সাজে চললেন?",
+        "solution": "ঘ. সাধারণ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743721,
+      "value": {
+        "options": {
+          "ক": "আঁটি",
+          "খ": "পুঁটলি",
+          "গ": "বস্তা",
+          "ঘ": "বোঝা"
+        },
+        "question": "ছোটো রাজা কামান-বন্দুক, হাতি-ঘোড়া নিয়ে কী বাঁধলেন?",
+        "solution": "খ. পুঁটলি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743722,
+      "value": {
+        "options": {
+          "ক": "বড়ো রাজা",
+          "খ": "ছোটো রাজা",
+          "গ": "সেনাপতি",
+          "ঘ": "মন্ত্রীরা"
+        },
+        "question": "সবার চোখে অণুবীক্ষণ লাগিয়ে যুদ্ধে যাওয়ার মন্ত্রণা কে দিলেন?",
+        "solution": "ঘ. মন্ত্রীরা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743723,
+      "value": {
+        "options": {
+          "ক": "ফাঁপরে",
+          "খ": "খালে",
+          "গ": "বিপদে",
+          "ঘ": "ফাঁদে"
+        },
+        "question": "বড়ো রাজা, বড়ো বড়ো মন্ত্রী ও বড়ো বড়ো সেনাপতি কীসে পড়ে গেলেন?",
+        "solution": "ক. ফাঁপরে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743724,
+      "value": {
+        "options": [],
+        "question": "ন্ত",
+        "solution": "ন্‌ + ত, অন্তহীন",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743725,
+      "value": {
+        "options": [],
+        "question": "ক্ষ",
+        "solution": "ক্ + ষ, ক্ষতি",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743726,
+      "value": {
+        "options": [],
+        "question": "যিনি গোপনে খবর সংগ্রহ করেন",
+        "solution": "চর",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743727,
+      "value": {
+        "options": [],
+        "question": "যেখানে রাজার শাসন চালু আছে",
+        "solution": "রাজত্ব",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743728,
+      "value": {
+        "options": [],
+        "question": "রাজার জন্য নির্মিত সিংহাসন",
+        "solution": "রাজসিংহাসন",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-11-27T06:32:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180459,
+      "value": {
+        "options": {
+          "a": "সে পালিয়ে গিয়েছিল।",
+          "b": "সে বড়ো রাজাকে পরাজিত করে।",
+          "c": "সে বড়ো রাজাকে সম্মান দিয়েছে।",
+          "d": "সে ছোটো রাজ্যের জনগণকে সাহায্য করেছে।"
+        },
+        "question": "ছোটো রাজা যুদ্ধের সময় কি করেছিল?",
+        "chapter_id": "1333",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180455,
+      "value": {
+        "options": {
+          "a": "ছোটো রাজা সামরিক বাহিনী নিয়ে যায়, বড়ো রাজা সাধারণ মানুষের সাজে।",
+          "b": "বড়ো রাজা সাধারণ মানুষের সাজে এবং ছোটো রাজা সামরিক বাহিনীতে।",
+          "c": "ছোটো রাজা গোপনে রাজ্য জয় করে, বড়ো রাজা প্রকাশ্যে।",
+          "d": "বড়ো রাজা বড়ো বাহিনী নিয়ে যায়, ছোটো রাজা সাধারণ মানুষের সাজে।"
+        },
+        "question": "ছোটো রাজা এবং বড়ো রাজার মধ্যে মৌলিক পার্থক্য কী?",
+        "chapter_id": "1333",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-08-05T15:25:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180456,
+      "value": {
+        "options": {
+          "a": "তিনি দ্রুত জয়লাভ করেন।",
+          "b": "তিনি ছোটো রাজ্যের সেনাবাহিনী দেখতে পাননি।",
+          "c": "তিনি সেনাপতিদের সাথে আলোচনা করেন।",
+          "d": "তিনি যুদ্ধের সময় দ্রুত পালিয়ে যান।"
+        },
+        "question": "যুদ্ধের সময় বড়ো রাজার কি সমস্যা হয়েছিল?",
+        "chapter_id": "1333",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-08-05T15:25:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180457,
+      "value": {
+        "options": {
+          "a": "সে বড়ো রাজাকে যুদ্ধের জন্য ডাকে।",
+          "b": "সে বড়ো রাজাকে তার রাজ্যের জন্য রাগ দেয়।",
+          "c": "সে বড়ো রাজাকে সম্মান জানায়।",
+          "d": "সে বড়ো রাজাকে সমঝোতা করতে বলে।"
+        },
+        "question": "ছোটো রাজা কিভাবে বড়ো রাজাকে চ্যালেঞ্জ করে?",
+        "chapter_id": "1333",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-08-05T15:25:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180458,
+      "value": {
+        "options": {
+          "a": "তিনি ছোটো রাজ্য সম্পর্কে কিছু জানতেন না।",
+          "b": "তিনি ছোটো রাজ্যকে গুরুত্ব দিতে চাননি।",
+          "c": "তিনি ছোটো রাজ্য জয় করতে চেয়েছিলেন।",
+          "d": "তিনি শান্তি প্রতিষ্ঠা করতে চেয়েছিলেন।"
+        },
+        "question": "বড়ো রাজা কেন ছোটো রাজ্যের সন্ধি করতে চেয়েছিলেন?",
+        "chapter_id": "1333",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-08-05T15:25:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 144634,
+      "value": {
+        "options": {
+          "a": "Size does not matter when it comes to ruling effectively.",
+          "b": "The larger king quickly dominates the smaller king.",
+          "c": "The smaller king uses intelligence to outwit the larger king.",
+          "d": "Both kings fail to realize their true potential."
+        },
+        "question": "How does the narrative of the two kings illustrate the relationship between size and power?",
+        "solution": "Solution:\n1. Read the narrative: it contrasts physical size with cleverness and shows how actions and decisions determine outcomes rather than raw strength.\n2. Identify the outcome: the smaller king succeeds by using intelligence to trick or outmaneuver the larger king, so the story emphasizes wit over size.\n3. Conclusion: this matches option (c) because the key lesson is that the smaller king’s intelligence gives him the advantage.\n\nWhy other options are incorrect:\n- a is wrong because the story does not claim size is irrelevant in every case; it specifically highlights intelligence as decisive here.\n- b is wrong because the larger king does not quickly dominate; instead he is outwitted.\n- d is wrong because both kings do realize and demonstrate their contrasting qualities (size vs. cunning), and one clearly gains the upper hand.",
+        "chapter_id": "1333",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-29T16:04:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 144635,
+      "value": {
+        "options": {
+          "a": "The insignificance of small territories.",
+          "b": "The wisdom and cleverness of the smaller king.",
+          "c": "The opportunity for the larger king to conquer easily.",
+          "d": "The potential for growth and expansion."
+        },
+        "question": "In the story of the two kings, what does the small kingdom symbolize?",
+        "solution": "Solution:\nStep 1: Identify what the small kingdom represents in the narrative—look at the actions and outcome connected to it.  \nStep 2: In the story the smaller king uses intelligence and strategy to achieve his ends, so the small kingdom symbolizes his wisdom and cleverness. Therefore option (b) is correct.  \nWhy others are wrong: option (a) treats size as mere insignificance, which the story contradicts; (c) assumes easy conquest by the larger king, contrary to the plot; (d) emphasizes future growth, which is not the primary symbolic point.",
+        "chapter_id": "1333",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-29T16:04:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 144636,
+      "value": {
+        "options": {
+          "a": "The triumph of might over right.",
+          "b": "The importance of strategy over brute force.",
+          "c": "The inevitability of fate.",
+          "d": "The exploration of friendship between rulers."
+        },
+        "question": "What is the central theme of the story involving the two kings?",
+        "solution": "Solution: Read the story focusing on how the conflict is resolved. Step 1: Note that one king wins or survives by planning, deception, or clever tactics rather than by sheer physical strength. Step 2: Conclude that the narrative praises intelligence and planning as superior to force, so the central theme is strategy over brute force — option b. Other options are incorrect because (a) the story does not celebrate raw might, (c) it does not hinge on unavoidable fate, and (d) it is not primarily about friendship between rulers.",
+        "chapter_id": "1333",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-29T16:04:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 144637,
+      "value": {
+        "options": {
+          "a": "As a means of determining victory in battle.",
+          "b": "As a tool for understanding the enemy's strategy.",
+          "c": "As a method to see the small kingdom.",
+          "d": "As a technique for diplomatic negotiations."
+        },
+        "question": "In which context does the term 'Anubikshan' appear in the story about the two kings?",
+        "solution": "সমাধান:\nStep 1: গল্পের সেই অংশটি মনে করুন যেখানে 'অনুবীক্ষণ' শব্দটি ব্যবহৃত হয়েছে—সেখানে এটি কোনো যুদ্ধ বা কূটনীতি নয় বরং ছোট রাজ্যটিকে প্রত্যক্ষভাবে দেখার প্রসঙ্গে এসেছে।  \nStep 2: শব্দের অর্থ ও প্রেক্ষাপট দেখে বোঝা যায় যে 'অনুবীক্ষণ' এখানে কোনো দৃশ্য দেখার বা নজরদারির পদ্ধতি হিসেবে ব্যবহৃত হয়েছে।  \nStep 3: অন্য অপশনগুলো বাতিল করা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (যুদ্ধের জয়ের মাধ্যম) ও \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (শত্রুর কৌশল বোঝার সরঞ্জাম) এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (কূটনৈতিক কৌশল)—এইগুলো গল্পের নির্দিষ্ট প্রসঙ্গে মিলে না।  \nঅতএব সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E — ছোট রাজ্য দেখতে ব্যবহৃত পদ্ধতি।",
+        "chapter_id": "1333",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-29T16:04:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 144638,
+      "value": {
+        "options": {
+          "a": "The smaller king has a larger army.",
+          "b": "The smaller king relies on cunning and strategy.",
+          "c": "The larger king has better resources.",
+          "d": "The larger king is more experienced."
+        },
+        "question": "What distinct feature separates the smaller king from the larger king in their pursuit of conquest?",
+        "solution": "Solution:\nStep 1: Identify the distinguishing trait asked for — what makes the smaller king different from the larger king in how he pursues conquest.  \nStep 2: Compare each option to that trait: (a) contradicts “smaller”; (c) and (d) describe advantages of the larger king, not a distinguishing method used by the smaller king.  \nStep 3: Conclude that the smaller king compensates for fewer men/resources by using clever plans and tactics, i.e., relying on cunning and strategy.  \nTherefore the correct answer is (b).",
+        "chapter_id": "1333",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-29T16:04:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 144639,
+      "value": {
+        "options": {
+          "a": "Might always triumph over intelligence.",
+          "b": "Different approaches to leadership yield different results.",
+          "c": "Diplomacy is often ineffective.",
+          "d": "Size equates to strength in all scenarios."
+        },
+        "question": "What underlying message can be derived from the relationship between the two kings?",
+        "solution": "Solution: Step 1: Identify the contrast — the story presents two kings who use different methods (one relies on force/size, the other on intelligence/strategy). Step 2: Compare outcomes — the narrative shows that each approach leads to different consequences or successes, so the core message is about variability in leadership styles. Step 3: Conclusion — therefore the correct choice is (b) Different approaches to leadership yield different results. \n\nExplanation why others are incorrect: (a) is too absolute — might does not always triumph over intelligence; (c) is false because diplomacy can be effective in many cases and the story emphasizes methods rather than condemning diplomacy; (d) is a generalization — size does not equate to strength in all scenarios.",
+        "chapter_id": "1333",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-29T16:04:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105224,
+      "value": {
+        "options": [],
+        "question": "ছোটো রাজা কিভাবে বড়ো রাজার কাছে হেরে যায়?",
+        "solution": "সমাধান:\n\nদৃষ্টিভঙ্গি ও ধারণা:\n- এখানে প্রশ্নটি ধাঁধা-ধাঁচের; \"রাজা\" ও \"রাজ্য\" শব্দগুলোকে বাস্তব যুদ্ধের পরিবর্তে প্রবেশ ও আভ্যন্তরীণ নিয়ন্ত্রনের অর্থে নেওয়া হয়েছে।\n- মূল ভাবনা: বড়ো রাজা ছোটো রাজ্যে প্রবেশ করতে না পারা—তার ফলে পরিস্থিতি কিভাবে ছোটো রাজাকে হার হিসেবে গৃহীত হয়, তা ব্যাখ্যা করতে হবে।\n\nধাপগত যুক্তি:\n1. ধরুন ছোটো রাজা তার নিজের রাজ্যে নিরাপদভাবে অবস্থান করছে এবং প্রবেশদ্বার সুষ্ঠুভাবে রক্ষিত। বড়ো রাজা আক্রমণ করে কিন্তু সে ছোটো রাজ্যের মধ্যে প্রবেশ করতে পারে না (প্রকৃত বাধা, কূটনীতি বা রক্ষাকারী,strong دفاع-এর কারণে)।\n2. বড়ো রাজা রাজ্যে প্রবেশ করতে না পারায় সে সরাসরি যুদ্ধ জিততে পারে না; কিন্তু দীর্ঘ সময় বড়ো রাজা বাইরে থেকে অবরোধ বা অর্থনৈতিক চাপ প্রয়োগ করতে পারে — ফলত ছোটো রাজ্যের মানুষ দুর্ভোগে পড়ে, অভ্যন্তরীণ অস্বস্তি বাড়ে।\n3. অভ্যন্তরীণ অস্থিরতা, অভাব বা বিদ্রোহের ফলে ছোটো রাজা নিজের জনগণের ওপর নিয়ন্ত্রণ হারাতে পারে এবং তাতে ক্ষমতা ও পতনের মুখে পড়ে — এভাবেই আনোক্ষিকভাবে “ছোটো রাজা বড়ো রাজার কাছে হেরে যায়” যদিও বড়ো রাজা সরাসরি রাজ্যে প্রবেশ করতে পারেনি।\n\nসংক্ষেপে সিদ্ধান্ত:\n- মূল কারণ: বড়ো রাজা ছোটো রাজ্যে সরাসরি প্রবেশ করতে পারেনি, তবে বাইরের অবরোধ ও চাপের মাধ্যমে ছোটো রাজ্যের অভ্যন্তরীণ স্থিতিশীলতা ভেঙে পড়ে এবং শেষ পর্যন্ত ছোটো রাজা বড়ো রাজার কাছে পরাজিত হয়।\n- তাই উত্তরে বলা যায়: বড়ো রাজা ছোটো রাজ্যে প্রবেশ করতে পারেনি (এটাই ঘটনার কৌশলগত কেন্দ্র), এবং এ থেকেই ছোটো রাজার পরাজয় উপসংহার করা যায়।",
+        "chapter_id": "1333",
+        "explanation": "বড়ো রাজা ছোটো রাজ্যে প্রবেশ করতে না পারায় ছোটো রাজাকে নিজের রাজ্য ছেড়ে বের হতে হয়েছিল, ফলে সে নিরাপদ আশ্রয় হারিয়ে পড়লো। রাজ্য ছাড়তেই ছোটো রাজা বড়ো রাজার হাতে পরাজিত হয় — এ কারণেই উক্ত উক্তি সত্য।",
+        "correct_answer": "বড়ো রাজা ছোটো রাজ্যে প্রবেশ করতে পারেনি"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-16T05:40:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105225,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা এবং ছোটো রাজার মধ্যে কি মূল পার্থক্য ছিল?",
+        "solution": "সমাধান:\nউত্তরকে সরলভাবে বোঝার জন্য প্রথমে শব্দসমূহের অর্থ নির্ধারণ করা দরকার। এরপর বৈশিষ্ট্য অনুযায়ী তুলনা করলে মূল পার্থক্য স্পষ্ট হবে।\n\nপদ্ধতি ও ধাপসমূহ:\n1. সংজ্ঞা নিরূপণ: “বড়ো রাজা” শব্দটি নির্দেশ করে যে তিনি বড়ো বা বৃহৎ আঞ্চলিক/রাষ্ট্রের শাসক; “ছোটো রাজা” নির্দেশ করে যে তিনি ছোটো আঞ্চলিক/রাষ্ট্রের শাসক।  \n2. পর্যবেক্ষণ: রাজ্য বা রাষ্ট্রের আকারই এখানে মূল ভিন্নতা—একজন বড়ো রাজা বৃহৎ ভূখণ্ড, বেশি জনগণ ও সম্পদকে নিয়ন্ত্রণ করে; একজন ছোটো রাজা অপেক্ষাকৃত কম ভূখণ্ড, কম জনগণ ও সীমিত সম্পদ নিয়ন্ত্রণ করেন।  \n3. সিদ্ধান্ত/উপসংহার: তাই মূল পার্থক্য হল তাদের রাজত্বের ক্ষেত্র বা রাজ্যের আকার—বড়ো রাজা বড়ো রাজ্যে রাজত্ব করেন এবং ছোটো রাজা ছোটো রাজ্যে রাজত্ব করেন।\n\nসংক্ষিপ্ত যুক্তি ও প্রাসঙ্গিক দিক:\n- ক্ষমতা ও প্রভাব معمولاً রাজ্যের আকারের সঙ্গে সম্পর্কিত; বড়ো রাজ্যের শাসক সাধারণত বেশি সামরিক, প্রশাসনিক ও অর্থনৈতিক দায়িত্ব পেয়ে থাকেন।  \n- ছোটো রাজ্যগুলোর শাসকদের কর্তৃত্ব ও সম্পদ সীমিত থাকে।  \nউদাহরণস্বরূপ, যদি এক রাজা পুরো প্রদেশ নিয়ন্ত্রণ করেন, আর অন্য রাজা মাত্র একটি গ্রামের অঞ্চল নিয়ন্ত্রণ করেন, তবে প্রথমটিকে বড়ো রাজা, দ্বিতীয়টিকে ছোটো রাজা বলা যায়—অর্থাৎ পার্থক্য রাজ্যের আকারেই নির্ধারিত।\n\nউত্তর (সংক্ষেপে): বড়ো রাজা বড়ো রাজ্যে রাজত্ব করেন এবং ছোটো রাজা ছোটো রাজ্যে রাজত্ব করেন; এখানে মূল পার্থক্য তাদের রাজ্যের আকার ও সম্পর্কিত ক্ষমতা।",
+        "chapter_id": "1333",
+        "explanation": "মুল পার্থক্য হলো রাজ্যের আয়তন ও ক্ষমতা — বড়ো রাজা বড়ো রাজ্যে এবং ছোটো রাজা ছোটো রাজ্যে রাজত্ব করেন। এখানে \"বড়ো\" ও \"ছোটো\" শব্দগুলো রাজ্যের ক্ষেত্রফল, জনগণ ও ক্ষমতার পরিমাণ বোঝায়, তাই তাদের শাসন এলাকাও আলাদা।",
+        "correct_answer": "বড়ো রাজা বড়ো রাজ্যে এবং ছোটো রাজা ছোটো রাজ্যে রাজত্ব করছে"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-16T05:40:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105226,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা কেন ছোটো রাজ্যের সন্ধি করতে চাইল?",
+        "solution": "সমাধান:\n\nউত্তর: ছোটো রাজ্যের রাজা তাকে অদৃশ্য মনে করেছিল — তাই বড়ো রাজা সন্ধি করতে চাইল।\n\nপদ্ধতি ও যুক্তি:\n1. পর্যবেক্ষণ: বড়ো রাজা লক্ষ্য করলো যে ছোটো রাজ্যের আচরণে বা কূটনৈতিক রীতিতে তার প্রতি শ্রদ্ধা বা স্বীকৃতি নেই — অর্থাৎ ছোটো রাজা তাকে গুরুত্ব দিচ্ছে না বা অবজ্ঞা করছে।\n2. অর্থায়ন ও বিশ্লেষণ: রাজ্যগুলোর কূটনীতি ও ক্ষমতার ভিত্তিতে, কোনো শক্তিশালী সরকার যদি ছোট একটি প্রতিবেশীকে “অদৃশ্য” বলে ধরে—অর্থাৎ তার মর্যাদা বা স্বীকৃতি উপেক্ষা করে—তবে তা দীর্ঘমেয়াদি অসন্তোষ, সীমান্ত নাড়াচাড়া বা বিদ্রোহ সৃষ্টি করতে পারে।\n3. সিদ্ধান্ত গ্রহণের কারণসমূহ:\n   - স্বীকৃতি ও মর্যাদা পুনরুদ্ধার: সন্ধি করলে বড়ো রাজা আনুষ্ঠানিকভাবে ছোটো রাজার সঙ্গে সম্পর্ক স্থাপন করে নিজের মর্যাদা নিশ্চিত করতে পারে।\n   - স্থিতিশীলতা ও নিরাপত্তা: সন্ধির মাধ্যমে সীমান্ত সংঘর্ষ ও বিদ্বেষ কমানো যায়, এবং সামরিক ব্যয় বাঁচে।\n   - কূটনৈতিক শিষ্টাচার ও প্রভাব: সন্ধি বড়ো রাজাকে ছোটো রাজাকে কূটনৈতিকভাবে নিয়ন্ত্রণ বা প্রভাবধারণ করার সুযোগ দেয়, যাতে ভবিষ্যতে অবহেলা বন্ধ করা যায়।\n4. প্রত্যাশিত ফল: সন্ধির ফলে ছোটো রাজা যদি বড়ো রাজার গুরুত্ব মেনে নেয়, তাহলে বড়ো রাজার অবস্থান শক্ত হবে এবং দীর্ঘমেয়াদি সংঘাত এড়ানো সম্ভব হবে।\n\nসংক্ষিপ্ত উপসংহার: ছোটো রাজা তাকে অদৃশ্য মনে করলে বড়ো রাজা তার মর্যাদা ও নিরাপত্তা পুনঃপ্রতিষ্ঠার জন্য, এবং সম্ভাব্য সংঘাত রোধ করার জন্য সন্ধি করতে চায়।",
+        "chapter_id": "1333",
+        "explanation": "বড়ো রাজা সন্ধি চেয়েছিলেন কারণ ছোটো রাজা তাকে অদৃশ্য মনে করে উপেক্ষা করছিল, ফলে বড়ো রাজার মর্যাদা নষ্ট হচ্ছিল। সন্ধি করে সেই স্বীকৃতি ও সম্মান পুনরুদ্ধার করা—and রাজনৈতিকভাবে সম্পর্ক নিয়ন্ত্রণ করা—সম্ভব হতো।",
+        "correct_answer": "ছোটো রাজ্যের রাজা তাকে অদৃশ্য মনে করেছিল"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-16T05:40:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105227,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা ছোটো রাজার রাজ্যে কীভাবে প্রবেশ করতে গেল?",
+        "solution": "সমাধান:\n\nউত্তর সংক্ষিপ্তভাবে: অণুবীক্ষণ ব্যবহার করে।\n\nউত্তর দেয়ার পদ্ধতি ও যুক্তি:\n1. প্রশ্নের ব্যাখ্যা: এখানে “বড়ো রাজা” এবং “ছোটো রাজার রাজ্য” এখানে আংশিকভাবে আক্ষরিক নয়—ছোটো রাজ্য বোঝায় অত্যন্ত ক্ষুদ্র বা অণুস্তরীয় জগত (যেমন কোষ, ব্যাকটেরিয়া ইত্যাদি) যা সরাসরি মানুষের চোখে দেখা যায় না।\n2. সমস্যার মূল: সাধারণ আকারের কোনো ব্যক্তি বা বস্তু সেই ক্ষুদ্র জগতে সরাসরি “প্রবেশ” করতে পারে না এবং চোখ দিয়ে দেখতে পারেনা।\n3. সমাধান নীতিমালা: ক্ষুদ্র জগৎ দেখতে ও বিশ্লেষণ করার জন্য অণুবীক্ষণ (microscope) ব্যবহার করা হয়—এটি ছোট বস্তুগুলোকে জরুরীভাবে বড় করে দেখায় (magnification) এবং তাদের সূক্ষ্ম কাঠামো আলাদা করতে সক্ষম হয় (resolution)।\n4. উপসংহার ও যৌক্তিকতা: তাই “বড়ো রাজা ছোটো রাজার রাজ্যে প্রবেশ করতে গেল” অর্থেই বোঝাতে চাওয়া হয়েছে যে সে সেই ক্ষুদ্র জগৎকে দেখেছে/অবলোকন করেছে—এটি করার উপায় হলো অণুবীক্ষণ ব্যবহার করা। অতএব সঠিক উত্তর: অণুবীক্ষণ ব্যবহার করে।\n\nসংক্ষিপ্ত উদাহরণ (প্রয়োজনীয়তাানুযায়ী): একজন বিজ্ঞানী মানুষের চোখে অদৃশ্য ব্যাকটেরিয়া দেখতে চাইলে লাইট মাইক্রোস্কোপ বা আরও ক্ষুদ্রকোশকে দেখতে ইলেকট্রন মাইক্রোস্কোপ ব্যবহার করে—এই ধারণাই এখানে বিদ্যমান।",
+        "chapter_id": "1333",
+        "explanation": "ব্যাখ্যা: এখানে 'ছোটো রাজা' বোঝানো হয়েছে ক্ষুদ্র বা মাইক্রোস্কোপিক জগতকে, আর বড়ো রাজাকে সেখানে পৌঁছে দেখাতে বা উপস্থিত করার জন্য অণুবীক্ষণ (মাইক্রোস্কোপ) প্রয়োজন। তাই অণুবীক্ষণ ব্যবহার করলে বড়ো রাজাকে সেই ছোট জগতে দেখা/প্রবেশ করানো সম্ভব হওয়ায় উত্তরটি সঠিক।",
+        "correct_answer": "অণুবীক্ষণ ব্যবহার করে"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-16T05:40:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105228,
+      "value": {
+        "options": [],
+        "question": "ছোটো রাজা কিভাবে বড়ো রাজাকে প্রতারণা করে?",
+        "solution": "সমাধান:\n\nউত্তর পাওয়ার পদ্ধতি ও যুক্তি:\n1. প্রশ্নে প্রধান কৌশলটি নির্ণয় করতে হবে — এখানে কীভাবে প্রতারণা হয়েছে তা বুঝতে হবে। মূল শব্দ: “প্রতারণা” ও “কিভাবে” এবং দেয়া সঠিক উত্তরটির ভাষা দেখে ধারণা পাওয়া যায় যে প্রতারণার উপায়টি ছিল দৃশ্যত লুকানো বা অদৃশ্যতা।\n\n2. কাজের ধাপসমূহ:\n   - ছোটো রাজা লক্ষ্য করে যে বড়ো রাজা রাজত্বটি সরাসরি পালন করছেন না অথবা নজরদারি কম রাখেন।\n   - সেই সুযোগে ছোটো রাজা রাজ্যের কোনো অংশকে দৃশ্যচ্যুত করে রাখে — মানে বড়ো রাজার দৃষ্টি বা নজর থেকে তা লুকিয়ে রাখে।\n   - ফলে বড়ো রাজা বুঝতে পারেন না যে রাজত্বের উপর ছোটো রাজার কার্যক্রম চলেছে বা সেটি তার নিয়ন্ত্রণে নেই।\n\n3. প্রযোজ্য কনসেপ্ট ও নীতি:\n   - প্রতারণা সাধারণত দৃষ্টি বা তথ্য আটকিয়ে করে; এখানে “দৃষ্টি-অগোচর” হওয়া মানে তথ্যের অনুপস্থিতি বা মিশ্রণ সৃষ্টি করা।\n   - মিশরী কৌশল/প্রতারণার নীতিতে এটি একটা মৌলিক পদ্ধতি: লক্ষ্য ব্যক্তির নজর ঘুরিয়ে দিয়ে যেটা করো সেটা লুকিয়ে রাখা।\n\n4. যুক্তিযুক্ত ব্যাখ্যা:\n   - বড়ো রাজা যদি কোনো স্থানে ধারাবাহিকভাবে দৃষ্টি না রাখেন বা অবহেলা করেন, তাহলে ছোটো রাজা সেই অখণ্ডতাকে কাজে লাগিয়ে রাজত্বকে বড়ো রাজার দৃষ্টির বাইরে রাখল। ফলে বড়ো রাজার কাছে প্রতারণা সফল হলো কারণ মূল বিষয় তার অগোচরে ছিল।\n\nউপসংহার:\nরাজত্ব তার চক্ষুর অগোচর ছিল।",
+        "chapter_id": "1333",
+        "explanation": "ব্যাখ্যা: ছোটো রাজা বড়ো রাজাকে প্রতারণা করেছে কারণ সে নিজের রাজত্বকে বড়ো রাজার চক্ষুর অগোচরে রাখে — অর্থাৎ রাজ্য লুকিয়ে বা গোপন করে যাতে বড়ো রাজা তা দেখতে না পারে। এই কৌশলটি পর্যবেক্ষণের অভাবকে কাজে লাগিয়ে প্রতারণা ঘটায়।",
+        "correct_answer": "রাজত্ব তার চক্ষুর অগোচর ছিল"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-16T05:40:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105206,
+      "value": {
+        "options": {
+          "a": "ছোটো রাজ্যের আকার",
+          "b": "ছোটো রাজার গুণ",
+          "c": "বড়ো রাজ্যের শক্তি",
+          "d": "ছোটো রাজার সেনাবাহিনী"
+        },
+        "question": "বড়ো রাজা ও ছোটো রাজার গল্পে কোনটি বড়ো রাজার ভুল বোঝাবুঝির কারণ?",
+        "solution": "সমাধান:\n1. প্রশ্নের মূল উদ্দেশ্য নির্ণয়: কী কারণে বড়ো রাজা ছোটো রাজাকে ভুলভাবে ব্যাখ্যা করেছে তা খুঁজতে হবে।\n2. গল্প অনুযায়ী বড়ো রাজা তার ধারণা তৈরি করেছিলেন ছোটো রাজ্যের আকার (টেরিটরি/দৈহিক আকার) দেখে — তাই ভুল বোঝাবুঝির মূলে ছিল আকৃতি/আয়তন নিয়ে করা অনুমান।\n3. তাই সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E — ছোটো রাজ্যের আকার।\n4. সংক্ষিপ্তভাবে অন্যগুলো কেন ভুল: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (ছোটো রাজার গুণ) ব্যক্তিগত গুণ নির্দেশ করে, যা ভুল বোঝাবুঝির সরাসরি কারণ নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বড়ো রাজ্যের শক্তি) বড়ো রাজার নিজস্ব পরিস্থিতি, ভুল বোঝাবুঝির কারণ নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (ছোটো রাজার সেনাবাহিনী) গল্পে উল্লেখিত প্রধান কারণ হিসেবে উঠছে না।",
+        "chapter_id": "1333",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-16T05:40:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105207,
+      "value": {
+        "options": {
+          "a": "ছোটো রাজ্য তার কাছে অদৃশ্য ছিল",
+          "b": "ছোটো রাজা যুদ্ধ করতে চাইল",
+          "c": "বড়ো রাজা ভয় পেয়েছিল",
+          "d": "ছোটো রাজা ছিল অনেক শক্তিশালী"
+        },
+        "question": "ছোটো রাজা কেন বড়ো রাজাকে শেষে শান্তি করতে বললেন?",
+        "solution": "সমাধান: প্রশ্নের সূত্র থেকে \"ছোটো রাজ্য তার কাছে অদৃশ্য ছিল\" এই বিবরণ সরাসরি মিলছে, তাই সঠিক উত্তর হল a। ধাপে ধাপে: (1) প্রশ্নটি বুঝে দেখি কী কারণে শান্তি বলা হয়েছে — অদৃশ্যতার অর্থ শত্রু আছে-না বা লড়াই করা অর্থহীন; (2) অপশনগুলোর মধ্যে কেবল a এই ধারণা দেয়; (3) অন্য অপশনগুলো সঙ্গত নয় — b (যুদ্ধ করতে চাইল) বিরোধপূর্ণ, c (বড়ো রাজা ভয় পেয়েছিল) উল্লেখ নেই, d (ছোটো রাজা শক্তিশালী) গল্পের সূত্রে সমর্থিত নয়। তাই উত্তর a সঠিক।",
+        "chapter_id": "1333",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-16T05:40:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105208,
+      "value": {
+        "options": {
+          "a": "ছোটো রাজ্যের নিরাপত্তা ছিল",
+          "b": "ছোটো রাজ্য ছিল দিগন্তের গোপন",
+          "c": "বড়ো রাজ্যের সেনা ছিল অপর্যাপ্ত",
+          "d": "ছোটো রাজ্যে অণুবীক্ষণ লাগিয়ে যেতে হয়"
+        },
+        "question": "বড়ো রাজা কেন ছোটো রাজ্যে প্রবেশ করতে পারলেন না?",
+        "solution": "সমাধান:\n1. প্রশ্নের প্রতিটি বিকল্প বিশ্লেষণ করলে দেখা যায় যে শুধুমাত্র \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E তেই এমন কারণ বলা হয়েছে যা ভৌতভাবে বড়ো রাজাকে প্রবেশে অক্ষম করে — ছোটো রাজ্যে প্রবেশ করতে হলে অণুবীক্ষণ-মানুষ হতে হবে।  \n2. তাই যুক্তিযুক্ত ব্যাখ্যা হলো: বড়ো রাজা শারীরিকভাবে ছোটো রাজ্যের ভিতরে প্রবেশ করার জন্য যথেষ্ট নন, ফলে তাকে অণুবীক্ষণ করে দিতে হবে — যা সম্ভব না হওয়ায় তিনি প্রবেশ করতে পারেননি।  \n3. অন্যান্য বিকল্পগুলো ভুল কারণ: \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E নিরাপত্তা থাকলে রাজা যুদ্ধ বা কৌশলে ঢুকতে পারতেন, \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E দিগন্তের গোপন তর্কগতভাবে অর্থবহ নয়, এবং \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E সেনাবলের অপর্যাপ্ততা ব্যক্তিগত প্রবেশে বাধা দেয় না।  \nসঠিক উত্তর: d",
+        "chapter_id": "1333",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-16T05:40:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105209,
+      "value": {
+        "options": {
+          "a": "রাজ্যের গুরুত্ব",
+          "b": "যুদ্ধের কৌশল",
+          "c": "শান্তির প্রয়োজন",
+          "d": "ছোট রাজ্যের শক্তি"
+        },
+        "question": "ছোটো রাজা বড়ো রাজাকে কি শিক্ষা দিলেন?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নের মূল লক্ষ্য হলো ছোটো রাজা বড়ো রাজাকে কি শিক্ষা দিলেন—এখানে গল্পগত সূচনায় ছোটো রাজা যেটি বারবার জোর দেন সেটি ছিল সহিংসতা পরিহার করে দ্বন্দ্ব সমাধান করা এবং শান্তি প্রতিষ্ঠা করা।  \nধাপ ২: এই কারণে দেওয়া বিকল্পগুলির মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E (শান্তির প্রয়োজন) সরাসরি ম্যাচ করে এবং তাই সঠিক উত্তর।  \nবাকি বিকল্পগুলির খণ্ডিত ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (রাজ্যের গুরুত্ব) সাধারণ বিষয় হলেও বিশেষ শিক্ষা নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (যুদ্ধের কৌশল) পুরোপুরি বিপরীত; \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E (ছোট রাজ্যের শক্তি) হয়তো আংশিক সত্য হতে পারে কিন্তু মূল শিক্ষা নয়।",
+        "chapter_id": "1333",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-16T05:40:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105210,
+      "value": {
+        "options": {
+          "a": "ছোটো রাজ্যের আকার",
+          "b": "ছোটো রাজ্যের গোপন কথা",
+          "c": "ছোটো রাজা কোথায় আছেন",
+          "d": "ছোটো রাজ্যের নিরাপত্তা"
+        },
+        "question": "বড়ো রাজা সাংবাদিকদের মাধ্যমে কি জানতে চাইলেন?",
+        "solution": "সমাধান:\n1) প্রশ্নের প্রসঙ্গ থেকে বোঝা যায় বড়ো রাজা সাংবাদিকদের মাধ্যমে এমন কিছু জানতে চেয়েছেন যা লোকেশন বা অবস্থান জানাতে সাহায্য করে।\n2) বিকল্প বিশ্লেষণ করলে (c) \"ছোটো রাজা কোথায় আছেন\" সরাসরি সাংবাদিকদের মাধ্যমে জিজ্ঞেস করার মতো বিষয়—সাংবাদিকেরা ঠিকানা, অবস্থান বা খবর জোগাড় করতে সক্ষম। অন্য বিকল্পগুলো—(a) ছোটো রাজ্যের আকার, (b) ছোটো রাজ্যের গোপন কথা, (d) ছোটো রাজ্যের নিরাপত্তা—এসব সাধারণত সাংবাদিকদের মাধ্যমে সরাসরি জিজ্ঞাসা করে জানতে চাওয়া হয় না বা প্রসঙ্গ অনুযায়ী অনুপযুক্ত।\nঅতএব সঠিক উত্তর: c — ছোটো রাজা কোথায় আছেন।",
+        "chapter_id": "1333",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-16T05:40:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105211,
+      "value": {
+        "options": {
+          "a": "ছোটো রাজ্যের অসাধারণ কাজ",
+          "b": "ছোটো রাজা যুদ্ধ জয় করেছেন",
+          "c": "ছোটো রাজা শান্তি প্রতিষ্ঠা করেছেন",
+          "d": "ছোটো রাজা বুদ্ধিমত্তা দেখিয়েছেন"
+        },
+        "question": "বড়ো রাজা কি কারণে ছোটো রাজাকে সম্মানিত করলেন?",
+        "solution": "সমাধান:\nপ্রশ্নটি বুঝে নেওয়া হচ্ছে যে বড়ো রাজা ছোটো রাজাকে সম্মান করেছেন — কেন এমন সম্মান পাওয়া গেল তা খুঁজতে হবে।\n\nধাপ ১: বিকল্পগুলো পর্যবেক্ষণ করা—(a) অসাধারণ কাজ, (b) যুদ্ধ জয়, (c) শান্তি প্রতিষ্ঠা, (d) বুদ্ধিমত্তা।\nধাপ ২: রাজা সাধারণত এমন কর্মকাণ্ডকে সম্মান করেন যা প্রজাদের কল্যাণ ও স্থিতিশীলতা নিশ্চিত করে; শান্তি প্রতিষ্ঠা সরাসরি সাধারণ মানুষ ও রাজ্যের মঙ্গলের সঙ্গে সম্পর্কিত।\nধাপ ৩: অন্যান্য বিকল্পগুলি সম্ভাব্য হলেও (a) সাধারণভাবে অস্পষ্ট এবং (b) যুদ্ধ জয় কদাচিৎ দীর্ঘস্থায়ী সম্মানের কারণ হয় যদি তা ন্যায়পরায়ণ হয়; (d) বুদ্ধিমত্তা সম্মান্য, কিন্তু প্রভূত সম্মান এবং সমগ্র রাজ্যের কল্যাণের নির্ধারক হিসেবে শান্তি প্রতিষ্ঠা সবচেয়ে স্পষ্ট কারণ।\n\nঅতএব সঠিক উত্তর: (c) ছোটো রাজা শান্তি প্রতিষ্ঠা করেছেন।",
+        "chapter_id": "1333",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-16T05:40:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105212,
+      "value": {
+        "options": {
+          "a": "রাজ্য জয় করা",
+          "b": "বুদ্ধিমত্তার শক্তি",
+          "c": "শান্তির গুরুত্ব",
+          "d": "বড়ো হওয়া"
+        },
+        "question": "বড়ো রাজা ও ছোটো রাজার গল্পে কোনটি মূল শিক্ষা?",
+        "solution": "সমাধান:\nStep 1: গল্পের ঘটনাগুলো বিশ্লেষণ করলে দেখা যায় ছোটো রাজা শারীরিক শক্তি বা আকার নয় বরং বুদ্ধি ও কৌশল ব্যবহার করে সমস্যা সমাধান করে।  \nStep 2: মূল নাটকীয় মুহূর্তগুলোতে সে চতুরতা ব্যবহার করে বড়ো যুদ্ধে কিংবা বলপ্রয়োগে না গিয়ে জয় লাভ করে, তাই শিক্ষাটি বুদ্ধিমত্তার গুরুত্ব নির্দেশ করে।  \nStep 3: ফলত সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বুদ্ধিমত্তার শক্তি।  \nঅন্যান্য অপশনগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E রাজ্য জয় করা ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বড়ো হওয়া গল্পের উদ্দেশ্য নয়, আর \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শান্তি কিছু ক্ষেত্রে উপস্থিত থাকলেও মূল কেন্দ্রবিন্দু বুদ্ধিমত্তা।",
+        "chapter_id": "1333",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-16T05:40:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56282,
+      "value": {
+        "options": {
+          "a": "সামরিক যুদ্ধ",
+          "b": "বানিজ্যিক যুদ্ধ",
+          "c": "রাজনৈতিক যুদ্ধ",
+          "d": "সাংস্কৃতিক যুদ্ধ"
+        },
+        "question": "এটি কোন ধরনের যুদ্ধের গল্প?",
+        "solution": "সমাধান:\n1. প্রশ্নে যে গল্পকে \"যুদ্ধের গল্প\" বলা হচ্ছে, প্রথমে দেখে নিতে হবে গল্পের প্রধান উপাদান কী—যদি এতে সৈন্য, অস্ত্র, যুদ্ধ কৌশল বা সামরিক অভিযান থাকে, তবে তা সামরিক যুদ্ধের গল্প।  \n2. কারণ: গল্পে যদি সরাসরি সেনা সংঘর্ষ, যুদ্ধক্ষেত্রের বর্ণনা বা সামরিক লক্ষ্য ও কৌশল উল্লেখ থাকে, তা স্পষ্টতই সামরিক যুদ্ধ নির্দেশ করে, তাই সঠিক উত্তর \u003Cb\u003Ea\u003C/b\u003E (সামরিক যুদ্ধ)।  \n3. অন্য অপশনগুলো ভুল কারণ: বানিজ্যিক যুদ্ধ হলে অর্থনীতি/বাণিজ্য প্রতিযোগিতা থাকে, রাজনৈতিক যুদ্ধ হলে ক্ষমতার লড়াই বা নৈতিক ক্ষমতাস্বার্থ, সাংস্কৃতিক যুদ্ধ হলে সংস্কৃতি বা মূল্যবোধের সংঘাত প্রত্যক্ষ থাকবে—যদি গল্পে এসব উপাদান না থাকে, সেগুলো প্রযোজ্য নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56283,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বড়ো রাজা একজন সাধারণ মানুষের সাজে যুদ্ধের যাত্রা করেন।",
+        "solution": "সমাধান:\nপ্রশ্নে বলা হয়েছে “বড়ো রাজা একজন সাধারণ মানুষের সাজে যুদ্ধের যাত্রা করেন।” এই বিবৃতিটি যাচাই করার জন্য আমরা উৎস বা দেওয়া পাঠ্যকে লক্ষ্য করতে হবে। উক্ত বর্ণনায় বড়ো রাজা সাধারণত রাজসজ্জা বা সামরিক পোশাকে যুদ্ধযাত্রা করেন; সেখানে তাকে গোপনে সাধারণ মানুষের সাজে যাওয়ার কোনো তথ্য নেই, তাই বিবৃতিটি মিথ্যা। অতএব সঠিক উত্তর হল b (False) — অপশন a ভুল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56284,
+      "value": {
+        "options": {
+          "a": "বড়ো হাতি",
+          "b": "ছোটো কামান",
+          "c": "অন্যান্য রাজা",
+          "d": "সেনাপতি"
+        },
+        "question": "ছোটো রাজা __________ নিয়ে সৈন্যদের সঙ্গে গিয়েছিলেন।",
+        "solution": "সমাধান:\nStep 1: বাক্যটির অর্থ ও প্রাসঙ্গিকতা দেখে বুঝতে হবে রাজা সৈন্যদের সঙ্গে যুদ্ধে কোন জিনিস বা সঙ্গী নিয়ে গিয়েছেন — সাধারণত অস্ত্র বা যুদ্ধের সামগ্রী নেয়া হয়।  \nStep 2: বিকল্পগুলো পর্যালোচনা করলে (a) বড়ো হাতি ও (b) ছোটো কামান দুটোই যুদ্ধের সামগ্রীর মতো শোনালেও বাক্যে \"ছোটো রাজা __________ নিয়ে\" পড়লে \"ছোটো কামান\" অর্থগতভাবে ও বাক্যগতভাবে সুসংগত; (c) অন্যান্য রাজা এবং (d) সেনাপতি মানুষ, এগুলোকে সাধারণত \"নিয়ে\" বলে যেন রাজা নিজের সঙ্গে নিয়ে যায় না।  \nঅতএব সঠিক উত্তর হলো (b) ছোটো কামান।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56285,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা কেন ছোটো রাজাকে খুঁজতে গিয়েছিল?",
+        "solution": "সমাধান:\n1. প্রশ্নটি বোঝা: \"বড়ো রাজা কেন ছোটো রাজাকে খুঁজতে গিয়েছিল?\" — এখানে সাধারণত কোনো রাজা যখন অন্য রাজ্যকে খুঁজতে বা পথে নামেন, তার উদ্দেশ্য রাজনৈতিক বা সামরিক হওয়ার সম্ভাবনা বেশি।  \n2. বিশ্লেষণ: বড়ো রাজার তুলনায় ছোটো রাজ্য দুর্বল হওয়ায় জয় করা সহজ এবং রাজ্য বিস্তারের স্বার্থে বড়ো রাজা প্রায়শই আক্রমণ/বিজয়কেই উদ্দেশ্য করে। তাই \"ছোটো রাজ্যকে জয় করার জন্য\" সবচেয়ে যুক্তিসঙ্গত উত্তর।  \n3. অন্য সম্ভাব্য উত্তরগুলি অমীমাংসিত বা কম যৌক্তিক: উদাহরণস্বরূপ বন্ধুত্ব স্থাপন বা বণিক সম্পর্কের জন্য খোঁজাখুঁজি করলে রাজা সাধারণত কূটনৈতিক প্রতিনিধিকে পাঠাতেন, সরাসরি খোঁজাখুঁজি করে যাওয়া সাধারণত বিজয়ের উদ্দেশ্য প্রকাশ করে।  \n\nঅতএব সঠিক উত্তর: ছোটো রাজ্যকে জয় করার জন্য।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ছোটো রাজ্যকে জয় করার জন্য"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56286,
+      "value": {
+        "options": {
+          "a": "ছোটো রাজা",
+          "b": "মহা রাজা",
+          "c": "বড়ো রাজা",
+          "d": "শাহজাদা"
+        },
+        "question": "রাজাদের মধ্যে কোনটি বড়ো রাজা হিসেবে চিহ্নিত?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে যে শব্দটি খোঁজা হচ্ছে সেটি হল \"বড়ো রাজা\" — অর্থাৎ সরাসরি \"বড়ো\" ও \"রাজা\" মিলানো শব্দ।  \nধাপ ২: অপশনগুলো বিশ্লেষণ করলে দেখা যায়: a) ছোটো রাজা = ছোটো, b) মহা রাজা = \"মহা\" (মহত্ববোধ), c) বড়ো রাজা = সরাসরি মিলছে, d) শাহজাদা = রাজকুমার/প্রিন্স (রাজা নয়)।  \nউপসংহার: তাই সঠিক উত্তর হল c: বড়ো রাজা।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56287,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "ছোটো রাজা বড়ো রাজ্যের জন্য যুদ্ধ করছে।",
+        "solution": "সমাধান:\nStep 1: বাক্যটির সরল অর্থ হলো — \"ছোটো রাজা বড়ো রাজ্যের পক্ষে/তার জন্য লড়াই করছে\"।  \nStep 2: প্রদত্ত সঠিক উত্তর অনুযায়ী বাস্তবে ছোটো রাজা বড়ো রাজ্যের বিরুদ্ধে লড়াই করছে বা তার উদ্দেশ্য বড়ো রাজ্যের পক্ষে নয়, তাই মূল বক্তব্যটি সত্য নয়।  \nStep 3: অতএব বিকল্প a (True) ভুল এবং বিকল্প b (False) সঠিক।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56288,
+      "value": {
+        "options": {
+          "a": "মোটা হাতি",
+          "b": "শত্রুর উপর আক্রমণ",
+          "c": "বিশাল যুদ্ধ",
+          "d": "জয়লাভ"
+        },
+        "question": "মহারাজের সৈন্যরা __________ করতে থাকে।",
+        "solution": "সমাধান: বাক্যটি “মহারাজের সৈন্যরা __________ করতে থাকে।” দেখে বোঝা যায় এখানে ক্রিয়া-বাক্যাংশ প্রয়োজন যেটি চলমান ক্রিয়া প্রকাশ করে। অপশনগুলোর মধ্যে “শত্রুর উপর আক্রমণ” একটি চলমান ক্রিয়া (আক্রমণ করতে থাকে) হওয়ায় বাক্যের সঙ্গে শুদ্ধভাবে মিলছে; তাই সঠিক উত্তর হল অপশন b। অন্যগুলো (মোটা হাতি, বিশাল যুদ্ধ) নাম বা অব্যক্তি, আর “জয়লাভ” ফল বা অবস্থা হয়ে বাক্যের ক্রিয়া‑ধাচার হিসাবে ঠিক নামায় না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56289,
+      "value": {
+        "options": [],
+        "question": "কেমন প্রস্তুতি নিয়ে বড়ো রাজা যুদ্ধের জন্য বের হয়?",
+        "solution": "সমাধান: প্রশ্নে 'কেমন প্রস্তুতি' জানতে চাওয়া হলে পাঠ্যের সরাসরি বর্ণনা অনুসারে বড়ো রাজা যুদ্ধের জন্য বড়ো বুড়ো হাতি-ঘোড়া ও কামান নিয়ে বের হয়।  \nধাপ ১: প্রশ্নে যে বিশেষণগুলো আছে — \"বড়ো রাজা\" ও \"যুদ্ধ\" — সেগুলো থেকে বোঝা যায় প্রস্তুতি শক্তিশালী ও সামরিক ছিল।  \nধাপ ২: পাঠ্যের সরাসরি উক্তি অনুযায়ী \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বড়ো বুড়ো হাতি-ঘোড়া, কামান নিয়ে — তাই এটি সঠিক উত্তর।  \nব্যাখ্যা: অন্যান্য বিকল্পগুলো (যেমন ছোট বাহিনী বা শান্তিপূর্ণ সরঞ্জাম) যুদ্ধের জন্য উপযোগী নন, তাই সেগুলো বাতিল করা যায়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বড়ো বুড়ো হাতি-ঘোড়া, কামান নিয়ে"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56290,
+      "value": {
+        "options": {
+          "a": "বৃহৎ",
+          "b": "ছোট",
+          "c": "মাঝারি",
+          "d": "আকর্ষণীয়"
+        },
+        "question": "ছোটো রাজ্যের রাজত্ব কীভাবে বর্ণিত হয়েছে?",
+        "solution": "সমাধান:\nধাপে ১: প্রশ্নে সরাসরি বলা হয়েছে \"ছোটো রাজ্যের রাজত্ব\", যা থেকে বোঝা যায় রাজত্বের আকার ছোট।  \nধাপে ২: তাই সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E — ছোট।  \nধাপে ৩: অন্য বিকল্পগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (বৃহৎ) বিরোধী, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (মাঝারি) এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (আকর্ষণীয়) প্রসঙ্গভিত্তিক নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56291,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বড়ো রাজা ছোটো রাজ্য জয় করতে পারে।",
+        "solution": "সমাধান:\nStep 1: বিবৃতিটি একটি সর্বজনীন দাবি — “বড়ো রাজা সবসময় ছোটো রাজ্য জয় করতে পারে” — যাতে বলা হচ্ছে যে বড়ো রাজা সবক্ষেত্রে ছোটো রাজ্য জয় করতে সক্ষম।  \nStep 2: একটি সর্বজনীন দাবি সত্য হওয়ার জন্য এর সবক্ষেত্রে প্রযোজ্য হওয়া দরকার, কিন্তু বাস্তবে বিরোধী উদাহরণ আছে (যেমন কেলেঙ্কারি, দৃঢ় প্রতিরক্ষা, কূটনৈতিক জোট, ভৌগোলিক বাধা, প্রযুক্তিগত বা সংক্রমণজনিত কারণ) ফলে বড় রাজা সবসময় জয় করতে পারে না।  \nStep 3: তাই মূল বিবৃতিটি ভুয়া বা সবসময় সঠিক না — সুতরাং সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (False)।  \nঅতিরিক্তভাবে, \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (True) ভুল কারণ এটি কোনো ব্যতিক্রম অনুমান করে না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56292,
+      "value": {
+        "options": {
+          "a": "ছোটো কামান",
+          "b": "সরকারী অনুষ্ঠান",
+          "c": "জাদু কারিকুরি",
+          "d": "জ্ঞান"
+        },
+        "question": "ছোটো রাজা __________ দিয়ে বড়ো রাজার সেনাদের পালিয়ে যায়।",
+        "solution": "সমাধান:\n1) প্রশ্নের বাক্য অনুযায়ী কোনো দ্রুত ও তাত্ক্ষণিক প্রতিক্রিয়া দরকার, যা বড়ো রাজার সেনাদের বিভ্রান্ত বা ব্যাহত করে এবং পালাতে সুযোগ দেয়।  \n2) \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E হিসেবে দেওয়া \"ছোটো কামান\" তৎক্ষণাৎ শব্দ ও ধোঁয়া/ঝাঁঝালো প্রভাব সৃষ্টি করে, তাই পালানোর জন্য এটি যুক্তিযুক্ত উপায়।  \n3) অন্য অপশানগুলো অসামঞ্জস্যপূর্ণ: সরকারী অনুষ্ঠান বা জ্ঞান সাধারণত ততক্ষণে সাহায্য করে না, আর জাদু কারিকুরি কথ্যভাবে সম্ভব হলেও এখানে প্রদত্ত সঠিক উত্তর নির্দেশ করা হয়েছে।  \nসুতরাং সঠিক উত্তর: a: ছোটো কামান।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56293,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা ছোটো রাজা সম্পর্কে কেমন অনুভব করেন?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে বড়ো রাজার ছোটো রাজার প্রতি আচরণ ও অভিব্যক্তি পর্যবেক্ষণ করতে হবে — যদি সে তির্যক কথা বলে, কটকটি আচরণ করে বা ক্ষোভ প্রকাশ করে, তা রাগের লক্ষণ।  \nধাপ ২: এসব আচরণ থেকে বোঝা যায় যে বড়ো রাজা শান্ত বা আনন্দিত নয়; তার মনোবস্থা নেতিবাচক এবং তীব্র অনুভূতিপূর্ণ, অর্থাৎ রাগান্বিত।  \nধাপ ৩: অতএব সঠিক উত্তর হল রাগান্বিত; অন্য সম্ভাব্য বিকল্পগুলো (যেমন খুশি, নিরপেক্ষ বা দুঃখিত) বড়ো রাজার নেতিবাচক ও তীব্র আচরণের সাথে মেলে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "রাগান্বিত"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56294,
+      "value": {
+        "options": {
+          "a": "ছোটো সৈন্য",
+          "b": "শক্তিশালী সৈন্য",
+          "c": "গরিব সৈন্য",
+          "d": "সাধারণ সৈন্য"
+        },
+        "question": "বড়ো রাজা কোন ধরনের সৈন্যদের নিয়ে সেনা তৈরি করেন?",
+        "solution": "সমাধান: প্রশ্ন অনুযায়ী বড়ো রাজা এমন সৈন্য চান যারা শক্তিশালী হয়ে যুদ্ধ পরিচালনা করতে পারে। ধাপ ১: অপশনগুলো বিশ্লেষণ করলে দেখা যায় \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E ছোটো সৈন্য—শক্তির দিকে জোর নেই; \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E গরিব সৈন্য—অর্থনৈতিক অবস্থা নির্দেশ করে, যুদ্ধদক্ষতা নিশ্চিত করে না; \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E সাধারণ সৈন্য—কোনো বিশেষ গুণ নেই। ফলে সবচেয়ে যৌক্তিক এবং উপযুক্ত উত্তর হলো শক্তিশালী সৈন্য, অর্থাৎ সঠিক উত্তর: b।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56295,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বড়ো রাজা ছোটো রাজা থেকে ভয় পেয়েছেন। ",
+        "solution": "সমাধান: \nধাপ ১: বাক্যের বিষয় হচ্ছে \"বড়ো রাজা\" এবং ক্রিয়াপদ \"ভয় পেয়েছেন\"।  \nধাপ ২: \"ছোটো রাজা থেকে\" অংশটি ভয়ের কারন/উত্স নির্দেশ করছে, অর্থাৎ বড়ো রাজা ছোটো রাজাকে নিয়ে ভয়বোধ করেছেন।  \nধাপ ৩: তাই বাক্যটি স্পষ্টভাবে সত্য বলে বিবৃত হয়েছে; সুতরাং সঠিক উত্তর a। বিকল্প b ভুল কারণ তা বাক্যের সরাসরি বক্তব্যের বিপরীত।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56296,
+      "value": {
+        "options": {
+          "a": "মহা মদ",
+          "b": "জানা-স্পষ্ট আসবাব",
+          "c": "দূত",
+          "d": "революция"
+        },
+        "question": "বড়ো রাজা __________ নিয়ে যুদ্ধের জন্য হতেন।",
+        "solution": "সমাধান: বাক্যের প্রসঙ্গে সবচেয়ে যৌক্তিক শব্দটি হলো \"দূত\"। কারণ রাজা সাধারণত যুদ্ধের আগে কূটনৈতিক বার্তা বা দুত পাঠাতেন/দূত নিয়ে কাজ করতেন, তাই বাক্যে মানায়। অন্য অপশনগুলো অপ্রাসঙ্গিক: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \"মহা মদ\" অর্থগতভাবে মিলছে না; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"জানা-স্পষ্ট আসবাব\" অর্থগতভাবে প্রাসঙ্গিক নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E \"революция\" রুশ শব্দ ও বাক্যের গঠনের সাথে খাপ খায় না। তাই সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (দূত)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56297,
+      "value": {
+        "options": [],
+        "question": "বড়ো রাজা ছোটো রাজা কে কীভাবে চেপে ধরলেন?",
+        "solution": "সমাধান:\nপ্রশ্নটি পড়ে প্রথমে শব্দচয়ন বিশ্লেষণ করলে \"চেপে ধরলেন\" থেকে বোঝা যায় যে এটি শক্ত করে ধরার ক্রিয়া। বাস্তবে শক্তভাবে ধরার সবচেয়ে সুস্পষ্ট উপায় হচ্ছে মুঠো করে ধরে অথবা আঙুল দিয়ে ধরার মতো সরল উপায়, তাই সঠিক উত্তর: মুঠোয় এবং আঙুলে ধরে। অন্যান্য সম্ভাব্য বিকল্পগুলো (যেমন কেবল স্পর্শ করা বা ছেড়ে দেওয়া) প্রশ্নের ক্রিয়ার তীব্রতা মেটায় না, তাই সেগুলো অশুদ্ধ।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মুঠোয় এবং আঙুলে ধরে"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56298,
+      "value": {
+        "options": {
+          "a": "রাজমূল্য",
+          "b": "অন্য রাজ্যের শক্তি",
+          "c": "ছোটো রাজ্য",
+          "d": "অহঙ্কার"
+        },
+        "question": "বড়ো রাজা যে তথ্য জানেন তা কী?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি দেখে প্রতিটি বিকল্প পর্যায়ক্রমে যাচাই করি — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E রাজমূল্য, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E অন্য রাজ্যের শক্তি, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ছোটো রাজ্য, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অহঙ্কার।  \nধাপ ২: সাধারণ কথ্য অর্থে \"বড়ো রাজা যে তথ্য জানেন\" বলতে প্রায়শই তিনি আশেপাশের ছোটো রাজ্যগুলোর অবস্থা বা তাদের সম্পর্কে তথ্য রাখেন — তাই \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E উপযুক্ত। অন্য বিকল্পগুলো অনুচিত কারণ রাজমূল্য একটি নির্দিষ্ট আর্থিক বিষয়, অন্য রাজ্যের শক্তি ভিন্ন ধরনের জ্ঞান এবং অহঙ্কার কোনো তথ্য নয় বরং গুণ বা বৈশিষ্ট্য।  \nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (ছোটো রাজ্য)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56299,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বড়ো রাজা ছোটো রাজা সম্পর্কে সচেতন ছিলেন।",
+        "solution": "সমাধান:\nপ্রস্তুতি: প্রথমে প্রশ্নের বিবৃতিটি ধরুন এবং মূল পাঠ্য বা প্রেক্ষাপট থেকে সরাসরি প্রমাণ আছে কি না তা খুঁজে দেখুন। \nবিশ্লেষণ: দেওয়া প্রসঙ্গে বড়ো রাজার ছোটো রাজা সম্পর্কে সচেতন ছিল—এমন কোনো স্পষ্ট উল্লেখ বা প্রমাণ নেই (বরং অনভিজ্ঞতা/অজ্ঞতার ইঙ্গিত দেখা যায়), তাই উক্ত বিবৃতিটি লেখার দ্বারা সমর্থিত নয়। \nনিযুক্তি: সুতরাং সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E. বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (True) ভুল কারণ মূল পাঠ্যে সেই সমর্থন পাওয়া যায় না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56300,
+      "value": {
+        "options": {
+          "a": "দল",
+          "b": "ওলো",
+          "c": "রাজত্ব",
+          "d": "সরকারি"
+        },
+        "question": "ছোটো রাজা বড়ো রাজার __________ নিয়ে হাসলেন।",
+        "solution": "সমাধান:\nধাপ ১: বাক্যটির অর্থ ও ভাষাগত মিল যাচাই করি — \"ছোটো রাজা বড়ো রাজার __________ নিয়ে হাসলেন\" এ ক্ষেত্রে খালি স্থানে এমন একটি শব্দ প্রযোজ্য হওয়া উচিত যা বড়ো রাজার কোনো বৈশিষ্ট্য বা বিষয় বোঝায় এবং \"নিয়ে হাসলেন\" যেন স্বাভাবিক শাব্দিক মিল রাখে।  \nধাপ ২: প্রতিটি বিকল্প মূল্যায়ন করি — \"রাজত্ব\" মানে শাসন/রাজ্যের কর্তৃত্ব, যা বড়ো রাজার সঙ্গে স্বাভাবিকভাবে জড়িত; তাই \"রাজত্ব নিয়ে হাসলেন\" অর্থবহ এবং প্রাসঙ্গিক। অন্যদিকে \"দল\" (গোষ্ঠী) এখানে প্রাসঙ্গিক নয়, \"ওলো\" অর্থবোধহীন বা ভুল শব্দ, এবং \"সরকারি\" একটি বিশেষণ যা বাক্যে স্বতন্ত্রভাবে মেনে চলে না।  \nনিষ্কর্ষ: সঠিক উত্তর হলো বিকল্প c: \"রাজত্ব\"।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56301,
+      "value": {
+        "options": [],
+        "question": "ছোটো রাজা বড়ো রাজাকে কী বললেন যুদ্ধের পর?",
+        "solution": "সমাধান:\n1. পরিস্থিতি বিশ্লেষণ: যুদ্ধ শেষ — সাধারণত বিজয়ী বা সভ্যতা দেখিয়ে দুপক্ষের মধ্যে সম্প্রীতি বাড়ানোই যুক্তিসঙ্গত পদক্ষেপ।\n2. যুক্তি: ছোটো রাজা যদি মহানুভবতা দেখায়, সে বড়ো রাজাকে বিরোধ না বাড়িয়ে শান্তি ও সুখ নিয়ে থাকতে বলবে। তাই উত্তর হবে — আনন্দে থাকতে।\n3. অন্যান্য সম্ভাব্য উত্তর (যেমন শাস্তি দেওয়া, ক্ষমা না করা) ভুল কারণ তারা যুদ্ধের পর সম্পর্ক পুনর্গঠনের পরিবর্তে শত্রুতা বাড়ায়, যা বাস্তববুদ্ধিমত্তার সঙ্গে মেলে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "আনন্দে থাকতে"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56302,
+      "value": {
+        "options": {
+          "a": "বৃহৎ",
+          "b": "মাঝারী",
+          "c": "অর্ঘ্য",
+          "d": "ছোট"
+        },
+        "question": "ছোটো রাজার রাজত্বের আকার কী?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে নির্দিষ্ট শব্দটি হলো \"ছোটো রাজার রাজত্ব\" — এখানে \"ছোটো\" শব্দটি রাজত্বের আকারকে ছোট হিসেবে নির্দেশ করে।  \nধাপ ২: প্রদত্ত বিকল্পগুলোর মধ্যে \"ছোট\" সর্বোচ্চ মিল রাখে, তাই সঠিক উত্তর হল d।  \nব্যাখ্যা: অন্য বিকল্পগুলো ভুল কারণ \"বৃহৎ\" বড় আকার নির্দেশ করে, \"মাঝারী\" মাঝামাঝি এবং \"অর্ঘ্য\" এখানে প্রাসঙ্গিক নয়; তাই সঠিক উত্তর d (ছোট)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56303,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "ছোটো রাজা মন্ত্রীর সাহায্য নিয়ে যুদ্ধ করছেন।",
+        "solution": "সমাধান:\nStep 1: বিবৃতিটি বলে যে \"ছোটো রাজা মন্ত্রীর সাহায্য নিয়ে যুদ্ধ করছেন\" — এটি একটি নির্দিষ্ট ঘটনার দাবি।  \nStep 2: প্রশ্নে কোনো প্রমাণ বা প্রেক্ষাপট নেই যা এই বক্তব্যকে সমর্থন করে, এবং সাধারণভাবে মন্ত্রীর সাহায্য থাকা বা না থাকা কেবল বক্তব্য থেকে নিশ্চিত করা যায় না।  \nStep 3: তাই এই তথ্যকে সত্য ধরে নেওয়ার যথেষ্ট কোনো প্রমাণ নেই; সঠিক উত্তর হলো বিকল্প b: False।  \n\nব্যাখ্যা: বিকল্প a (True) ঠিক করার জন্য স্পষ্ট প্রমাণ বা প্রেক্ষাপট থাকা প্রয়োজন, যা এখানে নেই।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56304,
+      "value": {
+        "options": {
+          "a": "জয়",
+          "b": "মানবতা",
+          "c": "পরাজয়",
+          "d": "বিদ্রোহ"
+        },
+        "question": "বড়ো রাজার ভবিষ্যত কী ছিল __________।",
+        "solution": "সমাধান:\nপ্রশ্নটি «বড়ো রাজার ভবিষ্যত কী ছিল»—এখানে ভবিষ্যত বলতে রাজার পরিণতি বা ফলাফল বোঝানো হচ্ছে। অপশনগুলো হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E জয়, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মানবতা, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পরাজয়, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বিদ্রোহ। \"মানবতা\" হল গুণাবলি, \"বিদ্রোহ\" হল কর্ম বা ঘটনা, সুতরাং সরাসরি ভবিষ্যতের ফল হিসাবে উপযুক্ত নয়; বাস্তবপর্যায়ে রাজার পরিস্থিতিকে বোঝাতে দুটি উপযুক্ত শব্দ ছিল—জয় বা পরাজয়। উল্লেখিত প্রসঙ্গ অনুযায়ী সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E — পরাজয়, তাই সঠিক অপশন (c) = পরাজয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56305,
+      "value": {
+        "options": [],
+        "question": "ছোটো রাজা কিভাবে বড়ো রাজার আক্রমণ ঠেকাল?",
+        "solution": "সমাধান: প্রথমে ছোটো রাজা বড়ো রাজার আক্রমণের সম্ভাব্য ক্ষতি ও ঝুঁকি মূল্যায়ন করলেন। এরপর তিনি দ্রুত সিদ্ধান্ত নিয়ে নিজের অনুকূল ও নিরাপদ স্থানে সরে গেলেন, ফলে সরাসরি সংঘর্ষ এড়িয়ে জীবিত ও শক্তি রক্ষা হলো এবং আক্রমণকারীর উদ্দেশ্য অপসারিত হলো। অন্যান্য বিকল্প — সরাসরি লড়াই করলে বড়ো চাপ ও ক্ষতি হতো, আত্মসমর্পণ করলে স্বাধীনতা হারানোর ঝুঁকি থাকতো — তাই নিরাপদ স্থানে সরে যাওয়া সবচেয়ে যুক্তিসঙ্গত ও কার্যকর উপায় ছিল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "নিজের নিরাপদ স্থানে চলে যান।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7367,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7367&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7367&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7367&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 126,
+  "total": 126
+}

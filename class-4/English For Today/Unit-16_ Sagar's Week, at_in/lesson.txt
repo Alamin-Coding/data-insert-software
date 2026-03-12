@@ -1,0 +1,1578 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 742225,
+      "value": {
+        "options": [],
+        "question": "leave",
+        "solution": "to go away from one place",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742214,
+      "value": {
+        "options": [],
+        "question": "After breakfast",
+        "solution": "Sagar gets dressed",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742215,
+      "value": {
+        "options": [],
+        "question": "_____ is his favourite subject?",
+        "solution": "What",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742216,
+      "value": {
+        "options": [],
+        "question": "A school teacher goes to his workplace at _____. Не starts teaching at&nbsp;_____. He has a tiffin break at _____ and lunch break at _____. He teaches his students till _____. He returns home at&nbsp;_____.",
+        "solution": "A school teacher goes to his workplace at \u003Cstrong\u003E7:30 am\u003C/strong\u003E. He starts teaching at \u003Cstrong\u003E8:00 am\u003C/strong\u003E. He has a tiffin break at \u003Cstrong\u003E11 am\u003C/strong\u003E. and lunch break at \u003Cstrong\u003E1:30 pm\u003C/strong\u003E. He teaches his students till \u003Cstrong\u003E3:30 pm.\u003C/strong\u003E He returns home at \u003Cstrong\u003E4:00 pm.\u003C/strong\u003E",
+        "correct_answer": null
+      },
+      "question_type_id": 57,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 57,
+        "name": "blank (info related)",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742217,
+      "value": {
+        "options": [],
+        "question": "Leave",
+        "solution": "to go away",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742218,
+      "value": {
+        "options": {
+          "a": "English",
+          "b": "History",
+          "c": "Geography",
+          "d": "Bangla"
+        },
+        "question": "Which subject does Sagar love most?",
+        "solution": "d. Bangla",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742219,
+      "value": {
+        "options": [],
+        "question": "On _____, Sagar goes to bed at 10 p.m.",
+        "solution": "weekdays",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742220,
+      "value": {
+        "options": [],
+        "question": "Visit",
+        "solution": "to go to a place",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742221,
+      "value": {
+        "options": [],
+        "question": "on weekdays sagar gets up at 6 in the morning he first says his prayers then he goes to his grandfather and studies bangla and english with him",
+        "solution": "On weekdays, Sagar gets up at 6 in the morning. He first says his prayers. Then he goes to his grandfather and studies Bangla and English with him.",
+        "correct_answer": null
+      },
+      "question_type_id": 19,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742222,
+      "value": {
+        "options": {
+          "a": "In the morning",
+          "b": "In the afternoon",
+          "c": "In the evening",
+          "d": "At night"
+        },
+        "question": "When does Sagar do his homework?",
+        "solution": "c. In the evening",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742223,
+      "value": {
+        "options": [],
+        "question": "Sagar _____ his aunt and uncle on holidays.",
+        "solution": "visits",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742224,
+      "value": {
+        "options": [],
+        "question": "Who play in the park?",
+        "solution": "Sagar and Keya play in the park with their cousins.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742213,
+      "value": {
+        "options": [],
+        "question": "on weekends sagar visits his aunt and uncle in the afternoon he and keya play in the park with their cousins in the evening he watches TV or reads stories to keya.",
+        "solution": "On weekends, Sagar visits his aunt and uncle in the afternoon. He and Keya play in the park with. their cousins. In the evening, he watches TV or reads stories to Keya.",
+        "correct_answer": null
+      },
+      "question_type_id": 19,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742226,
+      "value": {
+        "options": [],
+        "question": "spend",
+        "solution": "to pass",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742227,
+      "value": {
+        "options": [],
+        "question": "At 6 in the morning",
+        "solution": "Sagar gets up",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742228,
+      "value": {
+        "options": [],
+        "question": "In the evening",
+        "solution": "Sagar does homework",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742229,
+      "value": {
+        "options": [],
+        "question": "_____ does Sagar do his homework?",
+        "solution": "When",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742230,
+      "value": {
+        "options": [],
+        "question": "After studying, Sagar says his prayer.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742231,
+      "value": {
+        "options": [],
+        "question": "When does Sagar go to bed on weekdays and weekends?",
+        "solution": "On weekdays, Sagar goes to bed at 10 p.m. On weekends, he goes to bed at 11 p.m.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742232,
+      "value": {
+        "options": [],
+        "question": "What does Sagar do at night?",
+        "solution": "At night, Sagar spends time with his grandparents. Then, he has dinner with his family before going to bed at 10 p.m.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742233,
+      "value": {
+        "options": [],
+        "question": "start",
+        "solution": "begin",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742234,
+      "value": {
+        "options": [],
+        "question": "They have breakfast",
+        "solution": "At 8 o'clock",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742235,
+      "value": {
+        "options": [],
+        "question": "_____ do they play?",
+        "solution": "Where",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742202,
+      "value": {
+        "options": [],
+        "question": "On weekdays, Sagar gets up at 6 in the morning. He first says his prayers. Then he goes to his grandfather and studies Bangla and English with him. He and his sister have breakfast at 8 o'clock. Sagar gets dressed after breakfast and leaves for school at 9 o'clock because school starts at 10 o'clock. In the evening, Sagar does his homework. He loves Bangla. It's his favourite subject. After he does his homework, Sagar spends time with his grandparents. He and his family have dinner at 9 p.m.. Then, he goes to bed at 10 p.m.&nbsp;On weekends, Sagar visits his aunt and uncle in the afternoon. He and Keya play in the park with their cousins. In the evening, he watches TV or reads stories to Keya. At night, he goes to bed at 11 o'clock.",
+        "solution": "no answer",
+        "correct_answer": null
+      },
+      "question_type_id": 24,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 24,
+        "name": "Text/Passgage",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742191,
+      "value": {
+        "options": [],
+        "question": "Favourite",
+        "solution": "preferred to all others of the same kind",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742192,
+      "value": {
+        "options": {
+          "a": "father",
+          "b": "grandfather",
+          "c": "sister",
+          "d": "brother"
+        },
+        "question": "Keya and her ______ have breakfast at 8 a.m.",
+        "solution": "d. brother",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742193,
+      "value": {
+        "options": [],
+        "question": "He _____ school before 10 a.m.",
+        "solution": "reaches",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742194,
+      "value": {
+        "options": [],
+        "question": "Keya plays with her cousins in the _____.",
+        "solution": "park",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742195,
+      "value": {
+        "options": [],
+        "question": "On weekends, Sagar goes to school.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742196,
+      "value": {
+        "options": [],
+        "question": "On weekends, Sagar visits his relatives.",
+        "solution": "T",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742197,
+      "value": {
+        "options": [],
+        "question": "Bangla is Sagar's favourite subject.",
+        "solution": "T",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742198,
+      "value": {
+        "options": [],
+        "question": "How does Sagar spend his time before going to school?",
+        "solution": "Before going to school, Sagar goes to his grandfather to study with him. Then, he gets dressed after having breakfast.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742199,
+      "value": {
+        "options": [],
+        "question": "Why does Sagar leave for school at 9 a.m.?",
+        "solution": "Sagar leaves for school at 9 a.m. because his school starts at 10 a.m.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742200,
+      "value": {
+        "options": [],
+        "question": "\u003Cstrong\u003EWrite a short composition about \"Your Daily Routine\" by answering the following questions.\u003C/strong\u003E\u003Cbr\u003E\na) When do you get up in the morning?\u003Cbr\u003E\nb) When do you leave for school?\u003Cbr\u003E\nc) What do you do in the evening?\u003Cbr\u003E\nd) What do you do after finishing your homework?\u003Cbr\u003E\ne) When do you go to bed?",
+        "solution": "\u003Cdiv style=\"text-align: center;\"\u003E\u003Cstrong\u003EMy Daily Routine\u003C/strong\u003E\u003C/div\u003E\nI get up at 6 o&#39;clock in the morning. After taking breakfast at 8 a.m.; I leave for school at 9 a.m. In the evening, I complete my homework. After finishing the homework, I spend time with my grandparents. Then I go to bed at 10 p.m.",
+        "correct_answer": null
+      },
+      "question_type_id": 28,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 28,
+        "name": "Short Composition",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742201,
+      "value": {
+        "options": [],
+        "question": "Start",
+        "solution": "to begin",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742190,
+      "value": {
+        "options": [],
+        "question": "Study",
+        "solution": "to learn something",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742203,
+      "value": {
+        "options": {
+          "a": "verb",
+          "b": "noun",
+          "c": "pronoun",
+          "d": "preposition"
+        },
+        "question": "He first says his prayers. The word 'his' is a _____ .",
+        "solution": "c. pronoun",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742204,
+      "value": {
+        "options": {
+          "a": "no",
+          "b": "many",
+          "c": "some",
+          "d": "two"
+        },
+        "question": "Sagar reads ______ subjects with his grandfather.",
+        "solution": "d. two",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742205,
+      "value": {
+        "options": [],
+        "question": "Sagar studies _____ subjects with his grandfather.",
+        "solution": "two",
+        "correct_answer": null
+      },
+      "question_type_id": 25,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 25,
+        "name": "Fill in the blank",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742206,
+      "value": {
+        "options": [],
+        "question": "Sagar's school begins at 9 o'clock.",
+        "solution": "F",
+        "correct_answer": null
+      },
+      "question_type_id": 22,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742207,
+      "value": {
+        "options": [],
+        "question": "dressed",
+        "solution": "put on cloths",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742208,
+      "value": {
+        "options": [],
+        "question": "favourite",
+        "solution": "more liked",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742209,
+      "value": {
+        "options": [],
+        "question": "Grandfather teaches Sagar",
+        "solution": "English and Bangla",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742210,
+      "value": {
+        "options": [],
+        "question": "_____ visits aunt and uncle on weekends?",
+        "solution": "Who",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742211,
+      "value": {
+        "options": [],
+        "question": "_____ activity does Sagar do in the evening?",
+        "solution": "Which",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 742212,
+      "value": {
+        "options": [],
+        "question": "Suppose, you are Toma. Your friend Nasima wrote you a letter about her weekdays. \u003Cstrong\u003ENow, write a letter to your friend about how you spend your weekdays.\u003C/strong\u003E",
+        "solution": "Dhaka\u003Cbr /\u003E\nApril 12, 2025\u003Cbr /\u003E\n\u003Cbr /\u003E\nDear Nasima,\u003Cbr /\u003E\nI&#39;ve received your letter just now. In your letter, you&#39;ve written about how you spend your weekdays. I&#39;m also giving you a short description of my weekdays.\u003Cbr /\u003E\nOn my weekdays, I wake up at 7 a.m. Then I have my breakfast at 7:30 a.m. My school starts at 9 o&#39;clock. So, I start for school at 8:30 a.m. In the afternoon, I come back home from school. I study for three hours at night. Then I watch TV for about half an hour. I have my dinner at 10 p.m. At night, I go to bed at 10:30 o&#39;clock.\u003Cbr /\u003E\nNo more today. Write me soon.\u003Cbr /\u003E\n\u003Cbr /\u003E\nYour friend,\u003Cbr /\u003E\nToma",
+        "correct_answer": null
+      },
+      "question_type_id": 33,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7303,
+      "created_at": "2025-11-27T05:32:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 33,
+        "name": "Letter",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7303&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7303&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7303&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 46,
+  "total": 46
+}

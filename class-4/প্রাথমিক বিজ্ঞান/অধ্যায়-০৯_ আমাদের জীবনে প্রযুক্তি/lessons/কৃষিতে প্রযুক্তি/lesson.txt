@@ -1,0 +1,529 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747364,
+      "value": {
+        "options": {
+          "ক": "টেলিভিশন",
+          "খ": "থার্মোমিটার",
+          "গ": "ফুটবল",
+          "ঘ": "গ্যাসের চুলা"
+        },
+        "question": "তুমি নিচের কোন প্রযুক্তিটি খেলাধুলায় ব্যবহার কর?",
+        "solution": "গ. ফুটবল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747365,
+      "value": {
+        "options": {
+          "ক": "গিটার",
+          "খ": "রোলার কোস্টার",
+          "গ": "তবলা",
+          "ঘ": "বেহালা"
+        },
+        "question": "বিনোদন কেন্দ্রে কোন রাইড ব্যবহার করা হয়?",
+        "solution": "খ. রোলার কোস্টার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747366,
+      "value": {
+        "options": {
+          "ক": "থার্মোমিটার",
+          "খ": "গিটার",
+          "গ": "ট্রাক্টর",
+          "ঘ": "এক্স-রে"
+        },
+        "question": "সাব্বির নিচের কোন প্রযুক্তিটি বিনোদনে ব্যবহার করে?",
+        "solution": "খ. গিটার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747367,
+      "value": {
+        "options": {
+          "ক": "বিনোদন প্রযুক্তি",
+          "খ": "চিকিৎসা প্রযুক্তি",
+          "গ": "খেলাধুলা প্রযুক্তি",
+          "ঘ": "কৃষি প্রযুক্তি"
+        },
+        "question": "নাজিম হাসপাতালে গিয়ে এক্স-রে মেশিন ও রক্তচাপ মাপার যন্ত্র দেখে এসেছে। তার দেখা যন্ত্রগুলো নিচের কোন প্রযুক্তির?",
+        "solution": "খ. চিকিৎসা প্রযুক্তি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747368,
+      "value": {
+        "options": {
+          "ক": "স্টেথোস্কোপ",
+          "খ": "থার্মোমিটার",
+          "গ": "কম্পিউটার টোমোগ্রাফি",
+          "ঘ": "রক্তচাপ মাপার যন্ত্র"
+        },
+        "question": "শরীরের ভিতরের অঙ্গসমূহ পরীক্ষা করতে কোন প্রযুক্তি ব্যবহার করা হয়?",
+        "solution": "গ. কম্পিউটার টোমোগ্রাফি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747369,
+      "value": {
+        "options": {
+          "ক": "ট্রাক্টর",
+          "খ": "রাইস কুকার",
+          "গ": "ভিডিও ক্যামেরা",
+          "ঘ": "তবলা"
+        },
+        "question": "বর্তমানে খেলাধুলায় নিচের কোনটি ব্যবহার করা হচ্ছে?",
+        "solution": "গ. ভিডিও ক্যামেরা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747370,
+      "value": {
+        "options": {
+          "ক": "গান শোনা",
+          "খ": "রান্না করা",
+          "গ": "সিনেমা দেখা",
+          "ঘ": "গেম খেলা"
+        },
+        "question": "কম্পিউটারের সাহায্যে নিচের কোন কাজটি করা যায় না?",
+        "solution": "খ. রান্না করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747371,
+      "value": {
+        "options": {
+          "ক": "সহজে রোগ নির্ণয়",
+          "খ": "উন্নত চিকিৎসা প্রদান",
+          "গ": "স্বাস্থ্য সুরক্ষা",
+          "ঘ": "দ্রুত বর্ধনশীল ফসল উৎপাদন"
+        },
+        "question": "চিকিৎসা প্রযুক্তির সুবিধা নয় কোনটি?",
+        "solution": "ঘ. দ্রুত বর্ধনশীল ফসল উৎপাদন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747372,
+      "value": {
+        "options": {
+          "ক": "থার্মোমিটার",
+          "খ": "স্টেথোস্কোপ",
+          "গ": "এক্স-রে",
+          "ঘ": "কম্পিউটার"
+        },
+        "question": "তোমার ছোট ভাইয়ের জ্বর হলে তুমি কোন প্রযুক্তিটি ব্যবহার করবে?",
+        "solution": "ক. থার্মোমিটার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747373,
+      "value": {
+        "options": {
+          "ক": "জ্ঞান",
+          "খ": "বিজ্ঞান",
+          "গ": "প্রযুক্তি",
+          "ঘ": "অনুশীলন"
+        },
+        "question": "যখন কোনো কৌশল ব্যবহার করে প্রয়োজনীয় কাজ সম্পাদন করাকে কী বলে?",
+        "solution": "গ. প্রযুক্তি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747374,
+      "value": {
+        "options": {
+          "ক": "পিয়ানো",
+          "খ": "রাইস কুকার",
+          "গ": "ট্রাক্টর",
+          "ঘ": "টোমোগ্রাফি"
+        },
+        "question": "বাসস্থানে ব্যবহৃত প্রযুক্তি কোনটি?",
+        "solution": "খ. রাইস কুকার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747375,
+      "value": {
+        "options": {
+          "ক": "বাসস্থান প্রযুক্তি",
+          "খ": "কৃষি প্রযুক্তি",
+          "গ": "খেলাধুলা প্রযুক্তি",
+          "ঘ": "বিনোদন প্রযুক্তি"
+        },
+        "question": "করিম সাহেব তাঁর পরিবারের জন্য ইস্ত্রি ও গ্যাসের চুলা কিনলেন। এগুলো কোন ধরনের প্রযুক্তি?",
+        "solution": "ক. বাসস্থান প্রযুক্তি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747376,
+      "value": {
+        "options": {
+          "ক": "চিকিৎসা",
+          "খ": "বিনোদন",
+          "গ": "কৃষি",
+          "ঘ": "খেলাধুলা"
+        },
+        "question": "সাব্বির প্রতিদিন হারমোনিয়াম শিখে। তার এ যন্ত্রটি কোন প্রযুক্তির অন্তর্গত?",
+        "solution": "খ. বিনোদন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7412&grade=7&lesson=13509&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7412&grade=7&lesson=13509&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7412&grade=7&lesson=13509&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 13,
+  "total": 13
+}

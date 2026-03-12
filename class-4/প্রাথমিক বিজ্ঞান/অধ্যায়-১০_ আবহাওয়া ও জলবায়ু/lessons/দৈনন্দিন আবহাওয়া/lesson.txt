@@ -1,0 +1,491 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747386,
+      "value": {
+        "options": {
+          "ক": "গ্রীষ্মকালের",
+          "খ": "বর্ষাকালের",
+          "গ": "শীতকালের",
+          "ঘ": "শুকনো মৌসুমের"
+        },
+        "question": "সকাল থেকে মুষলধারে বৃষ্টি শুরু হয়েছে, এটি বাংলাদেশের কোন সময়ের ঘটনা?",
+        "solution": "খ. বর্ষাকালের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747387,
+      "value": {
+        "options": {
+          "ক": "শুষ্ক আবহাওয়া",
+          "খ": "বর্ষাকাল",
+          "গ": "আর্দ্র আবহাওয়া",
+          "ঘ": "গ্রীষ্মকাল"
+        },
+        "question": "তোমার চারপাশের বাতাস ভেজা ও চটচটে। এ অবস্থাকে তুমি কী বলবে?",
+        "solution": "গ. আর্দ্র আবহাওয়া",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747388,
+      "value": {
+        "options": {
+          "ক": "জলবায়ুর",
+          "খ": "পানির",
+          "গ": "আবহাওয়ার",
+          "ঘ": "কুয়াশার"
+        },
+        "question": "বায়ুর তাপমাত্রা কিসের উপাদান?",
+        "solution": "গ. আবহাওয়ার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747389,
+      "value": {
+        "options": {
+          "ক": "তাপমাত্রা",
+          "খ": "আর্দ্রতা",
+          "গ": "বায়ুপ্রবাহ",
+          "ঘ": "অক্ষাংশ"
+        },
+        "question": "বাতাস কতটা ঠাণ্ডা বা গরম সেই অবস্থাকে কী বলে?",
+        "solution": "ক. তাপমাত্রা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747390,
+      "value": {
+        "options": {
+          "ক": "রোদোজ্জ্বল",
+          "খ": "শুষ্ক",
+          "গ": "মেঘাচ্ছন্ন",
+          "ঘ": "বজ্রবৃষ্টি"
+        },
+        "question": "আবহাওয়ার অবস্থা বোঝার জন্য আমরা কোনটি বলে থাকি?",
+        "solution": "খ. শুষ্ক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747391,
+      "value": {
+        "options": {
+          "ক": "তাপমাত্রা",
+          "খ": "আর্দ্রতা",
+          "গ": "বায়ুপ্রবাহ",
+          "ঘ": "কুয়াশা"
+        },
+        "question": "বায়ুর সচল অবস্থা কোনটি?",
+        "solution": "গ. বায়ুপ্রবাহ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747392,
+      "value": {
+        "options": {
+          "ক": "মাটি",
+          "খ": "আর্দ্রতা",
+          "গ": "অক্ষাংশ",
+          "ঘ": "পানি"
+        },
+        "question": "আবহাওয়ার উপাদান কোনটি?",
+        "solution": "খ. আর্দ্রতা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747393,
+      "value": {
+        "options": {
+          "ক": "ধূলিকণা",
+          "খ": "পুঞ্জ পুঞ্জ মেঘের",
+          "গ": "আবহাওয়া",
+          "ঘ": "বজ্রবৃষ্টি"
+        },
+        "question": "তুমি বাংলাদেশের আবহাওয়া অফিসে ব্যবহার করা বিভিন্ন প্রতীকের কথা শুনলে। তোমার শোনা প্রতীকগুলোর মধ্যে কোনটি ছিল?",
+        "solution": "ঘ. বজ্রবৃষ্টি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747394,
+      "value": {
+        "options": {
+          "ক": "বৃষ্টি",
+          "খ": "বজ্রবৃষ্টি",
+          "গ": "কুয়াশা",
+          "ঘ": "ধূলাময় অবস্থা"
+        },
+        "question": "বাংলাদেশে গ্রীষ্মকালের সাধারণ ঘটনা কোনটি?",
+        "solution": "খ. বজ্রবৃষ্টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747395,
+      "value": {
+        "options": {
+          "ক": "কুয়াশা",
+          "খ": "শিশির",
+          "গ": "আর্দ্রতা",
+          "ঘ": "মেঘ"
+        },
+        "question": "বাতাসে জলীয় বাষ্পের পরিমাপকে কী বলে?",
+        "solution": "গ. আর্দ্রতা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747396,
+      "value": {
+        "options": {
+          "ক": "কালো মেঘ",
+          "খ": "মেঘাচ্ছন্ন",
+          "গ": "সাদা মেঘ",
+          "ঘ": "বায়ুপ্রবাহ"
+        },
+        "question": "নিচের কোনটি আকাশের অবস্থা?",
+        "solution": "খ. মেঘাচ্ছন্ন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747397,
+      "value": {
+        "options": {
+          "ক": "আকাশের অবস্থা",
+          "খ": "তাপমাত্রা",
+          "গ": "আর্দ্রতা",
+          "ঘ": "বায়ুপ্রবাহ"
+        },
+        "question": "স্যর বললেন, উত্তর থেকে বায়ু উত্তর দিকে প্রবাহিত হয়। এক্ষেত্রে স্যার কী নিয়ে আলোচনা করছিলেন?",
+        "solution": "ঘ. বায়ুপ্রবাহ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13511&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13511&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13511&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 12
+}

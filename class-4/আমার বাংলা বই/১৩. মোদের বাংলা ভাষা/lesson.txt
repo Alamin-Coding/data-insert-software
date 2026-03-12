@@ -1,0 +1,4560 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 744646,
+      "value": {
+        "options": [],
+        "question": "যাঁর অনেক জ্ঞান",
+        "solution": "জ্ঞানী",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744647,
+      "value": {
+        "options": [],
+        "question": "রক্তে যা পিছল হয়েছে",
+        "solution": "রক্ত-পিছল",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744559,
+      "value": {
+        "options": [],
+        "question": "রক্ত-পিছল",
+        "solution": "রক্তে যা পিছল হয়েছে। যেমন: ভাষাশহিদদের রক্তে ঢাকার রাজপথ রক্ত-পিছল হয়েছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744559,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744560,
+      "value": {
+        "options": [],
+        "question": "বেদন",
+        "solution": "বেদনা, দুঃখ বা কষ্টকে বেদন বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744560,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744561,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে 'কামার কুমার জেলে চাষা' কোন ভাষাতে কথা বলেন?",
+        "solution": "বাংলাদেশের রাষ্ট্রভাষা বাংলা। এ দেশের মানুষের মাতৃভাষা বাংলা। তাই এ দেশের কামার, কুমার, জেলে, চাষা, ধনী, গরিব, শিশু, বৃদ্ধ সবার মুখের ভাষাই বাংলা। 'কামার কুমার জেলে চাষা' এ কারণেই বাংলা ভাষায় কথা বলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744561,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744562,
+      "value": {
+        "options": [],
+        "question": "গুণী",
+        "solution": "গুণ আছে এমন, গুণ আছে যার।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744563,
+      "value": {
+        "options": [],
+        "question": "ছেলে",
+        "solution": "মেয়ে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744564,
+      "value": {
+        "options": [],
+        "question": "মোদের",
+        "solution": "বাংলা ভাষা মোদের গর্ব।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744565,
+      "value": {
+        "options": [],
+        "question": "নানান",
+        "solution": "আমার বাগানে নানানরকমের ফুল ফুটেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744566,
+      "value": {
+        "options": [],
+        "question": "কামার",
+        "solution": "যারা লোহা, পিতল ইত্যাদি দিয়ে দা, বঁটি, শাবল ইত্যাদি তৈরি করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744566,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744567,
+      "value": {
+        "options": [],
+        "question": "সহ্য করা",
+        "solution": "সওয়া, মেনে নেওয়া।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744567,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744568,
+      "value": {
+        "options": [],
+        "question": "কী সহ্য করতে মানা করা হয়েছে?",
+        "solution": "বাংলা আমাদের মাতৃভাষা। এই ভাষায় আমরা সহজেই অন্যের কাছে নিজের মনের ভাব প্রকাশ করতে পারি। মাকে মা বলে মধুর নামে ডাকতে পারি। কিন্তু আমাদের দেশে এখনও বিজাতীয় ভাষা ছড়িয়ে আছে। আধুনিকতার নাম করে আমরা সেসব ভাষা ব্যবহারে ঝুঁকে পড়েছি। তাই এ বিজাতীয় ভাষার ছড়াছড়ি সহ্য করতে মানা করা হচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744568,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744569,
+      "value": {
+        "options": [],
+        "question": "কাদের জন্য বাংলা ভাষা সহজ হবে?",
+        "solution": "\u003Cdiv\u003Eআমাদের দেশের মানুষজন সরল। তারা কামার, কুমার, জেলে ও চাষা। তাদের মতো সহজ-সরল মানুষদের জন্য বাংলা ভাষা সহজ হবে।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744570,
+      "value": {
+        "options": [],
+        "question": "কবি কাদের এ দেশের মানুষের বেদনা বোঝার আহ্বান জানিয়েছেন?",
+        "solution": "কবি এ দেশের মানুষের বেদনা বোঝার জন্য জ্ঞানী, গুণী, মনীষী যারা সামনে এগিয়ে আছেন তাদের আহ্বান জানিয়েছেন। কবি মনে করেন তারাই এদেশের মানুষের বেদনা নিরসন করতে পারবেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744571,
+      "value": {
+        "options": [],
+        "question": "মায়ের কোলের ছেলেরা প্রাণ দিলেন কেন?",
+        "solution": "মায়ের কোলের ছেলেরা ভাষার জন্য প্রাণ দিলেন। রাষ্ট্রভাষা বাংলার দাবিতে ১৯৫২ সালে ছাত্র-ছাত্রীরা মিছিল করেছিলেন, হরতাল করেছিলেন। তাঁদের ওপর পুলিশ গুলি চালায় এবং অনেকেই মারা যান। মূলত বাংলা ভাষার মান রাখতেই মায়ের কোলের ছেলেরা প্রাণ দেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744572,
+      "value": {
+        "options": [],
+        "question": "'মোদের বাংলা ভাষা' কবিতায় এ দেশের মানুষের কয়টি পেশার নাম উল্লেখ করা হয়েছে এবং কী কী?",
+        "solution": "'মোদের বাংলা ভাষা' কবিতায় এ দেশের মানুষের চারটি পেশার নাম উল্লেখ করা হয়েছে। যথা- ১. কামার, ২. কুমার, ৩. জেলে ও ৪. চাষা। এসব মানুষ তাদের নিজ নিজ পেশার মাধ্যমে জীবিকা নির্বাহ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744573,
+      "value": {
+        "options": [],
+        "question": "\"তাদের রক্ত-পিছল পথে এবার যেন মুক্তি মেলে\"-একথা দিয়ে কী বোঝানো হয়েছে?",
+        "solution": "\"তাদের রক্ত-পিছল পথে এবার যেন মুক্তি মেলে\" কথাটি দ্বারা কবি ১৯৫২ সালের ভাষা আন্দোলনের বিষয়টি বুঝিয়েছেন। রাষ্ট্রভাষা বাংলার দাবিতে এ দেশের ছাত্র-ছাত্রীরা মিছিল ও হরতাল করেছিলেন। তখন তাঁদের ওপর পুলিশ গুলি চালায় এবং ছাত্রসহ অনেকেই মারা যান। এই ভাষার জন্য মায়ের ছেলেরা প্রাণ দিলেন, তাঁদের সেই রক্তের পিচ্ছিল পথ ধরে অর্থাৎ তাঁদের আত্মত্যাগের মাধ্যমে যেন এবার রাষ্ট্রভাষা বাংলা সবখানে চালু হয় সেই কথাটিই বোঝানো হয়েছে প্রশ্নের চরণটিতে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744574,
+      "value": {
+        "options": [],
+        "question": "তরে",
+        "solution": "জন্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744575,
+      "value": {
+        "options": [],
+        "question": "জেলে",
+        "solution": "জাল দিয়ে মাছ ধরা যার পেশা, মৎস্য ব্যবসায়ী।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744576,
+      "value": {
+        "options": [],
+        "question": "চাষা",
+        "solution": "কৃষক।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744577,
+      "value": {
+        "options": [],
+        "question": "আর কতকাল _____ মানুষ থাকবে বল সহ্য করি।",
+        "solution": "\u003Cdiv\u003Eদেশের\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744578,
+      "value": {
+        "options": [],
+        "question": "ভাষার তরে প্রাণ দিল যে কত মায়ের _____।",
+        "solution": "\u003Cdiv\u003Eকোলের ছেলে\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744579,
+      "value": {
+        "options": [],
+        "question": "সরল",
+        "solution": "কুটিল",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744580,
+      "value": {
+        "options": [],
+        "question": "সহজ",
+        "solution": "কঠিন",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744581,
+      "value": {
+        "options": [],
+        "question": "সামনে",
+        "solution": "পেছনে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744582,
+      "value": {
+        "options": [],
+        "question": "জ্ঞানী",
+        "solution": "মূর্খ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744583,
+      "value": {
+        "options": [],
+        "question": "মানুষ",
+        "solution": "মানব",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744584,
+      "value": {
+        "options": [],
+        "question": "কামার",
+        "solution": "কর্মকার",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744585,
+      "value": {
+        "options": [],
+        "question": "ছেলে",
+        "solution": "পুত্র",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744586,
+      "value": {
+        "options": [],
+        "question": "সরল",
+        "solution": "গ্রামের লোকজন খুব সরল আর ভালো।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744587,
+      "value": {
+        "options": [],
+        "question": "বিদেশ",
+        "solution": "আমার বাবা আজ বিদেশ থেকে আসবেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744588,
+      "value": {
+        "options": [],
+        "question": "মুক্তি",
+        "solution": "প্রত্যেকেই অভাব থেকে মুক্তি চান।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744589,
+      "value": {
+        "options": [],
+        "question": "ছড়াছড়ি",
+        "solution": "সারা ঘরে কাপড়ের ছড়াছড়ি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744590,
+      "value": {
+        "options": [],
+        "question": "কুমার",
+        "solution": "যারা মাটি দিয়ে হাঁড়ি, পাতিল ইত্যাদি তৈরি করেন। কুমারদের মৃৎশিল্পী বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744590,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744591,
+      "value": {
+        "options": [],
+        "question": "মুক্তি",
+        "solution": "স্বাধীনতা বা খোলামেলা অবস্থা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744591,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744592,
+      "value": {
+        "options": [],
+        "question": "বিজাতীয়",
+        "solution": "অন্য জাতির, ভিন্ন জাতির বা দেশের শব্দ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744592,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744593,
+      "value": {
+        "options": [],
+        "question": "মিটাক",
+        "solution": "মিটিয়ে দিক, পূর্ণ করুক। যেমন: আল্লাহ্ সব মানুষের মনের আশা মিটাক।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744593,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744594,
+      "value": {
+        "options": [],
+        "question": "এ দেশের মানুষের 'বেদন' কী?",
+        "solution": "বাংলাদেশের মানুষের মাতৃভাষা বাংলা। এ দেশের কামার, কুমার, জেলে, চাষা, ধনী, গরিব সবাই বাংলা ভাষাতেই কথা বলেন। অথচ শাসকগোষ্ঠী বাংলাকে রেখে উর্দুকে এ দেশের রাষ্ট্রভাষা করতে চেয়েছিল। তখন এ দেশের দামাল&nbsp;ছেলেদের আত্মত্যাগের বিনিময়ে বাংলা রাষ্ট্রভাষা হিসেবে স্বীকৃতি পায়। কিন্তু বর্তমানে অনেকে বিজাতীয় ভাষায় কথা -বলে। এটাই এ দেশের মানুষের বেদনার কারণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744594,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744595,
+      "value": {
+        "options": [],
+        "question": "তাদের কোন মুক্তির কথা বলা হয়েছে?",
+        "solution": "এ দেশের অধিকাংশ মানুষের মুখের ভাষা বাংলা। তা সত্ত্বেও পাকিস্তানি শাসকগোষ্ঠী উর্দুকে এ দেশের রাষ্ট্রভাষা করতে চেয়েছিল। কিন্তু বাংলার দামাল ছেলেরা তাদের এই অন্যায় প্রস্তাব মেনে নেননি। বাংলাকে রাষ্ট্রভাষা করার দাবিতে তাঁরা রাজপথে মিছিলে নামেন। পুলিশ ওই মিছিলে গুলি চালালে অনেকে শহিদ হন এবং তাঁদের রক্তে রাজপথ রঞ্জিত হয়। আর তাঁদের আত্মত্যাগের মধ্য দিয়ে বাংলা রাষ্ট্রভাষার স্বীকৃতি পায়। শহিদদের রক্তের বিনিময়ে বাংলা ভাষার মুক্তি পাওয়ার কথাই প্রশ্নোক্ত বাক্যে বলা হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744595,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744596,
+      "value": {
+        "options": [],
+        "question": "মাটি দিয়ে জিনিসপত্র তৈরি করেন _____।",
+        "solution": "\u003Cdiv\u003Eকুমার\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744596,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744597,
+      "value": {
+        "options": [],
+        "question": "রক্ত দিয়ে পিছল হয়েছে যে পথ তা হলো _____।",
+        "solution": "\u003Cdiv\u003Eরক্ত-পিছল পথ\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744597,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744598,
+      "value": {
+        "options": [],
+        "question": "কবি ও কবিতার নামসহ 'মোদের বাংলা ভাষা' কবিতার প্রথম ৮ লাইন লেখ:",
+        "solution": "\u003Cdiv style=\"text-align: center;\"\u003E\u003Cstrong\u003Eমোদের বাংলা ভাষা\u003Cbr /\u003E\nসুফিয়া কামাল\u003C/strong\u003E\u003Cbr /\u003E\nমোদের দেশের সরল মানুষ\u003Cbr /\u003E\nকামার কুমার জেলে চাষা\u003Cbr /\u003E\nতাদের তরে সহজ হবে\u003Cbr /\u003E\nমোদের বাংলা ভাষা&#39;।\u003Cbr /\u003E\nবিদেশ হতে বিজাতীয়\u003Cbr /\u003E\nনানান কথার ছড়াছড়ি\u003Cbr /\u003E\nআর কতকাল দেশের মানুষ\u003Cbr /\u003E\nথাকবে বল সহ্য করি।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 51,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 51,
+        "name": "কবিতা",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744599,
+      "value": {
+        "options": [],
+        "question": "নানান",
+        "solution": "অনেক রকমের।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744600,
+      "value": {
+        "options": [],
+        "question": "ছড়াছড়ি",
+        "solution": "বিশৃঙ্খলভাবে ছড়িয়ে-ছিটিয়ে থাকা জিনিস।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744601,
+      "value": {
+        "options": [],
+        "question": "মোদের",
+        "solution": "আমাদের।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744602,
+      "value": {
+        "options": [],
+        "question": "বিদেশ হতে ______ নানান কথার ছড়াছড়ি।",
+        "solution": "\u003Cdiv\u003Eবিজাতীয়\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744603,
+      "value": {
+        "options": [],
+        "question": "সহজ সরল বাংলা ভাষা সব মানুষের _____ আশা।",
+        "solution": "\u003Cdiv\u003Eমিটাক\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744604,
+      "value": {
+        "options": [],
+        "question": "বিদেশ",
+        "solution": "স্বদেশ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744605,
+      "value": {
+        "options": [],
+        "question": "সহ্য",
+        "solution": "অসহ্য",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744606,
+      "value": {
+        "options": [],
+        "question": "জেলে",
+        "solution": "ধীবর",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744607,
+      "value": {
+        "options": [],
+        "question": "জ্ঞানী",
+        "solution": "বিজ্ঞ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744608,
+      "value": {
+        "options": [],
+        "question": "বেদন",
+        "solution": "কষ্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744609,
+      "value": {
+        "options": [],
+        "question": "তরে",
+        "solution": "সকলের তরে সকলে আমরা।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744610,
+      "value": {
+        "options": [],
+        "question": "জ্ঞানী",
+        "solution": "যাঁর অনেক জ্ঞান রয়েছে, তাকে জ্ঞানী বা জ্ঞানবান বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744610,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744611,
+      "value": {
+        "options": [],
+        "question": "মনীষী",
+        "solution": "শিক্ষিত, জ্ঞানী-গুণী ও বিখ্যাত মানুষকে মনীষী বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744611,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744612,
+      "value": {
+        "options": [],
+        "question": "বাংলা ভাষাকে সহজ সরল ভাষা বলা হয়েছে কেন?",
+        "solution": "আমাদের দেশের মানুষের মুখের ভাষা বাংলা। একটি শিশু জন্মের পর প্রথমে তার মায়ের কাছে বাংলা ভাষা শেখে। তাই বাংলাকে আমাদের মাতৃভাষাও বলা হয়। এ দেশের ধনী, গরিব, শিশু, বৃদ্ধ, কামার, কুমার, জেলে, চাষা সবার মাতৃভাষা বাংলা হওয়ায় এ ভাষায় সহজে তাদের মনের ভাব অন্যের কাছে প্রকাশ করতে পারে। তাই বাংলা ভাষাকে সহজ-সরল ভাষা বলা হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744612,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744613,
+      "value": {
+        "options": [],
+        "question": "লোহা দিয়ে জিনিসপত্র তৈরি করেন _____।",
+        "solution": "\u003Cdiv\u003Eকামার\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744613,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744614,
+      "value": {
+        "options": [],
+        "question": "যাঁর অনেক জ্ঞান আছে তিনি হলেন ______।",
+        "solution": "\u003Cdiv\u003Eজ্ঞানী\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744614,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744615,
+      "value": {
+        "options": [],
+        "question": "আমাদের দেশের মানুষের জন্য বাংলা ভাষা সহজ হবে কেন?",
+        "solution": "আমাদের দেশের মানুষ সহজ-সরল। তাদের পেশাও সহজ-সরল। তারা কেউ কামার, কেউ কুমার, কেউ জেলে, কেউ চাষা। তাদের মা-বাবা, দাদা-দাদি, নানা-নানি, ঠাকুরদা-ঠাকুরমা সবাই বাংলায় কথা বলতেন এবং বলেন। তাই তাদের জন্য চিরপরিচিত ও আপন বাংলা ভাষাই সহজ হবে। নতুন অপরিচিত কোনো ভাষা তাদের বলতে বললে তারা পারবেন না। সেজন্যই বলা হয়েছে, সরজ-সরল এসব মানুষের জন্য বাংলা ভাষাই সহজ হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744616,
+      "value": {
+        "options": [],
+        "question": "মোদের দেশের _____ মানুষ কামার কুমার জেলে চাষা।",
+        "solution": "\u003Cdiv\u003Eসরল\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744617,
+      "value": {
+        "options": [],
+        "question": "তাদের _____ পথে এবার যেন মুক্তি মেলে।",
+        "solution": "\u003Cdiv\u003Eরক্ত-পিছল\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744618,
+      "value": {
+        "options": [],
+        "question": "আমার দেশের সব মানুষের এই _____ বুঝুন তারা।",
+        "solution": "\u003Cdiv\u003Eবেদন\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744619,
+      "value": {
+        "options": [],
+        "question": "প্রাণ",
+        "solution": "জীবন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744620,
+      "value": {
+        "options": [],
+        "question": "যারা আছেন সামনে আজও\u003Cbr\u003E\nগুণী জ্ঞানী মনীষীরা\u003Cbr\u003E\nআমার দেশের সব মানুষের\u003Cbr\u003E\nএই বেদন বুঝুন তারা\u003Cbr\u003E\nভাষার তরে প্রাণ দিল যে\u003Cbr\u003E\nকত মায়ের কোলের ছেলে\u003Cbr\u003E\nতাদের রক্ত পিছল পথে\u003Cbr\u003E\nএবার যেন মুক্তি মেলে",
+        "solution": "\u003Cdiv\u003Eযারা আছেন সামনে আজও\u003Cbr /\u003E\nগুণী, জ্ঞানী, মনীষীরা\u003Cbr /\u003E\nআমার দেশের সব মানুষের\u003Cbr /\u003E\nএই বেদন বুঝুন তারা।\u003Cbr /\u003E\nভাষার তরে প্রাণ দিল যে\u003Cbr /\u003E\nকত মায়ের কোলের ছেলে\u003Cbr /\u003E\nতাদের রক্ত-পিছল পথে\u003Cbr /\u003E\nএবার যেন মুক্তি মেলে।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744621,
+      "value": {
+        "options": {
+          "ক": "কামার, কুমার, জেলে, চাষা",
+          "খ": "জ্ঞানী, গুণী, মনীষী, পাষণ্ড",
+          "গ": "যারা সামনে এগিয়ে আছেন",
+          "ঘ": "যারা ছাত্র-ছাত্রীর মিছিলে গুলি করল"
+        },
+        "question": "\"তাদের তরে সহজ হবে মোদের বাংলা ভাষা\"- কাদের তবে?",
+        "solution": "ক. কামার, কুমার, জেলে, চাষা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744622,
+      "value": {
+        "options": {
+          "ক": "উর্দু ভাষা",
+          "খ": "আরবি ভাষা",
+          "গ": "মাতৃভাষা",
+          "ঘ": "ইংরেজি ভাষা"
+        },
+        "question": "কোন ভাষার চেয়ে প্রিয় আর কোনো ভাষা হতে পারে না?",
+        "solution": "গ. মাতৃভাষা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744623,
+      "value": {
+        "options": {
+          "ক": "আবু জাফর ওবায়দুল্লাহ",
+          "খ": "বেগম রোকেয়া",
+          "গ": "কাজী নজরুল ইসলাম",
+          "ঘ": "সুফিয়া কামাল"
+        },
+        "question": "'মোদের বাংলা ভাষা' কবিতাটির কবি কে?",
+        "solution": "ঘ. সুফিয়া কামাল",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744624,
+      "value": {
+        "options": [],
+        "question": "ম্ব",
+        "solution": "ম্‌ + ব, সম্বল",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744625,
+      "value": {
+        "options": [],
+        "question": "ষ্ট্র",
+        "solution": "ষ্‌ + ট + ্র (র-ফলা), রাষ্ট্রভাষা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744626,
+      "value": {
+        "options": {
+          "ক": "১৯৪৮ সালে",
+          "খ": "১৯৫২ সালে",
+          "গ": "১৯৫৪ সালে",
+          "ঘ": "১৯৫৬ সালে"
+        },
+        "question": "রাষ্ট্রভাষা বাংলার দাবিতে কত সালে ছাত্র-ছাত্রীরা মিছিল করেছিল?",
+        "solution": "খ. ১৯৫২ সালে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744627,
+      "value": {
+        "options": {
+          "ক": "জটিল",
+          "খ": "উচ্চ",
+          "গ": "সরল",
+          "ঘ": "নিষ্ঠুর"
+        },
+        "question": "মোদের দেশের মানুষ কেমন?",
+        "solution": "গ. সরল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744628,
+      "value": {
+        "options": {
+          "ক": "বিজাতীয়",
+          "খ": "আরবি",
+          "গ": "বাংলা",
+          "ঘ": "উর্দু"
+        },
+        "question": "কেমন কথার ছড়াছড়ি এ দেশের মানুষ সহ্য করেছে?",
+        "solution": "ক. বিজাতীয়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744629,
+      "value": {
+        "options": {
+          "ক": "সমতার দাবিতে",
+          "খ": "মুক্তির দাবিতে",
+          "গ": "রাষ্ট্রভাষা বাংলার দাবিতে",
+          "ঘ": "স্বাধীনতার দাবিতে"
+        },
+        "question": "কীসের দাবিতে ছাত্র-ছাত্রীরা ১৯৫২ সালে মিছিল করেছিল?",
+        "solution": "গ. রাষ্ট্রভাষা বাংলার দাবিতে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744630,
+      "value": {
+        "options": {
+          "ক": "উর্দুতে",
+          "খ": "বাংলায়",
+          "গ": "হিন্দিতে",
+          "ঘ": "আরবিতে"
+        },
+        "question": "এ দেশের কামার, কুমার, জেলে, চাষা কথা বলেন-",
+        "solution": "খ. বাংলায়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744631,
+      "value": {
+        "options": [],
+        "question": "জ্ঞ",
+        "solution": "জ্‌ + ঞ, জ্ঞানী",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744632,
+      "value": {
+        "options": [],
+        "question": "ক্ত",
+        "solution": "ক্‌ + ত, রক্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744633,
+      "value": {
+        "options": [],
+        "question": "যারা মাটি দিয়ে হাঁড়ি তৈরি করেন",
+        "solution": "কুমার",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744634,
+      "value": {
+        "options": [],
+        "question": "শিক্ষিত, জ্ঞানী, গুণী, বিখ্যাত মানুষ যিনি",
+        "solution": "মনীষী",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744635,
+      "value": {
+        "options": [],
+        "question": "অন্য জাতির",
+        "solution": "বিজাতীয়",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744636,
+      "value": {
+        "options": {
+          "ক": "১টি",
+          "খ": "২টি",
+          "গ": "৩টি",
+          "ঘ": "৪টি"
+        },
+        "question": "'মোদের বাংলা ভাষা' কবিতায় এ দেশের মানুষের কয়টি পেশার কথা বলা হয়েছে?",
+        "solution": "ঘ. ৪টি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744637,
+      "value": {
+        "options": {
+          "ক": "ইংরেজি",
+          "খ": "উর্দু",
+          "গ": "আরবি",
+          "ঘ": "বাংলা"
+        },
+        "question": "\"সব মানুষের মিটাক আশা\"- কোন ভাষার কথা বলা হয়েছে এখানে?",
+        "solution": "ঘ. বাংলা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744638,
+      "value": {
+        "options": {
+          "ক": "মায়ের দামাল ও উচ্ছৃঙ্খল ছেলে",
+          "খ": "মায়ের কোলের ছেলে",
+          "গ": "দেশের বুদ্ধিজীবী",
+          "ঘ": "জ্ঞানী, গুণী, মনীষীগণ"
+        },
+        "question": "'মোদের বাংলা ভাষা' কবিতায় ভাষার জন্য প্রাণ দিল-",
+        "solution": "খ. মায়ের কোলের ছেলে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744639,
+      "value": {
+        "options": {
+          "ক": "মায়ের ছেলের।",
+          "খ": "জনতার",
+          "গ": "বুদ্ধিজীবীর",
+          "ঘ": "সব মানুষের"
+        },
+        "question": "কাদের রক্ত-পিছল পথে কবি মুক্তি মেলার কামনা করেছেন?",
+        "solution": "ক. মায়ের ছেলের।",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744640,
+      "value": {
+        "options": {
+          "ক": "স্বদেশপ্রেম নিয়ে",
+          "খ": "মাতৃভাষা নিয়ে",
+          "গ": "মাতৃপ্রেম নিয়ে",
+          "ঘ": "মাতৃভূমি নিয়ে"
+        },
+        "question": "'মোদের বাংলা ভাষা' কবিতাটি লেখা হয়েছে-",
+        "solution": "খ. মাতৃভাষা নিয়ে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744641,
+      "value": {
+        "options": {
+          "ক": "ক্ত = ক + ত",
+          "খ": "ক্ত = ত + ক",
+          "গ": "ক্ত = ত + ত",
+          "ঘ": "ক্ত = ক + ত + এ"
+        },
+        "question": "'রক্ত' শব্দের যুক্তাক্ষরের পৃথক পৃথক রূপ হলো-",
+        "solution": "ক. ক্ত = ক + ত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744642,
+      "value": {
+        "options": {
+          "ক": "জেলে",
+          "খ": "কামার",
+          "গ": "তাঁতি",
+          "ঘ": "কুমার"
+        },
+        "question": "জাল দিয়ে মাছ ধরা যার পেশা তাকে বলা হয়-",
+        "solution": "ক. জেলে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744643,
+      "value": {
+        "options": [],
+        "question": "ন্ধ",
+        "solution": "ন্‌ + ধ, অন্ধ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744644,
+      "value": {
+        "options": [],
+        "question": "চ্ছ",
+        "solution": "চ্‌ + ছ, ইচ্ছা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744645,
+      "value": {
+        "options": [],
+        "question": "ঙ্ক্ষ",
+        "solution": "ঙ্‌ + ক্‌ + ষ, আকাঙ্ক্ষা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-11-27T06:37:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186789,
+      "value": {
+        "options": {
+          "a": "বিদেশি ভাষার ব্যবহার",
+          "b": "বাংলা ভাষার গৌরব",
+          "c": "বাংলা ভাষার অপমান",
+          "d": "শিক্ষার গুরুত্ব"
+        },
+        "question": "কবিতায় বলা হয়েছে, 'বিজাতীয় নানান কথার ছড়াছড়ি', এর মূল বক্তব্য কী?",
+        "chapter_id": "1343",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186790,
+      "value": {
+        "options": {
+          "a": "অন্য ভাষার ব্যবহার বৃদ্ধি পাওয়া উচিত",
+          "b": "বাংলা ভাষার প্রয়োজনীয়তা",
+          "c": "দেশের মানুষের শিক্ষা",
+          "d": "বাংলা ভাষার গৌরব"
+        },
+        "question": "বাংলা ভাষার জন্য কবিতায় কি বলা হয়েছে?",
+        "chapter_id": "1343",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 147936,
+      "value": {
+        "options": {
+          "a": "সত্য",
+          "b": "মিথ্যা"
+        },
+        "question": "বাংলা ভাষাকে সহজ সরল ভাষা বলা হয়েছে কারণ এটি দেশের মানুষের মনের কথা ভালোভাবে প্রকাশ করে।",
+        "solution": "সমাধান: a (সত্য)\n\nব্যাখ্যা:\nপদ্ধতি — প্রথমে প্রশ্নে ব্যবহৃত \"সহজ সরল ভাষা\" কী বোঝায় তা সংক্ষিপ্তভাবে নিরূপণ করব, পরে বাংলার বৈশিষ্ট্যগুলো দেখে সিদ্ধান্তে পৌঁছাব।\n\nধাপ ১: \"সহজ সরল ভাষা\" বলতে বুঝায় এমন ভাষা যা সাধারণ মানুষের দৈনন্দিন ভাব, অনুভূতি ও অভিব্যক্তি সরাসরি এবং নির্ভুলভাবে প্রকাশ করতে পারে; জটিল নয়, ব্যাকরণ বা শব্দচয়নে অতিরিক্ত কৌশল ছাড়া সহজ বোঝা যায়।\n\nধাপ ২: বাংলা ভাষার প্রাসঙ্গিক বৈশিষ্ট্যসমূহ যা এই দাবিকে সমর্থন করে\n- সাধারণ ব্যবহার্যে প্রচুর কথ্য শব্দ ও অতিপ্রচলিত অভিব্যক্তি রয়েছে, ফলে মানুষের ভাব বোধগম্যভাবে প্রকাশ হয়।\n- বাক্যগঠন ও শব্দচয়ন সহজ ও নমনীয়; সরল অনুষ্ঠানে ও আলোচনায় সহজেই ব্যবহার যোগ্য।\n- লোকশিল্প, গান, কবিতা ও গল্পে বাংলার সরল ও হৃদয়সংক্রান্ত ভাষা দেশের মানুষের অনুভূতি সরাসরি প্রকাশ করে।\n\nধাপ ৩: উদাহরণ (সংক্ষিপ্ত)\n- সাধারণ বাক্য: \"আমি তোমাকে ভালোবাসি\" — সরাসরি মনের কথা বলে।\n- অনুভূতি প্রকাশ: \"আজ মন খারাপ\" — জটিলতা ছাড়া আবেগ প্রকাশিত হয়।\n\nনিরূপণ: উল্লিখিত বৈশিষ্ট্য ও উদাহরণ থেকে স্পষ্ট যে বাংলা ভাষাকে সহজ সরল ভাষা বলা হয়েছে কারণ এটি দেশের মানুষের মনের কথা ভালোভাবে প্রকাশ করে — তাই উক্তিটি সত্য।",
+        "chapter_id": "1343",
+        "explanation": "ব্যাখ্যা: বাংলা ভাষাকে সহজ-সরল বলা হয় কারণ এর শব্দভাণ্ডার ও বাক্যগঠন সাধারণ মানুষের ভাবনা ও অনুভূতিকে সরাসরি, স্পষ্ট ও প্রাঞ্জলভাবে প্রকাশ করতে পারে; অতএব উক্তিটি সত্য।",
+        "correct_answer": "a"
+      },
+      "question_type_id": 4,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-30T10:41:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 4,
+        "name": "True False",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 147931,
+      "value": {
+        "options": [],
+        "question": "বাংলা ভাষার গুরুত্ব সম্পর্কে কবি বেগম সুফিয়া কামাল কী বলেন?",
+        "solution": "সমাধান:\n\nউত্তর গ্রহণের দৃষ্টি ও কৌশল:\n1) কবির বক্তব্য সংক্ষেপে শনাক্ত করা — মূল কথাটি কি বলা হয়েছে সোজাসাপ্টাভাবে তুলে ধরা।  \n2) বক্তব্যের ব্যাখ্যা ও প্রাসঙ্গিক উদাহরণ দেওয়া — কেন সেটি গুরুত্বপূর্ণ এবং ইতিহাসে কী প্রমাণ আছে তা দেখানো।  \n3) উপসংহার — বক্তব্যের সমাজগত ও সাংস্কৃতিক গুরুত্ব সংক্ষেপে বলা।\n\nপ্রয়োগযোগ্য ধাপসমূহ ও ব্যাখ্যা:\n1. বক্তব্য শনাক্তকরণ: বেগম সুফিয়া কামাল বলছেন যে বাংলা ভাষা আমাদের মাতৃভাষা এবং এই ভাষার জন্য অনেকেই প্রাণ দিয়েছেন।  \n2. বক্তব্যের ব্যাখ্যা: এখানে তিনি বাংলা ভাষাকে কেবল যোগাযোগের মাধ্যম হিসেবে নয়, বরং জাতিগঠনের মূল স্তম্ভ ও মাতৃভাষা হিসেবে দেখান। “প্রাণ দিয়েছেন” বললে তিনি ভাষার জন্য সশস্ত্র ও অসশস্ত্র প্রয়াসে জীবিত সংগ্রামকারীদের ত্যাগের কথা নির্দেশ করছেন — বিশেষত ১৯৫২ সালের ভাষা আন্দোলনের শহীদদের ত্যাগ উদাহরণস্বরূপ উপযোগী।  \n3. প্রাসঙ্গিক ইতিহাস ও নীতিগত তত্ত্ব: মাতৃভাষা ব্যক্তিগত পরিচয়, সাংস্কৃতিক ঐতিহ্য, শিক্ষার সুযোগ ও রাজনৈতিক অধিকারগুলোর সঙ্গে ঘনিষ্ঠভাবে জড়িত। ভাষার জন্য যারা প্রাণ দিয়েছেন তারা ভাষার মর্যাদা ও জাতিগত সম্মানের জন্য লড়েছেন; এতে ভাষার গুরুত্ব শুধুমাত্র ভাষাতাত্ত্বিক নয়, সামাজিক ও নৈতিক মাত্রাও পায়।  \n4. ফলাফল ও সামাজিক মূল্যায়ন: কবির এ বক্তব্য সমাজকে স্মরণ করিয়ে দেয় যে ভাষার প্রতি শ্রদ্ধা রাখা, মাতৃভাষা সংরক্ষণ ও উন্নয়ন করা আমাদের দায়িত্ব; একই সঙ্গে যারা আত্মত্যাগ করেছেন তাদের স্মৃতিকে সম্মান করা প্রয়োজন।\n\nউপসংহার:\nবেগম সুফিয়া কামালের বক্তব্য সংক্ষেপে বোঝায়—বাংলা আমাদের মাতৃভাষা এবং তার জন্য বহু জন তাদের জীবন দিয়েছেন; ফলে বাংলা শুধু ভাষা নয়, আমাদের পরিচয় ও সম্মানের প্রতীক, যা রক্ষা ও সমৃদ্ধ করা নৈতিক ও সঙ্ঘবদ্ধ দায়িত্ব।",
+        "chapter_id": "1343",
+        "explanation": "ব্যাখ্যা: বেগম সুফিয়া কামাল বাংলা ভাষাকে আমাদের মাতৃভাষা হিসেবে গুরুভঙ্গ দিয়ে উল্লেখ করেছেন এবং বলেছেন যে এই ভাষার জন্য বহু মানুষ প্রাণ উৎসর্গ করেছে; তাই উত্তরে বলা হয়েছে যে বাংলা আমাদের মাতৃভাষা এবং এর জন্য অনেকেই প্রাণ দিয়েছে। এই বক্তব্য ভাষার প্রতি গভীর অনুভূতি, জাতীয় পরিচয় ও ভাষা আন্দোলনে মানুষের ত্যাগকে তুলে ধরে।",
+        "correct_answer": "বাংলা ভাষা আমাদের মাতৃভাষা এবং এর জন্য প্রাণ দিয়েছে অনেকেই।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-30T10:40:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136737,
+      "value": {
+        "options": {
+          "a": "দেশের মানুষের আবেগ ও বেদনায়।",
+          "b": "শুধুমাত্র বিদেশী ভাষার প্রচারের মাধ্যমে।",
+          "c": "শিক্ষার মাধ্যমে।",
+          "d": "বিজ্ঞানের মাধ্যমে।"
+        },
+        "question": "কবিতায় কীভাবে বাংলাভাষার গুরুত্ব তুলে ধরা হয়েছে?",
+        "solution": "সমাধান:\nStep 1: কবিতাটির বিষয়বস্তুকে পর্যালোচনা করে দেখা যায় ভাষার প্রতি গভীর আনুগত্য, দেশের মানুষের অনুভূতি ও বেদনা-কষ্টের সঙ্গে বাংলার সম্পর্ককে তুলে ধরা হয়েছে।  \nStep 2: এই অনুভূতিগুলো ভাষার সাংস্কৃতিক ও মানসিক গুরুত্ব জোরালোভাবে প্রকাশ করে—অর্থাৎ ভাষা দেশের মানুষের আবেগের অংশ।  \nStep 3: তাই সঠিক উত্তর হলো (a) কারণ কবিতা ভাষার গুরুত্ব দেশের মানুষের আবেগ ও বেদনায় প্রতিফলিত করেছে; অন্য অপশনগুলো ভুল কারণ (b) বিদেশী ভাষার প্রচারকে তুলে ধরে না, (c) শুধুমাত্র শিক্ষাগত প্রসঙ্গ নয়, এবং (d) বিজ্ঞানের সঙ্গে সম্পর্ক নেই।",
+        "chapter_id": "1343",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136738,
+      "value": {
+        "options": {
+          "a": "বিদেশি ভাষা",
+          "b": "বাংলাভাষা",
+          "c": "শিক্ষা",
+          "d": "রাজনীতি"
+        },
+        "question": "কামার কুমার জেলে চাষা কি নিয়ে কথা বলে?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নে দেয়া শিরোনাম ও প্রসঙ্গ থেকে বোঝা যায় যে লেখাটি ভাষা ও জনগণের ভাষাভাবে কেন্দ্রিত।  \nStep 2: অপশনগুলো যাচাই করলে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বিদেশি ভাষা এবং \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শিক্ষা ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E রাজনীতি শিরোনামের সঙ্গে মিল রাখে না, কিন্তু \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বাংলাভাষা সরাসরি ভাষাগত বিষয়কে নির্দেশ করে।  \nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বাংলাভাষা — কারণ প্রশ্নের বিষয়ভিত্তি বাংলা ভাষা ও সাধারণ মানুষের ভাষা ব্যবহারের ওপর কেন্দ্রীভূত; অন্য বিকল্পগুলো বিষয়ের সঙ্গে সম্পর্কিত নয়।",
+        "chapter_id": "1343",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130201,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): মাতৃভাষার গুরুত্ব সম্পর্কে তোমার কি ধারণা?",
+          "খ": "(অনুধাবন): ১৯৫২ সালে ভাষার জন্য আন্দোলন কেন জরুরি ছিল?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): সুফিয়া কামালের কবিতার মাধ্যমে কিভাবে মাতৃভাষার প্রতি ভালোবাসা প্রকাশ পায় তা বিশ্লেষণ করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): মাতৃভাষা রক্ষার জন্য আমাদের কি কি পদক্ষেপ নিতে হবে তা বলো।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: কবি বেগম সুফিয়া কামাল দেশের মাতৃভাষা বাংলা নিয়ে লিখেছেন। ১৯৫২ সালে ভাষার জন্য আন্দোলনে অনেক তরুণ তাজা প্রাণ হারিয়েছে।",
+        "solution": "সমাধান:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মাতৃভাষার গুরুত্ব সম্পর্কে তোমার কি ধারণা?\n- সংক্ষিপ্ত উত্তরগত ধারণা: মাতৃভাষা হলো জাতিগত ও ব্যক্তিগত পরিচয়ের মূল ভিত্তি; এটি মানুষকে চিন্তা-ভাবনা, আবেগ ব্যক্তকরণ, সাংস্কৃতিক উত্তরাধিকার ও সামাজিক যোগাযোগের মাধ্যমে সুসংহত করে।\n- ব্যাখ্যা ও যুক্তি:\n  1. পরিচয় ও ঐতিহ্য: ভাষা জাতির ইতিহাস, লোকশিল্প, প্রথা ও মূল্যবোধ বহন করে; ভাষা থাকলে জাতি নিজের অস্তিত্ব বুঝে।\n  2. মনস্তাত্ত্বিক ও শিক্ষাগত ভূমিকা: শিশুর প্রথম শেখার মাধ্যম হচ্ছে মাতৃভাষা; এতে ধারণা গ্রহণ ও সৃজনশীলতা দ্রুত এবং কার্যকর হয়।\n  3. সামাজিক ও সাংবিধানিক অধিকার: ভাষার স্বীকৃতি জনগণের মর্যাদা ও অংশগ্রহণ নিশ্চিত করে; ভাষার অবমূল্যায়ন সামাজিক বৈষম্য বাড়ায়।\n  4. সাংস্কৃতিক সমৃদ্ধি: সাহিত্য, গান, নাটক ইত্যাদি ভাষার মাধ্যমে বিকশিত হয়; ভাষা রক্ষায় সংস্কৃতি জাগ্রত থাকে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ১৯৫২ সালে ভাষার জন্য আন্দোলন কেন জরুরি ছিল?\n- সংক্ষিপ্ত কারণ: তখন বাঙালি ভাষাভিত্তিক অধিকার ও সাংস্কৃতিক স্বত্ত্বার বিরুদ্ধে হস্তক্ষেপ হচ্ছিল; সরকারি নীতিতে বাঙালি ভাষার অবহেলা এবং অন্য ভাষাকে একত্রীকরণের চেষ্টা সংগঠিত প্রতিরোধ প্রয়োজন করেছে।\n- ব্যাখ্যা ও যুক্তি:\n  1. ঐতিহাসিক প্রেক্ষাপট: পাকিস্তান গঠনের পর বাংলাভাষী জনগণের বৃহত্তর রাজনৈতিক ও সাংস্কৃতিক একীকরণের চাপ ছিল; সরকারি নীতিতে বাংলার প্রাপ্তিগত স্থান হ্রাসের চেষ্টা দেখা যায়।\n  2. মূল ইস্যু: রাষ্ট্রভাষা হিসেবে বাংলার স্বীকৃতি না পাওয়া—শিক্ষা, প্রশাসন ও জনজীবনে বাংলা ব্যবহার বাধাগ্রস্ত হচ্ছিল।\n  3. জরুরিতা: ভাষা মানুষের অস্তিত্ব ও অহংকারের প্রশ্ন; সাংগঠনিক মানব-অধিকার ও জাতিগত মর্যাদা রক্ষার জন্য প্রতিবাদ যেতে বাধ্যতামূলক ছিল।\n  4. প্রাণাহানি কেন তা গুরুতর: অনেক তরুণ জীবন উৎসর্গ করে আন্দোলনকে সক্রিয় বাস্তবতায় রূপ দেয়—এই ত্যাগ আন্দোলনের নৈতিক ও ঐতিহাসিক বৈধতা আরও মজবুত করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সুফিয়া কামালের কবিতার মাধ্যমে কিভাবে মাতৃভাষার প্রতি ভালোবাসা প্রকাশ পায় তা বিশ্লেষণ করো।\n- বিশ্লেষণের পদ্ধতি (ধাপগুলো):\n  1. কবিতাটি মনোযোগ দিয়ে পড়ে প্রধান থিম নির্ণয় করা (মাতৃভাষা, দেশভক্তি, নারী শক্তি ইত্যাদি)।\n  2. ভাষাগত উপাদান দেখো—শব্দচয়ন, রূপক, ব্যক্তীকরণ, সরল বা 诺স্তষ্ট ভঙ্গি।\n  3. টোন ও আবেগ বিশ্লেষণ করো—কবির আবেগ কি গৌরবমিশ্র, অভিমানী, মমতা-পরিপূর্ণ বা আহ্বানমূলক।\n  4. প্রভাব ও উদ্দেশ্য মূল্যায়ন করো—কীভাবে পাঠক হৃদয়ে মাতৃভাষার মর্যাদা বাড়ে।\n- বিশ্লেষণ ও উদাহরণাত্মক ব্যাখ্যা:\n  1. থিম ও ভাষা: সুফিয়া কামালের কবিতায় মাতৃভাষা প্রায়ই “মা” বা “প্রিয়” হিসেবে উপস্থাপিত হয়—এটি পাঠকে সম্পর্কের অনুভব করায় (personification) এবং ভাষাকে মানবিক মর্যাদা দেয়।\n  2. রূপক ও চিত্রকল্প: তিনি ভাষাকে ফুল, নদী, চিরন্তন আলো হিসেবে তুলনা করলে ভাষার সৌন্দর্য ও ধারাবাহিকতা ফুটে ওঠে; এ ধরনের রূপক পাঠকের মনে গেঁথে যায়।\n  3. সরাসরি আহ্বান ও সংগ্রামবোধ: অনেক কবিতায় তিনি লোকের কাছে ভাষা রক্ষার আহ্বান জানান বা ভাষার জন্য ত্যাগকে গৌরবান্বিত করেন—এটি আন্দোলন ও সম্মানীয় স্মৃতিকে স্থিতিশীল করে।\n  4. কাব্যিক কৌশল: সরল ও প্রাঞ্জল ভাষাব্যবহার, ছন্দ ও পুনরাবৃত্তি পাঠকের আবেগ বাড়ায় এবং একজাতীয় ঐক্যবোধ সৃষ্টি করে।\n- সংক্ষিপ্ত উপসংহার: সুফিয়া কামালের কবিতা শব্দচয়ন, রূপক, টোন ও সরাসরি আহ্বানের মাধ্যমে মাতৃভাষাকে মানবিক, সাংস্কৃতিক ও নৈতিক মূল্য দেয় এবং পাঠকের মধ্যে গভীর ভালোবাসা ও সন্মান জাগায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মাতৃভাষা রক্ষার জন্য আমাদের কি কি পদক্ষেপ নিতে হবে তা বলো।\n- প্রস্তাবিত পদক্ষেপ (কাজের স্তর অনুযায়ী):\n  1. পরিবার ও ব্যক্তি স্তর:\n     - ঘরে মাতৃভাষায় কথা বলা, শিশুদের প্রথম শিক্ষা মাতৃভাষায় দেওয়া।\n     - শিশুদের মাতৃভাষার গল্প, গান ও সাহিত্যকে উৎসাহ দেয়া।\n  2. শিক্ষা ও প্রতিষ্ঠান স্তর:\n     - প্রাথমিক শিক্ষায় মাতৃভাষাকে মাধ্যেমিক ভাষা হিসেবে শক্তভাবে প্রতিষ্ঠিত রাখা।\n     - স্কুল/কলেজে স্থানীয় সাহিত্য, ইতিহাস ও সাংস্কৃতিক কর্মসূচি অন্তর্ভুক্ত করা।\n  3. প্রশাসনিক ও নীতিগত স্তর:\n     - সরকারি নীতিতে ভাষা সংরক্ষণ ও উন্নয়নের জন্য স্পষ্ট নির্দেশাবলী ও বাজেট নির্ধারণ।\n     - অফিস, বিচার ও প্রশাসনে মাতৃভাষার ব্যবহার বৃদ্ধি ও সহজীকরণ।\n  4. সামাজিক ও সাংস্কৃতিক স্তর:\n     - সাহিত্য উৎসব, ভাষা দিবস অনুষ্ঠানের মাধ্যমে জনসচেতনতা বৃদ্ধি।\n     - মিডিয়া ও জনপ্রিয় সংস্কৃতি (টিভি, সিনেমা, ডিজিটাল কনটেন্ট) বাংলার জন্য নিয়মিত ব্যবহার এবং মানসম্মত কন্টেন্ট সৃষ্টি।\n  5. প্রযুক্তি ও ডিজিটাল সংরক্ষণ:\n     - অনলাইন ресур্স, ডাটাবেস, ডিজিটাল গ্রন্থাগার ও সফটওয়্যার-ইন্টারফেস বাংলায় উন্নয়ন।\n     - ভাষার ডিজিটাল রূপায়ন (কোণগুলো—Unicode, ভাষা সফটওয়্যার) সহজতর করা।\n- অগ্রাধিকার ও যুক্তি:\n  - প্রথমে শিশুসিক্ষা ও পরিবার-ভিত্তিক প্রচেষ্টা জরুরি কারণ ভাষা শেখার প্রারম্ভিক অবস্থা স্থির করতে হয়।\n  - পরবর্তীতে শিক্ষা-নীতিতে সাংবিধানিক ও প্রশাসনিক সমর্থন প্রয়োজন, কারণ প্রতিষ্ঠানিক শক্তি ভাষার ব্যবহার বাড়ায়।\n  - প্রযুক্তি ও মিডিয়া নিশ্চিত করে ভাষা আধুনিক কার্যক্ষত্রে সক্রিয় থাকে।\n- সমাপ্তি: মাতৃভাষা রক্ষা একটি সম্মিলিত দায়িত্ব—ব্যক্তি, পরিবার, শিক্ষা প্রতিষ্ঠান, সরকার ও সমাজ সকলের উদ্দেশ্য ও ক্রিয়ায় মিলেমিশে কাজ করলে ভাষা টিকে থাকবে এবং সমৃদ্ধ হবে।",
+        "chapter_id": "1343",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মাতৃভাষা মানুষের চিন্তা-ভাবনা, পরিচয় ও শিক্ষার মূল মাধ্যম; ভালো ভাষাগত দক্ষতা একে শিক্ষায় ও সামাজিক যোগাযোগে শক্তিশালী করে ও ব্যক্তিগত ও সামাজিক মর্যাদা গড়ে তোলে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ১৯৫২ সালের আন্দোলন জরুরি ছিল কারণ তখনই বাংলা ভাষার ওপর বিরূপ নীতি প্রয়োগের ফলে মানুষের সাংস্কৃতিক ও শিক্ষাগত অধিকার হুমকির মুখে পড়েছিল; ভাষা রক্ষা না করলে জাতিগত ও সাংস্কৃতিক অধিকার ক্ষুণ্ণ হতো।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সুফিয়া কামালের কবিতায় মাতৃভাষার প্রতি ভালোবাসা প্রকাশ পায় দেশপ্রेमী শব্দচয়ন, শক্তিশালী রূপক ও অনুভূতিপূর্ণ আবেগের মাধ্যমে; তার কবিতা ভাষার মর্যাদা, আত্মত্যাগ ও সংগ্রামের আহ্বান জোরালোভাবে ফুটিয়ে তোলে, যা বিশ্লেষণে স্পষ্ট হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মাতৃভাষা রক্ষার পদক্ষেপগুলোর মধ্যে রয়েছে: শিক্ষা ও প্রশাসনে বাংলা ব্যবহার নিশ্চিত করা, সাহিত্য ও সাংস্কৃতিক কার্যক্রম বাড়ানো, আইনি সুরক্ষা ও জনসচেতনতা গঠন করা; নিয়মিত ব্যবহার ও গর্ভিত সম্মানই ভাষাকে টিকিয়ে রাখে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-27T12:31:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130189,
+      "value": {
+        "options": {
+          "a": "হিন্দি",
+          "b": "ইংরেজি",
+          "c": "বাংলা",
+          "d": "আরবি"
+        },
+        "question": "বাংলাদেশের মানুষের মাতৃভাষা হিসেবে কোন ভাষাটি গুরুত্বপূর্ণ?",
+        "solution": "সমাধান: বাংলাদেশের অধিকাংশ মানুষের মাতৃভাষা বাংলা হওয়ায় মাতৃভাষা হিসেবে সবচেয়ে গুরুত্বপূর্ণ ভাষা হল বাংলা। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বাংলা। অন্য অপশনগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E হিন্দি ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E আরবি বাংলাদেশের সংখ্যাগরিষ্ঠ মানুষের মাতৃভাষা নয়, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ইংরেজি সাধারণত সংগঠিতভাবে দ্বিতীয় ভাষা বা বিদেশি ভাষা হিসেবে ব্যবহৃত হয়।",
+        "chapter_id": "1343",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-27T12:30:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 114624,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): মাতৃভাষা সম্পর্কে কবিতাটির মূল বার্তা কী?",
+          "খ": "(অনুধাবন): মাতৃভাষার জন্য আন্দোলনের প্রেক্ষাপট কী ছিল?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): মাতৃভাষার মর্যাদা প্রতিষ্ঠা করতে কী পদক্ষেপ নেওয়া উচিত তা বিশ্লেষণ করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): বর্তমান প্রজন্মের মধ্যে মাতৃভাষার গুরুত্ব কিভাবে বৃদ্ধি করা যায় তা প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: বাংলাদেশের মাতৃভাষা বাংলা সম্বন্ধে একটি কবিতা রয়েছে, যেখানে মাতৃভাষার গুরুত্ব ও গৌরব তুলে ধরা হয়েছে। ১৯৫২ সালে ভাষার জন্য ছাত্রদের আন্দোলনে অনেক প্রাণ বিসর্জন হয়েছে, যা আজও আমাদের স্মরণ করতে হয়। ",
+        "solution": "সমাধান:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কবিতাটির মূল বার্তা:\n- কবিতাটির কেন্দ্রীয় ভাবনা হলো মাতৃভাষা—বাংলার মর্যাদা, গৌরব ও ঐতিহ্য রক্ষা করা। এটি ভাষাকে জাতীয় পরিচয়, ভাবাবেগ ও সাংস্কৃতিক সংহতির প্রধান উপাদান হিসেবে উপস্থাপন করে।\n- কবিতায় বলা হয় ভাষার প্রতি ভালোবাসা ও সম্মান দেখানো প্রয়োজন; ভাষার জন্য বীরত্বের স্মৃতি অনুস্মরণ করে বর্তমান প্রজন্মকে দায়বদ্ধ করা হয়।\n- সংক্ষিপ্তভাবে: মাতৃভাষা একটি জাতির অস্তিত্ব ও গৌরব রূপে মূল্যবান এবং তাকে রক্ষা ও পরিচর্যা করা সকলের কর্তব্য।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মাতৃভাষার জন্য আন্দোলনের প্রেক্ষাপট (১৯৫২):\n- প্রেক্ষাপটের মূল কারণ ছিল নবগঠিত পাকিস্তানের সরকারি নীতি: রাজভাষা হিসেবে শুধুমাত্র উর্দুকে আধিকারিক স্বীকৃতি দেওয়ার চেষ্টা, যা পূর্ব পাকিস্তানের (বর্তমান বাংলাদেশ) ভাষাভাষীদের দাবি—বাংলা রাজভাষা হোক—অগ্রাহ্য করেছিল।\n- শিক্ষার্থীবৃন্দ ও নাগরিকেরা সাংস্কৃতিক ও ভাষাগত স্বীকৃতির জন্য আন্দোলন শুরু করে; শান্তিপূর্ণ প্যারেড ও মিছিল থেকে পুলিশি বাহিনী গুলিপর্যন্ত সংঘর্ষে হতাহতের ঘটনা ঘটে।\n- ফলে ২১ ফেব্রুয়ারি ১৯৫২-এর ঘটনাগুলো ভাষা আন্দোলনের রূপে গড়ে উঠে এবং পরে বাংলাদেশের ভাষা ও জাতীয় চেতনার এক মূল ভিত্তি হয়ে দাঁড়ায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E মাতৃভাষার মর্যাদা প্রতিষ্ঠা করতে নেওয়া উচিত পদক্ষেপ—বিশ্লেষণ ও প্রয়োগ:\nধাপভিত্তিক বিশ্লেষণ ও কার্যকরী পদক্ষেপ:\n1. নীতিগত স্তর:\n   - সরকারি মানে ভাষানীতিতে মাতৃভাষাকে সর্বত্র প্রাধান্য দেওয়া (শিক্ষা, প্রশাসন, আইনি নথি) — ফলে ভাষাটির ব্যবহারিক মর্যাদা বৃদ্ধি পায়।\n   - প্রাসঙ্গিক আইন ও নীতিমালা প্রয়োগ করে বাংলা বিষয়ে সংরক্ষণমূলক পদক্ষেপ গ্রহণ করা।\n2. শিক্ষাব্যবস্থা:\n   - প্রাথমিক থেকে উচ্চশিক্ষা পর্যায়ে বাংলা ভাষায় পাঠদান শক্তভাবে করানো; যেকোনো বিষয়ে বাংলা মাধ্যম বিকাশ করা যাতে জ্ঞানের প্রবাহ মাতৃভাষায় সম্পূর্ণ করা যায়।\n   - শিক্ষক প্রশিক্ষণ ও মানসম্পন্ন পাঠপুস্তক সৃষ্টিতে বিনিয়োগ।\n3. সাংস্কৃতিক ও সামাজিক উদ্যোগ:\n   - সাহিত্য, নাটক, সংগীত ও গণমাধ্যামে বাংলার ভূমিকা বাড়ানো; বাংলা উৎসব, قصيرة কর্মসূচি, পুরস্কার ও অনুদান প্রদান।\n4. প্রযুক্তি ও মিডিয়া:\n   - ডিজিটাল প্ল্যাটফর্মে বাংলায় কন্টেন্ট উন্নয়ন (ওয়েবসাইট, অ্যাপ, অনলাইন কোর্স) — তরুণদের মধ্যে গ্রহণযোগ্যতা বাড়ে।\n5. প্রশাসনিক ব্যবহার ও দৃশ্যমানতা:\n   - সরকারি অফিস, আদালত, সড়কচিহ্ন ইত্যাদিতে বাংলার প্রাধান্য নিশ্চিত করা; অফিসিয়াল নথিপত্রে বাংলা ব্যবহার বাধ্যতামূলক করা।\n6. মূল্যায়ন ও টেকসইতা:\n   - নিয়মিত মূল্যায়ন করে কতটা সফল হচ্ছে তা পরিমাপ, স্থানীয় ও আন্তর্জাতিক সহযোগিতা গ্রহণ করে উন্নয়নগত কর্মসূচি সংশোধন।\n\nপ্রয়োগের যুক্তি:\n- নীতি ও শিক্ষা-দুটি একসাথে গেলে ভাষার মর্যাদা কাঠামোগতভাবে প্রতিষ্ঠিত হয়; সাংস্কৃতিক প্রচারণা এবং প্রযুক্তি তরুণদের মধ্যে কার্যকর গ্রহণ বাড়াবে। প্রশাসনিক দৃশ্যমানতা ভাষাকে সামাজিক সত্যি হিসেবে প্রতিষ্ঠা করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বর্তমান প্রজন্মের মধ্যে মাতৃভাষার গুরুত্ব বৃদ্ধি করার প্রস্তাবনা (কৌশলগত ও ব্যবহারিক):\n1. শিক্ষা ও পাঠ্যক্রম:\n   - ভাষা-ভিত্তিক বিকল্প শেখার মডিউল: বিজ্ঞানের মৌলিক ধারণা বাংলায় সহজ ব্যাখ্যা, দ্বিভাষিক (বাংলা–ইংরেজি) শিক্ষাসুবিধা যাতে বিশ্বমানের জ্ঞান বাংলায়ও পাওয়া যায়।\n   - কথকতা-কীর্তি (debate), রচনা ও সাহিত্য কর্মশালা স্কুল-কলেজে বাধ্যতামূলক করা।\n2. ডিজিটাল উদ্যোগ:\n   - মোবাইল অ্যাপ ও ইউটিউব চ্যানেলে অ্যাক্সেসযোগ্য বাংলা কন্টেন্ট—শিক্ষামূলক, বিনোদন ও প্রযুক্তি বিষয়ক—উন্নয়ন করা।\n   - সোশ্যাল মিডিয়ায় চ্যালেঞ্জ এবং ক্যাম্পেইন (হ্যাশট্যাগ, মাইক্রো-গল্প) যাতে তরুণেরা সক্রিয়ভাবে অংশ নেয়।\n3. অধিদর্শন ও প্রণোদনা:\n   - ভাষা-সংরক্ষণে উদ্যোগী যুব সংগঠনকে গ্রান্ট/প্রাইজ দেওয়া; স্কুল পর্যায়ে “সেরা বাংলা প্রকল্প” প্রতিযোগিতা।\n4. বাস্তবজীবন সংযোগ:\n   - স্থানীয় ইতিহাস ও ভাষার গল্প সংগ্রহে ছাত্র-ছাত্রীদের অংশগ্রহণ (ফিল্ডওয়ার্ক), এলাকা-ভিত্তিক ডকুমেন্টারি তৈরি।\n5. সংস্কৃতি ও বিনোদন:\n   - আধুনিক ধাঁচের বাংলা গান, চলচ্চিত্র ও নাটক নির্মাণে সহায়তা; জনপ্রিয় সংস্কৃতির মাধ্যমে ভাষার মর্যাদা বৃদ্ধি।\n6. পরিবার ও সমাজে অনুপ্রেরণা:\n   - পরিবারে মাতৃভাষায় প্রশ্ন-উত্তর, গল্পভাষণ ও পাঠাভ্যাস গড়ে তোলা; ভাষা সম্মানিত থাকলে শিশুর মনের ভিত শক্ত হয়।\n\nউদাহরণ (সংক্ষেপে): সরকারি স্কুলে বিজ্ঞান শেখানোর জন্য বাংলা অনুবাদকৃত ভিডিও ও ইন্টারেক্টিভ অ্যাপ দিলে শিক্ষার্থীরা সহজে বিষয় বুঝবে এবং বাংলা ব্যবহারে আত্মবিশ্বাস বাড়বে—এটি প্রযুক্তি + শিক্ষা মিলিয়ে ভাষাকে বাস্তবভাবে শক্তিশালী করার উদাহরণ।\n\nআপনাগুলো বাস্তবায়ন করলে—নীতিগত সুরক্ষা, মানসম্মত শিক্ষা, ডিজিটাল উপস্থিতি ও সাংস্কৃতিক উৎসাহ একসাথে কাজ করলে—মাতৃভাষার মর্যাদা ও তার প্রতি গুরুত্ব স্থায়ীভাবে বৃদ্ধি পাবে।",
+        "chapter_id": "1343",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কবিতার মূল বার্তা হল মাতৃভাষা আমাদের সাংস্কৃতিক পরিচয়, আত্মমর্যাদা ও গৌরব; তাই এটি রক্ষা ও সম্মান করা প্রয়োজন—এইটি কবিতায় বারবার আবর্তিত থিম হওয়ায় এটি সঠিক।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ১৯৫২ সালের আন্দোলনের প্রেক্ষাপট ছিল সরকারি ভাষা নীতির কারণে বাংলা ভাষাকে যৌথ বা দ্বিতীয় শ্রেণীর করা—ছাত্র ও সাধারণ জনগণ মাতৃভাষার স্বীকৃতি চেয়ে বিক্ষোভে নেমে প্রাণ হারায়, ফলে এই ঐতিহাসিক প্রেক্ষাপটই ঘটনাগুলোর কারণ।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E মর্যাদা প্রতিষ্ঠার জন্য প্রয়োজন নীতিগত স্বীকৃতি, শিক্ষায় মাতৃভাষার প্রবল সংযোজন, মিডিয়া ও সাংস্কৃতিক উৎসাহ এবং আইনি নিরাপত্তা; এগুলো একসঙ্গে বিশ্লেষণ করলে ভাষার ব্যবহার ও মর্যাদা স্থায়ী হয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E যুব সমাজে গুরুত্ব বাড়াতে করা যায় — স্কুল-কলেজে সৃজনশীল পাঠক্রম, সোশ্যাল মিডিয়ায় বাংলাভিত্তিক কনটেন্ট, সাহিত্য-সংস্কৃতি কর্মসূচি ও প্রতিযোগিতা; এসব প্রস্তাবনা বাস্তবে ভাষার প্রতি আবেগ ও ব্যবহার বৃদ্ধিতে কার্যকর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-21T12:16:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 114619,
+      "value": {
+        "options": {
+          "a": "বাংলা ভাষা শুধুমাত্র লেখালেখির জন্য ব্যবহৃত হয়।",
+          "b": "বাংলা ভাষা দেশের ঐতিহ্য এবং মানুষের আবেগের প্রতিফলন।",
+          "c": "বাংলা ভাষা বিদেশি ভাষার ওপর নির্ভরশীল।",
+          "d": "বাংলা ভাষার ব্যবহার সীমিত এবং গুরুত্বহীন।"
+        },
+        "question": "বাংলা ভাষার বৈশিষ্ট্য এবং এর সামাজিক গুরুত্ব কীভাবে কবিতায় তুলে ধরা হয়েছে?",
+        "solution": "সমাধান:\nধাপ ১: কবিতা মনোযোগ দিয়ে পড়ে ভাষার রূপ, উপমা, কথ্যধারা এবং রীতি-রীতি-সংস্কৃতির উল্লেখ চিহ্নিত করতে হবে — এইসব উপাদান ভাষার বৈশিষ্ট্য ও সামাজিক বন্ধনের ইঙ্গিত দেয়।  \nধাপ ২: কবিতায় যদি মাতৃভুমি, ঐতিহ্য, коллектив অনুভব বা জনজীবনের অনুভূতি ফুটে ওঠে, তা ভাষার সামাজিক গুরুত্বকে প্রমাণ করে। তাই উপসংহারে সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E — \"বাংলা ভাষা দেশের ঐতিহ্য এবং মানুষের আবেগের প্রতিফলন\"।  \nঅন্য অপশনগুলোর অযোগ্যতা সংক্ষেপে: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E অত্যন্ত সংকীর্ণ (শুধু লেখালেখি বলা অসাংঘাতিক), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ভুল কারণ বাংলা নিজস্ব শক্তিশালী সাহিত্যিক ও সাংস্কৃতিক ঐতিহ্য আছে, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ভুল কারণ ব্যবহার সীমিত ও গুরুত্বহীন বলা বাস্তবের সঙ্গে মিলছে না।",
+        "chapter_id": "1343",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-21T12:15:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56506,
+      "value": {
+        "options": {
+          "a": "১৯৪৭",
+          "b": "১৯৫২",
+          "c": "১৯৭১",
+          "d": "২০০০"
+        },
+        "question": "বাংলা ভাষার রাষ্ট্রভাষার দাবি কখন করা হয়?",
+        "solution": "সমাধান: সঠিক উত্তর হল b (১৯৫২)। ১৯৪৭–৪৮ সালে উর্দু একমাত্র রাষ্ট্রভাষা করার চেষ্টা শুরু হলেও গণতান্ত্রিকভাবে দাবি ও আন্দোলন সংগঠিত হয়ে Charlমুখী রূপ নেয় এবং শহীদদের আত্মত্যাগ ঘটায় ২১ ফেব্রুয়ারি ১৯৫২-এ, তাই রাষ্ট্রভাষার দাবিটি কার্যত ১৯৫২ সালে চূড়ান্ত হয়েছিল। অন্য অপশনগুলো ভুল কারণ ১৯৪৭ স্বাধীনতার বছর, ১৯৭১ স্বাধীনতা সম্পর্কিত বছর এবং ২০০০ এই ঘটনার সঙ্গে সম্পর্কহীন।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56507,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাংলা ভাষা বাংলাদেশের সকল মানুষের মাতৃভাষা।",
+        "solution": "সমাধান: মাতৃভাষা বলতে একজনের শিশুকাল থেকেই পরিবার ও সমাজে প্রথম শেখা ভাষাকে বোঝায়। বাংলাদেশের সংবিধানে বাংলা রাষ্ট্রের সরকারী ভাষা হিসেবে স্বীকৃত এবং জনগণের বিশাল সংখ্যাগোষ্ঠীর প্রথম ভাষা হওয়ায় বিবৃতিটি সঠিক বলে ধরা হয়। তাই সঠিক উত্তর: a (True); বিকল্প b ভুল কারণ তা মূল বিবৃতির বর্ণনার সাথে বিরুদ্ধ।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56508,
+      "value": {
+        "options": {
+          "a": "বিজাতীয়",
+          "b": "রাষ্ট্রভাষা",
+          "c": "শিক্ষা",
+          "d": "পরিচয়"
+        },
+        "question": "বাংলা ভাষার জন্য _______ মিছিল অনুষ্ঠিত হয়েছিল।",
+        "solution": "সমাধান:\n1) প্রশ্নের বাক্যটি পড়ে বোঝা যায় এটি ঐতিহাসিক প্রসঙ্গ—বাংলা ভাষার স্বীকৃতির জন্য কোনো মিছিলের কথা বলা হচ্ছে।  \n2) ইতিহাস অনুযায়ী ১৯৫২ সালের ভাষা আন্দোলনে বাংলা ভাষার জন্য মিছিল ও প্রতিবাদ অনুষ্ঠিত হয়েছিল এবং প্রধান দাবি ছিল বাংলাকে রাষ্ট্রভাষা হিসেবে স্বীকৃতি দেওয়া। তাই সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E।  \n3) কেন অন্যগুলো ভুল: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (বিজাতীয়) কোনো ভাষা-স্বীকৃতি বিষয়ক মিছিলে প্রাসঙ্গিক নয়, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (শিক্ষা) ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (পরিচয়)ও ভাষা মুক্তির প্রধান দাবিকে বোঝায় না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56509,
+      "value": {
+        "options": [],
+        "question": "দেশের মানুষের 'বেদন' কি বলে উল্লেখ করা হয়েছে?",
+        "solution": "প্রণালী: পাঠ্যের সেই অনুচ্ছেদে \"বেদন\" শব্দটি কোথায় ও কীভাবে ব্যবহার করা হয়েছে তা খতিয়ে দেখা হয়। সেখানে সরাসরি বর্ণিত আছে যে দেশের মানুষের বেদন হলো মাতৃভাষার জন্য মিছিল ও হত্যার বেদন, তাই সেটিই সঠিক উত্তর। অন্য বিকল্পগুলো (যেমন আর্থ-সামাজিক কষ্ট বা রাজনৈতিক অস্থিরতা) পাঠ্যের নির্দিষ্ট বর্ণনার সঙ্গে মেলে না, তাই সেগুলো ভুল। ফলাফল: মাতৃভাষার জন্য মিছিল ও হত্যার বেদন।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মাতৃভাষার জন্য মিছিল ও হত্যার বেদন"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56510,
+      "value": {
+        "options": {
+          "a": "দেশ",
+          "b": "সদয়",
+          "c": "সরল",
+          "d": "বিজাতীয়"
+        },
+        "question": "বাংলা ভাষাতে গাড়ি ভ্রমণের সময় কোন শব্দ শ্রেষ্ঠ?",
+        "solution": "সমাধান: ধাপে ধাপে সিদ্ধান্ত গ্রহণ করা যাক—\n\nStep 1: প্রসঙ্গটি হলো \"গাড়ি ভ্রমণের সময়\" — এখানে এমন শব্দ নির্বাচন করতে হবে যা ভ্রমণ বা রাস্তার গুণবিচার বোঝায়।  \nStep 2: অপশনগুলো বিশ্লেষণ: \"দেশ\" একটি নাম (স্থান), \"সদয়\" ব্যক্তি বা আচরণের গুণ, \"সরল\" মানে সোজা/মসৃণ/সহজ, \"বিজাতীয়\" অর্থ বিদেশী বা অস্বাভাবিক।  \nStep 3: গাড়ি ভ্রমণের ক্ষেত্রে রাস্তা বা যাত্রার স্বাভাবিক ও সহজ অবস্থা প্রকাশ করতে সবচেয়ে উপযুক্ত শব্দ হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E — \"সরল\"।  \nব্যাখ্যা: অন্যগুলো প্রাসঙ্গিক নয় — \"দেশ\" বস্তুগত নাম, \"সদয়\" মানুষ বা আচরণের বর্ণনা, \"বিজাতীয়\" ভ্রমণের স্বরূপের সাথে সম্পর্কহীন; তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (\"সরল\")।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56511,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কবিদত্ত একজন সমাজসেবী ছিলেন।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি সরাসরি একটি সত্য/মিথ্যা বিবৃতি যাচাই করছে — \"কবিদত্ত একজন সমাজসেবী ছিলেন\"।  \nধাপ ২: প্রাসঙ্গিক তথ্য অনুযায়ী কবিদত্ত সমাজসেবামূলক কাজে নিযুক্ত ছিলেন, তাই বিবৃতিটি সত্য।  \nধাপ ৩: ফলে সঠিক উত্তর হলো a: True; বিকল্প b: False ভুল, কারণ সেটি বাস্তব পরিস্থিতির বিরুদ্ধে যায়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56512,
+      "value": {
+        "options": {
+          "a": "ভিন্ন",
+          "b": "সরল",
+          "c": "জটিল",
+          "d": "নিন্ম"
+        },
+        "question": "বাংলা ভাষাকে _______ বলা হয়েছে।",
+        "solution": "সমাধান: বাংলা ভাষাকে \"সরল\" বলা হয়েছে। কারণ বাংলা ভাষার শব্দচয়ন ও ব্যাকরণ পরিব্যাপ্তভাবে সাধারণ মানুষের বোঝার জন্য সহজ ও সরলভাষী, ফলে \"সরল\" শব্দটি উপযুক্ত বর্ণনা। অন্যান্য বিকল্পগুলি অপ্রযোজ্য: \"ভিন্ন\" (আলাদা) নয়, \"জটিল\" অর্থ বিপরীত এবং \"নিন্ম\" অসম্মানসূচক ও প্রাসঙ্গিক নয়; তাই সঠিক উত্তর হচ্ছে b — সরল।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56513,
+      "value": {
+        "options": [],
+        "question": "সুফিয়া কামালের জন্মস্থান কোথায়?",
+        "solution": "সমাধান: সুফিয়া কামাল ছিলেন একজন বিখ্যাত বাংলা কবি ও সমাজসেবক; তার জীবনীগত তথ্য অনুযায়ী তিনি ১৯১১ সালের ২০ জুন বরিশালে জন্মগ্রহণ করেন। তাই জন্মস্থান হলো বরিশাল। অন্যান্য পরিচিত শহর যেমন ঢাকা, চট্টগ্রাম বা খুলনা নয়, তারা সাধারণ বিভ্রান্তিকর বিকল্প মাত্র।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বরিশাল"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56514,
+      "value": {
+        "options": {
+          "a": "বাংলা ভাষার ইতিহাস",
+          "b": "মাতৃভাষার প্রতি ভালবাসা",
+          "c": "বিজাতীয় ভাষার ব্যবহার",
+          "d": "সমাজের দায়িত্ব"
+        },
+        "question": "কবিতার প্রথম আট লাইন কি সম্পর্কে?",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ:\n1. প্রথম আট লাইনের অনুভব ও কেন্দ্রীয় ভাব থেকে দেখতে হয় যে লেখক কোন বিষয়কে প্রধান করে তুলেছেন — যদি লাইনে মাতৃভাষার প্রশংসা, প্রীতি বা তার মর্যাদার প্রতীয়মানতা দেখা যায়, তা হলে বিষয়টি হচ্ছে ভাষার প্রতি ভালবাসা।  \n2. প্রশ্নের বিকল্পগুলোর সঙ্গে মিলিয়ে দেখলে সেটাই স্পষ্টভাবে মিলে যায়, তাই সঠিক উত্তর হচ্ছে (b) মাতৃভাষার প্রতি ভালবাসা।  \n\nসংক্ষেপে কেন বাকিরা ভুল:\n- a বাংলা ভাষার ইতিহাস হলে উল্লেখভিত্তিক বা ঐতিহাসিক তথ্য থাকা জরুরি, যা অনুভূতিজনিত পঙক্তিতে সাধারণত নেই।  \n- c বিজাতীয় ভাষার ব্যবহার বোঝায় যে লেখক অন্য ভাষা ব্যবহারের প্রসঙ্গ তুলেছেন, যা প্রথম আট লাইনে লক্ষ্য করা যায় না।  \n- d সমাজের দায়িত্ব হলে নৈতিক বা সামাজিক নির্দেশনা বেশি থাকত, যে ভাবটি এখানে প্রধান নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56515,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মাতৃভাষার চেয়ে প্রিয় ভাষা হতে পারে।",
+        "solution": "সমাধান:\n1. প্রথমে শব্দগুলোর সংজ্ঞা: মাতৃভাষা হল যে ভাষা কেউ প্রথম শেখে এবং মানসিকভাবে যেখানে নিকটতার অনুভূতি থাকে; প্রিয় ভাষা বলতে সাধারণত যে ভাষা কারো কাছে সবচেয়ে পছন্দের বোঝায়।  \n2. যেহেতু মাতৃভাষা সাংস্কৃতিক ও আবেগগতভাবে প্রথম এবং গভীর সম্পর্কের কারণে সবচেয়ে নিকট অনুভূত হয়, তাই সেটির চেয়ে অন্য কোনো ভাষা \"প্রিয়\" হয়ে মাতৃভাষাকে সরিয়ে দেওয়া যায়—অর্থাৎ প্রশ্নের বিবৃতিটি ভুল।  \nসুতরাং সঠিক উত্তর: b (False)। অপশন a (True) ভুল কারণ তা মাতৃভাষার আবেগগত প্রাধান্য অস্বীকার করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56516,
+      "value": {
+        "options": {
+          "a": "শিক্ষা",
+          "b": "সরকার",
+          "c": "ছাত্ররা",
+          "d": "অধ্যাপক"
+        },
+        "question": "বাংলা ভাষার জন্য _______ আন্দোলনের সঙ্গে যুক্ত হয়েছিল।",
+        "solution": "সমাধান:\n১) প্রেক্ষাপট স্মরণ: বাংলা ভাষা আন্দোলন (বিশেষত ১৯৫২ সালের) মূলত ছাত্রদের উদ্যোগে ঢাকা বিশ্ববিদ্যালয়সহ বিভিন্ন শিক্ষা প্রতিষ্ঠানের ছাত্ররা নেতৃত্ব দেয়।  \n২) প্রধান অংশগ্রহণকারী শনাক্তকরণ: আন্দোলনের কেন্দ্রে ছিলেন ছাত্ররা; তারা রণব্যবস্থা, শোভাযাত্রা ও রণনীতি চালিয়ে আন্দোলন ত্বরান্বিত করে।  \n৩) সিদ্ধান্ত: সুতরাং সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ছাত্ররা।\n\nব্যাখ্যা (সংক্ষিপ্ত): \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E শিক্ষা কোনো প্রতিষ্ঠান বা ব্যক্তি নয়, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সরকার আদর্শভাবে আন্দোলনের বিরোধী ছিল, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অধ্যাপকরা কিছু অংশগ্রহণ করেছিলেন কিন্তু আন্দোলনের মূল চালিকাশক্তি ছিলেন ছাত্ররা।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56517,
+      "value": {
+        "options": [],
+        "question": "কবি বেগম সুফিয়া কামালের মৌলিক কাব্যগ্রন্থের নাম কি?",
+        "solution": "সমাধান:\n১) প্রশ্নে নির্দেশিত কবি বেগম সুফিয়া কামাল সম্পর্কে পরিচিত তথ্য যাচাই করা হয় — তিনি বাংলা সাহিত্যের কবি ও সাহিত্যিক।  \n২) সাহিত্যতথ্য ও গ্রন্থাবলীর উপর নির্ভর করে দেখা গেছে যে তাঁর মৌলিক (প্রথম) কাব্যগ্রন্থটির শিরোনাম হল \"সাঁঝের মায়া\"।  \n৩) তাই সঠিক উত্তর: \"সাঁঝের মায়া\"। অন্যান্য সম্ভাব্য বিকল্পগুলো সাধারণত তাঁর প্রবন্ধ, স্মৃতিকথা বা পরে প্রকাশিত সংগ্রহ হতে পারে; কিন্তু মৌলিক কাব্যগ্রন্থটি হল \"সাঁঝের মায়া\"।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "সাঁঝের মায়া"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56518,
+      "value": {
+        "options": {
+          "a": "শিক্ষকগণ",
+          "b": "কামার কুমার",
+          "c": "ছাত্ররা",
+          "d": "প্রকৌশলী"
+        },
+        "question": "বাংলায় কাদের মাতৃভাষা উল্লেখ করা হয়েছে?",
+        "solution": "সমাধান:\n1. প্রথমে প্রশ্নে যে লেখাটিতে \"মাতৃভাষা\" উল্লেখ আছে তা খুঁজে বের করতে হবে — সেখানে যাকে মাতৃভাষা হিসেবে উল্লেখ করা হয়েছে সেই ব্যক্তি বা নামটি শনাক্ত করুন।  \n2. অপশনগুলো যাচাই করলে দেখা যাবে যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (শিক্ষকগণ), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (ছাত্ররা) ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (প্রকৌশলী) হলো সাধারণ শ্রেণি/পেশার উল্লেখ; এগুলোর মধ্যে কোনো একটি ব্যক্তির নাম হিসেবে সরাসরি মাতৃভাষা বলা থাকে না।  \n3. অপশন \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (কামার কুমার) একটি নির্দিষ্ট ব্যক্তির নাম, এবং প্রদত্ত পাঠ্য অনুযায়ী মাতৃভাষা হিসেবে বাংলা উল্লেখিত আছে। তাই সঠিক উত্তর হচ্ছে b (কামার কুমার)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56519,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মানুষ বিদেশি ভাষা ব্যবহার না করার জন্য বলেছে।",
+        "solution": "সমাধান:\n1. প্রশ্নটি পড়ে বুঝতে হবে বাক্যে বলা হয়েছে যে কোনো ব্যক্তি অন্যদের বিদেশি ভাষা ব্যবহার না করার জন্য বলেছেন — এইটি একটি নির্দেশনা বা বক্তব্য হিসাবে উপস্থাপিত।\n2. বিবৃতিটি সরাসরি উল্লেখ করে যে সত্যিই কেউ মানুষকে বিদেশি ভাষা ব্যবহার না করার জন্য বলেছে, তাই এটি সত্য বিবৃতি।\n3. অতএব সঠিক উত্তর হলো a (True)। বিকল্প b (False) ভুল কারণ বাক্যে স্পষ্টভাবে নির্দেশ দেওয়া হয়েছে যে কেউ বাইরে ভাষা ব্যবহার না করার কথা বলেছেন।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56520,
+      "value": {
+        "options": {
+          "a": "ঐতিহ্য",
+          "b": "কবিতা",
+          "c": "আন্দোলন",
+          "d": "শিক্ষা"
+        },
+        "question": "বাংলা ভাষাকে _______ রক্ত-পিছল পথে মুক্তির কথা বলা হয়েছে।",
+        "solution": "সমাধান:\nStep 1: বাক্যটি বিশ্লেষণ করলে দেখা যায় \"রক্ত-পিছল পথে মুক্তি\" শব্দযুগলটি বলছে যে বিশেষ করে রক্তক্ষয় ও চারুশক্তি ব্যবহার করে অর্জিত স্বাধীনতা বা অধিকার—এটি কোনো সৃজনশীল কাজ নয় বরং জনসাধারণের সংগ্রাম ও ত্যাগের সঙ্গে সম্পর্কিত।  \nStep 2: ঐতিহাসিক প্রেক্ষাপটে বাংলা ভাষার জন্য রক্তাক্ত সংগ্রাম বোঝাতে সাধারণত \"ভাষা আন্দোলন\" শব্দবন্ধটি ব্যবহৃত হয় (১৯৫২ সালে শহীদদের ত্যাগের কথা এখানে প্রাসঙ্গিক)।  \nঅতএব সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E আন্দোলন। \n\nঅন্য অপশনগুলোর অপ্রাসঙ্গিকতা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ঐতিহ্য, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কবিতা, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E শিক্ষা—এইগুলো রক্তক্ষয় ও মুক্তির সংগ্রামের ভাবটি ধারন করে না, কাজেই সেগুলো প্রতিলিপি নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56521,
+      "value": {
+        "options": [],
+        "question": "কবির মৃত্যুর তারিখ কি?",
+        "solution": "সমাধান: প্রথমে কবির জীবনী ও বিশ্বাসযোগ্য সূত্র (যেমন সংবাদপত্রের বিবৃতি, অনলাইন বায়োগ্রাফি বা সরকারি রেকর্ড) পর্যালোচনা করা হয়। ঐসব উৎস থেকে নিশ্চিত করা যায় যে কবির মৃত্যুর তারিখ ছিল ২০শে নভেম্বর ১৯৯৯। তাই অন্যান্য সম্ভাব্য তারিখগুলো ভুল, কারণ নির্ভরযোগ্য সূত্রগুলো সেই তারিখই consistentভাবে প্রদর্শন করে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "২০শে নভেম্বর ১৯৯৯"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56522,
+      "value": {
+        "options": {
+          "a": "মাটি",
+          "b": "লোহা",
+          "c": "জল",
+          "d": "গাছ"
+        },
+        "question": "কামার কুমারের কাজ কি?",
+        "solution": "সমাধান:\n1. কামার বা কুমার সাধারণত লোহা গরম করে তারেকে তৈরি করে—তাঁদের মূল কাজ ধাতু তৈরিকর বা মেরামত করা।  \n2. তাই কামারের কাজকে সবচেয়ে ভাল বর্ণনা করে হলো লোহা। সঠিক উত্তর: b (লোহা)।  \n3. অন্য বিকল্পগুলো—মাটি, জল, গাছ—কামারের মূল কাজের সাথে মিল না থাকায় ভুল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56523,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাংলা ভাষায় কথা বলায় বিদেশি শব্দ ব্যবহার করা উচিত।",
+        "solution": "সমাধান: বিবৃতিটি বিশ্লেষণ করলে জানা যায় যে এটি নির্দেশ দিচ্ছে যে বাংলা বলার সময় বিদেশি শব্দ ব্যবহার করা উচিত — এটি একটি নীতিগত দাবি। প্রথমত, ভাষার স্বকীয়তা ও সাংস্কৃতিক পরিচয় রক্ষা করার জন্য প্রয়োজন অনুযায়ী বাংলা প্রতিশব্দ ব্যবহার করা উচিত; দ্বিতীয়ত, অপ্রয়োজনীয় বিদেশি শব্দ ব্যবহার করলে বোঝাপড়া অপ্রস্ফুট ও ভাষাগত ঝুঁকি বাড়ে (তবে প্রযুক্তি ও বৈজ্ঞানিক শব্দগুলোর ক্ষেত্রে অনুবাদ না থাকলে যৌক্তিকভাবে বিদেশি শব্দ গ্রহণ করা যেতে পারে)। অতএব সাধারণভাবে বিবৃতিটি সত্য নয়, সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eব\u003C/span\u003E (False)। অপশন \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (True) ভুল — কারণ এটা ভাষাগত সংরক্ষণ ও স্পষ্টতার সাধারণ নীতিকে উপেক্ষা করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56524,
+      "value": {
+        "options": {
+          "a": "বিদেশি",
+          "b": "অত্যাচার",
+          "c": "রক্ত",
+          "d": "মুক্তি"
+        },
+        "question": "বাংলা ভাষার জন্য _______ অনেক মায়ের ছেলে প্রাণ দিয়েছে।",
+        "solution": "সমাধান:\n1) বাক্যের প্রেক্ষাপট দেখে বোঝা যায় এটি ভাষার জন্য ত্যাগ ও শোক সম্পর্কিত কথা — বিশেষ করে বাংলা ভাষার জন্য অনেকে প্রাণ দিয়েছে।  \n2) প্রতিটি বিকল্প পর্যালোচনা করা হলে দেখা যায়: বিদেশি (বিদেশি) এই স্থানে অর্থগতভাবে সংগতি রাখে না; অত্যাচার (অত্যাচার) হচ্ছেতো কারণ নয় বরং একটি ঘটনা; মুক্তি (মুক্তি) হলো লক্ষ্য, কিন্তু বাক্যে স্থানানুসারে “অনেক মায়ের ছেলে মুক্তি প্রাণ দিয়েছে” অনর্ত্বিক শোনায়।  \n3) সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E রক্ত — “বাংলা ভাষার জন্য রক্ত অনেক মায়ের ছেলে প্রাণ দিয়েছে” অর্থগতভাবে সঙ্গতিপূর্ণ ও প্রচলিত 표현।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56525,
+      "value": {
+        "options": [],
+        "question": "কবির সঙ্গে সঙ্গে সমাজসেবা কী ভাবে সম্পৃক্ত ছিল?",
+        "solution": "সমাধান: প্রশ্নটি যাচাই করার পদ্ধতি হলো প্রথমে কবির জীবনবৃত্তান্ত বা পরিচিত তথ্য দেখে তার পেশা ও কর্মকাণ্ড নির্ণয় করা। যদি বিবরণে দেখা যায় যে তিনি কাব্যরচনা করেছেন এবং একই সঙ্গে সমাজকল্যাণমূলক কাজে নিযুক্ত ছিলেন (যেমন শিক্ষা, দারিদ্র্যনিবারণ বা স্বেচ্ছাসেবী কাজ), তাহলে তা নির্দেশ করে যে তিনি দু’ভূমিকাতেই ছিলেন। তাই সঠিক উত্তর: তিনি কবি ও সমাজসেবী ছিলেন — কারণ এটি সরাসরি কবি হওয়া এবং সমাজসেবা করার দ্বৈত পরিচয়কে মিলে দেয়। অন্য বিকল্পগুলো (যদি কোনো বিকল্প কেবল কবি বা কেবল সমাজসেবী বলে) ভুল, কারণ তারা ওই দ্বৈত ভূমিকা উপেক্ষা করে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "তিনি কবি ও সমাজসেবী ছিলেন।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56526,
+      "value": {
+        "options": {
+          "a": "জল",
+          "b": "আকাশ",
+          "c": "বাংলা ভাষা",
+          "d": "মাটি"
+        },
+        "question": "কবিতা কোথায় লেখা হয়েছে?",
+        "solution": "সমাধান: প্রশ্নটি দেখে বোঝা যায় যে \"কবিতা কোথায় লেখা হয়\" এই প্রসঙ্গটি ভাষাগত বা লেখার মাধ্যম সম্পর্কে—উপলব্ধ অপশনগুলোর মধ্যে শুধুমাত্র \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বাংলা ভাষা) একটি ভাষা, তাই কবিতা সাধারণত ভাষায় লেখা হয়। সুতরাং সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বাংলা ভাষা)। অন্যগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (জল) এবং \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (আকাশ) লেখার উপযুক্ত মাধ্যম নয়, আর \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মাটি) শারীরিকভাবে লেখার জায়গা হতে পারে কিন্তু প্রশ্ন here ভাষার প্রসঙ্গ বোঝাচ্ছে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56527,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মাতৃভাষার জন্য আন্দোলন হয়েছিল।",
+        "solution": "সমাধান:\nপ্রশ্নটি যাচাই করলে বোঝা যায় এটি বাংলার ইতিহাসগত একটি সাধারণ বিবৃতি — ১৯৫২ সালে ভাষার অধিকার প্রতিষ্ঠার জন্য মানুষ বাংলাভাষার পক্ষে আন্দোলন চালায় (বিশেষ করে ২১ ফেব্রুয়ারি, ১৯৫২ সালের শহীদদের ঘটনা)। তাই বিবৃতিটি সঠিক। সুতরাং সঠিক উত্তর: a (True) — বিকল্প b (False) ভুল, কারণ বাস্তবে মাতৃভাষার জন্য আন্দোলনই ঘটেছিল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56528,
+      "value": {
+        "options": {
+          "a": "ইতিহাস",
+          "b": "সংস্কৃতি",
+          "c": "বাণী",
+          "d": "অভিবক্তি"
+        },
+        "question": "সরল বাংলা ভাষার জন্য _______ মানুষের আশা রয়েছে।",
+        "solution": "সমাধান: বাক্যটির অভিপ্রায় হলো সরল বাংলা ভাষা থেকে মানুষের কি প্রত্যাশা থাকে তা বোঝানো; এখানে এমন একটি শব্দ দরকার যা 'ভাষার উদ্দেশ্য/প্রকাশ' নির্দেশ করে। \"অভিবক্তি\" মানে প্রকাশ বা অভিব্যক্তি, যা সরল ভাষার প্রধান আশা হিসেবে যুক্তিসঙ্গত। অন্য বিকল্পগুলো—\"ইতিহাস\" এবং \"সংস্কৃতি\" প্রসঙ্গগতভাবে সম্পর্কহীন, এবং \"বাণী\" সাধারণত বক্তব্য বা প্রবাদ বোঝায় কিন্তু এখানে প্রত্যাশার ধারণা পুরোপুরি মেটায় না। তাই সঠিক উত্তর হলো d: অভিবক্তি।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56529,
+      "value": {
+        "options": [],
+        "question": "বাংলা ভাষার গুরুত্ব কী?",
+        "solution": "সমাধান: প্রশ্নে জানতে চাওয়া হয়েছে বাংলা ভাষার সবচেয়ে গুরুত্বপূর্ণ দিক কী।  \nধাপ ১: প্রশ্নটি বিশ্লেষণ করে বুঝুন যে মূলত কোন দিকটি সবচেয়ে মৌলিক — ভাষার ব্যবহার, সাংস্কৃতিক পরিচয় নাকি জাতিগত/মাতৃভাষাগত পরিচয়।  \nধাপ ২: বাংলা ভাষা হচ্ছে আমাদের মাতৃভাষা; এটি ব্যক্তিগত ও সামাজিক পরিচয় গঠনে প্রধান ভূমিকা রাখে। তাই সঠিক উত্তর: মাতৃভাষা হিসেবে আমাদের পরিচয়।  \nব্যাখ্যা: অন্য সম্ভাব্য বিকল্পগুলি যেমন যোগাযোগের মাধ্যম বা সাংস্কৃতিক ঐতিহ্যও গুরুত্বপূর্ণ কিন্তু সবচেয়ে মৌলিক এবং ব্যক্তিগত স্তরের গুরুত্ব হলো মাতৃভাষা হিসেবে পরিচয়—এবং তাই প্রদত্ত সঠিক উত্তরটিই শ্রেয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মাতৃভাষা হিসেবে আমাদের পরিচয়।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 35775,
+      "value": {
+        "options": {
+          "a": "বসন্তকাল",
+          "b": "শরৎকাল",
+          "c": "বর্ষাকাল",
+          "d": "শীতকাল"
+        },
+        "question": "বাংলাদেশের প্রকৃতির ঋতুগুলোর মধ্যে কোনটি মাতৃভাষা বাংলার গুরুত্বের সাথে সম্পর্কিত?",
+        "solution": "সমাধান:  \nধাপ 1: আন্তর্জাতিক মাতৃভাষা দিবস বাংলাদেশে ২১ ফেব্রুয়ারি পালন করা হয়।  \nধাপ 2: বাংলাদেশের ঋতুচক্র অনুযায়ী ২১ ফেব্রুয়ারি বসন্তকালের মধ্যে পড়ে।  \nধাপ 3: তাই সঠিক উত্তর হলো a: বসন্তকাল। অন্য অপশনগুলি (শরৎ, বর্ষা, শীত) ২১ ফেব্রুয়ারির ঋতিসামঞ্জস্যের সাথে মিলবে না।",
+        "chapter_id": "1343",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7377,
+      "created_at": "2025-07-07T17:22:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7377&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7377&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7377&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 124,
+  "total": 124
+}

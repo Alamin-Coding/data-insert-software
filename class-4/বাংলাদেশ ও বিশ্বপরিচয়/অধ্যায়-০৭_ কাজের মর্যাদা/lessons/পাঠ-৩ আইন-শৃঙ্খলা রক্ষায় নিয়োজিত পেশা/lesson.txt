@@ -1,0 +1,339 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746502,
+      "value": {
+        "options": {
+          "ক": "আদেশ",
+          "খ": "শৃক্সখলা",
+          "গ": "আইন",
+          "ঘ": "বড়দের"
+        },
+        "question": "প্রত্যেক নাগরিককে কী মেনে চলা উচিত?",
+        "solution": "গ. আইন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746503,
+      "value": {
+        "options": {
+          "ক": "জনগণের",
+          "খ": "ম্যাজিস্ট্রেটের",
+          "গ": "পুলিশের",
+          "ঘ": "আইনজীবীর"
+        },
+        "question": "অপরাধীকে ধরে বিচারের সম্মুখীন করা কাদের প্রধান দায়িত্ব?",
+        "solution": "গ. পুলিশের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746504,
+      "value": {
+        "options": {
+          "ক": "ডাক্তার",
+          "খ": "প্রকৌশলী",
+          "গ": "পুলিশ",
+          "ঘ": "শিক্ষক"
+        },
+        "question": "নিরাপদ চলাচলে কে মানুষকে সহায়তা করেন?",
+        "solution": "গ. পুলিশ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746505,
+      "value": {
+        "options": {
+          "ক": "শৃঙ্খলতা",
+          "খ": "বিশৃঙ্খলতা",
+          "গ": "আদেশ",
+          "ঘ": "সততা"
+        },
+        "question": "পুলিশের মূল কাজ কী বজায় রাখা?",
+        "solution": "ক. শৃঙ্খলতা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746506,
+      "value": {
+        "options": {
+          "ক": "প্রকৌশলী",
+          "খ": "আইনজীবী",
+          "গ": "বিচারক",
+          "ঘ": "পুলিশ"
+        },
+        "question": "আইনশৃঙ্খলা রক্ষা দেশের একটি গুরুত্বপূর্ণ কাজ। এ কাজ করেন?",
+        "solution": "ঘ. পুলিশ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746507,
+      "value": {
+        "options": {
+          "ক": "আইনজীবী",
+          "খ": "বিচারক",
+          "গ": "পুলিশ",
+          "ঘ": "ম্যাজিস্ট্রেট"
+        },
+        "question": "আদালতে অপরাধীর বিচার করেন কে?",
+        "solution": "খ. বিচারক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746508,
+      "value": {
+        "options": {
+          "ক": "শিক্ষক",
+          "খ": "রিকশাচালক",
+          "গ": "পোশাক শ্রমিক",
+          "ঘ": "আইনজীবী"
+        },
+        "question": "বিচারকাজে কে গুরুত্বপূর্ণ ভূমিকা পালন করেন?",
+        "solution": "ঘ. আইনজীবী",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746509,
+      "value": {
+        "options": {
+          "ক": "আইনজীবী",
+          "খ": "বিচারক",
+          "গ": "পুলিশ",
+          "ঘ": "ম্যাজিস্ট্রেট"
+        },
+        "question": "আইনের ব্যাখ্যা দিয়ে আদালতকে সহায়তা করেন কে?",
+        "solution": "ক. আইনজীবী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7394&grade=7&lesson=13438&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7394&grade=7&lesson=13438&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7394&grade=7&lesson=13438&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 8,
+  "total": 8
+}

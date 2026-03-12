@@ -1,0 +1,149 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746717,
+      "value": {
+        "options": {
+          "ক": "কান্নাকাটি",
+          "খ": "শোক পালন",
+          "গ": "আত্নার মাগফিরাত চাইব",
+          "ঘ": "ঘৃণা করব"
+        },
+        "question": "আব্বা-আম্মা মারা গেলে তাদের জন্য আমরা কী করব?",
+        "solution": "গ. আত্নার মাগফিরাত চাইব",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746718,
+      "value": {
+        "options": {
+          "ক": "পিতা",
+          "খ": "শিক্ষক",
+          "গ": "মাতা",
+          "ঘ": "পীর"
+        },
+        "question": "তিনি সম্মানের অধিকারী। তাঁর পায়ের নিচে সন্তানের জান্নাত। তিনি কে?",
+        "solution": "গ. মাতা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746719,
+      "value": {
+        "options": {
+          "ক": "শরীর ভালো রাখব",
+          "খ": "ভালো জামাকাপড় পরব",
+          "গ": "আব্বা-আম্মাকে সালাম দেব",
+          "ঘ": "চিন্তা করব"
+        },
+        "question": "বাড়ি থেকে বের হওয়ার সময় আমরা কী করব?",
+        "solution": "গ. আব্বা-আম্মাকে সালাম দেব",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13464&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13464&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13464&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 3,
+  "total": 3
+}

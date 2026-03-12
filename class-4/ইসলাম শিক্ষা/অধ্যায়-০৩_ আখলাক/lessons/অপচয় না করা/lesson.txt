@@ -1,0 +1,225 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746748,
+      "value": {
+        "options": {
+          "ক": "উত্তম",
+          "খ": "অতি উত্তম",
+          "গ": "মারাত্মক ক্ষতিকর",
+          "ঘ": "ভালো"
+        },
+        "question": "সিগারেট খাওয়া স্বাস্থ্যের জন্য কী?",
+        "solution": "গ. মারাত্মক ক্ষতিকর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:43:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746749,
+      "value": {
+        "options": {
+          "ক": "উপকার",
+          "খ": "সাহায্য",
+          "গ": "ক্ষতি",
+          "ঘ": "সত্যাবাদিতা"
+        },
+        "question": "অপচয় শব্দের অর্থ কী?",
+        "solution": "গ. ক্ষতি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:43:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746750,
+      "value": {
+        "options": {
+          "ক": "আল্লাহ তায়ালার",
+          "খ": "রাসূল (স)-এর",
+          "গ": "আবু বকর (রা)-এর",
+          "ঘ": "উমর (রা)-এর"
+        },
+        "question": "“নিশ্চয়ই অপচয়কারীরা শয়তানের ভাই।” এটি কার বাণী?",
+        "solution": "ক. আল্লাহ তায়ালার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:43:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746751,
+      "value": {
+        "options": {
+          "ক": "বন্ধু",
+          "খ": "অনুসারী",
+          "গ": "ভাই",
+          "ঘ": "শিষ্য"
+        },
+        "question": "মনে কর, তোমার এক সহপাঠী অপচয় করে। এজন্য সে হবে শয়তানের–",
+        "solution": "গ. ভাই",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:43:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746752,
+      "value": {
+        "options": {
+          "ক": "দেশপ্রেমের কাজ",
+          "খ": "পরোপকারী",
+          "গ": "উপযুক্ত কাজ",
+          "ঘ": "অপচয়"
+        },
+        "question": "সাকিবের বাসায় বিনা প্রয়োজনে বাতি জ্বালিয়ে রাখা হয়। এরূপ কাজকে কী বলা যায়?",
+        "solution": "ঘ. অপচয়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:43:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13472&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13472&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13472&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

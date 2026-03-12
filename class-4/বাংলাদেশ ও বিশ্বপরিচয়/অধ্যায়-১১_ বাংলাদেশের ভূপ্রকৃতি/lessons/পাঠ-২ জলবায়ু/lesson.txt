@@ -1,0 +1,377 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746570,
+      "value": {
+        "options": {
+          "ক": "গ্রীষ্মকাল",
+          "খ": "বর্ষাকাল",
+          "গ": "শীতকাল",
+          "ঘ": "বসন্তকাল"
+        },
+        "question": "জুন থেকে অক্টোবর মাস পর্যন্ত—",
+        "solution": "খ. বর্ষাকাল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746571,
+      "value": {
+        "options": {
+          "ক": "১৫০ সেন্টিমিটার",
+          "খ": "১৮০ সেন্টিমিটার",
+          "গ": "২০০ সেন্টিমিটার",
+          "ঘ": "২০৩ সেন্টিমিটার"
+        },
+        "question": "বর্ষাকালে আমাদের দেশে গড়ে কত সেন্টিমিটার বৃষ্টি হয়?",
+        "solution": "ঘ. ২০৩ সেন্টিমিটার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746572,
+      "value": {
+        "options": {
+          "ক": "দুটি",
+          "খ": "তিনটি",
+          "গ": "চারটি",
+          "ঘ": "ছয়টি"
+        },
+        "question": "বাংলাদেশের জলবায়ুকে কয়টি প্রধান ভাগে ভাগ করা হয়?",
+        "solution": "খ. তিনটি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746573,
+      "value": {
+        "options": {
+          "ক": "২৫ ডিগ্রি",
+          "খ": "৩০ ডিগ্রি",
+          "গ": "৩৫ ডিগ্রি",
+          "ঘ": "৪০ ডিগ্রি"
+        },
+        "question": "মার্চ থেকে যে মাস পর্যন্ত বাংলাদেশের গড় তাপমাত্রা কত ডিগ্রি সেলসিয়াস পর্যন্ত হয়?",
+        "solution": "গ. ৩৫ ডিগ্রি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746574,
+      "value": {
+        "options": {
+          "ক": "উত্তর",
+          "খ": "দক্ষিণ",
+          "গ": "পূর্ব",
+          "ঘ": "পশ্চিম"
+        },
+        "question": "বাংলাদেশের কোন অঞ্চলে বেশি শীত পড়ে?",
+        "solution": "ক. উত্তর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746575,
+      "value": {
+        "options": {
+          "ক": "৫টি",
+          "খ": "৬টি",
+          "গ": "৭টি",
+          "ঘ": "৪টি"
+        },
+        "question": "বাংলাদেশে ঋতু কয়টি?",
+        "solution": "খ. ৬টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746576,
+      "value": {
+        "options": {
+          "ক": "মার্চ",
+          "খ": "এপ্রিল",
+          "গ": "মে",
+          "ঘ": "জুন"
+        },
+        "question": "বাংলাদেশে সবচেয়ে উষ্ণ মাস কোনটি?",
+        "solution": "খ. এপ্রিল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746577,
+      "value": {
+        "options": {
+          "ক": "এপ্রিল বা মে",
+          "খ": "জুন বা জুলাই",
+          "গ": "আগস্ট বা সেপ্টেম্বর",
+          "ঘ": "নভেম্বর বা ডিসেম্বর"
+        },
+        "question": "কালবৈশাখী ঝড় কখন হয়?",
+        "solution": "ক. এপ্রিল বা মে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746578,
+      "value": {
+        "options": {
+          "ক": "১৮ ডিগ্রি",
+          "খ": "২০ ডিগ্রি",
+          "গ": "২২ ডিগ্রি",
+          "ঘ": "২৪ ডিগ্রি"
+        },
+        "question": "শীতকালে বাংলাদেশের গড় তাপমাত্রা কত থাকে?",
+        "solution": "ক. ১৮ ডিগ্রি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7398&grade=7&lesson=13447&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7398&grade=7&lesson=13447&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7398&grade=7&lesson=13447&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 9,
+  "total": 9
+}

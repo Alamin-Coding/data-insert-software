@@ -1,0 +1,301 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746563,
+      "value": {
+        "options": {
+          "ক": "১২২০ মিটার",
+          "খ": "১০১০ মিটার",
+          "গ": "৯৮৬ মিটার",
+          "ঘ": "৮৮৬ মিটার"
+        },
+        "question": "কেওক্রাডং-এর উচ্চতা কত?",
+        "solution": "গ. ৯৮৬ মিটার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746564,
+      "value": {
+        "options": {
+          "ক": "তাজিনডং",
+          "খ": "কেওক্রাডং",
+          "গ": "লালমাই",
+          "ঘ": "আলিবর্দন"
+        },
+        "question": "বাংলাদেশের সবচেয়ে উঁচু পাহাড়ের নাম কী?",
+        "solution": "ক. তাজিনডং",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746565,
+      "value": {
+        "options": {
+          "ক": "উত্তর থেকে দক্ষিণে",
+          "খ": "পূর্ব থেকে পশ্চিমে",
+          "গ": "দক্ষিণ থেকে উত্তরে",
+          "ঘ": "পশ্চিম থেকে পূর্বে"
+        },
+        "question": "সমভূমি কোন দিক থেকে কিছুটা ঢালু?",
+        "solution": "ক. উত্তর থেকে দক্ষিণে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746566,
+      "value": {
+        "options": {
+          "ক": "কেওক্রাডং",
+          "খ": "তাজিনডং",
+          "গ": "সাফা হাফং",
+          "ঘ": "দুমলং"
+        },
+        "question": "বাংলাদেশের তৃতীয় উঁচু পাহাড়ের নাম কী?",
+        "solution": "ক. কেওক্রাডং",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746567,
+      "value": {
+        "options": {
+          "ক": "রাঙামাটি",
+          "খ": "খাগড়াছড়ি",
+          "গ": "বান্দরবান",
+          "ঘ": "চট্টগ্রাম"
+        },
+        "question": "তাজিনডং ও কেওক্রাডং পাহাড় দুটি কোন জেলায় অবস্থিত?",
+        "solution": "গ. বান্দরবান",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746568,
+      "value": {
+        "options": {
+          "ক": "সমতল",
+          "খ": "পাহাড়ি",
+          "গ": "মরুভূমি",
+          "ঘ": "মালভূমি"
+        },
+        "question": "বাংলাদেশের বেশির ভাগ স্থান কেমন?",
+        "solution": "ক. সমতল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746569,
+      "value": {
+        "options": {
+          "ক": "প্রায় ১০১০ মিটার",
+          "খ": "প্রায় ১২৮০ মিটার",
+          "গ": "প্রায় ১৪০ মিটার",
+          "ঘ": "প্রায় ১২১০ মিটার"
+        },
+        "question": "তাজিনডং-এর উচ্চতা কত মিটার?",
+        "solution": "খ. প্রায় ১২৮০ মিটার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7398&grade=7&lesson=13446&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7398&grade=7&lesson=13446&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7398&grade=7&lesson=13446&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 7,
+  "total": 7
+}

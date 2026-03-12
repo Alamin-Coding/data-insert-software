@@ -1,0 +1,187 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747425,
+      "value": {
+        "options": {
+          "ক": "গ্রীষ্ম",
+          "খ": "বর্ষা",
+          "গ": "শরৎ",
+          "ঘ": "হেমন্ত"
+        },
+        "question": "বাংলাদেশের সবচেয়ে উষ্ণ ঋতু কোনটি?",
+        "solution": "ক. গ্রীষ্ম",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:52:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747426,
+      "value": {
+        "options": {
+          "ক": "পাঁচটি",
+          "খ": "ছয়টি",
+          "গ": "সাতটি",
+          "ঘ": "আটটি"
+        },
+        "question": "বাংলাদেশে কয়টি ঋতু রয়েছে?",
+        "solution": "খ. ছয়টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:52:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747427,
+      "value": {
+        "options": {
+          "ক": "শীতকাল",
+          "খ": "বর্ষাকাল",
+          "গ": "হেমন্তকাল",
+          "ঘ": "বসন্তকাল"
+        },
+        "question": "বাংলাদেশে ফসল ঘরে তোলার ঋতু কোনটি?",
+        "solution": "গ. হেমন্তকাল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:52:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747428,
+      "value": {
+        "options": {
+          "ক": "শীতকাল",
+          "খ": "বর্ষাকাল",
+          "গ": "বসন্তকাল",
+          "ঘ": "গ্রীষ্মকাল"
+        },
+        "question": "আষাঢ় ও শ্রাবণ মাসে প্রচুর বৃষ্টিপাত হয়। এ সময়কাল কোনটি?",
+        "solution": "খ. বর্ষাকাল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:52:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13516&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13516&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13516&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 4,
+  "total": 4
+}

@@ -1,0 +1,4342 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 744291,
+      "value": {
+        "options": [],
+        "question": "এভারেস্ট",
+        "solution": "হিমালয় পর্বতমালার উচ্চতম শৃঙ্গ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744291,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744292,
+      "value": {
+        "options": [],
+        "question": "বই সম্পর্কে বিজ্ঞানীরা কী বলেছেন?",
+        "solution": "বই সম্পর্কে বিজ্ঞানীরা বলেছেন, বই পড়লে শরীর ও মন ভালো থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744292,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744293,
+      "value": {
+        "options": [],
+        "question": "বই পড়ার গুরুত্ব নিয়ে পাঁচটি বাক্য লিখি।",
+        "solution": "বই পড়ার গুরুত্ব নিয়ে পাঁচটি বাক্য নিচে লেখা হলো।\u003Cbr /\u003E\n১. বই পড়লে শরীর ও মন ভালো থাকে।\u003Cbr /\u003E\n২. যারা বই পড়ে তারা ভালো লিখতে পারে।\u003Cbr /\u003E\n৩. যারা বই পড়ে তারা ভালো বলতে পারে।\u003Cbr /\u003E\n৪. বই পড়ে মানুষ অনেক অজানা বিষয় জানতে পারে।\u003Cbr /\u003E\n৫. বই মানুষকে আনন্দ দেয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744293,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744294,
+      "value": {
+        "options": [],
+        "question": "বইয়ের জগতের দুইটি বিষয় উল্লেখ কর।",
+        "solution": "বইয়ের জগতের তিনটি বিষয় হলো-\u003Cbr /\u003E\n১. পশুপাখি নিয়ে বই ও পোকামাকড় নিয়ে বই।\u003Cbr /\u003E\n২. গাছপালা নিয়ে বই।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744295,
+      "value": {
+        "options": [],
+        "question": "দুই রকমের বইয়ের নাম লেখ।",
+        "solution": "দুই রকমের বইয়ের নাম নিচে দেওয়া হলো-\u003Cbr /\u003E\n১. ছোটোদের বই ও গল্পের বই।\u003Cbr /\u003E\n২. বড়োদের বই।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744296,
+      "value": {
+        "options": [],
+        "question": "কোন বইগুলো সারা দুনিয়ার শিশুদের প্রিয়?",
+        "solution": "রবিনসন ক্রুসো, আশি দিনে বিশ্বভ্রমণ, টম সয়ারের অভিযান- এই বইগুলো সারা দুনিয়ার শিশুদের প্রিয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744297,
+      "value": {
+        "options": [],
+        "question": "বিজ্ঞানীরা বই পড়ার কোন উপকারিতার কথা বলেছেন?",
+        "solution": "বিজ্ঞানীরা বই পড়ার শারীরিক ও মানসিক উপকারিতার কথা বলেছেন। বিজ্ঞানীরা বলেন, বই পড়লে শরীর ও মন ভালো থাকে। যারা বই পড়ে, তারা ভালো লিখতে পারে, ভালো বলতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744298,
+      "value": {
+        "options": [],
+        "question": "প্রতিষ্ঠিত",
+        "solution": "প্রতিষ্ঠা লাভ করেছে এমন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744299,
+      "value": {
+        "options": [],
+        "question": "আবিষ্কার",
+        "solution": "উদ্ভাবন, কোনো কিছুর প্রকাশ বা সন্ধান লাভ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744300,
+      "value": {
+        "options": [],
+        "question": "হাত",
+        "solution": "পানি, হস্ত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744301,
+      "value": {
+        "options": [],
+        "question": "জগৎ",
+        "solution": "পৃথিবী, ধরণি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744302,
+      "value": {
+        "options": [],
+        "question": "_____&nbsp;যা কিছু আছে, তার সব নিয়েই বই আছে।",
+        "solution": "পৃথিবীতে",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744303,
+      "value": {
+        "options": [],
+        "question": "শেষ",
+        "solution": "শুরু",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744304,
+      "value": {
+        "options": [],
+        "question": "ভালো",
+        "solution": "মন্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744305,
+      "value": {
+        "options": [],
+        "question": "চোখ",
+        "solution": "নয়ন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744306,
+      "value": {
+        "options": [],
+        "question": "শেষ",
+        "solution": "সমাপ্তি",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744307,
+      "value": {
+        "options": [],
+        "question": "গল্প",
+        "solution": "কাহিনী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744308,
+      "value": {
+        "options": [],
+        "question": "গা",
+        "solution": "শরীর",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744309,
+      "value": {
+        "options": [],
+        "question": "আবিষ্কার",
+        "solution": "সুমন একটি রোবট আবিষ্কার করেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744310,
+      "value": {
+        "options": [],
+        "question": "উপহার",
+        "solution": "মামা আমাকে একটি বই উপহার দিয়েছেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744311,
+      "value": {
+        "options": {
+          "ক": "গ্রহ",
+          "খ": "তারা",
+          "গ": "ছায়াপথ",
+          "ঘ": "সবকটি সঠিক"
+        },
+        "question": "আকাশে আছে-",
+        "solution": "ঘ. সবকটি সঠিক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744312,
+      "value": {
+        "options": {
+          "ক": "টম সায়ারের",
+          "খ": "রবিনসন ক্রুসোর",
+          "গ": "উপেন্দ্রকিশোর রায়ের",
+          "ঘ": "হুমায়ূন আহমেদের"
+        },
+        "question": "কখনও পুরোনো হয় না কার গল্প?",
+        "solution": "গ. উপেন্দ্রকিশোর রায়ের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744313,
+      "value": {
+        "options": {
+          "ক": "অনেক কিছু জানা যায়",
+          "খ": "মন ভালো থাকে",
+          "গ": "শরীর ভালো থাকে",
+          "ঘ": "সবকটি সঠিক"
+        },
+        "question": "বই পড়লে -",
+        "solution": "ঘ. সবকটি সঠিক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744314,
+      "value": {
+        "options": [],
+        "question": "হিমালয় পর্বতের উচ্চতম শৃঙ্গ",
+        "solution": "এভারেস্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744315,
+      "value": {
+        "options": [],
+        "question": "বিশেষ জ্ঞান",
+        "solution": "বিজ্ঞান",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744316,
+      "value": {
+        "options": [],
+        "question": "ছায়াপথ",
+        "solution": "অসংখ্য নক্ষত্রপুঞ্জের আলোকরেখা, আকাশগঙ্গা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744316,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744317,
+      "value": {
+        "options": [],
+        "question": "ঈশপ",
+        "solution": "প্রাচীন গ্রিসের একজন গল্পলেখক।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744317,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744318,
+      "value": {
+        "options": [],
+        "question": "ছাপাখানা",
+        "solution": "যে গৃহে বইপত্রসহ বিভিন্ন ধরনের ছাপার কাজ হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744318,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744319,
+      "value": {
+        "options": [],
+        "question": "আমরা স্কুলে প্রতিদিন _____ পড়ি।",
+        "solution": "পাঠ্যবই",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744319,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744320,
+      "value": {
+        "options": [],
+        "question": "বইয়ের জগৎ কোন জগতের মতো?",
+        "solution": "বইয়ের জগৎ জানার জগৎ ও আনন্দের জগতের মতো।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744320,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744321,
+      "value": {
+        "options": [],
+        "question": "কী পড়তে, বসলে আর উঠতে মন চায় না?",
+        "solution": "ঠাকুরমার ঝুলি আর গ্রিম ভাইদের রূপকথা পড়তে বসলে আর উঠতে মন চায় না।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744321,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744322,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে কোন কোন লেখকের বই ছোটোদের খুব প্রিয়?",
+        "solution": "বাংলাদেশে উপেন্দ্রকিশোর রায়চৌধুরী, সুকুমার রায় ও হুমায়ূন আহমেদের বই ছোটোদের খুব প্রিয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744323,
+      "value": {
+        "options": [],
+        "question": "বই উপহার দেওয়া কেমন? কখন বই উপহার দেওয়া হয়?",
+        "solution": "বই উপহার দেওয়া খুব ভালো। জন্মদিনে বা নানা ধরনের উৎসব ও প্রতিযোগিতায় বই উপহার দেওয়া হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744324,
+      "value": {
+        "options": [],
+        "question": "সুকুমার রায়, হুমায়ূন আহমেদ ও উপেন্দ্রকিশোর রায়চৌধুরীর বইগুলোর বৈশিষ্ট্য লেখ।",
+        "solution": "সুকুমার রায়, হুমায়ূন আহমেদ ও. উপেন্দ্রকিশোর রায়চৌধুরীর বইগুলোর বৈশিষ্ট্য নিচে লেখা হলো-\u003Cbr /\u003E\nসুকুমার রায়ের ছড়ার বই ছেলে-বুড়ো সবাই পড়ে। পড়লে হাসি পায়। আবার হুমায়ূন আহমেদের ভূতের গল্প পড়লে গা ছমছম করে। আর উপেন্দ্রকিশোর রায়চৌধুরীর টুনটুনির গল্প, বাঘের গল্প-এগুলো কখনো পুরোনো হয় না। বারবার পড়তে ইচ্ছে করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744325,
+      "value": {
+        "options": [],
+        "question": "বই পড়ে কী কী জানা যায়?",
+        "solution": "পৃথিবীতে যা কিছু আছে, তার সব নিয়েই বই আছে। আবার পৃথিবীর বাইরে যা কিছু আছে তা নিয়েও বই আছে। বই পড়ে অনেক কিছু জানা যায়। মানুষ কীভাবে চাঁদে গেল, কীভাবে দক্ষিণ মেরুতে গেল, কীভাবে এভারেস্ট পর্বতের মাথায় উঠল, কীভাবে ইঞ্জিন আবিষ্কার করল, কীভাবে কম্পিউটার আবিষ্কার করল- এ সবকিছু জানা যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744326,
+      "value": {
+        "options": [],
+        "question": "প্রতিযোগিতা",
+        "solution": "প্রতিদ্বন্দ্বিতা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744327,
+      "value": {
+        "options": [],
+        "question": "তারপর সারা দুনিয়ায় _____ ছড়িয়ে পড়ে।",
+        "solution": "ছাপাখানা",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744328,
+      "value": {
+        "options": [],
+        "question": "হাসি",
+        "solution": "কান্না",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744329,
+      "value": {
+        "options": [],
+        "question": "দিন",
+        "solution": "দিবস",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744330,
+      "value": {
+        "options": [],
+        "question": "গাছপালা",
+        "solution": "গাছপালা পরিবেশের ভারসাম্য রক্ষা করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744331,
+      "value": {
+        "options": [],
+        "question": "গ্রহ",
+        "solution": "পৃথিবী সৌরজগতের তৃতীয় গ্রহ।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744332,
+      "value": {
+        "options": [],
+        "question": "ছোটোদের জন্য এতো এতো মজার বই আছে যে তা লিখে শেষ করা যাবে না বাংলাদেশে উপেন্দ্রকিশোর রায়চৌধুরী সুকুমার রায় আর হুমায়ূন আহমেদের বই ছোটোদের খুব প্রিয়। সুকুমার রায়ের ছড়ার বই ছেলে বুড়ো সবাই পড়ে।",
+        "solution": "ছোটোদের জন্য এতো এতো মজার বই আছে যে, তা লিখে শেষ করা যাবে না। বাংলাদেশে উপেন্দ্রকিশোর রায়চৌধুরী, সুকুমার রায় আর হুমায়ূন আহমেদের বই ছোটোদের খুব প্রিয়। সুকুমার রায়ের ছড়ার বই ছেলে-বুড়ো সবাই পড়ে।",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744333,
+      "value": {
+        "options": {
+          "ক": "রবিনসন ক্রুসো",
+          "খ": "আশি দিনে বিশ্বভ্রমণ",
+          "গ": "টম সায়ারের অভিযান",
+          "ঘ": "সবকটি সঠিক"
+        },
+        "question": "সারা দুনিয়ার শিশুদের প্রিয় বই-",
+        "solution": "ঘ. সবকটি সঠিক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744334,
+      "value": {
+        "options": [],
+        "question": "জ্ঞ",
+        "solution": "জ্ + ঞ, অজ্ঞ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744335,
+      "value": {
+        "options": [],
+        "question": "বিশ্বভ্রমণ",
+        "solution": "সারা বিশ্বে ঘুরে বেড়ানো।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744335,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744336,
+      "value": {
+        "options": [],
+        "question": "বই পড়ে অনেক কিছু _____ যায়।",
+        "solution": "জানা",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744336,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744337,
+      "value": {
+        "options": [],
+        "question": "বই কত রকমের হয়?",
+        "solution": "বই অনেক রকমের হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744337,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744338,
+      "value": {
+        "options": [],
+        "question": "পৃথিবীর কোন কোন জগতের কথা 'বই পড়তে অনেক মজা' রচনায় বলা হয়েছে?",
+        "solution": "&#39;বই পড়তে অনেক মজা&#39; রচনায় পৃথিবীর যেসব জগতের কথা বলা হয়েছে সেগুলো হলো- পশুপাখির জগৎ, গাছপালার জগৎ, পোকামাকড়ের জগৎ, মাছেদের জগৎ এবং বইয়ের জগৎ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744339,
+      "value": {
+        "options": [],
+        "question": "উপকার",
+        "solution": "হিতসাধন, কল্যাণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744340,
+      "value": {
+        "options": [],
+        "question": "পৃথিবী থেকে _____ দিকে তাকালে আরও অনেক জিনিস দেখা যায়।",
+        "solution": "আকাশের",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744341,
+      "value": {
+        "options": [],
+        "question": "কিন্তু একসময় পৃথিবীতে _____ ছিল না।",
+        "solution": "বই",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744342,
+      "value": {
+        "options": [],
+        "question": "জানা",
+        "solution": "অজানা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744343,
+      "value": {
+        "options": [],
+        "question": "প্রিয়",
+        "solution": "অপ্রিয়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744344,
+      "value": {
+        "options": [],
+        "question": "আমরা স্কুলে প্রতিদিন বই পড়ি এগুলো হলো পাঠ্যবই পাঠ্যবইয়ের বাইরেও অনেক মজার মজার বই আছে পঞ্চতন্ত্রের গল্প ঈশপের গল্প আরব্য রজনীর গল্প- এগুলো ছোটোদের খুব প্রিয়।",
+        "solution": "আমরা স্কুলে প্রতিদিন বই পড়ি। এগুলো হলো পাঠ্যবই। পাঠ্যবইয়ের বাইরেও অনেক মজার মজার বই আছে। পঞ্চতন্ত্রের গল্প, ঈশপের গল্প, আরব্য রজনীর গল্প-এগুলো ছোটোদের খুব প্রিয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744345,
+      "value": {
+        "options": {
+          "ক": "পৃথিবী",
+          "খ": "ভুবন",
+          "গ": "জগৎ",
+          "ঘ": "বিশ্ব"
+        },
+        "question": "বইয়েরও কী আছে?",
+        "solution": "গ. জগৎ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744346,
+      "value": {
+        "options": {
+          "ক": "চোখ দিয়ে",
+          "খ": "হাত দিয়ে",
+          "গ": "চশমা দিয়ে",
+          "ঘ": "মন দিয়ে"
+        },
+        "question": "যারা চোখে দেখতে পায় না তারা বই পড়ে-",
+        "solution": "খ. হাত দিয়ে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744347,
+      "value": {
+        "options": {
+          "ক": "বই",
+          "খ": "পত্রিকা",
+          "গ": "ম্যাগাজিন",
+          "ঘ": "গল্প"
+        },
+        "question": "আমরা প্রতিদিন স্কুলে কী পড়ি?",
+        "solution": "ক. বই",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744348,
+      "value": {
+        "options": {
+          "ক": "পঞ্চতন্ত্রের গল্প",
+          "খ": "ঈশপের গল্প",
+          "গ": "আরব্য রজনীর গল্প",
+          "ঘ": "ঠাকুরমার ঝুলি"
+        },
+        "question": "কোন বই পড়তে বসলে আর উঠতে মন চায় না?",
+        "solution": "ঘ. ঠাকুরমার ঝুলি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744349,
+      "value": {
+        "options": {
+          "ক": "হুমায়ূন আহমেদের",
+          "খ": "সুকুমার রায়ের",
+          "গ": "আহসান হাবীবের",
+          "ঘ": "রবিনসন ক্রুসোর"
+        },
+        "question": "কার ছড়ার বই ছেলে-বুড়ো সবাই পড়ে?",
+        "solution": "খ. সুকুমার রায়ের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744350,
+      "value": {
+        "options": {
+          "ক": "সুকুমার রায়ের",
+          "খ": "উপেন্দ্রকিশোর রায়ের",
+          "গ": "হুমায়ূন আহমেদের",
+          "ঘ": "রবীন্দ্রনাথ ঠাকুরের"
+        },
+        "question": "কার ভূতের গল্প পড়লে গা ছমছম করে?",
+        "solution": "গ. হুমায়ূন আহমেদের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744351,
+      "value": {
+        "options": {
+          "ক": "তালপাতায় লিখত",
+          "খ": "পাথরে লিখত",
+          "গ": "গাছের ছাল-বাকলে লিখত",
+          "ঘ": "উপরের সবকটি"
+        },
+        "question": "যখন পৃথিবীতে ছাপানোর ব্যবস্থা ছিল না, তখন মানুষ-",
+        "solution": "ঘ. উপরের সবকটি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744352,
+      "value": {
+        "options": {
+          "ক": "পাঁচশো বছর আগে",
+          "খ": "ছয়শো বছর আগে",
+          "গ": "সাতশো বছর আগে",
+          "ঘ": "আটশো বছর আগে"
+        },
+        "question": "ছাপাখানা প্রথম প্রতিষ্ঠিত হয় আজ থেকে-",
+        "solution": "খ. ছয়শো বছর আগে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744353,
+      "value": {
+        "options": [],
+        "question": "ন্ন",
+        "solution": "ন + ন, রান্না",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744354,
+      "value": {
+        "options": [],
+        "question": "ল্প",
+        "solution": "ল্ + প, অল্প",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744355,
+      "value": {
+        "options": [],
+        "question": "ষ্ক",
+        "solution": "ষ্ + ক, পরিষ্কার",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744356,
+      "value": {
+        "options": [],
+        "question": "গণনাকারী যন্ত্র",
+        "solution": "কম্পিউটার",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744357,
+      "value": {
+        "options": [],
+        "question": "বইয়ের কোনো _____ নেই।",
+        "solution": "শেষ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744357,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744358,
+      "value": {
+        "options": [],
+        "question": "বই পড়লে _____ ভালো থাকে।",
+        "solution": "শরীর ও মন",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744358,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744359,
+      "value": {
+        "options": [],
+        "question": "ভালো বই কখনো _____ হয় না।",
+        "solution": "পুরনো",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744359,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744360,
+      "value": {
+        "options": [],
+        "question": "ছাপাখানা প্রথম কোথায় প্রতিষ্ঠিত হয়?",
+        "solution": "ছাপাখানা প্রথম জার্মানিতে প্রতিষ্ঠিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744360,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744361,
+      "value": {
+        "options": [],
+        "question": "পৃথিবীতে কী কী নিয়ে বই আছে? 'বই পড়তে অনেক মজা' রচনা অনুযায়ী তালিকা লেখ।",
+        "solution": "পৃথিবীতে সবকিছু নিয়েই বই আছে। &#39;বই পড়তে অনেক মজা&#39; রচনা অনুযায়ী নিচে তালিকা দেওয়া হলো- ১. পশুপাখি নিয়ে বই, ২. গাছপালা নিয়ে বই, ৩. পোকা-মাকড় নিয়ে বই, ৪. মাছ নিয়ে বই, ৫. তারা নিয়ে বই, ৬. গ্রহ নিয়ে বই, ৭. ছায়াপথ নিয়ে বই। এছাড়াও পৃথিবীতে যা কিছু আছে তার সব নিয়েই বই আছে। পৃথিবীর বাইরে যা কিছু আছে তা নিয়েও অনেক বই আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744362,
+      "value": {
+        "options": [],
+        "question": "পৃথিবীতে কত রকমের বই আছে? 'বই পড়তে অনেক মজা' রচনায় কোন কোন রকমের বইয়ের কথা উল্লেখ করা হয়েছে সেগুলো লেখ।",
+        "solution": "পৃথিবীতে অনেক রকমের বই আছে। &#39;বই পড়তে অনেক মজা&#39; রচনায় অনেক রকমের বইয়ের কথা বলা হয়েছে। সেগুলো হলো- ছোটোদের বই, বড়োদের বই, হাসির বই, কান্নার বই, গল্পের বই, ছবির বই, বিজ্ঞানের বই, ধর্মের বই, গণিতের বই, কবিতার বই, নাটকের বই, সিনেমার বই।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744363,
+      "value": {
+        "options": [],
+        "question": "পোকা-মাকড়",
+        "solution": "কীটপতঙ্গ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744364,
+      "value": {
+        "options": [],
+        "question": "সুকুমার রায়ের _____ বই ছেলে-বুড়ো সবাই পড়ে।",
+        "solution": "ছড়ার",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744365,
+      "value": {
+        "options": [],
+        "question": "বাইরে",
+        "solution": "ভিতরে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744366,
+      "value": {
+        "options": [],
+        "question": "পুরোনো",
+        "solution": "নতুন",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744367,
+      "value": {
+        "options": [],
+        "question": "বই",
+        "solution": "গ্রন্থ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744368,
+      "value": {
+        "options": [],
+        "question": "পৃথিবী",
+        "solution": "বসুন্ধরা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744369,
+      "value": {
+        "options": [],
+        "question": "জগৎ",
+        "solution": "মৃত্যুর পরও একটি জগৎ আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744370,
+      "value": {
+        "options": {
+          "ক": "হুমায়ূন আহমেদ",
+          "খ": "কাজী নজরুল ইসলাম",
+          "গ": "রবীন্দ্রনাথ ঠাকুর",
+          "ঘ": "কামিনী রায়"
+        },
+        "question": "বাংলাদেশে ছোটোদের খুব প্রিয় লেখক কে?",
+        "solution": "ক. হুমায়ূন আহমেদ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744371,
+      "value": {
+        "options": {
+          "ক": "ইংল্যান্ডে",
+          "খ": "ফ্রান্সে",
+          "গ": "জার্মানিতে",
+          "ঘ": "আমেরিকায়"
+        },
+        "question": "প্রথম ছাপাখানা প্রতিষ্ঠিত হয়-",
+        "solution": "গ. জার্মানিতে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744372,
+      "value": {
+        "options": [],
+        "question": "চ্চ",
+        "solution": "চ্ + চ, বাচ্চা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744373,
+      "value": {
+        "options": [],
+        "question": "ঞ্জ",
+        "solution": "নঞ + জ, খঞ্জর",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744374,
+      "value": {
+        "options": [],
+        "question": "স্ক",
+        "solution": "স্ + ক, পুরস্কার",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744375,
+      "value": {
+        "options": [],
+        "question": "অসংখ্য নক্ষত্রপুঞ্জের ক্ষীণ আলোকরেখা",
+        "solution": "ছায়াপথ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744376,
+      "value": {
+        "options": [],
+        "question": "যে গৃহে ছাপা হয়",
+        "solution": "ছাপখানা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744377,
+      "value": {
+        "options": [],
+        "question": "সারা বিশ্বে ভ্রমণ",
+        "solution": "বিশ্বভ্রমণ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744378,
+      "value": {
+        "options": [],
+        "question": "জন্মগ্রহণের দিন",
+        "solution": "জন্মদিন",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-11-27T06:36:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186780,
+      "value": {
+        "options": {
+          "a": "ভ্রমণকাহিনি",
+          "b": "একটি নাটক",
+          "c": "গণিতের বই",
+          "d": "ভূতের গল্প"
+        },
+        "question": "পাঠ্যবইয়ের বাইরের বইয়ের মধ্যে কোনটি অপরিচিত?",
+        "chapter_id": "1340",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186781,
+      "value": {
+        "options": {
+          "a": "বিজ্ঞানী বইয়ের জন্য",
+          "b": "শিক্ষার গুরুত্ব বোঝাতে",
+          "c": "বিভিন্ন বইয়ের বৈচিত্র্য সম্পর্কে",
+          "d": "শিক্ষা প্রতিষ্ঠানের জন্য"
+        },
+        "question": "বইয়ের জগৎ কেন উল্লিখিত?",
+        "chapter_id": "1340",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186782,
+      "value": {
+        "options": {
+          "a": "কথাসাহিত্য",
+          "b": "বিজ্ঞান বই",
+          "c": "মজার বই",
+          "d": "শিক্ষাবিষয়ক বই"
+        },
+        "question": "পাঠ্যবইয়ের বাইরে কোন ধরনের বই আছে?",
+        "chapter_id": "1340",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186783,
+      "value": {
+        "options": {
+          "a": "ভূতের গল্প",
+          "b": "ছড়ার বই",
+          "c": "গল্পের বই",
+          "d": "রূপকথা"
+        },
+        "question": "কোন বইটি পড়লে হাসি পায়?",
+        "chapter_id": "1340",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186784,
+      "value": {
+        "options": {
+          "a": "ভুতের গল্প",
+          "b": "মজার বই",
+          "c": "কাহিনী বই",
+          "d": "ছড়া বই"
+        },
+        "question": "কোনটি সত্য যে অবিলম্বে হুমায়ুন আহমেদের বইগুলো পড়তে মন চায়?",
+        "chapter_id": "1340",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136731,
+      "value": {
+        "options": {
+          "a": "বই পড়ার আনন্দ এবং জ্ঞান অর্জনের জন্য।",
+          "b": "শুধুমাত্র পাঠ্যবইয়ের জন্য।",
+          "c": "ছোটদের জন্য আধুনিক গল্পের জন্য।",
+          "d": "শুধু বিজ্ঞান বইয়ের জন্য।"
+        },
+        "question": "বইয়ের জগৎ কিসের জন্য পরিচিত?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নের অর্থ বিশ্লেষণ করি — \"বইয়ের জগৎ\" বলতে সাধারণত বই পড়ার আনন্দ, কল্পনা এবং জ্ঞান অর্জনের স্বরূপ ব্যাপক পরিবেশ বোঝায়।  \nধাপ ২: বিকল্পগুলির তুলনা করি — (a) এই ধারণার সাথে সোজাসুজি মেলে; (b) শুধুমাত্র পাঠ্যবই সীমাবদ্ধ করে, যা ভুল; (c) কেবল ছেলেমেয়েদের আধুনিক গল্প মানে সার্বজনীন নয়; (d) শুধুমাত্র বিজ্ঞান বই ধরে নেয়া অযৌক্তিক।  \nউপসংহার: সঠিক উত্তর হল (a) — বই পড়ার আনন্দ এবং জ্ঞান অর্জনের জন্য।",
+        "chapter_id": "1340",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136732,
+      "value": {
+        "options": {
+          "a": "মানুষ লেখালেখি ও কথোপকথনে উন্নতি লাভ করে।",
+          "b": "মানুষ মনোরঞ্জনে বেশি সময় দেয়।",
+          "c": "মানুষ আরও বেশি অলস হয়ে যায়।",
+          "d": "কোন পরিবর্তন আসে না।"
+        },
+        "question": "বই পড়ার ফলে মানুষের মধ্যে কী ধরনের পরিবর্তন আসে?",
+        "solution": "সমাধান:\nStep 1: বই পড়ার মূল প্রভাব বিশ্লেষণ করলে দেখা যায় এটি ভাষা জ্ঞান, শব্দভাণ্ডার এবং ধারাবাহিক চিন্তা গঠনে সাহায্য করে; ফলে লেখালেখি ও কথোপকথনের ক্ষমতা বাড়ে।  \nStep 2: প্রতিটি বিকল্প মূল্যায়ন করলে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a) এই বিবরণীর সঙ্গে সঠিকভাবে মেলে।  \nStep 3: অন্য বিকল্পগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (b) মনোরঞ্জনের জন্য সময় বাড়ানো সবসময়ই বই পড়ার প্রধান ফল নয়, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (c) অলস হওয়া বিপরীত ঘটনা এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (d) কোন পরিবর্তন না হওয়া বাস্তবসম্মত নয়।  \nঅতএব সঠিক উত্তর হলো (a): মানুষ লেখালেখি ও কথোপকথনে উন্নতি লাভ করে।",
+        "chapter_id": "1340",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136733,
+      "value": {
+        "options": {
+          "a": "বই পড়লে শরীর ও মন ভালো থাকে।",
+          "b": "বিশ্ব ভ্রমণ করা যায়।",
+          "c": "শুধু মজার জন্য পড়া উচিত।",
+          "d": "এটি সময়ের নষ্ট।"
+        },
+        "question": "বই পড়ার সুবিধা সম্পর্কে বিজ্ঞানীরা কী বলেন?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্ন অনুযায়ী বিজ্ঞানীরা বই পড়ার সুফল সম্পর্কে কি বলেন তা শনাক্ত করতে হবে — বিজ্ঞানী সর্বসাধারণে বলে থাকেন বই পড়া মানসিক চাপ কমায়, মনোযোগ ও স্মৃতিশক্তি বাড়ায় এবং মানসিক সুস্থতা বজায় রাখতে সাহায্য করে।  \nধাপ ২: অপশনগুলো যাচাই করলে দেখা যায় \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (\"বই পড়লে শরীর ও মন ভালো থাকে\") সরাসরি এই বৈজ্ঞানিক ফলাফলগুলোর সঙ্গে মিলে; অন্যগুলো মিথ্যে বা প্রসঙ্গভ্রষ্ট — \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভ্রমণের প্রতিস্থাপন নয়, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বিজ্ঞানসম্মত বক্তব্য নয়।  \nফলাফল: তাই সঠিক উত্তর হলো a।",
+        "chapter_id": "1340",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130183,
+      "value": {
+        "options": {
+          "a": "শিশুসাহিত্য",
+          "b": "রাজনীতি",
+          "c": "গল্প বলার শৈলী",
+          "d": "প্রথম বিশ্বযুদ্ধ"
+        },
+        "question": "অন্নদাশঙ্কর রায় এবং সুকুমার রায়ের মধ্যে কোন বিষয়ে মিল আছে?",
+        "solution": "সমাধান:\nধাপ ১: উভয় লেখকের রচনাসমূহ পর্যালোচনা করলে দেখা যায় সুকুমার রায় প্রধানত শিশুসাহিত্য ও বাচ্চাদের জন্য রসিক কবিতা ও গল্প (উদাহরণ: বহু nonsensical কবিতা) রচনায় পরিচিত।  \nধাপ ২: অন্নদাশঙ্কর রায়ও শিশুসাহিত্যে রচনা করেছেন এবং শিশুদের জন্য গল্প-কবিতা লিখেছেন, ফলে উভয়ের মধ্যে প্রধান মিল হল শিশুসাহিত্য।  \nঅতএব সঠিক উত্তর: a: শিশুসাহিত্য। অন্য বিকল্পগুলো (রাজনীতি, প্রথম বিশ্বযুদ্ধ) উভয়ের প্রধান কাজ নয়; গল্প বলার শৈলী আংশিক মিল থাকতে পারে, কিন্তু প্রধান মিল হিসেবে শিশুসাহিত্যই যথাযথ।",
+        "chapter_id": "1340",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-27T12:30:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130184,
+      "value": {
+        "options": {
+          "a": "শরীর ও মন ভালো থাকে",
+          "b": "শুধু হাসির সৃষ্টি হয়",
+          "c": "বিভিন্ন খাবারের রেসিপি জানা যায়",
+          "d": "শুধু গল্পের আনন্দ পাওয়া যায়"
+        },
+        "question": "বই পড়ার মাধ্যমে মানুষের কি উপকার হয়?",
+        "solution": "সমাধান: প্রথমে প্রতিটি বিকল্প মূল্যায়ন করতে হবে। বিকল্প a: বই পড়া মানসিক চাপ কমায়, জ্ঞান ও চিন্তার বিকাশ ঘটায় এবং মানসিক স্থিতি ভালো হলে শারীরিক স্বাস্থ্যও ইতিবাচকভাবে প্রভাবিত হয়, তাই \"শরীর ও মন ভালো থাকে\" একটি ব্যাপন উপকার। অন্য বিকল্পগুলো (b, c, d) আংশিক বা সীমিত কেবল নির্দিষ্ট দিক নির্দেশ করে — বই পড়ার উপকার শুধুমাত্র হাসি, শুধুমাত্র রেসিপি জানা বা শুধুমাত্র গল্পের আনন্দে সিমাবদ্ধ নয়। তাই সঠিক উত্তর হলো a.",
+        "chapter_id": "1340",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-27T12:30:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130185,
+      "value": {
+        "options": {
+          "a": "হুমায়ুন আহমেদ",
+          "b": "সুকুমার রায়",
+          "c": "অন্নদাশঙ্কর রায়",
+          "d": "নীরেন্দ্রনাথ চক্রবর্তী"
+        },
+        "question": "বাংলাদেশের কোন লেখক শিশুদের জন্য ভ্রমণকাহিনি লিখেছেন?",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ:\n1. প্রতিটি লেখকের প্রধান পরিচিতি দেখে নেওয়া: হুমায়ুন আহমেদ সাধারণত উপন্যাস ও শিশুতোষ গল্প লিখেছেন; সুকুমার রায় মূলত শিশুসাহিত্য ও ছড়ার জন্য বিখ্যাত কিন্তু ভ্রমণকাহিনি লেখেননি; নীরেন্দ্রনাথ চক্রবর্তী প্রধানত কবি।  \n2. অন্নদাশঙ্কর রায় 어린শিশুদের জন্য ভ্রমণকাহিনি ও শিক্ষামূলক গল্প লেখায় সুপরিচিত। তাই প্রদত্ত বিকল্পগুলোর মধ্যে ভ্রমণকাহিনি লেখকের সঠিক উত্তর হলো (c) অন্নদাশঙ্কর রায়।",
+        "chapter_id": "1340",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-27T12:30:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56450,
+      "value": {
+        "options": {
+          "a": "ছড়া",
+          "b": "কল্পবিজ্ঞান",
+          "c": "গল্প",
+          "d": "এটি"
+        },
+        "question": "হুমায়ুন আহমেদ-এর __________ বইয়ে ভূতের গল্প রয়েছে।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নের যুক্তি চিহ্নিত করুন — ভূতের গল্প সাধারণত গল্প কিংবা কাহিনীর সংকলনে পাওয়া যায়।  \nধাপ ২: অপশনগুলো যাচাই করুন — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ছড়া (ভূতের গল্পের জন্য নয়), \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কল্পবিজ্ঞান (অন্য ধারা), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গল্প (ভূতের কাহিনি এখানে থাকে), \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E এটি (অস্পষ্ট/অপ্রয়োগযোগ্য)।  \nসুতরাং সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56451,
+      "value": {
+        "options": [],
+        "question": "বই উপহার দেওয়ার সুবিধা কী?",
+        "solution": "সমাধান: প্রথমে প্রশ্নের মূল শব্দগুলো — \"বই উপহার\" এবং \"সুবিধা\" — বিশ্লেষণ করি: এখানে জানতে চাওয়া হচ্ছে বই উপহারের দেয়া প্রধান লাভ কী। কারণগুলো ধাপে ধাপে: বই মানুষকে নতুন জ্ঞান, ধারণা ও তথ্য শেখায় এবং একইসঙ্গে পাঠের আনন্দ, মানসিক শিথিলতা ও বুদ্ধিমত্তা বৃদ্ধি করে। তাই সঠিক উত্তর হলো — মানুষকে জ্ঞান এবং আনন্দ দেয়; অন্যান্য সম্ভাব্য বিকল্পগুলি (যেমন সাময়িক উপহার্যতা বা ভৌত মূল্য) দীর্ঘমেয়াদী জ্ঞানগত ও মানসিক সুবিধা তুলে ধরতে পারে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মানুষকে জ্ঞান এবং আনন্দ দেয়।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56452,
+      "value": {
+        "options": {
+          "a": "অভ্যাস",
+          "b": "বিশ্বজ্ঞান",
+          "c": "একলব্য",
+          "d": "স্নায়বিক ক্ষমতা"
+        },
+        "question": "বই পড়ার মাধ্যমে কী শিখতে পারি?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নের উদ্দেশ্য হল জানতে চাওয়া যে বই পড়ার মাধ্যমে প্রধানত কী পাওয়া যায় — সাধারণত বই থেকে জ্ঞান, তথ্য এবং বিশ্বের বিষয়ভিত্তিক ধারনা শেখা যায়।  \nStep 2: প্রতিটি বিকল্প মূল্যায়ন করি:\n- \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E অভ্যাস — বই পড়া অভ্যাস তৈরি করতে পারে, কিন্তু এটি সরাসরি শেখার বিষয় নয়।  \n- \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বিশ্বজ্ঞান — বই পড়ার মাধ্যমে বিভিন্ন বিষয়, ইতিহাস, বিজ্ঞান ও সংস্কৃতি সম্পর্কে জ্ঞান অর্জিত হয়; তাই এটি সঠিক উত্তর।  \n- \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E একলব্য — একজন ব্যক্তির নাম বা বিশেষণ; বই পড়ার সঙ্গত সম্পর্ক নেই।  \n- \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E স্নায়বিক ক্ষমতা — মস্তিষ্কের ক্ষমতার একটি জটিল বৈজ্ঞানিক শব্দ; বই পড়া সরাসরি এটিকে বোঝায় না।  \n\nনির্ণয়: সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (বিশ্বজ্ঞান), কারণ বই পড়ার মূল ফল হলো জ্ঞান ও তথ্য অর্জন।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56453,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বই পড়া হৃদয়কে স্বাস্থ্যবান করে না।",
+        "solution": "সমাধান: ধাপ ১: বিবৃতিটি বিশ্লেষণ করলে দেখা যায় এটি বলছে “বই পড়া হৃদয়কে স্বাস্থ্যবান করে না” — এটি একটি সাধারণ রূপে ভুল। ধাপ ২: বাস্তবে বই পড়া মানসিক চাপ কমায়, মানসিক শান্তি ও মানসিক স্বাস্থ্য উন্নতি করে এবং এই কারণে হৃদরোগের ঝুঁকি কমাতে সহায়ক হতে পারে; অতএব মূল বিবৃতিটি মিথ্যা। তাই সঠিক উত্তর: b (False)। a (True) বিকল্পটি ভুল কারণ বই পড়া সাধারণত হৃদযন্ত্রের অনুকূল প্রভাব ফেলতে পারে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56454,
+      "value": {
+        "options": {
+          "a": "পোষায়িত",
+          "b": "গল্প",
+          "c": "ধর্মের",
+          "d": "আবিষ্কৃত"
+        },
+        "question": "বইয়ের মধ্যে __________ বিষয় থাকে।",
+        "solution": "সমাধান:\n1) প্রশ্নটি দেখে বোঝা যায় শূন্যস্থানটি পূরণের জন্য এমন একটি শব্দ দরকার যা সাধারণত বইয়ের মধ্যে থাকে।  \n2) বিকল্পগুলোর মানে পরীক্ষা করলে দেখা যায়: \"পোষায়িত\" পশুর জন্য, \"ধর্মের\" ধরণ বোঝায় কিন্তু বইয়ের সাধারণ বিষয় নয়, \"আবিষ্কৃত\" শব্দটি প্রাসঙ্গিক নয়, আর \"গল্প\" সরাসরি বইয়ের মধ্যে উপস্থিত বিষয়।  \n3) তাই সঠিক উত্তর: b (গল্প)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56455,
+      "value": {
+        "options": [],
+        "question": "বইয়ের নানা প্রকার কেমন হয়?",
+        "solution": "সমাধান:\n1. প্রশ্নটি বোঝা: এখানে জিজ্ঞেস করা হচ্ছে বইয়ের ধরন বা প্রকার কী কী হতে পারে — অর্থাৎ পাঠক ও বিষয়ভিত্তিক শ্রেণিবিভাগ খুঁজতে হবে।\n2. শ্রেণিবিভাগ নির্ণয়: বই দুটি প্রধানভাবে পাঠকভিত্তিক (ছোটোদের বই, বড়োদের বই) এবং বিষয়ভিত্তিক (হাসির বই, কান্নার বই বা গল্পসম্ভার, বিজ্ঞান বই) হিসেবে ভাগ করা যায়।  \n3. উপসংহার ও উত্তর নির্বাচন: তাই সঠিক উত্তর হলো — ছোটোদের বই, বড়োদের বই, হাসির বই, কান্নার বই, বিজ্ঞান বই। \n\nস্পষ্টীকরণ: এখানে অন্যান্য সম্ভাব্য বিকল্প যেমন রোম্যান্স, ঐতিহাসিক বা প্রযুক্তি বইও আছে, কিন্তু প্রদত্ত উত্তরের তালিকাটি প্রশ্নে চাওয়া সাধারণ শ্রেণিবিভাগগুলো ঠিক তুলে ধরেছে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ছোটোদের বই, বড়োদের বই, হাসির বই, কান্নার বই, বিজ্ঞান বই।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56456,
+      "value": {
+        "options": {
+          "a": "স্কুলে",
+          "b": "বিপণনে",
+          "c": "গ্রন্থাগার",
+          "d": "বাড়িতে"
+        },
+        "question": "পাঠ্যবই পড়ার জন্য আমরা কোথায় যাই?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি দেখে বুঝি যে “পাঠ্যবই পড়ার জন্য আমরা কোথায় যাই?” এখানে সাধারণভাবে পাঠ্যবই পড়ার স্থান হিসেবে স্কুলই প্রধান এবং প্রত্যাশিত উত্তর।  \nধাপ ২: অপশন যাচাই করে বাদ দেয়া — বিপণনে (b) আমরা বই কিনতে যাই, গ্রন্থাগার (c) পড়ার স্থান হতে পারে কিন্তু সাধারণ স্কুলভিত্তিক প্রশ্নে প্রধান স্থান নয়, বাড়িতে (d) পড়া সম্ভব তবে প্রশ্নে প্রসঙ্গ অনুযায়ী প্রত্যেক দিন পাঠ্যপুস্তক পড়ার স্থানে স্কুল (a: স্কুলে) সবচেয়ে উপযুক্ত উত্তর।  \nঅতএব সঠিক উত্তর: a: স্কুলে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56457,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বইয়ের জগৎ জ্ঞানের জন্য সীমাবদ্ধ।",
+        "solution": "সমাধান: উক্তি \"বইয়ের জগৎ জ্ঞানের জন্য সীমাবদ্ধ\" ভুল। কারণ বই শুধুই তাত্ত্বিক জ্ঞান নয়—এগুলি কল্পনা, সাহিত্যিক অভিজ্ঞতা, নৈতিক শিক্ষা, সাংস্কৃতিক ধারণা এবং মানসিক প্রশিক্ষণও প্রদান করে; ফলে বইয়ের ভূমিকা একাধিক দিক বিস্তৃত। তাই সঠিক উত্তর হলো \u003Cb\u003Eb: False\u003C/b\u003E, এবং \u003Cb\u003Ea: True\u003C/b\u003E ভুল কারণ তা বইয়ের কার্যকৌশলকে অত্যন্ত সংকীর্ণভাবে ধরে নেয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56458,
+      "value": {
+        "options": {
+          "a": "শান্ত",
+          "b": "নিশ্চিত",
+          "c": "গবেষণা",
+          "d": "জ্ঞান"
+        },
+        "question": "মানুষ __________ জানা যায়।",
+        "solution": "সমাধান: প্রশ্নটি একটি শূন্যস্থান ভরা বাক্য যেখানে খালি স্থানে এমন একটি শব্দ লাগবে যা যৌক্তিকভাবে বাক্যকে সম্পূর্ণ করে। \n\nধাপ ১: বাক্যটির অর্থ বোঝা — \"মানুষ __________ জানা যায়।\" এখানে বুঝাতে চাওয়া হচ্ছে মানুষের পরিচয় বা গুণাবলী কী দ্বারা জানা যায়।  \nধাপ ২: বিকল্পগুলোর যোগ্যতা বিচার — 'শান্ত' ও 'নিশ্চিত' হলো বিশেষণ, সেগুলো দ্বারা কাউকে \"জানা\" যায় না; 'গবেষণা' একটি ক্রিয়া/প্রক্রিয়া হলেও সাধারণভাবে বাক্যের স্থানে বসলে স্বাভাবিক শাব্দিক মিল নেই। 'জ্ঞান' হলো সেই উপাদান যার দ্বারা মানুষের বৈশিষ্ট্য ও পরিচয় বোঝা যায়, তাই তা সঠিক পূরণ। \n\nঅতএব সঠিক উত্তর: d: জ্ঞান.",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56459,
+      "value": {
+        "options": [],
+        "question": "ছাপাখানা কখন প্রতিষ্ঠিত হয়?",
+        "solution": "সমাধান: আধুনিক মুভেবল টাইপ ছাপাখানা প্রথম প্রতিষ্ঠিত হয় জার্মানিতে প্রায় [math]১৪৪০\\text{ খ্রিস্টাব্দে}[/math] ইয়োহানেস গুৎেনবার্গের মাধ্যমে, যা আজ থেকে تقریباً [math]≈৬০০\\text{ বছর}[/math] আগে। কারণ: গুৎেনবার্গের চলনযোগ্য টাইপ ও মেকানিক্যাল প্রেসই ইউরোপীয় ছাপাখানার ভিত্তি গড়ে তোলে; যদিও চীনে আগেই কাঠের ব্লক প্রিন্টিং ছিল, তা আধুনিক ছাপাখানার মত মুভেবল টাইপ নয়—তাই অন্য সম্ভাব্য সময়/স্থানগুলো সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "৬০০ বছর আগে জার্মানিতে।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56440,
+      "value": {
+        "options": {
+          "a": "পশুপাখির জগৎ",
+          "b": "বিজ্ঞান জগত",
+          "c": "গাছপালা জগত",
+          "d": "সব ধরনের জগত"
+        },
+        "question": "পৃথিবীতে বইয়ের কোন ধরনের জগত রয়েছে?",
+        "solution": "সমাধান:\nধাপ ১: বইয়ের বিষয়বস্তু বিশ্লেষণ করলে দেখা যায় বইতে পশুপাখি, বিজ্ঞান, গাছপালা সহ নানা ধরনের জ্ঞান ও বিষয় আছে।  \nধাপ ২: প্রশ্নের বিকল্পগুলোতীরে তুলনা করলে প্রতিটি (পশুপাখি, বিজ্ঞান, গাছপালা) আলাদা আলাদা শ্রেণি; তাই সবগুলো একসাথে থাকতে পারে।  \nঅতএব সঠিক উত্তর: d — কারণ অন্যান্য বিকল্পগুলো কেবল একটি বা কিছু ধরনের জগত নির্দেশ করছে, কিন্তু d বলছে বইতে সব ধরনের জগতই আছে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56441,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বইগুলো শুধুমাত্র প্রাপ্তবয়স্কদের জন্য ডিজাইন করা হয়েছে।",
+        "solution": "সমাধান:  \nধাপ ১: বিবৃতিটি পরীক্ষা করতে দেখতে হবে কোনো বই শুধুমাত্র প্রাপ্তবয়স্কদের জন্যই তৈরি—এটি সার্বজনীন দাবি।  \nধাপ ২: বাস্তবে শিশুসাহিত্য, কিশোর/যুবক-উপন্যাস, শিক্ষামূলক পাঠ্যপুস্তক ও চিত্র-কাহিনী ইত্যাদি অনেক বই স্পষ্টভাবে অপ্রাপ্তবয়স্কদের জন্য ডিজাইন করা হয়—এগুলো বিবৃতির বিরূদ্ধে প্রমাণ।  \nসিদ্ধান্ত: তাই বিবৃতিটি মিথ্যা, সঠিক উত্তর: b।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56442,
+      "value": {
+        "options": {
+          "a": "শুধু",
+          "b": "হাজার",
+          "c": "দশ",
+          "d": "দুই"
+        },
+        "question": "একটি ভাল বই __________ বছর ধরে মানুষ পড়তে থাকে।",
+        "solution": "সমাধান: প্রথমে বাক্যের অর্থ বিশ্লেষণ করতে হবে — এখানে বোঝাতে চাওয়া হয়েছে এমন একটি শব্দ যা দীর্ঘকাল ধরে পড়বাস্তব্য প্রকাশ করে। দেওয়া অপশনগুলোর মধ্যে \u003Cb\u003E“হাজার”\u003C/b\u003E সর্বোত্তম মিলেছে কারণ এটি কালান্তরে বহুল ব্যবহৃত রূপক প্রকাশ করে (অর্থাৎ বহু বছর ধরে/চিরস্থায়ীভাবে)। অন্য অপশনগুলো ভুল কারণ “শুধু” অর্থগতভাবে মানানসই নয়, এবং “দুই” ও “দশ” খুব সংক্ষিপ্ত সময় নির্দেশ করে; তাই সঠিক উত্তর হল b — হাজার।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56443,
+      "value": {
+        "options": [],
+        "question": "বই পড়ার গুরুত্ব কী?",
+        "solution": "সমাধান: ধাপে ধাপে বিচার করে দেখা যাক — প্রথমত বই পড়ার কার্যকারিতা নির্ণয় করতে হবে: বই পড়া কেবল বিনোদন দেয় না, বরং জ্ঞান, দক্ষতা, ভাবনার বিস্তার এবং মানসিক শান্তি বাড়ায়। দ্বিতীয়ত দেওয়া বিকল্পগুলোর সাথে মিলিয়ে দেখলে সঠিক বিকল্পটি হল যে বই পড়া “মানুষকে জ্ঞান বৃদ্ধি করতে সাহায্য করে এবং মন ও শরীর ভালো রাখতে পারে” — কারণ নিয়মিত পড়াশোনা মানসিক উৎকর্ষ ও চাপ মোকাবিলায় সহায়ক এবং শারীরিক অভ্যাসেও ইতিবাচক প্রভাব ফেলে। অন্যান্য সম্ভবত ভুল বিকল্পগুলো (যেমন: কেবল সময় নষ্ট বা শুধুই বিনোদন) বিবেচনায় নিলে দেখা যায় সেগুলো বই পড়ার পুরো উপকারিতা ব্যাখ্যা করে না, তাই সঠিক উত্তরটি নির্দেশিত বক্তব্য।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মানুষকে জ্ঞান বৃদ্ধি করতে সাহায্য করে এবং মন ও শরীর ভালো রাখতে পারে।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56444,
+      "value": {
+        "options": {
+          "a": "৬০০ বছর আগে",
+          "b": "৮০০ বছর আগে",
+          "c": "৪০০ বছর আগে",
+          "d": "২৩০ বছর আগে"
+        },
+        "question": "জার্মানিতে প্রথম ছাপাখানা প্রতিষ্ঠিত হয় যখন?",
+        "solution": "সমাধান:\n1. জার্মানিতে প্রথম ছাপাখানা প্রতিষ্ঠা সাধারণত ইউহানেস গুটেনবের্গের চল্লিশের দশকে (প্রায় ১৪৫০ খ্রি.) ধরা হয়।  \n2. বর্তমান বছরকে ধরা যাক ২০২৫; তখন প্রায় কত বছর হলো তা হিসাব করলে: [math]2025 - 1450 = 575[/math] বছর, যা রাউন্ড করে প্রায় ৬০০ বছরের কাছাকাছি।  \n3. তাই প্রদত্ত বিকল্পগুলির মধ্যে সবচেয়ে উপযুক্ত উত্তর হলো (a) ৬০০ বছর আগে।  \n\nঅন্য বিকল্পগুলির ত্রুটি সংক্ষেপে: (b) ৮০০ বছর আগে ~১২২৫ খ্রি. — অনেক আগে এবং গুটেনবের্গের সময়কালের আগে; (c) ৪০০ বছর আগে ~১৬২৫ খ্রি. — গুটেনবের্গের আবিষ্কারের পরে; (d) ২৩০ বছর আগে ~১৭৯৫ খ্রি. — যেটিও অনেক পরে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56445,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাংলাদেশে উপেন্দ্রকিশোর রায়চৌধুরী শিশুদের মধ্যে জনপ্রিয় লেখক।",
+        "solution": "সমাধান:\nধাপ ১: উপেন্দ্রকিশোর রায়চৌধুরী ছিলেন একজন প্রখ্যাত বাঙালি লেখক ও শিল্পী, যিনি বিশেষভাবে শিশুসাহিত্যে গুরুত্বপূর্ণ অবদান রেখেছেন।  \nধাপ ২: তার রচনাসমূহ বহু প্রজন্ম ধরে বাংলাভাষী শিশুদের মধ্যে জনপ্রিয় ও প্রসারিত হওয়ায় বাংলাদেশে ও বাংলাভাষী অঞ্চলে তিনি শিশুপ্রিয় লেখক হিসেবে পরিচিত।  \nঅতএব বিবৃতিটি সঠিক — সঠিক উত্তর: a (True)। বিকল্প b (False) ভুল, কারণ উপেন্দ্রকিশোর শিশুসাহিত্যে জনপ্রিয় ছিলেন।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56446,
+      "value": {
+        "options": {
+          "a": "শান্তি",
+          "b": "বিজ্ঞান",
+          "c": "জ্ঞান",
+          "d": "পড়া"
+        },
+        "question": "বই পড়ার মাধ্যমে __________ জানতে পারি।",
+        "solution": "সমাধান: প্রশ্নে বলা হয়েছে যে বই পড়ে আমরা কী জানতে পারি — সবচেয়ে সাধারণ ও উপযুক্ত শব্দ হল \"জ্ঞান\"। কারণ বইতে বিভিন্ন তথ্য, ধারণা ও শিক্ষা থাকে যা মিলে জ্ঞান গঠিত হয়; অন্য বিকল্পগুলোতে \"শান্তি\" একটি অনুভূতি, \"বিজ্ঞান\" কেবল একটি বিশেষ শাখার জ্ঞান এবং \"পড়া\" নিজেই একটি কাজ, তাই সঠিক উত্তর হলো (c) জ্ঞান।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56447,
+      "value": {
+        "options": [],
+        "question": "ছোটদের জন্য কয়টি বইয়ের নাম উল্লেখ করুন।",
+        "solution": "সমাধান: প্রশ্নটি হলো ছোটদের জন্য উপযুক্ত বইয়ের নাম উল্লেখ করা; তাই প্রথমে শিশুর পড়াশোনার ধরন (নীতিকথা, অভিযান, কল্পকাহিনী) বিবেচনা করা হচ্ছে। পছন্দসই তালিকা: পঞ্চতন্ত্র, ঈশপের গল্প, রবিনসন ক্রুসো, টম সয়ারের অভিযান, আশি দিনে বিশ্বভ্রমণ। ব্যাখ্যা: এই বইগুলোতে সহজ ভাষায় নৈতিক শিক্ষা, রোমাঞ্চ ও কল্পনা-বিস্তারে উপযোগী গল্প আছে, তাই ছেলেমেয়েদের পড়ার জন্য উপযুক্ত।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "পঞ্চতন্ত্র, ঈশপের গল্প, রবিনসন ক্রুসো, টম সয়ারের অভিযান, আশি দিনে বিশ্বভ্রমণ।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56448,
+      "value": {
+        "options": {
+          "a": "কবিতা",
+          "b": "শিক্ষা",
+          "c": "গল্প",
+          "d": "হাস্যকর"
+        },
+        "question": "পাঠ্যবইয়ের জন্য কার্যকরী লেখা কোনটি?",
+        "solution": "সমাধান:\nStep 1: \"কার্যকরী লেখা\" বলতে বোঝায় এমন লেখা যা পাঠ্যবইয়ের উদ্দেশ্য পূরণ করে—অর্থাৎ শিক্ষণ ও ধারণা প্রস্থারের জন্য উপযোগী লেখা।  \nStep 2: প্রতিটি বিকল্প যাচাই করা হলে দেখা যায়: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কবিতা — প্রধানত সাহিত্যিক ও অনুভূতিমূলক; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শিক্ষা — সরাসরি শেখানো ও নির্দেশনার জন্য উপযোগী; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গল্প — প্রায়শই বর্ণনামূলক ও বিনোদনের উদ্দেশ্যে; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হাস্যকর — বিনোদন কেন্দ্রীক।  \nএতেই স্পষ্ট যে শিক্ষণমূলক, নির্দেশক এবং পাঠ্যবই-উপযোগী হওয়ার কারণে সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (শিক্ষা)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56449,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বই পড়লে মানুষ দ্রুত ঘুমিয়ে যায়।",
+        "solution": "সমাধান:\nধাপ 1: প্রশ্নটি একটি সাধারণিকীকরণ—“বই পড়লে মানুষ দ্রুত ঘুমিয়ে যায়”—যা সব পরিস্থিতি ও সব মানুষের জন্য প্রযোজ্য নয়।  \nধাপ 2: বাস্তবে পড়ার ফলে ঘুম আসা নির্ভর করে লাইট, পাঠ্যের ধরণ (নীরস বা উত্তেজনাপূর্ণ), ব্যক্তির শারীরিক অবস্থা এবং সময়ের উপর; তাই এটি সর্বদা সত্য হয় না।  \nধাপ 3: অতএব সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (False)। \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (True) ভুল, কারণ বই পড়লে সবসময় দ্রুত ঘুম আসে—এমন কোনও সার্বজনীন নিয়ম নেই।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7374,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7374&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7374&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7374&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 119,
+  "total": 119
+}

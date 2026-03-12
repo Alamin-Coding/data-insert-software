@@ -1,0 +1,833 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747281,
+      "value": {
+        "options": {
+          "ক": "আয়তন",
+          "খ": "তাপ",
+          "গ": "চাপ",
+          "ঘ": "ওজন"
+        },
+        "question": "উপরে লাফ দিলেও তুমি আবার মাটিতে ফিরে আস, কোনটির কারণে?",
+        "solution": "ঘ. ওজন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747291,
+      "value": {
+        "options": {
+          "ক": "আকার",
+          "খ": "আয়তন",
+          "গ": "ভর",
+          "ঘ": "ওজন"
+        },
+        "question": "কিলোগ্রাম কিসের একক?",
+        "solution": "গ. ভর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747290,
+      "value": {
+        "options": {
+          "ক": "ভর",
+          "খ": "ওজন",
+          "গ": "পরিমাণ",
+          "ঘ": "আয়তন"
+        },
+        "question": "কোনো বস্তুকে পৃথিবী তার কেন্দ্রের দিকে কত জোরে টানছে তাই হলো বস্তুর-",
+        "solution": "খ. ওজন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747289,
+      "value": {
+        "options": {
+          "ক": "স্থির থাকবে",
+          "খ": "একদিকে উঠে যাবে",
+          "গ": "একদিকে হেলে পড়বে",
+          "ঘ": "কোনোটিই ঘটবে না"
+        },
+        "question": "একটি দাঁড়িপাল্লার দুপাশে সমান ওজনের এবং আকৃতির দুটি বস্তু ঝুলিয়ে দিলে দাঁড়িপাল্লাটির অবস্থার কী পরিবর্তন ঘটবে?",
+        "solution": "ক. স্থির থাকবে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747288,
+      "value": {
+        "options": {
+          "ক": "বল",
+          "খ": "আয়তন",
+          "গ": "ওজন",
+          "ঘ": "আকার"
+        },
+        "question": "বই বা কলম হাত দিয়ে উপরে তুললে আমরা অনুভব করি-",
+        "solution": "গ. ওজন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747287,
+      "value": {
+        "options": {
+          "ক": "জামালের প্রান্ত উপরের দিকে উঠে থাকবে",
+          "খ": "কামালের প্রান্ত নিচের দিকে নেমে থাকবে",
+          "গ": "দুই প্রান্ত সমান হয়ে থাকবে",
+          "ঘ": "কামালের প্রান্ত উপরের দিকে উঠে থাকবে"
+        },
+        "question": "জামাল ও কামাল একটি নৌকার দুই প্রান্তে বসে নদী পার হচ্ছে। জামালের ওজন কামালের চেয়ে বেশি হলে নৌকাটির কী ঘটবে?",
+        "solution": "ঘ. কামালের প্রান্ত উপরের দিকে উঠে থাকবে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747286,
+      "value": {
+        "options": {
+          "ক": "গ্রাম",
+          "খ": "মিটার",
+          "গ": "লিটার",
+          "ঘ": "নিউটন"
+        },
+        "question": "বল পরিমাপের একক কোনটি?",
+        "solution": "ঘ. নিউটন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747285,
+      "value": {
+        "options": {
+          "ক": "দাঁড়িপাল্লাটি স্থির থাকবে",
+          "খ": "দাঁড়িপাল্লাটি বস্তুটির দিকে হেলে পড়বে",
+          "গ": "দাঁড়িপাল্লাটি বস্তুর বিপরীত দিকে হেলে পড়বে",
+          "ঘ": "কোনোটিই নয়"
+        },
+        "question": "দাঁড়িপাল্লার একপ্রান্তে কোনো বস্তু রাখলে, নিচের কোন ঘটনাটি ঘটবে?",
+        "solution": "খ. দাঁড়িপাল্লাটি বস্তুটির দিকে হেলে পড়বে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747284,
+      "value": {
+        "options": {
+          "ক": "উপরের দিকে",
+          "খ": "নিচের দিকে",
+          "গ": "কেন্দ্রের দিকে",
+          "ঘ": "উপর নিচের মাঝামাঝি"
+        },
+        "question": "প্রত্যেক বস্তুকে পৃথিবী টানে। এই টান কোন দিকে?",
+        "solution": "গ. কেন্দ্রের দিকে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747283,
+      "value": {
+        "options": {
+          "ক": "আকার",
+          "খ": "আয়তন",
+          "গ": "ওজন",
+          "ঘ": "রং"
+        },
+        "question": "সব পদার্থের কী আছে?",
+        "solution": "গ. ওজন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747282,
+      "value": {
+        "options": {
+          "ক": "আকার আছে",
+          "খ": "জায়গা দখল করে",
+          "গ": "আকৃতি আছে",
+          "ঘ": "ওজন আছে"
+        },
+        "question": "শিক্ষক ক্লাসে এসে ডাস্টারটি টেবিলের উপর রাখলেন। এতে পদার্থের কোন বৈশিষ্ট্য প্রমাণ হলো?",
+        "solution": "খ. জায়গা দখল করে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747271,
+      "value": {
+        "options": {
+          "ক": "পদার্থের আকৃতি",
+          "খ": "পদার্থের মোট পরিমাণ",
+          "গ": "জায়গা দখলের পরিমাণ",
+          "ঘ": "পদার্থের নিজস্ব ভর"
+        },
+        "question": "পদার্থের আয়তন বলতে কী বুঝায়?",
+        "solution": "গ. জায়গা দখলের পরিমাণ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747280,
+      "value": {
+        "options": {
+          "ক": "আয়তন",
+          "খ": "ওজন",
+          "গ": "তাপ",
+          "ঘ": "আলো"
+        },
+        "question": "নিচের কোনটির কারণে গাছের ফল মাটিওে পড়ে?",
+        "solution": "খ. ওজন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747279,
+      "value": {
+        "options": {
+          "ক": "কিলোগ্রাম",
+          "খ": "লিটার",
+          "গ": "মিটার",
+          "ঘ": "সের"
+        },
+        "question": "তুমি বাজার থেকে তরল দুধ কিনতে গেলে কোন এককটি ব্যবহার করবে?",
+        "solution": "খ. লিটার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747278,
+      "value": {
+        "options": {
+          "ক": "কিছু পানি শুকিয়ে যাবে",
+          "খ": "কিছু পানি বাইরে পড়বে",
+          "গ": "বালতির ওজন কমবে",
+          "ঘ": "পানির আয়তন বাড়বে"
+        },
+        "question": "একটি পানি ভর্তি বালতিতে তুমি হাত ঢুকিয়ে দিলে। এখন কী ঘটবে?",
+        "solution": "খ. কিছু পানি বাইরে পড়বে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747277,
+      "value": {
+        "options": {
+          "ক": "রং",
+          "খ": "গন্ধ",
+          "গ": "আয়তন",
+          "ঘ": "গঠন"
+        },
+        "question": "পদার্থের সাধারণ বৈশিষ্ট্য কোনটি?",
+        "solution": "গ. আয়তন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747276,
+      "value": {
+        "options": {
+          "ক": "তাপ",
+          "খ": "চাপ",
+          "গ": "আলো",
+          "ঘ": "আয়তন"
+        },
+        "question": "নিচের কোনটি পদার্থের বৈশিষ্ট্য?",
+        "solution": "ঘ. আয়তন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747275,
+      "value": {
+        "options": {
+          "ক": "মিটার",
+          "খ": "মিলিমিটার",
+          "গ": "মিলিমিটার",
+          "ঘ": "সেন্টিমিটার"
+        },
+        "question": "তরল পদার্থের আয়তন পরিমাপের একক কোনটি?",
+        "solution": "খ. মিলিমিটার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747274,
+      "value": {
+        "options": {
+          "ক": "তুমি চলাফেরা করতে পার",
+          "খ": "তুমি খাইতে পার",
+          "গ": "তোমার ওজন আছে",
+          "ঘ": "তুমি কথা বলতে পার"
+        },
+        "question": "নিচের কোন বৈশিষ্ট্যের কারণে তুমি নিজেকে পদার্থ বলতে পারবে?",
+        "solution": "গ. তোমার ওজন আছে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747273,
+      "value": {
+        "options": {
+          "ক": "গ্রাম",
+          "খ": "মিটার",
+          "গ": "লিটার",
+          "ঘ": "কেলভিন"
+        },
+        "question": "ওজন পরিমাপের একক কী?",
+        "solution": "ক. গ্রাম",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747272,
+      "value": {
+        "options": {
+          "ক": "লিটার",
+          "খ": "ঘন মিটার",
+          "গ": "গ্রাম",
+          "ঘ": "মিলিমিটার"
+        },
+        "question": "কঠিন পদার্থের আয়তন কোন এককে পরিমাপ করা হয়?",
+        "solution": "খ. ঘন মিটার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7409&grade=7&lesson=13499&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7409&grade=7&lesson=13499&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7409&grade=7&lesson=13499&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 21,
+  "total": 21
+}

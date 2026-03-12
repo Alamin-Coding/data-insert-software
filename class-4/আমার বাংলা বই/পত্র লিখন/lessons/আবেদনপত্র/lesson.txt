@@ -1,0 +1,233 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 745654,
+      "value": {
+        "options": [],
+        "question": "মনে করো, তোমার নাম অয়ন। তুমি মতিজান সরকারি প্রাথমিক বিদ্যালয়ের চতুর্থ শ্রেণির শিক্ষার্থী। তোমার রোল ৪। তোমার বড়ো বোনের বিয়ে উপলক্ষ্যে তিনদিনের ছুটি চেয়ে প্রধান শিক্ষকের কাছে একটি দরখাস্ত লেখো।",
+        "solution": "\u003Cdiv\u003E১০ মার্চ ২০২৫\u003Cbr /\u003E\nপ্রধান শিক্ষক\u003Cbr /\u003E\nমতিজান সরকারি প্রাথমিক বিদ্যালয়\u003Cbr /\u003E\nবাকেরগঞ্জ, বরিশাল\u003Cbr /\u003E\nবিষয়: তিন দিনের ছুটি মঞ্জুরের জন্য আবেদন।\u003Cbr /\u003E\nমহোদয়\u003Cbr /\u003E\nসবিনয় নিবেদন, আমি আপনার বিদ্যালয়ের চতুর্থ শ্রেণির একজন নিয়মিত শিক্ষার্থী। আগামী ১৩ মার্চ ২০২৫ তারিখে আমার বড়ো বোনের বিয়ের দিন ধার্য করা হয়েছে। আমি ১১ মার্চ থেকে ১৩ মার্চ পর্যন্ত বিদ্যালয়ে উপস্থিত থাকতে পারব না।\u003Cbr /\u003E\nঅতএব, অনুগ্রহপূর্বক উল্লিখিত তিনদিনের ছুটি মঞ্জুরের অনুমতি দিলে আপনার কাছে কৃতজ্ঞ থাকব।\u003Cbr /\u003E\n\u003Cbr /\u003E\nনিবেদক\u003Cbr /\u003E\nআপনার অনুগত ছাত্র অয়ন মাহমুদ\u003Cbr /\u003E\nশ্রেণি: চতুর্থ\u003Cbr /\u003E\nরোল: ৪\u003C/div\u003E\n\n\u003Cdiv\u003E&nbsp;\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745655,
+      "value": {
+        "options": [],
+        "question": "মনে করো, তোমার নাম প্রিয়ন্তী। তুমি শান্তা সরকারি প্রাথমিক বিদ্যালয়ের চতুর্থ শ্রেণির শিক্ষার্থী। তোমার শ্রেণি রোল ৫। শিক্ষাসফরের অনুমতি চেয়ে প্রধান শিক্ষকের কাছে একটি দরখাস্ত লেখো।",
+        "solution": "\u003Cdiv\u003E২১ এপ্রিল ২০২৫\u003Cbr /\u003E\nপ্রধান শিক্ষক\u003Cbr /\u003E\nশান্তা সরকারি প্রাথমিক বিদ্যালয়\u003Cbr /\u003E\nআক্কেলপুর, জয়পুরহাট\u003Cbr /\u003E\nবিষয়: শিক্ষাসফরে যাওয়ার অনুমতি চেয়ে আবেদন।\u003Cbr /\u003E\nমহোদয়\u003Cbr /\u003E\nসবিনয় নিবেদন, আমরা আপনার বিদ্যালয়ের চতুর্থ শ্রেণির শিক্ষার্থী। প্রতিবছরের মতো এবারও আমরা আগামী ২৫ এপ্রিল বগুড়ার মহাস্থানগড়ে শিক্ষাসফরে যেতে চাই। সেখানকার প্রাকৃতিক সৌন্দর্য আর প্রত্নতাত্ত্বিক নিদর্শন অত্যন্ত আকর্ষণীয়। শুধু শিক্ষাসফর নয় আমরা প্রত্যক্ষভাবে পরিচিত হব প্রাচীন বাংলার ইতিহাস আর ঐতিহ্যের সঙ্গে। সেখানে রয়েছে বৈরাগীর ভিটা, খোদার পাথর ভিটা, করতোয়া নদী, বেহুলা লখিন্দরের বাসরঘর। এসব ঐতিহাসিক নিদর্শন নিজ চোখে দেখে আমরা আমাদের জ্ঞানভান্ডার সমৃদ্ধ করতে চাই। আমাদের শ্রেণি শিক্ষক জনাব &#39;ক&#39; আমাদের পরিচালনায় থাকবেন বলে সম্মতি দিয়েছেন। আমরা সকাল ৬টায় স্কুল প্রাঙ্গণ থেকে শিক্ষাসফরের উদ্দেশ্যে যাত্রা করব এবং রাত ৮টার মধ্যে স্কুল প্রাঙ্গণে ফিরে আসব।\u003Cbr /\u003E\nঅতএব, অনুগ্রহপূর্বক আমাদের শিক্ষাসফরে যাওয়ার অনুমতি দিয়ে বাস্তব জ্ঞান অর্জনে সহযোগিতা করলে আমরা আপনার কাছে কৃতজ্ঞ থাকব।\u003Cbr /\u003E\n\u003Cbr /\u003E\nনিবেদক\u003Cbr /\u003E\nচতুর্থ শ্রেণির শিক্ষার্থীদের পক্ষে\u003Cbr /\u003E\nপ্রিয়ন্তী\u003Cbr /\u003E\nরোল: ৫\u003C/div\u003E\n\n\u003Cdiv\u003E&nbsp;\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745656,
+      "value": {
+        "options": [],
+        "question": "বোনের অসুস্থতার জন্য জরুরি ছুটি চেয়ে প্রধান শিক্ষকের নিকট আবেদনপত্র লেখো।",
+        "solution": "\u003Cdiv\u003E১৮ মার্চ ২০২৫\u003Cbr /\u003E\nপ্রধান শিক্ষক আদর্শ বিদ্যানিকেতন খিলগাঁও, ঢাকা\u003Cbr /\u003E\nবিষয়: ছুটির জন্য আবেদন।\u003Cbr /\u003E\nমহোদয়\u003Cbr /\u003E\nবিনীত নিবেদন এই যে, আমি আপনার বিদ্যালয়ের চতুর্থ শ্রেণির একজন শিক্ষার্থী। আমার ছোটো বোন খুব অসুস্থ। বাবা বাড়ি নেই। তিনি সন্ধ্যায় আসবেন। ছোটো বোনকে দেখাশোনার জন্য আমার পক্ষে আজ বিদ্যালয়ে আসা সম্ভব নয়।\u003Cbr /\u003E\nঅতএব, মহোদয়ের নিকট আবেদন, আমাকে আজ ছুটি প্রদান করলে কৃতজ্ঞ থাকব।\u003Cbr /\u003E\n\u003Cbr /\u003E\nনিবেদক\u003Cbr /\u003E\nআপনার অনুগত ছাত্র হাসান আহমেদ শ্রেণি: চতুর্থ শাখা: ক\u003Cbr /\u003E\nরোল: ৫\u003C/div\u003E\n\n\u003Cdiv\u003E&nbsp;\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745657,
+      "value": {
+        "options": [],
+        "question": "বিদ্যালয়ে পাঠাগার স্থাপনের জন্য প্রধান শিক্ষকের নিকট আবেদনপত্র লেখো।",
+        "solution": "\u003Cdiv\u003E২৯ মে ২০২৫\u003Cbr /\u003E\nপ্রধান শিক্ষক\u003Cbr /\u003E\nছলিমপুর সরকারি প্রাথমিক বিদ্যালয়, ময়মনসিংহ\u003Cbr /\u003E\nবিষয়: বিদ্যালয়ে পাঠাগার স্থাপনের জন্য আবেদন।\u003Cbr /\u003E\nমহোদয়\u003Cbr /\u003E\nবিনীত নিবেদন এই যে, আমরা আপনার বিদ্যালয়ের চতুর্থ শ্রেণির শিক্ষার্থী। আপনি জানেন যে, আমাদের বিদ্যালয় এই শহরের অন্যতম আদর্শ বিদ্যালয়। প্রতিবছর আমাদের এই বিদ্যালয় থেকে অনেকেই ভালো ফল অর্জন করে। কিন্তু আমাদের বিদ্যালয়ে কোনো পাঠাগার নেই। আপনি অবগত আছেন যে, পাঠাগার একজন শিক্ষার্থীর জন্য খুবই প্রয়োজনীয়। পাঠাগার শিক্ষার্থীর জ্ঞান বাড়াতে সহায়ক।\u003Cbr /\u003E\nঅতএব, অনুগ্রহপূর্বক আমাদের বিদ্যালয়ে একটি পাঠাগার স্থাপন করে পড়ালেখার সুযোগ দানে বাধিত করবেন।\u003Cbr /\u003E\n\u003Cbr /\u003E\nনিবেদক\u003Cbr /\u003E\nচতুর্থ শ্রেণির শিক্ষার্থীদের পক্ষে\u003Cbr /\u003E\nইসমাইল হোসেন\u003Cbr /\u003E\nরোল: ১\u003C/div\u003E\n\n\u003Cdiv\u003E&nbsp;\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745658,
+      "value": {
+        "options": [],
+        "question": "বইমেলা দেখতে যাওয়ার জন্য আবেদনপত্র লেখো।",
+        "solution": "\u003Cdiv\u003E১২ ফেব্রুয়ারি ২০২৫\u003Cbr /\u003E\nপ্রধান শিক্ষক\u003Cbr /\u003E\nশান্তিবাগ সরকারি প্রাথমিক বিদ্যালয়\u003Cbr /\u003E\nঢাকা\u003Cbr /\u003E\nবিষয়: বইমেলা দেখতে যাওয়ার জন্য আবেদন।\u003Cbr /\u003E\nমহোদয়\u003Cbr /\u003E\nবিনীত নিবেদন এই যে, আমরা আপনার বিদ্যালয়ের চতুর্থ শ্রেণির শিক্ষার্থী। কিছুদিন আগে বইমেলা শুরু হয়েছে। প্রতিবারের মতো এবারও আমরা বইমেলা দেখতে যেতে আগ্রহী। আপনি জানেন যে, বই জ্ঞান বিকাশে সাহায্য করে। তাই আমরা বইমেলায় যেতে চাই।\u003Cbr /\u003E\nঅতএব, মহোদয়ের নিকট আমাদের প্রার্থনা, একজন শিক্ষকের তত্ত্বাবধানে আমাদের বইমেলা দেখতে যাওয়ার অনুমতি প্রদান করে কৃতজ্ঞতা প্রকাশে বাধিত করবেন।\u003Cbr /\u003E\n\u003Cbr /\u003E\nচতুর্থ শ্রেণির শিক্ষার্থীদের পক্ষে\u003Cbr /\u003E\nআপনার অনুগত\u003Cbr /\u003E\nমৌমিতা রায়\u003Cbr /\u003E\nরোল: ১\u003C/div\u003E\n\n\u003Cdiv\u003E&nbsp;\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745659,
+      "value": {
+        "options": [],
+        "question": "বিনা বেতনে অধ্যয়নের সুযোগ লাভের জন্য প্রধান শিক্ষকের কাছে আবেদনপত্র।",
+        "solution": "\u003Cdiv\u003E৭ জানুয়ারি ২০২৫\u003Cbr /\u003E\nপ্রধান শিক্ষক\u003Cbr /\u003E\nখুলনা পাবলিক স্কুল, খুলনা\u003Cbr /\u003E\nবিষয়: বিনা বেতনে অধ্যয়নের সুযোগ চেয়ে আবেদন।\u003Cbr /\u003E\nজনাব\u003Cbr /\u003E\nবিনীত নিবেদন এই যে, আমি আপনার বিদ্যালয়ের চতুর্থ শ্রেণির একজন শিক্ষার্থী। আমার বাবা একজন ভূমিহীন কৃষক। আমাদের পরিবারের সদস্য সংখ্যা সাতজন। বাবাই একমাত্র উপার্জনকারী। আমার বড়ো ভাই দশম শ্রেণির শিক্ষার্থী। ছোটো দুই ভাই সরকারি প্রাথমিক বিদ্যালয়ের শিক্ষার্থী। যেখানে সংসারের নিত্য প্রয়োজনীয় দ্রব্য জোগাতেই কষ্ট হয়, সেখানে আমাদের চার ভাইয়ের পড়াশোনার খরচ বহন করা বাবার পক্ষে অসাধ্য হয়ে পড়েছে।\u003Cbr /\u003E\nঅতএব, &#39;জনাবের নিকট নিবেদন, আমার শিক্ষার পথ সুগম করতে আমাকে আপনার বিদ্যালয়ে বিনা বেতনে পড়ার সুযোগ দিয়ে বাধিত করবেন।\u003Cbr /\u003E\n\u003Cbr /\u003E\nনিবেদক\u003Cbr /\u003E\nআপনার একান্ত অনুগত ছাত্র\u003Cbr /\u003E\nজামিল হক\u003Cbr /\u003E\nশ্রেণি: চতুর্থ\u003Cbr /\u003E\nরোল: ৫\u003C/div\u003E\n\n\u003Cdiv\u003E&nbsp;\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13405&grade=7&lesson=13406&per_page=200&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13405&grade=7&lesson=13406&per_page=200&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13405&grade=7&lesson=13406&per_page=200&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}

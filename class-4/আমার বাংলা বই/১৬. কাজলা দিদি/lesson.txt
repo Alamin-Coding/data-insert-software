@@ -1,0 +1,4625 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 744887,
+      "value": {
+        "options": [],
+        "question": "মাথা",
+        "solution": "মস্তক",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744888,
+      "value": {
+        "options": [],
+        "question": "বাঁশবাগান",
+        "solution": "গ্রামটির পেছন দিকে বাঁশবাগান আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744889,
+      "value": {
+        "options": [],
+        "question": "পুকুর",
+        "solution": "আমাদের বাড়িতে একটি পুকুর আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744890,
+      "value": {
+        "options": [],
+        "question": "একলা",
+        "solution": "সে একলা বসে আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744891,
+      "value": {
+        "options": [],
+        "question": "বাঁশবাগানের মাথার উপর চাঁদ উঠেছে ওই\u003Cbr\u003E\nএমন সময় মাগো আমার কাজলা দিদি কই\u003Cbr\u003E\nবেড়ার ধারে পুকুর পাড়ে ঝিঁঝিঁ ডাকে ঝোঁপে ঝাড়ে",
+        "solution": "\u003Cdiv\u003Eবাঁশবাগানের মাথার উপর চাঁদ উঠেছে ওই\u003Cbr /\u003E\nএমন সময়, মাগো, আমার কাজলা দিদি কই?\u003Cbr /\u003E\nবেড়ার ধারে, পুকুর পাড়ে ঝিঁঝিঁ ডাকে ঝোঁপে-ঝাড়ে;\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744892,
+      "value": {
+        "options": {
+          "ক": "শোবার ঘরে",
+          "খ": "কাছারি ঘরে",
+          "গ": "নতুন ঘরে",
+          "ঘ": "দিদির ঘরে"
+        },
+        "question": "'কাজলা দিদি' কবিতায় পুতুলের বিয়ে কোথায় হবে?",
+        "solution": "গ. নতুন ঘরে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744893,
+      "value": {
+        "options": {
+          "ক": "ভূঁইচাঁপা",
+          "খ": "শিউলি",
+          "গ": "বকুল",
+          "ঘ": "দূর্বা ঘাস"
+        },
+        "question": "'কাজলা দিদি' কবিতায় খুকি মাকে কী মাড়াতে নিষেধ করেছে?",
+        "solution": "ক. ভূঁইচাঁপা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744894,
+      "value": {
+        "options": [],
+        "question": "ন্দ্র",
+        "solution": "ন + দ + ্র (র-ফলা), চন্দ্র",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744895,
+      "value": {
+        "options": [],
+        "question": "শোলক",
+        "solution": "ছন্দে ছন্দে শোলক পড়ি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744895,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744896,
+      "value": {
+        "options": [],
+        "question": "জোনাই",
+        "solution": "রাতের বেলায় জোনাই জ্বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744896,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744897,
+      "value": {
+        "options": [],
+        "question": "দিন",
+        "solution": "রাত",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744897,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744898,
+      "value": {
+        "options": [],
+        "question": "কখন কাজলা দিদির কথা বেশি মনে পড়ে?",
+        "solution": "আকাশে চাঁদ উঠে জোছনা ছড়ালে, জোনাকিরা থোকায় থোকায় লেবু গাছের তলে জ্বলে উঠলে কাজলা দিদি ছোট বোনটিকে শ্লোক শোনাত। তাই যখন চাঁদ ওঠে, পুকুর ধারে লেবু গাছের তলে থোকায় থোকায় জোনাকি জ্বলে তখন কাজলা দিদির কথা তার বেশি মনে পড়ে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744898,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744899,
+      "value": {
+        "options": [],
+        "question": "আঁচল",
+        "solution": "শাড়ির প্রান্ত ভাগ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744900,
+      "value": {
+        "options": [],
+        "question": "ঝিঁঝি",
+        "solution": "নিশাচর ছোটো পতঙ্গ, ঝিল্লি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744901,
+      "value": {
+        "options": [],
+        "question": "_____ ফুলে ফুলে ভরে আছে আমাদের বাগান।",
+        "solution": "\u003Cdiv\u003Eশিউলি\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744902,
+      "value": {
+        "options": [],
+        "question": "আসা",
+        "solution": "যায়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744903,
+      "value": {
+        "options": [],
+        "question": "দিদি",
+        "solution": "বোন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744904,
+      "value": {
+        "options": {
+          "ক": "বাঁশবাগানে",
+          "খ": "নেবুর তলে",
+          "গ": "বেড়ার ধারে",
+          "ঘ": "ঝোঁপে-ঝাড়ে"
+        },
+        "question": "কোথায় থোকায় থোকায় জোনাক জ্বলে?",
+        "solution": "খ. নেবুর তলে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744905,
+      "value": {
+        "options": {
+          "ক": "দাদাকে",
+          "খ": "বাবাকে",
+          "গ": "মাকে",
+          "ঘ": "দিদিকে"
+        },
+        "question": "'কাজলা দিদি' কবিতায় খাবার খেতে এসে খুকি কাকে ডাকে?",
+        "solution": "ঘ. দিদিকে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744906,
+      "value": {
+        "options": {
+          "ক": "দাদা",
+          "খ": "বাবা",
+          "গ": "মা",
+          "ঘ": "কাজলা দিদি"
+        },
+        "question": "'কাজলা দিদি' কবিতায় ছোট্ট বোনটির সারাক্ষণের সাথি ছিল কে?",
+        "solution": "ঘ. কাজলা দিদি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744907,
+      "value": {
+        "options": [],
+        "question": "অত্যধিক সাহস আছে এমন",
+        "solution": "দুঃসাহসী",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744908,
+      "value": {
+        "options": [],
+        "question": "যা লোপ পেয়েছে",
+        "solution": "বিলুপ্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744909,
+      "value": {
+        "options": [],
+        "question": "নেবু",
+        "solution": "লেবু।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744909,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744910,
+      "value": {
+        "options": [],
+        "question": "কাজলা দিদি কোথায় গেছে?",
+        "solution": "কাজলা দিদি এ পৃথিবীর মায়া ত্যাগ করে চিরকালের জন্য না ফেরার দেশে চলে গেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744910,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744911,
+      "value": {
+        "options": [],
+        "question": "পুতুলের বিয়ের সময় দিদির কথা মনে পড়ে কেন?",
+        "solution": "ছোট বোনটির সারাক্ষণের খেলার সঙ্গী ছিল তার কাজলা দিদি। দিদি তাকে পুতুল বানিয়ে দিত। পুতুলের বিয়ে দিয়ে দিত। তাই পুতুলের বিয়ের সময় দিদির কথা ছোট বোনটির মনে পড়ে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744911,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744912,
+      "value": {
+        "options": [],
+        "question": "আমিও নাই, দিদিও নাই, কেমন মজা হবে- এ কথা বলে কী বোঝানো হয়েছে?",
+        "solution": "কাজলা দিদি মৃত্যুবরণ করে এ পৃথিবী থেকে চলে গেছে। কিন্তু তার ছোট্ট বোনটি তা জানে না। তাই দিদিকে না দেখতে পেয়ে মায়ের কাছে বারবার সে দিদির কথা জানতে চায়। দিদির কথা বললেই মা আঁচলে মুখ লুকান। ছোট্ট বোনটি এর কোনো মানে বোঝে না। তাই সে মনে করে দিদি বোধহয় কোথাও লুকিয়ে আছে। সেও দিদির মতো লুকাতে চায়। দিদির মতো সেও যদি লুকায় তখন তার মায়ের কেমন লাগবে, এ চরণটি দ্বারা তাই বোঝানো হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744912,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744913,
+      "value": {
+        "options": [],
+        "question": "ডালিম গাছের ফল ছিঁড়তে বারণ করেছে কেন?",
+        "solution": "ডালিম গাছ ফলে ভরে উঠেছে। বুলবুলি পাখি ডালিম গাছের ডালের ফাঁকে লুকিয়ে আছে। দিদি এ সবকিছু পছন্দ করত। তাই খুকি ডালিম গাছের ফল ছিঁড়তে মাকে বারণ করেছে যাতে বুলবুলি পাখি উড়ে না যায়। কারণ বুলবুলি উড়ে গেলে দিদি রাগ করতে পারে বলে সে মনে করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744913,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744914,
+      "value": {
+        "options": [],
+        "question": "কবি ও কবিতার নামসহ 'কাজলা দিদি' কবিতার প্রথম ৮ লাইন লেখ:",
+        "solution": "\u003Cdiv style=\"text-align: center;\"\u003E\u003Cstrong\u003Eকাজলা দিদি\u003Cbr /\u003E\nযতীন্দ্রমোহন বাগচী\u003C/strong\u003E\u003Cbr /\u003E\n\u003Cbr /\u003E\nবাঁশবাগানের মাথার উপর চাঁদ উঠেছে ওই\u003Cbr /\u003E\nমাগো, আমার শোলক-বলা কাজলা দিদি কই?\u003Cbr /\u003E\nপুকুর ধারে, নেবুর তলে থোকায় থোকায় জোনাই জ্বলে,\u003Cbr /\u003E\nফুলের গন্ধে ঘুম আসে না, একলা জেগে রই;\u003Cbr /\u003E\nমাগো, আমার কোলের কাছে কাজলা দিদি কই?\u003Cbr /\u003E\nসেদিন হতে দিদিকে আর কেনই-বা না ডাকো,\u003Cbr /\u003E\nদিদির কথায় আঁচল দিয়ে মুখটি কেন ঢাকো?\u003Cbr /\u003E\nখাবার খেতে আমি যখন দিদি বলে ডাকি, তখন,\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 51,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 51,
+        "name": "কবিতা",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744915,
+      "value": {
+        "options": [],
+        "question": "খুকি একলা জেগে থাকে কেন?",
+        "solution": "কাজলা দিদির সাথে খুকি ঘুমাত। দিদি তাকে শোলক বলে শোনাত। কিন্তু পাশে দিদি না থাকায় বাঁশবাগান, চাঁদ, পুকুর ধার, নেবুর তলের জোনাক, ফুলের গন্ধ তাকে বিচলিত করে। আসলে দিদি না থাকায় খুকি একলা জেগে আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744916,
+      "value": {
+        "options": [],
+        "question": "ও-ঘর থেকে কেন আর দিদি আসে না?",
+        "solution": "খুকি খাবার খেতে এসে দিদিকে ডাকলে ও-ঘর থেকে দিদি আসে না। কারণ দিদি চিরদিনের জন্য তাদের ছেড়ে না ফেরার দেশে চলে গেছে অর্থাৎ মারা গেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744917,
+      "value": {
+        "options": [],
+        "question": "মায়ের নীরব থাকার কারণটি ব্যাখ্যা কর।।",
+        "solution": "মায়ের নীরব থাকার কারণ হলো অপরিসীম বেদনা। ছোটো বোনটির সারাক্ষণের সাথি কাজলা দিদি চিরতরে না ফেরার দেশে চলে গেছে। বোনটি না জেনে, না বুঝে বারবার তাকে খুঁজছে। এতে করে মায়ের বেদনা ও শোক আরও বেড়ে যাচ্ছে। দিদির মরে যাওয়ার কথা মা তাকে বোঝাতে পারছেন না। মেয়ে হারানোর বেদনা তাকে ব্যথিত করছে। তাই মা অপরিসীম বেদনায় নীরব থাকছেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744918,
+      "value": {
+        "options": [],
+        "question": "জ্বলে",
+        "solution": "নেভে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744919,
+      "value": {
+        "options": [],
+        "question": "রাত",
+        "solution": "দিন",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744920,
+      "value": {
+        "options": [],
+        "question": "চাঁদ",
+        "solution": "চন্দ্র",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744921,
+      "value": {
+        "options": [],
+        "question": "ফুল",
+        "solution": "পুষ্প",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744922,
+      "value": {
+        "options": [],
+        "question": "গন্ধ",
+        "solution": "ঘ্রাণ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744923,
+      "value": {
+        "options": [],
+        "question": "বুলবুলি",
+        "solution": "বুলবুলি পাখির মাথায় কালো ঝুঁটি আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744924,
+      "value": {
+        "options": {
+          "ক": "আলোক লতায়",
+          "খ": "ভুঁইচাঁপায়",
+          "গ": "শিউলি ফুলে",
+          "ঘ": "ঘাসে"
+        },
+        "question": "'কাজলা দিদি' কবিতায় শিউলি গাছের তল কীসে ভরে আছে?",
+        "solution": "খ. ভুঁইচাঁপায়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744925,
+      "value": {
+        "options": {
+          "ক": "আজ",
+          "খ": "পরশু",
+          "গ": "কাল",
+          "ঘ": "রবিবার"
+        },
+        "question": "'কাজলা দিদি' কবিতায় পুতুলের বিয়ে কবে হবে?",
+        "solution": "গ. কাল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744926,
+      "value": {
+        "options": {
+          "ক": "আম",
+          "খ": "জাম",
+          "গ": "ডালিম",
+          "ঘ": "আতা"
+        },
+        "question": "'কাজলা দিদি' কবিতায় কোন গাছের ডালে বুলবুলি লুকিয়ে থাকে?",
+        "solution": "গ. ডালিম",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744927,
+      "value": {
+        "options": {
+          "ক": "কলজ্জায়",
+          "খ": "রাগে",
+          "গ": "ক্ষোভে",
+          "ঘ": "শোকে"
+        },
+        "question": "মা আঁচল দিয়ে মুখ ঢাকেন কেন?",
+        "solution": "ঘ. শোকে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744928,
+      "value": {
+        "options": {
+          "ক": "ময়না",
+          "খ": "বুলবুলি",
+          "গ": "টিয়া",
+          "ঘ": "ঘুঘু"
+        },
+        "question": "'কাজলা দিদি' কবিতায় ডালিম গাছের ডালে কোন পাখি লুকিয়ে থাকে?",
+        "solution": "খ. বুলবুলি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744929,
+      "value": {
+        "options": {
+          "ক": "ঝোঁপে-ঝাড়ে",
+          "খ": "বাঁশবাগানে",
+          "গ": "নেবুর তলে",
+          "ঘ": "গাছের ফাঁকে"
+        },
+        "question": "'কাজলা দিদি' কবিতায় ঝিঁঝিঁ কোথায় ডাকে?",
+        "solution": "ক. ঝোঁপে-ঝাড়ে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744930,
+      "value": {
+        "options": {
+          "ক": "কাকা",
+          "খ": "দাদু",
+          "গ": "বাবা",
+          "ঘ": "দিদি"
+        },
+        "question": "'কাজলা দিদি' কবিতায় ছোট্ট বোনটিকে শোলক বলে শোনাত কে?",
+        "solution": "ঘ. দিদি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744931,
+      "value": {
+        "options": [],
+        "question": "মমতা আছে যে নারীর",
+        "solution": "মমতাময়ী",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744932,
+      "value": {
+        "options": [],
+        "question": "শুয়ে আছে এমন",
+        "solution": "শায়িত",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744933,
+      "value": {
+        "options": [],
+        "question": "ন্ধ",
+        "solution": "ন + ধ, অন্ধ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744934,
+      "value": {
+        "options": [],
+        "question": "ট্ট",
+        "solution": "ট + ট, ছোট্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744843,
+      "value": {
+        "options": [],
+        "question": "শোলক",
+        "solution": "ছড়া, ছোট পদ, শ্লোক।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744843,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744844,
+      "value": {
+        "options": [],
+        "question": "জোনাই",
+        "solution": "জোনাকি পোকা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744844,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744845,
+      "value": {
+        "options": [],
+        "question": "দিদি",
+        "solution": "বড় বোন, আপা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744845,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744846,
+      "value": {
+        "options": [],
+        "question": "মাড়াস নে",
+        "solution": "পা দিয়ে পিষে না যাওয়ার নির্দেশ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744846,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744847,
+      "value": {
+        "options": [],
+        "question": "ভূঁইচাঁপা",
+        "solution": "ভূঁইচাঁপা ফুল দেখতে খুব সুন্দর।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744847,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744848,
+      "value": {
+        "options": [],
+        "question": "মাড়াস নে",
+        "solution": "করিম ছেলেগুলোকে বলল, ছোট ফুলগাছগুলো মাড়াস নে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744848,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744849,
+      "value": {
+        "options": [],
+        "question": "ঢাকা",
+        "solution": "খোলা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744849,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744850,
+      "value": {
+        "options": [],
+        "question": "খুকি মাকে কেন শিউলি ফুলের গাছের নিচে সাবধানে যেতে বলেছে?",
+        "solution": "ছোট বোনটি বুঝতে পারে না হঠাৎ করে তার দিদি কোথায় চলে গেছে। দিদিকে ছাড়া তার কিছুই ভালো লাগে না। এদিকে শিউলি গাছের তলা ভূঁইচাঁপা ফুলে ভরে গেছে। মা যেন জল আনতে গিয়ে ভূঁইচাঁপা না মাড়ায়, পাখিকে উড়িয়ে না দেয় সেজন্য খুকি মাকে শিউলি ফুলের গাছের নিচ দিয়ে সাবধানে যেতে বলেছে। কারণ সে মনে করে দিদি এসে এসব শুনলে খুব রাগ করবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744850,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744851,
+      "value": {
+        "options": [],
+        "question": "খাবার খেতে এসে খুকি দিদিকে ডাকে, কিন্তু মা কেন ডাকেন না?",
+        "solution": "খাবার খেতে এসে খুকি দিদিকে ডাকে, কিন্তু মা তাকে ডাকেন না। কারণ মা জানেন, তার মেয়ে চিরদিনের জন্য না ফেরার দেশে চলে গেছে। খুকি তা জানে না, বোঝেও না। তাই খুকি দিদিকে ডাকে, কিন্তু মা ডাকেন না।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744852,
+      "value": {
+        "options": [],
+        "question": "খুকি কাজলা দিদিকে খুঁজছে কেন?",
+        "solution": "খুকি কাজলা দিদিকে ছাড়া নিঃসঙ্গ বোধ করছে বলে তার দিদিকে খুঁজছে। খুকির সারাক্ষণের সাথি ছিল ওই দিদি। একলা ঘুমাতে গিয়ে সে জেগে থাকছে, ঘুম আসছে না; খেতে বসেও দিদিকে ডাকছে, পুতুলের বিয়েতে দিদি নেই একথা সে ভাবতেই পারছে না। কিন্তু খুকি জানে না বা বোঝে না তার দিদি চিরতরে চলে গেছে, আর ফিরবে না। আসলে দিদিকে ছাড়া তার সারাক্ষণ নিঃসঙ্গ লাগে বলে খুকি বারবার দিদিকে খুঁজছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744853,
+      "value": {
+        "options": [],
+        "question": "থোকা",
+        "solution": "গোছা, গুচ্ছ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744854,
+      "value": {
+        "options": [],
+        "question": "কোল",
+        "solution": "ক্রোড়, পেট বা মধ্যভাগ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744855,
+      "value": {
+        "options": [],
+        "question": "বেড়া",
+        "solution": "বেষ্টনী, যা দিয়ে ঘেরাও করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744856,
+      "value": {
+        "options": [],
+        "question": "মাগো, আমার _____ কাজলা দিদি কই?",
+        "solution": "\u003Cdiv\u003Eশোলক-বলা\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744857,
+      "value": {
+        "options": [],
+        "question": "মা",
+        "solution": "জননী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744858,
+      "value": {
+        "options": [],
+        "question": "শোলক",
+        "solution": "ছড়া",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744859,
+      "value": {
+        "options": [],
+        "question": "ঝিঁঝিঁ",
+        "solution": "সন্ধ্যার আঁধারে ঝিঁঝিঁ ডাকছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744860,
+      "value": {
+        "options": [],
+        "question": "থোকায় থোকায়",
+        "solution": "গাছটিতে থোকায় থোকায় লিচু ধরে আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744861,
+      "value": {
+        "options": [],
+        "question": "ডালিম",
+        "solution": "আমাদের ডালিম গাছে ফুল ধরেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744862,
+      "value": {
+        "options": {
+          "ক": "পুকুর থেকে",
+          "খ": "টিউবওয়েল থেকে",
+          "গ": "নদী থেকে",
+          "ঘ": "বিল থেকে"
+        },
+        "question": "'কাজলা দিদি' কবিতায় মা কোথা থেকে জল আনবে?",
+        "solution": "ক. পুকুর থেকে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744863,
+      "value": {
+        "options": {
+          "ক": "দিন",
+          "খ": "সকাল",
+          "গ": "দুপুর",
+          "ঘ": "সন্ধ্যা"
+        },
+        "question": "'কাজলা দিদি' কবিতায় 'রাত' শব্দের বিপরীত শব্দ কোনটি?",
+        "solution": "ক. দিন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744864,
+      "value": {
+        "options": {
+          "ক": "লেবু",
+          "খ": "কমলালেবু",
+          "গ": "বাতাবি লেবু",
+          "ঘ": "আমড়া"
+        },
+        "question": "'কাজলা দিদি' কবিতায় 'নেবু' অর্থ কী?",
+        "solution": "ক. লেবু",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744865,
+      "value": {
+        "options": [],
+        "question": "পরের অধীন",
+        "solution": "পরাধীন",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744866,
+      "value": {
+        "options": [],
+        "question": "ভিন দেশে যে বাস করে",
+        "solution": "প্রবাসী",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744867,
+      "value": {
+        "options": [],
+        "question": "জ্ব",
+        "solution": "জ + ব, জ্বর",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744868,
+      "value": {
+        "options": [],
+        "question": "ক্ষ",
+        "solution": "ক + ষ, ক্ষমা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744869,
+      "value": {
+        "options": [],
+        "question": "ভূঁইচাঁপা",
+        "solution": "মাটির উপর জন্মানো ছোট চাঁপা ফুল।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744869,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744870,
+      "value": {
+        "options": [],
+        "question": "দিদি",
+        "solution": "দিদি ছোট বোনটিকে খুব ভালোবাসে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744870,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744871,
+      "value": {
+        "options": [],
+        "question": "নেবু",
+        "solution": "নেবু খাওয়া উপকারী।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744871,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744872,
+      "value": {
+        "options": [],
+        "question": "ঘুম",
+        "solution": "জাগরণ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744872,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744873,
+      "value": {
+        "options": [],
+        "question": "নতুন",
+        "solution": "পুরানো",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744873,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744874,
+      "value": {
+        "options": [],
+        "question": "জ্বলা",
+        "solution": "নেভা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744874,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744875,
+      "value": {
+        "options": [],
+        "question": "কাজলা দিদির কথা উঠলে মা আঁচল দিয়ে মুখ ঢাকেন কেন?",
+        "solution": "কাজলা দিদি মৃত্যুর মধ্য দিয়ে এ পৃথিবী থেকে চলে গেছে। আর কোনোদিনই ফিরে আসবে না। তাই কাজলা দিদির কথা উঠলে মা তার সন্তান হারানোর ব্যথা লুকাতে আঁচল দিয়ে মুখ ঢাকেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744875,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744876,
+      "value": {
+        "options": [],
+        "question": "শোলক-বলা কাজলা দিদি বলতে খুকি কী বুঝিয়েছে?",
+        "solution": "শোলক-বলা কাজলা দিদি বলতে খুকি তার গল্প বলা বড়ো বোনকে বুঝিয়েছে। ছোটো খুকির সারাক্ষণের সাথি ছিল&nbsp;কাজলা দিদি। তার বোন তাকে রিভিন্ন গল্প শোনাত। দিদির কাছে নানান গল্প শুনত বলে খুকি তার দিদিকে শোলক বলা দিদি বলেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744877,
+      "value": {
+        "options": [],
+        "question": "তল",
+        "solution": "নিচে অবস্থিত অংশ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744878,
+      "value": {
+        "options": [],
+        "question": "ঝোঁপ-ঝাড়",
+        "solution": "গুল্ম ও লতাপাতায় আচ্ছাদিত স্থান।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744879,
+      "value": {
+        "options": [],
+        "question": "বাচ্চাটি মায়ের _____ মুখ লুকিয়ে আছে।",
+        "solution": "\u003Cdiv\u003Eআঁচলে\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744880,
+      "value": {
+        "options": [],
+        "question": "আমার _____ আমাকে খুব ভালোবাসে।",
+        "solution": "\u003Cdiv\u003Eদিদি\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744881,
+      "value": {
+        "options": [],
+        "question": "নিতু আর মিতু _____ খেলছে।",
+        "solution": "\u003Cdiv\u003Eপুতুল\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744882,
+      "value": {
+        "options": [],
+        "question": "চোরটি _____ দিয়ে পালিয়ে গেল।",
+        "solution": "\u003Cdiv\u003Eফাঁকি\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744883,
+      "value": {
+        "options": [],
+        "question": "আমাদের বাড়ির গাছে অনেক _____ ধরেছে।",
+        "solution": "\u003Cdiv\u003Eনেবু\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744884,
+      "value": {
+        "options": [],
+        "question": "উপর",
+        "solution": "নিচ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744885,
+      "value": {
+        "options": [],
+        "question": "দিদি",
+        "solution": "দাদা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744886,
+      "value": {
+        "options": [],
+        "question": "প্রিয়",
+        "solution": "অপ্রিয়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-11-27T06:38:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 172297,
+      "value": {
+        "options": [],
+        "question": "কাজলা দিদির সঙ্গে ছোট্ট বোনটির সম্পর্ক কেমন এবং কেন সে তাকে মিস করছে?",
+        "chapter_id": "1346",
+        "explanation": "ব্যাখ্যা: ছোট্ট বোন কাজলা দিদির প্রতি গভীর মমতা ও স্নেহ অনুভব করে, তাই তিনি অনুপস্থিত বা হারিয়ে গেলে তাকে খুব মিস করে। ঘনিষ্ঠ সম্পর্ক ও দিদির যত্ন‑স্নেহ এবং একসাথে কাটানো স্মৃতিই মিস করার মূল কারণ।",
+        "correct_answer": "ছোট্ট বোনটি কাজলা দিদির প্রতি গভীর মমতা ও ভালোবাসা অনুভব করে এবং সে তাকে হারিয়েছে বলে মিস করছে।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-08-04T01:37:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136743,
+      "value": {
+        "options": {
+          "a": "দিদি চলে গেছে বলে।",
+          "b": "কেন সে ফিরে আসবে না।",
+          "c": "কারণ সে দিদির কথা ভুলে গেছে।",
+          "d": "দিদির বিয়ে হয়েছে।"
+        },
+        "question": "কাজলা দিদির জন্য মা কেন কাঁদেন?",
+        "solution": "সমাধান: প্রথমে পাঠ্যাংশ থেকে মা কাঁদার কারণ খুঁটিয়ে পড়ুন—মা কাঁদছেন কারণ দিদি চলে গেছে। তাই সরাসরি যে বিকল্পটি এটা বোঝায় তা হল বিকল্প a। কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a) বলছে “দিদি চলে গেছে বলে,” যা পাঠ্যের সরাসরি ব্যাখ্যার সাথে মিলে; অন্য বিকল্পগুলো (b) “ফিরে আসবে না”, (c) “দিদির কথা ভুলে গেছে”, এবং (d) “দিদির বিয়ে হয়েছে” পাঠ্যের সরাসরি কারণ হিসেবে স্বীকৃত নয়, তাই বাদ দেওয়া যায়। সুতরাং সঠিক উত্তর: a.",
+        "chapter_id": "1346",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123314,
+      "value": {
+        "options": {
+          "a": "সত্য",
+          "b": "মিথ্যা"
+        },
+        "question": "কাজলা দিদি ছোট্ট বোনটির সারাক্ষণের সাথি ছিল এবং তার চলে যাওয়া সম্পর্কে বোনটি কিছু জানে না।",
+        "solution": "সমাধান:\nপদ্ধতি: প্রদত্ত বাক্যটি দুটি উপবক্তির সংমিশ্রণ — (১) কাজলা দিদি ছোট্ট বোনটির সারাক্ষণের সাথি ছিলেন এবং (২) বোনটি কাজলার চলে যাওয়া সম্পর্কে কিছু জানেনা। একটি সংমিশ্রিত বিবৃতি সত্য হবে যখন উভয় উপবক্তি সত্য হবে। তাই আমরা প্রতিটি উপবক্তি পৃথকভাবে যাচাই করব।\n\nধাপ ১ — প্রথম উপবক্তি যাচাই:\nবর্ণনায় দেখা যায় কাজলা দিদি ছোট্ট বোনটিকে নিয়মিত সঙ্গ দিয়েছেন, প্রতিদিনের কাজ ও খেলায় তার সঙ্গে ছিলেন — অতএব প্রথম উপবক্তি সত্য।\n\nধাপ ২ — দ্বিতীয় উপবক্তি যাচাই:\nবর্ণনায় বোনটি কাজলার হঠাৎ বোঝা বা বিদায় সম্পর্কে অনবগত ছিল; সে চলে যাওয়ার কথা জানত না এবং তা থেকে চমকে যায় বা কষ্ট পায় — অতএব দ্বিতীয় উপবক্তিও সত্য।\n\nতথ্যমতে উভয় উপবক্তি সত্য হওয়ায় সম্পূর্ণ বিবৃতিটাও সত্য। \n\nউত্তর: a (সত্য)",
+        "chapter_id": "1346",
+        "explanation": "ব্যাখ্যা: গল্পে স্পষ্টভাবে বলা আছে কাজলা দিদি সবসময় ছোট্ট বোনটির সঙ্গী ছিল এবং দিদির চলে যাওয়ার কথা বোনটি জানত না, তাই উক্ত বিবৃতিটি সত্য।",
+        "correct_answer": "a"
+      },
+      "question_type_id": 4,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-25T13:38:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 4,
+        "name": "True False",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123312,
+      "value": {
+        "options": [],
+        "question": "কাজলা দিদির অনুপস্থিতির কারণে ছোট্ট বোনটি মা'র কাছে কেন বারবার প্রশ্ন করে?",
+        "solution": "সমাধান:\n\nউত্তর-প্রবেশ পদ্ধতি:\n1) প্রথমে শিশুর আচরণটি পর্যবেক্ষণ করুন — সে বারবার প্রশ্ন করছে = অপেক্ষা ও অনিশ্চয়তার লক্ষণ।\n2) শিশুর মানসিক-বুদ্ধিবৃত্তিক বিকাশ বিবেচনা করুন — ছোট শিশুরা এখনও যে ব্যক্তি অনুপস্থিত তাঁদের স্থায়িত্ব বা অনুপস্থিতির কারণ পুরোপুরি বুঝতে পারে না।\n3) আচরণ ও বিকাশের নীতিগুলো প্রয়োগ করে বিশ্লেষণ করুন — সংযুক্তি (attachment) ও অস্পষ্টতার কারণে সে প্রশ্ন করছে।\n\nধাপে ধাপে যুক্তি ও ব্যাখ্যা:\n1. সংযুক্তি ও নিরাপত্তা: ছোট বোন কাজলা দিদির সঙ্গে ঘন সম্পর্ক গড়ে তুলেছে; যখন দিদি নেই, তখন সে নিরাপত্তাহীনতা অনুভব করে এবং সেই নিশ্চয়তা ফিরে পেতে বারবার জিজ্ঞেস করে।  \n2. বস্তুর স্থায়িত্ব (object permanence): বিকাশগতভাবে ছোট শিশুরা সমস্ত লোক বা বস্তু সর্বদা থেকে যায় — কিন্তু যে বয়সে তারা পুরোপুরি বুঝতে পারে না যে দিদি কোথায় গেলেন এবং কখন ফিরবেন; তাই অনুপস্থিতি ঠিকভাবে উপলব্ধি করতে পারে না।  \n3. অপেক্ষা ও অনিশ্চয়তা: দিদি আগে নিয়মিত উপস্থিত থাকতেন; এখন অনুপস্থিত থাকলে শিশুর মন মনে করে তিনি ফিরবেন, তাই বারবার মায়ের কাছে খোঁজ করছে — কখন দেবেন, কোথায় আছেন ইত্যাদি জানতে চায়।  \n4. ফলস্বরূপ, তার বারবার প্রশ্ন করা হল দিদির জন্য অপেক্ষা করা এবং দিদির অনুপস্থিতি বোঝার অনুপস্থিতি বা সীমাবদ্ধ বোঝার মিলিত ফল।\n\nসংক্ষিপ্ত উদাহরণ (প্রাসঙ্গিক হলে):\n- যদি দিদি সকালে স্কুল/কাজে চলে গিয়েছিলেন এবং সন্ধ্যায়ও না ফিরলে, ছোট বোন মায়ের কাছে বারবার জিজ্ঞেস করবে, “কী হয়েছে দিদিকে? ওটা কখন ফিরবে?” — এতে দেখা যায় সে অপেক্ষা করছে এবং অনুপস্থিতি বুঝতে পারেনি।\n\nউপসংহার:\nছোট্ট বোনটি বারবার প্রশ্ন করে কারণ সে দিদির জন্য অপেক্ষা করছে এবং দিদির অনুপস্থিতি পুরোপুরি বুঝতে পারছে না—এটি সংযুক্তি ও বস্তুর স্থায়িত্ব সম্পর্কিত বিকাশগত ও আবেগগত প্রতিক্রিয়া।",
+        "chapter_id": "1346",
+        "explanation": "কারণ সে দিদির জন্য অপেক্ষা করছে এবং দিদির অনুপস্থিতিটি বুঝতে পারছে না; ছোট শিশুরা সময় ও অনুপস্থিতি সম্পর্কে বোঝাপড়া কম থাকায় পরিচিত কারো না থাকলে বারবার জিজ্ঞেস করে নিশ্চিত হতে চায়।",
+        "correct_answer": "কারণ সে দিদির জন্য অপেক্ষা করছে এবং তার অনুপস্থিতি বুঝতে পারছে না।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-25T13:38:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123306,
+      "value": {
+        "options": {
+          "a": "মা থেকে খাবার চেয়ে",
+          "b": "মায়ের কাছে দিদির জন্য অপেক্ষা করে",
+          "c": "মা থেকে তার নতুন জামা চায়",
+          "d": "মায়ের কাছে দিদির অভাব বোঝাতে"
+        },
+        "question": "কাজলা দিদির অনুপস্থিতিতে খুকি তার মায়ের কাছে কীভাবে সাহায্য খোঁজে?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নটি বলছে কাজলা দিদির অনুপস্থিতিতে খুকি কীভাবে সাহায্য খোঁজে — তাই আমরা খুকির আচরণ বা কথাবার্তা খুঁজব।  \nStep 2: বিকল্পগুলো পর্যলোচনা করে দেখা যায় \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (\"মায়ের কাছে দিদির জন্য অপেক্ষা করে\") সরাসরি দিদি না থাকায় মায়ের কাছে তার জন্য অপেক্ষা বা খোঁজ নেয়ার অর্থ বহন করে।  \nStep 3: তাই সঠিক উত্তর হলো (b) — মায়ের কাছে দিদির জন্য অপেক্ষা করে। অন্যগুলো ভুল, কারণ (a) খাবারের আবেদন, (c) নতুন জামা চাওয়া, (d) শুধু দিদির অভাব বোঝানো—এইগুলো অনুপস্থিতির মুহূর্তে সরাসরি সাহায্য চাওয়া বা অপেক্ষার মত কার্যক্রম নির্দেশ করে না।",
+        "chapter_id": "1346",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123307,
+      "value": {
+        "options": {
+          "a": "মা খুকিকে কখনো শাস্তি দেয় না",
+          "b": "কাজলা দিদির অভাব ঘুরেফিরে খুকির মনে আসে",
+          "c": "খুকি কখনো মা'কে ভুলতে পারে না",
+          "d": "মায়ের আদর ছাড়া খুকি বাড়িতে একা থাকে"
+        },
+        "question": "মায়ের সঙ্গে কাজলার সম্পর্ক কীভাবে খুকির জীবনে প্রভাব ফেলে?",
+        "solution": "সমাধান:\nপ্রশ্নে মূল আলোচ্য বিষয় হলো মায়ের সঙ্গে কাজলার সম্পর্কের মানসিক প্রভাব—এটি খুকির অনুভব ও স্মৃতিতে কেমন প্রভাব ফেলে। ধাপে ধাপে বিবেচনা করলে: প্রথমত, কাজলার সঙ্গে মায়ের সম্পর্ক যদি কাজলার জন্য দিদি-সদৃশ উপস্থিতির অভাব তৈরি করে, তাহলে খুকি বারবার দিদির অভাব অনুভব করবে—এটাই বিকল্প b-তে বলা হয়েছে এবং সরাসরি খুকির জীবনে প্রভাবের কথা বলে। অন্য অপশনগুলো অপ্রাসঙ্গিক বা অতিরঞ্জিত: a (মা কখনো শাস্তি দেয় না) সম্পর্কের প্রভাব নয়, c (খুকি কখনো মা'কে ভুলতে পারে না) অত্যন্ত চরম সার্বজনীন দাবি এবং প্রশ্নের নির্দিষ্ট প্রেক্ষাপটের সমর্থন নেই, d (মায়ের আদর ছাড়া খুকি বাড়িতে একা থাকে) বিষয়টিকে ভুলভাবে উপস্থাপন করে। তাই যুক্তিসঙ্গত উত্তর হলো b।",
+        "chapter_id": "1346",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123308,
+      "value": {
+        "options": {
+          "a": "কারণ সে পুতুল বিয়ে নিয়ে চিন্তিত",
+          "b": "কারণ তার মা কাঁদছে",
+          "c": "কারণ সে খাবার খেতে পারছে না",
+          "d": "কারণ কাজলা দিদি তাকে ভালোবাসে"
+        },
+        "question": "কাজলা দিদির অনুপস্থিতিতে খুকি কেন একা থাকায় কষ্ট পায়?",
+        "solution": "সমাধান:\n1. প্রশ্নে বলা হয়েছে কাজলা দিদি অনুপস্থিত থাকায় খুকি কষ্ট পায় — পাঠ থেকে জানা যায় খুকি পুতুলের বিয়ে নিয়ে চিন্তিত ও দিদির সাহায্য চাইছিল। তাই তার একা থাকা ও পুতুলের বিয়ের চিন্তাই মূল কারণ।\n2. তাই সঠিক উত্তর হলো a (কারণ সে পুতুল বিয়ে নিয়ে চিন্তিত)।\n3. অন্যান্য বিকল্পগুলো ভুল কারণ: b (তার মা কাঁদছে) বা c (সে খাবার খেতে পারছে না) পাঠে উল্লেখিত নয়, আর d (কাজলা দিদি তাকে ভালোবাসে) সত্য হলেও দিদির ভালোবাসাই খুকির কষ্টের সোজাসুজি কারণ নয় — মূল কারণ পুতুলের বিয়ে নিয়ে তার চিন্তা।",
+        "chapter_id": "1346",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123309,
+      "value": {
+        "options": {
+          "a": "কাজলা দিদি তাকে পড়াতে আসবে",
+          "b": "কাজলা দিদি তার বন্ধু",
+          "c": "কাজলা দিদি তাকে খেলতে দেখবে",
+          "d": "কাজলা দিদি পুতুল বিয়েতে তাকে সাহায্য করবে"
+        },
+        "question": "খুকি কাজলা দিদির জন্য কেন অপেক্ষা করে?",
+        "solution": "সমাধান: টেক্সট থেকে দেখা যায় খুকি বিশেষ কোনো কাজের জন্য অপেক্ষা করছে — সেই কাজটি হলো পুতুলের বিয়ে এবং কাজলা দিদি সেখানে সাহায্য করবে, তাই সঠিক উত্তর d। প্রথম ধাপ: প্রশ্নের মূল বাক্যগুলো থেকে “পুতুল বিয়ে” বা সাহায্যের নির্দেশ খুঁজে বের করা; দ্বিতীয় ধাপ: এনার অর্থ হলো খুকি সরাসরি মত কিংবা কার্যত সাহায্যের জন্য অপেক্ষা করছে। অন্য অপশনগুলো ভুল কারণ a (পড়াতে আসা), b (বন্ধু হওয়া) ও c (খেলা দেখার জন্য আসা) — এগুলোর জন্য টেক্সটে কোন সপোর্টিং তথ্য নেই, বরং স্পষ্টভাবে সাহায্য করার জন্য অপেক্ষা করার বর্ণনা আছে।",
+        "chapter_id": "1346",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123310,
+      "value": {
+        "options": {
+          "a": "আনন্দ",
+          "b": "দুঃখ",
+          "c": "রাগ",
+          "d": "ভয়"
+        },
+        "question": "কাজলা দিদির কথা মনে পড়লে খুকির মনে কোন অনুভূতি আসে?",
+        "solution": "সমাধান:\nধারণা ও পাঠ্যের প্রেক্ষাপট থেকে বোঝা যায় যে কাজলা দিদিকে খুকি মনে করলে তিনি কোনো আনন্দজনক স্মৃতি নয়, বরং বেদনা বা নষ্ট হওয়া সম্পর্কের কথা মনে করে দুর্দশা অনুভব করে। তাই সঠিক উত্তর হল b — দুঃখ। অন্যান্য বিকল্পগুলো (আনন্দ, রাগ, ভয়) পাঠ্যের বর্ণনার সাথে মেলে না, তাই বাতিল।",
+        "chapter_id": "1346",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 114627,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): কবিতার প্রধান চরিত্র কারা এবং তাদের সম্পর্ক কী?",
+          "খ": "(অনুধাবন): কাজলা দিদির অনুপস্থিতি ছোট্ট বোনটির ওপর কিরকম প্রভাব ফেলে?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): দিদির ভালোবাসার গুরুত্ব সম্পর্কে আলোচনা করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): পরিবারের সদস্যদের সম্পর্ককে আরও দৃঢ় করতে কী পদক্ষেপ গ্রহণ করা যেতে পারে তা প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: কবিতাটিতে কাজলা দিদির কথা তুলে ধরা হয়েছে, যে দিদি চলে যাওয়ার পর ছোট্ট বোনটি তার জন্য অপেক্ষা করে। দিদির ভালোবাসা ও মমতা তাকে গভীরভাবে প্রভাবিত করে। ",
+        "solution": "সমাধান:\n\nপদ্ধতি ও দৃষ্টিকোণ: প্রথমে উদ্ধৃতির থেকে প্রধান তথ্যগুলো বের করা — চরিত্র, সম্পর্ক ও আবেগগত প্রভাব — তারপর প্রতিটি প্রশ্নের জন্য যুক্তি ও বাস্তব উদাহরণ দিয়ে সংক্ষিপ্ত কিন্তু সুসংগঠিত উত্তর দেওয়া হবে। নিচে ধাপে ধাপে উত্তর দিলো হলো।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কবিতার প্রধান চরিত্র কারা এবং তাদের সম্পর্ক কী?\nউত্তর ও ব্যাখ্যা:\n- প্রধান চরিত্র: কাজলা দিদি এবং ছোট্ট বোন।\n- সম্পর্ক: তারা বোন—বোনের সম্পর্ক; কাজলা দিদি বড় হওয়ায় যত্নশীল, স্নেহশীল ও রক্ষাকবচধরের মতো আচরণ করে। ছোট্ট বোন দিদির ওপর নির্ভরশীল এবং দিদির মমতা ও ভালোবাসা তাকে নিরাপত্তা ও আবেগীয় সমর্থন দেয়। সংক্ষেপে — দিদির মা-মতো স্নেহ একজন বড়ভাই/বোনের রোল মডেল ও প্রেরণা হিসেবে কাজ করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কাজলা দিদির অনুপস্থিতি ছোট্ট বোনটির ওপর কিরকম প্রভাব ফেলে?\nউত্তর ও ব্যাখ্যা:\n- মানসিক ও আবেগগত প্রভাব: ছোট্ট বোনে শূন্যতা, কষ্ট, মিস করার অনুভূতি দেখা দেয়; তিনি অপেক্ষা করে, স্মৃতিতে খোঁজ পান ও আবেগে সংবেদনশীল হন।\n- আচরণগত প্রভাব: দুশ্চিন্তা, ক্লিনজিং আচরণ (অধিক লাগা), মন-মেজাজ খিটখিটে হওয়া বা নির্জন সময়েই স্মৃতিতে ডুবে থাকা হতে পারে।\n- সম্ভাব্য ইতিবাচক প্রভাব: দিদির অনুপস্থিতি তাকে দায়িত্বশীল, সহানুভূতিশীল বা আত্মনির্ভরশীল করে তুলতে পারে—অর্থাৎ অভিজ্ঞতায় পরিণতভাবে বড় হওয়া।\n- যুক্তি: শিশুরা ধারাবাহিক স্নেহ ও উপস্থিতি থেকে নিরাপত্তাবোধ পায়; সুযোগে সেই উপস্থিতি না থাকলে অনুভূতিতে প্রভাব পড়ে। কবিতার বক্তব্য অনুযায়ী অপেক্ষা ও মমতা-বরণীয় স্মৃতি সূত্রে এই পরিবর্তনগুলো লজিক্যাল।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দিদির ভালোবাসার গুরুত্ব সম্পর্কে আলোচনা করো।\nউত্তর ও ব্যাখ্যা:\n- আবেগীয় নিরাপত্তা: দিদির ভালোবাসা ছোট্ট বোনকে মানসিক সুরক্ষা ও আত্মবিশ্বাস দেয়—এটি শিশুর মানসিক বিকাশে মৌলিক।\n- চরিত্র গঠন ও নৈতিক দিক: রোল মডেল হিসেবে কাজলা দিদির আচরণ ছোট্ট বোনকে সহমর্মিতা, ধৈর্য ও দায়িত্বশীলতা শেখায়।\n- সামাজিক বন্ধন ও সম্পর্কগত শিক্ষা: পরিবারের মধ্যে মমতা ও আন্তরিকতা বজায় রাখে; ভবিষ্যতে ভালো সম্পর্ক গড়ার ভিত্তি স্থাপন করে।\n- মানসিক স্থিতিশীলতা: কঠিন সময়ে সহনশীলতা ও মানসিক শক্তি বৃদ্ধি পায়, কারণ শিশুকে জানানো থাকে কেউ আছে যিনি সমর্থন করবেন।\n- সূত্র ও নীতিগত বিবেচনা: আত্মীয়স্নেহ ও সংযুক্তি তত্ত্ব অনুযায়ী ধারাবাহিক স্নেহ সন্তানের নিরাপদ সংযুক্তি ও ইতিবাচক সামাজিক উন্নয়ন নিশ্চিত করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পরিবারের সদস্যদের সম্পর্ককে আরও দৃঢ় করতে কী পদক্ষেপ গ্রহণ করা যেতে পারে তা প্রস্তাবনা দাও।\nউত্তর ও পরামর্শ (বাস্তব ও কার্যকরী):\n1. নিয়মিত যোগাযোগ ও সময় ব্যয় করা: প্রতিদিন ছোটখাটো কথোপকথন, সন্ধ্যা—কথা-বার্তা বা সাপ্তাহিক পরিবারের খাবার/মিটিং আয়োজন। এতে সম্পর্কের ধারাবাহিকতা সৃষ্টি হয়।\n2. সম্মান ও কৃতজ্ঞতা প্রকাশ: পারস্পরিক কৃতজ্ঞতা জানান—ধন্যবাদ বলা, কাজের স্বীকৃতি নেওয়া—এতে আত্মমর্যাদা ও সম্পর্ক শক্ত হয়।\n3. অভিব্যক্তির সুযোগ দেওয়া: অনুভূতি খোলাখুলি বলা শেখানো—কষ্ট, খুশি সব প্রকাশ করতে উৎসাহ দেওয়া।\n4. যৌথ কার্যকলাপ: মিলিতভাবে খেলাধুলা, গল্প বলা, ঘরোয়া কাজে অংশগ্রহণ—সম্পর্ক নির্মাণের সময়ভিত্তিক অভিজ্ঞতা দেয়।\n5. রীতিনীতি ও স্মৃতি রক্ষা: পারিবারিক রীতি, উৎসব পালনে সক্রিয়তা ও পুরনো স্মৃতির কথা বলা—পরস্পরের বন্ধনালে আবদ্ধ করে।\n6. আলোচনা ও সমস্যা সমাধান: দ্বন্দ্ব হলে শান্তভাবে আলোচনা করে সমাধান করা—অভিযোগ চেপে রাখার পরিবর্তে সমাধানমুখী আচরণ শেখায়।\n7. দায়িত্ব ভাগ করে নেওয়া: প্রতিটি সদস্যকে ছোট দায়িত্ব দিলে পারস্পরিক বিশ্বাস ও সহায়তার অনুভূতি বাড়ে।\n8. দূরত্ব হলে যোগাযোগ বজায় রাখা: বাইরে থাকা সদস্যদের জন্য নিয়মিত কল, চিঠি বা ভিডিও কল; শিশুদের জন্য স্মৃতিচিহ্ন পাঠানো বা ছবি শেয়ার করা।\nউদাহরণ হিসেবে: কাজলা দিদি অনুপস্থিত থাকলে ছোট্ট বোনকে নিয়মিত চিঠি বা ভিডিও কল করা এবং পরিবারের কেউ বিষয়টা নিয়ে গল্প বলে স্মৃতি রক্ষা করলে অপেক্ষা ও শূন্যতা কমতে পারে এবং সম্পর্ক মজবूत থাকবে।\n\nসংক্ষিপ্ত উপসংহার: কবিতার কেন্দ্রবিন্দু—দিদির মমতা ও তার অনুপস্থিতির প্রভাব—এগুলি পরিবারের আবেগগত বন্ধন ও ব্যক্তিগত বিকাশে অত্যন্ত গুরুত্বপূর্ন। উপরের প্রস্তাবনাগুলো প্রয়োগ করলে ঐ সম্পর্ক আরও স্থায়ী ও সহায়ক হবে।",
+        "chapter_id": "1346",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কবিতার প্রধান চরিত্র হল কাজলা দিদি এবং ছোট্ট বোন; তাদের সম্পর্ক দিদি-বোনের স্নেহভরা, যত্নশীল ও भावনাপূর্ণ বন্ধন।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দিদির অনুপস্থিতিতে ছোট্ট বোন অসহায়ত্ব, অপেক্ষা ও শূন্যতার অনুভব করে; তার দৈনন্দিন মনোভাব এবং আবেগগত স্থিতি দিদির অনুপস্থিতি নিয়ে প্রভাবিত হয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দিদির ভালোবাসা শিশুর নিরাপত্তা ও আত্মবিশ্বাস গঠনে গুরুত্বপূর্ণ ভূমিকা রাখে; এজন্য শিশুর মানসিক ও নৈতিক বিকাশে দিদির মমতা সহায়ক হয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সম্পর্ক আরও দৃঢ় করতে পরিবারকে একসাথে সময় কাটানো, খোলাখুলি কথা বলা, দৈনন্দিন কাজে একে অপরকে সহায়তা এবং অনুভূতি শ্রবণ করার দিকে মনোনিবেশ করতে হবে; নিয়মিত ছোট ভালোলাভ প্রকাশও সম্পর্ককে গভীর করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-21T12:16:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105031,
+      "value": {
+        "options": {
+          "a": "সঠিক",
+          "b": "ভুল",
+          "c": "সংশোধন প্রয়োজন",
+          "d": "আগে সঠিক ছিল"
+        },
+        "question": "বাংলাদেশের জাতীয় পাখি কাক। এই তথ্যটি কতটা সঠিক?",
+        "solution": "সমাধান:\n1. ধাপ ১: বাংলাদেশের জাতীয় পাখি হলো দোয়েল (Oriental Magpie Robin), যার বৈজ্ঞানিক নাম Copsychus saularis।  \n2. ধাপ ২: প্রদত্ত তথ্যটি — \"বাংলাদেশের জাতীয় পাখি কাক\" — ঐতিহ্যগত ও সরকারি তথ্যের সঙ্গে মিলে না, তাই সেটি ভুল।  \n3. সিদ্ধান্ত: সঠিক উত্তর হলো (b) — ভুল।  \nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (সঠিক) ভুল কারণ কাক জাতীয় পাখি নয়; \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E (সংশোধন প্রয়োজন) ও \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E (আগে সঠিক ছিল) উপযুক্ত নয় কারণ তথ্যটি কখনো সঠিক ছিল না — তাই সরাসরি \"ভুল\" নির্বাচনই যথার্থ।",
+        "chapter_id": "1346",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-16T03:52:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56574,
+      "value": {
+        "options": {
+          "a": "মা",
+          "b": "বাবা",
+          "c": "ছোট বোন",
+          "d": "দাদু"
+        },
+        "question": "কাজলা দিদির বন্ধু কন? ",
+        "solution": "সমাধান:\nStep 1: প্রশ্নে দেওয়া বিকল্পগুলো দেখা যাক — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মা, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বাবা, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ছোট বোন, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দাদু।  \nStep 2: \"বন্ধু\" বলতে সাধারণত সমবয়সী বা ঘনিষ্ঠ সম্পর্কের কেউ বোঝায়; মা, বাবা অথবা দাদু পিতৃশেষ সম্পর্কের ব্যক্তি, তারা সাধারণত \"বন্ধু\" হিসেবে বোঝানো হয় না।  \nStep 3: তাই সবচেয়ে উপযুক্ত উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ছোট বোন — সে কাজলার বন্ধু হতে পারে।  \nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ছোট বোন।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56575,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কাজলা দিদি চিরদিনের জন্য চলে গেছে।",
+        "solution": "সমাধান:\n1) বাক্যটির অর্থ যাচাই করুন — \"চিরদিনের জন্য চলে গেছে\" মানে তিনি স্থায়ীভাবে চলে গেছেন (আর ফিরবেন না)।  \n2) প্রদত্ত বিবৃতিটি সরাসরি সেই অর্থ বহন করছে, তাই বিবৃতিটি সত্য।  \n3) ফলাফল: সঠিক উত্তর হল a (True)। বিকল্প b (False) ভুল কারণ এটি ওই স্থায়িত্ব দাবিকে প্রত্যাখ্যান করে, যা মূল বাক্য থেকে প্রমাণিত নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56576,
+      "value": {
+        "options": {
+          "a": "মা",
+          "b": "ছোট বোন",
+          "c": "বাবা",
+          "d": "দাদু"
+        },
+        "question": "কাজলা দিদির জন্য অপেক্ষা করতে থাকে __________।",
+        "solution": "সমাধান: বাক্যটি পড়লে বুঝতে হয় যে খালি স্থানে সেই ব্যাক্তির নাম আসবে যিনি \"দিদি\"–র জন্য অপেক্ষা করে। অপশনগুলোর মধ্যে \"\u003Cb\u003Eছোট বোন\u003C/b\u003E\" (ব) ভুক্তিযুক্ত কারণ দিদির অপেক্ষা সাধারণত তার ছোট বোনই করে — তাই উপযুক্ত মিল পাওয়া যায়। অন্য অপশনগুলো (মা, বাবা, দাদু) গল্পের প্রেক্ষাপটে বা বাক্যের স্বাভাবিক সম্পর্ক অনুযায়ী অপেক্ষাকারী হিসেবে কম যুক্তিযুক্ত। সুতরাং সঠিক উত্তর: \u003Cb\u003Eব: ছোট বোন\u003C/b\u003E।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56577,
+      "value": {
+        "options": [],
+        "question": "কাজলা দিদির গন্ধে কেন ঘুম আসে না?",
+        "solution": "সমাধান: প্রথমে প্রশ্নের কী চিহ্ন আছে তা বোঝতে হবে—“গন্ধে ঘুম আসে না” বলতে এমন একটি তীব্র, সতেজ ও স্নায়ুবিক উত্তেজক গন্ধ বোঝায়। ধাপে ধাপে: (1) গন্ধ থেকে স্নায়ুতন্ত্র সচল হয়ে ওঠে এমন গন্ধকে খুঁজুন; (2) নেবুর (লেবুর) গন্ধ তীব্র ও সতেজ হওয়ায় মন জাগিয়ে রাখে এবং ঘুমভাঙা অবস্থায় কার্যকরী; (3) তাই উপযুক্ত উত্তর হল নেবুর গন্ধ। অন্য সাধারণ সুগন্ধি বা ফুলের গন্ধগুলি প্রশান্তিকর হওয়ার কারণে ঘুম আনতে পারে, তাই সেগুলো এখানে প্রযোজ্য নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "নেবুর গন্ধে ঘুম আসে না।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56578,
+      "value": {
+        "options": {
+          "a": "আজ",
+          "b": "কাল",
+          "c": "আগামী মাসে",
+          "d": "শুধু কাজলা দিদির কাছে"
+        },
+        "question": "পুতুলের বিয়ে কখন হবে?",
+        "solution": "সমাধান: প্রশ্নে দেওয়া বিকল্পগুলোর মধ্যে সময় নির্দেশক হিসেবে সঠিকটি হচ্ছে (b) \"কাল\"। কারণ প্রশ্নটি \"কখন\" জিজ্ঞাসা করেছে এবং (b) সরাসরি আগামীকালকে নির্দেশ করে—(a) \"আজ\" মিলছে না, (c) \"আগামী মাসে\" সময় অনেক পরে, আর (d) \"শুধু কাজলা দিদির কাছে\" একটি স্থান নির্দেশ করছে, সময় নয়। তাই সঠিক উত্তর হলো (b) \"কাল\"।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56579,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাশবাগানের মাথায় চাঁদ উঠেছে।",
+        "solution": "সমাধান: ধাপ ১: বাক্যটি একটি তথ্য-বাচক দাবি — \"বাশবাগানের মাথায় চাঁদ উঠেছে\" মানে চাঁদ বাশবাগানের ওপর দৃশ্যমানভাবে দেখা গেছে। ধাপ ২: যদি পর্যবেক্ষণ বা প্রসঙ্গ অনুযায়ী চাঁদ সত্যিই দেখা যায়, তাহলে দাবিটি সত্য। তাই সঠিক উত্তর হলো a (True); b (False) ভুল কারণ তা উক্ত পর্যবেক্ষণকে অস্বীকার করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56580,
+      "value": {
+        "options": {
+          "a": "শিউলি গাছের তলায়",
+          "b": "বাশবাগানে",
+          "c": "পুকুরে",
+          "d": "বাড়ির মধ্যে"
+        },
+        "question": "বুলবুলি কোথায় লুকিয়ে থাকে __________।",
+        "solution": "সমাধান:\nধাপ ১: বুলবুলি (ছোট গানভরা পাখি) সাধারণত ঘন ঝোপ, গাছের নিচের কোলাহলে বা শিয়া/শিউলি গাছের খোলা পাতার নিচে চাপা পড়ে লুকাতে পছন্দ করে।  \nধাপ ২: তাই দেওয়া বিকল্পগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (শিউলি গাছের তলায়) সবচেয়ে প্রাকৃতিক এবং উপযুক্ত আবাস—এটি সঠিক উত্তর।  \nধাপ ৩: অন্য বিকল্পগুলো অনুপযুক্ত কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (বাশবাগানে) সবসময়ই তাদের পছন্দ নয়, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (পুকুরে) খোলা জলভাগ হওয়ায় লুকানোর স্থানে ঠিক নয়, আর \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (বাড়ির মধ্যে) সাধারণত বুলবুলির স্বাভাবিক আশ্রয় নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56581,
+      "value": {
+        "options": [],
+        "question": "ছোট বোনটি কাজলা দিদির জন্য কেন অপেক্ষা করে?",
+        "solution": "সমাধান:\nপ্রশ্নে দেওয়া তথ্য থেকে দেখা যায় যে কাজলা দিদি অনুষ্ঠান/বাড়ি ছেড়ে গেছেন — অর্থাৎ তিনি সেখানে নেই বা চলে গেছেন। তাই ছোট বোনটি অপেক্ষা করছে কারণ সে কাজলা দিদির ফিরে আসার অপেক্ষায় আছে; কাজলা দিদি চলে গেছে বলে সে পৌঁছে না পাওয়ার কারণে অপেক্ষা করছে। অন্যান্য সম্ভাব্য উত্তর যেমন যে সে ব্যস্ত ছিল বা অসুস্থ ছিল — এগুলো প্রশ্নে দেওয়া তথ্য দ্বারা সমর্থিত নয়, তাই সঠিক উত্তর হল: \"যেহেতু কাজলা দিদি চলে গেছে।\"",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "যেহেতু কাজলা দিদি চলে গেছে।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56582,
+      "value": {
+        "options": {
+          "a": "পাড়ায়",
+          "b": "স্কুলে",
+          "c": "চিরদিনের জন্য চলে গেছে",
+          "d": "বাড়িতেই আছ"
+        },
+        "question": "কাজলা দিদি কোথায় গেছে?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি পড়ে উপলব্ধি করি যে জবাবটি কোন বিকল্পটি প্রশ্নের সাথে সরাসরি খাপ খায় তা নির্ণয় করতে হবে।  \nধাপ ২: বিকল্পগুলো পর্যবেক্ষণ করলে দেখা যায় \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (\"চিরদিনের জন্য চলে গেছে\") সরাসরি একমাত্র এমন উত্তর যা কাজলা দিদি কোথায় গেছেন—এই প্রশ্নের স্থায়ী অবস্থান সম্পর্কিত ব্যাখ্যা—দিতে পারে।  \nধাপ ৩: বাকিরা ভুল কারণ পাড়ায়, স্কুলে বা বাড়িতেই থাকা—এগুলো অস্থায়ী বা বিরতিপূর্ণ অবস্থান নির্দেশ করে এবং প্রশ্নে প্রদত্ত সঠিক উত্তর হিসেবে নয়। তাই সঠিক উত্তর হলো বিকল্প c: চিরদিনের জন্য চলে গেছে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56583,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কাজলা দিদি বারবার ফিরে আসবে।",
+        "solution": "সমাধান:\nউত্তর: b (False)\n\nকারণ: প্রশ্নের বিবৃতিটি বলে যে \"কাজলা দিদি বারবার ফিরে আসবে\" — অর্থাৎ একাধিকবার ফিরে আসার দাবি। কিন্তু প্রদত্ত তথ্য অনুযায়ী কাজলা দিদি এমনভাবে ফিরে আসবে না বা পুনরাবৃত্তি ঘটবে না, তাই ওই দাবি মিথ্যা। তাই \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (True) ভুল; সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (False)।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56584,
+      "value": {
+        "options": {
+          "a": "মা",
+          "b": "দাদু",
+          "c": "ছোট বোন",
+          "d": "বড় বোন"
+        },
+        "question": "কাজলা দিদি __________ ও ঘুম জাগে।",
+        "solution": "সমাধান:\n1. প্রথমে বাক্যের অর্থ বুঝি: \"কাজলা দিদি __________ ও ঘুম জাগে।\" এখানে দিদি (বড় বোন) আর কার সঙ্গে ঘুম জাগছে তা পূরণ করতে হবে।\n2. যে ব্যক্তি দিদির সঙ্গে ঘুম জাগবে হিসেবে লজিক্যালভাবে সঠিক উত্তর হলো ছোট বোন। তাই \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (ছোট বোন) সঠিক।\nকারণ: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (মা) এবং \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (দাদু) পিতামাতা/বৃহৎ সম্পর্ক, সাধারণভাবে \"দিদি ও মা/দাদু\" একসঙ্গে ঘুম জাগার রূপ দেখাতে কম স্বাভাবিক; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (বড় বোন) হলে বাক্যে দুইজনই বড় বোন হবে, তাই স্বাভাবিক সঙ্গী হিসেবে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (ছোট বোন)ই মানানসই।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56585,
+      "value": {
+        "options": [],
+        "question": "ছোট বোনটি মা থেকে কী জানতে চায়?",
+        "solution": "সমাধান:\nধাপ ১: পাঠ্যাংশ থেকে ছোট বোনের সরাসরি উক্তিটি শনাক্ত করা হয় — উক্তিতে সে মাকে একটি প্রশ্ন করছে।  \nধাপ ২: উক্তিতে উপস্থিত প্রশ্নকর্মী শব্দটি হচ্ছে \"কোথায়\", যা অবস্থান বা গন্তব্য সম্পর্কে জিজ্ঞাসা করে।  \nধাপ ৩: প্রশ্নে যাঁর নাম আছে সে হলেন \"কাজলা দিদি\", তাই ছোট বোনটি মা থেকে জানতে চাচ্ছিলেন \"কাজলা দিদি কোথায় গেছে।\"  \n\nকেন অন্য বিকল্পগুলো ভুল: যেসব বিকল্প সময়, খাওয়া বা স্বাস্থ্য সম্পর্কে—তাতে \"কোথায়\" বা \"কাজলা দিদি\" সংক্রান্ত কোনো উল্লেখ নেই, তাই সেগুলো উপযুক্ত নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "কাজলা দিদি কোথায় গেছে।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56586,
+      "value": {
+        "options": {
+          "a": "দিদি চলে গেছে বলে",
+          "b": "ছোট বোনের জন্য",
+          "c": "বাচ্চাদের জন্য",
+          "d": "কাজলা দিদির কথা মনে পড়ে"
+        },
+        "question": "মা কাজলা দিদির জন্য কেন কাঁদেন?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি থেকে মূল কারণ জানতে হবে — মা কাঁদার সরাসরি কারণ কী।  \nধাপ ২: বিকল্পগুলোর অর্থ মূল্যায়ন করলে দেখা যায় যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E “দিদি চলে গেছে বলে” সরাসরি দীর্ঘকাল বা স্থায়ী ক্ষতির বোধ দেখায়, যা কাঁদার প্রাথমিক কারণ হিসেবে যুক্তিযুক্ত।  \nধাপ ৩: অন্য বিকল্পগুলো অনুপযুক্ত কারণ—“ছোট বোনের জন্য” বা “বাচ্চাদের জন্য” হলে প্রশ্নে তা স্পষ্টভাবে বলা থাকত, আর “কাজলা দিদির কথা মনে পড়ে” হলে সেটা স্মৃতিতে ভিজে ওঠা, কিন্তু সরাসরি বিভ্রান্তিকর; তাই সঠিক কারণ হিসেবে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মানানসই।  \n\nসঠিক উত্তর: a (দিদি চলে গেছে বলে)",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56587,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শিউলির গন্ধে সবাই ঘুমায়।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে বলা হয়েছে \"শিউলির গন্ধে সবাই ঘুমায়\" — এখানে \"সবাই\" একটি সার্বজনীন দাবী (universal claim)।  \nধাপ ২: সাধারণ যুক্তি অনুযায়ী এমন সার্বজনীন দাবী প্রমাণের জন্য সব ব্যক্তির ক্ষেত্রে সত্য হওয়া দরকার; কিন্তু বাস্তবে মানুষের ঘুমানোর প্রতিক্রিয়া এবং গন্ধ সংবেদনশীলতা আলাদা—কেউ শিউলির গন্ধে শান্ত বা পছন্দ করতে পারে, কেউ অপ্রভাবিত থাকতে পারে, কেউ আবার ঘুমাতে পারবে না। অতএব একটি একক বিরোধী উদাহরণই দাবী ভেঙে দেয়।  \nধাপ ৩: তাই প্রথম বিকল্প (\u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E) ভুল কারণ এটি সর্বজনীনতা দাবি করে এবং প্রমাণ নেই; সঠিক উত্তর হল বিকল্প b (False)।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56588,
+      "value": {
+        "options": {
+          "a": "বিকেলে",
+          "b": "রাতে",
+          "c": "সকালবেলা",
+          "d": "মাঝরাতে"
+        },
+        "question": "কাজলা দিদির কথা মনে পড়ে __________।",
+        "solution": "সমাধান: বাক্যটির সাধারণ ও স্বাভাবিক পূর্ণতা হলো \"কাজলা দিদির কথা মনে পড়ে রাতে\"। কারণ স্মৃতিচারণা এবং অতীতের কথা ভাবা সাধারণত শান্ত ও নিস্তব্দ পরিবেশে ঘটে, যা রাতে সবচেয়ে প্রকট; এছাড়া \"মাঝরাতে\" খুব নির্দিষ্ট সময়সীমা এবং \"বিকেলে\" বা \"সকালবেলা\" এই ধরনের ভাবনাকে কম উপযুক্ত করে। তাই সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E রাতে।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56589,
+      "value": {
+        "options": [],
+        "question": "১৫ শিবালয়ী গাছের নিচে চাকরির গন্ধ কেন থাকে?",
+        "solution": "সমাধান:\n1) প্রশ্ন বিশ্লেষণ: \"শিবালয়ী গাছের নিচে চাকরির গন্ধ\" কেন থাকবে—এর কারণ খোঁজে দেখতে হবে এমন কোনো প্রাকৃতিক উৎস আছে কি না।  \n2) বাস্তবজ্ঞান ব্যবহার করে নির্ণয়: ঝিঁঝি (ব্যাঙ/ফ্রগ) সাধারণত আর্দ্র, ছায়াপূর্ণ জায়গায় বাস করে এবং শিবালয়ী গাছের নিচে এমন পরিবেশ থাকে; তাই সেখানে ঝিঁঝির ডাক শোনা যায় এবং তাদের উপস্থিতি/গন্তব্য অর্গানিক পদার্থের পদার্থকরণ বা সেচের কারণে বৈশিষ্ট্যময় দুর্গন্ধ তৈরি করে।  \nউপসংহার: সুতরাং সঠিক কারণ হলো—যেহেতু সেখানে ঝিঁঝির ডাক থাকে।  \nঅন্যান্য সম্ভাব্য কারণ (যেমন ফুলের সুগন্ধ, কেবল মাটির গন্ধ ইত্যাদি) এমন নির্দিষ্ট আর্দ্রতা ও জীবজন্তুর উপস্থিতি ব্যাখ্যা করতে পারে না, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "যেহেতু সেখানে ঝিঁঝির ডাক থাকে।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56590,
+      "value": {
+        "options": {
+          "a": "তুইট টুইট করে ডাকবে",
+          "b": "পুকুরে যাবে",
+          "c": "দাঁড়াবে অপেক্ষা করে",
+          "d": "দিদিকে ভুলে যাবে"
+        },
+        "question": "কাজলা দিদির জন্য কী করে ছোট বোন?",
+        "solution": "সমাধান: প্রথমে প্রশ্নটি মনোযোগ দিয়ে পড়লে বোঝা যায় কাজলা দিদিকে ছোট বোন কীভাবে আচরণ করছে তা জানতে বলা হয়েছে। গল্প বা প্রসঙ্গ অনুযায়ী ছোট বোন দিদির জন্য দাঁড়িয়ে অপেক্ষা করে—অর্থাৎ সঠিক উত্তর হলো c: দাঁড়াবে অপেক্ষা করে। অন্যান্য বিকল্পগুলি অনুপযুক্ত কারণ \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E তুইট টুইট করা, \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E পুকুরে যাওয়া এবং \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E দিদিকে ভুলে যাওয়া—এই সবগুলো আচরণ প্রশ্নে বর্ণিত ঘটনার সঙ্গে মেলে না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56591,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কাজলা দিদির বিয়ের কথা মনে পড়ে।",
+        "solution": "সমাধান:\n১) বাক্যের অর্থ নির্ধারণ: \"কাজলা দিদির বিয়ের কথা মনে পড়ে।\" এই বাক্যটি বলছে যে বক্তা/বক্তারা কাজলা দিদির বিয়ে সম্পর্কে স্মরণ করছেন — এটি একটি সত্য-বর্ণনামূলক দাবি।  \n২) সিদ্ধান্ত: সত্য/অমিথ্য পরীক্ষায় এই বর্ণনা স্বাভাবিকভাবে \"সত্য\" হিসেবে ধরা হয়, তাই সঠিক উত্তর হল a (True)।  \n৩) কেন b (False) ভুল: b নির্বাচন করা হলে বলা হবে স্মরণ নেই, যা মূল বাক্যের বক্তব্যের সঙ্গে বিরোধে থাকবে; তাই এটি প্রাসঙ্গিক নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56592,
+      "value": {
+        "options": {
+          "a": "অঙ্কিত",
+          "b": "সত্যি",
+          "c": "ভুল",
+          "d": "বিরক্ত"
+        },
+        "question": "মায়ের কাজলা দিদির কথা তাঁকে __________।",
+        "solution": "সমাধান: বাক্য থেকে অর্থ করা যায় মা কাজলাকে জানিয়ে দিয়েছেন যে দিদির কথা সঠিক নয়, তাই শূন্যস্থান পূরণে 'ভুল' উপযুক্ত। বিশ্লেষণ: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E 'অঙ্কিত' বাক্যের সাথে সম্পর্কহীন; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E 'সত্যি' হলে বাক্যের মানে উল্টো হত; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E 'বিরক্ত' ব্যক্তি বা অনুভব বোঝায়, কথার সত্যতা নয়। অতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (c) 'ভুল'।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56593,
+      "value": {
+        "options": [],
+        "question": "বাশবাগানে কী দেখা যায়?",
+        "solution": "সমাধান:  \nধাপ ১: প্রশ্নটি একটি সহজ ধাঁধা/বর্ণনামূলক প্রশ্ন; \"বাশবাগান\" শব্দটিকে রাতে বাঁশের মধ্যে দেখা দৃশ্য হিসাবেও নেওয়া যায়।  \nধাপ ২: বিকল্প বিশ্লেষণ: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E চাঁদ উঠেছে — রাতে বাঁশের ফাঁকে চাঁদ দেখা যায়, তাই যুক্তিযুক্ত; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সূর্য উঠেছে — সূর্য সকালে উঠে, সাধারণত এই ধাঁচের প্রশ্নে উদ্দেশ্য নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাখি দেখা যায় — সম্ভাব্য কিন্তু ধাঁধার সঠিক উত্তর হিসেবে কম প্রাসঙ্গিক।  \nঅতএব সঠিক উত্তর: চাঁদ উঠেছে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "চাঁদ উঠেছে।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56594,
+      "value": {
+        "options": {
+          "a": "বিকেলে",
+          "b": "দাঁড়িয়ে",
+          "c": "ঢাকায়",
+          "d": "কোথাও যায় না"
+        },
+        "question": "কাজলা দিদি কোথায় লুকিয়ে থাকে?",
+        "solution": "সমাধান:\n1) প্রশ্নে জিজ্ঞাসা করা হচ্ছে \"কাজলা দিদি কোথায় লুকিয়ে থাকে?\" — অর্থাৎ কোথায় থাকা বা লুকোনোর একটি স্থান নির্দেশ করতে হবে।  \n2) অপশনগুলোর মধ্যে \u003Cb\u003Eবিকেলে\u003C/b\u003E সময় নির্দেশ করে (স্থান নয়), \u003Cb\u003Eদাঁড়িয়ে\u003C/b\u003E ভঙ্গি/অবস্থান না হয়ে ক্রিয়া, এবং \u003Cb\u003Eঢাকায়\u003C/b\u003E একটি নির্দিষ্ট শহর; কিন্তু ধাঁধার যুক্তি অনুযায়ী সবচেয়ে উপযুক্ত উত্তর হল যে সে \"কোথাও যায় না\" — অর্থাৎ কোনো নির্দিষ্ট জায়গায় লুকায় না।  \n3) তাই সঠিক উত্তর হল d: কোথাও যায় না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56595,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "চাঁদ উঠলেই কাজলা দিদি আসে।",
+        "solution": "সমাধান:\n1) বাক্যটির অর্থ: \"চাঁদ উঠলেই কাজলা দিদি আসে\" মানে প্রতিবারই যখন চাঁদ ওঠে তখন কাজলা দিদি আসেন — একটি সার্বজনীন শর্ত।  \n2) সার্বজনীন বিবৃতির সত্যতা যাচাই করতে সমস্ত ঘটনা পরীক্ষা করতে হবে; তবে একটি বিপরীত উদাহরণ যথেষ্ট। যদি এমন কোনো রাত পাওয়া যায় যেদিন চাঁদ উঠেছে কিন্তু কাজলা দিদি আসেননি, তাহলে বিবৃতিটি মিথ্যা।  \n3) বাস্তবে এমন অনেক ঘটনা থাকতে পারে (চাঁদ উঠলেও কাজলা দিদি অনুপস্থিত থাকা), তাই বাক্যটি সর্বদা সত্য নয়। ফলে সঠিক উত্তর: b — False.",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7380,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7380&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7380&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7380&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 125,
+  "total": 125
+}

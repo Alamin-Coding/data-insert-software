@@ -1,0 +1,5214 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 745050,
+      "value": {
+        "options": [],
+        "question": "যাতনা",
+        "solution": "কষ্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745050,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745051,
+      "value": {
+        "options": [],
+        "question": "সুধা",
+        "solution": "মা ডাকে যত সুধা মেশানো তা আর কিছুতে নেই।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745051,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745052,
+      "value": {
+        "options": [],
+        "question": "পরান",
+        "solution": "সন্তানের দুঃখে মায়ের পরান কাঁদে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745052,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745053,
+      "value": {
+        "options": [],
+        "question": "জন্ম নেওয়ার সময় ও শিশু অবস্থায় একজন মায়ের অবদান বর্ণনা কর।",
+        "solution": "জন্ম নেওয়ার সময় ও শিশু অবস্থায় মানুষ অসহায় থাকে। কাঁদা ছাড়া অন্য কিছুই সে জানে না, পারে না। একা একা উঠতে বা বসতেও পারে না। কোনো কথা বলতেও জানে না। শুধু মা যেদিকে যায় সেদিকে তাকিয়ে থাকা ছাড়া একটি শিশু অন্য কিছুই পারে না। এই অসহায় অবস্থায় মা শিশুকে সবচেয়ে ভালো বোঝেন। তিনি সন্তানের সব চাহিদা পূরণ করেন। পরম যত্নে বুকে আগলে রাখেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745054,
+      "value": {
+        "options": [],
+        "question": "মা কথাটিতে এত সুধা কেন? কবির অনুভূতি অনুসারে লেখ।",
+        "solution": "মা কথাটিতে এত সুধা মায়ের অতুলনীয় ভালোবাসার জন্য। মায়ের মতো এমন আদর-সোহাগ পৃথিবীর অন্য কোথাও পাওয়া যাবে না। মায়ের মুখ দেখলেও দুঃখ দূর হয়। মায়ের কোলে শুলে পরান জুড়িয়ে যায়। মায়ের শীতল কোল সকল যন্ত্রণা ভুলিয়ে দেয়। অনেক সোহাগে মা সন্তানের বুক ভরান। শৈশবেও মা গভীর মমতায় সন্তানকে লালন করেন। সন্তানের সফলতায় মা খুশি হন। মায়ের এমন আদর-সোহাগ-মমতার কারণে সন্তান মায়ের মধ্যে গভীর সুখ খুঁজে পায়। তাই মা কথাটিতে এত সুধা।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745055,
+      "value": {
+        "options": [],
+        "question": "খোকার পড়ালেখার বিষয়ে মায়ের যত্ন ও অনুভূতি লেখ।",
+        "solution": "খোকার পড়ালেখার বিষয়ে মায়ের অনেক যত্ন ও ভালো লাগা কাজ করে। খোকা পাঠশালা থেকে এলে মা অনেক আদরে কোলে তুলে নেন। খাবার তুলে খাওয়ান এবং আনন্দের সাথে জানতে চান পড়ালেখা কেমন হলো। আর পড়ালেখা ভালো হলে মায়ের তো ভীষণ ভালো লাগে। সেই আনন্দ মা নানান ছলে বিভিন্ন বাড়িতে বলে বেড়ান। তার খোকামণি যেন হীরামানিকের খনি। তার খোকার মতো আর কেউ নেই বলে মা গর্ব করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745056,
+      "value": {
+        "options": [],
+        "question": "প্রশ্ন ৫। মা কী নিয়ে দিবানিশি ভাবেন?",
+        "solution": "\u003Cdiv\u003Eমা দিবানিশি সন্তানকে নিয়ে ভাবেন। মা সব সময় চিন্তা করেন ছেলে কিসে দুঃখ পাবে না, কিসে ভালো থাকবে। মা সারাক্ষণ ভাবেন কীভাবে তার ছেলে বা সন্তান মানুষ হবে অর্থাৎ বিশেষ কেউ হবে। মায়ের সব সময় ভাবনা থাকে ছেলে বা সন্তান যেন ভালো মানুষ, শিক্ষাদীক্ষায়, সম্মানে, অর্থবিত্তে বড়ো হয়ে ওঠে। এসব ভাবনা ও চেষ্টায় তিনি রত থাকেন।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745057,
+      "value": {
+        "options": [],
+        "question": "আশিস",
+        "solution": "আশীর্বাদ, দোয়া",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745058,
+      "value": {
+        "options": [],
+        "question": "শীতল",
+        "solution": "ঠান্ডা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745059,
+      "value": {
+        "options": [],
+        "question": "_____ হতে ফিরে এলে মা আদর করে আমাকে খাবার খাওয়ান।",
+        "solution": "\u003Cdiv\u003Eপাঠশালা\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745060,
+      "value": {
+        "options": [],
+        "question": "মা _____ আমার কল্যাণ চিন্তা করেন।",
+        "solution": "\u003Cdiv\u003Eদিবানিশি\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745061,
+      "value": {
+        "options": [],
+        "question": "আমি যেন কোনো _____ না পাই মা সব সময় সেই চেষ্টা করেন।",
+        "solution": "\u003Cdiv\u003Eক্লেশ\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745062,
+      "value": {
+        "options": [],
+        "question": "মোদের _____ মোদের আশা, আ-মরি বাংলা ভাষা।",
+        "solution": "\u003Cdiv\u003Eগরব\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745063,
+      "value": {
+        "options": [],
+        "question": "দুঃখ",
+        "solution": "সুখ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745064,
+      "value": {
+        "options": [],
+        "question": "অসহায়",
+        "solution": "সহায়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745065,
+      "value": {
+        "options": [],
+        "question": "পাঠশালা",
+        "solution": "বিদ্যালয়",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745066,
+      "value": {
+        "options": [],
+        "question": "সোহাগ",
+        "solution": "মায়ের মতো আদর সোহাগ আর কেউ করে না।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745067,
+      "value": {
+        "options": {
+          "ক": "মিষ্টি",
+          "খ": "চিনি",
+          "গ": "গুড়",
+          "ঘ": "মধু"
+        },
+        "question": "'সুধা' শব্দের অর্থ কী?",
+        "solution": "ঘ. মধু",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745068,
+      "value": {
+        "options": {
+          "ক": "মায়ের আদরে",
+          "খ": "মায়ের সোহাগে",
+          "গ": "মায়ের হাসি দেখলে",
+          "ঘ": "মায়ের মুখ দেখলে"
+        },
+        "question": "'মা' কবিতায় সব দুঃখ দূরে যায় কখন?",
+        "solution": "ঘ. মায়ের মুখ দেখলে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745069,
+      "value": {
+        "options": {
+          "ক": "দুখ দূরে সরে যায়",
+          "খ": "বুক ভরে যায়",
+          "গ": "পরান জুড়ায়",
+          "ঘ": "যাতনা ভোলা যায়"
+        },
+        "question": "'মা' কবিতায় মায়ের শীতল কোলে কী হয়?",
+        "solution": "ঘ. যাতনা ভোলা যায়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745070,
+      "value": {
+        "options": [],
+        "question": "একই মায়ের সন্তান",
+        "solution": "সহোদর",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745071,
+      "value": {
+        "options": [],
+        "question": "ন্ম",
+        "solution": "ন + ম, জন্মভূমি",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745072,
+      "value": {
+        "options": [],
+        "question": "ষ্ট",
+        "solution": "ষ + ট, কষ্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745073,
+      "value": {
+        "options": [],
+        "question": "বাক",
+        "solution": "কথা, শব্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745073,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745074,
+      "value": {
+        "options": [],
+        "question": "সোহাগ",
+        "solution": "আদর",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745074,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745075,
+      "value": {
+        "options": [],
+        "question": "হেরিলে",
+        "solution": "হেরিলে মায়ের মুখ দূর হয় সব দুঃখ।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745075,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745076,
+      "value": {
+        "options": [],
+        "question": "যাতনা",
+        "solution": "সন্তান মানুষ করতে সব মাকেই অনেক যাতনা সহ্য করতে হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745076,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745077,
+      "value": {
+        "options": [],
+        "question": "শুধাবেন",
+        "solution": "মায়েরা সন্তানদের ভালো-মন্দের কথা শুধাবেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745077,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745078,
+      "value": {
+        "options": [],
+        "question": "সোহাগ",
+        "solution": "মা তার সন্তানকে সোহাগ করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745078,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745079,
+      "value": {
+        "options": [],
+        "question": "কবি ও কবিতার নামসহ 'মা' কবিতার প্রথম ৮ লাইন লেখ:",
+        "solution": "\u003Cdiv style=\"text-align: center;\"\u003E\u003Cstrong\u003Eমা\u003Cbr /\u003E\nকাজী নজরুল ইসলাম\u003C/strong\u003E\u003Cbr /\u003E\nযেখানেতে দেখি যাহা\u003Cbr /\u003E\nমা-এর মতন আহা\u003Cbr /\u003E\nএকটি কথায় এত সুধা মেশা নাই,\u003Cbr /\u003E\nমায়ের মতন এত\u003Cbr /\u003E\nআদর সোহাগ সে তো\u003Cbr /\u003E\nআর কোনোখানে কেহ পাইবে না ভাই।\u003Cbr /\u003E\nহেরিলে মায়ের মুখ, দূরে যায় সব দুখ,\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 51,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 51,
+        "name": "কবিতা",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745080,
+      "value": {
+        "options": [],
+        "question": "পাঠশালা থেকে ফিরে এলে মা কী করেন?",
+        "solution": "পাঠশালা থেকে ফিরে এলে মা আদর করে কোলে তুলে নেন। তারপর খাবার মুখে তুলে দিতে দিতে জিজ্ঞেস করেন কতটা লেখা হলো আর কত পৃষ্ঠা পড়া হলো।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745081,
+      "value": {
+        "options": [],
+        "question": "কখন মায়ের বুক ভরে ওঠে?",
+        "solution": "ছেলের গরবে মায়ের বুক ভরে ওঠে। ছেলে যদি ভালো কোনো কাজ করে, ছেলে যদি পড়ালেখায় ভালো হয়, তাহলে ছেলের গরবে মায়ের বুক ভরে ওঠে। ছেলের যেকোনো ভালো কাজে মায়ের গর্ব ও আনন্দ হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745082,
+      "value": {
+        "options": [],
+        "question": "গরব",
+        "solution": "গর্ব",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745083,
+      "value": {
+        "options": [],
+        "question": "চাহনি",
+        "solution": "দৃষ্টিপাত",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745084,
+      "value": {
+        "options": [],
+        "question": "_____ ফিরিত শুধু মা'র পিছু পিছু!",
+        "solution": "\u003Cdiv\u003Eচাহনি\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745085,
+      "value": {
+        "options": [],
+        "question": "শীতল",
+        "solution": "উষ্ণ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745086,
+      "value": {
+        "options": [],
+        "question": "নিশি",
+        "solution": "রাত",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745087,
+      "value": {
+        "options": [],
+        "question": "পরান",
+        "solution": "প্রাণ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745088,
+      "value": {
+        "options": [],
+        "question": "আশিস",
+        "solution": "সব দুখ সুখ হয় মায়ের আশিসে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745089,
+      "value": {
+        "options": [],
+        "question": "ছলে",
+        "solution": "সে খেলার ছলে রবিনকে মারল।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745090,
+      "value": {
+        "options": [],
+        "question": "দিবানিশি ভাবনা\u003Cbr\u003E\nকিসে ক্লেশ পাব না\u003Cbr\u003E\nকিসে সে মানুষ হব বড় হব কিসে\u003Cbr\u003E\nবুক ভরে ওঠে মার\u003Cbr\u003E\nছেলেরি গরবে তাঁর\u003Cbr\u003E\nসব দুখ সুখ হয় মায়ের আশিসে",
+        "solution": "\u003Cdiv\u003Eদিবানিশি ভাবনা\u003Cbr /\u003E\nকিসে ক্লেশ পাব না,\u003Cbr /\u003E\nকিসে সে মানুষ হব, বড় হব কিসে;\u003Cbr /\u003E\nবুক ভরে ওঠে মা&#39;র\u003Cbr /\u003E\nছেলেরি গরবে তাঁর\u003Cbr /\u003E\nসব দুখ সুখ হয় মায়ের আশিসে।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745091,
+      "value": {
+        "options": {
+          "ক": "মা",
+          "খ": "বাবা",
+          "গ": "বন্ধু",
+          "ঘ": "ভাই"
+        },
+        "question": "'মা' কবিতায় কোন কথাটি মধুমাখা?",
+        "solution": "ক. মা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745092,
+      "value": {
+        "options": {
+          "ক": "অসহায়",
+          "খ": "সবল",
+          "গ": "চঞ্চল",
+          "ঘ": "বলবান"
+        },
+        "question": "'মা' কবিতায় 'মা' কবিতা অনুসারে জন্ম নেওয়ার সময়। শিশুর অবস্থা কেমন থাকে?",
+        "solution": "ক. অসহায়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745093,
+      "value": {
+        "options": {
+          "ক": "পড়া জিজ্ঞেস করেন",
+          "খ": "কোলে তুলে নেন",
+          "গ": "বকা দেন",
+          "ঘ": "গোসল করান"
+        },
+        "question": "'মা' কবিতায় পাঠশালা হতে ঘরে ফিরলে মা কী করেন?",
+        "solution": "খ. কোলে তুলে নেন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745094,
+      "value": {
+        "options": {
+          "ক": "সকল অপমান দূর হয়",
+          "খ": "সকল পেরেশানি দূর হয়",
+          "গ": "সকল দুখ দূরে যায়",
+          "ঘ": "সকল যাতনা ভোলা যায়"
+        },
+        "question": "'মা' কবিতায় মায়ের মুখ দেখলে-",
+        "solution": "গ. সকল দুখ দূরে যায়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745095,
+      "value": {
+        "options": [],
+        "question": "বরণ করার যোগ্য",
+        "solution": "বরেণ্য",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745096,
+      "value": {
+        "options": [],
+        "question": "ন্ত",
+        "solution": "ন + ত, অন্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745097,
+      "value": {
+        "options": [],
+        "question": "ঙ্গ",
+        "solution": "ঙ + গ, অজ্ঞা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745098,
+      "value": {
+        "options": [],
+        "question": "সুধা",
+        "solution": "অমৃত, মধু।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745098,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745099,
+      "value": {
+        "options": [],
+        "question": "নিনু",
+        "solution": "নিলাম",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745099,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745100,
+      "value": {
+        "options": [],
+        "question": "ছিনু",
+        "solution": "ছিলাম",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745100,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745101,
+      "value": {
+        "options": [],
+        "question": "নিনু",
+        "solution": "আমি মায়ের সুখ-দুঃখের ভার নিনু।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745101,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745102,
+      "value": {
+        "options": [],
+        "question": "ছিনু",
+        "solution": "ছোটবেলায় আমি খুব অসহায় ছিনু।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745102,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745103,
+      "value": {
+        "options": [],
+        "question": "কোন কথাটিতে সুধা মেশা?",
+        "solution": "'মা' কথাটিতে সুধা মেশা। এমন আর একটি কথাও নেই যাতে এত সুধা মেশানো আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745104,
+      "value": {
+        "options": [],
+        "question": "দিবানিশি",
+        "solution": "দিনরাত",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745105,
+      "value": {
+        "options": [],
+        "question": "ক্লেশ",
+        "solution": "কষ্ট, যন্ত্রণা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745106,
+      "value": {
+        "options": [],
+        "question": "কোল",
+        "solution": "পেট বা মধ্যভাগ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745107,
+      "value": {
+        "options": [],
+        "question": "সব মা তার সন্তানকে _____ করেন।",
+        "solution": "\u003Cdiv\u003Eআদর\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745108,
+      "value": {
+        "options": [],
+        "question": "মায়ের কোলে শুলে _____ জুড়িয়ে যায়।",
+        "solution": "\u003Cdiv\u003Eপরান\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745109,
+      "value": {
+        "options": [],
+        "question": "জনম",
+        "solution": "মরণ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745110,
+      "value": {
+        "options": [],
+        "question": "কাঁদা",
+        "solution": "হাসা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745111,
+      "value": {
+        "options": [],
+        "question": "মা",
+        "solution": "জননী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745112,
+      "value": {
+        "options": [],
+        "question": "জনম",
+        "solution": "যখন জনম নিনু, কত অসহায় ছিনু।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745113,
+      "value": {
+        "options": [],
+        "question": "ঘরে ঘরে মা আমার কত নাম করে\u003Cbr\u003E\nবলে মোর খোকামণি\u003Cbr\u003E\nহীরা মানিকের খনি\u003Cbr\u003E\nএমনটি নাই কারো শুনে বুক ভরে",
+        "solution": "\u003Cdiv\u003Eঘরে ঘরে মা আমার কত নাম করে!\u003Cbr /\u003E\nবলে, &#39;মোর খোকামণি।\u003Cbr /\u003E\nহীরা-মানিকের খনি,\u003Cbr /\u003E\nএমনটি নাই কারো!&#39; শুনে বুক ভরে!\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745114,
+      "value": {
+        "options": {
+          "ক": "বাবার সাথে খেললে",
+          "খ": "মায়ের কোলে শুলে",
+          "গ": "বন্ধুদের সাথে মিশলে",
+          "ঘ": "বেড়াতে গেলে"
+        },
+        "question": "'মা' কবিতায় কী করলে পরান জুড়ায়?",
+        "solution": "খ. মায়ের কোলে শুলে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745115,
+      "value": {
+        "options": {
+          "ক": "বিভিন্ন নামে ডাকে",
+          "খ": "বিভিন্ন নাম রাখে",
+          "গ": "সুনাম করে",
+          "ঘ": "দুর্নাম করে"
+        },
+        "question": "'ঘরে ঘরে মা আমার কত নাম করে'- এখানে কী বোঝানো হয়েছে?",
+        "solution": "গ. সুনাম করে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745116,
+      "value": {
+        "options": {
+          "ক": "বাবার",
+          "খ": "শিক্ষকের",
+          "গ": "মায়ের",
+          "ঘ": "ভাই-বোনের"
+        },
+        "question": "'মা' কবিতায় কার মমতা আমাদের চলার পথের পাথেয়?",
+        "solution": "গ. মায়ের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745117,
+      "value": {
+        "options": {
+          "ক": "কিসে সে মানুষ হব",
+          "খ": "বড় হব কিসে",
+          "গ": "কিসে ক্লেশ পাব না",
+          "ঘ": "কত আজ লেখা হলো, পড়া কত পাতা?"
+        },
+        "question": "\"দিবানিশি ভাবনা\" এর পরের লাইন কোনটি?",
+        "solution": "গ. কিসে ক্লেশ পাব না",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745118,
+      "value": {
+        "options": [],
+        "question": "বেশি কথা বলে যে",
+        "solution": "বাচাল",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745119,
+      "value": {
+        "options": [],
+        "question": "মেধা আছে যার",
+        "solution": "মেধাবী",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745120,
+      "value": {
+        "options": [],
+        "question": "'মা' কবিতাটির মূলভাব লেখ।",
+        "solution": "\u003Cdiv\u003Eআমাদের সবার জীবনে &#39;মা&#39; কথাটি একটি মধুমাখা নাম। মায়ের মমতা আমাদের চলার পথের পাথেয়। শৈশবে মা আমাদের গভীর মমতায় লালন করেন। ভালোভাবে লেখাপড়া করলে, জীবনে সফল হলে মা খুশি হন। অন্যদিকে মায়ের আশিস পেলে সন্তানের দুঃখ ঘুচে যায়।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 61,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 61,
+        "name": "মূলভাব",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745121,
+      "value": {
+        "options": [],
+        "question": "ল্প",
+        "solution": "ল + প, চিত্রশিল্পী",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745122,
+      "value": {
+        "options": [],
+        "question": "মতন",
+        "solution": "মতো, অনুরূপ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745122,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745123,
+      "value": {
+        "options": [],
+        "question": "হেরিলে",
+        "solution": "দেখিলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745123,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745124,
+      "value": {
+        "options": [],
+        "question": "পরান",
+        "solution": "প্রাণ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745124,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745125,
+      "value": {
+        "options": [],
+        "question": "শুধাবেন",
+        "solution": "জিজ্ঞাসা করবেন, জানতে চাইবেন",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745125,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745126,
+      "value": {
+        "options": [],
+        "question": "মতন",
+        "solution": "পৃথিবীতে মায়ের মতন আপন কেউ নেই।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745126,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745127,
+      "value": {
+        "options": [],
+        "question": "বাক",
+        "solution": "মাঝ বয়সে এসে কাজী নজরুল ইসলাম বাকশক্তি হারান।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745127,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745128,
+      "value": {
+        "options": [],
+        "question": "মা কীভাবে সন্তানের বুক ভরান?",
+        "solution": "অনেক সোহাগে মা সন্তানের বুক ভরান। মায়ের আদর-সোহাগের কারণে মায়ের মুখ দেখলে সন্তানের সব দুঃখ দূরে যায়। মায়ের কোলে শুয়ে পরান জুড়ায়, মায়ের শীতল কোল সকল যন্ত্রণা ভুলিয়ে দেয়। এভাবে মায়ের সোহাগ সন্তানের বুক ভরিয়ে দেয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745129,
+      "value": {
+        "options": [],
+        "question": "পড়ালেখা ভালো হলে মা কী করেন?",
+        "solution": "পড়ালেখা ভালো হলে মা প্রতিবেশীদের বা অন্য লোকের বাড়িতে বাড়িতে বিভিন্নভাবে সন্তানের সুনাম করেন। মানুষকে বলে বেড়ান, আমার খোকামণি যেন হীরা-মানিকের খনি, এমন আর কারও নেই।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745130,
+      "value": {
+        "options": [],
+        "question": "কবির শৈশব অবস্থা বর্ণনা কর।",
+        "solution": "কবির শৈশব অবস্থা ছিল ভীষণ অসহায়। কবি যখন জন্ম নেন তখন ছিলেন খুবই ছোটো এবং অসহায়। কান্না করা ছাড়া কিছুই জানতেন না। কবি উঠতে কিংবা বসতেও পারতেন না। তাঁর মুখে তখনও কথা ফোটেনি, তিনি কিছু বলতেও পারতেন না। তাঁর কোনো চাহিদা বা অসুবিধা বোঝানোর জন্যও কিছু বলতে পারতেন না। মায়ের পিছু পিছু কবির দৃষ্টি ফিরত। অর্থাৎ কবি মায়ের দিকে তাকিয়ে থাকতে পারতেন শুধু। কবি তাঁর শৈশবে এমনই দুর্বল বা অসহায় ছিলেন। বস্তুত প্রতিটি মানুষ শৈশবে কবির মতোই অসহায় থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745131,
+      "value": {
+        "options": [],
+        "question": "মা কথাটি যেন _____ মেশানো।",
+        "solution": "\u003Cdiv\u003Eসুধা\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745132,
+      "value": {
+        "options": [],
+        "question": "মা",
+        "solution": "বাবা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745133,
+      "value": {
+        "options": [],
+        "question": "ওঠা",
+        "solution": "বসা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745134,
+      "value": {
+        "options": [],
+        "question": "কথা",
+        "solution": "বচন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745135,
+      "value": {
+        "options": [],
+        "question": "আদর",
+        "solution": "যত্ন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745136,
+      "value": {
+        "options": [],
+        "question": "মুখ",
+        "solution": "বদন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745137,
+      "value": {
+        "options": [],
+        "question": "অসহায়",
+        "solution": "অসহায় লোককে সাহায্য কর।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745138,
+      "value": {
+        "options": [],
+        "question": "শীতল",
+        "solution": "গাছের শীতল ছায়ায় বসে আমার ঘুম পেয়ে গেল।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745139,
+      "value": {
+        "options": [],
+        "question": "খনি",
+        "solution": "সোনার খনিতে দুর্ঘটনা ঘটে অনেকে মারা গিয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745140,
+      "value": {
+        "options": {
+          "ক": "সোনা-হীরা-মণি",
+          "খ": "হীরা-মানিকের খনি",
+          "গ": "আমার নয়নমণি",
+          "ঘ": "যাদু-হীরা-মণি"
+        },
+        "question": "খোকামণিকে মা আদর করে কী বলে ডাকে?",
+        "solution": "খ. হীরা-মানিকের খনি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745141,
+      "value": {
+        "options": {
+          "ক": "ছেলের গরবে",
+          "খ": "ছেলের আদরে",
+          "গ": "ছেলের হাসিতে",
+          "ঘ": "ছেলের সৌন্দর্যে"
+        },
+        "question": "'মা' কবিতায় মায়ের বুক ভরে ওঠে-",
+        "solution": "ক. ছেলের গরবে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745142,
+      "value": {
+        "options": {
+          "ক": "মায়ের শাসনে",
+          "খ": "মায়ের আদরে",
+          "গ": "মায়ের আশিসে",
+          "ঘ": "মায়ের আনন্দে"
+        },
+        "question": "'মা' কবিতায় সব দুখ সুখ হয়- কীসে?",
+        "solution": "গ. মায়ের আশিসে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745143,
+      "value": {
+        "options": {
+          "ক": "প্রতিদিন",
+          "খ": "প্রতিরাত",
+          "গ": "দিবানিশি",
+          "ঘ": "একা থাকলে"
+        },
+        "question": "'মা' কবিতায় মা সন্তানকে নিয়ে ভাবেন-",
+        "solution": "গ. দিবানিশি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745144,
+      "value": {
+        "options": [],
+        "question": "অশ্বের ডাক",
+        "solution": "হ্রেষা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745145,
+      "value": {
+        "options": [],
+        "question": "পাখির কলরব",
+        "solution": "কূজন",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745146,
+      "value": {
+        "options": [],
+        "question": "ক্ল",
+        "solution": "ক + ল, ক্লান্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745147,
+      "value": {
+        "options": [],
+        "question": "ন্ধ",
+        "solution": "ন + ধ, অন্ধকার",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-11-27T06:39:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 172299,
+      "value": {
+        "options": [],
+        "question": "মায়ের আদর ও সোহাগের প্রতি কবিতায় কেমন অনুভূতি প্রকাশিত হয়েছে?",
+        "chapter_id": "1348",
+        "explanation": "কবিতায় মায়ের আদরকে স্নেহ, সান্ত্বনা ও ত্যাগের প্রতীক হিসেবে দেখানো হয়েছে, তাই তা দুঃখ ও কষ্ট দূর করে। মায়ের ওই মমত্বশীল আচরণই সন্তানের জীবনে নিরাপত্তা ও আনন্দ এনে এটিকে সুখের উৎস হিসেবে প্রকাশ করে।",
+        "correct_answer": "মায়ের আদর সব দুঃখ দূর করে এবং সন্তানের জন্য সুখের উৎস।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-08-04T01:37:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 172300,
+      "value": {
+        "options": [],
+        "question": "মায়ের মমতা ও সন্তানের শিক্ষার মধ্যে সম্পর্ক কেমন, কবিতায় তা কিভাবে ফুটিয়ে তোলা হয়েছে?",
+        "chapter_id": "1348",
+        "explanation": "মায়ের মমতা সন্তানের মনোগঠন-আচরণ গড়ে তোলার জন্য দরকারি স্নেহ, নির্দেশ ও উৎসাহ দেয়, তাই তা শিক্ষা-প্রক্রিয়ার মূল উৎস হিসেবে কাজ করে। কবিতায় মায়ের উপদেশ, আঁচল-আশ্রয় ও ত্যাগের দৃশ্য বা রূপক ব্যবহার করে দেখানো হয়েছে যে শিশুর জ্ঞান ও গুণাবলি মায়ের মমতায় সিক্ত হয়ে গড়ে ওঠে। ফলে শিশুর অগ্রগতি মাকে আনন্দ দেয় এবং মায়ের স্নেহ শিশুর শিক্ষাকে উজ্জীবিত করে—উভয়ের জন্যই আনন্দের উৎস হিসেবে উপস্থাপিত হয়েছে।",
+        "correct_answer": "মায়ের মমতা সন্তানের শিক্ষার উৎস এবং উভয়ই একে অপরের জন্য আনন্দের উৎস হিসেবে কাজ করে।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-08-04T01:37:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 160355,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): সারার উদ্যোগের নাম কী হতে পারে এবং এর উদ্দেশ্য কী?",
+          "খ": "(অনুধাবন): পরিবেশবান্ধব পণ্যের ব্যবহার কেন জরুরি?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): সারার উদ্যোগ কীভাবে সমাজে পরিবর্তন আনতে সহায়ক হচ্ছে তা বিশ্লেষণ করো。",
+          "ঘ": "(মূল্যায়ন/সৃজন): পরিবেশ রক্ষায় তরুণ উদ্যোক্তাদের ভূমিকা কিভাবে বৃদ্ধি করা যায় তা প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: \nসারা একজন তরুণ উদ্যোক্তা। সে একটি পরিবেশবান্ধব পণ্য তৈরি করে যা প্লাস্টিকের পরিবর্তে ব্যবহৃত হয়। তার উদ্যোগটি সমাজে পরিবেশ সচেতনতা বৃদ্ধি করছে ও জনগণের মধ্যে পুনর্ব্যবহারযোগ্য পণ্যের চাহিদা বাড়াচ্ছে।",
+        "chapter_id": "1348",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E নাম হিসেবে হতে পারে \"সবুজবাণিজ্য\" বা \"পুনরুজ্জীব\"; উদ্দেশ্য—প্লাস্টিকের বিকল্প তৈরি করে বর্জ্য কমানো, পুনর্ব্যবহার প্রচলন ও পরিবেশ সচেতনতা বাড়ানো। এই নাম ও উদ্দেশ্য সঠিক কারণ তারা সরাসরি উদ্যোগের মিশন—পরিবেশ রক্ষা ও টেকসই বিকল্প প্রচার—কে বোঝায়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পরিবেশবান্ধব পণ্যের ব্যবহার জরুরি কারণ তা প্লাস্টিক দূষণ কমায়, প্রাকৃতিক সম্পদ সংরক্ষণ করে এবং মানুষের ও বন্যজ জীবনের স্বাস্থ্যের নিরাপত্তা নিশ্চিত করে; এই কারণগুলোই তাদের অপরিহার্য করে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সারার উদ্যোগ সমাজে পরিবর্তন আনে কারণ এটি উদাহরণ হিসেবে দেখায় কিভাবে টেকসই পণ্য ব্যবহার করা যায়, স্থানীয় চাহিদি তৈরি করে এবং মানুষকে পুনর্ব্যবহার ও সচেতনতামূলক আচরণে প্ররোচিত করে; ফলশ্রুতিতে বাজার এবং নীতিগত মনোভাব ধীরে ধীরে বদলায়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E তরুণ উদ্যোক্তাদের ভূমিকা বাড়াতে প্রশিক্ষণ, মাইক্রো-ফান্ডিং ও মেন্টরশিপ প্রদান, স্কুল ও কলেজে উদ্যোক্তা শিক্ষা সংযোজন এবং কর বা অনুদানের মাধ্যমে প্রণোদনা দেওয়া উচিত; এসব পদক্ষেপ তাদের দক্ষতা বাড়ায়, ঝুঁকি কমায় এবং পরিবেশবান্ধব ব্যবসা শুরু ও বিস্তারে সহায়ক হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-08-01T12:20:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123311,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): মা'র মমতার গুরুত্ব সম্পর্কে তোমার মতামত কী?",
+          "খ": "(অনুধাবন): মা'র আদর ও সোহাগ কিভাবে জীবনে প্রভাব ফেলে?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): কবিতায় মা'র ভূমিকা ও সফলতার সাথে তার সম্পর্ক বিশ্লেষণ করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): মা'র মমতার প্রতিফলন সমাজে কিভাবে দেখা যায় তা প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: মা'র মমতা আমাদের জীবনে অপরিসীম। মা আমাদের শৈশবে গভীর মমতায় লালন করেন এবং জীবনে সফল হলে মা খুশি হন। কবিতায় মা'র ভূমিকা কেমন তা বিশ্লেষণ করো। ",
+        "solution": "সমাধান:\nপ্রশ্নের উদ্দেশ্য হলো মা'র মমতা—শৈশব থেকে সফলতা পর্যন্ত—কবিতায় কেমনভাবে উপস্থাপিত হয় এবং তার জীবনে প্রভাব কীভাবে পড়ে তা বিশ্লেষণ করা। উত্তর এখানে প্রতিটি উপবিভাগ অনুযায়ী সাজানো হল: লক্ষ্য, যুক্তিপূর্ণ ধাপ ও প্রাসঙ্গিক ধারণা তুলে ধরা হবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (জ্ঞানমূলক): মা'র মমতার গুরুত্ব সম্পর্কে তোমার মতামত কী?\nউত্তর ও যুক্তি:\n- মূল বক্তব্য: মা'র মমতা মানুষের মানসিক, সামাজিক ও নৈতিক বিকাশের নরমাল ভিত্তি।\n- কারণ ও ধারণা: শৈশবে মাতৃস্নেহ অতি গুরুত্বপূর্ণ কারণ এটি নিরাপত্তাবোধ, আত্মসম্মান ও আস্থা গড়ে তোলে। আধুনিক মনোবিজ্ঞানে এই ধারণাকে আটাচমেন্ট থিওরি বলা হয়—শিশুদের নিরাপদ আতচমেন্ট মানসিক স্থিতিশীলতা ও নতুন সম্পর্ক গড়ার ক্ষমতা বাড়ায়।\n- প্রমাণগত যুক্তি: নিরাপদ পরিবেশ ও অভিব্যক্তি শিশুদের ঝুঁকি নেওয়া, লার্নিং ও সমস্যাসমাধানে উৎসাহ দেয়; ফলত তারা পড়াশোনা ও কর্মজীবনে ভালো ফলাফল করতে পারে।\n- সংক্ষেপে: মা'র মমতা কেবল ব্যক্তিগত সান্ত্বনা নয়, জাতিগত–সামাজিক উন্নয়নের ভিত্তিও।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (অনুধাবন): মা'র আদর ও সোহাগ কিভাবে জীবনে প্রভাব ফেলে?\nউত্তর ও ধাপভিত্তিক ব্যাখ্যা:\n- ধাপ ১ — আবেগগত স্থিতি: আদর শিশুর উদ্বেগ কমায়, মানসিক চাপ মোকাবিলার ক্ষমতা বাড়ায়।\n- ধাপ ২ — আত্মবিশ্বাস ও স্ব-সম্মান: নিয়মিত সমর্থন ও প্রশংসা শিশুকে নিজেকে সক্ষম মনে করায়; ফলে উচ্চাকাঙ্ক্ষা ও পরিশ্রম বাড়ে।\n- ধাপ ৩ — সামাজিক দক্ষতা: মা'র আদরে শেখা সহানুভূতি ও রিসপেক্ট পরে সম্পর্ক গঠনে সাহায্য করে।\n- ধাপ ৪ — আচরণগত অনুকরণ: মৌলিক মূল্যবোধ—উদারতা, ধৈর্য, ন্যায়শীলতা—মা’র আচরণ থেকে শিক্ষা পাওয়া যায়।\n- উদাহরণ (সংক্ষিপ্ত): কোনো শিশুকে পরীক্ষায় ব্যর্থ হলে মায়ের সান্ত্বনা ও উৎসাহ তাকে পুনরায় চেষ্টা করার অনুপ্রেরণা দিতে পারে; অন্যদিকে কঠোর সমালোচনা দৃঢ় ভয় বা আত্মঅবমূল্যায়ন সৃষ্টি করতে পারে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বিশ্লেষণ/প্রয়োগ): কবিতায় মা'র ভূমিকা ও সফলতার সাথে তার সম্পর্ক বিশ্লেষণ করো।\nউত্তর ও বিশ্লেষণগত ধাপ:\n- প্রথমে কবিতার গুরুত্বপূর্ণ উপাদানগুলি নির্ণয় করো: রচনাশৈলী, ভোক্তা (speaker), ছন্দ, প্রতীক (mother as shelter, lamp, river ইত্যাদি)।\n- মা'কে কবিতায় প্রায়ই রূপক দেওয়া হয়—আলোর উৎস, নৌকোর নাভি, বীজের মাটি—যা দেখায় মা'র অবিচলিত সমর্থন ও লালন-পালন। এই রূপকসমূহ পাঠককে বোঝায় যে সফলতা ব্যক্তিগত শ্রমের সঙ্গে মায়ের অবদানের ফল।\n- সফলতার সঙ্গে সম্পর্ক: কবিতার ভাষা যদি সফলতা আর মায়ের খুশির মিলন দেখায় (যেমন: সন্তানের অর্জনে মায়ের অশ্রু, মায়ের গর্ব), তখন কবি পাঠকের কাছে তুলে ধরে যে ব্যক্তি যতই স্বয়ংসম্পূর্ণ হওক, তার পেছনে থাকা মমতা সংশ্লিষ্ট ও অপরিহার্য।\n- যুক্তি প্রদর্শন: কবিতায় মায়ের দূরদর্শিতা, ত্যাগ ও অনুপ্রেরণার বর্ণনা—এসবকে কারণ হিসেবে ধরে ব্যক্তির সাফল্যকে ফল বলে উপস্থাপন করা হয়; অর্থাৎ সফলতা কেবল ব্যক্তির কৃতিত্ব নয়, মায়ের মমতার প্রতিফলনও।\n- সাহিত্যিক কৌশল: প্রতিকৃতি, পুনরাবৃত্তি, স্বরবর্ণের মৃদুতা ইত্যাদি মাধ্যমে কবি মায়ের ভূমিকার আবেগঘনতা জোরদার করে; বিশ্লেষণে এসব দৃষ্টান্ত তুলে ধরা উচিত।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মূল্যায়ন/সৃজন): মা'র মমতার প্রতিফলন সমাজে কিভাবে দেখা যায় তা প্রস্তাবনা দাও।\nউত্তর ও প্রস্তাবনা:\n- সমাজে প্রতিফলন: শিশুর ভালচরিত্র, শক্তিশালী সম্প্রদায়বোধ, নৈতিকতা, সহমর্মিতা ও পারস্পরিক সাহায্যের সংস্কৃতিতে মা'র মমতার ছাপ পড়ে। পরিবার-ভিত্তিক সহায়তামূলক কাঠামো শক্ত হলে সামাজিক স্থিতিশীলতা বাড়ে।\n- নীতিগত প্রস্তাবনা (সংক্ষিপ্ত ও ব্যবহারিক):\n  1. মাতৃত্বকালীন ছুটি এবং বাবাদের পিতৃত্বকালীন ছুটি নিশ্চিত করা—পরিবারিক সম্পর্ক মজবুত করে।\n  2. প্রি-স্কুল ও পেরেন্টিং কোর্স চালু করা—মা-বাবাদের গাইডলাইন দেয়া।\n  3. সমাজে মাতৃত্বকে মূল্যায়ন করে সম্মান প্রদর্শন (শিক্ষা, সেলিব্রেশন, কমিউনিটি সাপোর্ট গ্রুপ)।\n  4. দরিদ্র মায়েদের জন্য স্বাস্থ্য ও মোটিফাইড পুষ্টি কর্মসূচি—শিশুর সঠিক বিকাশ নিশ্চিত করে।\n- মূল্যায়ন: এই প্রস্তাবনাগুলি দীর্ঘমেয়াদে শিশুর মানসিক ও সামাজিক স্বাস্থ্য উন্নত করবে; সীমাবদ্ধতা হলে বাজেট, সাংস্কৃতিক বাধা ও বাস্তবায়ন সমস্যা হতে পারে—তারা সমন্বিত নীতির মাধ্যমে মোকাবিলা করা যায়।\n\nসারসংক্ষেপ:\n- মা'র মমতা ব্যক্তিগতভাবে ও সামাজিকভাবে অত্যন্ত গুরুত্বপূর্ণ; কবিতায় মা'কে সাধারণত লালনকর্তা, উৎসাহদাতা ও সফলতার নীরব অংশীদার হিসেবে দেখানো হয়। এটির প্রভাব মানসিক দৃঢ়তা, নৈতিক গঠন এবং সামাজিক সহায়তায় প্রকাশ পায়। সমাজ ও নীতিনির্ধারণী স্তরে মায়ের ভূমিকা সমর্থন করলে সামগ্রিক উন্নতি সম্ভব।",
+        "chapter_id": "1348",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মা'র মমতা জীবনের ভিত্তি; এটি শিশুকে নিরাপত্তা, আত্মবিশ্বাস ও নৈতিক দিকনির্দেশনা দেয়, তাই এর গুরুত্ব অপরিসীম।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মা'র আদর ও সোহাগ শিশুর মানসিক বিকাশে ইতিবাচক প্রভাব ফেলে—আত্মবিশ্বাস বাড়ে, ভয় কমে এবং সামাজিক সম্পর্ক গড়ে ওঠে, যা পরবর্তী জীবনের সিদ্ধান্ত ও সফলতায় সাহায্য করে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কবিতায় মা সাধারণত লালন-পালন ও ত্যাগের প্রতীক; তাঁর মমতা সন্তানকে গঠন করে এবং সেই গঠিত চরিত্রই সফলতার ভিত্তি হিসেবে উপস্থাপিত হয়, ফলে মা ও সফলতার মধ্যে স্পষ্ট কারণ-ফল সম্পর্ক দেখা যায়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সমাজে মা'র মমতার প্রতিফলন দেখা যায় মানুষের সহমর্মিতা, পারিবারিক সংহতি, বৃদ্ধদের যত্ন ও সামাজিক নৈতিক শিক্ষা হিসেবে—এসবকে উৎসাহিত করার জন্য পারিবারিক ও শিক্ষাব্যবস্থায় মূহুর্তভিত্তিক সহানুভূতি ও যত্নের কার্যক্রম প্রস্তাব করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-25T13:38:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123289,
+      "value": {
+        "options": {
+          "a": "মায়ের প্রতি অভিমান",
+          "b": "মায়ের প্রতি শ্রদ্ধা ও ভালোবাসা",
+          "c": "মায়ের প্রতি অসন্তোষ",
+          "d": "মায়ের প্রতি নিরাশা"
+        },
+        "question": "কাজী নজরুল ইসলামের কবিতায় মায়ের প্রতি কি ধরনের অনুভূতি প্রকাশ পেয়েছে?",
+        "solution": "সমাধান:\n1) কবি কাজী নজরুল ইসলামের রচনায় মায়ের প্রতি নরম আবেগ, গভীর শ্রদ্ধা ও সতেজ ভালোবাসা প্রাধান্য পায় — তিনি মাকে আদর, ত্যাগ ও করুণার প্রতীক হিসেবে উপস্থাপন করেন।  \n2) তাই প্রয়োজনে বিভিন্ন কবিতায় মা-চিত্র তাঁর দায়িত্ব ও স্নেহের বহিঃপ্রকাশ হিসেবে দেখা যায়, যা সরাসরি \"শ্রদ্ধা ও ভালোবাসা\" নির্দেশ করে।  \n3) অন্য বিকল্পগুলো ভুল কারণ (a) অভিমান, (c) অসন্তোষ, (d) নিরাশা—এই অনুভূতিগুলো নজরুলের মায়ের প্রতি সাধারণত প্রধান উপস্থাপনা নয়।  \n\nসুতরাং সঠিক উত্তর: b: মায়ের প্রতি শ্রদ্ধা ও ভালোবাসা।",
+        "chapter_id": "1348",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123290,
+      "value": {
+        "options": {
+          "a": "মায়ের আদরের তুলনা নেই",
+          "b": "মায়ের সোহাগ সবসময় থাকে",
+          "c": "মায়ের আদর শুধুমাত্র শৈশবে",
+          "d": "মায়ের কাছে সব সময় সুখ থাকে"
+        },
+        "question": "মায়ের আদর ও সোহাগের প্রসঙ্গ উল্লেখ করে কবি কেন বিশেষ কিছু বলেন?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নে বলা হচ্ছে কবি মায়ের আদর ও সোহাগের প্রসঙ্গ উত্থাপন করে কেন বিশেষ কিছু বলেন — অর্থাৎ কবি মায়ের স্নেহকে অন্য সব সম্পর্কের উপরে রেখে তার অনন্যতা তুলে ধরেছেন।  \nStep 2: এই অনন্যতা বা তুলনার অনুপস্থিতি বোঝায় যে মায়ের আদরের কোনো তুলনা নেই; তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E।  \nStep 3: সিদ্ধান্ত হিসেবে বলা যায় কবি মায়ের আদরকে অতুলনীয় হিসেবে প্রদর্শন করতে বিশেষভাবে বলেন — সুতরাং উত্তর a গ্রহণযোগ্য।\n\nঅন্য گزینه সমূহের ব্যাখ্যা (সংক্ষিপ্ত):\nb: “মায়ের সোহাগ সবসময় থাকে” — এটি সাধারণ বিবৃতি কিন্তু প্রশ্নে কবি কেন বিশেষ বলেন তার কারণ হিসেবে “অতুলনীয়তা”ই মূল ও স্পষ্ট।  \nc: “মায়ের আদর শুধুমাত্র শৈশবে” — এইটি বিরোধী, কারণ কবি আদরকে সারাজীবনের বা অমূল্য ভেবে বলেছেন, সীমাবদ্ধ করেননি।  \nd: “মায়ের কাছে সব সময় সুখ থাকে” — এটি মায়ের আদরের ফলাফলসহ একটি দাবি, কিন্তু কবি কেন বিশেষ বলেন—এর সঠিক সূত্রটি “তুলনা নেই” হওয়াই বেশি প্রাসঙ্গিক।",
+        "chapter_id": "1348",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123291,
+      "value": {
+        "options": {
+          "a": "কারণ মা সব সমস্যার সমাধান জানেন",
+          "b": "কারণ মা সর্বদা সন্তানের পাশে থাকেন",
+          "c": "কারণ মা সন্তানের সুখের জন্য জীবন দেন",
+          "d": "কারণ মা সন্তানের মনের অবস্থা বুঝতে পারেন"
+        },
+        "question": "মায়ের শীতল কোলে সব যাতনা মুছে যায় কেন?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নটির মনোভাব বোঝা — মায়ের শীতল কোলে যাতনা মুছে যাওয়ার কারণ হল নিরাপত্তা ও সান্ত্বনা যা মায়ের উপস্থিতি দিয়ে আসে।  \nStep 2: প্রতিটি বিকল্প বিশ্লেষণ করা — \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E মা সব সমস্যার সমাধান জানেন (এটি অতিশয় সাধারণীকরণ এবং সান্ত্বনার সরাসরি কারণ নয়), \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E মা সর্বদা সন্তানের পাশে থাকেন (অবধান, স্নেহ ও নিরাপত্তা দেয় যা যন্ত্রণাকে কমায়), \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E মা সন্তানের সুখের জন্য জীবন দেন (এটি ত্যাগের চিহ্ন কিন্তু তাত্ক্ষণিক সান্ত্বনার কারণ নয়), \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E মা সন্তানের মনের অবস্থা বুঝতে পারেন (এটি সহায়ক কিন্তু প্রধান কারণ সাধারণত উপস্থিতি ও সান্ত্বনা)।  \nউপসংহার: সবচেয়ে সঠিক উত্তর হল b, কারণ মায়ের উপস্থিতি ও পাশে থাকা শিশুকে নিরাপত্তা ও সান্ত্বনা দেয় এবং তাই যাতনা ম্লান হয়।",
+        "chapter_id": "1348",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123292,
+      "value": {
+        "options": {
+          "a": "মায়ের জীবন সংগ্রামের কথা বলে",
+          "b": "মায়ের আদরের কথা উল্লেখ করে",
+          "c": "মায়ের দুঃখের কথা তুলে ধরে",
+          "d": "মায়ের শিক্ষা সম্পর্কে আলোচনা করে"
+        },
+        "question": "মায়ের প্রতি কবির ভালোবাসা কীভাবে ফুটে উঠেছে?",
+        "solution": "সমাধান:\n1. প্রশ্নে কবির মায়ের প্রতি ভালোবাসা কীভাবে প্রকাশ পেয়েছে তা নির্ণয়ের জন্য কবিতার এমন অংশ বা শব্দ খুঁজতে হবে যা সরাসরি মমতা, আদর বা স্নেহ প্রকাশ করে।  \n2. যদি কবি মায়ের প্রতি কোমলতা, আদর বা প্রেমকথা উল্লেখ করে থাকে, সেটাই সরাসরি ভালোবাসার প্রকাশ। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (মায়ের আদরের কথা উল্লেখ করে)।  \n3. অন্য বিকল্পগুলো ভুল কারণ: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মায়ের জীবন সংগ্রামের কথা বলে—এটি মৃত্যু বা কষ্টের চিত্র হতে পারে কিন্তু সরাসরি আদরের প্রকাশ নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E মায়ের দুঃখ তুলে ধরে—এটি সহানুভূতি বোঝায় কিন্তু আদরের সরাসরি প্রতিফলন নয়; আর \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মায়ের শিক্ষা সম্পর্কে আলোচনা করে, যা ভালবাসার আরেক রকম দিক হলেও প্রশ্নে নির্দেশিত সরাসরি আদরের প্রকাশ নয়।",
+        "chapter_id": "1348",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123293,
+      "value": {
+        "options": {
+          "a": "এটি লেখককে দুঃখিত করে",
+          "b": "এটি লেখককে সাহস দেয়",
+          "c": "এটি লেখককে বিদ্রূপ করে",
+          "d": "এটি লেখককে অবহেলিত করে"
+        },
+        "question": "মায়ের আদর ও সোহাগ কিভাবে লেখকের জীবনে প্রভাব ফেলে?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে উল্লেখিত \"মায়ের আদর ও সোহাগ\" থেকে বোঝা যায় লেখক ভালবাসা ও উৎসাহ পেয়েছে।  \nধাপ ২: মায়ের স্নেহ সাধারণত আত্মবিশ্বাস ও সাহস বাড়ায়, তাই এটি লেখকের মানসিক অবস্থাকে শক্তিশালী করে এবং মৃত্যুঞ্জয় বা সৃষ্টিশীলতার দিকে প্ররোচিত করে।  \nধাপ ৩: অতএব সঠিক উত্তর হলো b — এটি লেখককে সাহস দেয়। অন্য অপশনগুলো ভুল কারণ (a) দুঃখিত করা, (c) বিদ্রূপ করা, (d) অবহেলিত করা—এসব মায়ের আদরের স্বভাবের সঙ্গে মেলেনা।",
+        "chapter_id": "1348",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123294,
+      "value": {
+        "options": {
+          "a": "দুঃখের অনুভূতি",
+          "b": "ভাল লাগার অনুভূতি",
+          "c": "ভয় পাওয়ার অনুভূতি",
+          "d": "অবসাদগ্রস্ত অনুভূতি"
+        },
+        "question": "মায়ের মুখের দিকে তাকালে খুকির মনে কি হয়?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে বলা হচ্ছে মায়ের মুখের দিকে তাকালে খুকির অভ্যন্তরীণ অনুভূতি কী—এখানে সাধারণত শিশুর প্রত্যয়, সান্ত্বনা ও স্নেহের প্রতিক্রিয়া বিবেচ্য।  \nধাপ ২: মায়ের মুখ দেখলে খুকি থাকে প্রফুল্ল, নিরাপদ ও প্রেম অনুভব করে — ফলে \"ভাল লাগার অনুভূতি\" সবচেয়ে যৌক্তিক উত্তর।  \nউপসংহার: সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভাল লাগার অনুভূতি।\n\nব্যাখ্যা — অন্য অপশনগুলো ভুল কেন:\n- \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দুঃখের অনুভূতি: সাধারণত মায়ের দিকে তাকালে দুঃখ নয়, বরং সান্ত্বনা ও আনন্দ পাওয়া যায়।  \n- \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ভয় পাওয়ার অনুভূতি: মায়ের উপস্থিতি শিশুদের জন্য নিরাপত্তা দেয়, ভয়ের কারণ নয়।  \n- \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অবসাদগ্রস্ত অনুভূতি:これは সাধারণ অবস্থা নয়; মায়ের মুখ শিশুকে জাগ্রত ও আনন্দিত করে।",
+        "chapter_id": "1348",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123295,
+      "value": {
+        "options": {
+          "a": "মায়ের শীতল কোলে ভালোবাসা",
+          "b": "মায়ের শাসন",
+          "c": "মায়ের দুঃখ",
+          "d": "মায়ের শিক্ষা"
+        },
+        "question": "কাজী নজরুল ইসলামের কবিতা 'মা' তে কী বিষয় উল্লেখিত হয়েছে?",
+        "solution": "সমাধান:\nStep 1: কবিতাটি পড়ে প্রধান ভাব-বস্তু নির্ণয় করা — নজরুলের 'মা' কবিতায় মা-স্নেহ, সান্ত্বনা ও শিশুর প্রতি মমতা বারবার তুলে ধরা হয়েছে।\nStep 2: কবিতার বহুমাত্রিক চিত্রে মায়ের কোলে ভালোবাসা ও শান্তির অনুভূতি প্রধান ভাবে প্রকাশ পায়, তাই বিষয়টি হলো মায়ের মমতা বা \"মায়ের শীতল কোলে ভালোবাসা\"।\nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (মায়ের শীতল কোলে ভালোবাসা)।\nঅন্যান্য বিকল্পগুলির সংক্ষিপ্ত ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (মায়ের শাসন) — কবিতায় শাসন কেন্দ্রীয় নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (মায়ের দুঃখ) — দুঃখ আংশিক থাকলেও মূল বিষয় নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মায়ের শিক্ষা) — শিক্ষা এখানে প্রধান থিম নয়।",
+        "chapter_id": "1348",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 123296,
+      "value": {
+        "options": {
+          "a": "মা সবসময় আদর করেন",
+          "b": "মা কখনো শাসন করেন না",
+          "c": "মায়ের সোহাগ সর্বদা নিরাপদ",
+          "d": "মায়ের আদর সবার জন্য প্রিয়"
+        },
+        "question": "মায়ের আদর ও সোহাগ সম্পর্কে লেখক কি বক্তব্য রাখেন?",
+        "solution": "সমাধান: লেখক মায়ের আদর ও সোহাগকে নিরাপদ আশ্রয় বা সুরক্ষার প্রতীক হিসেবে উপস্থাপন করেছেন, তাই ঘাটতি-মুক্ত নিরাপত্তার ধারণাই মূল বক্তব্য—অতএব \"মায়ের সোহাগ সর্বদা নিরাপদ\" (option c) সঠিক।  \nধাপ ১: পাঠ্যের ভাষা ও উদাহরণগুলোতে মা-র সোহাগকে সান্ত্বনা ও নিরাপত্তার উৎস হিসেবে দেখানো হয়েছে।  \nধাপ ২: বিকল্পগুলো উচ্ছেদ করে দেখলে \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (মা সবসময় আদর করেন) অতিরঞ্জিত সার্বজনীন দাবি, \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (মা কখনো শাসন করেন না) স্পষ্টত ভুল, এবং \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E (মায়ের আদর সবার জন্য প্রিয়) লেখক যে সার্বজনীন মানটি বলেননি।  \nঅতএব সঠিক উত্তর: c.",
+        "chapter_id": "1348",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-25T13:38:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 114629,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): কবিতায় মায়ের কোন বৈশিষ্ট্যগুলি উল্লেখ করা হয়েছে?",
+          "খ": "(অনুধাবন): মায়ের ভালোবাসা সন্তানের জীবনে কিরকম প্রভাব ফেলে?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): মায়ের শর্তহীন ভালোবাসার গুরুত্ব বিশ্লেষণ করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): সামাজিক বিচ্ছিন্নতা থেকে বাঁচাতে পরিবারের ভেতরে সম্পর্ককে কীভাবে আরও সুদৃঢ় করা যায় তা প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: মায়ের সাথে সন্তানের সম্পর্ক এবং মায়ের ভূমিকা নিয়ে একটি কবিতা রয়েছে, যেখানে মায়ের ভালোবাসা ও মমতার গুরুত্ব তুলে ধরা হয়েছে। ",
+        "solution": "সমাধান:\n\nউত্তর প্রদানের ধারা: প্রথমে কবিতার ভাষা ও চিত্রগুলো থেকে মায়ের কর্মকাণ্ড ও বর্ণনা খুঁটিয়ে পড়ো; তারপর ঐ বর্ণনা থেকে বৈশিষ্ট্য, সন্তানের ওপর প্রভাব ও শর্তহীন ভালোবাসার মানে ও কার্যকারিতা বিশ্লেষণ করো; শেষে বাস্তব ও প্রায়োগিক প্রস্তাব দাও।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (জ্ঞানমূলক): কবিতায় মায়ের কোন বৈশিষ্ট্যগুলি উল্লেখ করা হয়েছে?\nউত্তর ও বিশ্লেষণ:\n- সাধারণভাবে কবিতায় যে বৈশিষ্ট্যগুলো প্রচলিতভাবে ওঠে—তারা হলো মমতা, ত্যাগ, সুরক্ষা-প্রদান, ধৈর্য, দায়িত্ববোধ, সহানুভূতি, নৈঃস্বার্থতা ও নৈতিক পথপ্রদর্শন।  \n- কাজের ধাপ: কবিতার প্রতিটি পংক্তি পড়ে যেখানে মায়ের কাজ বা অনুভব দেখানো হয়েছে (যেমন লালন-পালন, দিকনির্দেশ, কষ্ট সহ্য করা) সেগুলোকে বৈশিষ্ট্যে রূপান্তর করো—যাতে মমতা→আবেগগত সংযুক্তি, ত্যাগ→অগ্রাহ্যতা ইত্যাদি উঠে আসে।  \n- সংক্ষিপ্ত উদাহরণ: যদি কবিতায় মাকে শিশুর কান্নায় জেগে থাকা বলা থাকে, তা থেকে ধৈর্য ও ত্যাগ ধরা যাবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (অনুধাবন): মায়ের ভালোবাসা সন্তানের জীবনে কিরকম প্রভাব ফেলে?\nউত্তর ও বিশ্লেষণ:\n- কেন্দ্রীয় প্রভাবগুলো: আবেগগত নিরাপত্তা, আত্মবিশ্বাস বৃদ্ধি, সামাজিক দক্ষতা ও সহমর্মিতা গঠন, মানসিক স্থিতিশীলতা ও সমস্যার মোকাবিলার ক্ষমতা (resilience), ও নৈতিক/আচরণগত গঠনে সহায়তা।  \n- যুক্তি: মায়ের সুনিশ্চিত স্নেহ শিশুতে “নির্ভরযোগ্য প্রাপ্যতা” তৈরি করে—যা শিশুকে নতুন পরিস্থিতি অন্বেষণ করার সাহস দেয় এবং ব্যর্থতা মোকাবিলায় স্থিতি বাড়ায়।  \n- উদাহরণ: মায়ের উৎসাহ ও সমর্থন পেলে সন্তান শিক্ষা ও পরীক্ষায় ভালো করা বা ব্যর্থতা থেকে দ্রুত উঠতে পারে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বিশ্লেষণ/প্রয়োগ): মায়ের শর্তহীন ভালোবাসার গুরুত্ব বিশ্লেষণ করো।\nউত্তর ও বিশ্লেষণ:\n- শর্তহীন ভালোবাসা কী: শিশুকে কর্তব্য বা ফলাফল ছাড়া গ্রহণ করা—অর্থাৎ সন্তান যেমনই হোক মাকে তার প্রতি সমর্থন ও সম্মান প্রদর্শন করা।  \n- কার্যকারিতা (কার্যতন্ত্র):  \n  1) নিরাপদ আবদ্ধন (secure attachment) গঠিত হয় → শিশুর আবেগীয় মডেল স্থির থাকে।  \n  2) স্ব-অধিকার ও আত্মসম্মান বাড়ে → ঝুঁকি নিয়ে শেখার মানসিকতা বাড়ে।  \n  3) মানসিক চাপ কমে → মানসিক রোগ প্রতিরোধে সহায়ক।  \n  4) সামাজিক সম্পর্ক গড়ার ক্ষমতা বাড়ে → ভবিষ্যতে সুস্থ সম্পর্ক নির্মাণে সুবিধা।  \n- বিশ্লেষণগত পর্যবেক্ষণ: যদিও শর্তহীন ভালোবাসা গুরুত্বপূর্ণ, তবু সীমা ও সংযম (boundaries) থাকা দরকার—অন্যথায় আচরণগত সমস্যা বা দায়িত্বজ্ঞানহীনতা উদ্দীপিত হতে পারে। তাই ভালোবাসার সঙ্গে রাঘব, নিয়ম, শিক্ষা ও ফলাফলের প্রত্যাশা সামঞ্জস্যপূর্ণ রাখা উচিত।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মূল্যায়ন/সৃজন): সামাজিক বিচ্ছিন্নতা থেকে বাঁচাতে পরিবারের ভেতরে সম্পর্ককে কীভাবে আরও সুদৃঢ় করা যায় তা প্রস্তাবনা দাও।\nপ্রস্তাবনা (সংক্ষিপ্ত ও ব্যবহারযোগ্য):\n1. নিয়মিত পরিবারিক সময়: সপ্তাহে নির্দিষ্ট সময় (উদাহরণ: সাপ্তাহিক ডিনার, গল্পের সময়) যেখানে সকল সদস্য মিলে কথা বলে—এতে সংযোগ বাড়ে।  \n2. খোলা যোগাযোগের সংস্কৃতি: অনুভূতি প্রকাশ, মতপার্থক্য শালীনভাবে আলোচনা ও শুনে নেওয়ার অভ্যাস তৈরি করা।  \n3. যৌথ দায়িত্ব ও সহযোগিতা: ছোট কাজ থেকে বড় সিদ্ধান্তে পরিবারের প্রত্যেকের অংশগ্রহণ বাড়ালে আত্মসম্মান ও দায়িত্ববোধ গড়ে ওঠে।  \n4. মানসিক শিক্ষা ও আবেগগত দক্ষতা শেখানো: সন্তানকে অনুভূতি নামানো, নিয়ন্ত্রণ করা ও সহমর্মিতা দেখানো শেখাতে হবে।  \n5. সামাজিক সম্পর্ক ও কমিউনিটি সংযোগ: প্রতিবেশী, আত্মীয়-স্বজন ও স্কুল/কমিউনিটি গ্রুপের সাথে বন্ধন বাড়ালে বিচ্ছিন্নতার অনুভূতি কমে।  \n6. সংকটকালীন সমর্থন ব্যবস্থা: মানসিক স্বাস্থ্য পেশাদার বা পরিবারিক পরামর্শক লাগলে সময়মত সাহায্য নেয়া।  \nকার্যকর বাস্তবায়ন ধাপ: প্রথমে পরিবারের প্রত্যেক সদস্যের সাথে সমস্যা/প্রয়োজন চিহ্নিত করো → সপ্তাহিক সম্পৃক্ত কার্যকর্ম নির্ধারণ → নিয়মিত মূল্যায়ন ও সমন্বয় করো।  \nসংক্ষিপ্ত উদাহরণ: প্রতিদিন রাতের খাওয়ার সময় ফোন বন্ধ করে অনান্য সদস্যদের সঙ্গে কথা বলা একটি সহজ কিন্তু কার্যকরী অভ্যাস।\n\nসমাপ্তি: উপরের প্রতিটি অংশে কবিতার বর্ণনা ও মানবমনোবিজ্ঞানের সাধারণ নীতির আলোকে যুক্তি ও প্রস্তাব দেয়া হয়েছে—প্রয়োজনে নির্দিষ্ট কবিতার পংক্তি অনুযায়ী উত্তর আরও সুনির্দিষ্ট করা যাবে।",
+        "chapter_id": "1348",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কবিতায় মায়ের মমতা, ত্যাগ, স্নেহশীলতা, রক্ষাকারী ও পথপ্রদর্শক ভাবের মতো বৈশিষ্ট্যগুলি বলা হয়েছে; এইগুলো কবির বর্ণনা ও মায়ের কার্যকলাপে স্পষ্ট হওয়ায় সেগুলোই সঠিক বৈশিষ্ট্য।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মায়ের ভালোবাসা শিশুকে নিরাপত্তাবোধ ও আত্মবিশ্বাস দেয়, ফলে সে মানসিকভাবে স্থিতিশীল হয় এবং সামাজিক ও নৈতিকভাবে ভালোভাবে বেড়ে ওঠে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শর্তহীন ভালোবাসা শিশুর বিশ্বাস ও আত্মমুল্য গড়ে তোলে, ভয় কমায় এবং চেষ্টা করার সাহস দেয়; ফলে শিক্ষা ও ব্যক্তিগত উন্নয়নে এটি মৌলিক ভূমিকা রাখে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পরিবারের ভিতরে সম্পর্ক সুদৃঢ় করতে নিয়মিত আলোচনা ও যৌথ কার্যক্রম করা, একে অপরের অনুভূতি মনোযোগ দিয়ে শোনা, এবং সময় দেওয়ার অভ্যাস গড়ে তোলা প্রস্তাবযোগ্য; এসব করলে সামাজিক বিচ্ছিন্নতা কমে পারস্পরিক সমর্থন ও সংহতি বাড়ে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-21T12:16:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 114622,
+      "value": {
+        "options": {
+          "a": "মা ছাড়া জীবন অশান্ত, তাই সন্তানরা দুর্ভাগা।",
+          "b": "মায়ের সোহাগ সন্তানের উন্নতি ও সুখের জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+          "c": "সন্তানদের জন্য মা শুধুমাত্র খাদ্য যোগান দেন।",
+          "d": "মা সবসময় সন্তানদের শাসন করেন, যা তাদের উন্নতি বাধাগ্রস্ত করে।"
+        },
+        "question": "মায়ের আদর ও সোহাগের সাথে সামাজিক জীবনের সম্পর্ক কিভাবে ব্যাখ্যা করা হয়েছে?",
+        "solution": "সমাধান:\n1. প্রশ্নটি বুঝে নেওয়া — এখানে মায়ের আদর ও সোহাগের সামাজিক জীবনে প্রভাব সম্পর্কিত একটি বিবৃতি নির্বাচন করতে বলা হয়েছে।  \n2. বিকল্পগুলো বিশ্লেষণ — বিকল্প b বলে, \"মায়ের সোহাগ সন্তানের উন্নতি ও সুখের জন্য অত্যন্ত গুরুত্বপূর্ণ,\" যা আবেগগত নিরাপত্তা, আত্মসম্মান এবং সামাজিক দক্ষতা গঠনে মায়ের স্নেহের সরাসরি ভূমিকা ব্যাখ্যা করে। তাই এটি সামাজিক জীবনের সঙ্গে মায়ের আদরের যৌক্তিক ও ইতিবাচক সম্পর্ক নির্দেশ করে।  \n3. অন্য বিকল্পগুলোর সংক্ষিপ্ত ত্রুটি — বিকল্প a অতিরঞ্জিত ও একপাক্ষিক (মা ছাড়া জীবন সর্বদা অশান্ত বলা যায় না), বিকল্প c অত্যন্ত সংকীর্ণ (মা শুধু খাদ্য সরবরাহ করেন ধারণা ভুল), বিকল্প d নেতিবাচককরণ করে (মা সবসময় শাসন করেন বলে সাধারণীকরণ সঠিক নয়)।  \nসুতরাং সঠিক উত্তর: b।",
+        "chapter_id": "1348",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-21T12:15:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 96859,
+      "value": {
+        "options": [],
+        "question": "কবিতায় মায়ের মমতা এবং আশিসের গুরুত্ব কীভাবে ফুটে উঠেছে এবং এটি সন্তানের জীবনের সফলতার সাথে কিভাবে সম্পর্কিত?",
+        "solution": "সমাধান:\nউত্তর প্রদানের ধরন — কবিতায় মায়ের মমতা ও আশিস কীভাবে দেখানো হয়েছে তা বিশ্লেষণ করে তার মানসিক ও সামাজিক প্রভাবগুলো ধাপে ধাপে ব্যাখ্যা করে দেখানো হবে; তারপর সেই প্রভাবগুলো কিভাবে সন্তানের সফলতার সঙ্গে সম্পর্কিত তা যুক্তিসহ প্রস্ফুটিত করা হবে।\n\nধাপ ১ — কবিতায় মমতা ও আশিস কীভাবে ফুটে ওঠে:\n- মমতা: কবিতার ভাষা, চিত্রকলা ও ঘটনা-বর্ণনায় মায়ের অনুকম্পা, ত্যাগ, সুরক্ষা ও অবিচলিত ভালোবাসা প্রকাশ পায়।  \n- আশিস: মায়ের আশীর্বাদ বা আশিসকে কবি সাধুবাচক, আশাবহ কথার মাধ্যমে দেখান—যা সন্তানের প্রতি ইতিবাচক আশা ও শুভকামনার প্রতীক।\n\nধাপ ২ — প্রাসঙ্গিক ধারণা ও নীতিমালা (কী কারণে তা কার্যকর):\n- আত্ম-নির্ভরতা ও আত্মবিশ্বাস: মায়ের অপরিসীম সমর্থন সন্তানের আত্মবিশ্বাস গড়ে তোলে।  \n- আবেগগত নিরাপত্তা (attachment): নিরাপদ আবেগগত বন্ধন থাকলে শিশুর ঝুঁকি নেওয়া, শেখা ও সমস্যার মোকাবিলার ক্ষমতা বাড়ে।  \n- প্রেরণা ও মানসিক স্থিতি: মায়ের আশিস মানে প্রশংসা ও আশা — এটি অভ্যন্তরীণ প্রেরণা (intrinsic motivation) বাড়ায় ও হতাশা কমায়।  \n- সামাজিকীকরণ: মা জীবনের নৈতিকতা, ধৈর্য্য ও অধ্যবসায়ের মূল্যবোধ শেখান—যা সফলতার জন্য দরকারি আচরণগত গুণ।\n\nধাপ ৩ — যৌদ্ধিক কারণ-ফল (logical chain):\n- মায়ের মমতা → সন্তানের মানসিক নিরাপত্তা ও আত্মবিশ্বাস বৃদ্ধি।  \n- মায়ের আশিস → বিপদের মুহূর্তে মনোবল জোগায়, আত্ম-সংশয় কমায় ও ইতিবাচক সিদ্ধান্ত নেবার শক্তি দেয়।  \n- আত্মবিশ্বাস ও মনোবল → কষ্ট সহ্য করে পরিশ্রম করা, লক্ষ্য স্থির রাখা ও উন্নতির জন্য চেষ্টা করা সহজ হয়।  \n- অতএব, মায়ের মমতা ও আশিস সরাসরি সন্তানের সফলতার সম্ভাবনা বাড়ায়।\n\nধাপ ৪ — সংক্ষিপ্ত দৃষ্টান্ত (যথোপযুক্ত হলে):\n- ধরুন একটি ছাত্র পরীক্ষায় ভয় পান—মায়ের মমতা তাকে মানসিক শান্তি দেয়; মায়ের আশীর্বাদ তাকে সাহস দেয় ভালো প্রস্তুতি ও পরীক্ষায় আত্মবিশ্বাস দেখাতে। ফলস্বরূপ শিক্ষায় তার সফলতা সম্ভাবনায় বৃদ্ধি পায়।\n\nউপসংহার:\nকবিতায় মায়ের মমতা ও আশিস কেবল আবেগের চিত্র নয়; এগুলো মানসিক নিরাপত্তা, আত্মবিশ্বাস ও অনুপ্রেরণার উৎস হিসেবে দেখানো হয়েছে—যা সন্তানের হতাশা দূর করে চেষ্টা চালিয়ে যাওয়ার শক্তি দেয় এবং অবশেষে জীবনের সফলতার পথে পরিচালিত করে।",
+        "chapter_id": "1348",
+        "explanation": "মায়ের মমতা কবিতায় সন্তানের প্রতি অবিচল ভালোবাসা, সাবলীল যত্ন ও নৈতিক পথপ্রদর্শন হিসেবে দেখানো হয়েছে, যা সন্তানের আত্মবিশ্বাস ও মানসিক স্থিতিশীলতা গঠন করে। তার আশিস সন্তানকে মানসিক শক্তি ও প্রেরণা দেয়, দুঃখ কাটিয়ে উঠতে সাহায্য করে এবং সফলতার পথে এগিয়ে নিয়ে যায়।",
+        "correct_answer": "মায়ের মমতা সন্তানের জীবনের প্রতি গভীর প্রভাব ফেলে এবং তার আশিস সন্তানের দুঃখ ঘুচিয়ে সফলতার পথে এগিয়ে নিয়ে যায়।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-11T02:59:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 96858,
+      "value": {
+        "options": [],
+        "question": "কবি তার কবিতায় মায়ের প্রতি কীভাবে মমতা ও ভালবাসা প্রকাশ করেছেন এবং তা সন্তানের জীবনে কিভাবে প্রভাব ফেলে?",
+        "solution": "সমাধান:\nপ্রশ্নের উদ্দেশ্য হলো কবিতায় মায়ের মমতা ও ভালোবাসা কীভাবে প্রকাশ পেয়েছে এবং সেই মমতা সন্তানের জীবনে কী প্রভাব ফেলে—এটি সংক্ষেপে ব্যাখ্যা করা।\n\nধাপ ১ — প্রকাশের উপায় নির্ণয়:\n- কবি সাধারণত ভাষা, চিত্রকল্প (ইমেজারি), সরল ঘটনাবলি ও স্মৃতি ব্যবহার করে মায়ের মমতা দেখায়। উদাহরণ: মায়ের স্পর্শ, গলা মাতার সান্ত্বনা, রাতে জাগা-সংরক্ষণ, সন্তানের ছোটভাগের দেখাশোনা ইত্যাদি।\n- এসব উপাদান থেকে বোঝা যায় মমতাটা ব্যক্তিগত ত্যাগ, ধারাবাহিক যত্ন এবং আবেগিক সংযোগের মিশ্রণ।\n\nধাপ ২ — মমতার চরিত্র বিশ্লেষণ:\n- মমতা এখানে কেবল আবেগ নয়; এটি নীতিগত ও আচরণগত রীতিও—ধৈর্য, আত্মত্যাগ, সান্ত্বনা, উৎসাহ প্রদান।\n- কবির বর্ণনায় মমতা প্রায়ই নিরাপত্তা ও আশ্রয় হিসেবে উপস্থাপিত হয়।\n\nধাপ ৩ — সন্তানের জীবনে প্রভাবের যৌক্তিক ব্যাখ্যা:\n- নিরাপত্তা ও সংবেদনশীলতা: মায়ের মমতা শিশুকে মানসিক নিরাপত্তা দেয়, ফলে সে আত্মবিশ্বাসী হয়ে বেড়ে ওঠে।\n- মানসিক স্থিতিশীলতা: মায়ের সান্ত্বনা ও সহমর্মিতা সন্তানের দুঃখ-সময়ে স্থিত ধৈর্য গঠন করে।\n- নৈতিক মূল্যবোধ ও সম্পর্ক দক্ষতা: মায়ের উদাহরণ থেকে শিশু সহানুভূতি, কর্তব্যবোধ ও সম্পর্ক রক্ষা শেখে।\n- জীবনবোধ ও স্মৃতি: মায়ের মমতা সন্তানের জীবনে এক ধরনের \"পাথেয়\"—অর্থাৎ চলার পথে মানসিক পুষ্টি হিসেবে কাজ করে; সুখ-দুঃখের সময়ই সেই স্মৃতি ও সহায়তা সক্রিয় হয়।\n\nধাপ ৪ — সংক্ষিপ্ত উদাহরণ (প্রাসঙ্গিক হলে):\n- উদাহরণ: যখন শিশু কোনো বাধায় হতাশ হয়, মায়ের ধৈর্যশীল সান্ত্বনা তাকে পুনরায় চেষ্টা করার সাহস দেয়—এতে সে জীবনের ওঠানামা পার হতে শেখে। এই আচরণ পরবর্তীতে দায়িত্বশীলতা ও মানসিক স্থিতিশীলতা গড়ে তোলে।\n\nউপসংহার:\nকবিতায় মায়ের মমতা মায়ের নিয়মিত যত্ন, সান্ত্বনা ও ত্যাগ হিসেবে উপস্থাপিত হয়েছে। তা সন্তানের জীবনে এক ধরনের পাথেয় হিসেবে কাজ করে—সংবেদনশীলতা, আত্মবিশ্বাস ও জীবনের সুখ-দুঃখের সঙ্গে ঘনিষ্ঠভাবে যুক্ত থাকে।",
+        "chapter_id": "1348",
+        "explanation": "মায়ের মমতা কবিতায় তার যত্ন, ত্যাগ ও সান্ত্বনার মাধ্যমে চিত্রিত হয়েছে, যা পাঠককে সরাসরি অনুভব করায়। এই মমতা সন্তানেকে মানসিক ও নৈতিক সহায়তা দেয়, যেন জীবনের পাথেয়—আশ্রয় ও শক্তি। তাই এটি সন্তানের সুখ-দুঃখের সঙ্গে ঘনিষ্ঠভাবে জড়িত হয়ে তার অনুভূতি ও আচরণকে প্রভাবিত করে।",
+        "correct_answer": "মায়ের মমতা সন্তানের জীবনে এক ধরনের পাথেয় হিসেবে কাজ করে এবং তার সুখ-দুঃখের সাথে যুক্ত থাকে।"
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-11T02:59:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 96857,
+      "value": {
+        "options": {
+          "a": "মায়ের প্রতি অসন্তোষ",
+          "b": "মায়ের ভালোবাসার গভীরতা",
+          "c": "মায়ের শাসনের কঠোরতা",
+          "d": "মায়ের অভাববোধ"
+        },
+        "question": "কবি কাজী নজরুল ইসলাম তাঁর কবিতায় মায়ের প্রতি কোন অনুভূতি প্রকাশ করেছেন?",
+        "solution": "সমাধান: কাজী নজরুল ইসলামের কবিতায় মায়ের প্রতি প্রধানত স্নেহ, শ্রদ্ধা ও ত্যাগবোধের চিত্র ফুটে ওঠে; তিনি মাকে теплতা ও মমতার প্রতীক হিসেবে উপস্থাপন করেন। তাই উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (মায়ের ভালোবাসার গভীরতা) সঠিক। অন্যগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (অসন্তোষ), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (শাসনের কঠোরতা) ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (অভাববোধ)—এই অনুভূতিগুলো নজরুলের মায়াপ্রেমের মূল ভাবনা বহন করে না।",
+        "chapter_id": "1348",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-11T02:59:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 96852,
+      "value": {
+        "options": {
+          "a": "মা সবসময় দুঃখে থাকে",
+          "b": "মা সন্তানের সুখের জন্য সব কিছু করে",
+          "c": "মা কখনও বিরক্ত হয় না",
+          "d": "মা কখনো রাগ করে না"
+        },
+        "question": "কবিতাটিতে মা সম্পর্কে কি বলা হয়েছে?",
+        "solution": "সমাধান:\nকবিতার ভাষা ও ভাব থেকে বোঝা যায় যে মা সন্তানের সুখ ও মঙ্গলের জন্য নিজের ত্যাগ ও যত্ন করে; তাই সঠিক উত্তর হচ্ছে বিকল্প b — \"মা সন্তানের সুখের জন্য সব কিছু করে\"। অন্যান্য বিকল্পগুলি ভুল কারণ (a) মা সবসময় দুঃখে থাকে বলাটা কবিতায় প্রমাণিত নয়, (c) ও (d) মায়ের কখনো বিরক্ত বা রাগ না করার চরম ব্যাখ্যা দেয় যা কবিতায় উল্লেখ নেই; কবিতা মূলত মায়ের ত্যাগ ও সন্তানের কল্যাণচিন্তা তুলে ধরে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-11T02:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 96853,
+      "value": {
+        "options": {
+          "a": "রবীন্দ্রনাথ ঠাকুর",
+          "b": "কাজী নজরুল ইসলাম",
+          "c": "সুকান্ত ভট্টাচার্য",
+          "d": "জীবনানন্দ দাশ"
+        },
+        "question": "কবিতাটির লেখক কে?",
+        "solution": "সমাধান:\nধাপ ১: কবিতার ভাষা ও ভাব-বর্ণনা পর্যবেক্ষণ — যদি কবিতায় বিপ্লবী সুর, জনগণের উচ্ছ্বাস, তীক্ষ্ণ রিদম ও আরবি‑ফারসি শব্দের মিশ্রণ দেখা যায়, তা কাজী নজরুল ইসলামের স্বতন্ত্র বৈশিষ্ট্য।  \nধাপ ২: অন্যান্য কবিদের স্বর আলাদা — রবীন্দ্রনাথের ভাষা সাধারণত নরম ও দার্শনিক, সুকান্ত ভট্টাচার্যের কবিতা সরল আর যোগাযোগমুখী, জীবনানন্দের কবিতা বিমূর্ত ও নির্লিপ্ত।  \nধাপ ৩: প্রদত্ত লক্ষণগুলোর মিল বিবেচনায় এনে সিদ্ধান্ত — সঠিক উত্তর হল (b) কাজী নজরুল ইসলাম।  \n\nকেন অন্যগুলো ভুল: রবীন্দ্র ও জীবনানন্দের কবিতায় সেই প্রতীকী বিপ্লবী তীব্রতা থাকে না এবং সুকান্তের ভঙ্গিও আলাদা; অতএব কাজী নজরুল ইসলামই যথাযথ নির্বাচন।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-11T02:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 96854,
+      "value": {
+        "options": {
+          "a": "শাসন করে",
+          "b": "আদর করে",
+          "c": "চুপ করে থাকে",
+          "d": "খেলা করে"
+        },
+        "question": "কবিতায় মা কিভাবে সন্তানের যাতনা কমান?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নে লক্ষ্য করা দরকার যে কবিতায় মা সন্তানের \"যাতনা কমান\"—এটি তিক্ততা বা দুঃখ কমানোর ব্যক্তিগত, কোমল প্রতিক্রিয়া নির্দেশ করে।  \nStep 2: কোন বিকল্প তা সুস্পষ্টভাবে প্রকাশ করে তা বিচার করলে দেখা যায় যে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"আদর করে\" শাব্দিক ও আচরণগতভাবে সন্তানের যাতনা কমানোর সবচেয়ে প্রাসঙ্গিক ও সহানুভূতিপূর্ণ উপায়। তাই সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E।  \nঅন্য বিকল্পগুলোর সংক্ষিপ্ত ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \"শাসন করে\" এবং \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E \"চুপ করে থাকে\" যাতনা বাড়াতে পারে বা উপশম করে না, আর \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E \"খেলা করে\" কিছু ক্ষেত্রে সাহায্য করতে পারে কিন্তু কবিতার সাধারণ অর্থে প্রত্যক্ষ উপশমকারী হিসেবে \"আদর করে\" সবচেয়ে উপযুক্ত।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-11T02:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 96855,
+      "value": {
+        "options": {
+          "a": "মা সবসময় আমাকে মারধর করে",
+          "b": "মা আমাকে ভালোবাসে",
+          "c": "মা কখনো খুশি হয় না",
+          "d": "মা কখনো আমাকে বুঝতে পারে না"
+        },
+        "question": "কবিতার মধ্যে কোনটি মা'র প্রতি সন্তানের অনুভূতি প্রকাশ করে?",
+        "solution": "সমাধান:\nপ্রশ্নের লক্ষ্য হলো \"মা'র প্রতি সন্তানের অনুভূতি\" — অর্থাৎ সন্তানের মায়ের প্রতি স্নেহ বা ভালোবাসা কীভাবে প্রকাশ পাচ্ছে তা খুঁজে বের করা। বিকল্পগুলো দেখে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"মা আমাকে ভালোবাসে\" সবচেয়ে ইতিবাচক ও স্নেহপূর্ণ এবং কবিতায় সন্তানের মায়ের প্রতি অনুভূতি হিসেবে মানায়; তাই এটিই সঠিক। বাকীগুলো—\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (মা সবসময় আমাকে মারধর করে), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (মা কখনো খুশি হয় না), \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মা কখনো আমাকে বুঝতে পারে না)—সবই নেতিবাচক বা বিরুদ্ধীবোধ প্রকাশ করে, সন্তানের মায়ের প্রতি প্রেম/আশীর্বাদের অনুভূতি প্রকাশ করে না; অতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E.",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-11T02:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 96856,
+      "value": {
+        "options": {
+          "a": "সব দুঃখ দূর হয়ে যায়",
+          "b": "নতুন দুঃখ তৈরি হয়",
+          "c": "মা'র মুখ মনে হয় জ্বালা",
+          "d": "মা'র মুখ দেখতে ইচ্ছা করে না"
+        },
+        "question": "মা'র মুখ দর্শন করলে সন্তানের কি অনুভূতি হয়?",
+        "solution": "সমাধান:\nStep 1: অনুভূতির বিশ্লেষণ — মা'র সঙ্গে শিশুর আবেগমূলক বন্ধন নিরাপত্তা ও সান্ত্বনা দেয়, ফলে ভীতি ও দুঃখ কমে।  \nStep 2: উপসংহার — তাই মা'র মুখ দেখলে শিশুর মন আরামে আসে এবং দুঃখ দূর হতে থাকে; সুতরাং সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (সব দুঃখ দূর হয়ে যায়), অর্থাৎ মূল প্রশ্নের বিকল্প (a)।  \nStep 3: সংক্ষিপ্তভাবে বাকি বিকল্পগুলোর কারণবশতঃ ভুল — \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (নতুন দুঃখ তৈরি হয়), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (মা'র মুখ মনে হয় জ্বালা) ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মা'র মুখ দেখতে ইচ্ছা করে না) — এগুলো মা–শিশু সম্পর্কের স্বাভাবিক অনুভূতির বিপরীত এবং বাস্তবে প্রাসঙ্গিক নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-11T02:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56617,
+      "value": {
+        "options": {
+          "a": "মায়ের অপরিমেয় ভালোবাসা",
+          "b": "বাবার আদর্শ",
+          "c": "শিক্ষার গুরুত্ব",
+          "d": "বন্ধুত্বের মূল্য"
+        },
+        "question": "কবিতাটির প্রধান বিষয়টি কী?",
+        "solution": "সমাধান:\n1. প্রশ্ন বিশ্লেষণ: কবিতার পুনরাবৃত্তি, চিত্রকল্প ও অনুভব পর্যবেক্ষণ করে দেখা যায় যে কবি মায়ের ত্যাগ, নম্রতা ও মমতাকে বারবার তুলে ধরেছেন—এগুলো মূল ভাব প্রকাশ করে।  \n2. সিদ্ধান্ত গ্রহণ: যেসব পংক্তি-মর্ম কথ্যভাবে মায়ের স্নেহ এবং অপরিমেয় ভালোবাসা বোঝায়, সেগুলোকে কেন্দ্র করে পুরো কবিতার ভাবধারা গঠিত আছে।  \n3. অপশন বিশ্লেষণ: \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E মায়ের অপরিমেয় ভালোবাসা কবিতার প্রধান বিষয়ের সাথে সঙ্গতিপূর্ণ; অন্যদিকে \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E বাবার আদর্শ, \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E শিক্ষার গুরুত্ব এবং \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E বন্ধুত্বের মূল্য—এইগুলো কবিতার মুখ্য মনোভাব হিসেবে দেখা যায় না।  \n\nঅতএব সঠিক উত্তর: a: মায়ের অপরিমেয় ভালোবাসা।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56618,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কবিতায় মা'র মুখ দেখার পর দুঃখ দূর হয়ে যায়।",
+        "solution": "সমাধান: কবিতার লাইন থেকে স্পষ্ট যে কাব্যিক কাহিনীর মনোভাব বদলে যায়—মা'র মুখ দেখে কবরুণের দুঃখ মিটে যায় এবং শান্তি ফিরে আসে। তাই পাঠ্যভিত্তিক বিশ্লেষণে বলা যায় এটি সরাসরি একটি সত্য বিবৃতি। উত্তর: a (True)। বিকল্প b (False) ভুল, কারণ তা কবিতার মূল বক্তব্যের বিপরীত।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56619,
+      "value": {
+        "options": {
+          "a": "২৫ শে মে ১৮৯৯",
+          "b": "৩০ শে জুন ১৮৯৮",
+          "c": "২০ শে জুন ১৯০০",
+          "d": "১০ শে আগস্ট ১৯০১"
+        },
+        "question": "কবি কাজী নজরুল ইসলাম __________ জন্মগ্রহণ করেন।",
+        "solution": "সমাধান: কাজী নজরুল ইসলামের জন্মদিন সম্পর্কে ঐতিহাসিক এবং জীবনীবৃত্তান্তিক সূত্র থেকে জানা যায় যে তিনি ২৫ মে ১৮৯৯ সালে জন্মগ্রহণ করেন। ধাপে ধাপে দেখলে: প্রথমে কবির জীবনীসূত্র যাচাই করলে জন্মতারিখ পাওয়া যায় — ২৫শে মে ১৮৯৯; এরপর প্রদত্ত চারটি বিকল্পের মধ্যে মিলাইলে এটি বিকল্প a-এর সঙ্গে সঠিকভাবে মিলে যায়। অন্যান্য বিকল্পগুলো (b, c, d) উল্লিখিত ইতিহাসিক ব্যাখ্যার সাথে সঙ্গতিপূর্ণ নয়, তাই সঠিক উত্তর হলো বিকল্প a।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56620,
+      "value": {
+        "options": [],
+        "question": "কবিতাটির মূল সুর কী তা সংক্ষেপে ব্যাখ্যা করুন।",
+        "solution": "সমাধান: প্রথমে কবিতাটির পুনরাবৃত্তি করা শব্দ-চিত্র ও ভাবধারা বিশ্লেষণ করুন — যেখানে মায়ের প্রতি স্নেহ, ত্যাগ ও যত্ন বারবার উল্লেখ করা হয়েছে। দ্বিতীয় ধাপে কবির ভাষা ও সুর পরীক্ষা করে দেখুন যে পাঠকের মনোযোগ মায়ের দয়া ও সম্মান প্রাপ্যতার দিকে কেন্দ্রিত; আবেগের টোনটি ব্যক্তি-সম্পর্কের কোমলতা নির্দেশ করে। তাই মূল সুর নির্ধারণ করা যায়: মায়ের ভালোবাসা ও যত্নের গুরুত্ব তুলে ধরা হয়েছে। অন্যান্য সম্ভাব্য বিষয় (যেমন প্রকৃতি-বর্ণনা বা দেশপ্রেম) এখানে প্রাধান্য পায় না, কারণ কবিতার কেন্দ্রীয় বয়ান মায়ের প্রতি অনুভূত আন্তরিকতাই।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মায়ের ভালোবাসা ও যত্নের গুরুত্ব তুলে ধরা হয়েছে।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56621,
+      "value": {
+        "options": {
+          "a": "অশান্তি",
+          "b": "শান্তি ও স্নেহ",
+          "c": "দুঃখ",
+          "d": "দূরত্ব"
+        },
+        "question": "কবিতায় মা'র কোলের সাথে কী সম্পর্কিত?",
+        "solution": "সমাধান:\nপ্রথমত, কবিতায় \"মা'র কোল\" সাধারণত স্নেহ, নিরাপত্তা ও শান্তির প্রতীক হিসেবে উপস্থাপিত হয় — এটি আশ্রয় ও সান্ত্বনার অনুভূতি দেয়। তাই দেওয়া অপশনগুলোর মধ্যে \u003Cb\u003Eশান্তি ও স্নেহ\u003C/b\u003E (option b) সবচেয়ে সুসংগত। অন্যান্য অপশনগুলি — অশান্তি, দুঃখ বা দূরত্ব — মায়ের কোলের প্রকৃত উপমার সাথে সাংঘর্ষিক, কারণ মা’র কোল সাধারণত কষ্ট বা বিচ্ছিন্নতার নয় বরং স্নেহজনক ও শান্তিপূর্ণ অনুভূতি সৃষ্টি করে। সুতরাং সঠিক উত্তর হল b (শান্তি ও স্নেহ)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56622,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কাজী নজরুল ইসলাম গীতিকার হিসেবে পরিচিত ছিলেন।",
+        "solution": "সমাধান: ধাপ ১: কাজী নজরুল ইসলাম বাংলা সাহিত্যের একজন প্রতিভাবান কবি, সঙ্গীত রচনাকারী ও শিল্পী ছিলেন এবং তিনি প্রচুর সংখ্যক গান রচনা করেছেন যা collectively \"নজরুলগীতি\" নামে পরিচিত। ধাপ ২: ঐতিহাসিক এবং সাহিত্যে প্রমাণ অনুযায়ী তিনি গীতিকার হিসেবে সুপরিচিত—অর্থাৎ বিবৃতিটি সত্য। অতএব সঠিক উত্তর: a (True); b (False) ভুল কারণ তা বাস্তবের সাথে সম্পূর্ণ বিরোধী।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56623,
+      "value": {
+        "options": {
+          "a": "মা",
+          "b": "বাবা",
+          "c": "শিক্ষক",
+          "d": "বন্ধু"
+        },
+        "question": "কবিতার মূল চরিত্র __________।",
+        "solution": "সমাধান: ধাপ ১: কবিতাটি মনোযোগ দিয়ে পড়ে দেখে কাকে ঘিরে সব বর্ণনা, আবেগ ও পুনরাবৃত্তি আছে তা নির্ণয় করা হয়। ধাপ ২: কবিতায় যত যত বর্ণনা ও অনুভূতিই আছে—মমতা, ত্যাগ, যত্ন—সবই 'মা'কে নির্দেশ করে, তাই সঠিক উত্তর হলো মা (a)। অন্যান্য опশনগুলি ভুল কারণ কবিতার কেন্দ্রীয় বৈশিষ্ট্যগুলো 'বাবা', 'শিক্ষক' বা 'বন্ধু'-এর সঙ্গে মিল নেই।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56624,
+      "value": {
+        "options": [],
+        "question": "মায়ের ভালোবাসার বিশেষণ কী বলে বর্ণনা করা হয়েছে?",
+        "solution": "সমাধান:\n১) প্রশ্ন পড়ে দেখা যায় মায়ের ভালোবাসার যে বিশেষণটি দেওয়া হয়েছে সেটিকে নির্ধারণ করতেই উত্তর বের করতে হবে।  \n২) \"অপূর্ব ও গভীর\" মানে—অসামান্য, অনন্য এবং হৃদয়স্পর্শীভাবে গভীর যা মায়ের ভালোবাসার প্রকৃত বৈশিষ্ট্যসমূহকে সঠিকভাবে ধরেছে।  \n৩) তাই অন্যান্য সম্ভাব্য বিকল্পগুলি যদি সাধারণ, অল্প বা ধ্বংসাত্মক ধরনের থাকতো সেগুলো মায়ের ভালবাসার স্বরূপ প্রকাশ করতে অসমর্থ; সুতরাং সঠিক উত্তর হচ্ছে \"অপূর্ব ও গভীর\"।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "অপূর্ব ও গভীর"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56625,
+      "value": {
+        "options": {
+          "a": "অপ্রয়োজনীয়",
+          "b": "পথের পাথেয়",
+          "c": "অসীম",
+          "d": "যাচনীয়"
+        },
+        "question": "মায়ের মমতা আমাদের জন্য কী?",
+        "solution": "সমাধান:\nধাপ 1: প্রশ্নের অর্থ বোঝা — \"মায়ের মমতা\" বলতে যে স্নেহ, ত্যাগ এবং পরিচর্যা বোঝায়, তা জীবনযাত্রায় শক্তি ও সহায়ক হয়ে থাকে।  \nধাপ 2: অপশনগুলো মূল্যায়ন করা — (a) অপ্রয়োজনীয় সর্বমিলিয়ে ভুল, (c) অসীম কথাটাইলে উপলক্ষ্যগতভাবে মানুষের অভিব্যক্তি বোঝায় কিন্তু সাধারণভাবে মতামত; (d) যাচনীয় মানে পরীক্ষাযোগ্য, যা মমতার জন্য উপযুক্ত নয়।  \nধাপ 3: উপসংহার — মায়ের মমতা আমাদের জীবনের পথে চালকের মতো নয় বরং \"পথের পাথেয়\" হিসেবে সহায়ক ও সঞ্চারক; তাই সঠিক উত্তর হলো: পথের পাথেয় (b)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56626,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মায়ের আনন্দে সন্তানের দুঃখ দূর হয়।",
+        "solution": "সমাধান:\nধাপ ১: বাক্যটির অর্থ বিশ্লেষণ করা—\"মায়ের আনন্দে সন্তানের দুঃখ দূর হয়\" মানে মা খুশি হলে তার ইতিবাচক মনোভাব ও আচরণ শিশুকে সান্ত্বনা দেয় এবং দুঃখ কমায়।\nধাপ ২: সাধারণ সামাজিক ও মানসিক বাস্তবতায় মায়ের আনন্দ পরিবারে ইতিবাচক পরিবেশ সৃষ্টি করে, যা শিশুর মানসিক অবস্থা উন্নত করে; ফলে বিবৃতিটি যৌক্তিক ও সত্য। \nসুতরাং সঠিক উত্তর: a (True)। বিকল্প b ভুল কারণ তা উল্টো বক্তব্য বলে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56627,
+      "value": {
+        "options": {
+          "a": "ঝিঙেফুল",
+          "b": "বসন্ত",
+          "c": "শিক্ষা",
+          "d": "স্বপ্ন"
+        },
+        "question": "কবির কবিতা __________ থেকে নেওয়া হয়েছে।",
+        "solution": "সমাধান:\nপ্রথমে প্রশ্ন অনুযায়ী কবিতার জনপ্রিয় উৎসটি যাচাই করা হলো — পরিচিত সাহিত্যসূত্রে উল্লিখিত তথ্য অনুযায়ী কবির ওই কবিতা \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তথা \"ঝিঙেফুল\" থেকে নেওয়া হয়েছে। অন্যান্য বিকল্পগুলো — \"বসন্ত\", \"শিক্ষা\", \"স্বপ্ন\" — ঐ নির্দিষ্ট কবিতার পরিচিত উৎস নয়, তাই সেগুলো খারিজ করা যায়। অতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (ঝিঙেফুল)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56628,
+      "value": {
+        "options": [],
+        "question": "মায়ের মুখ দেখার পর কোন অনুভূতি হয়?",
+        "solution": "সমাধান:\n1) সাধারণ মনস্তত্ত্ব ও দৈনন্দিন অভিজ্ঞতা অনুযায়ী মায়ের মুখের কাছে শিশুর এবং এমনকি বড়দেরও মানসিক সান্ত্বনা, নিরাপত্তা ও করুণার অনুভূতি জাগে।  \n2) তাই মায়ের মুখ দেখার পর প্রধানত যে অনুভূতি আসে তা হলো দুঃখ বা কষ্ট লাঘব হওয়া — অর্থাৎ \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দুঃখ দূর হয় (সঠিক উত্তর)।  \n3) অন্য বিকল্পগুলো যেমন \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E আনন্দ হওয়া, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ক্ষুধা মিটে বা \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ঘুম আসা কিছু ক্ষেত্রে ঘটতে পারে কিন্তু সাধারণত মায়ের মুখ দেখার সঙ্গে সরাসরি সম্পর্কিত প্রধান প্রভাব হলো দুঃখ ও কষ্ট লাঘব হওয়া।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "দুঃখ দূর হয়"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56629,
+      "value": {
+        "options": {
+          "a": "তিনি একজন বিজ্ঞানী",
+          "b": "তিনি একজন সৈনিক",
+          "c": "তিনি একজন কবি ও সংগীতশিল্পী",
+          "d": "তিনি একজন রাজনীতিবিদ"
+        },
+        "question": "কবির পরিচয় সম্পর্কে বলা হয়েছে:",
+        "solution": "সমাধান:\nStep 1: প্রশ্নে “কবির পরিচয়” বলা হয়েছে, তাই যে বিকল্পে ব্যক্তি হিসেবে “কবি” উল্লেখ আছে তা মিলিয়ে দেখতে হবে।  \nStep 2: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বিকল্পে বলা হয়েছে “তিনি একজন কবি ও সংগীতশিল্পী”, যা সরাসরি প্রশ্নের বর্ণনার সঙ্গে মেলে। অন্য বিকল্পগুলো—\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বিজ্ঞানী, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সৈনিক, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E রাজনীতিবিদ—কবির পরিচয় হিসেবে উপযুক্ত নয়।  \nঅতএব সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E.",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56630,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কবি মা কে 'মোর খোকামণি' বলে উল্লেখ করেছেন।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে দেওয়া বিবৃতিটি একটি সরাসরি উল্লেখ — কবি মা-কে \"মোর খোকামণি\" বলে উল্লেখ করেছেন।  \nধাপ ২: যেহেতু এই শব্দবন্ধটি কবিতায়/লিখায় স্পষ্টভাবে ব্যবহৃত হয়েছে, বিবৃতিটি সত্য বলে গণ্য করা যায়।  \nসুতরাং সঠিক উত্তর হলো (a) True। বিকল্প (b) ভুল কারণ এটি প্রদত্ত উদ্ধৃতির বিপরীত দাবি করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56631,
+      "value": {
+        "options": {
+          "a": "বিপর্যয়",
+          "b": "সফলতা",
+          "c": "অসুখ",
+          "d": "দুর্ভিক্ষ"
+        },
+        "question": "মায়ের আদরের কারণেই __________ জীবন পাওয়া যায়।",
+        "solution": "সমাধান: প্রশ্নের বক্তব্য অনুযায়ী মায়ের আদর একটি ইতিবাচক প্রভাব ফেলে যা মানসিক শক্তি, আত্মবিশ্বাস ও সহজাত নৈতিকতা গড়ে তোলে; এজন্য মায়ের আদরের ফলে সাধারণত সফল জীবন পাওয়া যায়। তাই সঠিক উত্তর হল b — সফলতা। অন্যান্য অপশনগুলোর কারণ- বিপর্যয়, অসুখ বা দুর্ভিক্ষ মায়ের আদরের প্রত্যক্ষ ফল নয়, বরং নেতিবাচক বা পরিবেশগত কারণের ফলাফল।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56632,
+      "value": {
+        "options": [],
+        "question": "মায়ের কাছে শিক্ষার গুরুত্ব কীভাবে উল্লেখ করা হয়েছে?",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ করে দেখি—প্রশ্নে মায়ের কাছে শিক্ষার গুরুত্ব কীভাবে উল্লেখ করা হয়েছে তা জানতে প্রথমে মূল বক্তব্য বা উক্তিটি খুঁজে বের করতে হবে। পাঠ্যের সেই অংশে বলা আছে যে সন্তান শিক্ষায় সফল হলে মা আনন্দিত হন এবং সন্তুষ্টি পান। তাই সঠিক উত্তর হচ্ছে: শিক্ষায় সফল হলে মা খুশি হন। অন্যান্য বিকল্পগুলো যদি বলেন যে মা শুধুমাত্র অর্থ-সুবিধা, সামাজিক মর্যাদা বা শৃঙ্খলা গুরুত্ব দেয়, সেগুলো পাঠ্যের সরাসরি বিবৃতির সঙ্গে মেলে না, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "শিক্ষায় সফল হলে মা খুশি হন।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56633,
+      "value": {
+        "options": {
+          "a": "এটি কেবল আবেগ",
+          "b": "এটি পরিবারে মমতা তুলে ধরে",
+          "c": "এটি রাজনৈতিক মন্তব্য",
+          "d": "এটি স্বাস্থ্যবিষয়ক"
+        },
+        "question": "কবিতায় মায়ের উল্লেখ কেন গুরুত্বপূর্ণ?",
+        "solution": "সমাধান:\nধাপ ১: কবিতায় মায়ের উল্লেখ সাধারণত চরিত্রের অনুভূতি ও সম্পর্কের কেন্দ্রবিন্দু হিসেবে কাজ করে—এটি মমতা, ত্যাগ ও স্নেহকে তুলে ধরে।  \nধাপ ২: এই কারণে বিকল্প (b) — \"এটি পরিবারে মমতা তুলে ধরে\" — প্রধান অর্থটি সঠিকভাবে ধরেছে।  \nধাপ ৩: অন্য বিকল্পগুলো ভুল কারণ (a) শুধুই \"কেবল আবেগ\" বলে সাধারণীকরণ করে, (c) রাজনৈতিক মন্তব্য বোঝায় যা প্রাসঙ্গিক নয়, এবং (d) স্বাস্থ্যবিষয়ক হওয়ার মতো কোনো ইঙ্গিত কবিতায় সাধারণত নেই। তাই সঠিক উত্তর হল (b)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56634,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কবিতা সম্পর্কে তথ্য সত্যি হলে কবির পরিচয় জানা যায়।",
+        "solution": "সমাধান:\n1) প্রশ্নটির অর্থ: “কবিতা সম্পর্কে তথ্য সত্যি হলে কবির পরিচয় জানা যায়” — এটি একটি কারণ-ফল সম্পর্কের বিবৃতি।  \n2) কারণ: যদি কবিতার উপর অক্ষরিত তথ্য (যেমন স্বাক্ষর, ইতিহাসগত রেকর্ড, নির্দিষ্ট শৈলী বা প্রাসঙ্গিক প্রসঙ্গ) সত্য হয়, তাহলে সেই তথ্যের ভিত্তিতে কবির পরিচয় নির্ণয় করা যায়; অতএব বিবৃতিটি বৈধ।  \n3) বিকল্প বিবেচনা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a) সঠিক; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (b) ভুল কারণ এটি সেই কারণ-ফল সম্পর্ককে অস্বীকার করে।  \nসঠিক উত্তর: a (True)",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56635,
+      "value": {
+        "options": {
+          "a": "দীর্ঘ শ্বাস",
+          "b": "সুখ",
+          "c": "যন্ত্রণাগুলি",
+          "d": "শান্তি"
+        },
+        "question": " মা'র শীতল কোলে __________।",
+        "solution": "সমাধান:\nStep 1: বাক্যটির অর্থ ও প্রসঙ্গ বিশ্লেষণ করলে বোঝা যায়—\"মা'র শীতল কোলে ...\" বলতে এমন কিছু বসানো উচিত যা মা’র সান্ত্বনা বা শান্তির প্রতীক এবং যা কষ্ট সইয়ে নেয়ার বা আরাম পাওয়ার সঙ্গে সম্পর্কিত।  \nStep 2: অপশনগুলো যাচাই করলে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দীর্ঘ শ্বাস—এটি বাক্যগঠন অনুযায়ী স্বাভাবিক সম্পূর্ণতা দেয় না; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সুখ এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E শান্তি সম্ভাব্য হলেও বাক্যের সরাসরি অনুভূতিকে সবচেয়ে বেশি খাপ খায় \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E যন্ত্রণাগুলি, কারণ মা'র কোলে থাকা মানে যন্ত্রণা কমে যাওয়া বা নিরাময় পাওয়া।  \nসুতরাং সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E যন্ত্রণাগুলি।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56636,
+      "value": {
+        "options": [],
+        "question": "মায়ের সম্পর্কে একটি বাক্য লিখুন।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি বোঝা — মায়ের সম্পর্কে সংক্ষিপ্ত, স্পষ্ট ও মানসিকভাবে অর্থবহ একটি বাক্য লিখতে হবে।  \nধাপ ২: উপযুক্ত ভাবনা নির্বাচন — মায়ের গুরুত্ব ও সান্নিধ্য সাধারণভাবে সবচেয়ে প্রাসঙ্গিক পয়েন্ট।  \nশেষ বাক্য: মা আমাদের জীবনের সবচেয়ে গুরুত্বপূর্ণ মানুষ।  \nব্যাখ্যা: এই বাক্যটি সংক্ষিপ্ত ও সারগর্ভভাবে মায়ের প্রতি সাধারণ আবেগ ও গুরুত্ব প্রকাশ করে; যদি কোনো বিকল্প খুব ব্যক্তিগত বা সীমিত তথ্য দেয় (যেমন কাজ বা শখ সম্পর্কে), তা প্রশ্নের সাধারণ উদ্দেশ্য পূরণে কম প্রাসঙ্গিক হবে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মা আমাদের জীবনের সবচেয়ে গুরুত্বপূর্ণ মানুষ।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56637,
+      "value": {
+        "options": {
+          "a": "ঢাকা",
+          "b": "চুরুলিয়া",
+          "c": "কক্সবাজার",
+          "d": "বরিশাল"
+        },
+        "question": "কবির জন্ম স্থান কী?",
+        "solution": "সমাধান: ধাপ ১: কবির জীবনীগত তথ্য অনুসারে তাঁর জন্মস্থান চুরুলিয়া। ধাপ ২: প্রদত্ত চারটি অপশনের মধ্যে \"চুরুলিয়া\" হল অপশন b, তাই সঠিক উত্তর হলো b। অন্যান্য অপশনগুলো — ঢাকা, কক্সবাজার এবং বরিশাল — 해당 কবির জন্মস্থান নয়, অতএব সেগুলো খারিজ করা হল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56638,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কবির মৃত্যু ১৯৭৬ সালে হয়।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে বলা তথ্যটি যাচাই করার জন্য প্রামাণ্য জীবনী বা বিশ্বাসযোগ্য সূত্র দেখা gerekir।  \nধাপ ২: যাচাই করলে প্রাপ্ত জীবনী তথ্যগুলোতে ব্যক্তিটির মৃত্যু সাল সত্যিই [math]1976[/math] হিসেবে উল্লেখ রয়েছে।  \nধাপ ৩: তাই প্রদত্ত বিবৃতি সঠিক এবং অপশন (a) — True সঠিক; অপশন (b) — False ভুল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7382,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7382&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7382&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7382&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 142,
+  "total": 142
+}

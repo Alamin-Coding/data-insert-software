@@ -1,0 +1,225 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747327,
+      "value": {
+        "options": {
+          "ক": "সীমিত",
+          "খ": "অসীম",
+          "গ": "আগামী ১০০ বছরের",
+          "ঘ": "একদমই নেই"
+        },
+        "question": "আমাদের প্রাকৃতিক সম্পদের পরিমাণ কীরূপ?",
+        "solution": "ক. সীমিত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747328,
+      "value": {
+        "options": {
+          "ক": "অপচয়",
+          "খ": "উৎপাদন",
+          "গ": "সংরক্ষণ",
+          "ঘ": "রিসাইকেল"
+        },
+        "question": "সোহেল কোনো জিনিস ফেলে না দিয়ে পুনর্ব্যবহার করে। এটি হলো সম্পদের—",
+        "solution": "গ. সংরক্ষণ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747329,
+      "value": {
+        "options": {
+          "ক": "সংরক্ষণ",
+          "খ": "রিসাইকেল",
+          "গ": "নবায়ন",
+          "ঘ": "পুনর্ব্যবহার"
+        },
+        "question": "শিপার মা, তাঁর ব্যবহার করা পুরাতন শাড়িগুলো দিয়ে কাঁথা বানিয়েছেন। শিপা এ প্রক্রিয়ার নাম কী বলবে?",
+        "solution": "ঘ. পুনর্ব্যবহার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747330,
+      "value": {
+        "options": {
+          "ক": "নবায়নযোগ্য প্রাকৃতিক সম্পদ",
+          "খ": "বায়ুপ্রবাহ",
+          "গ": "অনবায়নযোগ্য প্রাকৃতিক সম্পদ",
+          "ঘ": "সৌরশক্তি"
+        },
+        "question": "মানুষ প্রধানত কোনটি ব্যবহার করে বিদ্যুৎ উৎপাদন করে?",
+        "solution": "গ. অনবায়নযোগ্য প্রাকৃতিক সম্পদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747331,
+      "value": {
+        "options": {
+          "ক": "জিনিসপত্র রিসাইকেল করলে",
+          "খ": "অভ্যাসের পরিবর্তন",
+          "গ": "জীবাশ্ম জ্বালানি ব্যবহার",
+          "ঘ": "গাছ কাটলে"
+        },
+        "question": "কী করলে প্রাকৃতিক সম্পদের ওপর চাপ কম পড়ে?",
+        "solution": "ক. জিনিসপত্র রিসাইকেল করলে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7410&grade=7&lesson=13505&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7410&grade=7&lesson=13505&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7410&grade=7&lesson=13505&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

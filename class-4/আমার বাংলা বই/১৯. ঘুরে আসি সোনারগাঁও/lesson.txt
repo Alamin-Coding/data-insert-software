@@ -1,0 +1,5422 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 745148,
+      "value": {
+        "options": [],
+        "question": "ঐতিহাসিক",
+        "solution": "ইতিহাস সংক্রান্ত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745148,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745149,
+      "value": {
+        "options": [],
+        "question": "শাসনকর্তা",
+        "solution": "প্রধান শাসক।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745149,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745150,
+      "value": {
+        "options": [],
+        "question": "প্রসিদ্ধ",
+        "solution": "বিখ্যাত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745150,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745151,
+      "value": {
+        "options": [],
+        "question": "মসলিন",
+        "solution": "বিখ্যাত বস্ত্র, একসময় বাংলাদেশে তৈরি হতো।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745151,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745152,
+      "value": {
+        "options": [],
+        "question": "বিলিতি",
+        "solution": "বিলাত বা ইংল্যান্ডের কোনোকিছু।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745152,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745153,
+      "value": {
+        "options": [],
+        "question": "স্মৃতি",
+        "solution": "স্মরণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745153,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745154,
+      "value": {
+        "options": [],
+        "question": "বাহার",
+        "solution": "শোভা, সৌন্দর্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745154,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745155,
+      "value": {
+        "options": {
+          "ক": "যাত্রাবাড়ি",
+          "খ": "সোনারগাঁও",
+          "গ": "পাহাড়পুর",
+          "ঘ": "চট্টগ্রাম"
+        },
+        "question": "ঘুরে আসি সোনারগাঁও গল্পে শিক্ষা সফরে সবাই কোথায় যাচ্ছিল?",
+        "solution": "খ. সোনারগাঁও",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745155,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745156,
+      "value": {
+        "options": {
+          "ক": "দারুণ কারুকাজ করা",
+          "খ": "সাধারণ",
+          "গ": "অনেক পুরানো",
+          "ঘ": "নতুন"
+        },
+        "question": "লোকশিল্প জাদুঘরের প্রবেশ পথটি কেমন?",
+        "solution": "ক. দারুণ কারুকাজ করা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745156,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745157,
+      "value": {
+        "options": {
+          "ক": "নারায়ণগঞ্জ",
+          "খ": "সোনারগাঁও",
+          "গ": "গুলিস্তান",
+          "ঘ": "নওগাঁ"
+        },
+        "question": "মসলিন কাপড়ের জন্য প্রসিদ্ধ স্থান-",
+        "solution": "খ. সোনারগাঁও",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745157,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745158,
+      "value": {
+        "options": [],
+        "question": "ফুল",
+        "solution": "পুষ্প, কুসুম, মঞ্জরী, প্রসূন, পুষ্পক",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745158,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745159,
+      "value": {
+        "options": [],
+        "question": "সকাল",
+        "solution": "বিকাল",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745159,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745160,
+      "value": {
+        "options": [],
+        "question": "আনন্দ",
+        "solution": "বেদনা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745160,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745161,
+      "value": {
+        "options": [],
+        "question": "মিষ্টি",
+        "solution": "তেতো",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745161,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745162,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁও কোন ধরনের কাপড় তৈরির জন্য প্রসিদ্ধ ছিল? কেন?",
+        "solution": "সোনারগাঁও মসলিন কাপড় তৈরির জন্য প্রসিদ্ধ ছিল। কারণ সেখানকার তৈরি মসলিনের বিশ্বজোড়া খ্যাতি ও কদর ছিল। পরে সুতি কাপড়ের প্রধান কেন্দ্র হয়ে ওঠে এটি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745163,
+      "value": {
+        "options": [],
+        "question": "সংক্ষেপে সুবর্ণগ্রামের বর্ণনা দাও।",
+        "solution": "প্রাচীনকালের সমৃদ্ধ নগর সুবর্ণগ্রাম। পরে এটির নাম হয় সোনারগাঁও। ঢাকার আগে সোনারগাঁও ছিল দক্ষিণ-পূর্ব বাংলার রাজধানী। ঈশা খাঁ ছিলেন এ অঞ্চলের শাসক। সোনারগাঁওয়ের সবচেয়ে সমৃদ্ধ এলাকা পানাম নগর। এখানে ধনী ব্যবসায়ীরা বসবাস করতেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745164,
+      "value": {
+        "options": [],
+        "question": "আবরণ",
+        "solution": "আচ্ছাদন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745165,
+      "value": {
+        "options": [],
+        "question": "শীতের সকালের মিষ্টি _____ খুব ভালো লাগছে।",
+        "solution": "রোদ্দুর",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745166,
+      "value": {
+        "options": [],
+        "question": "রাস্তার দুই পাশে সারি সারি _____ দালান।",
+        "solution": "প্রাচীন",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745167,
+      "value": {
+        "options": [],
+        "question": "আমরা আগামী শুক্রবার সোনারগাঁও লোকশিল্প _____ দেখতে যাব।",
+        "solution": "জাদুঘর",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745168,
+      "value": {
+        "options": [],
+        "question": "ভালো",
+        "solution": "মন্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745169,
+      "value": {
+        "options": [],
+        "question": "আসল",
+        "solution": "নকল",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745170,
+      "value": {
+        "options": [],
+        "question": "সকাল",
+        "solution": "সন্ধ্যা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745171,
+      "value": {
+        "options": [],
+        "question": "শীত",
+        "solution": "ঠান্ডা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745172,
+      "value": {
+        "options": [],
+        "question": "দালান",
+        "solution": "পানাম নগরে রাস্তার দুই পাশে সারি সারি প্রাচীন দালান।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745173,
+      "value": {
+        "options": [],
+        "question": "কারুকাজ",
+        "solution": "প্রাসাদটির প্রবেশপথ খুব সুন্দর কারুকাজ করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745174,
+      "value": {
+        "options": [],
+        "question": "গন্তব্য",
+        "solution": "আমাদের গন্তব্যস্থল কক্সবাজার।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745175,
+      "value": {
+        "options": [],
+        "question": "হাসান স্যার আরও জানালেন প্রাচীনকালের সমৃদ্ধ নগর সুবর্ণগ্রাম পরে এর নাম হয় সোনারগাঁও ঢাকার আগে সোনারগাঁও ছিল দক্ষিণ পূর্ব বাংলার রাজধানী ঈশা খাঁ ছিলেন এই অঞ্চলের শাসক",
+        "solution": "হাসান স্যার আরও জানালেন, প্রাচীনকালের সমৃদ্ধ নগর সুবর্ণগ্রাম। পরে এর নাম হয় সোনারগাঁও। ঢাকার আগে সোনারগাঁও ছিল দক্ষিণ-পূর্ব বাংলার রাজধানী। ঈশা খাঁ ছিলেন এই অঞ্চলের শাসক।",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745176,
+      "value": {
+        "options": {
+          "ক": "দোতলা",
+          "খ": "তিনতলা",
+          "গ": "চারতলা",
+          "ঘ": "পাঁচতলা"
+        },
+        "question": "পানাম নগরের দালানগুলো কত তলা বিশিষ্ট?",
+        "solution": "ক. দোতলা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745177,
+      "value": {
+        "options": {
+          "ক": "সোনারগাঁওয়ে",
+          "খ": "গফরগাঁওয়ে",
+          "গ": "বীরগাঁও",
+          "ঘ": "আগারগাঁও"
+        },
+        "question": "পানাম নগর কোথায় অবস্থিত?",
+        "solution": "ক. সোনারগাঁওয়ে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745178,
+      "value": {
+        "options": {
+          "ক": "পাঁচগম্বুজ বিশিষ্ট",
+          "খ": "ষাটগম্বুজ বিশিষ্ট",
+          "গ": "একগম্বুজ বিশিষ্ট",
+          "ঘ": "সাতগম্বুজ বিশিষ্ট"
+        },
+        "question": "গোয়ালদি মসজিদটি কতটি গম্বুজবিশিষ্ট?",
+        "solution": "গ. একগম্বুজ বিশিষ্ট",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745179,
+      "value": {
+        "options": {
+          "ক": "মৃৎপাত্র, অলংকার, খাদ্যশস্য",
+          "খ": "মাটির পুতুল, মুখোশ, নরকংকাল",
+          "গ": "মুখোশ, মৃৎপাত্র, মাটির পুতুল",
+          "ঘ": "বৈজ্ঞানিক সরঞ্জাম, বাঁশ-লোহা-কাঁসার তৈরি জিনিস"
+        },
+        "question": "লোকশিল্প জাদুঘরে কী রয়েছে?",
+        "solution": "গ. মুখোশ, মৃৎপাত্র, মাটির পুতুল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745180,
+      "value": {
+        "options": {
+          "ক": "নারায়ণগঞ্জ",
+          "খ": "সিরাজগঞ্জ",
+          "গ": "মানিকগঞ্জ",
+          "ঘ": "কিশোরগঞ্জ"
+        },
+        "question": "সোনারগাঁও কোন জেলায় অবস্থিত?",
+        "solution": "ক. নারায়ণগঞ্জ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745181,
+      "value": {
+        "options": {
+          "ক": "জানুয়ারির মাঝামাঝি",
+          "খ": "ফেব্রুয়ারির মাঝামাঝি",
+          "গ": "ডিসেম্বরের মাঝামাঝি",
+          "ঘ": "মার্চের মাঝামাঝি"
+        },
+        "question": "'ঘুরে আসি সোনারগাঁও' গল্পে সবাই শিক্ষা সফরে গিয়েছিল কবে?",
+        "solution": "ক. জানুয়ারির মাঝামাঝি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745182,
+      "value": {
+        "options": {
+          "ক": "আলোকদিয়া",
+          "খ": "সুবর্ণগ্রাম",
+          "গ": "কাঞ্চনপুর",
+          "ঘ": "কনকপ্রভা"
+        },
+        "question": "সোনারগাঁওয়ের পূর্ব নাম কী ছিল?",
+        "solution": "খ. সুবর্ণগ্রাম",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745183,
+      "value": {
+        "options": [],
+        "question": "ন্দ",
+        "solution": "ন্&zwnj;+দ -&nbsp;নিন্দা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745184,
+      "value": {
+        "options": [],
+        "question": "ল্ল",
+        "solution": "ল্+ল - উল্লাস",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745185,
+      "value": {
+        "options": [],
+        "question": "ন্ত",
+        "solution": "ন্&zwnj;+ত -&nbsp;শান্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745186,
+      "value": {
+        "options": [],
+        "question": "গ্রামীণ মানুষের তৈরি জিনিসপত্র",
+        "solution": "লোকশিল্প",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745187,
+      "value": {
+        "options": [],
+        "question": "মাটির তৈরি পাত্র",
+        "solution": "মৃৎপাত্র",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745188,
+      "value": {
+        "options": [],
+        "question": "নানা রকম জিনিস সংগ্রহ করে রাখা হয় যেখানে",
+        "solution": "সংগ্রহশালা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745189,
+      "value": {
+        "options": [],
+        "question": "গম্বুজ",
+        "solution": "চূড়া।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745189,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745190,
+      "value": {
+        "options": [],
+        "question": "বঙ্গদেশ",
+        "solution": "বাংলাদেশ, বাংলাদেশ স্বাধীন হওয়ার আগের অবিভক্ত অঞ্চল।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745190,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745191,
+      "value": {
+        "options": [],
+        "question": "অঞ্চল",
+        "solution": "স্থান, দেশের ভূখণ্ডের বিভাগ, রাজ্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745191,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745192,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁও কোথায় অবস্থিত?",
+        "solution": "ঢাকা থেকে ২৭ কিলোমিটার দূরে ঢাকার দক্ষিণ-পূর্ব দিকে নারায়ণগঞ্জ জেলায় সোনারগাঁও অবস্থিত। এটির পূর্ব নাম সুবর্ণগ্রাম।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745192,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745193,
+      "value": {
+        "options": [],
+        "question": "গোয়ালদি মসজিদ কী জন্যে বিখ্যাত?",
+        "solution": "ঢাকার অদূরে ঐতিহাসিক সোনারগাঁওয়ে এক গম্বুজবিশিষ্ট প্রাচীন মসজিদটির নাম গোয়ালদি মসজিদ। এ মসজিদে মোগল স্থাপত্যশৈলীর অপূর্ব নিদর্শন রয়েছে বলে এটি বিখ্যাত।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745193,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745194,
+      "value": {
+        "options": [],
+        "question": "পানাম নগর কী জন্য প্রসিদ্ধ?",
+        "solution": "ঐতিহাসিক সোনারগাঁওয়ের সবচেয়ে সমৃদ্ধ এলাকা হচ্ছে পানাম নগর। এ যেন নগরের মধ্যে আর এক নগর। এখানে একসময় বিখ্যাত মসলিন কাপড় তৈরি করা হতো। যার বিশ্বজোড়া খ্যাতি ও কদর ছিল। বঙ্গদেশের এই সোনারগাঁও তখন ছিল মসলিন কাপড় তৈরির প্রসিদ্ধ স্থান, যা পরবর্তীতে সুতি কাপড়ের প্রধান কেন্দ্র হয়ে ওঠে। এ কারণেই পানাম নগর প্রসিদ্ধ।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745194,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745195,
+      "value": {
+        "options": {
+          "ক": "পূর্ব বাংলার রাজধানী",
+          "খ": "দক্ষিণ বাংলার রাজধানী",
+          "গ": "দক্ষিণ-পূর্ব বাংলার রাজধানী",
+          "ঘ": "উত্তর বাংলার রাজধানী"
+        },
+        "question": "ঢাকার আগে সোনারগাঁও ছিল-",
+        "solution": "গ. দক্ষিণ-পূর্ব বাংলার রাজধানী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745195,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745196,
+      "value": {
+        "options": [],
+        "question": "পানি",
+        "solution": "জল, বারি, সলিল, নীর, অম্বু",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745196,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745197,
+      "value": {
+        "options": [],
+        "question": "লোকশিল্প জাদুঘর সাধারণ জাদুঘর নয় কেন? বুঝিয়ে লেখ।",
+        "solution": "লোকশিল্প জাদুঘর সাধারণ জাদুঘর নয়। কেননা এখানে গ্রামীণ মানুষের তৈরি জিনিসপত্র বা লোকশিল্প সংগৃহীত আছে। জাদুঘরে আছে কাঠের তৈরি জিনিস, মুখোশ, মৃৎপাত্র, মাটির পুতুল, বাঁশ-লোহা-কাঁসার তৈরি নানা জিনিস, অলংকার, ঐতিহ্যবাহী জামদানি শাড়ি ও নকশিকাঁথা। এই জাদুঘর গ্রামীণ জনগোষ্ঠীর স্থানীয় জীবনকে কেন্দ্র করে গড়ে উঠেছে। ঐতিহ্যবাহী এসব লোকশিল্প নিয়ে তৈরি বলে এটি লোকশিল্প জাদুঘর। আর সাধারণ জাদুঘর সাধারণত যেকোনো বস্তুর সংগ্রহ বোঝায়। সেখানে বৈজ্ঞানিক নমুনা, শিল্প, ইতিহাস ইত্যাদির নমুনা থাকে। এজন্য লোকশিল্প জাদুঘর সাধারণ জাদুঘর নয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745198,
+      "value": {
+        "options": [],
+        "question": "ভেদ",
+        "solution": "ছেদন, বিচ্ছেদ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745199,
+      "value": {
+        "options": [],
+        "question": "মুগ্ধ",
+        "solution": "আত্মহারা, বিভোর।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745200,
+      "value": {
+        "options": [],
+        "question": "আনন্দ",
+        "solution": "বেদনা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745201,
+      "value": {
+        "options": [],
+        "question": "ছোটো",
+        "solution": "বড়ো",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745202,
+      "value": {
+        "options": [],
+        "question": "কুয়াশা",
+        "solution": "কুহেলিকা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745203,
+      "value": {
+        "options": [],
+        "question": "আকাশ",
+        "solution": "গগন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745204,
+      "value": {
+        "options": [],
+        "question": "চোখ",
+        "solution": "নয়ন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745205,
+      "value": {
+        "options": [],
+        "question": "প্রতিষ্ঠাতা",
+        "solution": "সোনারগাঁও লোকশিল্প জাদুঘরের প্রতিষ্ঠাতা শিল্পী জয়নুল আবেদিন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745206,
+      "value": {
+        "options": [],
+        "question": "নিদর্শন",
+        "solution": "মোগল স্থাপত্যশৈলীর অপূর্ব নিদর্শন রয়েছে এ দেশের বিভিন্ন মসজিদে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745207,
+      "value": {
+        "options": {
+          "ক": "নকশিকাঁথার",
+          "খ": "মসলিনের",
+          "গ": "সিল্কের",
+          "ঘ": "জামদানির"
+        },
+        "question": "সোনারগাঁওয়ে তৈরি কীসের খ্যাতি ছিল বিশ্বজোড়া?",
+        "solution": "খ. মসলিনের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745208,
+      "value": {
+        "options": {
+          "ক": "উত্তর-পূর্বে",
+          "খ": "দক্ষিণ-পশ্চিমে",
+          "গ": "উত্তর-পশ্চিমে",
+          "ঘ": "দক্ষিণ-পূর্বে"
+        },
+        "question": "সোনারগাঁওয়ের অবস্থান ঢাকার কোন দিকে?",
+        "solution": "ঘ. দক্ষিণ-পূর্বে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745209,
+      "value": {
+        "options": {
+          "ক": "একটি রাস্তা",
+          "খ": "দুটি রাস্তা",
+          "গ": "তিনটি রাস্তা",
+          "ঘ": "চারটি রাস্তা"
+        },
+        "question": "পানাম নগরে কয়টি রাস্তা আছে?",
+        "solution": "ক. একটি রাস্তা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745210,
+      "value": {
+        "options": {
+          "ক": "অনেক বড়ো শিল্পী",
+          "খ": "অনেক বড়ো বিজ্ঞানী",
+          "গ": "অনেক বড়ো প্রকৌশলী",
+          "ঘ": "অনেক বড়ো পটুয়া"
+        },
+        "question": "জয়নুল আবেদিন কে ছিলেন?",
+        "solution": "ক. অনেক বড়ো শিল্পী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745211,
+      "value": {
+        "options": [],
+        "question": "চ্ছ",
+        "solution": "চ্+ছ - পরিচ্ছন্ন",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745212,
+      "value": {
+        "options": [],
+        "question": "স্ক",
+        "solution": "স্&zwnj;+ক -&nbsp;ভাস্কর",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745213,
+      "value": {
+        "options": [],
+        "question": "ঙ্খ",
+        "solution": "ঙ্&zwnj;+খ -&nbsp;বিশৃঙ্খলা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745214,
+      "value": {
+        "options": [],
+        "question": "শিক্ষা অর্জনের জন্য যে সফর বা ভ্রমণ",
+        "solution": "শিক্ষাসফর",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745215,
+      "value": {
+        "options": [],
+        "question": "প্রবেশ করা হয় যে পথে",
+        "solution": "প্রবেশপথ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745216,
+      "value": {
+        "options": [],
+        "question": "বিস্মিত",
+        "solution": "অবাক হওয়া।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745216,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745217,
+      "value": {
+        "options": [],
+        "question": "কদর",
+        "solution": "সমাদর, সম্মান, খাতির।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745217,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745218,
+      "value": {
+        "options": [],
+        "question": "লোকশিল্প জাদুঘর কেন দরকার?",
+        "solution": "একটি দেশের শিল্প-সংস্কৃতি, ইতিহাস-ঐতিহ্যের যাবতীয় নিদর্শন জাদুঘরেই সংরক্ষিত থাকে। আর আমাদের দেশের সাধারণ খেটে খাওয়া গ্রামীণ মানুষেরা কাঠ, বেত, বাঁশ, মাটি ইত্যাদি দিয়ে যা কিছু তৈরি করেছেন সবই আমাদের ইতিহাস-ঐতিহ্য ও সংস্কৃতির অংশ। তাই এগুলোকে সংরক্ষণ করার জন্য লোকশিল্প জাদুঘর একান্ত দরকার।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745218,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745219,
+      "value": {
+        "options": {
+          "ক": "ঈশা খাঁ",
+          "খ": "তিতুমীর",
+          "গ": "আলীবর্দি খাঁ",
+          "ঘ": "নবাব আহসানউল্লাহ"
+        },
+        "question": "দক্ষিণ-পূর্ব বাংলার শাসনকর্তা ছিলেন-",
+        "solution": "ক. ঈশা খাঁ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745219,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745220,
+      "value": {
+        "options": {
+          "ক": "২৭ কিমি",
+          "খ": "২২ কিমি",
+          "গ": "২৫ কিমি",
+          "ঘ": "২৮ কিমি"
+        },
+        "question": "ঢাকা থেকে সোনারগাঁওয়ের দূরত্ব-",
+        "solution": "ক. ২৭ কিমি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745220,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745221,
+      "value": {
+        "options": [],
+        "question": "নদী",
+        "solution": "তটিনী, গাং, প্রবাহিণী, কল্লোলিনী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745221,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745222,
+      "value": {
+        "options": [],
+        "question": "পতাকা",
+        "solution": "কেতন, ঝান্ডা, নিশান, বৈজয়ন্তী, ধ্বজা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745222,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745223,
+      "value": {
+        "options": [],
+        "question": "যাওয়া",
+        "solution": "আসা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745223,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745224,
+      "value": {
+        "options": [],
+        "question": "ঢাকা থেকে সোনারগাঁওয়ের দূরত্ব সম্পর্কে সংক্ষেপে লেখ।",
+        "solution": "ঢাকার দক্ষিণ-পূর্বে প্রাচীন নগরী সোনারগাঁওয়ের অবস্থান। ঢাকা থেকে সোনারগাঁওয়ের দূরত্ব ২৭ কিলোমিটার। এটা নারায়ণগঞ্জ জেলায় অবস্থিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745225,
+      "value": {
+        "options": [],
+        "question": "দেশি কাপড়ের কদর কমে যায় কেন?",
+        "solution": "এ দেশে ইংরেজরা আসার পর দেশি কাপড়ের কদর কমে যায়। তখন বিলিতি কাপড় আসতে শুরু করে এ দেশে। বন্ধ হয়ে যায় সোনারগাঁওয়ের কাপড়ের ব্যবসা-বাণিজ্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745226,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন",
+        "solution": "পুরোনো।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745227,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁও ছিল মসলিন কাপড় তৈরির _____ স্থান।",
+        "solution": "প্রসিদ্ধ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745228,
+      "value": {
+        "options": [],
+        "question": "সকাল",
+        "solution": "প্রভাত",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745229,
+      "value": {
+        "options": [],
+        "question": "গ্রাম",
+        "solution": "গাঁ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745230,
+      "value": {
+        "options": [],
+        "question": "বিশ্বজোড়া",
+        "solution": "সোনারগাঁওয়ে তৈরি মসলিনের বিশ্বজোড়া খ্যাতি ছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745231,
+      "value": {
+        "options": [],
+        "question": "গম্বুজ",
+        "solution": "ষাটগম্বুজ মসজিদটি খুব বিখ্যাত।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745232,
+      "value": {
+        "options": {
+          "ক": "মিয়াবাড়ি",
+          "খ": "কাজিবাড়ি",
+          "গ": "সৈয়দবাড়ি",
+          "ঘ": "সর্দারবাড়ি"
+        },
+        "question": "লোকশিল্প জাদুঘরের বাড়িটির আদি নাম কী?",
+        "solution": "ঘ. সর্দারবাড়ি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745233,
+      "value": {
+        "options": {
+          "ক": "ওলন্দাজরা এদেশে এলে",
+          "খ": "ইংরেজরা এদেশে এলে",
+          "গ": "ফরাসিরা এদেশে এলে",
+          "ঘ": "পর্তুগিজরা এদেশে এলে"
+        },
+        "question": "পানাম নগরের ব্যবসা-বাণিজ্য বন্ধ হয়ে যায় কখন?",
+        "solution": "খ. ইংরেজরা এদেশে এলে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745234,
+      "value": {
+        "options": {
+          "ক": "দেশি কাপড় খারাপ বলে",
+          "খ": "দেশি কাপড় আরামহীন বলে",
+          "গ": "বিলিতি কাপড় এ দেশে আসে বলে",
+          "ঘ": "ইংরেজরা দেশি কাপড় নিষিদ্ধ করে বলে"
+        },
+        "question": "ইংরেজরা এ দেশে আসার পর দেশি কাপড়ের কদর কমে যায় কেন?",
+        "solution": "গ. বিলিতি কাপড় এ দেশে আসে বলে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745235,
+      "value": {
+        "options": {
+          "ক": "ঈশা খাঁ",
+          "খ": "তিতুমীর",
+          "গ": "সূর্যসেন",
+          "ঘ": "শায়েস্তা খাঁ"
+        },
+        "question": "সোনারগাঁও অঞ্চলের শাসক কে ছিলেন?",
+        "solution": "ক. ঈশা খাঁ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745236,
+      "value": {
+        "options": [],
+        "question": "ক্ষ",
+        "solution": "ক্&zwnj;+ষ - ক্ষমা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745237,
+      "value": {
+        "options": [],
+        "question": "ইতিহাস সম্পর্কিত",
+        "solution": "ঐতিহাসিক",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745238,
+      "value": {
+        "options": [],
+        "question": "স্থাপত্য",
+        "solution": "স্থাপনাকেন্দ্রিক শিল্পকর্ম।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745238,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745239,
+      "value": {
+        "options": [],
+        "question": "নিদর্শন",
+        "solution": "দৃষ্টান্ত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745239,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745240,
+      "value": {
+        "options": [],
+        "question": "সমৃদ্ধ",
+        "solution": "উন্নত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745240,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745241,
+      "value": {
+        "options": [],
+        "question": "অভূতপূর্ব",
+        "solution": "পূর্বে যা দেখা যায়নি বা ঘটেনি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745241,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745242,
+      "value": {
+        "options": [],
+        "question": "অস্তগামী",
+        "solution": "পশ্চিম দিকে ঢলে পড়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745242,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745243,
+      "value": {
+        "options": [],
+        "question": "লোকশিল্প",
+        "solution": "সর্বসাধারণের জন্য শিল্প, গ্রামের সাধারণ মানুষের তৈরি শিল্প।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745243,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745244,
+      "value": {
+        "options": [],
+        "question": "ম্যাপ",
+        "solution": "মানচিত্র।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745244,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745245,
+      "value": {
+        "options": [],
+        "question": "খ্যাত",
+        "solution": "সুপরিচিত, বিখ্যাত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745245,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745246,
+      "value": {
+        "options": [],
+        "question": "লোকশিল্প কাকে বলে?",
+        "solution": "গ্রামের মানুষ বাঁশ, বেত, কাঠ, মাটি ইত্যাদি দিয়ে যে নানা রকম জিনিস তৈরি করে, তাই লোকশিল্প। এককথায় আমাদের গ্রামীণ মানুষের তৈরি জিনিসপত্রকে বলে লোকশিল্প। যেমন- হাঁড়ি-পাতিল, মুখোশ, মাটির পুতুল, কুলা, ঢেঁকি ইত্যাদি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745246,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745247,
+      "value": {
+        "options": [],
+        "question": "জাদুঘর বলতে কী বুঝি?",
+        "solution": "একটি দেশের ইতিহাস-ঐতিহ্যের, শিল্প-সংস্কৃতির যাবতীয় নিদর্শন যেখানে সংরক্ষণ করে রাখা হয় তাকে জাদুঘর বলে। এখানে একটি দেশের সংস্কৃতির, ঐতিহ্যের সব নিদর্শন প্রদর্শনের জন্য রাখা হয়। প্রজন্মের পর প্রজন্ম জাদুঘরে গিয়ে তার দেশের প্রাচীন স্মৃতিচিহ্নিত নিদর্শনগুলো দেখতে পারে, তার সংস্কৃতি ও ঐতিহ্য সম্পর্কে জানতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745247,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745248,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁও লোকশিল্প জাদুঘরের প্রতিষ্ঠাতা কে?",
+        "solution": "সোনারগাঁও লোকশিল্প জাদুঘরের প্রতিষ্ঠাতা বিখ্যাত শিল্পী জয়নুল আবেদিন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745248,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745249,
+      "value": {
+        "options": [],
+        "question": "পৃথিবী",
+        "solution": "জগৎ, ধরণী, ধরিত্রী, ভুবন, বসুন্ধরা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745249,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745250,
+      "value": {
+        "options": [],
+        "question": "রোদ",
+        "solution": "বৃষ্টি",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745250,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745251,
+      "value": {
+        "options": [],
+        "question": "প্রথম",
+        "solution": "শেষ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745251,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745252,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁও লোকশিল্প জাদুঘরে সাবিহারা কী কী দেখছিল?",
+        "solution": "সোনারগাঁও লোকশিল্প জাদুঘরে সাবিহারা অনেক রকম জিনিস দেখতে পায়। কাঠের তৈরি জিনিস, মুখোশ, মৃৎপাত্র, মাটির পুতুল, বাঁশ-লোহা-কাঁসার তৈরি নানা জিনিস, অলংকার ইত্যাদি দেখে সাবিহারা বিস্মিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745253,
+      "value": {
+        "options": [],
+        "question": "সাবিহার মন খুশিতে ভরে উঠল কেন?",
+        "solution": "সোনারগাঁওয়ের মাটিতে পা দিয়েই সাবিহার মন খুশিতে ভরে উঠল। চারদিকের সবুজ গাছপালা আর শীতের সকালের মিষ্টি রোদ্দুরে তার মন ভালো হয়ে যায়। সেখানে প্রথমেই চোখে পড়ে একগম্বুজ বিশিষ্ট প্রাচীন গোয়ালদি মসজিদ। মোট কথা সুন্দর, স্নিগ্ধ পরিবেশ দেখে সাবিহার মন খুশিতে ভরে উঠল।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745254,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁওয়ের সবচেয়ে সমৃদ্ধ এলাকার বর্ণনা দাও।",
+        "solution": "সোনারগাঁওয়ের সবচেয়ে সমৃদ্ধ এলাকা পানাম নগর। এখানে একটা মাত্র রাস্তা। তার দুপাশে সারি সারি প্রাচীন দালান। দালানগুলো উঁচু নয়, সবই দোতলা। এগুলো একশো বছরেরও আগে তৈরি হয়েছিল। এখানেই ধনী ব্যবসায়ীরা বসবাস করতেন। মসলিন কাপড় তৈরির প্রসিদ্ধ স্থান ছিল এটি। এখানকার মসলিনের বিশ্বজোড়া খ্যাতি ও কদর ছিল। পরে সুতি কাপড়ের প্রধান কেন্দ্র হয়ে ওঠে এটি। এ শহরের পুরাতন দালানগুলো বাংলার অভূতপূর্ব স্থাপত্যশৈলীর সাক্ষী। আমাদের সংস্কৃতির নিদর্শন হিসেবে মাথা উঁচু করে সগর্বে দাঁড়িয়ে আছে যেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745255,
+      "value": {
+        "options": [],
+        "question": "অপূর্ব",
+        "solution": "চমৎকার।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745256,
+      "value": {
+        "options": [],
+        "question": "সাক্ষী",
+        "solution": "কোনো বিষয় বা ঘটনা প্রত্যক্ষকারী।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745257,
+      "value": {
+        "options": [],
+        "question": "পরশ",
+        "solution": "স্পর্শ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745258,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁওয়ের সবচেয়ে সমৃদ্ধ এলাকা _____ নগর।",
+        "solution": "পানাম",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745259,
+      "value": {
+        "options": [],
+        "question": "আমাদের গ্রামীণ মানুষের তৈরি জিনিসপত্রকে বলে _____।",
+        "solution": "লোকশিল্প",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745260,
+      "value": {
+        "options": [],
+        "question": "উঁচু",
+        "solution": "নিচু",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745261,
+      "value": {
+        "options": [],
+        "question": "আকাশে",
+        "solution": "পাতালে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745262,
+      "value": {
+        "options": [],
+        "question": "আবরণ",
+        "solution": "আচ্ছাদন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745263,
+      "value": {
+        "options": {
+          "ক": "পানাম নগর",
+          "খ": "গোয়ালদি মসজিদ",
+          "গ": "ঐতিহাসিক সোনারগাঁও",
+          "ঘ": "সোনারগাঁও লোকশিল্প জাদুঘর"
+        },
+        "question": "'ঘুরে আসি সোনারগাঁও' গল্পের সাবিহাদের শেষ গন্তব্য ছিল কোথায়?",
+        "solution": "ঘ. সোনারগাঁও লোকশিল্প জাদুঘর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745264,
+      "value": {
+        "options": [],
+        "question": "অস্ত যেতে বসেছে এমন",
+        "solution": "অস্তগামী",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-11-27T06:39:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 172301,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁওয়ের মসলিন কাপড়ের ব্যবসা কীভাবে প্রভাবিত হয়েছে ইংরেজদের আগমনের পর?",
+        "chapter_id": "1349",
+        "explanation": "ইংরেজদের কলোনিয়াল নীতির ফলে দেশি মসলিনের বাজার সংকুচিত হয়ে যায়; তারা সস্তা মেশিন-বুনঘটিত বিলেতি কাপড় আমদানি ও শুল্ক-নীতি চালু করে। এতে সোনারগাঁওয়ের মসলিনের চাহিদা কমে শিল্প ও কুশলীরা ক্ষতিগ্রস্ত হন।",
+        "correct_answer": "ইংরেজদের আগমনের পর দেশি কাপড়ের কদর কমে গিয়েছিল এবং বিলিতি কাপড়ের প্রভাব বাড়ে।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-08-04T01:37:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 172302,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁওয়ের গোয়ালদি মসজিদ কেন বিখ্যাত?",
+        "chapter_id": "1349",
+        "explanation": "গোয়ালদি মসজিদটি মোঘল স্থাপত্যশৈলীর সুদৃশ্য উদাহরণ—এর গঠন, গম্বুজ ও অলঙ্করণ মোঘল কালের নকশার চিন্হ বহন করে। এছাড়া এটি প্রাচীন ও ঐতিহাসিক মূল্যবান নিদর্শন হওয়ায় সংস্কৃতি ও ইতিহাসের দিক থেকেও গুরুত্বপূর্ণ হিসেবে খ্যাত।",
+        "correct_answer": "গোয়ালদি মসজিদ মোঘল স্থাপত্যশৈলীর অপূর্ব নিদর্শন এবং এটি প্রাচীনকাল থেকে গুরুত্বপূর্ণ স্থাপন।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-08-04T01:37:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 172303,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁও লোকশিল্প জাদুঘরের উদ্দেশ্য কী এবং এর প্রতিষ্ঠাতা কে?",
+        "chapter_id": "1349",
+        "explanation": "ব্যাখ্যা: সোনারগাঁও লোকশিল্প জাদুঘর প্রতিষ্ঠিত হয় গ্রামীণ শিল্প-কলা ও সাংস্কৃতিক নিদর্শন সংগ্রহ, সংরক্ষণ ও প্রদর্শনের উদ্দেশ্যে যাতে ঐতিহ্যগত কুটিরশিল্প ও প্রাণবন্ত লোকজ সংস্কৃতি ভবিষ্যৎ প্রজন্মের কাছে ধরিয়ে দেওয়া যায়। এর প্রতিষ্ঠাতা ছিলেন দেশের খ্যাতিমান শিল্পী জয়নুল আবেদিন, যিনি লোকশিল্প সংগ্রহ ও সংরক্ষণ নিয়ে বিশেষ কাজ করেছিলেন।",
+        "correct_answer": "লোকশিল্প জাদুঘরের উদ্দেশ্য গ্রামীণ শিল্প ও সংস্কৃতির নিদর্শন সংরক্ষণ করা এবং এর প্রতিষ্ঠাতা শিল্পী জয়নুল আবেদিন।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-08-04T01:37:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56639,
+      "value": {
+        "options": {
+          "a": "চট্টগ্রাম",
+          "b": "নারায়ণগঞ্জ",
+          "c": "ঢাকা",
+          "d": "রাজশাহী"
+        },
+        "question": "সোনারগাঁও কোথায় অবস্থিত?",
+        "solution": "সমাধান:\n\nসোনারগাঁও হল একটি ঐতিহাসিক শহর যা শীতলক্ষ্যা নদীর তীরবর্তী এবং প্রশাসনিকভাবে নারায়ণগঞ্জ জেলায় অবস্থান করে। তাই প্রদত্ত বিকল্পগুলির মধ্যে সঠিক উত্তরটি হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E — নারায়ণগঞ্জ। অন্যান্য বিকল্পগুলো (যেমন \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E চট্টগ্রাম, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ঢাকা, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E রাজশাহী) ভৌগোলিকভাবে সোনারগাঁওয়ের অবস্থানকে প্রতিনিধিত্ব করে না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56640,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "সোনারগাঁও শহরের নামে সুবর্ণগ্রাম নামক শহরটির নাম পরিবর্তন হয়েছে।",
+        "solution": "সমাধান:  \nপ্রথম ধাপ: ঐতিহাসিকভাবে সোনারগাঁওকে আরেক নাম হিসেবে \"সুবর্ণগ্রাম\" (অর্থ: স্বর্ণের গ্রাম) বলা হতো এবং মধ্যযুগে এই নামে অঞ্চলটি পরিচিত ছিল।  \nদ্বিতীয় ধাপ: প্রশ্নে বলা হয়েছে সোনারগাঁও শহরের নামে সুবর্ণগ্রাম নামক নাম পরিবর্তন হয়েছে — এটি ঐতিহাসিক নামের ব্যবহারকে নির্দেশ করে, ফলে বিবৃতি সত্য।  \nঅন্যান্য বিকল্পের ব্যাখ্যা: বিকল্প (b) ভুল, কারণ এতে বলা হচ্ছে বিবৃতিটি মিথ্যা যা ঐতিহাসিক তথ্যের সঙ্গে সামঞ্জস্যপূর্ণ নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56641,
+      "value": {
+        "options": {
+          "a": "জাদুঘর",
+          "b": "গোয়ালদি মসজিদ",
+          "c": "গোপালগঞ্জ",
+          "d": "ব্যাংক"
+        },
+        "question": "সোনারগাঁয়ের বিখ্যাত স্থাপত্য হলো __________।",
+        "solution": "সমাধান:\nসোনারগাঁ বাংলাদেশের ঐতিহাসিক স্থাপনা এবং পুরাতন শহরের মধ্যে অন্যতম বিখ্যাত স্থাপত্য হল গোয়ালদি মসজিদ, তাই বিকল্প (b) সঠিক। গোয়ালদি মসজিদটি বাংলা সুলতানাতকালীন সময়ের একটি পুরনো মসজিদ হিসেবে তার স্থাপত্যশৈলী ও ভাস্কর্য দিয়ে পরিচিত। অন্য বিকল্পগুলো ভুল কারণ (a) জাদুঘর—সোনারগাঁর প্রধান আকর্ষণ মসজিদ ও পুরাতন বাসস্ট্যান নয়, (c) গোপালগঞ্জ—একটি জেলা/স্থান নাম, (d) ব্যাংক—একটি প্রতিষ্ঠান, এগুলো নির্দিষ্ট ঐতিহাসিক স্থাপত্য হিসাবে সঠিক নয়। তাই সঠিক উত্তর: b (গোয়ালদি মসজিদ)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56642,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁও লোকশিল্প জাদুঘরের প্রতিষ্ঠাতা কে?",
+        "solution": "সমাধান:\nধাপ ১: বাংলাদেশি শিল্প ও লোকশিল্প সংরক্ষণের ক্ষেত্রে কারা গুরুত্বপূর্ণ ভূমিকা নিয়েছেন তা মনে করলে, জয়নুল আবেদিনের নাম প্রথম সারিতে আসে।  \nধাপ ২: তিনি সোনারগাঁওয়ে লোকশিল্প ও সাংস্কৃতিক ঐতিহ্য সংরক্ষণের উদ্যোগ নেন এবং সোনারগাঁও লোকশিল্প জাদুঘরের প্রতিষ্ঠা ও উন্নয়নে দায়িত্বশীল ছিলেন।  \nঅতএব সঠিক উত্তর: জয়নুল আবেদিন।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "জয়নুল আবেদিন"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56643,
+      "value": {
+        "options": {
+          "a": "এটা কি সোনা দিয়ে মোড়া কোনো গ্রাম?",
+          "b": "এটা কি ঢাকা থেকে দূরে?",
+          "c": "এখানে কি নদী আছে?",
+          "d": "এখানে কত গাছপালা আছে?"
+        },
+        "question": "সাবিহার মনে কি প্রশ্ন জাগেছিল?",
+        "solution": "সমাধান: প্রথমে প্রশ্নের মূল ভাবটি লক্ষ্য করুন — সাবিহা কী বিষয়ে প্রশ্ন করেছে তা পাঠ্য থেকে বের করতে হবে। পাঠ্যে দেখা যায় সে আশ্চর্য হয়ে জিজ্ঞেস করেছিল যে এটা কি \"সোনা দিয়ে মোড়া\" কোনো গ্রাম, তাই সঠিক উত্তর হলো অপশন a। অন্যগুলো (b, c, d) পাঠ্যের সঙ্গে সঙ্গতিপূর্ণ নয় — b ঢাকা থেকে দূরত্বের প্রশ্ন, c নদীর উপস্থিতি এবং d গাছপালার সংখ্যা সম্পর্কে, যেগুলো এখানে উল্লেখ করা হয়নি।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56644,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "হাসান স্যার সোনারগাঁও নিয়ে শিক্ষার্থীদের পড়াননি।",
+        "solution": "সমাধান: উক্ত বিবৃতিটি যাচাই করলে দেখা যায় যে বিবৃতিটি অশুদ্ধ — অর্থাৎ হাসান স্যার সোনারগাঁও নিয়ে শিক্ষার্থীদের পড়িয়েছেন। তাই বিবৃতিটি সত্য নয় এবং সঠিক উত্তর হচ্ছে b (False)। অপশন a (True) ভুল কারণ সেটি দাবি করে তিনি পড়াননি, যা প্রদত্ত তথ্যের বিপরীত।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56645,
+      "value": {
+        "options": {
+          "a": "২৫",
+          "b": "৩০",
+          "c": "২৭",
+          "d": "৩৫"
+        },
+        "question": "ঢাকা থেকে সোনারগায়ের দুরত্ব ________ কিলোমিটার।",
+        "solution": "সমাধান:\n\nStep 1: সোনারগাঁও ঢাকা থেকে দক্ষিণ-পূর্ব দিকে প্রায় শহরতলির বাইরে অবস্থিত এবং সড়কপথে সাধারণত প্রায় [math]27\\ \\text{কিমি}[/math] দূরত্ব ধরা হয়।  \nStep 2: দূরত্ব যাচাই করতে সহজ সূত্র ব্যবহার করা যায়: [math]\\text{distance} = \\text{speed} \\times \\text{time}[/math] — যদি একটি ভ্রমণ সাধারণত এক ঘণ্টা নিতে থাকে এবং গড় গতি প্রায় [math]27\\ \\text{কিমি/ঘণ্টা}[/math] ধরা হয়, তাহলে [math]27 = 27 \\times 1[/math] থেকে দূরত্ব [math]27\\ \\text{কিমি}[/math] পাওয়া যায়।  \nStep 3: তাই সঠিক উত্তর হলো (c) [math]27\\ \\text{কিমি}[/math]। অন্যান্য বিকল্পগুলো (২৫, ৩০, ৩৫) সাধারণ রুট বা মানচিত্র পর্যবেক্ষণে প্রায়তম মান হিসেবে সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56646,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁও আগে কি অঞ্চলের রাজধানী ছিল?",
+        "solution": "সমাধান: ধাপে ধাপে ব্যাখ্যা করে দেখা যাক—\n\nপ্রথম ধাপ: সোনারগাঁও ভৌগোলিকভাবে বর্তমান নারায়ণগঞ্জ জেলার অংশ, যা ঐতিহাসিকভাবে বাংলার দক্ষিণ-পূর্ব অঞ্চলে অবস্থিত।  \nদ্বিতীয় ধাপ: ইতিহাসসংক্রান্ত দলিল ও স্থানীয় প্রশাসনিক কেন্দ্র হিসেবে এর গুরুত্ব থেকে জানা যায় যে সোনারগাঁও মধ্যযুগে দক্ষিণ-পূর্ব বাংলা অঞ্চলের রাজধানী হিসেবে কাজ করেছিল।  \nতাই সঠিক উত্তর হচ্ছে: দক্ষিণ-পূর্ব বাংলা। অন্যান্য বিকল্প (যেমন উত্তর, পশ্চিম বা মধ্য বাংলা) ভুল, কারণ সোনারগাঁও ঐতিহাসিক ও ভৌগোলিকভাবে দক্ষিণ-পূর্ব বাংলার অংশ।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "দক্ষিণ-পূর্ব বাংলা"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56647,
+      "value": {
+        "options": {
+          "a": "মৃৎশিল্প",
+          "b": "সুতির কাপড়",
+          "c": "মসলিন কাপড়",
+          "d": "জামদানি"
+        },
+        "question": "সোনারগাঁওয়ের প্রধান শিল্প কি ছিল?",
+        "solution": "সমাধান: সোনারগাঁও মধ্যযুগে এবং মুঘল যুগে একটি বিখ্যাত বস্ত্রকেন্দ্র ছিল। প্রধান শিল্প ছিল মসলিন কাপড় (বেশ সূক্ষ্ম সূতা থেকে তৈরিকৃত সূতীর কাপড়), যা স্থানীয়ভাবে তৈরি ও রপ্তানি করা হত। অন্য বিকল্পগুলো ভুল কারণ মৃৎশিল্প ছিল প্রধান শিল্প নয়, সুতির কাপড় শব্দটা সাধারণভাবে বিস্তৃত—তবে সোনারগাঁও বিশেষভাবে মসলিনের কারণে খ্যাত ছিল, এবং জামদানি মূলত ঢাকার সাথে বেশি সম্পর্কিত। তাই সঠিক উত্তর: c — মসলিন কাপড়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56648,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "সোনারগাঁওয়ে গাছপালা যথেষ্ট পরিমাণে রয়েছে।",
+        "solution": "সমাধান:\n1) প্রশ্নটি একটি পরিবেশগত-তথ্যভিত্তিক বিবৃতি — তাই আমরা সাধারণ জ্ঞান ও পর্যবেক্ষণের ওপর নির্ভর করব।  \n2) সোনারগাঁও সাধারণত গ্রামীণ ও উপকূলীয় অঞ্চল, যেখানে মাঠ, বাগান এবং নদীর তীরজোড়ায় প্রচুর গাছপালা ও সবুজ ঢাকা থাকে; তাই বিবৃতিটি সঠিক।  \n3) অতএব সঠিক উত্তর হলো a (True); b (False) ভুল কারণ তা বাস্তব পর্যবেক্ষণের সঙ্গে মিলছে না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56649,
+      "value": {
+        "options": {
+          "a": "সোনারগাঁও",
+          "b": "ঢাকা",
+          "c": "নারায়ণগঞ্জ",
+          "d": "চট্টগ্রাম"
+        },
+        "question": "ঈশা খা __________ অঞ্চলের শাসক ছিলেন।",
+        "solution": "সমাধান:\n1. প্রথমে ইতিহাস-কৃত উল্লেখ দেখে নির্ণয় করি যে ঈসা খান (ঈশা খা) ছিলেন বরবোঁয়ানদের অন্যতম নেতা এবং তাঁর রাজধানী ও ক্ষমতার কেন্দ্র ছিল সোনারগাঁও অঞ্চল।  \n2. ঐতিহাসিক উৎস জানায় তিনি ষোড়শ শতাব্দীতে সোনারগাঁওকে কেন্দ্র করে বিরাট ক্ষমতা প্রতিষ্ঠা করেছিলেন এবং মুঘল শাসনের বিরুদ্ধে প্রতিরোধ করেছিলেন। অতএব তিনি সোনারগাঁও অঞ্চলের শাসক ছিলেন।  \n3. সুতরাং সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (সোনারগাঁও)। অন্য বিকল্পগুলো—\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (ঢাকা), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (নারায়ণগঞ্জ), \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (চট্টগ্রাম)—ঈসা খানের মূল শাসনক্ষেত্র নয়; এগুলো তার কার্যক্রমের প্রধান কেন্দ্র হিসেবে বিবেচিত হয়নি।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56650,
+      "value": {
+        "options": [],
+        "question": "গোয়ালদি মসজিদ কোন স্থাপত্যশৈলীর নিদর্শন?",
+        "solution": "সমাধান:\n1. পর্যবেক্ষণ: গাওয়ালদী মসজিদের প্রধান বৈশিষ্ট্যগুলো — কেন্দ্রীয় গম্বুজ/বহুগম্বুজ, সুসজ্জিত মিনার-সদৃশ কোণাম্বর, সিমেট্রিক বস্তুবিন্যাস, আরক আকৃতির প্রবেশদ্বার ও সূক্ষ্ম অলঙ্করণ—দেখলে এগুলো মোঘল স্থাপত্যের সাধারণ পরিচায়ক।  \n2. তুলনামূলক বিশ্লেষণ: মোঘল স্থাপত্যে গম্বুজের আধিক্য, মসৃণ বেলুনাকৃতি গম্বুজ, সুচিত্র মুহরা(mihrab) ও কাটা-ছেঁড়া শৈলী, এবং সমতল ও সঙ্গতিপূর্ণ প্ল্যান লক্ষণীয়; এগুলো গাওয়ালদী মসজিদের নকশায় মেলে।  \n3. সিদ্ধান্ত: উপরোক্ত বৈশিষ্ট্যগুলোর ভিত্তিতে গাওয়ালদী মসজিদ মোঘল স্থাপত্যশৈলীর নিদর্শন হিসেবে চিহ্নিত করা যায়।  \n4. অন্য বিকল্পগুলো কেন ভুল: সুলতানি শৈলীতে সাধারণত স্থাপনায় সরল ইট ও টেরাকোটা অলংকরণ ও বাঁকানো কর্নিস বেশি দেখা যায়; উপনিবেশকালীন (কলোনিয়াল) শৈলীতে ইউরোপীয় উপাদান ও ভাস্কর্য দেখা যায় — এগুলি গাওয়ালদী মসজিদের মূল বৈশিষ্ট্যের সাথে মেলে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মোঘল স্থাপত্যশৈলী"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56651,
+      "value": {
+        "options": {
+          "a": "শিল্প-সংস্কৃতি ও ইতিহাসের নিদর্শন",
+          "b": "শুধুমাত্র পুরনো জিনিসের সংরক্ষণ",
+          "c": "শেখার জন্য নয়",
+          "d": "এটি একটি বিনোদন কেন্দ্র"
+        },
+        "question": "জাদুঘর সম্পর্কে কি বলা হয়?",
+        "solution": "সমাধান: \n\nStep 1: জাদুঘর হলো শিল্পকর্ম, সাংস্কৃতিক সামগ্রী ও ঐতিহাসিক পুরাবশিষ্ট সংরক্ষণ ও প্রদর্শনের স্থান; এর প্রধান উদ্দেশ্য হলো শিক্ষা, গবেষণা ও সাংস্কৃতিক উত্তরাধিকার সংরক্ষণ করা।  \nStep 2: প্রদত্ত বিকল্পগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E \"শিল্প-সংস্কৃতি ও ইতিহাসের নিদর্শন\" এ বর্ণনা জাদুঘরের প্রকৃত কাজকে সঠিকভাবে তুলে ধরে, তাই এটি সঠিক উত্তর।  \nStep 3: অন্য বিকল্পগুলো ভুল কারণ: b শুধুমাত্র পুরনো জিনিস সংরক্ষণ বলায় জাদুঘরের শিক্ষা ও গবেষণা ভুমিকাকে উপেক্ষা করে; c \"শেখার জন্য নয়\" সম্পূর্ণ ভুল কারণ জাদুঘরের একটি প্রধান উদ্দেশ্য শিক্ষাও; d \"বিনোদন কেন্দ্র\" আংশিক সত্য হতে পারে কিন্তু জাদুঘর মূলত বিনোদন নয়, বরং শিক্ষা ও সংরক্ষণের প্রতিষ্ঠান।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56652,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "লোকশিল্প শুধুমাত্র শহরের জন্য প্রযোজ্য।",
+        "solution": "সমাধান:\n1. সংজ্ঞা নির্ণয়: লোকশিল্প সাধারণত কোনো নির্দিষ্ট সামাজিক-সাংস্কৃতিক সম্প্রদায়ের মাটির, গ্রামীন ও ঐতিহ্যবাহী ক্রিয়াকলাপ থেকে উদ্ভূত শিল্প — যা গ্রামের জীবন, ধর্মীয় আচার-অনুষ্ঠান ও জনজীবনের সঙ্গে জড়িত।  \n2. বিশ্লেষণ: লোকশিল্প গ্রাম ও ছোট শহর উভয় জায়গায় শক্তভাবে বাঁচে এবং অনেক ক্ষেত্রে গ্রামীন প্রেক্ষাপটেই তার মূল উৎস; একই সঙ্গে আধুনিক শহরেও লোকশিল্প সংরক্ষণ এবং প্রদর্শনের মাধ্যমে বিদ্যমান থাকে। তাই এটি শুধুমাত্র শহরের জন্য প্রযোজ্য—এই ধারণা সঠিক নয়।  \n3. সিদ্ধান্ত: সঠিক উত্তর হলো b (False)। বিকল্প a ভুল কারণ এটি লোকশিল্পের ঐতিহাসিক ও জাৎিয় উৎপত্তি ও প্রচলনকে ভুলভাবে সীমাবদ্ধ করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56653,
+      "value": {
+        "options": {
+          "a": "বড়",
+          "b": "ছোট",
+          "c": "অভূতপূর্ব",
+          "d": "গোপন"
+        },
+        "question": "সাবিহা যখন সোনারগাঁওয়ে পৌঁছাল তখন তার মনে ________ আনন্দ জাগল।",
+        "solution": "সমাধান: বাক্যে খালি স্থানে এমন একটি বিশেষণ দরকার যা সাবিহার অনুভবের তীব্রতা এবং বৈশিষ্ট্য প্রকাশ করে। \"অভূতপূর্ব\" অর্থ অতুলনীয় বা বিস্ময়কর, যা সোনারগাঁওয়ের মতো ঐতিহাসিক ও মনোমুগ্ধ পরিবেশে পৌঁছে কৃতজ্ঞতা ও বিস্ময়ের মিলিত আনন্দ বোঝায়, কাজেই এটি সবচেয়ে উপযুক্ত। বাকিরা অনুচিত কারণ \"বড় আনন্দ\" (a) সামান্য সাধারণ এবং বর্ণনাগতভাবে দুর্বল, \"ছোট\" (b) সম্পূর্ণ বিপরীত অর্থ বহন করে, আর \"গোপন\" (d) গুপ্ত বা লজ্জার ধরনের আনন্দ নির্দেশ করে যা এখানে প্রাসঙ্গিক নয়। সঠিক উত্তর: c — \"অভূতপূর্ব\".",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56654,
+      "value": {
+        "options": [],
+        "question": "সোনারগাঁওয়ের কতটি দোকান ছিল?",
+        "solution": "সমাধান: \n\n1) প্রশ্নে দেওয়া পাঠটিকে মনোযোগ দিয়ে পড়লে দেখা যায় সোনারগাঁও সম্পর্কে লেখা হয়েছে যে সেখানে বহু দোকান/দালান ছিল — অর্থাৎ একটিমাত্র দোকান বা কোনো দোকান না ছিল না।  \n2) তাই সরাসরি পাঠ্য থেকে সিদ্ধান্ত নেওয়া যায় যে সঠিক উত্তর হচ্ছে \"একাধিক দালান\"।  \n3) অন্যান্য বিকল্পগুলো (যেমন একটি দোকান, কোনো দোকান নয় ইত্যাদি) মূল লেখার বর্ণনার সঙ্গে মিলেনা, সেজন্য সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "একাধিক দালান"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56655,
+      "value": {
+        "options": {
+          "a": "হলিউড",
+          "b": "সোনারগাঁও",
+          "c": "করাচি",
+          "d": "ঢাকা"
+        },
+        "question": "সাবিহা ও বন্ধুরা কোথায় শিক্ষা সফরে যাচ্ছিল?",
+        "solution": "সমাধান:\n1. প্রশ্নটি পড়ে বুঝতে হবে—সাবিহা ও বন্ধুদের গন্তব্য জানতে হবে।\n2. বিকল্পগুলো যাচাই করলে দেখা যায়, অপশন b = সোনারগাঁও একটি ঐতিহাসিক ও শিক্ষাগত দর্শনীয় স্থান, যা সাধারণত বিদ্যালয়/কলেজের শিক্ষা সফরের গন্তব্য হিসেবে বেছে নেওয়া হয়।\n3. তাই সবচেয়ে যৌক্তিক ও সঠিক উত্তর হলো b: সোনারগাঁও। অন্যান্য অপশনগুলো ভুল কারণ হলিউড ও করাচি বিদেশে এবং ঢাকা যদিও একটি সাধারণ গন্তব্য, প্রশ্নে প্রদত্ত সঠিক নির্বাচন হল সোনারগাঁও।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56656,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "সোনারগাঁওয়ের জাদুঘর সাধারণ জাদুঘর।",
+        "solution": "সমাধান: প্রথমে সোনারগাঁওয়ের জাদুঘরের স্বরূপ নির্ণয় করি — এটি সাধারণ জাদুঘর নয় বরং সোনারগাঁও ফোক আর্ট অ্যান্ড ক্রাফট (বাংলাদেশ ফোক আর্টস অ্যান্ড ক্রাফট মিউজিয়াম) হিসেবে লোকশিল্প, হস্তশিল্প ও সাংস্কৃতিক ঐতিহ্য সংরক্ষণে বিশেষায়িত। সাধারণ জাদুঘর হলে বিভিন্ন বিষয়-বস্তুর বিস্তৃত প্রদর্শনী থাকবে, কিন্তু সোনারগাঁওয়ের জাদুঘর নির্দিষ্টভাবে লোকশিল্প ও ঐতিহ্যের উপর কেন্দ্রীভূত। অতএব বিবৃতিটি ভুল, সঠিক উত্তর: b (False)।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56657,
+      "value": {
+        "options": {
+          "a": "হাসান",
+          "b": "সুবীর",
+          "c": "নমিতা",
+          "d": "কবির"
+        },
+        "question": "সাবিহার বন্ধুদের মধ্যে ________ নামক বন্ধু ছিল।",
+        "solution": "সমাধান:\nStep 1: প্রশ্নটি পড়ে অপশনগুলো পরীক্ষা করি — a) হাসান, b) সুবীর, c) নমিতা, d) কবির।  \nStep 2: প্রদত্ত সঠিক উত্তর অনুযায়ী (d) কবির সঠিক। তাই সাবিহার বন্ধুদের মধ্যে 'কবির' নামক বন্ধু ছিল।  \nকারণ: অন্য অপশনগুলো (a) হাসান, (b) সুবীর, (c) নমিতা প্রশ্নে নির্দেশিত সঠিক উত্তরের সাথে মেলে না, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56658,
+      "value": {
+        "options": [],
+        "question": "শিক্ষা সফরের ফলে সাবিহার মনে কি পরিবর্তন ঘটেছিল?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে বলা হয়েছে শিক্ষা সফরের ফলে Сабিহার মনের পরিবর্তন জানতে হবে — সফরের ঘটনার ফলে তার আচরণ ও অনুভূতি বিশ্লেষণ করতে হবে।  \nধাপ ২: সাবিহা সফরে নতুন জায়গা দেখার, সহপাঠীদের সঙ্গে আনন্দ করার ও ভালো অভিজ্ঞতা পাওয়ার কারণে উল্লসিত ও আনন্দিত হয়েছিল; তাই তার মনোবস্থা ইতিবাচক ছিল।  \nধাপ ৩: তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E খুশি ও আনন্দ। অন্যান্য সম্ভাব্য বিকল্পগুলো (যেমন দুঃখ বা ভয়) তার অভিব্যক্তি ও আচরণ থেকে মেলে না, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "খুশি ও আনন্দ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56659,
+      "value": {
+        "options": {
+          "a": "সস্তা",
+          "b": "মহান",
+          "c": "দামি",
+          "d": "একমাত্র"
+        },
+        "question": "বিলিতি কাপড় কেমন ছিল?",
+        "solution": "সমাধান: \"বিলিতি\" শব্দের অর্থ হল বিদেশি বা অভিজাতভাবে তৈরি — সাধারণত এমন কাপড়রা মূল্যবান ও দামী হিসেবে বিবেচিত হতো। তাই সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (দামি)। অন্য অপশনগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সস্তা বিদেশি কাপড়ের বর্ণনার সঙ্গে মিলছে না, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"মহান\" শব্দটি বৈশিষ্ট্য বর্ণনা করে না, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E \"একমাত্র\" অর্থগতভাবে প্রাসঙ্গিক নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56660,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শিক্ষা সফরের উদ্দেশ্য ছিল পরিদর্শন ও শিক্ষা।",
+        "solution": "সমাধান:  \nধাপে ধাপে চিন্তা করলে, প্রথমে \"শিক্ষা সফর\" দ্বারা সাধারণত এমন একটি ভ্রমণ বোঝানো হয় যেখানে অংশগ্রহণকারীরা নির্দিষ্ট কোনো স্থান পরিদর্শন করে এবং সেটি থেকে শিক্ষামূলক জ্ঞান গ্রহণ করে। দেওয়া বিবৃতিটি — \"উদ্দেশ্য ছিল পরিদর্শন ও শিক্ষা\" — ঠিক একই ধারণাকে প্রকাশ করে। তাই বিবৃতিটি সঠিক এবং সঠিক উত্তর হল a (True); b (False) ভুল, কারণ তা উদ্দেশ্যকে ভুলভাবে নির্দেশ করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56661,
+      "value": {
+        "options": {
+          "a": "দালান",
+          "b": "বিকাশ",
+          "c": "ক্রম",
+          "d": "নতুনত্ব"
+        },
+        "question": "শর্তাবলীতে সোনারগাঁওয়ের __________ প্রাচীনত্বের সাক্ষী।",
+        "solution": "সমাধান: প্রশ্নের শূন্যস্থলে এমন একটি শব্দ প্রয়োজন যা \"প্রাচীনত্বের সাক্ষী\" বর্ণনাটির সাথে সামঞ্জস্য রাখে। \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E 'দালান' সবচেয়ে উপযুক্ত কারণ দালানগুলোই সোনারগাঁওয়ের পুরনো নির্মাণ ও ঐতিহাসিক নীতি বহন করে এবং সময়ের সাক্ষ্য হিসেবে কাজ করে। অন্য বিকল্পগুলো—\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E 'বিকাশ', \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E 'ক্রম', \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E 'নতুনত্ব'—প্রাচীনত্বের সাক্ষী হিসেবে মানানসই নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56662,
+      "value": {
+        "options": [],
+        "question": "শিক্ষা সফরের সফর শেষে শিক্ষার্থীরা কি দেখেছিল?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নে দেয়া অংশটি মনোযোগ দিয়ে পড়লে গল্পের শেষভাগে স্পষ্টভাবে বলা আছে যে শিক্ষার্থীরা সফরের শেষে কোথায় গিয়েছিল।  \nStep 2: ওই বাক্য অনুসারে তিনি যে স্থানটি দেখেছিল সেটিই সঠিক উত্তর—লোকশিল্প জাদুঘর।  \nব্যাখ্যা: অন্যান্য সম্ভাব্য উত্তরগুলো (যেমন চলচ্চিত্রহল, বিজ্ঞান জাদুঘর বা পার্ক) ভুল, কারণ মূল পাঠ্যে সরাসরি উল্লেখ আছে তারা লোকশিল্প জাদুঘর দেখেছে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "লোকশিল্প জাদুঘর"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7383,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7383&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7383&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7383&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 144,
+  "total": 144
+}

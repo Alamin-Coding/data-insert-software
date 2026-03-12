@@ -1,0 +1,5020 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 258224,
+      "value": {
+        "options": [],
+        "question": "সপ্তম শতকে বাংলায় শশাংক নামে একজন — রাজা ছিলেন।",
+        "solution": "প্রভাবশালী",
+        "explanation": "শশাঙ্ক (শশাংক) সপ্তম শতকে গৌড় বা বাংলা অঞ্চলের স্বাধীন রাজা ছিলেন। প্রাচীন সাহিত্য (যেমন বাণভট্টের 'হরষচরিত'), কয়েন ও শিলালিপির প্রমাণ তাঁর ওই সময়কার রাজত্ব এবং হরষবর্ধনের সঙ্গে সংঘাতকে নিশ্চিত করে, তাই এই উত্তরটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258224,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258225,
+      "value": {
+        "options": [],
+        "question": "শশাংক বাংলার — অস্তিত্ব বজায় রেখেছিলেন এবং কর্ণসুবর্ণ ছিল শশাংকের —।",
+        "solution": "স্বাধীন, রাজধানী",
+        "explanation": "ব্যাখ্যা: শশাংক সপ্তম শতকে গৌড়ে স্বাধীন রাজ্য প্রতিষ্ঠা করে বাংলার স্বাধীনতা বজায় রেখেছিলেন, তাই প্রথম খালি স্থানে \"স্বাধীনতা\" সঠিক; কর্ণসুবর্ণই শশাংকের প্রশাসনিক ও রাজনৈতিক কেন্দ্র হওয়ায় দ্বিতীয় খালি স্থানে \"রাজধানী\" সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258225,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258226,
+      "value": {
+        "options": [],
+        "question": "রাজা শশাংকের পর প্রায় — বছর ধরে বাংলায় ভীষণ অস্থির অবস্থা বিরাজ করছিল।",
+        "solution": "একশ",
+        "explanation": "ব্যাখ্যা: শশাংকের পরে কোনো শক্তিশালী কেন্দ্রীয় শাসন স্থায়ী হতে পারেনি এবং বিভিন্ন ছোট রাজ্য ও নেতাদের মধ্যে ক্ষমতার লড়াই চলছিল; এই অবস্থা গোপাল প্রায় ৭৫০ খ্রিস্টাব্দে পাল রাজবংশ প্রতিষ্ঠা না করা পর্যন্ত প্রায় একশ বছর স্থায়ী ছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258226,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258227,
+      "value": {
+        "options": [],
+        "question": "অষ্টম শতকে রাজা — বাংলার সিংহাসনে বসেন।",
+        "solution": "গোপাল",
+        "explanation": "ব্যাখ্যা: অষ্টম শতকে বাংলার সিংহাসনে বসেন রাজা গোপাল (প্রথম পাল)। তিনি স্থানীয় শক্তিধরদের নির্বাচনে রাজা হিসেবে ক্ষমতা অর্জন করে পাল বংশের প্রতিষ্ঠা করেন, তাই ইতিহাসে ৮ম শতকে গোপালের রাজত্ব শুরু হিসেবে ধরা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258227,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258228,
+      "value": {
+        "options": [],
+        "question": "রাজা গোপাল — রাজবংশের প্রতিষ্ঠাতা।",
+        "solution": "পাল",
+        "explanation": "ব্যাখ্যা: রাজা গোপালকে রাজবংশের প্রতিষ্ঠাতা বলা হয় কারণ তিনি অষ্টম শতকের শেষভাগে স্থানীয় জমিদার ও প্রধানদের নির্বাচিত হয়ে বাংলা অঞ্চলে ক্ষমতা দখল করে পল রাজবংশের ভিত্তি স্থাপন করেছিলেন। তাঁর শাসনের ফলে কেন্দ্রীয় প্রশাসন ও সামরিক শক্তি গঠিত হয়ে পরবর্তী রাজারা ওই রাজবংশকে অব্যাহত রাখেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258228,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258229,
+      "value": {
+        "options": [],
+        "question": "পাল রাজবংশ বাংলায় প্রায় — বছর রাজত্ব করেছিল।",
+        "solution": "৪০০",
+        "explanation": "পাল রাজবংশ বাংলায় প্রায় চারশ বছর রাজত্ব করেছিল। কারণ গোপাল কর্তৃক প্রতিষ্ঠা যে সময়টি (৮ম শতকের মাঝামাঝি) থেকে শেষ পাল শাসকদের অবসান (প্রায় ১২শ শতকের শুরু-মধ্যভাগ) পর্যন্ত তাদের শাসনকাল মোটামুটি ৪০০ বছরের কাছাকাছি ছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258229,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258230,
+      "value": {
+        "options": [],
+        "question": "রাজা লক্ষণ সেন — শতকে বাংলায় রাজত্ব করেন।",
+        "solution": "দ্বাদশ",
+        "explanation": "রজা লক্ষ্মণ সেন মূলত ১২শ শতকের শেষভাগে বাংলায় রাজত্ব করেছেন; তাঁর শাসনকাল আনুমানিক [math]1178–1206[/math] খ্রিস্টাব্দ। তাই তিনি প্রধানত ১২শ শতকের শাসক হিসেবে বিবেচিত হন, যদিও শাসনকালে ১৩শ শতকের শুরুয়াও ছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258230,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258231,
+      "value": {
+        "options": [],
+        "question": "রাজা লক্ষণ সেন ছিলেন সেন রাজবংশের — রাজা।",
+        "solution": "চতুর্থ",
+        "explanation": "লক্ষ্মণ সেন ছিলেন সেন রাজবংশের শেষ শক্তিশালী রাজা। তিনি ১২শ–১৩শ শতকের শেষভাগে রাজত্ব করেছিলেন এবং বখতিয়ার খলজীর আক্রমণের পর সেন বংশের ক্ষমতা দুর্বল হয়ে পড়ায় তাঁকে সাধারণত শেষ শক্তিশালী শাসক হিসেবে গণ্য করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258231,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258232,
+      "value": {
+        "options": [],
+        "question": "রাজা লক্ষণ সেন ছিলেন একজন — ও কবি।",
+        "solution": "সুপণ্ডিত",
+        "explanation": "ব্যাখ্যা: লক্ষ্যণ সেন ছিলেন সেন বংশের শাসক ও রাজা, তাই 'শাসক' বলে বলা যায়; পাশাপাশি তিনি বাংলা ভাষায় কাব্য রচনা করেছিলেন, তাই তিনি শাসক ও কবি উভয়ই ছিলেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258232,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258233,
+      "value": {
+        "options": [],
+        "question": "১২০৪ খ্রিষ্টাব্দে লক্ষণ সেনকে পরাজিত করে — মুসলিম শাসনের সূচনা করেছিলেন।",
+        "solution": "বখতিয়ার খিলজী",
+        "explanation": "ব্যাখ্যা: ১২০৪ খ্রিস্টাব্দে মুহম্মদ বখতিয়ার খলজি লক্ষ্মণ সেনকে পরাজিত করে বাংলায় মুসলিম শাসনের সূচনা করেন। তিনি দ্রুত ও আকস্মিক ঘোড়সওয়ার আক্রমণ করে নাদিয়া (নবদ্বীপ) দখল করলে সেনাবংশের কেন্দ্র ভেঙে যায় ও মুসলিম শাসন প্রতিষ্ঠিত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258233,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258234,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন যুগে সমাজজীবনের মূল ভিত্তি ছিল —।",
+        "solution": "গ্রাম",
+        "explanation": "প্রাচীন যুগে সমাজজীবনের মূল ভিত্তি ছিল কৃষিকাজ। কারণ স্থায়ী বসবাস ও খাদ্য উৎপাদনের মাধ্যমে মানুষের জীবনযাপন, উপার্জন ও সামাজিক বিভাজন নির্ধারিত হতে শুরু করে, ফলে গ্রাম ও পরিবারভিত্তিক সামাজিক কাঠামো গড়ে ওঠে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258234,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258235,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন যুগে মানুষ — পেশায় নিয়োজিত ছিলেন।",
+        "solution": "সনাতন",
+        "explanation": "প্রাচীন যুগে মানুষ প্রধানত কৃষিকাজে নিয়োজিত ছিলেন, কারণ তারা গাছপালা ও পশু পালনে স্থায়ী বসতি গড়ে তুলতে শুরু করলে চাষাবাদই প্রধান আয়ের উৎস হয়ে ওঠে। স্থায়ী কৃষি বসতি, উর্বর নদী তীরের মাটি ও ফসলের(store) উদ্বৃত্ত খাদ্য্য পেশার বিশেষায়ন ও জনসংখ্যা বৃদ্ধি ঘটায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258235,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258236,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন যুগে হিন্দু ও — ছিল দুইটি প্রধান ধর্ম।",
+        "solution": "বৌদ্ধ",
+        "explanation": "ব্যাখ্যা: প্রাচীন যুগে ভারতের প্রধান দুই ধর্ম ছিল হিন্দু ধর্ম ও বৌদ্ধ ধর্ম, সুতরাং শূন্যস্থানটি \"বৌদ্ধ\" হবে। বৌদ্ধ ধর্ম সিদ্ধার্থ গৌতম বুদ্ধের শিক্ষার উপর ভিত্তি করে গড়ে ওঠে এবং তখনকার সামাজিক ও ধর্মীয় জীবনে হিন্দু ও বৌদ্ধ দুটিরই ব্যাপক প্রভাব ছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258236,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258237,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন যুগে নৌকা, গরুর গাড়ি ও — ছিল প্রধান যানবাহন।",
+        "solution": "পালকি",
+        "explanation": "উত্তর: ঘোড়ার গাড়ি। প্রাচীন কালে ইঞ্জিনচালিত যানবাহন ছিল না, তাই মানুষ নদীতে নৌকা এবং স্থলে পশু-চালিত যেমন গরু ও ঘোড়া টেনে চলা গাড়ি ব্যবহার করত, সুতরাং এগুলো প্রধান পরিবহন মাধ্যম ছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258237,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258238,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন যুগে ভাত ছিল — প্রধান খাদ্য।",
+        "solution": "বাঙালির",
+        "explanation": "ব্যাখ্যা: প্রাচীন যুগে কৃষি ছিল প্রধান জীবনধারা এবং জলাধারা ও উর্বর মাটিতে ধান সহজে চাষ করা যেত, ফলে ভাত সহজলভ্য ও প্রচুর ধরা পড়ত; এছাড়া ভাত দীর্ঘক্ষণ রাখা যায় এবং ক্যালোরি-সম্পন্ন হওয়ায় এটি মানুষের দৈনন্দিন প্রধান খাদ্য হিসেবে গৃহীত ছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258238,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258239,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন যুগে বিনোদনের প্রধান উপাদান ছিল গান, নাচ, পাশা, দাবা, — ও কুস্তি খেলা।",
+        "solution": "মল্লযুদ্ধ",
+        "explanation": "ব্যাখ্যা: খালি স্থানে \"নাটক\" সঠিক, কারণ প্রাচীন যুগে গান ও নাচের সঙ্গে নাট্যকর্মও প্রধান বিনোদনের অংশ ছিল; পাশা ও দাবা খেলাধুলা/বুদ্ধিবৃত্তিক খেলা এবং কুস্তি ক্রীড়ার রূপে আলাদা ছিল। নাটক সমাজ ও ধর্মীয় কাহিনি উপস্থাপনার একটি গুরুত্বপূর্ণ মাধ্যম ছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258239,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258240,
+      "value": {
+        "options": [],
+        "question": "— ছিল প্রাচীন বাংলার মানুষের প্রধান পেশা।",
+        "solution": "কৃষিকাজ",
+        "explanation": "প্রাচীন বাংলার প্রধান পেশা ছিল কৃষিকাজ। কারণ বঙ্গের উজ্বর ব-ভূমি, নদনীড়প্রবাহ, উষ্ণ আবহাওয়া ও বর্ষাজল সরবরাহ ধানের মতো ফসল চাষের জন্য উপযোগী ছিল, ফলে মানুষের অনেকেই জমিতে নির্ভর করে জীবন-যাপন করতো।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258240,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258241,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন যুগে ধান আর — ছিল প্রধান ফসল।",
+        "solution": "আখ",
+        "explanation": "ব্যাখ্যা: প্রাচীন যুগে ধান ও গম দুটোই প্রধান শস্য ছিল — ধান জলাভাষ্ক এলাকায় ও মৌসুমি বাম্পার ফসল হিসেবে, আর গম শুষ্ক এলাকার জন্য উপযোগী ছিল; প্রাচীন গ্রন্থ ও প্রত্নতাত্ত্বিক খোঁজে উভয়ের চাষের প্রমাণ মেলে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258241,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258242,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন যুগে কুটির শিল্পে তুলা ও রেশম দিয়ে বাংলার কারিগররা নানারকম — বুনতেন।",
+        "solution": "কাপড়",
+        "explanation": "কারণ কুটির শিল্পে তুলা ও রেশম ছিল প্রধান কাঁচামাল এবং সেগুলো থেকে নানা ধরনের বস্ত্র (কাপড়) বোনা হতো; তাই বাক্যে শূন্যস্থানটি \"বস্ত্র\" পূরণ করলে অর্থ সঠিক হয়। কুটির কারিগররা গ্রামীণ হাতে পরিবারের ও বাণিজ্যিক ব্যবহারের জন্য বিভিন্ন ধরণে কাপড় তৈরি করতেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258242,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258243,
+      "value": {
+        "options": [],
+        "question": "প্রাচীন যুগে সমুদ্রপথে চট্টগ্রাম বন্দর দিয়ে বাংলার বণিকেরা — সাথে বাণিজ্য করতেন।",
+        "solution": "বিদেশের",
+        "explanation": "ব্যাখ্যা: চট্টগ্রাম ছিল বঙ্গের প্রধান সমুদ্রবন্দর ও উপকূলীয় প্রবাহ-রুটগুলোর মিলনস্থল হওয়ায় এখান থেকেই বঙ্গীয় বণিকেরা চীন, আরব ও দক্ষিণ-পূর্ব এশিয়ার বিভিন্ন দেশের সাথে সমুদ্রপথে সহজে যোগাযোগ ও পণ্যবিনিময় করতেন; ভূগোলিক অবস্থান ও নৌপথের সুবিধাই এই বাণিজ্যকে সম্ভব করেছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258243,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258244,
+      "value": {
+        "options": [],
+        "question": "— চতুর্দশ শতকে বাংলার সিংহাসন দখল করেন।",
+        "solution": "শামসুদ্দিন ইলিয়াস শাহ",
+        "explanation": "শামসুদ্দীন ইলিয়াস শাহ ১৪শ শতকে বাংলার সিংহাসন দখল করেন। তিনি লখ্নৌতি, সাতগাঁও ও সোনারগাঁও একত্রিত করে স্বাধীন ইলিয়াস শাহী রাজতন্ত্র প্রতিষ্ঠা করেন, তাই তাকে সেই যুগের বাংলার সিংহাসন দখলকারী হিসেবে দেখা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258244,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258245,
+      "value": {
+        "options": [],
+        "question": "শামসুদ্দিন ইলিয়াস শাহের শাসনামলে দেশীয় ভাষা, সাহিত্য, পণ্ডিত ও কবিদের — বাড়ে।",
+        "solution": "সমাদর",
+        "explanation": "ব্যাখ্যা: শামসুদ্দিন ইলিয়াস শাহের শাসনে রাজনৈতিক স্থিতিশীলতা ও রাজপ্রশাসনের সংস্থান পেল দেশীয় সংস্কৃতি; রাজদরবারে কবি ও পণ্ডিতদের সমর্থন ও অনুপ্রেরণা দেওয়ায় বাংলা ভাষা ও সাহিত্য প্রকৃত অর্থে বিকাশ পায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258245,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258246,
+      "value": {
+        "options": [],
+        "question": "বাংলার বড় বড় অঞ্চলের জমিদাররা — নামে পরিচিত।",
+        "solution": "বারো ভূঁইয়া",
+        "explanation": "ব্যাখ্যা: বাংলার বড় বড় অঞ্চলের জমিদাররা \"তালুকদার\" নামে পরিচিত ছিল, কারণ তারা একাধিক গ্রাম বা তালুকের মালিক হয়ে সেখানে কর-সংগ্রহ ও প্রশাসনিক দায়িত্ব পালন করত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258246,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258247,
+      "value": {
+        "options": [],
+        "question": "বার ভূঁইয়াদের নেতা ছিলেন —।",
+        "solution": "ঈসা খা",
+        "explanation": "ঈসা খান ছিলেন বার ভূঁইয়াদের নেতাও জোরালো নেতা। তিনি বাংলা অঞ্চলের বারো জন জমিদারের সংযুক্ত জোট গঠন করে মুঘল শক্তির বিরুদ্ধে প্রতিরোধ ও স্বাধীনতা রক্ষা করেছিলেন, তাই তাকে বার ভূঁইয়াদের প্রধান নেতা বলা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258247,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258248,
+      "value": {
+        "options": [],
+        "question": "ঈসা খাঁ — এর জমিদার ছিলেন।",
+        "solution": "সোনারগাঁও",
+        "explanation": "ঈসা খান ছিলেন ভাটির জমিদার। তিনি ষোড়শ শতকে বারো-ভুইয়ানদের নেতৃপ্ত্বে পূর্ব বাংলার ভাটি অঞ্চল (সোনারগাঁও ও আশপাশের নদীবেষ্টিত এলাকায়) জমিদারি চালিয়েছিলেন এবং মুঘল আধিপত্যের বিরুদ্ধে প্রতিরোধ গঠন করেছিলেন—এই কারণেই তাকে ভাটির জমিদার বলা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258248,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258249,
+      "value": {
+        "options": [],
+        "question": "বাংলার স্বাধীনতার জন্য ষোড়শ শতকে দিল্লির মোগল সম্রাট — সাথে ঈসা খাঁ যুদ্ধ করেন।",
+        "solution": "আকবরের",
+        "explanation": "ঈসা খাঁ ষোড়শ শতকে বারো ভূঁইয়ার নেতা হয়ে মোগল আধিপত্য ঠেকাতে লড়েছিলেন; তখন দিল্লির সম্রাট ছিলেন আকবর। আকবর বাংলা দখলের চেষ্টা করলে মোগল সেনাবাহিনীর বিরুদ্ধে ঈসা খাঁ প্রতিরোধ গড়ে তোলেন, তাই উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eআকবর\u003C/span\u003E।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258249,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258250,
+      "value": {
+        "options": [],
+        "question": "ঈসা খাঁ মৃত্যুর পূর্ব পর্যন্ত বাংলায় — অধীনতা মানেন নি।",
+        "solution": "মোগলদের",
+        "explanation": "ব্যাখ্যা: ঈসা খাঁ বারো-ভূইঞা আন্দোলনের নেতৃত্বে বাংলার স্বায়ত্তশাসন রক্ষা করেছিলেন এবং মুঘল শাসন মানতে প্রতিহিংসা দেখাতেন। তিনি স্থানীয় জমিদারদের সংহত করে কৌশলগত আক্রমণ ও নৌযুদ্ধ চালিয়েছিলেন, ফলে জীবদ্দশায় মুঘলের অধীনতা মানেননি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258250,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258251,
+      "value": {
+        "options": [],
+        "question": "সপ্তদশ শতকে মোগলরা — বাংলার সুবেদার নিযুক্ত করেন।",
+        "solution": "শায়েস্তা খানকে",
+        "explanation": "ব্যাখ্যা: মোগল সম্রাট আওরঙ্গজেব ১৬৬৪ সালে বাংলার সুবেদার হিসেবে শায়েস্তা খানকে নিয়োগ করেন; তিনি প্রশাসন ও সামরিক ব্যবস্থা শক্ত করে মোগল শাসন পুনরায় প্রতিষ্ঠা করেন এবং জলদস্যু ও প্রতিবন্ধকতাবিরোধী কার্যক্রম পরিচালনা করেছিলেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258251,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258252,
+      "value": {
+        "options": [],
+        "question": "শায়েস্তা খানের আমলে — ছিল।",
+        "solution": "সুশাসন",
+        "explanation": "শায়েস্তা খানের আমলে ঢাকা ও সমগ্র বাংলায় বাণিজ্য ও শিল্পের সমৃদ্ধি ছিল। তিনি প্রশাসনিক শৃঙ্খলা প্রতিষ্ঠা করে বন্দর ও সড়ক নিরাপদ রাখার পাশাপাশি শিল্পী ও বণিকদের উৎসাহিত করার ফলে কাপড় (বিশেষত জামদানি) ও অন্যান্য পণ্য উৎপাদন ও রপ্তানি বৃদ্ধি পেয়েছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258252,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258253,
+      "value": {
+        "options": [],
+        "question": "শায়েস্তা খানের সময় — খুব সস্তা ছিল।",
+        "solution": "চাল",
+        "explanation": "আপনি যে শূন্যস্থানটি পূরণ করতে চান তার জন্য কোন শব্দ বা বিকল্পগুলো দেওয়া আছে জানাবেন? না দিলে নির্দিষ্ট সঠিক উত্তর ও কারণ বলা সম্ভব হবে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258253,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258254,
+      "value": {
+        "options": [],
+        "question": "শায়েস্তা খানের আমলে টাকায় — মন চাল পাওয়া যেত।",
+        "solution": "আট",
+        "explanation": "ব্যাখ্যা: সঠিক উত্তরটি হলো \"দুই মণ\" — শায়েস্তা খানের আমলে প্রশাসন সুসংগঠিত ও কৃষি উৎপাদন ভাল থাকায় চালের দাম কম ছিল, তাই একটি টাকায় প্রায় দুই মণ চাল কেনা যেত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258254,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258255,
+      "value": {
+        "options": [],
+        "question": "শায়েস্তা খান বাংলা থেকে — বিতাড়িত করেন।",
+        "solution": "জলদস্যুদের",
+        "explanation": "ব্যাখ্যা: শায়েস্তা খান মুঘল রাজ্যের নবনিযুক্ত গভর্নর হিসেবে ১৬৬৬ সালে চট্টগ্রাম বিজয় করে আরাকানী সেনা ও তাদের আধিপত্যকে পরাজিত করে বাংলার ওই অঞ্চল থেকে বিতাড়িত করেন; তাই সঠিক উত্তর ছিল 'আরাকান' (আরাকানী)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258255,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258256,
+      "value": {
+        "options": [],
+        "question": "মধ্যযুগের শাসকদের আনুকূল্যে বাংলাভাষা এবং সাহিত্য ব্যাপকভাবে — হয়।",
+        "solution": "বিকশিত",
+        "explanation": "কারণ শাসকদের আর্থিক ও সাংস্কৃতিক অনুদান কবি, লেখক ও শিক্ষাবিদদের সৃষ্টিশীলতা প্রসারিত করেছে; দরবার, মসজিদ-মাদ্রাসা ও প্রশাসনে বাংলার ব্যবহার ভাষাকে স্থায়িত্ব ও সমৃদ্ধি দিয়েছে। ফলে শব্দভাণ্ডার, রীতিনীতিশৈলী এবং সাহিত্যের ধরনগুলি ব্যাপকভাবে বিকাশ লাভ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258256,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258257,
+      "value": {
+        "options": [],
+        "question": "মধ্যযুগে বাংলায় গড়ে উঠেছিল ঐতিহ্যবাহী — শিল্প।",
+        "solution": "কুটির",
+        "explanation": "ব্যাখ্যা: উত্তরটি হল \"হস্তশিল্প\", কারণ মধ্যযুগে বাংলায় তাঁতশিল্প, কাঁথা সেলাই, মৃৎশিল্প, ধাতুকলা ও কাঠশিল্পসহ নানা হাতে তৈরির শিল্প গ্রাম ও শহরে ছড়িয়ে পড়ে এবং প্রজন্মে প্রজন্মে চলতে থাকে। হস্তশিল্প বলতে ওইসব ঐতিহ্যগত হাতে তৈরির কাজকে বোঝায় যা স্থানীয় কুশলতা ও সাংস্কৃতিক ঐতিহ্যের অংশ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258257,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258258,
+      "value": {
+        "options": [],
+        "question": "মধ্যযুগে কুটির শিল্পের কারিগররা ছিলেন অত্যন্ত —।",
+        "solution": "পারদর্শী",
+        "explanation": "ব্যাখ্যা: মধ্যযুগের কুটির শিল্পকারিগররা হাতে করে জটিল নকশা ও সূক্ষ্ম কাজ করতেন, ফলে সঠিক মাপে ও উচ্চমান বজায় রাখতে উচ্চ নৈপুণ্য প্রয়োজন হত; তাই তারা অত্যন্ত দক্ষ ও নিপুণ ছিলেন। তাদের দক্ষতা দীর্ঘ প্রশিক্ষণ ও পৈতৃক কৌশলের ফলে গড়ে উঠেছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258258,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258259,
+      "value": {
+        "options": [],
+        "question": "মধ্যযুগের পোশাক এবং খাদ্যাভাস ছিল — যুগের মতোই।",
+        "solution": "প্রাচীন",
+        "explanation": "উত্তর: \"সহজ\"।  \nব্যাখ্যা: মধ্যযুগে প্রযুক্তি, অর্থনীতি ও যোগাযোগ সীমিত ছিল, ফলে মানুষের জীবনযাত্রা সাধারণ ও সরল—তাই তাদের পোশাকও ভাঁড়াজাত কম ও সাধারণ ও খাদ্যাভাসও সীমিত উপকরণভিত্তিক ছিল, অর্থাৎ যুগের মতোই সহজ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258259,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258260,
+      "value": {
+        "options": [],
+        "question": "মধ্যযুগের অর্থনীতি ছিল মূলত —।",
+        "solution": "কৃষিভিত্তিক",
+        "explanation": "ব্যাখ্যা: মধ্যযুগের অর্থনীতি ছিল মূলত কৃষিভিত্তিক ও জমিদারি (ফিউডাল) প্রণালীভিত্তিক। জনসংখ্যার বড় অংশ গ্রামে কৃষিকাজ করত এবং জমিদাররা জমি ও উৎপাদন নিয়ন্ত্রণ করায় আয় ও জীবনযাপন গ্রামীণ জমির ওপর নির্ভরশীল ছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258260,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258261,
+      "value": {
+        "options": [],
+        "question": "মধ্যযুগে সুতার তৈরি — এবং রেশমের কাপড় অনেক প্রসিদ্ধ ছিল।",
+        "solution": "মসলিন",
+        "explanation": "ব্যাখ্যা: মধ্যযুগে সুতার এবং রেশমের কাপড় প্রসিদ্ধ ছিল কারণ তখন সুতো ও রেশম উৎপাদন ও বুনন-কৌশল খুব উন্নত হয়েছিল এবং দক্ষ কারিগররা সূক্ষ্ম ও মানসম্মত বস্ত্র বানাতেন। এছাড়া অভ্যন্তরীণ ও আন্তর্জাতিক বাণিজ্য এবং রাজকীয় ও ধনী শ্রেণীর চাহিদার কারণে এসব কাপড়ের খ্যাতি এবং বিতরণ দুটোই বেড়ে দাঁড়িয়েছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258261,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258262,
+      "value": {
+        "options": [],
+        "question": "মধ্যযুগে হাতির দাঁতের শিল্প ও বাংলার শিল্পীরা — ছিলেন।",
+        "solution": "কাঠের কাজে",
+        "explanation": "সঠিক কারণ: মধ্যযুগে হাতির দাঁতের খোদাই অত্যন্ত সূক্ষ্ম ও জটিল কাজ ছিল, যা সূক্ষ্ম হাতের কৌশল, ধৈর্য ও নকশার জ্ঞান চায়; বাংলার শিল্পীরা এই দক্ষতা এবং সূক্ষ্ম নকশা তৈরি করার স্থানীয় পারদর্শিতা রাখতেন। তাই বাংলার শিল্পীদের এই শিল্পে দক্ষ ও পরিচিত ছিলেন—এ কারণেই উত্তরটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258262,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258263,
+      "value": {
+        "options": [],
+        "question": "মধ্যযুগে আমদানি থেকে রপ্তানি — বেশি ছিল।",
+        "solution": "বাণিজ্য",
+        "explanation": "ব্যাখ্যা: মধ্যযুগে অনেক অঞ্চলে কৃষি ও কারিগরি পণ্যের অতিরিক্ত উৎপাদন ও বিদেশে শক্তিশালী চাহিদার কারণে রপ্তানি আমদানের চেয়ে বেশি হয়েছিল। তদুপরি সমুদ্র ও স্থল বাণিজ্য নেটওয়ার্কের মাধ্যমে টেক্সটাইল, মসলা ও অন্যান্য মূল্যবান পণ্য রপ্তানি হয়ে বৈদেশিক মুদ্রা আয় বৃদ্ধি করত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258263,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258264,
+      "value": {
+        "options": [],
+        "question": "মধ্যযুগে চট্টগ্রাম বন্দর থেকে রপ্তানি হতো চাল, চিনি, আদা, মসলিন এবং অন্যান্য ধরনের —।",
+        "solution": "কাপড়",
+        "explanation": "ব্যাখ্যা: এগুলো সবই বাণিজ্যিক উপকরণ — কৃষিজাত ও বস্ত্রজাত দ্রব্য—যা বিদেশে বিক্রি বা পাঠানো হতো, তাই শূন্যস্থান পূরণ হবে \"পণ্য\"। মধ্যযুগে চট্টগ্রাম বন্দর ছিল এসব পণ্য রপ্তানির কেন্দ্র।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258264,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258265,
+      "value": {
+        "options": [],
+        "question": "মধ্যযুগে বাণিজ্য কেন্দ্র হিসেবে — সুপরিচিত ছিল।",
+        "solution": "চট্টগ্রাম",
+        "explanation": "উত্তর: ভেনিস। ব্যাখ্যা: মধ্যযুগে ভেনিস ভূমধ্যসাগরের কৌশলগত স্থানে থাকায় শক্তিশালী নৌবহর ও সমৃদ্ধ ব্যবসায়ীদের মাধ্যমে ইউরোপ ও পূর্বের সঙ্গে সরাসরি সমুদ্রবাণিজ্য নিয়ন্ত্রণ করত, তাই এটি আন্তর্জাতিক বাণিজ্যকেন্দ্র হিসেবে সুপরিচিত ছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258265,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258266,
+      "value": {
+        "options": [],
+        "question": "পাল বংশ বাংলায় প্রায় — বছর রাজত্ব করেছিল।",
+        "solution": "৪০০",
+        "explanation": "ব্যাখ্যা: পাল বংশের শাসন শুরু হয় প্রায় অষ্টম শতাব্দীতে (গোপাল প্রায় ৭৫০ খ্রিষ্টাব্দে) এবং শেষ হয় বারোশ শতকের দিকে, তাই মোটকাল প্রায় ৪০০ বছর রাজত্ব করেছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258266,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258267,
+      "value": {
+        "options": [],
+        "question": "ঈশা খাঁ বাংলার স্বাধীনতার জন্য — দিল্লির মুঘল সম্রাট আকবরের সাথে যুদ্ধ করেন।",
+        "solution": "ষোড়শ শতকে",
+        "explanation": "ব্যাখ্যা: ঈসা খান ছিলেন বারো-ভুঞা দলের নেতা, যারা আকবরের মুঘল সাম্রাজ্যের বিস্তার রোধ করে বাংলার স্বায়ত্তশাস্য রক্ষা করার জন্য লড়েছিলেন; সে কারণে তিনি আকবরের বিরুদ্ধে যুদ্ধ করেন। তাঁর নেতৃত্বে স্থানীয় নেতা-জমিদাররা মিলে মুঘল বাহিনীর সাথে একাধিক সংঘর্ষে লিপ্ত হয়ে বাংলার স্বাধীনতা রক্ষা করার চেষ্টা করেছিলেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258267,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258268,
+      "value": {
+        "options": [],
+        "question": "সপ্তম শতকে বাংলায় — নামে একজন প্রভাবশালী রাজা ছিলেন।",
+        "solution": "শশাংক",
+        "explanation": "উত্তর: শশাঙ্ক। তিনি সপ্তম শতকের গোড়ায় গৌড় (বঙ্গ) শাসনকারী প্রভাবশালী রাজা ছিলেন, কর্ণসুবর্ণকে রাজধানী করে অঞ্চলটি একত্রিত ও শক্তিশালী করেছিলেন এবং চীনা তীর্থযাত্রী হিউয়েন সাং ও স্থানীয় শিলালিপি-র কারণে তাঁর ইতিহাস প্রমাণিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258268,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258269,
+      "value": {
+        "options": [],
+        "question": "বাংলার প্রাচীন যুগের একজন রাজার নাম লেখ।",
+        "solution": "বাংলার প্রাচীন যুগের একজন রাজা হলেন রাজা শশাঙ্ক।",
+        "explanation": "একজন প্রাচীন বাংলার রাজার নাম হলো শশঙ্ক। তিনি সপ্তম শতাব্দীর গৌড়ের শাসক ছিলেন এবং প্রাচীন বাংলার স্বাধীন রাজ্যের প্রাথমিক পরিচায়ক হিসেবে ইতিহাসে প্রসিদ্ধ, তাই তিনি বাংলার প্রাচীন যুগের রাজা হিসেবে গণ্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258269,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258270,
+      "value": {
+        "options": [],
+        "question": "কোন শতাব্দীতে বাংলায় মুসলিম শাসন প্রতিষ্ঠিত হয়?",
+        "solution": "১২০৪ খ্রিস্টাব্দে অর্থাৎ ত্রয়োদশ শতাব্দীতে বাংলায় মুসলিম শাসন প্রতিষ্ঠিত হয়।",
+        "explanation": "ব্যাখ্যা: বাংলায় মুসলিম শাসন প্রতিষ্ঠিত হয় ১৩শ শতাব্দীতে। কারণ প্রায় ১২০৪–১২০৫ খ্রিস্টাব্দে বখতিয়ার খলজির বাংলা বিজয়ের মাধ্যমে গৌড় ও নদিয়ায় মুসলিম শাসনের ভিত্তি গড়ে ওঠে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258270,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258271,
+      "value": {
+        "options": [],
+        "question": "বাংলার মধ্যযুগের একজন শাসকের নাম দেখ।",
+        "solution": "বাংলার মধ্যযুগের একজন শাসক হলেন শামসুদ্দিন ইলিয়াস শাহ।",
+        "explanation": "উত্তর: লক্ষ্মণ সেন। ব্যাখ্যা: লক্ষ্মণ সেন সেন বংশের রাজা ছিলেন এবং তিনি ১২শ শতকে বাংলায় শাসন করেছিলেন; মধ্যযুগ সাধারণত আনুমানিক ৮ম–১৬শ শতাব্দীর সময়কালকে নির্দেশ করে, তাই তার শাসনকাল বাংলার মধ্যযুগে পড়ে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258271,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258272,
+      "value": {
+        "options": [],
+        "question": "কোন শতাব্দী থেকে বাংলার সাহিত্যচর্চা বিকশিত হয়।",
+        "solution": "চতুর্দশ শতাব্দী থেকে বাংলার সাহিত্যচর্চা বিকশিত হয়।",
+        "explanation": "ব্যাখ্যা: বাংলার সাহিত্যচর্চা সাধারণভাবে অষ্টম শতাব্দী থেকে বিকশিত হতে শুরু করে। এর প্রধান প্রমাণ হল 'চর্যাপদ'—অষ্টম-বারো শতকের বৌদ্ধ গানসমগ্র—যা বাংলা ভাষায় রচিত প্রাচীন কবিতা হিসেবে সাহিত্যের উৎপত্তি ও বিকাশের নিদর্শন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258272,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258273,
+      "value": {
+        "options": [],
+        "question": "রতনের দাদা রতনকে বলল এক সময়ে নৌকা, গরুর গাড়ি ও পালকি ছিল প্রধান যানবাহন। রতনের দাদা কোন সময়ের কথা বলছেন?",
+        "solution": "রতনের দাদা প্রাচীন যুগের কথা বলেছেন।",
+        "explanation": "ব্যাখ্যা: রতনের দাদা পুরনো সময় বা অতীতের কথা বলছেন, কারণ নৌকা, গরুগাড়ি ও পালকি আধুনিক গাড়ি–ট্রেন–বিমান আসার আগের প্রচলিত যানবাহন ছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258273,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258274,
+      "value": {
+        "options": [],
+        "question": "তোমার দেশে কোন শাসক মুসলিম শাসন প্রতিষ্ঠা করেছিলেন?",
+        "solution": "আমার দেশে তথা বাংলাদেশে বখতিয়ার খিলজী মুসলিম শাসন প্রতিষ্ঠা করেন।",
+        "explanation": "আপনি কোন দেশ বোঝাচ্ছেন তা স্পষ্ট নয়, তাই সঠিক শাসকের নাম ভিন্ন হতে পারে। সাধারণভাবে উপদ্বীপে মুসলিম শাসন প্রথম প্রতিষ্ঠা করেন সৈন্যনেতা \u003Cb\u003Eমুহাম্মদ-বিন-কাসিম\u003C/b\u003E (সিন্ধে, ৭১১ খ্রি.) এবং বাংলায় মুসলিম শাসন প্রতিষ্ঠা করেন \u003Cb\u003Eমুহাম্মদ বিন বখতিয়ার খলজী\u003C/b\u003E (প্রায় ১২০৪ খ্রি.); আপনি কোনটিই জানতে চান তা জানালে আরো নির্দিষ্ট উত্তর দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258274,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258275,
+      "value": {
+        "options": [],
+        "question": "মাসুদ স্যার ক্লাসে এমন একজন শাসকের কথা আলোচনা করলেন, যিনি চতুর্দশ শতকে বাংলার সিংহাসন দখল করেন। মাসুদ স্যার ক্লাসে কোন শাসকের কথা আলোচনা করেছেন?",
+        "solution": "মাসুদ স্যার ক্লাসে শামসুদ্দিন ইলিয়াস শাহের কথা আলোচনা করেছেন।",
+        "explanation": "ব্যাখ্যা: মাসুদ স্যার সম্ভবত শামসুদ্দীন ইলিয়াস শাহ-এর কথা বলছেন। শামসুদ্দীন ইলিয়াস শাহ ১৩৪২ খ্রিস্টাব্দে বাংলার সিংহাসন দখল করে স্বাধীন বাংলার প্রতিষ্ঠা ও ইলিয়াস শাহী বংশের সূচনা করেছিলেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258275,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258276,
+      "value": {
+        "options": [],
+        "question": "মুরাদের দাদা মুরাদকে বলেন, তোমাদের মতো বয়সে আমরা চার আনা নিয়ে বাজারে গেলে ব্যাগ ভরে বাজার নিয়ে আসতে পারতাম। মুরাদের দাদার বক্তব্যে কোন শাসনামলের চিত্র ফুটে উঠেছে।",
+        "solution": "মুরাদের দাদার বক্তব্যে শায়েস্তা খানের শাসনামলের চিত্র ফুটে উঠেছে।",
+        "explanation": "ব্যাখ্যা: দাদার কথায় যে মুদ্রা একক 'আনা' বলা হয়েছে তা ব্রিটিশ শাসনকালে ব্যবহৃত ছিল, তাই তার স্মৃতি ও ক্রয়শক্তি ব্রিটিশ শাসনকালের জীবনযাত্রা ও মুদ্রাব্যবস্থা প্রতিফলিত করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258276,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258277,
+      "value": {
+        "options": [],
+        "question": "সপ্তম শতকে বাংলায় একজন প্রভাবশালী রাজা ছিলেন। তিনি বাংলার স্বাধীন অস্তিত্ব বজায় রেখেছিলেন এবং কর্ণসুবর্ণ ছিল তার রাজধানী। কর্ণসুবর্ণ কার রাজধানী ছিল?",
+        "solution": "কর্ণসুবর্ণ ছিল রাজা শশাঙ্কের রাজধানী।",
+        "explanation": "শশাঙ্ক। কারণ: সপ্তম শতকের গৌড়রাজা শশাঙ্কই বাঙলার স্বাধীনতা রক্ষা করেছিলেন এবং ঐতিহাসিক শিলালিপি ও গ্রন্থ অনুযায়ী তার রাজধানী কর্ণসুবর্ণ ছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258277,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258278,
+      "value": {
+        "options": [],
+        "question": "রাজা শশাঙ্কের পর প্রায় একশত বছর ধরে বাংলায় ভীষণ অস্থির অবস্থা বিরাজ করছিল। এরপর পাল বংশের প্রতিষ্ঠা হয়। পাল রাজবংশের প্রতিষ্ঠাতা কে ছিলেন?",
+        "solution": "রাজা গোপাল ছিলেন পাল রাজবংশের প্রতিষ্ঠাতা।",
+        "explanation": "পাল রাজবংশের প্রতিষ্ঠাতা ছিলেন গোপাল (গোপাল প্রথম)। স্থানীয় সামন্ত ও নেতৃবৃন্দ তাকে প্রায় ৭৫০ খ্রিস্টাব্দের দিকে নির্বাচিত করে অবস্থা শান্ত ও সুসংগঠিত করার ফলে পাল শাসন প্রতিষ্ঠিত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258278,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258279,
+      "value": {
+        "options": [],
+        "question": "আরাফাত স্যার তার আলোচনার মধ্যে পাল রাজাদের সম্পর্কে আলোচনা করেন এবং পরবর্তী ক্লাসে পাল রাজাদের পরে যারা ক্ষমতায় আসেন তাদের সম্পর্কে আলোচনা করেন। পাল রাজাদের পরে কারা ক্ষমতায় এসেছিলেন?",
+        "solution": "পাল রাজাদের পরে সেন রাজা ক্ষমতায় এসেছিলেন।",
+        "explanation": "ব্যাখ্যা: পাল রাজবংশের পতন ও অভ্যন্তরীণ দুর্বলতার ফলে দক্ষিণবঙ্গের সেন পরিবার উত্থিত হয়ে ক্ষমতা দখল করে; তাই পালদের পরে সেন (সেনরাজা) রাজবংশের শাসন স্থাপিত হয়, প্রধান নেতৃত্বে ছিলেন হেমন্ত সেন, বিজয় সেন ও লক্ষ্মণ সেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258279,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258280,
+      "value": {
+        "options": [],
+        "question": "সিফাতের বড় ভাই বাংলার মুসলিম শাসন সম্পর্কে আলোচনা করতে গিয়ে বলেন, লক্ষ্মণ সেনকে পরাজিত করে বাংলায় মুসলিম শাসনের সূত্রপাত হয়। লক্ষ্মণ সেনকে পরাজিত করে কে বাংলায় মুসলিম শাসনের সূচনা করেন?",
+        "solution": "লক্ষ্মণ সেনকে পরাজিত করে বখতিয়ার খিলজী বাংলায় মুসলিম শাসনের সূচনা করেন।",
+        "explanation": "ব্যাখ্যা: বখতিয়ার খিলজি (মুহাম্মদ বখতিয়ার খিলজি) লক্ষ্মণ সেনকে পরাজিত করে প্রায় ১২০৪ খ্রিস্টাব্দে নদিয়াকে দখল করে বাংলায় মুসলিম শাসন প্রতিষ্ঠা করেন; তার এই বিজয়ই বাংলায় মুসলিমশাসনের সূচনা চিহ্নিত করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258280,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258281,
+      "value": {
+        "options": [],
+        "question": "বসিরের ভাই বলেন, একসময় মানুষের প্রধান পেশা ছিল কৃষি। ধান আর আখ ছিল প্রধান ফসল। কুটির শিল্পে তুলা ও রেশম দিয়ে কাপড় বোনা হতো। বসিরের ভাই বাংলার কোন যুগের কথা বলেছিল?",
+        "solution": "বসিরের ভাই বাংলার প্রাচীন যুগের কথা বলেছিল।",
+        "explanation": "ব্যাখ্যা: উল্লেখিত বৈশিষ্ট্য — প্রধান পেশা কৃষি, ধান ও আখ মূল ফসল, এবং কুটিরশিল্পে তুলা ও রেশমের কাপড় বোনা — এসব প্রাচীন বাংলার চিহ্ন; তাই তিনি প্রাচীন যুগের কথা বলেছিলেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258281,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258282,
+      "value": {
+        "options": [],
+        "question": "সাহেদ নানু বাড়ির এক গ্রামের বাজারে নানুর সাথে বাজার করতে গিয়ে সবকিছু অনেক সস্তা দেখে ইতিহাসের এক বিশেষ সময়ের কথা মনে পড়ে গেল। যখন টাকায় ৮ মণ চাল পাওয়া যেত। কার আমলে টাকায় আট মণ চাল পাওয়া যেত?",
+        "solution": "শায়েস্তা খানের আমলে টাকায় আট মণ চাল পাওয়া যেত।",
+        "explanation": "উত্তর: আকবরের আমলে। আকবরের শাসনকালে তোদরমলের করসংস্কার ও প্রশাসনিক-বাণিজ্যিক স্থিতিশীলতার কারণে কৃষি উৎপাদন ও বাজার সুস্থ ছিল, ফলে টাকায় আট মণ চাল কেনা যেত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258282,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 258283,
+      "value": {
+        "options": [],
+        "question": "মুহিত আজকের ক্লাসে বিভিন্ন রাজবংশ সম্পর্কে জানে। মুহিতের জানা রাজবংশ কী?",
+        "solution": "রাজ পরিবারের বংশই মুহিতের জানা রাজবংশ।",
+        "explanation": "মুহিত পাল, সেন, গুপ্ত এবং মুঘল জাতীয় বিভিন্ন রাজবংশ সম্পর্কে জানে। কারণ ক্লাসে এগুলোকে উপমহাদেশের প্রধান শাসনকারী বংশ হিসেবে তাদের নাম, শাসনকাল ও গুরুত্বপূর্ণ বৈশিষ্ট্য শেখানো হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-18T11:54:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 258283,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:54:54.000000Z",
+            "updated_at": "2025-08-18T11:54:54.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746661,
+      "value": {
+        "options": {
+          "ক": "সম্রাট আকবর",
+          "খ": "সম্রাট বাবর",
+          "গ": "সম্রাট জাহাঙ্গীর",
+          "ঘ": "সম্রাট হুমায়ূন"
+        },
+        "question": "ঈসা খাঁ বাংলার স্বাধীনতার জন্য দিল্লির কোন মোগল সম্রাটের সাথে যুদ্ধ করেন?",
+        "solution": "ক. সম্রাট আকবর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746662,
+      "value": {
+        "options": {
+          "ক": "ঈসা খাঁ",
+          "খ": "শায়েস্তা খান",
+          "গ": "ইসলাম খান",
+          "ঘ": "মুসা খান"
+        },
+        "question": "কার আমলে চাল খুব সস্তা ছিল?",
+        "solution": "খ. শায়েস্তা খান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746663,
+      "value": {
+        "options": {
+          "ক": "প্রাচীন যুগে",
+          "খ": "মধ্যযুগে",
+          "গ": "আধুনিক যুগে",
+          "ঘ": "মোগল যুগে"
+        },
+        "question": "কোন যুগের শাসকদের আনুকূল্যে বাংলা ভাষা ও সাহিত্য ব্যাপকভাবে বিকশিত হয়?",
+        "solution": "খ. মধ্যযুগে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746664,
+      "value": {
+        "options": {
+          "ক": "দ্বাদশ শতকে",
+          "খ": "চতুর্দশ শতকে",
+          "গ": "পঞ্চদশ শতকে",
+          "ঘ": "ষোড়শ শতকে"
+        },
+        "question": "শামসুদ্দিন ইলিয়াস শাহ কত শতকে বাংলায় সিংহাসনে বসেন?",
+        "solution": "খ. চতুর্দশ শতকে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746665,
+      "value": {
+        "options": {
+          "ক": "ঢাকা",
+          "খ": "কর্ণসুবর্ণ",
+          "গ": "সোনারগাঁও",
+          "ঘ": "মহাস্থানগড়"
+        },
+        "question": "ঈসা খাঁ কোথাকার জমিদার ছিলেন?",
+        "solution": "গ. সোনারগাঁও",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746666,
+      "value": {
+        "options": {
+          "ক": "জলদস্যুদের",
+          "খ": "ঠগিদের",
+          "গ": "ডাকাতদের",
+          "ঘ": "রাজাদের"
+        },
+        "question": "শায়েস্তা খান বাংলা অঞ্চল থেকে কাদের বিতাড়িত করেন?",
+        "solution": "ক. জলদস্যুদের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746667,
+      "value": {
+        "options": {
+          "ক": "শামসুদ্দিন ইলিয়াস শাহ",
+          "খ": "ঈসা খাঁ",
+          "গ": "শায়েস্তা খান",
+          "ঘ": "মুসা খাঁ"
+        },
+        "question": "ইলিয়াস শাহী বংশের শাসন সূচনা করেন কে?",
+        "solution": "ক. শামসুদ্দিন ইলিয়াস শাহ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746668,
+      "value": {
+        "options": {
+          "ক": "মুসা খান",
+          "খ": "বাহাদুর গাজী",
+          "গ": "প্রজাপাদিত্য",
+          "ঘ": "ঈসা খাঁ"
+        },
+        "question": "বারোভূঁইয়াদের নেতা ছিলেন কে?",
+        "solution": "ঘ. ঈসা খাঁ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746669,
+      "value": {
+        "options": {
+          "ক": "চতুর্দশ শতকে",
+          "খ": "পঞ্চদশ শতকে",
+          "গ": "সপ্তদশ শতকে",
+          "ঘ": "অষ্টাদশ শতকে"
+        },
+        "question": "মোগলরা শায়েস্তা খানকে বাংলার সুবেদার নিযুক্ত করেন কত শতকে?",
+        "solution": "গ. সপ্তদশ শতকে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746670,
+      "value": {
+        "options": {
+          "ক": "ঢাকা",
+          "খ": "মুন্সিগঞ্জ",
+          "গ": "চট্টগ্রাম",
+          "ঘ": "ঝিনাইদহ"
+        },
+        "question": "মুসলিম শাসনামলে বাণিজ্য কেন্দ্র হিসেবে সুপরিচিত ছিল-",
+        "solution": "গ. চট্টগ্রাম",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746646,
+      "value": {
+        "options": {
+          "ক": "সোনারগাঁও",
+          "খ": "গৌড়",
+          "গ": "কলকাতা",
+          "ঘ": "কর্ণসুবর্ণ"
+        },
+        "question": "রাজা শশাংকের রাজধানী কোথায় ছিল?",
+        "solution": "ঘ. কর্ণসুবর্ণ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746647,
+      "value": {
+        "options": {
+          "ক": "রাজা রামপাল",
+          "খ": "রাজা শশাংক",
+          "গ": "রাজা গোপাল",
+          "ঘ": "রাজা লক্ষণ সেন"
+        },
+        "question": "কোন রাজা অষ্টম শতকে বাংলার সিংহাসনে বসেন?",
+        "solution": "গ. রাজা গোপাল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746648,
+      "value": {
+        "options": {
+          "ক": "মোহাম্মদ ঘুরি",
+          "খ": "রাজা শশাংক",
+          "গ": "বখতিয়ার খলজি",
+          "ঘ": "রাজা গোপাল"
+        },
+        "question": "বাংলায় মুসলিম শাসনের সূচনা করেন কে?",
+        "solution": "গ. বখতিয়ার খলজি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746649,
+      "value": {
+        "options": {
+          "ক": "গ্রাম",
+          "খ": "সমাজ",
+          "গ": "বাজার",
+          "ঘ": "শহর"
+        },
+        "question": "প্রাচীন যুগে সমাজজীবনের মূলভিত্তি কী ছিল?",
+        "solution": "ক. গ্রাম",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746650,
+      "value": {
+        "options": {
+          "ক": "একটি",
+          "খ": "দুইটি",
+          "গ": "তিনটি",
+          "ঘ": "চারটি"
+        },
+        "question": "প্রাচীন যুগে কয়টি প্রধান ধর্ম ছিল?",
+        "solution": "খ. দুইটি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746651,
+      "value": {
+        "options": {
+          "ক": "চতুর্থ শতক",
+          "খ": "পঞ্চম শতক",
+          "গ": "সপ্তম শতক",
+          "ঘ": "নবম শতক"
+        },
+        "question": "কত শতকে বাংলায় শশাংক নামে একজন প্রভাবশালী রাজা ছিলেন?",
+        "solution": "গ. সপ্তম শতক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746652,
+      "value": {
+        "options": {
+          "ক": "কৃষিকাজ",
+          "খ": "শিল্প",
+          "গ": "ব্যবসা-বাণিজ্য",
+          "ঘ": "পশুপালন"
+        },
+        "question": "প্রাচীন বাংলার মানুষের প্রধান পেশা কী ছিল?",
+        "solution": "ক. কৃষিকাজ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746653,
+      "value": {
+        "options": {
+          "ক": "রাজা শশাংক",
+          "খ": "রাজা গোপাল",
+          "গ": "রাজা লক্ষণ সেন",
+          "ঘ": "রাজা আকবর"
+        },
+        "question": "সপ্তম শতকে বাংলায় প্রভাবশালী কোন রাজা ছিলেন?",
+        "solution": "ক. রাজা শশাংক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746654,
+      "value": {
+        "options": {
+          "ক": "প্রায় পঞ্চাশ",
+          "খ": "প্রায় একশ বছর",
+          "গ": "প্রায় দুইশত বছর",
+          "ঘ": "প্রায় চারশত বছর"
+        },
+        "question": "রাজা শশাংকের পর কত বছর ধরে বাংলায় ভীষণ অস্থির অবস্থা বিরাজ করছিল?",
+        "solution": "খ. প্রায় একশ বছর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746655,
+      "value": {
+        "options": {
+          "ক": "২০০ বছর",
+          "খ": "৩০০ বছর",
+          "গ": "৩৫০ বছর",
+          "ঘ": "৪০০ বছর"
+        },
+        "question": "পাল রাজবংশ কত বছর রাজত্ব করেছিল?",
+        "solution": "ঘ. ৪০০ বছর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746656,
+      "value": {
+        "options": {
+          "ক": "দ্বিতীয়",
+          "খ": "তৃতীয়",
+          "গ": "চতুর্থ",
+          "ঘ": "পঞ্চম"
+        },
+        "question": "রাজা লক্ষণ সেন সেন রাজবংশের কততম রাজা?",
+        "solution": "গ. চতুর্থ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746657,
+      "value": {
+        "options": {
+          "ক": "লক্ষণ সেন",
+          "খ": "শশাংক",
+          "গ": "গোপাল",
+          "ঘ": "মহিপাল"
+        },
+        "question": "কোন রাজা একজন সুপন্ডিত ও কবি ছিলেন?",
+        "solution": "ক. লক্ষণ সেন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746658,
+      "value": {
+        "options": {
+          "ক": "রাজা গোপাল",
+          "খ": "রাজা ধর্মপাল",
+          "গ": "রাজা দেবপাল",
+          "ঘ": "রাজা মহেন্দ্রপাল"
+        },
+        "question": "পাল রাজবংশের প্রতিষ্ঠাতা কে?",
+        "solution": "ক. রাজা গোপাল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746659,
+      "value": {
+        "options": {
+          "ক": "রাজা বিজয় সেন",
+          "খ": "রাজা হেমন্ত সেন",
+          "গ": "রাজা গোপাল",
+          "ঘ": "রাজা লক্ষণ সেন"
+        },
+        "question": "সেন বংশের কোন শাসক দ্বাদশ শতকে বাংলায় রাজত্ব করেন?",
+        "solution": "ঘ. রাজা লক্ষণ সেন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746660,
+      "value": {
+        "options": {
+          "ক": "১২০২ খ্রিস্টাব্দে",
+          "খ": "১২০৪ খ্রিস্টাব্দে",
+          "গ": "১২০৩ খ্রিস্টাব্দে",
+          "ঘ": "১২০৬ খ্রিস্টাব্দে"
+        },
+        "question": "বখতিয়ার খিলজী কত খ্রিস্টাব্দে লক্ষণ সেনকে পরাজিত করেন?",
+        "solution": "খ. ১২০৪ খ্রিস্টাব্দে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 596859,
+      "value": {
+        "options": {
+          "ক": "টাকায় পাঁচ মণ চাল পাওয়া যেত—এই অবস্থাটি কোন শাসকের/শাসনকালের সাথে সাধারনত যুক্ত বলে বিবেচিত হতে পারে?",
+          "খ": "উক্ত সময়টি সাধারণত কোন শতাব্দীর (শতাব্দী) দিকে পড়ে?",
+          "গ": "কোন ধরনের অর্থনৈতিক বা মুদ্রাগত পরিবর্তনগুলোর জন্য ঐ সময় মুদ্রার ক্রয়ক্ষমতা বেশি ছিল—সংক্ষেপে উল্লেখ করুন?",
+          "ঘ": "ঐ দিনের চালের দামের ওপর ভিত্তি করে বর্তমান মূল্যমান আনুমানিক হিসাব করার একটি সহজ পদ্ধতি বর্ণনা করুন—ধাপগুলো কী হবে?"
+        },
+        "question": "গ্রামীণ বাজারে কিশোর চাচুর সাথে ঘোরাফেরা করতে গিয়ে তিনি হঠাৎ দেখে বাজারে চালের দামে অবাক হয়ে গেলেন। মনে পড়ে গেল পুরোনো কথা—এক সময় টাকায় পাঁচ মণ চাল পাওয়া যেত। সেই স্মৃতি থেকে তিনি কয়েকটি জিজ্ঞেস করলেন।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E উত্তর: ঐ রকম কথা-পৌরাণিক ও ঐতিহাসিক প্রসঙ্গে সাধারণত শের শাহ সূরীর (Sher Shah Suri) শাসনকালকে উদাহরণ হিসেবে নেওয়া হয়, কারণ তিনি মুদ্রা ও আয়কর ব্যবস্থা পুনরুদ্ধার ও মান নির্ধারণের কাজ করেছেন, ফলে মুদ্রার স্থিতিশীলতা বাড়ার কারণে ক্রয়ক্ষমতা বৃদ্ধি পেয়েছিল।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E উত্তর: সাধারণত এই পরিস্থিতি 16শ শতাব্দীর দিকে (শের শাহ সূরীর শাসনকাল: পৌষ ১৫৫৩–১৫৫৫ খ্রিস্টাব্দ আনুমানিক) অবস্থানের সাথে যুক্ত করা হয়।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E উত্তর: মূল কারণগুলো হলো:\n1) মুদ্রা পুনর্সংগঠন ও মান নির্ধারণ—শাসক যখন মুদ্রার ওজন ও শুদ্ধতা স্থির করেন, মুদ্রার বিশ্বাসযোগ্যতা বাড়ে।\n2) কেন্দ্রীয় কর-সংগ্রহ বা জমি-ব্যবস্থায় স্থিতিশীলতা—আয় স্থিতিশীল হলে বাজারে সরবরাহ ও বাজারমূল্য কন্ট্রোলে সাহায্য করে।\n3) পরিবহন ও সরবরাহ চেইনের উন্নতি—অপর্যাপ্ত ট্যাক্স বা সদ্যই উন্নত যোগাযোগ ব্যবস্থা খাদ্যশস্য বাজারে আসতে সহজ করে দিত।\n4) মন্দা/যুদ্ধ অনুপস্থিতি—শান্তি থাকলে কৃষি উৎপাদন ও বাজারে অভাব কমে যায়।\n(সংক্ষেপে: মুদ্রার মান স্থিরকরণ + সরবরাহ ও প্রশাসনিক স্থিতিশীলতা)।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E উত্তর: বর্তমান মূল্যমান আনুমানিক হিসাব করার সহজ ধাপগুলো:\n1) ঐ সময়ের যে পরিমাণ চাল (উদাহরণ: পাঁচ মণ) তা কিলোগ্রামে রূপান্তর করুন (ঐতিহাসিকভাবে 1 মণ অঞ্চলে ভিন্ন হতে পারে; সাধারণ অনুমান হিসেবে 1 মণ ≈ 40 কেজি ধরে নিতে পারেন)।\n2) ঐ পরিমাণ চালের জন্য ঐ সময়ে যে মুদ্রা (টাকা) দেওয়া হতো, সেটি দিয়ে প্রতি কেজির মূল্য বের করুন (টাকা ÷ মোট কেজি)।\n3) বর্তমান বাজারে একই ধরণের চালের প্রতি কেজি মূল্য নিন (স্থানীয় বাজার বা জাতীয় গড়)।\n4) ঐ সময়ের মোট কেজি × বর্তমান প্রতি কেজি মূল্য = ঐ দিনের চালকে বর্তমান মূল্যে রূপান্তরিত মোট মূল্য।\n5) ঐ হিসাবকে আরও অর্থনৈতিক তুলনার জন্য সাধারণ মূল্যসূচক (CPI) বা মুদ্রাস্ফীতি তথ্য ব্যবহার করে সামঞ্জস্য করতে পারেন—তবে ঐতিহাসিক CPI পাওয়া কঠিন হলে ধাপ 1–4 যথেষ্ট আনুমানিক তুলনা দেবে।\n\nউইথ নোট: এখানে শাসক ও শতাব্দী হিসেবে শের শাহ সূরীকে উদাহরণ হিসেবে ধরা হলো কারণ তিনি মুদ্রাসংকেতন ও প্রশাসনিক সংস্কারের জন্য পরিচিত; স্থানীয় উপকরণ ও ঐতিহাসিক বিবরণে ভিন্ন সিদ্ধান্তও থাকতে পারে।",
+        "explanation": "উপরের উত্তরগুলির ব্যাখ্যা সংক্ষেপে: ইতিহাসে মুদ্রার স্থিতিশীলতা ও প্রশাসনিক সংস্কার বাজারদামকে প্রভাবিত করে। শের শাহ সূরি মুদ্রার ওজন ও মান নির্ধারণ করে 'রূপিয়া' প্রবর্তন করেছিলেন, যা পরবর্তীতে দক্ষিণ এশিয়ায় মুদ্রাসংস্থানকে প্রভাবিত করেছিল—এ ধরনের সংস্কার এক সময় মুদ্রার ক্রয়ক্ষমতা বাড়াতে সাহায্য করে। শতাব্দী নির্ধারণ ঐ শাসকের কার্যাবলীর সাথে মিলিয়ে করা হয়েছে। মূল্যকে বর্তমানের সঙ্গে তুলনা করার পদ্ধতি মানদণ্ডগত এবং ধাপে ধাপে কেজিতে রূপান্তর করে বর্তমান কেজি-দামের সঙ্গে গুণ করার উপর নির্ভর করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-26T14:07:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 596858,
+      "value": {
+        "options": {
+          "ক": "উক্ত বর্ণনায় কোন শাসনামলের চিত্র ফুটে উঠেছে?",
+          "খ": "উক্ত শাসনের কাহিনীর সেরা পরিচিত প্রশাসক বা গভর্নরের নাম কী হতে পারে?",
+          "গ": "এই শাসনামল আনুমানিক কোন শতকে প্রচলিত ছিল?",
+          "ঘ": "ঐ শাসনামলের একটি প্রধান বৈশিষ্ট্য কি লেখা যাবে?"
+        },
+        "question": "রশিদের দাদা স্মরণ করেন—'আমাদের সময়ে বন্দরে বিদেশি জাহাজ ঢুকত, মশলা-তামা-চালের বড় চালান আসত, নৌবাহিনী শক্ত ছিল এবং উপকূলীয় কেল্লাগুলোতে সেনাবাহিনী ও প্রশাসন দৃঢ়ভাবে থাকত। গ্রাম-শহরের বাজার ও বন্দরগুলো জীবন্ত ছিল।' রশিদের দাদার বর্ণনায় যে শাসনামলের ছবি ফুটে উঠেছে, তা যাচাই করার জন্য নীচের উপ-প্রশ্নগুলোর উত্তর লেখ।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E মুঘল শাসনামলের চিত্র ফুটে উঠেছে। \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E বিশেষভাবে শায়েস্তা খান (Shaista Khan) নামের গভর্নরের শাসনাবস্থাকেই নির্দেশ করা হচ্ছে। \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E আনুমানিক ১৭শ শতাব্দী (১৬০০–১৭০০-এর মধ্যে; বিশেষত ১৬৬০-৬৮০-এর দশক)। \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E প্রধান বৈশিষ্ট্য: উপকূলীয় বন্দর রক্ষা করে সামুদ্রিক বাণিজ্য ও নৌসেনাকে শক্তিশালী করা।",
+        "explanation": "ব্যাখ্যা: বর্ণনায় যে আধিক্য দেখা যাচ্ছে—বন্দরগুলোতে বিদেশি জাহাজ, মশলা ও তামার বড় চালান, শক্তিশালী নৌবাহিনী এবং উপকূলীয় কেল্লা-প্রতিষ্ঠান—এসবই মুঘল শাসনকালের ব Bengal-এর বৈশিষ্ট্যের সঙ্গে মিলে যায়। বিশেষ করে শায়েস্তা খানকে (মুঘল আমলে বাংলা বিভাগের নবাব/গভর্নর) সমুদ্রপথে প্রতিপক্ষ ও চোরাকারবারিদের বিরুদ্ধে লড়াই করে চট্টগ্রামসহ উপকূলীয় এলাকা পুনরুজ্জীবিত করার জন্য পরিচিত — তিনি বন্দরের নিরাপত্তা ও বাণিজ্য রক্ষায় গুরুত্বপূর্ণ ভূমিকা রাখেন। তাই উপকূলীয় চাহিদা ও নৌতৎপর্যের জোরের বর্ণনা সরাসরি ১৭শ শতাব্দীর (প্রধানত ১৬৬০-১৬৮০ দশক) মুঘল শাসনামল ও শায়েস্তা খানের শাসনকালের সঙ্গে প্রসঙ্গবদ্ধ। উপরন্তু মুঘল প্রশাসনের সাধারণ বৈশিষ্ট্য ছিল কেন্দ্রীয় কর-সংগ্রহ (জবত/দখল ব্যবস্থা), জমিদার-জাগীরদারি ব্যবস্থা, এবং বাণিজ্য ও সমুদ্রপথ রক্ষায় কেল্লা ও নৌবহর গঠন—যা বর্ণনায় উল্লেখিত সামাজিক-অর্থনৈতিক চিত্রকে সমর্থন করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-26T14:07:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 596856,
+      "value": {
+        "options": {
+          "ক": "সেন রাজাদের পতন ঘটিয়ে বাংলায় শাসন কায়েম করেন এমন প্রধান বিজয়ীর নাম কি?",
+          "খ": "সেন শাসন আনুমানিক কোন সময়ে শেষ হয়ে যায়? (শতাব্দী/সময়কাল লিখুন)",
+          "গ": "সেন বংশের শেষ শক্তিশালী রাজা কে ছিলেন?",
+          "ঘ": "সেন রাজাদের বিরুদ্ধে আক্রমণের ফলে বাংলার কোন প্রচলিত শিক্ষাপ্রতিষ্ঠান ক্ষতিগ্রস্ত হয় এবং এর দীর্ঘমেয়াদি প্রভাব কী ছিল?"
+        },
+        "question": "আরাফাত স্যার গত ক্লাসে সেন রাজাদের শাসনকাল, প্রশাসন ও সাংস্কৃতিক অবদান নিয়ে আলোচনা করেছিলেন। তিনি আজকের ক্লাসে সেন বংশের পতন, এবং তাদের পরে বাংলায় ক্ষমতায় আসা শাসক ও ঘটিত পরিবর্তনের সম্পর্কে আলোচনা শুরু করতে যাচ্ছেন।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E উত্তর: বখতিয়ার খলজী (Muhammad Bakhtiyar Khalji)।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E উত্তর: আনুমানিক ১৩শ শতাব্দীর শুরু—প্রায় ১২০০ খ্রিস্টাব্দের কাছাকাছি (১২০০–১২০৫ খ্রি. এর সময়)।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E উত্তর: লক্ষ্মণ সেন (Lakshmana Sena) ছিলেন সেন বংশের শেষ দৃশ্যমান ও শক্তিশালী রাজা।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E উত্তর: নালন্দা বিশ্ববিদ্যালয় প্রধানভাবে ক্ষতিগ্রস্ত হয়েছিল; এর ফলে প্রাচীন বৌদ্ধ শিক্ষা ও ট্রেডিশনাল মঠ-মহাবিদ্যালয়গুলোর মহান পতন ঘটে এবং বাংলায় বৌদ্ধ শিক্ষার সংকোচ ও সাংস্কৃতিক পরিবর্তন দ্রুততর হয়।",
+        "explanation": "ক: ইতিহাসবিজ্ঞানী ও স্থানীয় সূত্র অনুযায়ী বখতিয়ার খলজী ছিলেন সেই তুর্কো-আফগান বীর যে ১২শ শতকের শেষাভাগে (প্রায় ১২০৩ খ্রি.) বঙ্গের উপকূলীয় অঞ্চল থেকে ভেতরে ঢুকে নব্যদ্বীপ ও পটনা অঞ্চলে আক্রমণ করে সেন সাম্রাজ্যের কেন্দ্রভূমি দুর্বল করেছিল এবং মুসলিম শাসনের সূচনা করেছিল।\n\nখ: সেন শাসনের চূড়ান্ত রাজনৈতিক প্রভাব ধীরে ধীরে ১২শ শতকের শেষের দিকে হ্রাস পেতে শুরু করে; বখতিয়ারের দখলে ১২০০-এর দশকে বড় ধাক্কা লাগে, ফলে আনুমানিকভাবে সেন শাসনকে ১৩শ শতকের শুরুতে শেষপ্রায় ধরা হয়। (ঠিক তারিখগুলোর ক্ষেত্রে ঐতিহাসিক খতিয়ান ও উৎসভেদের কারণে সামান্য পার্থক্য আছে)।\n\nগ: লক্ষ্মণ সেন ছিলেন সেন বংশের সর্বশেষ শক্তিশালী ও প্রসিদ্ধ রাজা; তিনি সাহিত্য ও সংস্কৃতির অনুকূল ছিলেন এবং তার শাসনকালেই বখতিয়ারের আক্রমণ ঘটে, ফলে তার শাসন শক্তভাবে ধাক্কা খায়। কিছু ইতিহাসকার মনে করেন লক্ষ্মণ সেন পরে স্থানীয়ভাবে কিছুক্ষণ রাজত্ব চালিয়ে গেছেন, কিন্তু প্রাক্-ইসলামী সাম্রাজ্য হিসেবে সেনদের রাজনৈতিক ক্ষমতা উল্লেখযোগ্যভাবে ম্লান হয়ে যায়।\n\nঘ: বখতিয়ারের অভিযানসমূহের মধ্যে নালন্দা বিশ্ববিদ্যালয় ধ্বংসের খবরে ঐ সময়কার শিক্ষাব্যবস্থা ও বৌদ্ধ প্রতিষ্ঠানের উপর বিরাট প্রভাব পড়ে। নালন্দা ও সমান ধাঁচের মহাবিদ্যালয়গুলোর বিনাশের ফলে বৌদ্ধ শিক্ষার প্রতিষ্ঠানগত কেন্দ্র ধ্বংসপ্রাপ্ত হয়, শিক্ষা ও ধর্মীয় প্যাটার্নে বড় রূপান্তর ঘটে এবং অঞ্চলের ধর্মীয়-সাংস্কৃতিক ভারসাম্য বদলে যায়—ইসলামীয় শাসনাধীনে নতুন প্রশাসনিক ও ধর্মীয় কাঠামো গড়ে ওঠে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-26T14:07:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 596854,
+      "value": {
+        "options": {
+          "ক": "প্রশ্ন: ঐ শাসকের নাম কী?",
+          "খ": "প্রশ্ন: তিনি কোন বংশ প্রতিষ্ঠা করেছিলেন?",
+          "গ": "প্রশ্ন: তিনি কোন কোন প্রধান অঞ্চলে/নগরে দখল করেছিলেন? (কমপক্ষে তিনটি লিখো)",
+          "ঘ": "প্রশ্ন: তিনি কোন শতকে বাংলার সিংহাসন দখল করেছিলেন?"
+        },
+        "question": "মাসুদ স্যার ক্লাসে এমন একজন শাসকের কথা আলোচনা করলেন, যিনি চতুর্দশ শতকের সময় বাংলার বিভিন্ন ক্ষুদ্র রাজ্য একীভূত করে স্বাধীন এক শাসন প্রতিষ্ঠা করেছিলেন এবং তাঁর নাম দ্বারা একটি বংশ পরিচিতি লাভ করে—শাসক ও তাঁর কাজ সম্পর্কে ক্লাসে বিস্তৃত আলোচনা হয়েছিল।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E উত্তর: শামসুদ্দিন ইলিয়াস শাহ। \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E উত্তর: ইলিয়াস সাহি বংশ (Ilyas Shahi dynasty)। \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E উত্তর: তিনি সাতগাঁও (সপ্তগ্রাম), লক্ষণৌতি (গৌড়/লখনৌতি) ও সোনারগাঁও দখল করেছিলেন (এছাড়া অন্যান্য স্থানও তিনি অধিগ্রহণ করেন)। \u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E উত্তর: চতুর্দশ শতক (১৪শ শতক); তিনি প্রায় ১৩৪২ খ্রিস্টাব্দে বাংলার সিংহাসন দখল করে ১৪শ শতকের মাঝামাঝি সময়ে রাজত্ব শুরু করেন।",
+        "explanation": "শামসুদ্দিন ইলিয়াস শাহ ছিলওই শাসক যাকে ইতিহাসে বাংলাকে একত্রিতকারী হিসেবে দেখা হয়। তিনি রাজধানীভিত্তিক ভিন্ন ক্ষুদ্র কর্তৃত্বগুলিকে পরাজিত করে স্বাধীন বাংলায় শাসন প্রতিষ্ঠা করেন এবং তাঁর নামানুসারে ইলিয়াস সাহি বংশ প্রতিষ্ঠিত হয়। ঐ সময়ের প্রধান নগরসমূহ—সপ্তগ্রাম (সাতগাঁও), লক্ষণৌতি (গৌড়) ও সোনারগাঁও—তাঁর নেতৃত্বে যুক্ত হয়। ঐ শাসনকাল মূলত চতুর্দশ শতকের মধ্যভাগে (১৩৪০-এর দশক থেকে ১৩৫০-এর দশক) ঘটে, তাই শতকের পরিচয় চতুর্দশ (১৪শ)। এই তথ্য বাংলা মধ্যযুগীয় ইতিহাসের সাধারণ গ্রন্থ ও সূত্রে নথিভুক্ত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-26T14:07:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 596853,
+      "value": {
+        "options": {
+          "ক": "ওই শাসকের নাম কী?",
+          "খ": "কর্ণসুবর্ণ আজকের কোন জেলার মধ্যে পড়ে?",
+          "গ": "ঐ শাসক কোন ধর্ম বা যুগপন্থার অনুগত ছিলেন বলে পরিচিত?",
+          "ঘ": "তিনি কোন উত্তর ভারতীয় শাসকের সঙ্গে প্রতিদ্বন্দ্বিতা/সংঘাত করেছিলেন?"
+        },
+        "question": "সপ্তম শতকের বাংলায় এক শক্তিশালী শাসক ছিলেন, যাঁর শাসনকালে গৌড়-ব্যবস্থা সুসংহত হয়েছিল এবং কর্ণসুবর্ণ ছিল তাঁর প্রশাসনিক কেন্দ্রে। নিচের উপ-প্রশ্নগুলোর উত্তর দিন:",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E উত্তর: রাজা শশাঙ্ক। রুমানীয় ও ভারতীয় সূত্রনুযায়ী সপ্তম শতকের বাংলা অঞ্চলে স্বাধীন রাজ্য প্রতিষ্ঠা করে শক্তভাবে শাসন করেছেন এবং কর্ণসুবর্ণকে তাঁর রাজধানী হিসাবে গঠন করেছিলেন।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E উত্তর: কর্ণসুবর্ণ আজকের ভারতের পশ্চিমবঙ্গ রাজ্যের মুর্শিদাবাদ জেলায় অবস্থিত বলে ধরা হয়। পুরাতাত্ত্বিক ও ঐতিহাসিক গবেষণায় কর্ণসুবর্ণের খণ্ডচিহ্ন ও মাটির স্তর মুর্শিদাবাদের অঞ্চলে পাওয়া গিয়েছে।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E উত্তর: তিনি সাধারণত শৈব (শিব পূজক) শাসক হিসেবে বিবেচিত হন। বিভিন্ন নলিপত্র ও বোদ্ধপত্রের সূত্রে তিনি শৈব ধর্মের অনুসারী হিসেবে পরিচিত; তদুপরি শাসনকালে হিন্দু ঐতিহ্যের প্রতিফলন দেখা যায়।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E উত্তর: তিনি উত্তর ভারতীয় সম্রাট হরষবর্ধন (হর্ষ)–এর সঙ্গে সংঘাতে লিপ্ত ছিলেন। ঐতিহাসিক নথি ও কাহিনীগুলি শশাঙ্ক ও হরষের রাজনৈতিক ও সামরিক সংঘর্ষের কথা উল্লেখ করে।",
+        "explanation": "ক: সপ্তম শতকের বাংলার স্বাধীন ও প্রভাবশালী শাসক হিসেবে শশাঙ্ককে ইতিহাসে চিহ্নিত করা হয়েছে; তাঁকে কর্ণসুবর্ণ নগর প্রতিষ্ঠা ও গৌড়ের শাসনকর্তা হিসেবে বর্ণনা করা হয়।\n\nখ: কর্ণসুবর্ণ নামক পুরোনো নগরীর খোঁজখবর এবং নকশা-চিহ্ন আধুনিক পুরাতাত্ত্বিক ফলাফলে আজকের পশ্চিমবঙ্গের মুর্শিদাবাদ জেলার এলাকায় মিলেছে; তাই ঐতিহ্যগতভাবে এখানকেই কর্ণসুবর্ণের অবস্থান হিসেবে ধরা হয়।\n\nগ: ঐ সময়ের শাসকদের রাজকীয় রীতিনীতিতে ধর্মগত প্রকাশ দেখা যায়; শশাঙ্ককে শৈব মনে করা হয় কারণ বিভিন্ন উৎসে শিবমূর্তির পূজা ও শৈব চিহ্নের উল্লেখ আছে।\n\nঘ: শশাঙ্ক ও হরষবর্ধনের মধ্যে রাজনৈতিক প্রতিদ্বন্দ্বিতা রাজনৈতিক মানচিত্রে বড় প্রভাব ফেলেছিল—উভয়েই উত্তর ও পূর্ব ভারতের নিয়ন্ত্রণকে কেন্দ্র করে সংঘাত খবরেন। ঐতিহাসিক সূত্র ও রাজ্যচারণাভূমিতে এই সংঘাতের উল্লেখ পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-26T14:07:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 596851,
+      "value": {
+        "options": {
+          "ক": "উপস্থাপিত বর্ণনা কোন যুগের বাংলার দিকে ইঙ্গিত করে?",
+          "খ": "উপরের বর্ণনায় উল্লেখিত প্রধান দু'টি উপাদান/ফসল নাম করো।",
+          "গ": "মসলিন কাপড় সাধারণত কোন ধরণের শিল্পে তৈরি হতো?",
+          "ঘ": "চাষবাড়ির বাইরে যে পেশাটি বর্ণনায় বিশেষভাবে উল্লেখ আছে তা কি?"
+        },
+        "question": "সাইফুলের দাদু বলেছেন, ‘এক যুগে বাংলার তীরবর্তী অঞ্চলে নৌকা ও জাহাজ বানানো, জুটের কুটির শিল্প এবং সূক্ষ্ম মসলিন বুননের জন্য ঐ অঞ্চল খ্যাত ছিল। বহির্গামী বাণিজ্য ও মসলিন রপ্তানি প্রচলিত ছিল এবং স্থানীয় বন্দরে বিদেশি জাহাজ এসে ব্যবসা করত।’",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E উত্তর: মুঘল-কালীন বা মধ্যযুগীয়/ আদি-আধুনিক বাংলার (মধ্যযুগ থেকে পরবর্তী কালে, বিশেষ করে ১৬শ–১৮শ শতকে) ব্যবস্থা ও অর্থনীতির কথা বলা হচ্ছে।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E উত্তর: জুট ও ধান (অত্যন্ত প্রচলিত ও উল্লেখযোগ্য - জুট কুটির ও ধান চাষ/ধাননির্ভর কৃষি)।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E উত্তর: কুটির বা বস্ত্রকুটির শিল্পে (গ্রাম্য/শহুরে কুটির-ভিত্তিক মসলিন/সূক্ষ্ম বস্ত্র বুনন শিল্প)।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E উত্তর: নৌকা/জাহাজ নির্মাণ ও বাণিজ্য (নৌকা-নির্মাতা ও বণিকদের কার্যকলাপ — বন্দরে ছেনা-বাণিজ্য ও আন্তর্জাতিক বাণিজ্য)।",
+        "explanation": "ব্যাখ্যা: মসলিন বুনন, জুট কুটির ও নৌকা-নির্মাণ এবং বিদেশি জাহাজের সাথে বাণিজ্য—এই সব বৈশিষ্ট্য মুঘল-কালীন (প্রায় ১৬শ–১৮শ শতাব্দী) এবং তার পরবর্তী আদি-আধুনিক যুগের বাংলার সাথে যুক্ত। মসলিন মূলত গ্রামীণ বা শহুরে কুটির শিল্পে সূক্ষ্ম তাঁতশিল্পীদের দারা বোনা হত; এটি বৃহৎ-হাতে কারখানাভিত্তিক ছিল না। জুট বাংলাদেশ ও বাংলার উপকূলীয় অঞ্চলে একটি প্রধান কাঁচামাল ছিল এবং ধান সবসময় প্রধান খাদ্যশস্য হিসেবে চাষ করা হত। উপকূলীয় ও নদী-সম্পদশালী সংস্কৃতিতে নৌকা এবং বড় জলযান নির্মাণ ও জাহাজ-নির্মাণ একটি প্রতিষ্ঠিত পেশা ছিল, যা স্থানীয় ও আন্তর্জাতিক বাণিজ্যের সঙ্গে গভীরভাবে জড়িত ছিল। তাই উক্ত বর্ণনা থেকে যুগ, প্রধান ফসল/উপকরণ, শিল্পের ধরন এবং প্রধান পেশার সনাক্তকরণ সহজে করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-26T14:07:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 596849,
+      "value": {
+        "options": {
+          "ক": "লক্ষ্মণ সেনকে পরাজিত করে বাংলায় মুসলিম শাসনের সূচনা করেন—কে?",
+          "খ": "এই বিজয় প্রায় কোন খ্রিস্টাব্দে সংঘটিত হয়েছিল?",
+          "গ": "বিজয়কারী বখতিয়ার খিলজী কোন গোত্র/দলের সঙ্গে সম্পর্কযুক্ত ছিলেন?",
+          "ঘ": "বখতিয়ার খিলজী বাংলায় আক্রমণের সময় কোন বিখ্যাত বৌদ্ধ শিক্ষাকেন্দ্রটি ধ্বংস করেন?"
+        },
+        "question": "সিফাতের পরিবারে এক বিকেলে সবাই মধ্যযুগীয় বাংলার ইতিহাস নিয়ে কথা বলছিলেন। বড় ভাই বলে বখতিয়ার খিলজী লক্ষ্মণ সেনকে পরাজিত করে বাংলায় মুসলিম শাসনের সূচনা করেন—এ নিয়ে সবাই আরও বিশদ জানতে চান।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E উত্তর: বখতিয়ার খিলজী (মুহাম্মদ বখতিয়ার খিলজী)\u003Cbr\u003E\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E উত্তর: প্রায় ১২০৪ খ্রিস্টাব্দ (সূত্রানুযায়ী ১২০৩–১২০৪ খ্রিস্টাব্দের দিকে)\u003Cbr\u003E\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E উত্তর: তিনি খিলজি (Khalji) গোত্রের একজন সামরিক নেতাও ছিলেন; সাধারণত তুর্কো-আফগান বংশভূমির খিলজী হিসাবে পরিচিত\u003Cbr\u003E\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E উত্তর: নালন্দা বিশ্ববিদ্যালয় (নালন্দা) ধ্বংস করা হয়েছিল",
+        "explanation": "বিস্তারিত ব্যাখ্যা: লক্ষ্মণ সেনের রাজত্বকালে (গৌড়-সম্রাজ্য) বখতিয়ার খিলজী নামে একজন খিলজি সৈন্যনেতা পূর্ব দিকে অভিযান চালান। ঐ অভিযানেই তিনি নাদিয়া/গৌড় অঞ্চলে আক্রমণ করে লক্ষ্মণ সেনের সাম্রাজ্যকে দুর্বল করেন এবং প্রায় ১২০৩–১২০৪ খ্রিস্টাব্দের দিকে বাংলায় মুসলিম শাসনের প্ররম্ভ ঘটে। ইতিহাসচর্চায় তাঁকে সাধারণত বখতিয়ার খিলজী (Muhammad Bakhtiyar Khalji) নামে উল্লেখ করা হয়। তিনি খানবংশীয়/খিলজী গোত্রভুক্ত ছিলেন, যা তুর্কি–আফগান সামরিক ঐতিহ্যের সঙ্গে যুক্ত। অভিযানকালে বখতিয়ার খিলজী বিখ্যাত বৌদ্ধ শিক্ষাকেন্দ্র নালন্দা (এবং একই সময়ে অন্যান্যের মতো বিক্রমশিলা সম্পর্কিত উল্লেখ পাওয়া যায়) ধ্বংস এবং দাহ করেন, যা মধ্যযুগীয় দক্ষিণ এশিয়ার বৌদ্ধ শিক্ষাব্যবস্থার জন্য নয়নীয় ক্ষতি ছিল। এই বিজয় এবং প্রাণঘাতী আক্রমণের ফলে বাংলায় ইসলামী শাসনের ভিত্তিও রেখে দেয়া হয়। ঐ তারিখ ও ঘটনাবলীর উৎস হিসেবে মধ্যযুগীয় বাংলা-ইতিহাস ও মুসলিম বিজয় সম্পর্কে লিখিত ঐতিহাসিক বিবরণগুলি ব্যবহৃত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-26T14:07:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 596846,
+      "value": {
+        "options": {
+          "ক": "পাল রাজবংশের প্রতিষ্ঠাতা কারা ছিলেন?",
+          "খ": "পালবংশ প্রায় কোন শতকে প্রতিষ্ঠিত হয়েছিল (ঐতিহাসিক ধরা শতক বা খ্রিস্টাব্দ উল্লেখ করে)?",
+          "গ": "পাল বংশের প্রথম কেন্দ্র বা প্রাথমিক রাজধানী হিসেবে কোন অঞ্চলকে ধরা হয়?",
+          "ঘ": "পাল রাজবংশ কোন ধর্ম ও ধর্মীয় প্রতিষ্ঠানগুলোকে উৎসাহ দিত/পোষণ করত?"
+        },
+        "question": "শশাঙ্কের পর বাংলায় রাজনৈতিক বিশৃঙ্খলার সময়কাল পেরিয়ে, এক নতুন রাজবংশ উঠে আসে যা বাংলার ইতিহাসে দীর্ঘ সময় ক্ষমতা ধারণ করে। নিচের প্রশ্নগুলোর মাধ্যমে ওই পালবংশ সম্পর্কিত বিভিন্ন দিক যাচাই করা হলো।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E উত্তর: গোপাল (Gopala I)।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E উত্তর: অষ্টম শতক খ্রিস্টাব্দের মধ্যভাগ (প্রায় ৭৫০ খ্রিস্টাব্দ)।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E উত্তর: প্রাথমিকভাবে বরেন্দ্র অঞ্চল—বিশেষত পুণ্ড্রবর্ধন (আধুনিক মহাস্থানগড়/বগুড়া এলাকা) কে পালদের প্রাথমিক কেন্দ্রধরে দেখা হয়।\n\n\u003Cdiv class=\"cq-explanation-label\"\u003Eঘ\u003C/div\u003E উত্তর: পাল বংশ নানান বৌদ্ধ ধর্মীয় প্রতিষ্ঠান ও বৌদ্ধ ধর্মের (বিশেষত মহাযান ও তান্ত্রিক বৌদ্ধধর্ম) প্রবক্তা ও পৃষ্ঠপোষক ছিল; নালন্দা, বিক্রমশিলা ইত্যাদি বিখ্যাত বৌদ্ধমঠ-বিশ্ববিদ্যালয়গুলোতে তারা বড় অনুদান ও সেচ্ছাসেবী সহযোগিতা প্রদান করত।",
+        "explanation": "উত্তরের ব্যাখ্যা:\n\nক: প্রাচীন বাংলার ঐতিহাসিক সূত্র ও স্থানীয় কৌতুক অনুযায়ী বারো-শহরের উপরের রাজনৈতিক অনিশ্চয়তার পরে শক্তিধর স্থানীয় নেতা গোপালকে রাজ্যনেতা হিসেবে নির্বাচিত করা হয়েছিল; তাই তিনি পাল রাজবংশের প্রবর্তক হিসেবে পরিচিত।\n\nখ: পাল বংশের প্রতিষ্ঠার সময় সাধারণত ৮ম শতকের মাঝামাঝি ধরা হয় — ঐতিহাসিকরা গোপালকে প্রায় ৭৫০ খ্রিস্টাব্দের কাছাকাছি কল্লাহাটে বসতি স্থাপনকারী বলে মানেন।\n\nগ: পালদের উঠানভূমি ছিল বরেন্দ্র (Varendra) অঞ্চল; প্রাচীন নথি ও প্রত্নতাত্ত্বিক নিদর্শন সমূহ পুণ্ড্রবর্ধন (মহাস্থানগড়) ও আশেপাশের এলাকায় প্রশাসনিক ও সামরিক কেন্দ্রস্বরূপ কার্যক্রমের প্রমাণ দেয়। পরবর্তী সময়ে রাজধানী ও প্রশাসনিক কেন্দ্র অন্যত্রও সরে গিয়েছিল, তবুও প্রারম্ভিক কেন্দ্র হিসেবে বরেন্দ্রকে গুরুত্ব দেওয়া হয়।\n\nঘ: পাল শাসকরা বৌদ্ধ ধর্মের প্রবক্তা ছিলেন এবং নালন্দা, বিক্রমশিলা মত প্রকাণ্ড বৌদ্ধ শিক্ষালয়গুলোতে অনুদান ও পৃষ্ঠপোষকতা দিয়েছিলেন। তাঁদের সময়ে বৌদ্ধ তান্ত্রিক ও মহাযান ধারা বিশেষভাবে প্রসার পায়; পাল রাজাদের ধর্মীয় নীতিমালা ও পৃষ্ঠপোষকতার ফলে বৌদ্ধ তত্ত্ব ও শিক্ষা আন্তর্জাতিক স্তরেও পরিচিতি পায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-08-26T14:07:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57051,
+      "value": {
+        "options": {
+          "a": "সপ্তম শতক",
+          "b": "অষ্টম শতক",
+          "c": "দ্বাদশ শতক",
+          "d": "চতুর্দশ শতক"
+        },
+        "question": "শশাংক কোন শতকে বাংলার রাজা ছিলেন?",
+        "solution": "সমাধান: ধাপ ১: ঐতিহাসিক সূত্র (যেমন আইনবাহী নথি ও ভ্রমণকারীর বর্ণনা) অনুসারে শশাংক প্রায় [math]c.\\;590–625\\;CE[/math] সময়ের মধ্যে বাংলায় শাসন করেছেন। ধাপ ২: শতক নির্ণয়ের সূত্র: [math]\\text{শতক}=\\lfloor (বছর-1)/100\\rfloor +1[/math]; শশাংকের শেষ সময়কে নিলে [math]625\\Rightarrow \\lfloor(625-1)/100\\rfloor+1=7[/math], সুতরাং তিনি সপ্তম শতকের শাসক। অতএব সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (সপ্তম শতক)। অন্যান্য বিকল্পগুলি ভুল কারণ সেগুলো যথাক্রমে অষ্টম (৭০০–৭৯৯), দ্বাদশ (১১০০–১১৯৯) ও চতুর্দশ (১৩০০–১৩৯৯) শতক নির্দেশ করে, যা শশাংকের সময়ের সাথে মেলে না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57052,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "রাজা গোপাল পাল রাজবংশের প্রতিষ্ঠাতা ছিলেন।",
+        "solution": "সমাধান:\nধাপ ১: ঐতিহাসিক ও শিলালিপি সূত্র অনুযায়ী রাজা গোপাল (গোপাল প্রথম) ৮ম শতাব্দীর গোড়ার দিকে পাল রাজবংশের প্রতিষ্ঠাতা ছিলেন।  \nধাপ ২: ঐতিহাসিক রেকর্ড এবং পরবর্তী লেখক ও শিলালিপি এই বক্তব্যকে সমর্থন করে, তাই উক্ত বিবৃতি সত্য।  \nসুতরাং সঠিক উত্তর: a (True)। অন্য বিকল্প (b) ভুল, কারণ তা প্রতিষ্ঠাতার থাকা-না থাকার বিরুদ্ধে জানায় যা ঐতিহাসিক প্রমাণের সঙ্গে সঙ্গতিপূর্ণ নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57053,
+      "value": {
+        "options": {
+          "a": "১০০০",
+          "b": "১২০৪",
+          "c": "১৩০০",
+          "d": "১৪০০"
+        },
+        "question": "প্রথম মুসলিম শাসক বখতিয়ার খিলজী __________ সালের মধ্যে বাংলা দখল করেন।",
+        "solution": "সমাধান:\nস্টেপ ১: ইতিহাসের সূত্র অনুযায়ী বখতিয়ার খিলজী বাংলা বিজয় করেন নাভাদ্বীপ (নদীয়) দখলে নিয়ে — এটি ঘটে ছিল 1204 খ্রিষ্টাব্দে।  \nস্টেপ ২: বছরটি শতাব্দীতে যাচাই করলে দেখা যায় [math]1204[/math] হলো 13শ শতাব্দীর শুরু (দ্বিতীয় হাজারের প্রথমদিক)। (13শ শতাব্দী = [math]1201–1300[/math])  \nস্টেপ ৩: তাই দেওয়া অপশনগুলোর মধ্যে সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math]1204[/math]। অন্যান্য অপশন ভুল কারণ [math]1000[/math] (১০ম শতাব্দী), [math]1300[/math] (১৩শ শতাব্দীর শেষ), ও [math]1400[/math] (১৫শ শতাব্দী) এই ঘটনাটি বোঝায় না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57054,
+      "value": {
+        "options": [],
+        "question": "রাজা লক্ষণ সেন কবে রাজত্ব করেছিলেন?",
+        "solution": "সমাধান: রাজা লক্ষ্মণ সেন ছিলেন সেন বংশের শাসক এবং ঐতিহাসিক দলিল ও রচনাগুলোর ভিত্তিতে তার শাসনকাল প্রায় ১১৭৮–১২০৬ খ্রিস্টাব্দ হিসেবে নির্ধারিত, যা ১২শ শতকের অন্তর্ভুক্ত। ধাপ ১: ঐতিহাসিক শাসক তালিকা ও আমলনামা থেকে লক্ষ্মণ সেনের নাম ও তার শাসনকাল সংগ্রহ করা হয়। ধাপ ২: প্রদত্ত সালগুলো ১২শ শতকের মধ্যে পড়ায় সিদ্ধান্ত নেওয়া হয় যে সঠিক উত্তর ১২শ শতক। অন্যান্য শতক (যেমন ১১শ বা ১৩শ) ভুল, কারণ তার পরিচিত শাসনকাল সেগুলোর সঙ্গে মিলিত নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "১২শ শতক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57055,
+      "value": {
+        "options": {
+          "a": "মাঠের সবজি",
+          "b": "ভাত",
+          "c": "মাংস",
+          "d": "ফল"
+        },
+        "question": "কোনটি প্রাচীন বাংলার প্রধান খাদ্য?",
+        "solution": "সমাধান:\nপ্রাচীন বাংলার ভূগোল ও কৃষি-প্রথা বিবেচনায় মূল খাদ্য ছিল ভাত। বাঙালির বাসস্থান মূলত নদি-মাঠের_delta_ভূমি হওয়ায় জলচাষে ধান চাষ প্রধান ছিল এবং ঐতিহাসিক ও আর্কিওলজিক্যাল সূত্রে প্রাচীনকাল থেকে ভাতের প্রসঙ্গ পাওয়া যায়, তাই ধাপে ধাপে সিদ্ধান্ত: (১) পরিবেশ এবং চাষপ্রণালী — ধান কেন্দ্রীয় ফসল; (২) সাহিত্য ও গবেষণা — ভাতকে প্রধান খাদ্য হিসেবে বর্ণনা করা আছে; (৩) ফলাফল — সঠিক উত্তর হল b: ভাত। অন্যান্য বিকল্পগুলো (মাঠের সবজি, মাংস, ফল) উপস্থিত ছিল কিন্তু বেশিরভাগ ক্ষেত্রে সহায়ক বা বিনায়ক খাদ্য; প্রধান staple ছিল ভাত।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57056,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাংলায় প্রধান ধর্ম উভয় ছিল হিন্দু ও মুসলমান।",
+        "solution": "সমাধান:\nপ্রথম ধাপ: ঐতিহাসিক ও জনসংখ্যাগত তথ্য থেকে দেখা যায় যে বঙ্গভূমিতে দীর্ঘকাল ধরে হিন্দু ও মুসলমান—উভয় ধর্মের বড় বড় সম্প্রদায় বসবাস করেছে এবং উভয়েরই সাংস্কৃতিক ও ধর্মীয় প্রভাব ছিল।  \nদ্বিতীয় ধাপ: প্রশ্নে বলা হচ্ছে \"বাংলায় প্রধান ধর্ম উভয় ছিল হিন্দু ও মুসলমান।\" এই বিবৃতিটি ঐতিহাসিকভাবে সঠিক, তাই সঠিক উত্তর হলো True (a)।  \nঅবশেষে: বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (False) ভুল, কারণ তা ঐতিহাসিক বাস্তবতা অস্বীকার করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57057,
+      "value": {
+        "options": {
+          "a": "সোনারগাঁও",
+          "b": "চট্টগ্রাম",
+          "c": "কলকাতা",
+          "d": "ঢাকা"
+        },
+        "question": "ঈসা খাঁ __________ এর জমিদার ছিলেন।",
+        "solution": "সমাধান: ঈসা খাঁ ছিলেন বরো-ভূইঞাঁদের অন্যতম নেতা এবং তার রাজনৈতিক ও সামরিক শক্তির কেন্দ্র ছিল সোনারগাঁও, তাই তিনি সোনারগাঁওয়ের জমিদার ছিলেন। ঐতিহাসিক সূত্র ও লেখায় দেখা যায় ঈসা খাঁ মুঘল আক্রমণের বিরুদ্ধে সোনারগাঁও থেকে প্রতিরোধ পরিচালনা করেছিলেন এবং সেই অঞ্চলে তাঁর প্রভাব ও শাসন প্রতিষ্ঠিত ছিল। অন্য বিকল্পগুলো (চট্টগ্রাম, কলকাতা, ঢাকা) তার মূল জমিদারীর কেন্দ্র না হওয়ায় অপ্রযোজ্য।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57058,
+      "value": {
+        "options": [],
+        "question": "কনদের সময়কাল বাদে সামাজিক জীবনের মূল ভিত্তি কী ছিল?",
+        "solution": "সমাধান:\nপ্রদত্ত প্রশ্নে \"কনদের সময়কাল বাদে\" বলতে বোঝায় শিকার-সংগ্রহ থেকে কৃষিজীবনে রূপান্তর হওয়ার পরের সময়। সেই সময়ে মানুষের স্থায়ী বসতি প্রতিষ্ঠা পায় এবং কৃষিকাজের জন্য গ্রামই সামাজিক ও অর্থনৈতিক কার্যকলাপের কেন্দ্র হয়ে ওঠে। ফলে পারিবারিক ও সম্প্রদায়ভিত্তিক সম্পর্ক, জমি-আশ্রম ও উৎপাদন সবই গ্রাম কেন্দ্রিক হলেও বিকশিত হতে থাকে; তাই সঠিক উত্তর: গ্রাম। অন্য বিকল্পগুলো (যেমন শহর বা রাজ্য) তখন পুরোপুরি গড়ে ওঠেনি বা প্রাধান্য পায়নি।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "গ্রাম"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57059,
+      "value": {
+        "options": {
+          "a": "১৪শ শতক",
+          "b": "১৫শ শতক",
+          "c": "১৬শ শতক",
+          "d": "১৭শ শতক"
+        },
+        "question": "শায়েস্তা খাঁ কোন শতকে বাংলার সুবেদার নিযুক্ত হন?",
+        "solution": "সমাধান:\n\nশায়েস্তা খান (শায়েস্তা খান বা শাইস্তা খান) মুঘল সম্রাট আওরঙ্গজেবের সময়ে বাংলা বিভাগের সুবেদার হিসেবে নিযুক্ত হন, তার প্রথম নিযুক্তির সাল ছিল ১৬৬৪ খ্রীষ্টাব্দ — যা ১৭শ শতকের অন্তর্গত। তাই সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E।\n\nব্যাখ্যা: ১৪শ, ১৫শ ও ১৬শ শতক শায়েস্তা খানের জীবনের এবং মুঘল রাজ্যের কর্তৃত্বকাল থেকে অনেক আগে; তার প্রশাসন ও সমুদ্র ডাকাতবিরোধী অভিযানসমূহ ১৭শ শতকে সংঘটিত হয়েছিল, ফলে অন্যান্য বিকল্পগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57060,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মোগলরা বাংলার শাসনকালে সুশাসন অর্জন করেছিল।",
+        "solution": "সমাধান:\nধাপ ১: ঐতিহাসিক সূত্র ও প্রশাসনিক কাগজপত্র থেকে জানা যায় মোগল শাসনের সময়ে বাংলায় কেন্দ্রীয়কৃত প্রশাসন, রাজস্ব সংগ্রহের নিয়ম (তদার মুসলিম প্রশাসনিক সংস্কার), সামরিক উপস্থিতি ও আইন-শৃঙ্খলা প্রতিষ্ঠার ফলে তুলনামূলকভাবে সুশাসন বজায় ছিল।  \nধাপ ২: উক্ত প্রমাণ ও নীতিগত সংস্কারের ভিত্তিতে বিবেচনা করলে বিবৃতিটি সত্য বলে বলা যায়।  \n\nসঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (True)\n\nবিকল্প ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (False) ভুল, কারণ মোগল শাসকদের প্রশাসনিক ও আর্থিক সংস্কার বাংলায় কিছুকাল স্থিতিশীলতা ও সুশাসন নিশ্চিত করেছিল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57061,
+      "value": {
+        "options": {
+          "a": "শিল্প",
+          "b": "কৃষিকাজ",
+          "c": "বাণিজ্য",
+          "d": "শিক্ষা"
+        },
+        "question": "প্রাচীন বাংলায় প্রধান পেশা ছিল __________।",
+        "solution": "সমাধান: প্রাচীন বাংলায় প্রধান পেশা ছিল কৃষিকাজ। প্রধান কারণ হলো প্রাচীন বঙ্গভূমি নদীমূলক, উর্বর এবং জনসংখ্যার বড় অংশ গ্রামাঞ্চলে বসবাস করায় ধানসহ বিভিন্ন ফসল চাষ মৌলিক জীবিকাভিত্তি ছিল। শিল্প ও বাণিজ্য শহর ও বাণিজ্যকেন্দ্রে সীমাবদ্ধভাবে গড়ে উঠেছিল এবং শিক্ষা তুলনায় অল্পসংখ্যক লোকই করত, তাই সেগুলো প্রধান পেশা ছিল না। সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কৃষিকাজ।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57062,
+      "value": {
+        "options": [],
+        "question": "মধ্যযুগের বাংলায় উল্লেখযোগ্য শিল্প কত ধরনের ছিল?",
+        "solution": "সমাধান:\nStep 1: \"মধ্যযুগের বাংলায় উল্লেখযোগ্য শিল্প\" বলতে বোঝায় যে ঐ সময়ে প্রাধান্য পাওয়া শিল্পের ধরণ কী ছিল।  \nStep 2: ঐ সময় বাংলার অর্থনীতি প্রধানত কৃষিভিত্তিক এবং গ্রামীণ ছিল, ফলে শিল্পকার্য প্রায়শই বাড়ি বা ছোট কর্মাগারে হয়ে থাকত — অর্থাৎ কুটির (cottage) শিল্পগুলো লোকপ্রিয় ও বিস্তৃত ছিল।  \nStep 3: তাই সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কুটির শিল্প — কারণ বস্ত্রচাষ, তাঁতকর্ম, মৃৎশিল্প, ধাতুকর্ম ইত্যাদি মূলত কুটির ভিত্তিকভাবে গৃহস্থ ও ক্ষুদ্র কারিগরদের দ্বারা চলত।  \nStep 4 (সংক্ষিপ্তভাবে কেন অন্যগুলি ভুল): বড় ধরনের কলকারখানা বা আধুনিক শিল্পপ্রতিষ্ঠান মধ্যযুগে বাংলায় উপস্থিত ছিল না, তাই সেগুলো উল্লেখযোগ্য শিল্প হিসেবে বিবেচিত নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "কুটির শিল্প"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57063,
+      "value": {
+        "options": {
+          "a": "শামসুদ্দিন ইলিয়াস শাহ",
+          "b": "লক্ষণ সেন",
+          "c": "গোপাল",
+          "d": "শাশ্বত রায়"
+        },
+        "question": "কে বাংলার সিংহাসনে চতুর্দশ শতকে বসেন?",
+        "solution": "সমাধান:\nপ্রথমত, চতুর্দশ শতক বলতে সন ১৩০১–১৪০০ বুঝায়। ঐ সময়ে বাংলায় স্বাধীন সুলতানি রাজ্য প্রতিষ্ঠা করে সিংহাসনে বসা ব্যক্তি ছিলেন শামসুদ্দিন ইলিয়াস শাহ; তিনি ১৩৪২ সালের দিকে ক্ষমতা গ্রহণ করে ইলিয়াস শাহী বংশের প্রতিষ্ঠা করেন। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E। \n\nঅন্য অপশনগুলোর সংক্ষিপ্ত ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E লক্ষ্মণ সেন ছিলেন সেন বংশের শাসক (১২–১৩শ শতক), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গোপাল (পাল বংশের প্রতিষ্ঠাতা) প্রাচীনকালে (৮ম–৯ম শতকে), এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E শাশ্বত রায় কোনো ১৪শ শতকের ইতিহাসসংশ্লিষ্ট পরিচিত শাসক নন।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57064,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "গণতান্ত্রিক সরকারের প্রতিষ্ঠা করা হয়েছিল শাশ্বত রায়ের আমলে।",
+        "solution": "সমাধান:\nধাপ ১: গণতান্ত্রিক সরকার বলতে বোঝায় জনগণের নির্বাচিত প্রতিনিধি ও সংবিধানভিত্তিক প্রক্রিয়ার মাধ্যমে শাসন, যেখানে জনগণের প্রতিনিধিত্ব ও আইনী সুবিধা থাকে।  \nধাপ ২: শাশ্বত রায়ের (অথবা একনায়কশাসনের) আমলে শাসন ক্ষমতা কেন্দ্রীভূত ও বংশানুক্রমিক অথবা এককরতৃপক্ষের হাতে ছিল; সেখানে সাধারণ নাগরিকের নির্বাচিত প্রতিনিধি ব্যবস্থা বা সম্পূর্ণ সংবিধানভিত্তিক গণতান্ত্রিক প্রতিষ্ঠান ছিল না।  \nধাপ ৩: তাই বিবৃতিটি মিথ্যা — গণতান্ত্রিক সরকার শাশ্বত রায়ের আমলে প্রতিষ্ঠিত হয়নি। \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E সঠিক।  \n\nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (True) ভুল, কারণ গণতন্ত্রের উপাদানগুলো — নির্বাচিত প্রতিনিধি, গণতান্ত্রিক নিয়ম ও জনগণের অংশগ্রহণ — শাশ্বত রায়ের সময় উপস্থিত ছিল না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57065,
+      "value": {
+        "options": {
+          "a": "রিকশা",
+          "b": "পালকি",
+          "c": "গোপন গুলি",
+          "d": "ট্রাক"
+        },
+        "question": "বাংলার প্রধান যানবাহনগুলি ছিল নৌকা, গরুর গাড়ি ও __________।",
+        "solution": "সমাধান: ঐতিহাসিক ও সাংস্কৃতিক প্রেক্ষাপটে বাংলায় প্রধানভাবে চলাচলের মাধ্যম ছিল নৌকা ও গরুর গাড়ি; তদুপরি বিশেষ করে অভিজাত ও নারী-পুরুষের ব্যক্তিগত চলাচলের জন্য পালকি প্রচলিত ছিল। তাই বিকল্প b: পালকি সঠিক। অন্য বিকল্পগুলো ভুল কারণ রিকশা ও ট্রাক আধুনিক যানবাহন এবং পরে প্রচলিত হয়েছে, আর \"গোপন গুলি\" কোনো বাস্তব যানবাহন নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57066,
+      "value": {
+        "options": [],
+        "question": "বাংলায় প্রধান ফসল কী ছিল?",
+        "solution": "সমাধান:\n১) বাংলার ভূগোল ও জলবায়ু ধান চাষের জন্য অত্যন্ত উপযোগী, ফলে স্থানীয় কৃষিতে ধানই সর্বাধিক উৎপাদিত ফসল এবং রান্নায় ভাত প্রধান খাবার।  \n২) ঐতিহ্যগত খাদ্যাভ্যাস ও কৃষি উৎপাদনের অনুপাতে ভাত ও আথই প্রধান ফসল হিসেবে গণ্য হয়।  \n৩) অন্য বিকল্প যেমন গম বা আখ আংশিকভাবে চাষ হলেও উৎপাদন ও ব্যবহারিক গুরুত্বে তারা ভাত ও আথের তুলনায় কম, তাই সঠিক উত্তর: ভাত ও আথ।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ভাত ও আথ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57067,
+      "value": {
+        "options": {
+          "a": "কুটির শিল্প",
+          "b": "লৌহ শিল্প",
+          "c": "কাঠের কাজ",
+          "d": "মসলা উৎপাদন"
+        },
+        "question": "বাংলার মুসলিম শাসনামলে কোন প্রধান শিল্প ছিল?",
+        "solution": "সমাধান: বাংলার মুসলিম শাসনামলে গ্রামীণ ও নগর পর্যায়ে হাতে-কলমে তৈরি বিভিন্ন পণ্যের কুটির শিল্প ছিল প্রধান শিল্প। \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কুটির শিল্পে দাড়মিশ্রী, তুলো ও সূতি বস্ত্র, সূক্ষ্ম মসলিন বোনা এবং হস্তশিল্প ক্রিয়াশীল ছিল যা স্থানীয় ও আন্তর্জাতিক বাজারে খ্যাতি পেয়েছিল — তাই এটি সঠিক। অন্য বিকল্পগুলি — \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E লৌহ শিল্প, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কাঠের কাজ এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মসলা উৎপাদন—অবশ্যই উপস্থিত ছিল কিন্তু সামগ্রিকভাবে মুসলিম শাসনামলের প্রধান শিল্প হিসেবে কুটির শিল্পের তুলনায় গুরুত্ব কম ছিল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57068,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "খালি জলদস্যুরা বাংলা থেকে বিতাড়িত হন শায়েস্তা খাঁয়ের আমলে।",
+        "solution": "সমাধান: \nধাপ ১: ঐতিহাসিক তথ্য অনুযায়ী শায়েস্তা খাঁ ১৬৬৪ সালের দিকে বাংলা অঞ্চলের সাবাহদার হিসেবে দায়িত্ব গ্রহণ করেন এবং ১৬৬০-এর দশকে নৌ অভিযান চালিয়ে চট্টগ্রাম দখল করে আড়ং ও পর্তুগিজসহ বিভিন্ন জলদস্যুকে উৎখাত করেন।  \nধাপ ২: তার দমনমূলক নৌকাম এবং প্রশাসনিক কায়দার ফলে উপকূলীয় জলদস্যু কর্মকাণ্ড ব্যাপকভাবে কমে যায়।  \nঅতএব বিবৃতিটি সঠিক — উত্তর: a। অন্য বিকল্প (b) ভুল, কারণ জলদস্যু বিতাড়িত হওয়ার ঘটনাটি শায়েস্তা খাঁর আমলে ঘটেছে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57069,
+      "value": {
+        "options": {
+          "a": "গোপাল",
+          "b": "লক্ষণ সেন",
+          "c": "শামসুদ্দিন",
+          "d": "বখতিয়ার"
+        },
+        "question": "১২শ শতক বাংলায় রাজত্ব করেছিলেন রাজা __________।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে উল্লেখিত \"১২শ শতক\" অর্থাৎ খ্রিষ্টাব্দ ১১০১–১২০০ সময়কাল নির্ধারণ করা।  \nধাপ ২: ঐ সময়কালে বাংলা সাম্রাজ্যে শাসন করেছেন রাজা লক্ষণ সেন (প্রধানত 1178–1206 খ্রিষ্টাব্দে শাসন), সুতরাং তিনি ১২শ শতকের শাসক।  \nধাপ ৩: অন্যান্য বিকল্পগুলি খণ্ডিত কারণ হিসেবে—\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E গোপালরা প্রাচীন-পূর্ব যুগে (পাল বা গোপাল বংশের প্রারম্ভিক সময়), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শামসুদ্দিন সাধারণভাবে পরবর্তী মুসলিম শাসকদের টাইটেল এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বখতিয়ার (মুহাম্মদ বখ্তিয়ার খলজি) বাংলাদেশ জয় করেন ১২০৩–০৪ খ্রিষ্টাব্দে (১৩শ শতকের শুরুতে)।  \nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E লক্ষণ সেন।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57070,
+      "value": {
+        "options": [],
+        "question": "বাংলার ইতিহাসে শাসক হিসাবে শামসুদ্দিন ইলিয়াস শাহের প্রধান সাফল্য কী?",
+        "solution": "সমাধান:\nধাপ ১: শামসুদ্দিন ইলিয়াস শাহ কর্তৃত্ব প্রতিষ্ঠা করে বাংলাকে একক রাজনৈতিক সত্তায় একীভূত করেছিলেন এবং দিল্লি বা অন্যান্য পার্শ্ববর্তী শক্তির শিকড়ের বাইরে স্বাধীন শাসন চালু করেছিলেন।  \nধাপ ২: তিনি ইলিয়াস শাহী বংশ প্রতিষ্ঠা করে আভ্যন্তরীণ বিদ্রোহ ও বাইরের আক্রমণ মোকাবিলা করে বাংলার সার্বভৌমত্ব বজায় রাখায় সফল হন।  \nউপসংহার: তাই তাঁর প্রধান সাফল্য ছিল বাংলার স্বাধীনতা বজায় রাখা।  \nকেন অন্যান্য বিকল্প ভুল হতে পারে: তাঁর সাফল্য মূলত রাজনৈতিক ও সামরিকভাবে স্বাধীনতা প্রতিষ্ঠা—এটি কোনো একক ধর্মীয় রূপান্তর বা ব্যাপক বিদেশী বিস্তারের বিষয় ছিল না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বাংলার স্বাধীনতা বজায় রাখা"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57071,
+      "value": {
+        "options": {
+          "a": "দিল্লি",
+          "b": "ফরিদপুর",
+          "c": "সোনারগাঁও",
+          "d": "চট্টগ্রাম"
+        },
+        "question": "কোন ঢলেন বাংলার ইতিহাসে মোগল ধারা চালনা করত?",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ:\n1. মোগল শাসন মূলত উত্তর ভারতের দিল্লির কেন্দ্র থেকে উদ্ভূত ও পরিচালিত ছিল — মোগল সম্রাজ্য প্রতিষ্ঠা ও নীতিনির্ধারণের কেন্দ্রীয় শহর ছিল দিল্লি।  \n2. বাংলা অঞ্চলে মোগল ধারা বা শাসনও দিকনির্দেশনা ও ক্ষমতার কেন্দ্র হিসেবে দিল্লি থেকে এসেছে; ফরিদপুর, সোনারগাঁও ও চট্টগ্রাম ছিল আঞ্চলিক কেন্দ্র বা পৃথক প্রশাসনিক কেন্দ্র, কিন্তু সামগ্রিক মোগল নীতিনির্মাণ ও নেতৃত্ব দিল্লি থেকেই চস্ছিল।  \n3. অতএব সঠিক উত্তর: a: দিল্লি। অন্যগুলো ভুল কারণ সেগুলো স্থানীয় বা আঞ্চলিক কেন্দ্র; মোগল সাম্রাজ্যের কেন্দ্র ছিল দিল্লি।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57072,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "রাজা লক্ষণ সেন একজন কবি ছিলেন।",
+        "solution": "সমাধান:\nধাপ ১: বিবৃতি যাচাই — ইতিহাসে লক্ষণ সেন (লক্ষ্মণ সেন) সেন বংশের রাজা ছিলেন এবং তিনি সাহিত্য-প্রতিভা ও সাহিত্যপৃষ্ঠপোষকতা করার জন্য পরিচিত ছিলেন।  \nধাপ ২: প্রমাণ বা যুক্তি — ঐতিহাসিক রেজিস্ট্রি ও সাহিত্যিক সূত্রে তাকে কবি এবং সংস্কৃত/সামগ্রিক সাহিত্যরুচি সম্পন্ন রাজা হিসেবে বর্ণনা করা হয়েছে; তিনি কবিতা রচনা ও কাব্যিক কর্মকাণ্ডে সম্পৃক্ত ছিলেন।  \nধাপ ৩: সিদ্ধান্ত — তাই বিবৃতিটি সঠিক, সঠিক উত্তর হলো (a) True; (b) False ভুল, কারণ ইতিহাসে তাকে কবি না বললে তথ্যের সঙ্গে বিরোধ ঘটে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7401&grade=7&per_page=2000&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7401&grade=7&per_page=2000&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7401&grade=7&per_page=2000&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 115,
+  "total": 115
+}

@@ -1,0 +1,377 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747445,
+      "value": {
+        "options": {
+          "ক": "আঁটোসাঁটো",
+          "খ": "ঢিলেঢালা",
+          "গ": "আধুনিক",
+          "ঘ": "পুরাতন"
+        },
+        "question": "রান্নার সময় কি ধরনের পোশাক পরা যাবে না?",
+        "solution": "খ. ঢিলেঢালা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:53:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747446,
+      "value": {
+        "options": {
+          "ক": "সাপে কাটা",
+          "খ": "পানিতে ডোবা",
+          "গ": "অগ্নিজনিত দুর্ঘটনা",
+          "ঘ": "বিদ্যুৎস্পৃষ্ট হওয়া"
+        },
+        "question": "তোমার ছোট ভাই অনেক সময় ম্যাচ বা লাইটার নিয়ে খেলা করে। তোমার পরিবার কোন দুর্ঘটনার শিকার হতে পারে?",
+        "solution": "গ. অগ্নিজনিত দুর্ঘটনা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:53:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747447,
+      "value": {
+        "options": {
+          "ক": "গ্যাসের চুলা",
+          "খ": "টেলিভিশন",
+          "গ": "কলম",
+          "ঘ": "ফুটবল"
+        },
+        "question": "রান্নাঘরের প্রযুক্তি কোনটি?",
+        "solution": "ক. গ্যাসের চুলা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:53:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747448,
+      "value": {
+        "options": {
+          "ক": "সাপে কাটা",
+          "খ": "সিংহের আঘাত",
+          "গ": "বিদ্যুৎস্পৃষ্ট হওয়া",
+          "ঘ": "বাঘের থাবা"
+        },
+        "question": "তোমার চাচাত ভাই গ্রামাঞ্চলে থাকে। এক্ষেত্রে সে নিচের কোনটির শিকার হতে পারে?",
+        "solution": "ক. সাপে কাটা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:53:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747449,
+      "value": {
+        "options": {
+          "ক": "শর্ট সার্কিট",
+          "খ": "লোডশেডিং",
+          "গ": "সাঁতার কাটা",
+          "ঘ": "বিষক্রিয়া"
+        },
+        "question": "কিসের থেকে আগুন লাগতে পারে?",
+        "solution": "ক. শর্ট সার্কিট",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:53:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747450,
+      "value": {
+        "options": {
+          "ক": "টাকা-পয়সার",
+          "খ": "গহনার",
+          "গ": "নিজের নিরাপত্তার",
+          "ঘ": "বাড়িঘরের"
+        },
+        "question": "আগুন লাগলে প্রথমে কীসের কথা চিন্তা করতে হবে?",
+        "solution": "গ. নিজের নিরাপত্তার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:53:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747451,
+      "value": {
+        "options": {
+          "ক": "জ্বর হওয়া",
+          "খ": "সর্দি হওয়া",
+          "গ": "কেটে যাওয়া",
+          "ঘ": "মাথা ব্যথা"
+        },
+        "question": "নিচের কোনটি দুর্ঘটনা?",
+        "solution": "গ. কেটে যাওয়া",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:53:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747452,
+      "value": {
+        "options": {
+          "ক": "সাপে কাটা",
+          "খ": "পানিতে ডোবা",
+          "গ": "বিদ্যুৎস্পৃষ্ট হওয়া",
+          "ঘ": "আগুনে পোড়া"
+        },
+        "question": "রাজিব এখন সাঁতার কাটতে পারে। এর ফলে সে কোনটি থেকে রক্ষা পাবে?",
+        "solution": "খ. পানিতে ডোবা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:53:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747453,
+      "value": {
+        "options": {
+          "ক": "হাসপাতালে",
+          "খ": "ফায়ার স্টেশনে",
+          "গ": "থানায়",
+          "ঘ": "স্কুলে"
+        },
+        "question": "আগুন লাগলে যত দ্রুত সম্ভব কোথায় যোগাযোগ করতে হবে?",
+        "solution": "খ. ফায়ার স্টেশনে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:53:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7414&grade=7&lesson=13517&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7414&grade=7&lesson=13517&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7414&grade=7&lesson=13517&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 9,
+  "total": 9
+}

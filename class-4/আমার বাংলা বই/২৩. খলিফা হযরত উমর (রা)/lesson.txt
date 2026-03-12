@@ -1,0 +1,5374 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 745548,
+      "value": {
+        "options": [],
+        "question": "যোদ্ধা",
+        "solution": "যে যুদ্ধ বা সংগ্রাম করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745548,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745549,
+      "value": {
+        "options": [],
+        "question": "বিস্মিত",
+        "solution": "অবাক।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745549,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745550,
+      "value": {
+        "options": [],
+        "question": "ব্যাকুল",
+        "solution": "আগ্রহী।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745550,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745551,
+      "value": {
+        "options": [],
+        "question": "দিরহাম",
+        "solution": "আরবে প্রচলিত মুদ্রার নাম।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745551,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745552,
+      "value": {
+        "options": [],
+        "question": "আদর্শ",
+        "solution": "ইসলাম ধর্ম প্রচারে উমর (রা) আদর্শ কর্মীর ভূমিকা পালন করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745552,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745553,
+      "value": {
+        "options": [],
+        "question": "কোষাগার",
+        "solution": "উমর (রা) কোষাগার থেকে মাত্র দুই দিরহাম গ্রহণ করতেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745553,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745554,
+      "value": {
+        "options": [],
+        "question": "তাঁর মাতাপিতার নাম কী?",
+        "solution": "হযরত উমর (রা)-এর মাতার নাম হান্তামাহ্ এবং পিতার নাম খাত্তাব।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745554,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745555,
+      "value": {
+        "options": [],
+        "question": "হযরত মুহাম্মদ (স) উমর (রা)-কে কী উপাধি দিয়েছিলেন?",
+        "solution": "উমর (রা) ছিলেন নামকরা কুস্তিগির, সাহসী যোদ্ধা, কবি ও সুবক্তা। তিনি ইসলাম ধর্ম গ্রহণ করার পর দৃঢ়কণ্ঠে ঘোষণা দেন- 'আর গোপনে নয়, এবার প্রকাশ্যে কাবা ঘরের সামনে সালাত আদায় করব।' তখন মহানবি (স) খুশি হয়ে তাঁকে উপাধি দেন 'ফারুক' অর্থাৎ সত্য ও মিথ্যার প্রভেদকারী।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745555,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745556,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা)-এর বিচারব্যবস্থা কেমন ছিল?",
+        "solution": "খলিফা হযরত উমর (রা)-এর বিচারব্যবস্থা ছিল নিরপেক্ষ ও নিখুঁত। তাঁর চোখে উঁচু-নিচু, ধনী-গরিব, আপন-পর কোনো ভেদাভেদ ছিল না। মদ্যপানের অপরাধে নিজের ছেলে আবু শাহমাকে তিনি কঠোর শাস্তি দিয়েছিলেন। রাষ্ট্রের সমস্ত গুরুত্বপূর্ণ কাজ তিনি সাহাবিদের সাথে পরামর্শ করে সম্পাদন করতেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745556,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745557,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা)-এর উপদেশগুলো কী কী?",
+        "solution": "হযরত উমর (রা) আমাদের জন্য অনেক উপদেশ রেখে গেছেন। তাঁর দেওয়া উপদেশগুলোর মধ্যে উল্লেখযোগ্য হলো-\u003Cbr /\u003E\n১. আগে আগে সালাম দেওয়া।\u003Cbr /\u003E\n২. কোনো কাজ করার আগে অভিজ্ঞ লোকের পরামর্শ নেওয়া।\u003Cbr /\u003E\n৩. যেকোনো কাজ মনোযোগ দিয়ে করা।\u003Cbr /\u003E\n৪. সবার প্রতি সুবিচার করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745557,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745558,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা)-এর চরিত্রের কোমল দিক সম্পর্কে বর্ণনা কর।",
+        "solution": "হযরত উমর (রা)-এর চরিত্র ছিল কোমলে-কঠোরে মেশানো। তিনি মানুষের দুঃখ-কষ্টে ছিলেন সমব্যথী। দেশের মানুষের দুঃখ-কষ্টের কথা জানার জন্য তিনি গভীর রাতে মহল্লায় মহল্লায় একাকী ঘুরে বেড়াতেন। ক্ষুধার্ত শিশুদের কান্নার আওয়াজ শুনে তিনি নিজের কাঁধে আটার বস্তা বয়ে নিয়ে তাদের তাঁবুতে দিয়ে আসতেন। এক বেদুইনের অসুস্থ স্ত্রীকে সাহায্য করার জন্য তিনি তার সহধর্মিণী উম্মে কুলসুমকে নিয়ে যান বেদুইনের ঘরে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745559,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা)-কে ইসলামি শাসনব্যবস্থায় কীভাবে জবাবদিহি করতে হয়েছিল?",
+        "solution": "ইসলামী শাসনব্যবস্থায় জনগণের মতো শাসকদের জন্যও রয়েছে একই আইনের বিধান। এই শাসনব্যবস্থায় একবার হযরত উমর (রা)-কে একজন সাধারণ লোকের সামনে জবাবদিহি করতে হয়েছিল। তাঁর বিরুদ্ধে অভিযোগ ছিল যে, বায়তুলমাল থেকে প্রাপ্ত কাপড় দিয়ে কারো পুরো একটি জামা হয়নি, অথচ খলিফার গায়ে সেই কাপড়ের পুরো একটি জামা দেখা যাচ্ছে। খলিফা অতিরিক্ত কাপড় কোথা থেকে পেলেন? খলিফার পক্ষ থেকে তাঁর পুত্র আবদুল্লাহ উত্তর দিলেন, 'আমি আমার অংশটুকু আব্বাকে দিয়েছি। এতে তাঁর জামা তৈরি হয়েছে।' হযরত উমর (রা)-কে ইসলামি শাসনব্যবস্থায় এভাবেই জবাবদিহি করতে হয়েছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745560,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা)-এর মানসিক পরিবর্তন ঘটে কীভাবে?",
+        "solution": "হযরত উমর (রা) প্রথমে ইসলামের ঘোরতর বিরোধী ছিলেন। মহানবি (স)-কে হত্যার জন্য তিনি তরবারি হাতে বেরিয়ে পড়েন। কিন্তু পথের মধ্যে তিনি জানতে পারেন বোন ফাতিমা ও ভগ্নিপতি সাঈদ মুসলমান হয়ে গেছেন। এতে তিনি রাগে অস্থির হয়ে বোনের বাড়িতে যান। ইসলামের প্রতি বোন ও ভগ্নিপতির দৃঢ়তা দেখে তিনি বিস্মিত হন। এতে তাঁর মানসিক পরিবর্তন হয়। তিনি মুসলমান হওয়ার জন্য ব্যাকুল হয়ে পড়েন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745561,
+      "value": {
+        "options": [],
+        "question": "পথিমধ্যে",
+        "solution": "পথের মাঝখানে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745562,
+      "value": {
+        "options": [],
+        "question": "সুনাম",
+        "solution": "প্রশংসা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745563,
+      "value": {
+        "options": [],
+        "question": "ক্রোধ",
+        "solution": "রাগ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745564,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর ফারুক (রা) পবিত্র মক্কা নগরীতে _____ খ্রিষ্টাব্দে জন্মগ্রহণ করেন।",
+        "solution": "৫৮৩",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745565,
+      "value": {
+        "options": [],
+        "question": "'ফারুক' অর্থ _____ প্রভেদকারী।",
+        "solution": "সত্য ও মিথ্যার",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745566,
+      "value": {
+        "options": [],
+        "question": "নিরপেক্ষ",
+        "solution": "পক্ষপাতিত্ব",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745567,
+      "value": {
+        "options": [],
+        "question": "কোষমুক্ত",
+        "solution": "খাপ থেকে বের করে আনা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745567,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745568,
+      "value": {
+        "options": [],
+        "question": "সালাত",
+        "solution": "নামাজ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745568,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745569,
+      "value": {
+        "options": [],
+        "question": "ফারুক",
+        "solution": "সত্য ও মিথ্যার প্রভেদকারী।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745569,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745570,
+      "value": {
+        "options": [],
+        "question": "স্বীয়",
+        "solution": "নিজ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745570,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745571,
+      "value": {
+        "options": [],
+        "question": "সংমিশ্রণ",
+        "solution": "একত্রীকরণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745571,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745572,
+      "value": {
+        "options": [],
+        "question": "জবাবদিহি",
+        "solution": "কৈফিয়ত দেওয়া।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745572,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745573,
+      "value": {
+        "options": [],
+        "question": "কোমল",
+        "solution": "মানুষের দুঃখ-কষ্টে উমর (রা) ছিলেন ফুলের মতো কোমল।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745573,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745574,
+      "value": {
+        "options": [],
+        "question": "কঠোর",
+        "solution": "হযরত উমর (রা) আবু শাহমাকে কঠোর শাস্তি দিয়েছিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745574,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745575,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা) কোথায় জন্মগ্রহণ করেন?",
+        "solution": "হযরত উমর (রা) পবিত্র মক্কা নগরীতে ৫৮৩ খ্রিষ্টাব্দে কুরাইশ বংশে জন্মগ্রহণ করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745575,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745576,
+      "value": {
+        "options": [],
+        "question": "প্রজাদের প্রতি হযরত উমর (রা)-এর ভালোবাসার একটি উদাহরণ দাও।",
+        "solution": "হযরত উমর (রা) প্রজাদের প্রতি ছিলেন কোমল। তিনি গভীর রাতে মহল্লায় মহল্লায় ঘুরে ঘুরে মানুষের দুঃখ-কষ্টের খোঁজ নিতেন। একদিন এমনভাবে হাঁটতে গিয়ে তিনি ক্ষুধার্ত শিশুর কান্নার আওয়াজ শুনে বায়তুলমাল থেকে আটার বস্তা নিজের কাঁধে বহন করে সেখানে নিয়ে যান।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745576,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745577,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা) প্রথমে ইসলামের কী ধরনের বিরোধী ছিলেন?",
+        "solution": "হযরত উমর (রা) প্রথমে ইসলামের ঘোরতর বিরোধী ছিলেন। এমনকি তিনি মহানবি (স)-কে হত্যা করার জন্য কোষমুক্ত তরবারি নিয়ে বের হন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745578,
+      "value": {
+        "options": [],
+        "question": "ইসলাম ধর্ম প্রচার-প্রসারের জন্য হযরত উমর (রা) কী করেন?",
+        "solution": "হযরত উমর (রা) ইসলামের জন্য ছিলেন নিবেদিতপ্রাণ। ইসলাম ধর্ম প্রচার-প্রসারের জন্য তিনি তাঁর ধনসম্পদ বিলিয়ে দেন। তিনি মহানবি (স)-এর সঙ্গী হয়ে বীরত্বের সাথে সব যুদ্ধে অংশ নেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745579,
+      "value": {
+        "options": [],
+        "question": "ঘোরতর",
+        "solution": "প্রচন্ড।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745580,
+      "value": {
+        "options": [],
+        "question": "মহানবি (স)-কে হত্যা করার জন্য তিনি _____ তরবারি নিয়ে বেরিয়ে পড়েন।",
+        "solution": "কোষমুক্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745581,
+      "value": {
+        "options": [],
+        "question": "প্রথমে",
+        "solution": "শেষে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745582,
+      "value": {
+        "options": [],
+        "question": "সত্য",
+        "solution": "মিথ্যা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745583,
+      "value": {
+        "options": [],
+        "question": "গ্রহণ",
+        "solution": "প্রদান",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745584,
+      "value": {
+        "options": [],
+        "question": "হত্যা",
+        "solution": "প্রাণনাশ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745585,
+      "value": {
+        "options": [],
+        "question": "পুত্র",
+        "solution": "ছেলে",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745586,
+      "value": {
+        "options": {
+          "ক": "মহানুভবতার জন্য",
+          "খ": "জেরুজালেমের মানুষকে দেখানোর জন্য",
+          "গ": "সবাইকে বিস্মিত করার জন্য",
+          "ঘ": "ক্রীতদাসের আনুগত্যের জন্য"
+        },
+        "question": "হযরত উমর (রা) ক্রীতদাসকে উটে চড়িয়েছিলেন-",
+        "solution": "ক. মহানুভবতার জন্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745587,
+      "value": {
+        "options": {
+          "ক": "সবার প্রতি সুবিচার করা",
+          "খ": "সবার প্রতি ভালো ব্যবহার করা",
+          "গ": "সবার আগে খেতে বসা",
+          "ঘ": "সবার আগে কাজ শেষ করা"
+        },
+        "question": "হযরত উমর (রা)-এর একটি উপদেশ হলো-",
+        "solution": "ক. সবার প্রতি সুবিচার করা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745588,
+      "value": {
+        "options": [],
+        "question": "দ্ব",
+        "solution": "দ্&zwnj;+ব - দ্বিতীয়",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745589,
+      "value": {
+        "options": [],
+        "question": "স্থ",
+        "solution": "স্&zwnj;+থ - দুস্থ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745590,
+      "value": {
+        "options": [],
+        "question": "কুস্তি করে যে",
+        "solution": "কুস্তিগির",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745591,
+      "value": {
+        "options": [],
+        "question": "কোনো খুঁত নেই যার",
+        "solution": "নিখুঁত",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745592,
+      "value": {
+        "options": [],
+        "question": "ঘর",
+        "solution": "গৃহ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745593,
+      "value": {
+        "options": [],
+        "question": "মানুষ",
+        "solution": "মানব",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745594,
+      "value": {
+        "options": [],
+        "question": "নিখুঁত",
+        "solution": "মহান আল্লাহ নিখুঁতভাবে মানুষ সৃষ্টি করেছেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745595,
+      "value": {
+        "options": [],
+        "question": "খলিফা",
+        "solution": "খেজুর গাছের ছায়ায় খলিফা ঘুমাচ্ছিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745596,
+      "value": {
+        "options": [],
+        "question": "কঠোর",
+        "solution": "তাকে দেখে কঠোর মনে হলেও সে আসলে কোমল।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745597,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর ফারুক (রা) পবিত্র মক্কা নগরীতে ৫৮৩ খ্রিষ্টাব্দে কুরাইশ বংশে জন্মগ্রহণ করেন তাঁর পিতার নাম খাত্তাব ও মাতার নাম হান্তামাহ্ তিনি ছিলেন ইসলামের দ্বিতীয় খলিফা তিনি শিক্ষিত মার্জিত ও সৎ চরিত্রের অধিকারী ছিলেন",
+        "solution": "হযরত উমর ফারুক (রা) পবিত্র মক্কা নগরীতে ৫৮৩ খ্রিষ্টাব্দে কুরাইশ বংশে জন্মগ্রহণ করেন। তাঁর পিতার নাম খাত্তাব ও মাতার নাম হান্তামাহ্। তিনি ছিলেন ইসলামের দ্বিতীয় খলিফা। তিনি শিক্ষিত, মার্জিত ও সৎ চরিত্রের অধিকারী ছিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745598,
+      "value": {
+        "options": {
+          "ক": "উটের পিঠে ক্রীতদাসকে চড়ানোয়",
+          "খ": "আটার বস্তা বহন করে ক্ষুধার্ত শিশুদের দেওয়ায়",
+          "গ": "পুত্র আবু শাহমাকে কঠোর শাস্তি দেওয়ায়",
+          "ঘ": "রাষ্ট্রের গুরুত্বপূর্ণ কাজে সাহাবিদের সাথে পরামর্শ করায়"
+        },
+        "question": "হযরত উমর (রা)-এর কোমলতা প্রকাশ পেয়েছে কোথায়?",
+        "solution": "খ. আটার বস্তা বহন করে ক্ষুধার্ত শিশুদের দেওয়ায়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745599,
+      "value": {
+        "options": {
+          "ক": "রাজপ্রাসাদে",
+          "খ": "খলিফা ভবনে",
+          "গ": "খেজুর গাছের ছায়ার নিচে",
+          "ঘ": "অট্টালিকায়"
+        },
+        "question": "খলিফা কোথায় ঘুমোচ্ছিলেন?",
+        "solution": "গ. খেজুর গাছের ছায়ার নিচে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745600,
+      "value": {
+        "options": {
+          "ক": "৬৪৪ খ্রিষ্টাব্দে",
+          "খ": "৬৬৬ খ্রিষ্টাব্দে",
+          "গ": "৭৪৪ খ্রিষ্টাব্দে",
+          "ঘ": "৭৭৭ খ্রিষ্টাব্দে"
+        },
+        "question": "হযরত উমর (রা) কখন মৃত্যুবরণ করেন?",
+        "solution": "ক. ৬৪৪ খ্রিষ্টাব্দে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745601,
+      "value": {
+        "options": {
+          "ক": "আলো ও অন্ধকারের প্রভেদকারী",
+          "খ": "সত্য ও মিথ্যার প্রভেদকারী",
+          "গ": "আগুন ও পানির প্রভেদকারী",
+          "ঘ": "ভালোবাসা ও ঘৃণার প্রভেদকারী"
+        },
+        "question": "'ফারুক' অর্থ কী?",
+        "solution": "খ. সত্য ও মিথ্যার প্রভেদকারী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745602,
+      "value": {
+        "options": [],
+        "question": "গ্ন",
+        "solution": "গ্&zwnj;+ন - ভগ্নিপতি",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745603,
+      "value": {
+        "options": [],
+        "question": "আরবে প্রচলিত মুদ্রার নাম",
+        "solution": "দিরহাম",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745604,
+      "value": {
+        "options": [],
+        "question": "কোনো পক্ষ না নেওয়া",
+        "solution": "নিরপেক্ষ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745605,
+      "value": {
+        "options": [],
+        "question": "সুবক্তা",
+        "solution": "ভালো বক্তা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745605,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745606,
+      "value": {
+        "options": [],
+        "question": "পত্র",
+        "solution": "চিঠি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745606,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745607,
+      "value": {
+        "options": [],
+        "question": "খলিফা",
+        "solution": "হযরত উমর (রা) ছিলেন ইসলামের দ্বিতীয় খলিফা।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745607,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745608,
+      "value": {
+        "options": [],
+        "question": "চরিত্র",
+        "solution": "হযরত উমর (রা) ছিলেন উত্তম চরিত্রের মানুষ।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745608,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745609,
+      "value": {
+        "options": [],
+        "question": "নিখুঁত",
+        "solution": "খলিফা উমর (রা)-এর বিচারব্যবস্থা ছিল নিরপেক্ষ ও নিখুঁত।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745609,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745610,
+      "value": {
+        "options": [],
+        "question": "তিনি কীভাবে মুসলমান হলেন?",
+        "solution": "হযরত উমর (রা.) ইসলামের ঘোর বিরোধী ছিলেন। একদিন তিনি মহানবি (স)-কে হত্যার উদ্দেশ্যে কোষমুক্ত তরবারি নিয়ে বেরিয়ে পড়েন। পথিমধ্যে জানতে পারেন যে, তাঁর বোন ও ভগ্নিপতি মুসলমান হয়ে গেছেন। এতে তিনি ক্রোধে অস্থির হয়ে বোনের বাড়িতে উপস্থিত হন। সেখানে বোন ও ভগ্নিপতির ইসলামের প্রতি দৃঢ়তা দেখে তিনি বিস্মিত হন। তখন তাঁর মানসিক অবস্থার পরিবর্তন ঘটে। তিনি ব্যাকুল হয়ে হযরত মুহাম্মদ (স)-এর দরবারে গিয়ে ইসলাম ধর্ম গ্রহণ করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745610,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745611,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা) ইসলাম গ্রহণের পর কী ঘোষণা দেন?",
+        "solution": "হযরত উমর (রা) নবি করিম (স)-এর দরবারে গিয়ে ইসলাম ধর্ম গ্রহণ করেন। ইসলাম গ্রহণের পর তিনি দৃঢ়কণ্ঠে ঘোষণা দেন, 'আর গোপনে নয়, এবার প্রকাশ্যে কাবাঘরের সামনে সালাত আদায় করব।'",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745612,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা)-এর সংক্ষিপ্ত পরিচয় দাও।",
+        "solution": "হযরত উমর ফারুক (রা) পবিত্র মক্কা নগরীতে ৫৮৩ খ্রিস্টাব্দে কুরাইশ বংশে জন্মগ্রহণ করেন। তাঁর পিতার নাম খাত্তাব ও মাতার নাম হানতামাহ্। তিনি ছিলেন ইসলামের দ্বিতীয় খলিফা। তিনি শিক্ষিত, মার্জিত ও সৎ চরিত্রের অধিকারী ছিলেন। তিনি ছিলেন নামকরা কুস্তিগির, সাহসী যোদ্ধা, কবি ও সুবক্তা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745613,
+      "value": {
+        "options": [],
+        "question": "খলিফা উমর (রা)-এর নিরপেক্ষ বিচারের একটি উদাহরণ দাও।",
+        "solution": "খলিফা উমর (রা)-এর নিরপেক্ষ বিচারব্যবস্থায় তাঁর চোখে সবাই সমান ছিল। উঁচু-নিচু, ধনী-গরিব, আপন-পর ভেদাভেদ ছিল না। মদ্যপানের অপরাধে নিজের ছেলে আবু শাহমাকে তিনি কঠোর শাস্তি দিয়েছিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745614,
+      "value": {
+        "options": [],
+        "question": "তিনি ছিলেন নামকরা _____, সাহসী যোদ্ধা, কবি ও _____।",
+        "solution": "কুস্তিগির,&nbsp;সুবক্তা",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745615,
+      "value": {
+        "options": [],
+        "question": "তিনি মানুষের দুঃখে-কষ্টে ছিলেন _____।",
+        "solution": "সমব্যথী",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745616,
+      "value": {
+        "options": [],
+        "question": "সুনাম",
+        "solution": "দুর্নাম",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745617,
+      "value": {
+        "options": [],
+        "question": "মা",
+        "solution": "জননী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745618,
+      "value": {
+        "options": [],
+        "question": "উপাধি",
+        "solution": "পদবি",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745619,
+      "value": {
+        "options": [],
+        "question": "মানবদরদি",
+        "solution": "হযরত উমর (রা) মানবদরদি শাসক ছিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745620,
+      "value": {
+        "options": [],
+        "question": "ভেদাভেদ",
+        "solution": "ইসলামী শাসনব্যবস্থায় ধনী-গরিব, আপন-পর ভেদাভেদ ছিল না।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745621,
+      "value": {
+        "options": [],
+        "question": "বাল্যকালে তিনি শিক্ষা দীক্ষায় সুনাম অর্জন করেন বড়ো হয়ে ব্যবসা বাণিজ্য করেন তিনি ছিলেন নামকরা কুস্তিগির সাহসী যোদ্ধা কবি ও সুবক্তা",
+        "solution": "বাল্যকালে তিনি শিক্ষা-দীক্ষায় সুনাম অর্জন করেন। বড়ো হয়ে ব্যবসা-বাণিজ্য করেন। তিনি ছিলেন নামকরা কুস্তিগির, সাহসী যোদ্ধা, কবি ও সুবক্তা।",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745622,
+      "value": {
+        "options": {
+          "ক": "একজন সাধারণ লোক",
+          "খ": "একজন ক্রীতদাস",
+          "গ": "একজন সাহাবি",
+          "ঘ": "হযরত উমর (রা)-এর পুত্র"
+        },
+        "question": "\"আমি নই, উটের রশি ধরে আছেন যিনি তিনিই খলিফা।\"- কে বলেছিল?",
+        "solution": "খ. একজন ক্রীতদাস",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745623,
+      "value": {
+        "options": {
+          "ক": "বোনের ভালোবাসা পাওয়ার জন্য",
+          "খ": "মানসিক পরিবর্তনের জন্য",
+          "গ": "নিজ স্বার্থসিদ্ধির জন্য",
+          "ঘ": "বীরত্ব প্রদর্শনের জন্য"
+        },
+        "question": "ইসলামের ঘোরতর বিরোধী উমর (রা) মুসলমান হওয়ার জন্য ব্যাকুল হয়ে পড়েন কেন?",
+        "solution": "খ. মানসিক পরিবর্তনের জন্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745624,
+      "value": {
+        "options": {
+          "ক": "রোম সম্রাট",
+          "খ": "চীন সম্রাট",
+          "গ": "পারস্য সম্রাট",
+          "ঘ": "মোগল সম্রাট"
+        },
+        "question": "কোন সম্রাট জনদরদি উমর (রা)-এর কাছে দূত পাঠান?",
+        "solution": "ক. রোম সম্রাট",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745625,
+      "value": {
+        "options": [],
+        "question": "ক্ক",
+        "solution": "ক্&zwnj;+ক - মক্কা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745626,
+      "value": {
+        "options": [],
+        "question": "খাপ থেকে বের করে আনা",
+        "solution": "কোষমুক্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745627,
+      "value": {
+        "options": [],
+        "question": "যে যুদ্ধ বা সংগ্রাম করে",
+        "solution": "যোদ্ধা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745628,
+      "value": {
+        "options": [],
+        "question": "কুস্তিগির",
+        "solution": "কুস্তি খেলোয়াড়।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745628,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745629,
+      "value": {
+        "options": [],
+        "question": "পুষ্প",
+        "solution": "ফুল।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745629,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745630,
+      "value": {
+        "options": [],
+        "question": "বায়তুলমাল",
+        "solution": "সরকারি কোষাগার।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745630,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745631,
+      "value": {
+        "options": [],
+        "question": "তরবারি",
+        "solution": "তিনি কোষমুক্ত তরবারি নিয়ে এগিয়ে গেলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745631,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745632,
+      "value": {
+        "options": [],
+        "question": "শান্তি",
+        "solution": "ইসলাম শান্তির ধর্ম।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745632,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745633,
+      "value": {
+        "options": [],
+        "question": "দরদি",
+        "solution": "হযরত উমর (রা) ছিলেন প্রজাদরদি শাসক।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745633,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745634,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা)-এর সমব্যথিতার একটি ঘটনা লেখ।",
+        "solution": "হযরত উমর (রা) মানুষের দুঃখ-কষ্টে সমব্যথী ছিলেন। দেশের মানুষের দুঃখ-কষ্টের কথা জানার জন্য তিনি গভীর রাতে মহল্লায় মহল্লায় একাকী ঘুরে বেড়াতেন। একদিন ক্ষুধার্ত শিশুদের কান্নার আওয়াজ শুনে তিনি নিজের কাঁধে আটার বস্তা বহন করে নিয়ে তাদের তাঁবুতে যেতেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745635,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা)-এর কোন মহানুভবতা দেখে সবাই বিস্মিত হয়েছিল? বর্ণনা কর।",
+        "solution": "একদিন উমর (রা) এক ক্রীতদাসকে নিয়ে জেরুজালেমে যাচ্ছিলেন। তিনি সঙ্গী ক্রীতদাসকে বললেন, 'দুইজন দূরের পথ পাড়ি দেব। একবার তুমি উটে চড়বে আর একবার আমি।' এভাবে যখন তাঁরা জেরুজালেম শহরের নিকট পৌছালেন, তখন ক্রীতদাসের উটে চড়ার পালা এলো। উটের পিঠে ক্রীতদাসকে দেখে শহরের লোকজন মনে করল ইনিই খলিফা। তারা উটের পিঠে বসা ক্রীতদাসকে খলিফা ভেবে সালাম দিতে লাগল। ক্রীতদাস তখন লজ্জিত হয়ে বললেন, 'আমি নই, উটের রশি ধরে আছেন যিনি, তিনিই খলিফা।' উপস্থিত সবাই হযরত উমর (রা)-এর এই মহানুভবতা দেখে বিস্মিত হয়েছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745636,
+      "value": {
+        "options": [],
+        "question": "রোম সম্রাটের দূত কীভাবে বুঝতে পারেন হযরত উমর (রা) জনগণের প্রকৃত নেতা?",
+        "solution": "হযরত উমর (রা) ছিলেন জনদরদি শাসক। লোকমুখে জনদরদি এই শাসকের কথা শুনে রোম সম্রাট পত্র দিয়ে এক দূত পাঠান। সম্রাটের দূত আরব দেশে এসে প্রথমে খোঁজাখুঁজি করেন 'খলিফা ভবন'। কোনো লোকই 'খলিফা ভবন' দেখাতে পারেনি। শেষে একজন বলল, কিছুক্ষণ আগে দেখেছিলাম খেজুর গাছের ছায়ার নিচে খলিফা ঘুমোচ্ছেন। রোম সম্রাটের দূত তাঁকে খেজুর গাছের ছায়ায় ঘুমোতে দেখে অবাক হন। তখন তিনি বুঝতে পারেন হযরত উমর (রা) জনগণের প্রকৃত নেতা।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745637,
+      "value": {
+        "options": [],
+        "question": "কোমল",
+        "solution": "নরম।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745638,
+      "value": {
+        "options": [],
+        "question": "দৃঢ়তা",
+        "solution": "কঠোরতা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745639,
+      "value": {
+        "options": [],
+        "question": "প্রকাশ্যে",
+        "solution": "খোলাখুলিভাবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745640,
+      "value": {
+        "options": [],
+        "question": "আর গোপনে নয়, এবার প্রকাশ্যে _____ সামনে সালাত আদায় করব।",
+        "solution": "কাবা ঘরের",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745641,
+      "value": {
+        "options": [],
+        "question": "খলিফা উমর (রা)-এর বিচার ব্যবস্থা ছিল _____।",
+        "solution": "নিরপেক্ষ ও নিখুঁত",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745642,
+      "value": {
+        "options": [],
+        "question": "সম্রাটের দূত আরব দেশে এসে প্রথমে খোঁজাখুঁজি করেন _____।",
+        "solution": "&#39;খলিফা ভবন&#39;",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745643,
+      "value": {
+        "options": [],
+        "question": "কোমল",
+        "solution": "কঠিন",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745644,
+      "value": {
+        "options": [],
+        "question": "শহর",
+        "solution": "নগর",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745645,
+      "value": {
+        "options": [],
+        "question": "ঘোরতর",
+        "solution": "সে আমার ঘোরতর শত্রু।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745646,
+      "value": {
+        "options": [],
+        "question": "সমব্যথী",
+        "solution": "হযরত উমর (রা) মানুষের দুঃখ-কষ্টে সমব্যথী ছিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745647,
+      "value": {
+        "options": [],
+        "question": "ক্রোধ",
+        "solution": "সে ক্রোধে উন্মত্ত হয়ে সবাইকে মারছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745648,
+      "value": {
+        "options": {
+          "ক": "পাঁচ দিরহাম",
+          "খ": "দশ দিরহাম",
+          "গ": "এক দিরহাম",
+          "ঘ": "দুই দিরহাম"
+        },
+        "question": "হযরত উমর (রা) কোষাগার থেকে গ্রহণ করতেন মাত্র-",
+        "solution": "ঘ. দুই দিরহাম",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745649,
+      "value": {
+        "options": {
+          "ক": "প্রথম",
+          "খ": "দ্বিতীয়",
+          "গ": "তৃতীয়",
+          "ঘ": "চতুর্থ"
+        },
+        "question": "হযরত উমর (রা) কততম খলিফা ছিলেন?",
+        "solution": "খ. দ্বিতীয়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745650,
+      "value": {
+        "options": {
+          "ক": "কোমলতা",
+          "খ": "জনদরদি শাসন",
+          "গ": "মানবদরদি মনোভাব",
+          "ঘ": "নিরপেক্ষ বিচার"
+        },
+        "question": "গুরুতর অপরাধে নিজের ছেলে আবু শাহমাকে কঠোর শাস্তি দেওয়ায় হযরত উমর (রা)-এর চরিত্রে প্রকাশ পেয়েছে-",
+        "solution": "ঘ. নিরপেক্ষ বিচার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745651,
+      "value": {
+        "options": [],
+        "question": "ষ্ট",
+        "solution": "ষ্&zwnj;+ট - খ্রিষ্টাব্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745652,
+      "value": {
+        "options": [],
+        "question": "ন্ম",
+        "solution": "ন্&zwnj;+ম - জন্ম",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745653,
+      "value": {
+        "options": [],
+        "question": "ভালো বক্তব্য দেন যিনি",
+        "solution": "সুবক্তা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-11-27T06:40:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 166611,
+      "value": {
+        "options": {
+          "a": "তিনি ছিলেন একজন ব্যবসায়ী এবং কবি।",
+          "b": "তিনি ছিলেন একজন সাহসী যোদ্ধা এবং মানবদরদি।",
+          "c": "তিনি ছিলেন একজন প্রতিষ্ঠিত শিল্পী।",
+          "d": "তিনি ছিলেন একজন খ্যাতনামা লেখক।"
+        },
+        "question": "হযরত উমর (রা) ইসলামের দ্বিতীয় খলিফা হিসেবে কীভাবে পরিচিত ছিলেন?",
+        "chapter_id": "1353",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-08-02T13:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 166605,
+      "value": {
+        "options": {
+          "a": "মক্কা",
+          "b": "মদিনা",
+          "c": "কুরাইশ নগরী",
+          "d": "বাগদাদ"
+        },
+        "question": "হযরত উমর (রা) জন্মগ্রহণ করেন কোথায়?",
+        "chapter_id": "1353",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-08-02T13:23:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 166606,
+      "value": {
+        "options": {
+          "a": "মক্কা",
+          "b": "মদিনা",
+          "c": "জেরুজালেম",
+          "d": "সৌদি আরব"
+        },
+        "question": "হযরত উমর (রা) ইসলাম ধর্ম গ্রহণের পর কোন ক্ষেত্রে প্রথমে প্রকাশ্যে সালাত আদায় করার সিদ্ধান্ত নেন?",
+        "chapter_id": "1353",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-08-02T13:23:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 166607,
+      "value": {
+        "options": {
+          "a": "যুদ্ধের মাধ্যমে",
+          "b": "গভীর রাতে মহল্লায় ঘুরে",
+          "c": "ঈদের সময়",
+          "d": "বাজারে গিয়ে"
+        },
+        "question": "হযরত উমর (রা) কীভাবে মানুষদের দুঃখ কষ্ট সম্পর্কে জানতে চেষ্টা করতেন?",
+        "chapter_id": "1353",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-08-02T13:23:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 166608,
+      "value": {
+        "options": {
+          "a": "নিজের পুত্রকে",
+          "b": "শত্রুকে",
+          "c": "দারিদ্র্যকে",
+          "d": "সাধারণ জনগণকে"
+        },
+        "question": "হযরত উমর (রা) কর্তৃক শাস্তি দেওয়ার সময় কোন পরিস্থিতি দেখা যায়?",
+        "chapter_id": "1353",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-08-02T13:23:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 166609,
+      "value": {
+        "options": {
+          "a": "মহান নেতা",
+          "b": "বীর যোদ্ধা",
+          "c": "জনদরদি শাসক",
+          "d": "সৎ চরিত্রের অধিকারী"
+        },
+        "question": "হযরত উমর (রা) কে ইসলামের দ্বিতীয় খলিফা হিসেবে কীভাবে বিবেচনা করা হয়?",
+        "chapter_id": "1353",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-08-02T13:23:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 166610,
+      "value": {
+        "options": {
+          "a": "যেকোনো কাজ মনোযোগ দিয়ে করা",
+          "b": "যুদ্ধ করা",
+          "c": "অন্যদের শাস্তি দেওয়া",
+          "d": "গোপনে কাজ করা"
+        },
+        "question": "হযরত উমর (রা) তার জীবনের কোন উপদেশ দিয়ে গেছেন?",
+        "chapter_id": "1353",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-08-02T13:23:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 160381,
+      "value": {
+        "options": {
+          "a": "সত্য",
+          "b": "মিথ্যা"
+        },
+        "question": "হযরত উমর (রা) ছিলেন ইসলামের দ্বিতীয় খলিফা এবং তিনি ব্যবসা-বাণিজ্যে দক্ষ ছিলেন।",
+        "chapter_id": "1353",
+        "explanation": "ব্যাখ্যা: হযরত উমর (রা) ছিলেন ইসলামের দ্বিতীয় খলিফা এবং খলিফাতকালে শক্তিশালী প্রশাসনিক ও আইনি ব্যবস্থা প্রতিষ্ঠায় প্রধান ভূমিকা পালন করেছিলেন। তিনি নবীর (সা.) আগে একজন সফল ব্যবসায়ী ছিলেন ও সততা, দক্ষতা ও বিচারশক্তির জন্য প্রসিদ্ধ ছিলেন, তাই উক্ত বিবৃতি সত্য।",
+        "correct_answer": "a"
+      },
+      "question_type_id": 4,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-08-01T12:20:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 4,
+        "name": "True False",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 160357,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা) ইসলামের দ্বিতীয় খলিফা হিসেবে কিভাবে মানুষের দুঃখ-কষ্টের প্রতি সমব্যথী ছিলেন?",
+        "chapter_id": "1353",
+        "explanation": "তিনি গভীর রাতে একলাই মহল্লায় ঘুরে লোকজনের দুঃখ-কষ্ট জানতে এবং সরাসরি তাদের সাহায্য করতে যেতেন, তাই উত্তরটি সঠিক। এর ফলে বোঝা যায় যে উমর (রা) জনসেবায় ও ন্যায়বিচারে সহানুভূতিশীল ও সক্রিয় ছিলেন, সাধারণ মানুষের পাশে দাঁড়াতেন।",
+        "correct_answer": "তিনি গভীর রাতে মহল্লায় মহল্লায় একাকী ঘুরে মানুষের দুঃখ-কষ্ট জানতেন এবং তাদের সাহায্য করতেন।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-08-01T12:20:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 160354,
+      "value": {
+        "options": {
+          "a": "তিনি কেবলমাত্র ধনীদের প্রতি সহানুভূতি প্রদর্শন করতেন।",
+          "b": "তিনি রাতের অন্ধকারে সাধারণ লোকদের দুঃখ-কষ্ট জানার জন্য ঘুরে বেড়াতেন।",
+          "c": "তিনি সব সময় ধনী এবং শিক্ষিত ব্যক্তিদের সাথে সময় কাটাতেন।",
+          "d": "তিনি কেবলমাত্র সেনাবাহিনীর সদস্যদের অনুকূল অবস্থানে থাকতেন।"
+        },
+        "question": "হযরত উমর (রা) ইসলামের দ্বিতীয় খলিফা হিসেবে কিভাবে মানবদরদি শাসক হিসেবে পরিচিতি লাভ করলেন?",
+        "chapter_id": "1353",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-08-01T12:20:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139539,
+      "value": {
+        "options": {
+          "a": "তিনি প্রথমে ইসলাম বিরোধী ছিলেন কিন্তু পরে মুসলমান হন।",
+          "b": "তিনি জন্ম থেকেই মুসলমান ছিলেন।",
+          "c": "তিনি ইসলামের বিরুদ্ধে যুদ্ধ ঘোষণা করেন।",
+          "d": "তিনি ইসলাম গ্রহণের আগে ধর্মান্তরিত হননি।"
+        },
+        "question": "হযরত উমর (রা) কীভাবে ইসলামের প্রতি সমর্থন দেখান?",
+        "solution": "সমাধান:\n1) ইতিহাস অনুযায়ী, হযরত উমর (রা) প্রথমে ইসলামবিরোধী ছিলেন কিন্তু পরে ইসলামের প্রতি আকৃষ্ট হয়ে কবল করেন এবং মুসলিমদের শক্তিশালী সমর্থক ও দ্বিতীয় খলিফা হয়ে ওঠেন; তাই \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সঠিক।  \n2) \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভুল, কারণ তিনি জন্ম থেকেই মুসলমান ছিলেন না; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ভুল, তিনি ইসলামকে ভাঙচুর বা যুদ্ধ ঘোষণা করেননি বরং সময়ের সাথে ইসলামী অনুশীলন ও শাসনে সক্রিয় ভূমিকা নেন; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বিবৃতিটি প্রশ্নোপযোগী নয় কারণ উমর (রা) নিজের পূর্ব ধর্ম (কাফেরি) ত্যাগ করে ইসলামে দীক্ষিত হন, তাই ধারণাটি \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E -এর সঙ্গে সামঞ্জস্যপূর্ণ নয়।",
+        "chapter_id": "1353",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-28T19:12:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139538,
+      "value": {
+        "options": {
+          "a": "তিনি ছিলেন কোমল ও কঠোর, দুঃখ-কষ্টে সমব্যথী।",
+          "b": "তিনি ছিলেন কেবল একজন কবি ও ব্যবসায়ী।",
+          "c": "তিনি ছিলেন একমাত্র যুদ্ধের নেতা।",
+          "d": "তিনি ছিলেন শুধুমাত্র একজন সাহসী যোদ্ধা।"
+        },
+        "question": "হযরত উমর (রা) কে ইসলামের দ্বিতীয় খলিফা হিসেবে কীভাবে বর্ণনা করা হয়েছে?",
+        "solution": "সমাধান: হযরত উমর (রা)-কে ইসলামের দ্বিতীয় খলিফা হিসেবে সাধারণভাবে \u003Cb\u003Eকোমল ও কঠোর, দুঃখ-কষ্টে সমব্যথী\u003C/b\u003E হিসেবে বর্ণনা করা হয় — তাই সঠিক উত্তর হল a।\n\nব্যাখ্যা:\n1. তিনি ন্যায় প্রতিষ্ঠায় কঠোর ছিলেন (শাসন-ব্যবস্থায় শৃঙ্খলা ও দন্ড কার্যকর করা), কিন্তু ব্যক্তিগতভাবে দরিদ্র ও মানসিক কষ্টভোগীদের প্রতি সহমর্মী ও সহযোগী ছিলেন।  \n2. ঐতিহাসিক চলচিত্র ও হাদীসে তার কঠোর নৈতিকতা ও একই সঙ্গে মানুষের প্রতি সংবেদনশীলতা উভয় দিকের উদাহরণ আছে, ফলে বিকল্প a পুরো বর্ণনাটিই ধারণ করে।  \n3. অন্য বিকল্পগুলো ভুল কারণ: b শুধুমাত্র কবি/ব্যবসায়ী বলে উমর (রা)-কে সীমাবদ্ধ করা অযথা; c ও d শুধুমাত্র যুদ্ধ-নায়কেরূপে দেখায়—যা তার পূর্ণ স্বভাব ও শাসনশৈলীকে সম্মিলিতভাবে ব্যাখ্যা করে না।\n\nসুতরাং সঠিক উত্তর: a।",
+        "chapter_id": "1353",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-28T19:12:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105048,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): হযরত উমর (রা)-এর ইসলাম গ্রহণের গল্প কী ছিল?",
+          "খ": "(অনুধাবন): হযরত উমরের বিচার ব্যবস্থা সম্পর্কে কী বলা যায়?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): হযরত উমরের মানবদরদি স্বভাবের উদাহরণ দাও।",
+          "ঘ": "(মূল্যায়ন/সৃজন): হযরত উমরের শাসনব্যবস্থার কিছু অসামান্য দিক উল্লেখ করো।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\nহযরত উমর (রা) ইসলামের দ্বিতীয় খলিফা ছিলেন। তিনি ছিলেন শিক্ষিত, মার্জিত ও সৎ চরিত্রের অধিকারী। প্রথমে ইসলামের ঘোরতর বিরোধী হলেও একদিন ইসলামের প্রতি তাঁর দৃষ্টিভঙ্গি পরিবর্তন হয় এবং তিনি ইসলামের সেবা করেন।",
+        "solution": "সমাধান:\nউত্তর প্রদানের পদ্ধতি — প্রতিটি অংশে ঐতিহাসিক সূত্র ও ঘটনাক্রম অনুসরণ করে সংক্ষেপে ঘটনা-বিবরণ, প্রাসঙ্গিক নীতি ও যুক্তি প্রদান করা হবে। যেখানে প্রয়োজন তা পর্যায়ক্রমে ব্যাখ্যা করা হবে যাতে পাঠক সহজে বুঝতে পারে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E হযরত উমর (রা)-এর ইসলাম গ্রহণের গল্প কী ছিল?\nউত্তর পদ্ধতি ও মূলধারা — ঘটনার ক্রমগত বর্ণনা:\n1. প্রাথমিক অবস্থা: উমর (রা) প্রথমে ইসলামের শক্ত বিরোধী ছিলেন এবং নবী ﷺ-কে ও মুসলমানদের প্রতি কড়া মনোভাব রাখতেন।\n2. সংকল্প ও উদ্দেশ্য: উমর একদিন এই পরিকল্পনা নিয়ে বের হওয়েন যে তিনি directly রসূলুল্লাহ ﷺ-কে (বা একজন মুসলিমকে) হত্যা করবেন — এটি ছিল তাঁর যুগপৎ প্রতিক্রিয়া।\n3. হৃদয় পরিবর্তনের কারণ: পথে তিনি তাঁর বোন ও জমানার বাড়িতে গিয়ে খাঁচাবন্দীভাবে কুরআন পাঠ শুনেন; কুরআনের সূক্ষ্ম ডাক ও তর্কসম্বলিত আয়াতগুলো তাঁর হৃদয় স্পর্শ করে। কুরআন ও আল্লাহর রঙ্গভঙ্গি তাঁর মিথ্যা ধারণা ভেঙে দেয়।\n4. কবুলোক্তার পরিণতি: উমর (রা) দ্রুত মুহুর্তে ইসলাম গ্রহণ করেন, এরপর তিনি সরাসরি নবী ﷺ-র কাছে গিয়ে ইসলাম গ্রহণের বক্তব্য জানান। তাঁর ইসলামে আগমন তখনকার মুসলমানদের জন্য চমক ও আত্মবিশ্বাস বৃদ্ধির কারণ হয়েছিল।\nসংক্ষিপ্ত মন্তব্য: এই গল্পে দেখানো হয় কুরআনের আসরকারক প্রভাব, কারণ-অনুসন্ধান ও ব্যক্তিগত বিবেচনার ফলে বিশ্বাসবদল সম্ভব।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E হযরত উমর (রা)-এর বিচার ব্যবস্থা সম্পর্কে কী বলা যায়?\nপ্রধান ধারণা ও নীতি:\n1. শাসন-নীতির মূল: বিচারব্যবস্থা ছিল কোরআন ও সুন্নাহর উপর ভিত্তি করে; ন্যায়বিচারের সুস্পষ্টতা ও সমতা ছিল মূল উদ্দেশ্য।\n2. প্রশাসনিক ব্যবস্থা: উমর (রা) বিচারক (কাদি) নিয়োগে গুরুত্ব দিতেন — যোগ্যতা ও নৈতিকতার ওপর জোর দেয়া হতো; কাদেরদের জন্য নির্দেশনা ও স্থিতি নির্ধারণ করতেন।\n3. জবাবদিহিতা ও স্বচ্ছতা: কাদেরদের কাজের ওপর গোচরনিহিত নজরদারি ও সময়মতো নিরীক্ষা থাকত; দুর্নীতি ও পক্ষপাতিতা মানা ছিল। উমর নিজে মাঝে-মধ্যে সরাসরি মামলার শুনানিতে অংশগ্রহণ করতেন বা জনগণের অভিযোগ শুনতেন।\n4. সহজ ও দ্রুত বিচারের চেষ্টা: অসাময়িক জটিলতার পরিবর্তে সরল প্রমাণ-ভিত্তিক সিদ্ধান্ত গ্রহণের প্রবণতা, প্রত্যক্ষ সাক্ষ্য, স্বীকারোক্তি ও সুস্পষ্ট দলিলকে গুরুত্ব দেওয়া হতো।\nউদাহরণ/ব্যাখ্যা: দরিদ্র মানুষের অভিযোগ দ্রুত গুরুত্ব পেত; আদালতের পথে মানুষের সহজ প্রবেশাধিকার নিশ্চিত করা হতো — ফলে সাধারণ মানুষের ন্যায্যতা বেশি প্রতিফলিত হতো।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E হযরত উমর (রা)-এর মানবদরদি স্বভাবের উদাহরণ দাও।\nসংক্ষিপ্ত উদাহরণ ও বিশ্লেষণ:\n1. রাত্রিকালীন নিরীক্ষা: উমর (রা) রাতে কখনো কখনো নগরী ঘুরে দেখতেন—বাজার, বাড়ি, পথচলা লোকজন—এতে তিনি সাধারণ মানুষের দুর্ভোগ, অনাহার বা অন্য সমস্যার দ্রুত অবগত হতেন। এই আচরণই মানবদরদ ও ব্যক্তিগত নজরদারির স্পষ্ট পরিচয়।\n2. দারিদ্র ও ত্রাণ: দুর্ভিক্ষ বা সংকটের সময় তিনি রাষ্ট্রীয় খরচ থেকে ত্রাণ ও আর্থিক সহায়তা দিয়ে অতিদরিদ্রদের রক্ষা করতেন; দরিদ্রদের করছাড় বা ছাড় প্রদান করতেন।\n3. সংখ্যালঘুদের অধিকার রক্ষা: জিম্মি/অধিবাসী সম্প্রদায়কে তাদের ধর্মীয় ও নাগরিক অধিকার নিশ্চিত করার মাধ্যমে তিনি তাদের প্রতি সহমর্মিতা দেখিয়েছিলেন।\nউপসংহার: এই কার্যকলাপগুলোই তাঁর মানবদরদি স্বভাবের বাস্তব প্রমাণ; নীতিগতভাবে তিনি ক্ষমতার প্রয়োগকে মানুষের কল্যাণে কেন্দ্র করতেন।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হযরত উমর (রা)-এর শাসনব্যবস্থার কিছু অসামান্য দিক উল্লেখ করো।\nসংক্ষিপ্ত তালিকা ও ব্যাখ্যা:\n1. প্রতিষ্ঠানিক সংস্কার: কেন্দ্রীভূত হিসাব-নিকাশ (বৈতুল-মাল), সৈন্য তালিকা (দিওয়ান) ও বেতন নির্ধারণের ব্যবস্থা চালু করে প্রশাসনকে নিয়মিত ও ধারাবাহিকভাবে পরিচালিত করেছিলেন।\n2. প্রশাসনিক জবাবদিহিতা: গভর্নরদের দুর্নীতি ও অবিচারের বিরুদ্ধে কঠোর নজরদারি ও প্রতিবেদন-ঘোষণা নিশ্চয়তা; প্রাপ্যতা ও যোগ্যতার ওপর নিয়োগ।\n3. জনকল্যাণমুখী নীতি: রাস্তা, সেতু, জলসংরক্ষণ, ক্যানাল ইত্যাদি নানান জনসেবামূলক কাজের মাধ্যমে সাধারণ মানুষকে সুবিধা প্রদান। যারা প্রান্তিক ছিল তাদের জন্যও রাষ্ট্রীয় সহায়তা।\n4. আইন ও ন্যায়বিচার প্রতিষ্ঠা: শুরা, কুরআন-সুন্নাহ অনুসরণ, নিরপেক্ষ বিচার ও ন্যায়সঙ্গত শাস্তি—সবকিছুতে নিয়মকানুন প্রতিষ্ঠা করা হয়েছিল।\n5. সামগ্রিক প্রশাসনিক দক্ষতা: দ্রুত বিস্তৃত রাজ্যশাসন ও বংশপরিচালনা, স্থানীয় কর্তৃপক্ষ নিয়োগ ও প্রশাসনিক মানদণ্ড প্রবর্তন করে সম্ভবপরভাবে সাম্রাজ্যসংস্থান চালনা করা—এই দক্ষতা ছিল অন্যরকম।\nসংক্ষিপ্ত বিশ্লেষণ: এসব নীতি দীর্ঘমেয়াদি রাষ্ট্রীয় স্থিতিশীলতা, ন্যায়বিচার ও জনকল্যাণ নিশ্চিত করে; ফলে উমর (রা)-র শাসনব্যবস্থাকে ইতিহাসে বিশেষভাবে মূল্যায়ন করা হয়।\n\nউপসংহার:\nউমর ইবনে খাত্তাব (রা)-এর জীবন ও শাসনব্যবস্থা কুরআন-সুন্নাহভিত্তিক ন্যায্যতা, প্রশাসনিক দক্ষতা ও মানুষের প্রতি সহানুভূতির মিশ্রণ; তার ইসলাম গ্রহণের ঘটনা থেকে শুরু করে বিচার ও শাসনে তার নীতিগুলো আজও শিক্ষা দেওয়া যোগ্য।",
+        "chapter_id": "1353",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E হযরত উমর (রা)-এর ইসলাম গ্রহণের গল্পে বলা হয় তিনি প্রথমে ইসলাম-বিরোধী ছিলেন, একদিন তার বোন ও তাঁর স্বামী কুরআন পাঠ করছিলেন; উমর সেই শব্দ শুনে কৌতূহলবশত্‌ গেলে কুরআন শুনে হৃদয়প্রসূত হয়ে পবিত্র নগরে গিয়ে হযরত মুহাম্মদের (সা.) কাছে ইসলামে দীক্ষা নেন — এটি তাঁর চিন্তা ও মননের সরাসরি পরিবর্তনকে দেখায়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E হযরত উমরের বিচার ব্যবস্থা ছিল ন্যায়সংবলিত ও স্বচ্ছ; তিনি বিচারকে দ্রুত, সুলভ ও নিরপেক্ষ রাখার জন্য বিচারক নিয়োগ, সাক্ষ্য–প্রমাণের গুরুত্ব আর অপরাধের উপযুক্ত শাস্তি কার্যকর করেছিলেন এবং ক্ষমতাসীন ব্যক্তিদেরও আইনের আওতায় আনার নির্দেশ দিয়েছিলেন।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E তাঁর মানবদরদি স্বভাবের উদাহরণ—তিনি গরীব-প্রতিবাদের প্রতি সংবেদনশীল ছিলেন, প্রয়োজনে ব্যক্তিগত তহবিল থেকে ভক্ষণ বিতরণ করতেন এবং দুর্ভোগে মানুষের সাহায্যে প্রথম সারিতে থাকেন; এমনকি শাসনকালে নিজেই মানুষের অভিযোগ শুনতেন ও তারা আর্থিকভাবে সুরক্ষিত রাখতেন।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হযরত উমরের শাসনব্যবস্থার অসামান্য দিকগুলোর মধ্যে আছে সরকারি অর্থ-ব্যবস্থার সংগঠন (বৈতুল-মাল), সৈনিকদের নিবন্ধন ও বেতন নির্ধারণ, প্রশাসনিক বিভাগ ও কর্মবিভাগ, শাসনায়নের নিয়মকায়দা ও সাধারণ মানুষকে সরকারের কাছে সহজ প্রবেশাধিকার — এগুলো প্রশাসনকে কার্যকর ও যুগোপযোগী করেছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-16T03:53:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105049,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): হযরত উমরের আদর্শ বিচার ব্যবস্থা কেমন ছিল?",
+          "খ": "(অনুধাবন): হযরত উমর (রা)-এর মানবদরদি স্বভাবের উদাহরণ দাও।",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): হযরত উমরের মানবিক গুণাবলীর প্রভাব কিভাবে সমাজে পড়েছিল?",
+          "ঘ": "(মূল্যায়ন/সৃজন): হযরত উমর (রা)-এর জীবনের কিছু গুরুত্বপূর্ণ দিক উল্লেখ করো।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\nহযরত উমর (রা) ইসলামের দ্বিতীয় খলিফা ছিলেন, তিনি মানুষের দুঃখ-কষ্টে ছিলেন সমব্যাথী। তার বিচার ব্যবস্থা ছিল নিরপেক্ষ ও নিখুঁত।",
+        "solution": "সমাধান:\nপদ্ধতি: প্রথমে উদ্দীপক থেকে মূল বৈশিষ্ট্যগুলো চিহ্নিত করা (ন্যায়পরায়ণতা, মানবদরদ, নিরপেক্ষ বিচার) → প্রতিটি প্রশ্ন ভাগের ধরণ অনুযায়ী উপযুক্ত তথ্য, উদাহরণ ও বিশ্লেষণ উপস্থাপন করা → সমাজগত প্রভাব যুক্তিসহ ব্যাখ্যা করা। প্রতিটি অংশে সংক্ষিপ্ত, স্পষ্ট এবং যুক্তিযুক্ত উত্তরে মনোযোগ দেয়া হবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E হযরত উমরের আদর্শ বিচার ব্যবস্থা কেমন ছিল?\nউত্তর:\n- ন্যায়নিষ্ঠা ও নিরপেক্ষতা: বিচার ব্যবস্থায় ব্যক্তি বা অবস্থান বিবেচনা না করে ইসলামী আইন (কুরআন ও সুন্নাহ) ও প্রমাণের ভিত্তিতে সিদ্ধান্ত নেওয়া হতো। কোনো প্রভাবশালী ব্যক্তি হলেও বিচার থেকে বঞ্চিত করা হতো না।\n- যথাযথ প্রশাসনিক কাঠামো: ভালো প্রশিক্ষিত শাসক ও কুতুব ও কেস-রেকর্ড রাখা, বিচারক ও গভর্নরের আচরণে তদারকি, অভিযোগ গ্রহণের জন্য সাধারণ মানুষের জন্য পথোজ্জ্বল ব্যবস্থা ছিল।\n- স্বচ্ছতা ও জবাবদিহিতা: হকিকত যাচাইয়ের জন্য সাক্ষী, দলিল-প্রমাণ গ্রহণ; প্রয়োজনে নিজেই লোকজনের শিকেয়ত শুনতেন এবং সিদ্ধান্ত পরিবর্তন করতেন। বিচারব্যবস্থায় প্রতিষেধক ও শাস্তি নীতি সামরিক ও নীতিগত দিক থেকে সুষমভাবে প্রয়োগ হতো।\n- নীতিগত ভিত্তি: কুরআন-সুন্নাহ অনুসরণ এবং 'অমানত ও আদল'—দায়িত্ব ও ন্যায় বজায় রাখা—এর উপর অটল প্রতিশ্রুতি।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E হযরত উমর (রা)-এর মানবদরদি স্বভাবের উদাহরণ দাও।\nউত্তর:\n- রাতের মরদর্দী পরিদর্শন: তিনি গোপনে রাতের বেলায় শহর পরিদর্শন করতেন যাতে সাধারণ মানুষের অসুবিধা, দরিদ্রদের কষ্ট বা অন্যায় দেখে সমাধান করতে পারেন। (এই আচরণ থেকে তার সরাসরি সহানুভূতি বোঝা যায়।)\n- সামাজিক কল্যাণ ব্যবস্থা: দরিদ্র, বিধবা ও অনাথদের জন্য রাজ্যের সমর্থন ও বেতন ব্যবস্থা প্রতিষ্ঠা করে তাদের ভরণপোষণের ব্যবস্থা করেছেন—এটি মানবদরদ ও দায়িত্ববোধের প্রকাশ।\n- সাধারণ মানুষের কষ্টে সহজলভ্যতা: তিনি সাধারণদের অভিযোগ সঙ্গে সিরিয়াসলি নিতেন, তাদের কথা শোনার জন্য প্রকাশ্যে সময় রাখতেন এবং সমস্যার সমাধানে দ্রুত হস্তক্ষেপ করতেন।\n(উপরের উদাহরণগুলো নির্দেশ করে যে উমর (রা) শুধু নীতিগতভাবে নয়, বাস্তবে মানুষের কষ্টে সহমর্মী ছিলেন।)\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E হযরত উমরের মানবিক গুণাবলীর প্রভাব কিভাবে সমাজে পড়েছিল?\nউত্তর:\n- সামাজিক স্থিতিশীলতা ও ন্যায়বোধের বৃদ্ধि: দরিদ্র ও অবহেলিতদের জন্য সুনির্দিষ্ট সহায়তার কারণে সামাজিক উত্তেজনা কমে গিয়েছিল; মানুষ সরকার ও শাসকের ন্যায়বিচারে বিশ্বাস বৃদ্ধি পেয়েছিল।\n- অপরাধ ও অনৈতিক আচরণ হ্রাস: ন্যায়পালনের ফলে অনাচার ও নিপীড়ন কমে এসেছে, ফলশ্রুতিতে শৃঙ্খলা ও নিরাপত্তা বৃদ্ধি পেয়েছিল।\n- সরকারি প্রতিষ্ঠানগুলোর কার্যকারিতা বৃদ্ধি: আদালত, বেতন ব্যবস্থা, জেলা প্রশাসন ইত্যাদি কাঠামোর উন্নতিতে সরকারি কাজ দ্রুত ও স্বচ্ছভাবে চালিত হচ্ছিল—এতে জনসাধারণের জীবনমান উন্নত হয়েছে (ভাইভিল সার্ভিস, রাস্তা, খাদ্যবন্টন ইত্যাদি)।\n- নৈতিক ও ধর্মীয় অনুকরণ: শাসকের মানবিক ও ধর্মভিত্তিক আচরণ সাধারণ মানুষ ও অন্যান্য শাসকদের মধ্যে ন্যায় ও দয়া অনুকরণীয় করে তুলেছিল, ফলে সামগ্রিক সামাজিক সৌহার্দ্য বৃদ্ধি পায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হযরত উমর (রা)-এর জীবনের কিছু গুরুত্বপূর্ণ দিক উল্লেখ করো।\nউত্তর:\n- ইসলামে দাওয়াত ও গ্রহণ: ইসলাম গ্রহণ করার পর তিনি শক্তিশালী সমর্থক ও দায়িত্বশীল অনুগামী ছিলেন; প্রাথমিক যুগে গুরুত্বপূর্ণ ভূমিকা রাখেন।\n- দ্বিতীয় খলিফা হিসেবে প্রশাসনিক সংস্কার: বেওট-আল-মাল (রাজ্য財), রাস্তাঘাট, ন্যায়ব্যবস্থা, বিচার ও প্রশাসনিক কাঠামো গঠন ও উন্নয়ন।\n- সামরিক বিস্তার: তাঁর খিলাফায় ইসলামিক রাষ্ট্রের ভূখণ্ড ব্যাপকভাবে বৃদ্ধি পায়; ফাতিহা ও প্রশাসনিক সংযোজনের মাধ্যমে সামরিক ও প্রশাসনিক সম্প্রসারণ।\n- ব্যক্তিগত সাদাকল্য ও পুণ্য: সাধারণ জীবনযাপন, অহিংস ও ন্যায়পরায়ণ সিদ্ধান্ত, মানুষের সাথে সহজ যোগাযোগ।\n- জনগণের প্রতি দায়িত্বশীলতা:夜間 পরিদর্শন, দরিদ্রদের সাহায্য, অভিযোগ-শুনানি—এসব তাকে জননন্দিত শাসক করে তুলেছিল।\n- শাহাদা: তাঁকে একটি ব্যক্তিগত হামলায় হত্যাকাণ্ডে জীবন প্রত্যাহার করতে বাধ্য করা হয়—ইতিহাসে তিনি শহীদ হিসেবে স্মরণীয়।\n\nসংক্ষেপে: হযরত উমর (রা)-এর বিচার ব্যবস্থা ছিল ন্যায়ভিত্তিক ও নিরপেক্ষ; তার মানবিক স্বভাব বাস্তবে দরিদ্র ও সাধারণ মানুষের পাশে দাঁড়ানোর মাধ্যমে প্রতিফলিত হয়েছিল; তার এসব গুণাবলি সমাজে স্থিতিশীলতা, বিশ্বাস ও কল্যাণ বৃদ্ধি করেছে; এবং তাঁর জীবন ও কর্মকাণ্ড ইসলামী প্রশাসন ও নৈতিকতায় চিরস্থায়ী ছাপ রেখেছে।",
+        "chapter_id": "1353",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E হযরত উমরের আদর্শ বিচার ব্যবস্থা ছিল নিরপেক্ষ, প্রমাণভিত্তিক ও জনকল্যাণমুখী; তিনি হুকুম বা ব্যক্তিগত পক্ষপাত ছাড়া সিদ্ধান্ত নিতেন এবং শুরার মতামত ও সাক্ষ্য-প্রমাণ গুরুত্ব দিতেন — তাই এটি ন্যায় ও সমাজকল্যাণ নিশ্চিত করত।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E উদাহরণ: তিনি রাতেই গোপনে শহর ঘুরে মানুষের কষ্ট দেখতেন, দুর্বলদের জন্য কর-ছাড় বা দাবী-sফল করাতেন, এবং দারিদ্র্যের কারণে চুরি করা কারো ক্ষেত্রে প্রতিহিংসা না করে দয়া ও সমান বিচার করতেন — এসব আচরণ তার মানবদরদি স্বভাবকে প্রমাণ করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E তার মানবিক গুণাবলী সমাজে বিশ্বাস ও স্থিতিশীলতা বাড়িয়েছিল: দুর্নীতির বিরুদ্ধে কঠোর হওয়া ও দরিদ্রদের প্রতি সহমর্মিতা দরিদ্রদের নিরাপত্তা বাড়িয়ে সামাজিক অসন্তোষ কমিয়েছিল এবং শাসনের প্রতি জনসমর্থন বাড়িয়েছিল।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হযরত উমরের গুরুত্বপূর্ণ দিকগুলোর মধ্যে আছে: তানখা প্রশাসনিক সংস্কার (যেমন ডিবান স্থাপন), কঠোর কিন্তু ন্যায্য বিচার, দরিদ্রদের কল্যাণে উদ্যোগ, ইসলামিক রাজ্যের দ্রুত প্রসারণ এবং সাধারণ মানুষের সাথে সরলতা ও পবিত্রতা বজায় রাখা — এগুলো তার নেতৃত্বকে বিশেষ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-16T03:53:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105037,
+      "value": {
+        "options": {
+          "a": "মাদ্রাসা প্রতিষ্ঠা",
+          "b": "কাবা ঘরের সামনে সালাত আদায়",
+          "c": "যুদ্ধের ঘোষণা",
+          "d": "নবীর আনুগত্য"
+        },
+        "question": "হযরত উমর (রা) ইসলাম গ্রহণের পর কোন কাজটি প্রকাশ্যে করেছিলেন?",
+        "solution": "সমাধান:\nহযরত উমর (রা) ইসলাম গ্রহণের পরে তিনি তাঁর ঈমান প্রকাশ্যে ঘোষণা করেছিলেন এবং খেদ্দা কাবা ঘরের সামনে দাঁড়িয়ে মুসলিমদের সঙ্গে সালাত আদায় করেছিলেন — এই ঘটনার কারণে সঠিক উত্তর হল অপশন b। অন্য বিকল্পগুলো ভুল কারণ: মাদ্রাসা প্রতিষ্ঠা (a) তার পতন পরবর্তীর সামগ্রিক ব্যবস্থা, তবে ঈমান প্রকাশের তাৎক্ষণিক কাজ ছিল না; যুদ্ধের ঘোষণা (c) ইসলাম গ্রহণের সঙ্গে সরাসরি সম্পর্কিত নয়; নবীর আনুগত্য (d) ব্যক্তিগত বিশ্বাস ও আচরণের বিষয় হলেও প্রশ্নে যে প্রকাশ্য কাজটি করা হয়েছে তা কাবা ঘরের সামনে সালাত আদায় করা।",
+        "chapter_id": "1353",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-16T03:52:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105038,
+      "value": {
+        "options": {
+          "a": "শাসকদের জন্য বিশেষ সুবিধা",
+          "b": "সরকারি সম্পত্তি রক্ষা",
+          "c": "জনগণের জন্য সুবিচার",
+          "d": "বস্ত্রহীন অবস্থায় থাকা"
+        },
+        "question": "বাংলাদেশের মুক্তিযুদ্ধের সময় হযরত উমর (রা) এর নীতিগুলোর মধ্যে কী ছিল?",
+        "solution": "সমাধান:\nধাপ ১: হযরত উমর (রা) প্রশাসন ও শাসনে সবচেয়ে যে নীতিটি জোরদার করেছেন তা হল জনগণের প্রতি সুবিচার ও অধিকার রক্ষা করা — দুর্নীতির বিরুদ্ধে কঠোরতা এবং সকলের প্রতি ন্যায়বিচার নিশ্চিত করা।  \nধাপ ২: প্রদত্ত অপশনগুলোর মধ্যে এ নীতির সঙ্গে মিলে যায় \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (জনগণের জন্য সুবিচার), তাই সেটি সঠিক উত্তর।  \nধাপ ৩: অন্যান্য অপশনগুলোর সংক্ষিপ্ত ব্যাখ্যা — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (শাসকদের জন্য বিশেষ সুবিধা) উমর (রা)-এর নীতির পরিপন্থী; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (সরকারি সম্পত্তি রক্ষা) উমর (রা) গুরুত্ব দিয়েছিলেন কিন্তু মূল নীতি ছিল সুবিচার; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (বস্ত্রহীন অবস্থায় থাকা) অপ্রাসঙ্গিক ও ভুল।",
+        "chapter_id": "1353",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-16T03:52:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105039,
+      "value": {
+        "options": {
+          "a": "নিজের পুত্র",
+          "b": "এক সেনাপতি",
+          "c": "জনগণের নেতা",
+          "d": "নিজের ভাই"
+        },
+        "question": "হযরত উমর (রা) মদ্যপানের অপরাধে কোন ব্যক্তিকে শাস্তি দিয়েছিলেন?",
+        "solution": "সমাধান: ইতিহাস ও সাহাবীদের সূত্রানুযায়ী হযরত উমর (রা) মদ্যপানের অপরাধে নিজেরই একটি সন্তানের (পুত্র) বিরুদ্ধে শাস্তিমূলক ব্যবস্থা নিয়েছিলেন যাতে খুব স্পষ্ট বার্তা দেয়া যায় যে আইন ও ন্যায় সবাইয়ের জন্য সমান। অতএব সঠিক উত্তর হলো a: নিজের পুত্র। অন্য বিকল্পগুলো (এক সেনাপতি, জনগণের নেতা, নিজের ভাই) এর সাথে ঐ ঐতিহাসিক ঘটনার বর্ণনা মেলে না, তাই তারা ভুল।",
+        "chapter_id": "1353",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-16T03:52:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56758,
+      "value": {
+        "options": {
+          "a": "মক্কা",
+          "b": "মদিনা",
+          "c": "জেরুজালেম",
+          "d": "মিশর"
+        },
+        "question": "হযরত উমর (রা) কোথায় জন্মগ্রহণ করেন?",
+        "solution": "সমাধান: হযরত উমর (রাঃ) কুরাইশ গোত্রের সদস্য ছিলেন এবং ঐতিহাসিক সূত্র ও সীরাহ অনুযায়ী তার জন্মস্থান মক্কা। তাই বিকল্প a: মক্কা সঠিক উত্তর। অন্যান্য অপশনগুলি ভুল — মদিনা তিনি পরে হিজরত করেছিলেন, আর জেরুজালেম ও মিশর তার জন্মস্থান নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56759,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "হযরত উমর (রা) ছিলেন ইসলামের প্রথম খলিফা।",
+        "solution": "সমাধান:\n\nStep 1: প্রশ্নে বলা হয়েছে \"হযরত উমর (রা) ছিলেন ইসলামের প্রথম খলিফা\" — এটি একটি সত্য/মিথ্যা বিবৃতি পরীক্ষা।  \nStep 2: ইসলামের প্রথম খলিফা ছিলেন হযরত আবু বকর সিদ্দিক (রা), যিনি সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম’র মৃত্যুর পর সব মুসলমানদের সম্মতিতে প্রথম খিলাফত গ্রহণ করেন; হযরত উমর (রা) ছিলেন দ্বিতীয় খলিফা।  \nStep 3: তাই প্রদত্ত বিবৃতি ভুল, সঠিক উত্তর: False (b)।  \n\nঅন্য অপশনটি কেন ভুল: অপশন a (True) ভুল, কারণ ইতিহাস অনুযায়ী প্রথম খলিফা হযরত আবু বকর (রা) ছিলেন, উমর (রা) দ্বিতীয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56760,
+      "value": {
+        "options": {
+          "a": "আল কাত্তাব",
+          "b": "আবু ফাতিহ",
+          "c": "জাবির",
+          "d": "খাত্তাব"
+        },
+        "question": "হযরত উমর (রা)-এর পিতার নাম __________।",
+        "solution": "সমাধান: হযরত উমর (রা)-এর পিতার নাম খাত্তাব ছিল, তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E খাত্তাব। ইতিহাসে তিনি সাধারণত \"উমর ইবনে আল‑খাত্তাব\" হিসেবে পরিচিত, যেখানে \"ইবনে আল‑খাত্তাব\" মানে \"খাত্তাবের পুত্র\", এটি পিতার নাম নির্দেশ করে। অন্য অপশনগুলো (যেমন আল কাত্তাব, আবু ফাতিহ, জাবির) ঐতিহাসিক সূত্রে উমরের পিতার নামে মিলেনা, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56761,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা)-এর মা'র নাম কী?",
+        "solution": "সমাধান: সীরাহ ও তরিকাহ অনুযায়ী হযরত উমর (রা)-এর পিতার নাম ছিল খাত্তাব ইবনে নুফায়ল এবং মা'র নাম পরিচিতভাবে হানতামাহ বিনত হিশাম (হানতামাহ) হিসেবে সূত্রাবলীতে পাওয়া যায়। তাই প্রশ্নের সঠিক উত্তর হলো হানতামাহ। অন্যান্য অপশনগুলো ভুল কারণ সেগুলো সম্ভবত অন্য সাহাবীদের বা পরিবারের সদস্যদের নাম এবং উমরের মা হিসেবে ঐতিহাসিক সূত্রে এসেছে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "হানতামাহ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56762,
+      "value": {
+        "options": {
+          "a": "নিজে সিদ্ধান্ত নিয়ে",
+          "b": "বোন ও ভগ্নিপতির প্রভাব থেকে",
+          "c": "নবী মুহাম্মদ (স)-এর নির্দেশে",
+          "d": "কেউ চাপ দিয়ে"
+        },
+        "question": "হযরত উমর (রা) কীভাবে ইসলাম গ্রহণ করেন?",
+        "solution": "সমাধান:\n১) হযরত উমর (রা) প্রথমে ইসলামের কঠোর বিরুদ্ধে ছিলেন; একবার তিনি নবী (স)-কে মেরে ফেলার সংকল্প নিয়ে বেরিয়েছিলেন এবং তার বোনের বাড়িতে গিয়ে কোরআনের পাঠ শুনতে পান।  \n২) বোন ও ভগ্নিপতির কোরআন পাঠ এবং তাদের সঙ্গে কথোপকথনে তার হৃদয় নরম হয়ে যায় এবং তিনি ইসলাম গ্রহণ করেন—অতএব সঠিক উত্তর হচ্ছে b।  \n৩) অন্য বিকল্পগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E শুধুই নিজে সিদ্ধান্ত নিয়ে—এটি আংশিক হলেও মূল কারণ নয়, \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E নবী (স)-এর নির্দেশে নয় এবং \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E কারো চাপেই নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56763,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "হযরত উমর (রা) ছিলেন একজন সাহসী যোদ্ধা।",
+        "solution": "সমাধান: হযরত উমর (রা) ইসলামের প্রথম যুগের একজন প্রত্যক্ষ সাহসী এবং দূরদর্শী ব্যক্তিত্ব ছিলেন; তিনি নবীর সময় বিভিন্ন যুদ্ধে সাহসিকতার পরিচয় দিয়েছেন ও ক্যালিফ থাকাকালীন কঠোরতার সঙ্গে প্রশাসনিক ও বিচারিক কর্তব্য পালন করেছেন। ঐতিহাসিক সূত্রে বেদর, উপহুদ ও অন্যান্য অভিযানে তার সাহস ও নেতৃত্বের উল্লেখ আছে, তাই বিবৃতিটি সত্য। সুতরাং সঠিক উত্তর: a (True); বিকল্প b ভুল কারণ তা ঐতিহাসিক তথ্যের পরিপন্থী।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56764,
+      "value": {
+        "options": {
+          "a": "নিজের ভাইকে",
+          "b": "ছেলে আবু শাহমাকে",
+          "c": "বেনামী ব্যক্তিকে",
+          "d": "এক ক্রীতদাসকে"
+        },
+        "question": "হযরত উমর (রা) একবার __________ শাস্তি দিয়েছিলেন।",
+        "solution": "সমাধান:\n1) ধরণ নির্ণয়: প্রশ্নটি ঐতিহাসিক একটি ঘটনার কথা জানাচ্ছে — হযরত উমর (রা) কখনো ন্যায়বিচারে পরিবারকে ছাড় দেননি এই মূল নীতির ওপর ভিত্তি করে বিচার করবো।  \n2) সূত্র ও সিদ্ধান্ত: পরিচিত ইতিহাসে একটি উল্লেখযোগ্য ঘটনা আছে যেখানে তিনি নিজের ছেলে আবু শাহমাকে শাস্তি দিয়েছিলেন, ফলে সঠিক উত্তর হচ্ছে বিকল্প b — ছেলে আবু শাহমা।  \n3) অন্যান্য বিকল্পের সংক্ষিপ্ত প্রত্যাহার: (a) নিজের ভাইকে, (c) বেনামী ব্যক্তিকে এবং (d) এক ক্রীতদাসকে সংশ্লিষ্ট প্রসঙ্গে যে বিশেষ ও প্রসিদ্ধ ঘটনাটি প্রশ্নে বোঝানো হয়েছে সেটির সাথে সম্পর্কিত না হওয়ায় তারা ভুল।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56765,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা)-এর বিচার ব্যবস্থা কেমন ছিল?",
+        "solution": "সমাধান: প্রথমত ঐতিহাসিক সূত্র ও বর্ণনা থেকে দেখা যায় হযরত উমর (রা)-এর বিচার প্রণালি ছিল সাক্ষ্যভিত্তিক, আইনের সাম্যনীতি মেনে ও কর্তব্যপরায়ণভাবে পরিচালিত। দ্বিতীয়ত তিনি সরকারি কর্মকর্তাদের বিচারে হিসাব-নিকাশ রাখতেন এবং ব্যক্তিগত ভক্তি-দ্বেষকে বাদ দিয়ে সিদ্ধান্ত নিতেন, তাই বিচার প্রক্রিয়া স্বচ্ছ ও নিরপেক্ষ ছিল। অতএব উপসংহার: বিচার ছিল \"নিরপেক্ষ ও নিখুঁত\"। অন্য বিকল্পগুলো (যেমন পক্ষপাতদুষ্ট বা দুর্নীতিপূর্ণ) ঐতিহাসিক বাস্তবতার সঙ্গে মিলিত নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "নিরপেক্ষ ও নিখুঁত"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56766,
+      "value": {
+        "options": {
+          "a": "কঠোর",
+          "b": "দানবিক",
+          "c": "মানবদরদি",
+          "d": "নির্লিপ্ত"
+        },
+        "question": "হযরত উমর (রা) কেমন শাসক ছিলেন?",
+        "solution": "সমাধান:\nStep 1: ঐতিহাসিক সূত্র ও রিপোর্ট অনুযায়ী হযরত উমর (রা) ছিলেন ন্যায়পরায়ণ এবং জনগণের কল্যাণে অত্যন্ত উদ্বিগ্ন — তিনি সুষ্ঠু আদালত, জনকল্যাণমূলক ব্যবস্থা ও দুর্নীতির বিরুদ্ধে কড়া পদক্ষেপ গ্রহণ করতেন।  \nStep 2: এসব গুণের ভিত্তিতে প্রদত্ত বিকল্পগুলোর মধ্যে সবচেয়ে উপযুক্ত বর্ণনা হলো \"মানবদরদি\" — তিনি কঠোর হলেও দয়াশীল ও জনগণের প্রতি সহানুভূতিশীল ছিলেন।  \nসঠিক উত্তর: c: মানবদরদি  \nঅন্যান্য বিকল্পগুলি কেন ভুল: a (কঠোর) আংশিকভাবে ঠিক—কিন্তু সম্পূর্ণই কঠোর ছিলেন না; b (দানবিক) এবং d (নির্লিপ্ত) ইতিহাসগতভাবে অসঙ্গত ও ভুল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56767,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "হযরত উমর (রা) জনগণের দুঃখ-কষ্টের জন্য গভীর রাতে ঘুরে বেড়াতেন।",
+        "solution": "সমাধান:\nধাপ ১: দাবিটি মূল্যায়ন করতে ঐতিহাসিক ও নৈতিক সূত্র দেখা দরকার — আগ্রিম ইসলামী ইতিহাসে হযরত উমর (রা)-এর পাকিচার্য ও ছিল জনগণের কল্যাণে নজর রাখার জন্য রাতে গোপনে শহর পরিদর্শন করার বহু প্রসিদ্ধ বর্ণনা পাওয়া যায়।  \nধাপ ২: এই ব্যাখ্যা থেকে ব্যাখ্যাযোগ্য যে তিনি গভীর রাতে জনগণের দুঃখ‑কষ্ট জানার জন্য বের হতেন যাতে ন্যায্যতা ও সহায়তা নিশ্চিত করতে পারেন।  \nউপসংহার: তাই বিবৃতি সঠিক — সঠিক উত্তর: a; বিকল্প b ভুল কারণ তা ঐতিহাসিক বিবরণে উল্টোভাবে বিবেচিত হয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56768,
+      "value": {
+        "options": {
+          "a": "তৃতীয়",
+          "b": "দ্বিতীয়",
+          "c": "পঞ্চম",
+          "d": "প্রথম"
+        },
+        "question": "হযরত উমর (রা) __________ খলিফা হিসেবে কাজ করেছেন।",
+        "solution": "সমাধান: নবী করিম (সা.)-এর পর প্রথম খলিফা ছিলেন হজরত আবু বকর (রা) [math]632–634[/math] এবং তার পরে হজরত উমর (রা) [math]634–644[/math] পর্যন্ত খলিফা হিসেবে কাজ করেছেন। তাই হজরত উমর (রা) ছিলেন দ্বিতীয় খলিফা — সঠিক উত্তর: b। বাকি অপশনগুলির মধ্যে তৃতীয় খলিফা ছিলেন হজরত উসমান (রা) এবং চতুর্থ ছিলেন হজরত আলী (রা), তাই (a), (c) ও (d) সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56769,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা) মুক্তি দানে কিভাবে উদাহরণ স্থাপন করেন?",
+        "solution": "সমাধান:\nধাপ ১: تاریخی প্রেক্ষাপট থেকে জানা যায় যে হযরত উমর (রা) উদ্ধারের ক্ষেত্রে নেতৃত্ব প্রদর্শন করতে ব্যক্তিগতভাবে উদাহরণ স্থাপন করতেন — তিনি এক ক্রীতদাসকে মুক্তি দেওয়ার পরে ক্রীতদাসের সঙ্গে উটের পিঠে যেতে উদ্যত হন যাতে সমাজে অনুরূপ আচরণ উদ্বুদ্ধ হয়।  \nধাপ ২: এই কাজটি স্পষ্টভাবে নির্দেশ করে যে তিনি কেবল আদেশ দিয়ে নয়, নিজে অংশগ্রহণ করে নৈতিক ও সামাজিক পরিবর্তনের পথ দেখাতেন; তাই প্রদত্ত правиль উত্তরটি \"এক ক্রীতদাসের সাথে উটের পিঠে যেতে উদ্যোগী হয়ে\"।  \nঅন্যান্য সম্ভাব্য বিকল্প (যেমন কেবল অর্থ প্রদান বা শুধুমাত্র আদেশে মুক্তি দেওয়া) এই বিশেষ উদ্যোগের মতো সরাসরি ব্যক্তিগত উদাহরণ প্রদর্শন করে না, তাই সেগুলো সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "এক ক্রীতদাসের সাথে উটের পিঠে যেতে উদ্যোগী হয়ে"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56770,
+      "value": {
+        "options": {
+          "a": "৬৪৪",
+          "b": "৬০০",
+          "c": "৬৫০",
+          "d": "৬৩০"
+        },
+        "question": "কোন বছরের মধ্যে হযরত উমর (রা) মৃত্যুবরণ করেন?",
+        "solution": "সমাধান: ঐতিহাসিক সূত্রানুযায়ী হযরত উমর (রা.) খিলাফতে আসেন খ্রিস্টাব্দ [math]634[/math] সালে এবং প্রায় [math]10[/math] বছর শাসন করার পর তিনি নিহত হন। তাই মারা যাওয়ার সালটি গণনাযোগ্য: [math]634 + 10 = 644[/math]। ফলে সঠিক উত্তর হচ্ছে a: ৬৪৪। অন্যান্য অপশনগুলো ভুল কারণ [math]600[/math] ও [math]630[/math] তার খিলাফতের সময়ের অনেক আগে এবং [math]650[/math] তার মৃত্যুর পরে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56771,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "হযরত উমর (রা) ইসলাম প্রচারে তার সম্পদ বিলিয়ে দেন।",
+        "solution": "সমাধান: সঠিক উত্তর — a (True).\n\nধাপ ১: ঐতিহাসিক সূত্র ও হাদিসে উল্লেখ আছে যে হযরত উমর (রা) ইসলাম প্রচারে তাঁর ব্যক্তিগত সম্পদ ফয়সালা ও জনসেবায় ব্যবহার করতেন — উদাহরণস্বরূপ তিনি যুদ্ধসময়ে সৈন্যদের অর্থ সহযোগিতা, মসজিদের বা স্বাস্থ্য/সামাজিক কাজের জন্য তহবিল দান করেছেন।  \nধাপ ২: তিনি সরকারি ভাতা নিতে কমই উৎসাহী ছিলেন এবং প্রয়োজন হলে নিজের সম্পদ থেকে খরচ করে মুসলিম উম্মাহকে সাহায্য করতেন; তাই বলা যায় যে তিনি ইসলাম প্রচারে তাঁর সম্পদ বিলিয়ে দিয়েছিলেন।  \n\nঅতএব \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E সঠিক এবং \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E ভুল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56772,
+      "value": {
+        "options": {
+          "a": "শ্রদ্ধা করতেন",
+          "b": "ঘৃণা করতেন",
+          "c": "ভয় পেতেন",
+          "d": "সম্পর্ক রাখতেন"
+        },
+        "question": "হযরত উমর (রা)-এর মহানুভবতার জন্য লোকজন __________।",
+        "solution": "সমাধান:\nধাপ ১: ঐতিহাসিক বিবরণ থেকে জানা যায় যে হযরত উমর (রা) ছিলেন মহানুভব, ন্যায়পরায়ণ ও সৎ নেতা; তাই সাধারণ মানুষ তার প্রতি সম্মান দেখাত।  \nধাপ ২: তাই সবচেয়ে উপযুক্ত উত্তর হলো বিকল্প a — \"শ্রদ্ধা করতেন\"।  \nঅন্য বিকল্পগুলো ভুল কারণ \"ঘৃণা করতেন\" ও \"ভয় পেতেন\" নেতিবাচক ব্যাখ্যা এবং \"সম্পর্ক রাখতেন\" খুব সাধারণ ও অসুস্পষ্ট; ইতিহাস থেকে মানুষের অনুভূতি শ্রদ্ধাভাজন হওয়াই প্রতিষ্ঠিত।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56773,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা) জনগণের প্রতি কীভাবে সহানুভূতিশীল ছিলেন?",
+        "solution": "সমাধান: \n\nStep 1: ইতিহাসগত বিবরণ থেকে জানা যায় যে হযরত উমর (রা) জনসাধারণের সমস্যা স্বক্ষাৎ অনুভব করতে এবং তাদের অবস্থার প্রকৃত অবস্থা জানতে নিজে লোকালয়ে যেতেন।  \nStep 2: তিনি দূরবর্তী অঞ্চলগুলোতে গিয়ে দরিদ্র ও দুঃস্থদের দেখতেন, তাদের কথা শুনতেন এবং সরাসরি তদারকি করে সমস্যার সমাধান করতেন।  \nStep 3: তাই সবচেয়ে উপযুক্ত উত্তর হলো — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দূরবর্তী এলাকায় গিয়ে তাদের দুঃখ দেখার চেষ্টা করে। অন্যান্য বিকল্পগুলো (যেমন শুধু প্রাতিষ্ঠানিক রিপোর্ট পড়া বা আদালতে বসে আদেশ দেয়া) সংবেদনশীলতা ও বাস্তব দুঃখ বোঝার দিক থেকে অসম্পূর্ণ বা অপ্রতুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "দূরবর্তী এলাকায় গিয়ে তাদের দুঃখ দেখার চেষ্টা করে"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56774,
+      "value": {
+        "options": {
+          "a": "আল ফারুক",
+          "b": "দ্বিতীয় খলিফা",
+          "c": "মহান নেতা",
+          "d": "সাহাবা"
+        },
+        "question": "হযরত উমর (রা) কে উপাধি কি দেওয়া হয়েছিল?",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ:\n1) ইতিহাস থেকে জানা যায় হযরত উমর (রা)-কে ইসলামী ঐতিহ্যে বিশেষ উপাধি হিসেবে \"\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E আল-ফারুক\" বলা হয়েছে, যার অর্থ সত্য ও মিথ্যার মধ্যে পার্থক্যকারী।  \n2) তাই মূল উপাধি ছিল \"আল-ফারুক\", যা প্রশ্নের বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a)–এ আছে।  \n3) অন্য বিকল্পগুলো ভুল কারণ: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (b) \"দ্বিতীয় খলিফা\" তার পদবী বা রং rather than বিশেষ উপাধি, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (c) \"মহান নেতা\" সাধারণ বর্ণনা, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (d) \"সাহাবা\" তার দল বা সম্মানসূচক শ্রেণি—কোনোটিই নির্দিষ্ট উপাধি নয়।  \nঅতএব শুদ্ধ উত্তর: a (আল ফারুক).",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56775,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "হযরত উমর (রা) কখনো আদেশের বাইরে গিয়েছিলেন।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নের বক্তব্যটি বোঝা—“হযরত উমর (রা) কখনো আদেশের বাইরে গিয়েছিলেন” বলতে বলা হয়েছে যে তিনি শরীয়ত বা নির্দেশ থেকে বিচ্যুত হয়েছেন।  \nধাপ ২: ঐতিহাসিক সূত্র ও সীরাত অনুযায়ী হযরত উমর (রা) কোরআন ও সুন্নাহকে মাপকাঠি করে বিচার ও প্রশাসন করেছেন এবং সাধারণত শরীয়তের সীমার মধ্যে থেকেই সিদ্ধান্ত গ্রহণ করেছেন।  \nধাপ ৩: ফলে উক্ত বক্তব্যটি মিথ্যা, সুতরাং সঠিক উত্তর হলো b (False); a (True) ভুল কারণ তা ঐতিহাসিক দলিলের বিপরীত বক্তব্য দেয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56776,
+      "value": {
+        "options": {
+          "a": "কাপড়",
+          "b": "নগদ",
+          "c": "সোনা",
+          "d": "ভূমি"
+        },
+        "question": "প্রশ্নটি ছিল বায়তুল মাল থেকে প্রাপ্ত __________।",
+        "solution": "সমাধান:\nবায়তুল মাল হলো মুসলিম সমাজের কল্যাণের জন্য স্থাপিত পবিত্র তহবিল যেখানে দরিদ্রদের জন্য বিভিন্ন সহায়তা রাখা হয়। ধাপ ১: বায়তুল মাল থেকে সাধারণত দরিদ্র ও অসহায়দের পোষাক, খাদ্য ও অন্যান্য জীবনযাত্রার উপকরণ প্রদান করা হয়। ধাপ ২: তাই প্রাসঙ্গিক পূর্ণাঙ্গ উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E — কাপড়। কারণ নগদ, সোনা বা ভূমি মাঝে মাঝে তহবিলে থাকতে পারলেও প্রশ্ন অনুযায়ী সরাসরি বিতরণযোগ্য এবং সাধারণত প্রদেয় সাহায্য হিসেবে \"কাপড়\"ই সঠিক বিকল্প।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56777,
+      "value": {
+        "options": [],
+        "question": "হযরত উমর (রা) অদৃশ্য স্থানে কীভাবে ঘুমিয়েছিলেন?",
+        "solution": "সমাধান:\n1) প্রশ্নের অর্থ হলো হযরত উমর (রা) যে অদৃশ্য বা লুকোনো স্থানে বিশ্রাম করেছিলেন তা কীভাবে ছিল—এখানে প্রাসঙ্গিক ঐতিহ্যগুলো খোঁজলে জানা যায় তিনি বাইরে, গোপনভাবে বিশ্রাম করেছিলেন।  \n2) জনপ্রচলিত বর্ণনা অনুযায়ী তিনি \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E খেজুর গাছের ছায়ায় ঘুমিয়েছিলেন কারণ সেখানে আড়ালও ছিল ও ছায়াও মিলছিল।  \n3) অন্যান্য সম্ভাব্য বিকল্পগুলো (যেমন মসজিদের মধ্যে, উটের উপর কিংবা খোলা মাটিতে) অদৃশ্য বা গোপন থাকার দিক থেকে খেজুর গাছের ছায়ার মতো আড়াল ও নিরাপত্তা দেয় না—তাই সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E খেজুর গাছের ছায়ায়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "খেজুর গাছের ছায়ায়"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56778,
+      "value": {
+        "options": {
+          "a": "শিক্ষিত ও সৎ",
+          "b": "অশিক্ষিত ও দুষ্ট",
+          "c": "অবজ্ঞাত",
+          "d": "অবিবাহিত"
+        },
+        "question": "হযরত উমর (রা) কেমন ধরনের চরিত্রের অধিকারী ছিলেন?",
+        "solution": "সমাধান: হযরত উমর (রা) ছিলেন জ্ঞানে পরিব্যাপ্ত, ন্যায়পরায়ণ ও সৎ চরিত্রের অধিকারী, তাই বৈধ ভাবে তিনি “শিক্ষিত ও সৎ” হিসেবে পরিচিত ছিলেন। তিনি দায়িত্বশীল শাসনকর্তা ছিলেন এবং ইসলামের নীতির প্রতি সততার সঙ্গে কাজ করেছেন; এই বৈশিষ্ট্যগুলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E অপশনের সঙ্গে মিলে যায়। অন্যান্য অপশনগুলো ভুল — (b) তিনি অশিক্ষিত ও দুষ্ট ছিলেন না, (c) “অবজ্ঞাত” অর্থাৎ গুরুত্বহীন/অজ্ঞাত হিসাবে বর্ণনা করা যায় না, এবং (d) তিনি অবিবাহিত ছিলেন না। সঠিক উত্তর: a",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56779,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "হযরত উমর (রা) ইসলাম ধর্ম গ্রহন করেছিলেন দেরীতে।",
+        "solution": "সমাধান:\nধাপ ১: \"দেরীতে\" বলতে বোঝায় প্রথম থেকেই বা প্রাথমিক দলে থাকা না—কয়েকজন প্রথম মুসলিম যেমন খাদিজা, আলী ও আবু বকর ছিলেন অত্যন্ত প্রাথমিকভাবে ইসলাম গ্রহণকারী।  \nধাপ ২: হযরত উমর (রা) প্রথমে ইসলামের বিরোধিতা করলেও পরে (কিছু সময় পর) ইসলামে এসে শরীক হন; ঐতিহাসিক সূত্রে দেখা যায় তিনি প্রথম দলে ছিলেন না বরং পরবর্তীতে ইসলাম গ্রহণ করেছিলেন।  \nফলাফল: অতএব বিবৃতিটি সঠিক—উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a: True)। বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (b: False) ভুল, কারণ ইতিহাসে উমর (রা) শুরুতেই নয়, পরে ইসলামে প্রবেশ করেছিলেন।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7387,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7387&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7387&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7387&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 145,
+  "total": 145
+}

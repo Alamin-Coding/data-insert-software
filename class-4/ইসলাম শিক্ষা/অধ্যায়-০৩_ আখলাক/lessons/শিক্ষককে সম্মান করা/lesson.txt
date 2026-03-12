@@ -1,0 +1,225 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746720,
+      "value": {
+        "options": {
+          "ক": "দাদা-দাদি",
+          "খ": "পড়ার সাথী",
+          "গ": "শিক্ষক",
+          "ঘ": "ডাক্তার"
+        },
+        "question": "আব্বা-আম্মার মতো আমাদের প্রকৃত মানুষরূপে কারা গড়ে তোলেন?",
+        "solution": "গ. শিক্ষক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746721,
+      "value": {
+        "options": {
+          "ক": "ন্যায় পথে",
+          "খ": "সৎ পথে",
+          "গ": "আল্লাহর পথে",
+          "ঘ": "অসৎ পথে"
+        },
+        "question": "শিক্ষক আমাদের কোন পথে চলতে নিষেধ করেন?",
+        "solution": "ঘ. অসৎ পথে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746722,
+      "value": {
+        "options": {
+          "ক": "বাঁকা পথে",
+          "খ": "সৎ পথে",
+          "গ": "নিজ পথে",
+          "ঘ": "অসৎ পথে"
+        },
+        "question": "শিক্ষক আমাদের শ্রদ্ধেয় ব্যক্তি। তারা আমাদের কোন পথে চলতে আদেশ করেন?",
+        "solution": "খ. সৎ পথে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746723,
+      "value": {
+        "options": {
+          "ক": "শিক্ষকের",
+          "খ": "নেতার",
+          "গ": "বন্ধুর",
+          "ঘ": "যেকোনো ব্যক্তির"
+        },
+        "question": "আমরা কার আদেশ উপদেশ মেনে চলব?",
+        "solution": "ক. শিক্ষকের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746724,
+      "value": {
+        "options": {
+          "ক": "রোগীর সেবা করা",
+          "খ": "শিক্ষককে সম্মান না করা",
+          "গ": "ইবাদত করা",
+          "ঘ": "শিক্ষককে সম্মান করা"
+        },
+        "question": "অসচ্চরিত্র মানুষকে বিপথগামী করে। উক্ত চরিত্র নিচের কোনটি?",
+        "solution": "খ. শিক্ষককে সম্মান না করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7332,
+      "created_at": "2025-11-27T09:42:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13465&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13465&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7332&grade=7&lesson=13465&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

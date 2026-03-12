@@ -1,0 +1,453 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747345,
+      "value": {
+        "options": {
+          "ক": "৫টি",
+          "খ": "৬টি",
+          "গ": "৭টি",
+          "ঘ": "৮টি"
+        },
+        "question": "সূর্যকে কেন্দ্র করে কয়টি গ্রহ বিভিন্ন কক্ষপথে ঘুরছে?",
+        "solution": "ঘ. ৮টি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747346,
+      "value": {
+        "options": {
+          "ক": "শনি",
+          "খ": "নেপচুন",
+          "গ": "চাঁদ",
+          "ঘ": "পৃথিবী"
+        },
+        "question": "নিচের কোনটি সৌরজগতের গ্রহ নয়?",
+        "solution": "গ. চাঁদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747347,
+      "value": {
+        "options": {
+          "ক": "বুধ",
+          "খ": "পৃথিবী",
+          "গ": "মঙ্গল",
+          "ঘ": "নেপচুন"
+        },
+        "question": "সৌরজগতের কোন গ্রহে জীবন সম্ভব হয়েছে?",
+        "solution": "খ. পৃথিবী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747348,
+      "value": {
+        "options": {
+          "ক": "তারা",
+          "খ": "শুকতারা",
+          "গ": "সন্ধ্যাতারা",
+          "ঘ": "গ্যালাক্সি"
+        },
+        "question": "সন্ধ্যায় পশ্চিম আকাশে শুক্র গ্রহকে কী হিসেবে দেখা যায়?",
+        "solution": "গ. সন্ধ্যাতারা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747349,
+      "value": {
+        "options": {
+          "ক": "বুধ",
+          "খ": "শুক্র",
+          "গ": "ইউরেনাস",
+          "ঘ": "পৃথিবী"
+        },
+        "question": "সৌরজগতের সবচেয়ে উজ্জ্বল গ্রহ কোনটি?",
+        "solution": "খ. শুক্র",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747350,
+      "value": {
+        "options": {
+          "ক": "শুক্র",
+          "খ": "শনি",
+          "গ": "মঙ্গল",
+          "ঘ": "বৃহস্পতি"
+        },
+        "question": "কোন গ্রহের কোনো উপগ্রহ নেই?",
+        "solution": "ক. শুক্র",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747351,
+      "value": {
+        "options": {
+          "ক": "চাঁদ",
+          "খ": "পৃথিবী",
+          "গ": "গ্রহ",
+          "ঘ": "সূর্য"
+        },
+        "question": "নিচের কোনটির নিজের আলো আছে?",
+        "solution": "ঘ. সূর্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747352,
+      "value": {
+        "options": {
+          "ক": "বুধ ও শুক্র",
+          "খ": "মঙ্গল ও শনি",
+          "গ": "শনি ও নেপচুন",
+          "ঘ": "শুক্র ও মঙ্গল"
+        },
+        "question": "পৃথিবী সূর্যের অন্যতম একটি গ্রহ যা দুটি গ্রহের মাঝে অবস্থিত, গ্রহ দুটির নাম কী?",
+        "solution": "ঘ. শুক্র ও মঙ্গল",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747353,
+      "value": {
+        "options": {
+          "ক": "পূর্ব আকাশে",
+          "খ": "পশ্চিম আকাশে",
+          "গ": "উত্তর আকাশে",
+          "ঘ": "দক্ষিণ আকাশে"
+        },
+        "question": "শুকতারা দেখতে চাইলে তোমাকে আকাশের কোন দিকে তাকাতে হবে?",
+        "solution": "ক. পূর্ব আকাশে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747354,
+      "value": {
+        "options": {
+          "ক": "মঙ্গল",
+          "খ": "বৃহস্পতি",
+          "গ": "সূর্য",
+          "ঘ": "চাঁদ"
+        },
+        "question": "পৃথিবী নিচের কোনটিকে কেন্দ্র করে এর কক্ষপথে ঘুরছে?",
+        "solution": "গ. সূর্য",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747355,
+      "value": {
+        "options": {
+          "ক": "১ম",
+          "খ": "২য়",
+          "গ": "৩য়",
+          "ঘ": "৪র্থ"
+        },
+        "question": "আমরা পৃথিবী নামক গ্রহে বাস করি। সূর্য থেকে এর দূরত্ব কততম?",
+        "solution": "গ. ৩য়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7411&grade=7&lesson=13507&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7411&grade=7&lesson=13507&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7411&grade=7&lesson=13507&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 11,
+  "total": 11
+}

@@ -1,0 +1,3762 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 259040,
+      "value": {
+        "options": [],
+        "question": "গরমের দিনে — কৃষক পরিবারে খাওয়ার প্রচলন রয়েছে।",
+        "solution": "পান্তা",
+        "explanation": "আপনার প্রশ্নের খালি অংশটি বা বিকল্পগুলো না দিলে সঠিক উত্তর ও তার কারণ বলা সম্ভব হচ্ছে না। দয়া করে বাক্যে ভরাট শব্দটি বা অপশনগুলো দিন, তাহলে কেন সেটা সঠিক তা সংক্ষিপ্তভাবে ব্যাখ্যা করে দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259040,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259028,
+      "value": {
+        "options": [],
+        "question": "বর্তমানে অনেকেই বিশেষ করে কম বয়সী মেয়েরা — পরতে পছন্দ করে।",
+        "solution": "সালোয়ার-কামিজ",
+        "explanation": "কম বয়সী মেয়েরা সাধারণত জিন্স পরতে পছন্দ করে, কারণ জিন্স আরামদায়ক, চলাফেরায় সুবিধাজনক ও ফ্যাশনেবল; এটি বিভিন্ন অনুষ্ঠানে সহজে মানিয়ে যায়। পাশাপাশি মিডিয়া ও বন্ধুবৃন্দের প্রভাবও পশ্চিমী পোশাকপ্রণতি বাড়ায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259028,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259029,
+      "value": {
+        "options": [],
+        "question": "ছোট মেয়েদের অনেকেই ফ্রক এবং — পরে।",
+        "solution": "স্কার্ট",
+        "explanation": "ব্যাখ্যা: এখানে খালি স্থানে সাধারণত \"লেগিংস\" আসে, কারণ ছোট মেয়েরা ফ্রকের সাথে লেগিংস পরে — ফ্রক ছোট হওয়ায় নীচে কভার করার জন্য এবং চলাফেরায় আরামদায়ক হওয়ার জন্য লেগিংস ব্যবহার করা হয়। এটি বহুল প্রচলিত ও ব্যবহারিক আন্দর-বাহির পোশাকসংযোজন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259029,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259030,
+      "value": {
+        "options": [],
+        "question": "এখনও বিশেষ অনুষ্ঠানগুলোতে বেশির ভাগ মেয়েই — পরেন।",
+        "solution": "শাড়ি",
+        "explanation": "শাড়ি সঠিক কারণ: আমাদের সমাজে বিশেষ অনুষ্ঠান—বিবাহ, উৎসব ও আনুষ্ঠানিক সমাবেশগুলিতে শাড়ি ঐতিহ্যবাহী ও শোভনীয় পোশাক হিসেবে প্রচলিত। তাই বহু মেয়ে এখনও এসব অনুষ্ঠানে শাড়ি পরেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259030,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259031,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের পুরুষেরা গ্রামাঞ্চলে এবং বাড়িতে সাধারণত — পরেন।",
+        "solution": "লুঙ্গি",
+        "explanation": "ব্যাখ্যা: বাংলাদেশের গ্রামাঞ্চল ও বাড়িতে পুরুষরা সাধারণত লুঙ্গি পরেন কারণ এটি আরামদায়ক, হাওয়াযুক্ত এবং ঘরের কাজ-খাটিতে সহজে চলাফেরা করার উপযোগী। তাই গ্রামীণ ও গৃহস্থালি পরিবেশে লুঙ্গির ব্যবহার বেশি প্রচলিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259031,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259032,
+      "value": {
+        "options": [],
+        "question": "অফিসের কাজে পুরুষরা — পরেন।",
+        "solution": "শার্ট-প্যান্ট",
+        "explanation": "ব্যাখ্যা: \"শার্ট\" ঠিক কারণ অফিসে সাধারণত পুরুষরা কর্মস্থলে শার্ট পরেন; এখানে শার্ট একটি উপযুক্ত বস্ত্রের নাম যা ক্রিয়াপদ \"পরেন\"‑এর সঙ্গে মিলছে। এটি সাধারণ ব্যবহারের মিল এবং ব্যাকরণগত সামঞ্জস্য বজায় রাখে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259032,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259033,
+      "value": {
+        "options": [],
+        "question": "অনেকে বিশেষ অনুষ্ঠানে — পরেন।",
+        "solution": "পাঞ্জাবি-পায়জামা",
+        "explanation": "কারণ \"শাড়ি\" ঐতিহ্যবাহী পোশাক যা বিশেষ অনুষ্ঠানে সাধারণত পরা হয়, তাই বাক্যে সেটি উপযুক্ত বসে। এছাড়া \"পরেন\" ক্রিয়া পোশাক পরার ক্রিয়ার সঙ্গে মিলছে, ফলে \"অনেকে বিশেষ অনুষ্ঠানে শাড়ি পরেন।\" যথার্থ বাক্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259033,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259034,
+      "value": {
+        "options": [],
+        "question": "বয়স্ক হিন্দু পুরুষেরা আগে — পরতেন।",
+        "solution": "ধুতি",
+        "explanation": "ব্যাখ্যা: বয়স্ক হিন্দু পুরুষেরা আগে ধুতি পরতেন — ধুতি ছিল পুরুষদের প্রচলিত ঐতিহ্যবাহী নিম্নাংশের পোশাক যা কোমরে বেঁধে পরা হতো এবং গ্রামীণ ও ধর্মীয় অনুষ্ঠানে বিশেষভাবে প্রচলিত ছিল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259034,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259035,
+      "value": {
+        "options": [],
+        "question": "পুরুষ মুসলমানগণ ধর্মীয় অনুষ্ঠানে পায়জামা-পাঞ্জাবি ও — পরেন।",
+        "solution": "টুপি",
+        "explanation": "পুরুষ মুসলমানগণ ধর্মীয় অনুষ্ঠানে পায়জামা-পাঞ্জাবি ও টুপি পরেন কারণ টুপিসহ মাথা ঢাকা নামাজ এবং ধর্মীয় পরিবেশে ভক্তি ও বিনম্রতা প্রকাশ করে এবং ইসলামী শালীন পোশাকের অংশ হিসেবে পরিচিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259035,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259036,
+      "value": {
+        "options": [],
+        "question": "কথায় আছে ‘মাছে-ভাতে —’।",
+        "solution": "বাঙালি",
+        "explanation": "ব্যাখ্যা: এখানে শুদ্ধ পূরণ হচ্ছে \"রাজনীতি\" — কথাটি হচ্ছে \"মাছে-ভাতে রাজনীতি\"। এর অর্থ মানুষ প্রধানত তাদের জীবনযাত্রা ও রোজগারের বিষয়ে চিন্তিত, তাই রাজনীতি বা নীতিনির্ধারণও প্রায়ই মানুষের খাদ্য-জীবিকা ও দৈনন্দিন চাহিদার সঙ্গে সম্পর্কিত হয়ে ওঠে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259036,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259037,
+      "value": {
+        "options": [],
+        "question": "মাছ ও — আমাদের প্রধান খাবার।",
+        "solution": "ভাত",
+        "explanation": "ব্যাখ্যা: সঠিক শব্দটি \"ভাত\" কারণ বাংলা ভাষায় সাধারণত \"মাছ ও ভাত\" করে দুইটি প্রধান খাবার একসঙ্গে বলা হয়; বাক্যে \"মাছ ও\" রেখে দিলে অর্থ অসম্পূর্ণ থাকে, তেমনি \"ভাত\" যোগ করলে বাক্য পূর্ণ এবং অর্থবোধক হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259037,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259038,
+      "value": {
+        "options": [],
+        "question": "বিশেষ অনুষ্ঠানে আমরা সাধারণত পোলাও-মাংস, — এবং খিচুড়ি খাই।",
+        "solution": "বিরিয়ানি",
+        "explanation": "ব্যাখ্যা: \"দই\" সঠিক কারণ বিশেষ অনুষ্ঠানে পোলাও-মাংস সাধারণত দই বা মিষ্টি দিয়ে পরিবেশিত হয়, আর খিচুড়িও প্রায়ই দইয়ের সঙ্গে খাওয়া হয়; তাই তালিকায় দই যুক্ত করা প্রাসঙ্গিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259038,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259039,
+      "value": {
+        "options": [],
+        "question": "বৃষ্টির দিনে — খাওয়া বাঙালিদের সংস্কৃতিতে পরিণত হয়েছে।",
+        "solution": "খিচুড়ি",
+        "explanation": "ব্যাখ্যা: বৃষ্টির দিনে 'চা খাওয়া' বাঙালিদের মধ্যে জনপ্রিয় কারণ এটি ঠাণ্ডা ও ভেজা আবহাওয়া থেকে উত্তাপ ও স্বস্তি দেয় এবং আড্ডা-আলোচনার সুযোগ সৃষ্টি করে। সময়ের সঙ্গে এই আরামদায়ক ও সামাজিক অভ্যাসটি সংস্কৃতিগত রীতিতে পরিণত হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259039,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259027,
+      "value": {
+        "options": [],
+        "question": "শাড়ি বাংলাদেশের মেয়েদের — পোশাক।",
+        "solution": "ঐতিহ্যবাহী",
+        "explanation": "ব্যাখ্যা: শাড়ি বাংলাদেশের মেয়েদের প্রচলিত ও ঐতিহ্যবাহী পোশাক, যা দৈনন্দিন ও উৎসবসহ নানা অনুষ্ঠানে পরা হয়। শাড়ি একটি মোড়ানো কাপড় যা শরীর ঢেকে পরার উদ্দেশ্যে ব্যবহৃত হয়, তাই এটি স্পষ্টভাবে \"পোশাক\" শ্রেণীর মধ্যে পড়ে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259027,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259041,
+      "value": {
+        "options": [],
+        "question": "আমরা উৎসব অনুষ্ঠানে — খেতে ভালোবাসি।",
+        "solution": "মিষ্টি",
+        "explanation": "ব্যাখ্যা: সঠিক শব্দটি \"একসাথে\" কারণ উৎসব অনুষ্ঠানে সাধারণত সবাই মিলিত হয়ে খায় এবং \"একসাথে\" ক্রিয়ার কিভাবে করা হচ্ছে তা প্রকাশ করে। এটি আচরণের ক্রিয়া-বিশেষণ; তাই \"আমরা উৎসব অনুষ্ঠানে একসাথে খেতে ভালোবাসি।\" বাক্যটি স্বাভাবিক ও ব্যাকরণগতভাবে সঠিক হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259041,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259042,
+      "value": {
+        "options": [],
+        "question": "আমাদের মিষ্টি খাবারগুলো সাধারণত — তৈরি।",
+        "solution": "দুধের",
+        "explanation": "মিষ্টি খাবারগুলো সাধারণত \"চিনি দিয়ে\" তৈরি, কারণ চিনি খাবারকে মিষ্টি স্বাদ দেয় এবং ক্ষুদ্র পরিমাণে টেক্সচার ও রঙও বদলে মিষ্টিকে কাঙ্ক্ষিত স্বাদ ও গঠন দেয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259042,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259043,
+      "value": {
+        "options": [],
+        "question": "ঈদের দিনে সেমাই এবং শবেবরাতে — তৈরি হয়।",
+        "solution": "হালুয়া",
+        "explanation": "ব্যাখ্যা: ঈদ ও শবেবরাত উভয়ই উদযাপনের ও স্মরণীয় সময়, তাই অতিথি আপ্যায়ন এবং আনন্দের জন্য মিষ্টান্ন তৈরি করা হয়; সেমাই মিষ্টানের একটি উদাহরণ—এ কারণে বাক্যে 'মিষ্টি' বা 'মিষ্টান্ন' সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259043,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259044,
+      "value": {
+        "options": [],
+        "question": "বিভিন্ন পূজা ও উৎসবে হিন্দুরা পায়েস, — এবং মুড়কি তৈরি করেন।",
+        "solution": "নাড়ু",
+        "explanation": "সঠিক উত্তর: লাড্ডু। কারণ পায়েস, লাড্ডু ও মুড়কি হল হিন্দু উৎসবে প্রচলিত মিষ্টান্ন, এবং লাড্ডু সাধারণত আটা/রাইন/নারকেল, চিনি ও ঘি দিয়ে তৈরির হয়ে পূজায় ভোগ ও আলপনার সঙ্গে দেওয়া হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259044,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259045,
+      "value": {
+        "options": [],
+        "question": "বড়দিন উপলক্ষে খ্রিষ্টানরা অনেক রকম — তৈরি করেন।",
+        "solution": "পিঠা",
+        "explanation": "ব্যাখ্যা: শূন্যস্থানটিতে \"কেক\" সঠিক কারণ বড়দিনে খ্রিষ্টানরা বিভিন্ন ধরণের ক্রিসমাস কেক বানিয়ে খাওয়া ও বন্ধু-স্বজনের সঙ্গে ভাগ করে নেওয়া অনুষঙ্গ হিসেবে প্রচলিত। এই শব্দটি বাক্যে বসে এবং উৎসবের রীতি বর্ণনা করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259045,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259046,
+      "value": {
+        "options": [],
+        "question": "আমাদের জীবনে বিভিন্ন সময়ে অনেক রকম — হয়।",
+        "solution": "অনুষ্ঠান",
+        "explanation": "ব্যাখ্যা: সঠিক উত্তর 'ঘটনা'। কারণ বাক্যটি জীবনের বিভিন্ন সময়ে ঘটে যাওয়া নানা পরিবর্তন বা ঘটনার কথা বলছে, এবং 'ঘটনা' শব্দটি এমন ঘটমান বিষয়কে বোঝাতে সঠিকভাবে মিলে; ক্রিয়াপদ 'হয়'‑এর সঙ্গে 'ঘটনা' স্বাভাবিকভাবে ব্যবহার করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259046,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259047,
+      "value": {
+        "options": [],
+        "question": "লোকসংগীত বাংলাদেশের —।",
+        "solution": "প্রাণ",
+        "explanation": "লোকসংগীত বাংলাদেশের মৌখিক ও লোকজ সাংস্কৃতিক ঐতিহ্য। কারণ এগুলো সাধারণত গ্রামীণ জনগণের মধ্যেই মৌখিকভাবে প্রজন্মপরে সংরক্ষিত হয় ও তাদের দৈনন্দিন জীবন, বিশ্বাস, উৎসব ও শ্রমের অভিজ্ঞতা প্রতিফলিত করে, তাই এটি দেশের লোকজ ঐতিহ্যকে তুলে ধরে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259047,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259048,
+      "value": {
+        "options": [],
+        "question": "খেতে লাঙল দিতে দিতে — গান গায়।",
+        "solution": "কৃষকেরা",
+        "explanation": "কার্যক্রমে খেতে লাঙল দেওয়া যে ব্যক্তিই করে, তিনি হলেন \"কৃষক\", তাই খালি স্থানে \"কৃষক\" বসানো সঠিক। এই বাক্যে বিষয়টি (কৃষক) ক্রিয়া (লাঙল দিতে দিতে গান গায়)‑এর সঙ্গে যুক্ত হতে হবে যাতে অর্থ বোধগম্য ও মিল থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259048,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259049,
+      "value": {
+        "options": [],
+        "question": "নৌকা বাইতে বাইতে — গান গায়।",
+        "solution": "মাঝি",
+        "explanation": "এখানে অংশটি নির্দেশ করছে যে নৌকা যে ব্যক্তি বাইছেন, তিনি একই সঙ্গে গানও গাইছেন; তাই বিষয় হিসেবে তৃতীয় পুরুষ একবচন অর্থে \"সে\" ব্যবহার করা উচিত। ক্রিয়া \"গায়\" তৃতীয় ব্যক্তির একবচন রূপ হওয়ায় \"সে\" বসালে বিষয় ও ক্রিয়ার মিল থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259049,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259050,
+      "value": {
+        "options": [],
+        "question": "এক গ্রাম থেকে অন্য গ্রামে যেতে যেতে — গান গায়।",
+        "solution": "বাউলেরা",
+        "explanation": "সঠিক উত্তর: \"পাখি\"। কারণ বাক্যের ক্রিয়াপদ \"গান গায়\" এমন কৃত্য বোঝায় যা কোনো জীবিত কণ্ঠধারীর প্রযুক্ত, আর \"এক গ্রাম থেকে অন্য গ্রামে যেতে যেতে\" চলতে থাকা অবস্থায় গান গাওয়ার কাজটি সাধারণত পাখির সাথে মানায়, তাই কর্তা হিসেবে \"পাখি\" যোগ করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259050,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259051,
+      "value": {
+        "options": [],
+        "question": "জারি, সারি, বাউল, ভাটিয়ালি, ভাওয়াইয়া, গম্ভীরা আমাদের প্রধান —।",
+        "solution": "লোকসংগীত",
+        "explanation": "ব্যাখ্যা: জারি, সারি, বাউল, ভাটিয়ালি, ভাওয়াইয়া ও গম্ভীরা সবই বাংলার লোকজ গানের বিভিন্ন ধরন। এরা গ্রামীণ মৌখিক ঐতিহ্যভিত্তিক গান যা সামাজিক জীবন, ভক্তি ও কাহিনী বলায়—তাই এগুলো 'লোকসঙ্গীত' বা 'লোকগান'।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259051,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259052,
+      "value": {
+        "options": [],
+        "question": "গ্রামের মেলা আর অনুষ্ঠানগুলোতে যাত্রা, পালাগান, কীর্তন আর — গানের আসর বসে।",
+        "solution": "মুর্শিদি",
+        "explanation": "উত্তর: 'লোকগান'। যাত্রা, পালাগান ও কীর্তনের মতো গ্রামীন অনুষ্ঠানগুলোতে সাধারণত ঐতিহ্যবাহী ও জনজীবনের গান—অর্থাৎ লোকগান—ও পরিবেশিত হয়, তাই বাক্যে 'লোকগান' বসালে অর্থপূরক ও প্রাসঙ্গিক হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259052,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259026,
+      "value": {
+        "options": [],
+        "question": "আমাদের রাষ্ট্রভাষা —।",
+        "solution": "বাংলা",
+        "explanation": "ব্যাখ্যা: সঠিক উত্তর \"বাংলা\" কারণ বাংলাদেশের সংবিধানে বাংলা ভাষাকে রাষ্ট্রভাষা হিসেবে স্বীকৃতি দেওয়া হয়েছে। এর ফলে সরকারি কাজকর্ম, আইননীতি ও শিক্ষাসহ রাষ্ট্রীয় যোগাযোগে বাংলা প্রধান ভাষা হিসেবে ব্যবহৃত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259026,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259070,
+      "value": {
+        "options": [],
+        "question": "আমাদের সংস্কৃতি কেন তার ঐতিহ্য হারাতে বসেছে?",
+        "solution": "বিদেশি সংস্কৃতির প্রভাবে এবং দেশি সংস্কৃতি সংরক্ষণের অভাবে আমাদের সংস্কৃতি তার ঐতিহ্য হারাতে বসেছে।",
+        "explanation": "আমাদের সংস্কৃতি তার ঐতিহ্য হারাচ্ছে কারণ বিশ্বায়ন, শহরায়ণ ও আধুনিক জীবনযাত্রার কারণে নতুন মূল্যবোধ ও বিদেশি প্রভাব দ্রুত হচ্ছে, ফলে তরুণরা প্রচলিত রীতিনীতি ও ভাষা থেকে দুরে সরে যাচ্ছে। পাশাপাশি অর্থনৈতিক চাপ ও সুবিধাসাধনের ফলে লোকেরা আয়-উপযোগী বা আধুনিক আচরণ বেছে নেয়, যার ফলে ঐতিহ্যবাহী অনুশীলন, গান, প্রদর্শনী ও ভাষার চর্চা কমে আসে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259070,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259069,
+      "value": {
+        "options": [],
+        "question": "মিলন বাংলাদেশে বাস করে। মিলনের দেশের প্রধান লোকসংগীত কোনগুলো?",
+        "solution": "জারি, সারি, বাউল, ভাটিয়ালি, ভাওয়াইয়া, গম্ভীরা মিলনের দেশ বাংলাদেশের প্রধান লোকসংগীত।",
+        "explanation": "বাংলাদেশের প্রধান লোকসংগীতগুলোর মধ্যে বাউল, ভাটিয়ালি, ভাওয়াইয়া (ভাওয়া), মুর্শিদী এবং গোমভীরা—এগুলোর উল্লেখযোগ্য। এগুলো গ্রামীণ জীবন, নদী-নৌকা, ভক্তি ও সামাজিক জীবনকে কণ্ঠকরে তুলে ধরে এবং প্রজন্ম থেকে প্রজন্মে মুখে মুখে সংরক্ষিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259069,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259068,
+      "value": {
+        "options": [],
+        "question": "নানা আচার-অনুষ্ঠানে ভরপুর তোমাদের কী জীবন?",
+        "solution": "নানা আচার-অনুষ্ঠানে ভরপুর আমাদের সামাজিক ও ধর্মীয় জীবন।",
+        "explanation": "ব্যাখ্যা: নানা আচার-অনুষ্ঠানে ভরপুর বলতে বোঝায় জীবনে বহু রীতি-নীতি ও উৎসব থাকে, অর্থাৎ প্রতিনিয়ত পারিবারিক ও সামাজিক অনুষ্ঠান পালিত হয়। তাই এই জীবনকে বলা যায় \"ঐতিহ্যবাহী ও উৎসবমুখর\" — রীতি ও আনন্দে পরিপূর্ণ জীবন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259068,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259067,
+      "value": {
+        "options": [],
+        "question": "যেকোনো আনন্দ অনুষ্ঠান, আনন্দ সংবাদ তোমরা কী দিয়ে উদযাপন কর?",
+        "solution": "যেকোনো আনন্দ অনুষ্ঠান, আনন্দ সংবাদ আমরা সাধারণত মিষ্টি দিয়ে উদযাপন করি।",
+        "explanation": "ব্যাখ্যা: আমরা সাধারণত আনন্দের কোনো অনুষ্ঠান বা ভালো সংবাদ উদযাপন করতে মিষ্টি খাই, গান-বাজনা করি বা নাচ-গান করে আনন্দ ভাগ করে নেই। কারণ এসব কাজ আনন্দ প্রকাশ করার ও খুশি একে অপরের সাথে ভাগাভাগি করার সহজ ও পরিচিত উপায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259067,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259066,
+      "value": {
+        "options": [],
+        "question": "ভাতের সাথে তোমরা কী খাও?",
+        "solution": "ভাতের সাথে আমরা ডাল, মাছ, শাকসবজি এবং কখনো কখনো মাংস খেয়ে থাকি।",
+        "explanation": "ভাতের সাথে সাধারণত ডাল, তরকারি, মাছ বা ভাজা খাওয়া হয় কারণ ভাত প্রধানত শর্করা দেয় এবং এগুলো প্রোটিন, ভিটামিন ও রুচি যোগ করে। তাই এই মিলন ভোজনকে পুষ্টিকর ও স্বাদযুক্ত করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259066,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259065,
+      "value": {
+        "options": [],
+        "question": "গ্রামে ও ঘরে আমাদের দেশের পুরুষেরা প্রধানত কী পরে থাকে?",
+        "solution": "গ্রামে ও ঘরে আমাদের দেশের পুরুষেরা প্রধানত লুঙ্গি পরে থাকে।",
+        "explanation": "গ্রামে ও ঘরে আমাদের দেশের পুরুষেরা প্রধানত লুঙ্গি পরে থাকে। এটি গরম আবহাওয়ার জন্য আরামদায়ক এবং বাড়ি ও খেতে কাজ করতে সহজ হওয়ায় ঘরোয়া ও গ্রামীণ জীবনে লুঙ্গি বেশি প্রচলিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259065,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259064,
+      "value": {
+        "options": [],
+        "question": "সিফাত ঢাকার স্থায়ী বাসিন্দা। সিফাতের প্রধান খাদ্য কী?",
+        "solution": "সিফাতের প্রধান খাদ্য ভাত।",
+        "explanation": "ব্যাখ্যা: ঢাকায় ও বাংলাদেশের अधिकांश অঞ্চলে প্রধান খাদ্য হলো ভাত (চাল থেকে তৈরি), কারণ এটি প্রতিদিনের খাবারে সবচেয়ে বেশি খাওয়া হয় এবং প্রধান শক্তি সরবরাহকারী কার্বোহাইড্রেট।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259064,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259063,
+      "value": {
+        "options": [],
+        "question": "গ্রামের মেলায় বিভিন্ন ধরনের গানের আসর বসে। গ্রামের মেলায় কী কী গানের আসর বসে?",
+        "solution": "গ্রামের মেলায় পালাগান, কীর্তন, মুর্শিদি ইত্যাদি গানের আসর বসে।",
+        "explanation": "ব্যাখ্যা: গ্রামের মেলায় সাধারণত লোকগান, বাউল সংগীত, ভাওয়াইয়া বা পালাগান, কীর্তন ও নৃত্যসঙ্গীতের আসর বসে। কারণ মেলা গ্রামীন বিনোদন ও সাংস্কৃতিক উৎসব, তাই মানুষ তাদের প্রচলিত লোকসঙ্গীত ও পারফর্মেন্স উপস্থাপন করে সবাইকে আনন্দ ও ঐতিহ্য পরিচয় করিয়ে দেয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259063,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259062,
+      "value": {
+        "options": [],
+        "question": "তোমার বন্ধু পিটাররা বড়দিন উপলক্ষে বিভিন্ন ধরনের পিঠা তৈরি করেন। পিটাররা কোন ধর্মের অনুসারী?",
+        "solution": "পিটাররা খ্রিস্টান ধর্মের অনুসারী।",
+        "explanation": "ব্যাখ্যা: \"পিটার\" নামটি সাধারণত খ্রিস্টানদের মধ্যে প্রচলিত এবং বড়দিন হলো খ্রিষ্টধর্মের প্রধান উৎসব; তাই পিটাররা খ্রিস্টান ধর্মের অনুসারী।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259062,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259061,
+      "value": {
+        "options": [],
+        "question": "বিশেষ অনুষ্ঠানে আমরা বিশেষ খাবারের আয়োজন করে থাকি। এ বিশেষ খাবার বলতে কোন কোন খাবারকে বোঝানো হয়েছে?",
+        "solution": "বিশেষ খাবার বলতে পোলাও, মাংস, বিরিয়ানি, খিচুরি ইত্যাদিকে বোঝানো হয়েছে।",
+        "explanation": "বিশেষ খাবার বলতে সাধারণত দৈনন্দিনের তুলনায় অনুষ্ঠান বা উৎসবে বিশেষভাবে রাঁধা, বেশি সুস্বাদু বা মূল্যবান উপাদানযুক্ত খাদ্য বোঝায়। যেমন—মিষ্টান্ন (মিষ্টি, পায়েস, পিঠা), বিরিয়ানি, কোরমা/কাবাব, হালিম ইত্যাদি; এগুলো অতিথি আপ্যায়ন ও উৎসবের মর্যাদা বাড়াতে পরিবেশিত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259061,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259060,
+      "value": {
+        "options": [],
+        "question": "হায়দার খান বাংলাদেশে বাস করে। হায়দার খানের দেশের রাষ্ট্রভাষার নাম কী?",
+        "solution": "হায়দার খানের দেশের রাষ্ট্রভাষার নাম বাংলা।",
+        "explanation": "বাংলা। বাংলাদেশের সংবিধান বাংলা-কে রাষ্ট্রভাষা হিসেবে স্বীকৃতি দেয় এবং দেশের অধিকাংশ মানুষ কথ্য ও লিখিতভাবে বাংলা ব্যবহার করে, তাই হায়দার খানের দেশের রাষ্ট্রভাষা বাংলা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259060,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259059,
+      "value": {
+        "options": [],
+        "question": "আমাদের সংস্কৃতির জন্য কী কী হুমকি আছে?",
+        "solution": "আমাদের সংস্কৃতির জন্য সংরক্ষণের অভাব ও বিদেশি সংস্কৃতির প্রভাব হুমকিস্বরূপ।",
+        "explanation": "আমাদের সংস্কৃতির প্রধান হুমকিগুলো হলো বৈশ্বীকরণ ও পশ্চিমসংস্কৃতির আধিপত্য, ভাষা ও ঐতিহ্যের অবহেলা, আধুনিকতা ও প্রযুক্তির ত্বরান্বিত পরিবর্তন, এবং বাণিজ্যিকীকরণ ও গণমাধ্যমের প্রভাব। এসব হুমকি সংস্কৃতির নিত্য চলমান অনুশীলন ও পারস্পরিক انتقالকে দুর্বল করে দেয়—মানে লোকচর্চা, ভাষা ও মূল্যবোধ কম প্রচলিত হবে এবং বহির্ভূত ধারণা স্থানীয় রীতি-নীতি প্রতিস্থাপন করবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259059,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259058,
+      "value": {
+        "options": [],
+        "question": "লোকসংগীতের দুটি ধারার নাম লেখ।",
+        "solution": "লোকসংগীতের দুটি ধারা হলো- ১. জারি গান ও ২. মুর্শিদি গান।",
+        "explanation": "বাউল ও ভাটিয়ালি। ব্যাখ্যা: বাউল গান হলো আধ্যাত্মিক ও ভ্রমণশীল সাধারণ মানুষের গান যেগুলো মৌখিকভাবে প্রজন্ম থেকে প্রজন্মে চলে এসেছে, আর ভাটিয়ালি হলো নৌকায় কাজ করা মানুষের নদীমাতৃক জীবন ও অনুভূতির গান — তাই উভয়ই লোকসংগীতের পরিচিত ধারা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259058,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259057,
+      "value": {
+        "options": [],
+        "question": "উৎসবে আমরা কোন ধরনের মিষ্টি খাই?",
+        "solution": "উৎসবে আমরা দুধে তৈরি মিষ্টি খেতে ভালোবাসি। যেমন— দই, পায়েস, রসগোল্লা, চমচম, ক্ষীর ইত্যাদি।",
+        "explanation": "উৎসবে আমরা সাধারণত বিশেষ ও প্রচলিত মিষ্টি যেমন রসগোল্লা, সন্দেশ, জিলাপি, রসগোল বা লাড্ডু ইত্যাদি খাই। কারণ উৎসব আনন্দ ও সৌভাগ্য ভাগাভাগি করার উপলক্ষ; মিষ্টি আতিথেয়তা ও উদ্‌যাপনের প্রতীক হিসেবে পরিবেশন করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259057,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259056,
+      "value": {
+        "options": [],
+        "question": "বাঙালি সংস্কৃতির দুটি উপাদানের নাম লেখ ।",
+        "solution": "বাঙালি সংস্কৃতির দুটি উপাদান হলো- ১. বাংলা ভাষা ও ২. ঐতিহ্যবাহী পোশাক। যেমন- মেয়েদের শাড়ি এবং ছেলেদের লুঙ্গি।",
+        "explanation": "বাঙালি সংস্কৃতির দুটি মূল উপাদান হল ভাষা (বাংলা সাহিত্য ও ভাষা) এবং উৎসব (যেমন দুর্গাপূজা, পহেলা বৈশাখ)। ভাষা মানুষের চেতনা ও ঐতিহ্য সংরক্ষণ করে, আর উৎসব সামাজিক বন্ধন ও ধর্মীয়–সাংস্কৃতিক রীতিনীতিকে জীবন্ত রাখে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259056,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259055,
+      "value": {
+        "options": [],
+        "question": "আমরা সবাই — হলে আমাদের সংস্কৃতি রক্ষা করা সম্ভব হবে।",
+        "solution": "সচেতন",
+        "explanation": "ব্যাখ্যা: সঠিক শব্দটি \"একজোট\" — \"আমরা সবাই একজোট হলে আমাদের সংস্কৃতি রক্ষা করা সম্ভব হবে।\" একতা থাকলে সবাই মিলেমিশে ঐতিহ্য সংরক্ষণে কাজ করতে পারে এবং বাহ্যিক হুমকি থেকে সংস্কৃতিকে রক্ষা করা সহজ হয়ে ওঠে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259055,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259054,
+      "value": {
+        "options": [],
+        "question": "বিদেশি — প্রভাবে আমাদের দেশের সংস্কৃতি আজ বিপন্ন।",
+        "solution": "সংস্কৃতির",
+        "explanation": "বিদেশি প্রভাবের ফলে আমাদের ভাষা, পোশাক, খাদ্যাভ্যাস ও সামাজিক মূল্যবোধে দ্রুত পরিবর্তন আসে, ফলে লোকজ‑কলা ও ঐতিহ্য ধীরে ধীরে দুর্বল হয়ে পড়ে। টেলিভিশন, ইন্টারনেট ও বিজ্ঞাপন তরুণদের বিদেশি রীতি-নীতি গ্রহণে প্ররোচিত করে, যার ফলে সাংস্কৃতিক বৈচিত্র্য হারানোর ঝুঁকি বেড়ে যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259054,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259053,
+      "value": {
+        "options": [],
+        "question": "সংরক্ষণের অভাবে আমাদের — সংস্কৃতি হারিয়ে যাচ্ছে।",
+        "solution": "নিজস্ব",
+        "explanation": "ব্যাখ্যা: এখানে 'ঐতিহ্যবাহী' শব্দটি প্রাচীন ও প্রজন্মভিত্তিক সংস্কৃতি বোঝায়, যা সংরক্ষণের মাধ্যমে রক্ষা করা হয়; তাই সংরক্ষণের অভাবে ঠিক সেই ঐতিহ্যবাহী সংস্কৃতি হারিয়ে যাওয়াটাই ঠিক মানে হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259053,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259022,
+      "value": {
+        "options": [],
+        "question": "সংস্কৃতি হচ্ছে আমাদের প্রতিদিনের — ধরন।",
+        "solution": "জীবনযাপনের",
+        "explanation": "ব্যাখ্যা: সংস্কৃতি হলো মানুষের নিয়ম, রীতি ও মানসিকতা যা তার দৈনন্দিন আচরণ ও জীবনযাপন নির্ধারণ করে। তাই শুদ্ধ উত্তর হলো \"জীবনযাপনের\", কারণ সংস্কৃতি হচ্ছে আমাদের প্রতিদিনের জীবনযাপনের ধরন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259022,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259023,
+      "value": {
+        "options": [],
+        "question": "আমাদের দেশে বিভিন্ন জাতিগোষ্ঠী ও ধর্মের মানুষের নিজস্ব — রয়েছে।",
+        "solution": "সংস্কৃতি",
+        "explanation": "ব্যাখ্যা: বিভিন্ন জাতি ও ধর্মের মানুষের খাদ্যাভ্যাস, পোশাক, উৎসব, ভাষা ও জীবনধারা ভিন্ন; এসব মিলিয়ে যে রীতিনীতি ও ঐতিহ্য গঠিত হয় তাকেই \"সংস্কৃতি\" বলা হয়। এজন্য সঠিক উত্তর হলো \"সংস্কৃতি\"।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259023,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259024,
+      "value": {
+        "options": [],
+        "question": "ভাষার মাধ্যমে আমরা মনের — প্রকাশ করি।",
+        "solution": "ভাব",
+        "explanation": "ভাষা মূলত চিন্তা ও অনুভূতি প্রকাশের মাধ্যম, তাই আমরা আমাদের মনের ভাব ভাষার মাধ্যমে ব্যক্ত করি। শব্দ ও বাক্যের সাহায্যে ভেতরের ধারণা, অনুভূতি ও মনোভাব অন্যকে বুঝিয়ে দেয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259024,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 259025,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের বেশির ভাগ ক্ষুদ্র নৃ-গোষ্ঠীর নিজস্ব — রয়েছে।",
+        "solution": "মাতৃভাষা",
+        "explanation": "ব্যাখ্যা: বাংলাদেশের ক্ষুদ্র নৃ-গোষ্ঠীরা দীর্ঘ সময় ধরে স্বতন্ত্র সাংস্কৃতিক ও সামাজিক জীবনযাপন করে এসেছে, ফলে প্রত্যেক গোষ্ঠীর মধ্যে নিজস্ব ভাষা বা উপভাষা গড়ে উঠেছে। তাই বেশির ভাগ ক্ষুদ্র নৃ-গোষ্ঠীর নিজস্ব ভাষা রয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-08-18T11:58:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 259025,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:58:19.000000Z",
+            "updated_at": "2025-08-18T11:58:19.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746709,
+      "value": {
+        "options": {
+          "ক": "যাত্রাগান",
+          "খ": "পালাগান",
+          "গ": "কবিগান",
+          "ঘ": "লোকগান"
+        },
+        "question": "জারি, সারি ও বাউল কোন ধরনের গান?",
+        "solution": "ঘ. লোকগান",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746707,
+      "value": {
+        "options": {
+          "ক": "বাউল সংগীত",
+          "খ": "লোকসংগীত",
+          "গ": "গীত সংগীত",
+          "ঘ": "ফোক সংগীত"
+        },
+        "question": "কোনটিকে বাংলাদেশের প্রাণ বলা হয়?",
+        "solution": "খ. লোকসংগীত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746708,
+      "value": {
+        "options": {
+          "ক": "বাউলরা",
+          "খ": "সাধুরা",
+          "গ": "ফকিররা",
+          "ঘ": "মুসাফিররা"
+        },
+        "question": "এক গ্রাম থেকে অন্য গ্রামে যেতে যেতে কারা গান গায়?",
+        "solution": "ক. বাউলরা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746706,
+      "value": {
+        "options": {
+          "ক": "পোলাও",
+          "খ": "বিরিয়ানি",
+          "গ": "খিচুড়ি",
+          "ঘ": "পায়েস"
+        },
+        "question": "বৃষ্টির দিনে কোন খাবার খাওয়া বাঙালিদের সংস্কৃতিতে পরিণত হয়েছে?",
+        "solution": "গ. খিচুড়ি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746705,
+      "value": {
+        "options": {
+          "ক": "সেমাই",
+          "খ": "হালুয়া",
+          "গ": "পিঠা",
+          "ঘ": "পায়েস"
+        },
+        "question": "বড়দিনে খ্রিস্টানরা কী তৈরি করেন?",
+        "solution": "গ. পিঠা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746704,
+      "value": {
+        "options": {
+          "ক": "দুধ",
+          "খ": "নারিকেল",
+          "গ": "চাল",
+          "ঘ": "ঘি"
+        },
+        "question": "আমাদের মিষ্টি খাবারগুলো সাধারণত কী দিয়ে তৈরি করা হয়?",
+        "solution": "ক. দুধ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746703,
+      "value": {
+        "options": {
+          "ক": "মসলা",
+          "খ": "সবজি",
+          "গ": "টক",
+          "ঘ": "পনির"
+        },
+        "question": "খাবারকে সুস্বাদু করার জন্য আমরা কী ব্যবহার করি?",
+        "solution": "ক. মসলা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746702,
+      "value": {
+        "options": {
+          "ক": "সেমাই",
+          "খ": "মিষ্টি",
+          "গ": "পায়েস",
+          "ঘ": "হালুয়া"
+        },
+        "question": "শবেবরাতে কী তৈরি করা হয়?",
+        "solution": "ঘ. হালুয়া",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746701,
+      "value": {
+        "options": {
+          "ক": "মাংস ও ভাত",
+          "খ": "মাছ ও ভাত",
+          "গ": "ডাল ও ভাত",
+          "ঘ": "শাকসবজি ও ভাত"
+        },
+        "question": "আমাদের প্রধান খাবার কোনটি?",
+        "solution": "খ. মাছ ও ভাত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746700,
+      "value": {
+        "options": {
+          "ক": "ক্ষীর",
+          "খ": "নাড়ু",
+          "গ": "পিঠা",
+          "ঘ": "দই"
+        },
+        "question": "হিন্দুরা বিভিন্ন পূজা উপলক্ষে কী তৈরি করেন?",
+        "solution": "খ. নাড়ু",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746699,
+      "value": {
+        "options": {
+          "ক": "পোলাও",
+          "খ": "খিচুড়ি",
+          "গ": "পান্তা ভাত",
+          "ঘ": "বিরিয়ানি"
+        },
+        "question": "গরমের দিনে কৃষক পরিবারে নানারকম ভর্তা, ভাজি ও কাঁচামরিচ দিয়ে কী খাওয়ার প্রচলন রয়েছে?",
+        "solution": "গ. পান্তা ভাত",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:38:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746695,
+      "value": {
+        "options": {
+          "ক": "কামিজ",
+          "খ": "ফ্রক",
+          "গ": "শাড়ি",
+          "ঘ": "ওড়না"
+        },
+        "question": "বাংলাদেশের মেয়েদের ঐতিহ্যবাহী পোশাক কোনটি?",
+        "solution": "গ. শাড়ি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:37:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746696,
+      "value": {
+        "options": {
+          "ক": "শার্ট-প্যান্ট",
+          "খ": "লুঙ্গি",
+          "গ": "ফতুয়া",
+          "ঘ": "পাঞ্জাবি-পায়জামা"
+        },
+        "question": "বিশেষ অনুষ্ঠানে পুরুষেরা কী ধরনের পোশাক পরিধান করে?",
+        "solution": "ঘ. পাঞ্জাবি-পায়জামা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:37:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746698,
+      "value": {
+        "options": {
+          "ক": "ইংরেজি",
+          "খ": "বাংলা",
+          "গ": "উর্দু",
+          "ঘ": "সংস্কৃত"
+        },
+        "question": "বাংলাদেশের মুসলিম, হিন্দু, বৌদ্ধ, খ্রিষ্টানসহ সবাই কোন ভাষার মাধ্যমে একসূত্রে গাঁথা?",
+        "solution": "খ. বাংলা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:37:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746697,
+      "value": {
+        "options": {
+          "ক": "মনের ভাব",
+          "খ": "মনের কথা",
+          "গ": "মুখের ভাব",
+          "ঘ": "মুখের কথা"
+        },
+        "question": "ভাষার মাধ্যমে আমরা কী প্রকাশ করি?",
+        "solution": "ক. মনের ভাব",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-11-27T09:37:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57321,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের সংস্কৃতিতে কোন ধরনের গান গুরুত্বপূর্ণ?",
+        "solution": "সমাধান: ধাপ ১: বাংলাদেশের সাংস্কৃতিক ঐতিহ্যে গ্রামীণ জীবন, মৌখিক প্রচলন ও সাধারণ মানুষের অনুভূতির প্রকাশ সবচেয়ে বেশি দেখা যায়—এইসবকে তুলে ধরে চলে লোকসংগীত (যেমন বাউল, ভাটিয়ালি, লালন গান)। ধাপ ২: যে কারণে লোকসংগীত সমাজের বিস্তৃত অংশে প্রচলিত ও প্রভাবশালী, তাই এটিই সবচেয়ে গুরুত্বপূর্ণ। অতএব সঠিক উত্তর: লোকসংগীত; অন্য বিকল্পগুলো যেমন শাস্ত্রীয় বা আধুনিক পপ সীমিত শ্রোতাবর্গ বা সাম্প্রতিক নয় এমন ঐতিহ্যের কারণে তুলনায় প্রধান নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "লোকসংগীত"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57322,
+      "value": {
+        "options": {
+          "a": "ফাস্টফুড",
+          "b": "বিরিয়ানি",
+          "c": "স্যালাড",
+          "d": "সুপ"
+        },
+        "question": "বাঙালিরা বিশেষ অনুষ্ঠানগুলোতে কী খেতে অধিকাংশ পছন্দ করে?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে বিশেষ অনুষ্ঠানগুলোতে বাঙালিরা কোন খাবারটি বেশি পছন্দ করে তা জানতে বলা হয়েছে—সাধারণভাবে সাংস্কৃতিক ও সামাজিক অভ্যাস অনুসারে তাজা, সুগন্ধি ও ভিড়-আসরে পরিবেশনের উপযোগী একটি পদকে প্রধানতা দেওয়া হয়।  \nধাপ ২: বাংলার উৎসব ও খাওয়াদাওয়ায় ঐতিহ্যগতভাবে বিভিন্ন মসলা ও মাংস/মাছ যোগ করে বানানো ভুনা বা বিরিয়ানি প্রাধান্য পায়, তাই সাধারণ জ্ঞান ও অভিজ্ঞতার ভিত্তিতে উত্তর হবে বিরিয়ানি।  \n\nকারণবোধ: বিরিয়ানি প্রায়ই বিবাহ, জন্মদিন ও উৎসবে কেন্দ্রীয় থালার খাবার হিসেবে পরিবেশিত হয় — এটি উৎসবের স্বাদ ও মর্যাদা তুলে ধরে। অন্য বিকল্পগুলো অপ্রাসঙ্গিক কেন: ফাস্টফুড (a) সাধারণত দ্রুতস্বাদে এবং বাড়তি সহজতায় খাওয়া হয়, বিশেষ অনুষ্ঠানে কম প্রচলিত; স্যালাড (c) ও সুপ (d) সাধারণত সাইড বা শুরুতে দেয়া হয়, কেন্দ্রীয় উৎসবের প্রধান পদ নয়।  \n\nঅতএব সঠিক উত্তর: b (বিরিয়ানি)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57320,
+      "value": {
+        "options": {
+          "a": "ডেনিম জিন্স",
+          "b": "পায়জামা-পাঞ্জাবি",
+          "c": "ছোট প্যান্ট",
+          "d": "টিশার্ট"
+        },
+        "question": "বাংলাদেশের মুসলমানরা ধর্মীয় অনুষ্ঠানে __________ পরেন।",
+        "solution": "সমাধান:\nধর্মীয় অনুষ্ঠানে সাধারণত শিষ্টতা ও ধর্মীয় রীতিনীতি মেনে পরিধান করা হয়; বাংলাদেশে মুসলমানরা প্রথাগতভাবে পায়জামা-পাঞ্জাবি ব্যবহার করে। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পায়জামা-পাঞ্জাবি। অন্য বিকল্পগুলো (ডেনিম জিন্স, ছোট প্যান্ট, টিশার্ট) বেশি তেমন আনুষ্ঠানিক বা শালীন নয়, তাই ধর্মীয় অনুষ্ঠানে সাধারণভাবে পরিধেয় হিসেবে প্রাধান্য পায় না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57319,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শাড়ি বাংলাদেশের মেয়েদের ঐতিহ্যবাহী পোশাক।",
+        "solution": "সমাধান: ধাপ ১: প্রশ্নটি বিশ্লেষণ করে জানা যায় যে বিবৃতিটি হচ্ছে \"শাড়ি বাংলাদেশের মেয়েদের ঐতিহ্যবাহী পোশাক\"। ধাপ ২: সাংস্কৃতিক বাস্তবতা যাচাই করলে দেখা যায় বাংলাদেশে শাড়ি বহুদিন ধরে নারীদের প্রচলিত ও ঐতিহ্যগত পোশাক হিসেবে পরিধান করা হয়ে থাকে। ধাপ ৩: তাই বিবৃতিটি সঠিক—সঠিক উত্তর হলো a (True)। বিকল্প b (False) ভুল, কারণ শাড়ি ঐতিহ্যগত পোশাক হিসেবে স্বীকৃত।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57318,
+      "value": {
+        "options": {
+          "a": "রুটি",
+          "b": "মাছ ও ভাত",
+          "c": "পাস্তা",
+          "d": "স্যালাড"
+        },
+        "question": "বাংলাদেশের প্রধান খাবার কী?",
+        "solution": "সমাধান: ধাপে ধাপে বিশ্লেষণ করলে দেখা যায়—  \nপ্রথমত, বাংলাদেশের খাদ্যসংস্কৃতিতে ভাত মূল staple হিসেবে প্রতিদিন খাওয়া হয় এবং মাছ হল সাধারণ ও জনপ্রিয় প্রধান প্রোটিন উৎস।  \nদ্বিতীয়ত, তাই দেশের প্রচলিত প্রধান খাবারকে বর্ণনা করলে সেটা হচ্ছে \"মাছ ও ভাত\"। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E — মাছ ও ভাত। অন্যান্য অপশনগুলো (রুটি, পাস্তা, স্যালাড) সময়ে সময়ে খাওয়া হলেও জাতিগতভাবে ও দৈনন্দিনভাবে বাংলাদেশের প্রধান খাদ্য নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57338,
+      "value": {
+        "options": {
+          "a": "শহরে",
+          "b": "গ্রামে",
+          "c": "বিশেষ অনুষ্ঠানে",
+          "d": "স্কুলে"
+        },
+        "question": "বাংলাদেশের মেয়েরা কোথায় শাড়ি পরে?",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ:\n1. প্রশ্নে জিজ্ঞাসা করা হয়েছে সাধারণত বাংলাদেশের মেয়েরা কোথায় শাড়ি পরে — এখানে লক্ষ্য করতে হবে কোন স্থানটি সবচেয়ে সাধারণ ও নির্দিষ্ট আয়োজনের সঙ্গে সম্পর্কিত।  \n2. প্রতিটি অপশন যাচাই করলে দেখা যায়: শহরে এবং গ্রামে দু' জায়গায়ই শাড়ি পরা হয়, কিন্তু তা সর্বদা নয় (সাধারণত ঢিলেঢালেঞ্জ নয়); স্কুলে মেয়েদের প্রায়শই ইউনিফর্ম পড়ে, অতএব শাড়ি সাধারণ না। বিশেষ অনুষ্ঠানে (বিয়ে, উৎসব, সাংস্কৃতিক অনুষ্ঠান) শাড়ি পরার প্রচলন সবচেয়ে বেশি এবং তা স্পষ্টভাবে উপযোগী উত্তর।  \nউপসংহার: সঠিক উত্তর হলো c: বিশেষ অনুষ্ঠানে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57323,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "ভাত এবং মাছ বাঙালির প্রধান খাবার নয়।",
+        "solution": "সমাধান:\n1. প্রশ্নে বলা হয়েছে: \"ভাত এবং মাছ বাঙালির প্রধান খাবার নয়।\" এটি একটি সত্য/মিথ্যা বিবৃতি যেটির সত্যতা যাচাই করতে হবে।\n2. বাস্তবে বাংলার প্রধান খাদ্যসংস্কৃতিতে ভাত ও মাছই প্রধান ভোজ্য পদ; দৈনন্দিন খাবারে এবং ঐতিহ্যগতভাবে এগুলোই staples। তাই উক্ত বিবৃতি মিথ্যা।\n3. ফলে সঠিক উত্তর হলো b (False)। বিকল্প a (True) ভুল, কারণ তা বাস্তব খাদ্য習慣ের সঙ্গে মিলছে না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57324,
+      "value": {
+        "options": {
+          "a": "কেক",
+          "b": "সেমাই",
+          "c": "পাস্তা",
+          "d": "গ্রিল"
+        },
+        "question": "বাঙালিরা বিভিন্ন উৎসবে __________ তৈরি করে।",
+        "solution": "সমাধান: ধাপ ১: প্রশ্নে বলা আছে বাঙালিরা বিভিন্ন উৎসবে কী তৈরি করে—সাধারণ সাংস্কৃতিক জ্ঞানে দেখা যায় যে উৎসবে মিষ্টি পদ যেমন সেমাই প্রচলিত। ধাপ ২: প্রদত্ত বিকল্পগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"সেমাই\" সবচেয়ে উপযুক্ত। তাই সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E। অন্যান্য বিকল্পগুলো—\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কেক, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাস্তা, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গ্রিল—অধিকাংশ বাঙালি ঐতিহ্যগত উৎসবে সাধারণত প্রস্তুত করে না বা কম প্রচলিত।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57325,
+      "value": {
+        "options": [],
+        "question": "মূলত কোন পোশাককে বাংলাদেশের পুরুষদের ঐতিহ্যবাহী পোশাক বলা হয়?",
+        "solution": "সমাধান:\n1. প্রথম ধাপ: বাংলাদেশে পুরুষদের সাধারণভাবে পরিধেয় কয়েকটি পোশাক চিন্হিত করা — যেমন পায়জামা-পাঞ্জাবি, লুঙ্গি, শার্ট-প্যান্ট ইত্যাদি।  \n2. দ্বিতীয় ধাপ: ঐতিহ্যবাহী ও আনুষ্ঠানিক পরিধান হিসেবে কোন পোশাকটি বেশি প্রমাণিত হয় তা দেখা — ধর্মীয় ও সামাজিক অনুষ্ঠানে, পবিত্র দিনের কাউন্টেক্সটে এবং পারিবারিক/সামাজিক জমায়েতে সবচেয়ে বেশি পরিধান করা হয় পায়জামা-পাঞ্জাবি।  \n3. সিদ্ধান্ত: তাই বাংলাদেশের পুরুষদের ঐতিহ্যবাহী পোশাক হিসেবে সঠিক উত্তর হচ্ছে পায়জামা-পাঞ্জাবি।  \n\nব্যাখ্যা: লুঙ্গি ব্যাপকভাবে ব্যবহৃত হওয়া সত্ত্বেও তা সাধারণত গৃহস্থালী বা অনানুষ্ঠানিক পরিধান; শার্ট-প্যান্ট হল পাশ্চাত্য বহিরঙ্গন পোশাক। তাই আনুষ্ঠানিক এবং ঐতিহ্যবাহী অর্থে পায়জামা-পাঞ্জাবিই উপযুক্ত উত্তর।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "পায়জামা-পাঞ্জাবি"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57326,
+      "value": {
+        "options": {
+          "a": "নববর্ষ",
+          "b": "বাড়ির দাওয়াত",
+          "c": "ঈদ",
+          "d": "ধারণ"
+        },
+        "question": "বাঙালিরা কোন উৎসবে পায়েস তৈরি করে?",
+        "solution": "ধাপ ১: প্রশ্নটি পড়ে অপশনগুলো শনাক্ত করি — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E নববর্ষ, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বাড়ির দাওয়াত, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ঈদ, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ধারণ।  \nধাপ ২: সাংস্কৃতিক প্রেক্ষাপটে বাঙালিরা উল্লাসের সময় মিষ্টি হিসেবে পায়েস (কীড়/খির) তৈরি করে এবং এটি বিশেষ করে ঈদে প্রচলিত হওয়ায় সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ঈদ।  \nধাপ ৩: অন্যান্য অপশনগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E নববর্ষে সাধারণত ভিন্ন ধরনের রীতি (যেমন পান্তা ভাত), \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বাড়ির দাওয়াত সাধারণগত একটি পরিস্থিতি এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E প্রাসঙ্গিক নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57327,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "দেশের বিভিন্ন নৃ-গোষ্ঠীর নিজস্ব ভাষা নেই।",
+        "solution": "সমাধান:\nধাপ ১: বিবৃতিটি যাচাই করা—কথাটি বলেন যে দেশের বিভিন্ন নৃ-গোষ্ঠীর নিজস্ব ভাষা নেই। এটি ইতিহাস ও সমাজবিজ্ঞানের প্রমাণের বিপরীত, কারণ বিভিন্ন আদিবাসী ও নৃ-গোষ্ঠীর নিজস্ব ভাষা ও উপভাষা রয়েছে।  \nধাপ ২: উদাহরণ ও সিদ্ধান্ত—বাংলাদেশে চাকমা, মারমা, গারো, সাঁওতাল, তরাইয়া/কুড়ংঘা ইত্যাদি গোষ্ঠীর পৃথক ভাষা রয়েছে; তাই মূল বিবৃতিটি ভুল। অতএব সঠিক উত্তর হচ্ছে b (False)। a অপশনটি ভুল কারণ তা বাস্তবতার সঙ্গে মেলে না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57328,
+      "value": {
+        "options": {
+          "a": "জিন্স",
+          "b": "লুঙ্গি",
+          "c": "টিশার্ট",
+          "d": "ছোট প্যান্ট"
+        },
+        "question": "বাংলাদেশে ছেলেরা গ্রামে সাধারণত __________ পরেন।",
+        "solution": "সমাধান:\nধাপ ১: বাংলাদেশের গ্রামীণ অঞ্চলে আবহাওয়া গরম ও আর্দ্র; আরামদায়ক ও সহজ পোশাক জনপ্রিয় থাকে।  \nধাপ ২: ঐতিহ্য ও কাজের সুবিধার কারণে ছেলেরা গ্রামে সাধারণত লুঙ্গি পরেন। তাই সঠিক উত্তর হল b: লুঙ্গি।  \nবিঃদ্রঃ অন্যান্য অপশনগুলো ভুল কারণ জিন্স ও ছোট প্যান্ট সাধারণত শহর বা তরুণদের মাঝে বেশি দেখা যায় এবং টিশার্ট হল উপরের জামা, লুঙ্গির মতো গ্রামীণ নিচের পোশাক নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57329,
+      "value": {
+        "options": [],
+        "question": "বাঙালিরা কোন সময় বেশি পোলাও-মাংস খেতে পছন্দ করে?",
+        "solution": "সমাধান:\nStep 1: পোলাও-মাংস বাংলার প্রধান উৎসব ও অনুষ্ঠানের বিশেষ খাবার হিসেবে প্রচলিত — এটি খরচ, সময় ও প্রস্ততির কারণে সাধারণত প্রতিদিন প্রস্তুত করা হয় না।  \nStep 2: বিবাহ, ঈদ, জন্মদিন, গৃহপ্রবেশ ইত্যাদি বিশেষ অনুষ্ঠানগুলোতে ঘর-বাহিরে জমকালোভাবে পোলাও-মাংস সাজানো এবং পরিবেশন করা হয়।  \nStep 3: তাই সাংস্কৃতিক অভ্যাস ও বাস্তবতাকে মিলিয়ে সবচেয়ে সঠিক উত্তর হলো—বিশেষ অনুষ্ঠানগুলোতে।  \n\nঅন্য সম্ভাব্য সময়গুলো (যেমন দৈনন্দিন খাবার বা নিয়মিত নৈমিত্তিক সময়) তুলনায় কম সম্ভবপর কারণ সেগুলোতে সহজ ও সস্তা খাবার প্রাধান্য পায়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বিশেষ অনুষ্ঠানগুলোতে"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57330,
+      "value": {
+        "options": {
+          "a": "পিঠা",
+          "b": "আই scream",
+          "c": "মিষ্টি",
+          "d": "কেক"
+        },
+        "question": "বড়দিন উপলক্ষে খ্রিষ্টানরা কী ধরনের খাবার তৈরি করে?",
+        "solution": "সমাধান:\nধাপ 1: প্রশ্ন ও অপশনগুলো দেখলে পাওয়া যায় — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পিঠা, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E আই স্ক্রিম, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E মিষ্টি, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কেক।  \nধাপ 2: প্রশ্নে নির্ধারিত সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পিঠা, তাই উত্তর হচ্ছে পিঠা।  \nব্যাখ্যা: যদিও বড়দিনে কেকও বানানো হয়, এই প্রশ্নের কী অনুযায়ী দেওয়া সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (পিঠা); অন্য অপশনগুলো এখানে কীগতভাবে সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57331,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "হিন্দুরা ফাল্গুনে বিভিন্ন পিঠা তৈরি করে।",
+        "solution": "সমাধান:\n1) প্রশ্নের বিষয়টি সংস্কৃতি-সংক্রান্ত ধারণা—ফাল্গুন মাসে স্থানীয় উৎসব ও মিলনমেলায় খাদ্যপ্রস্তুতি সাধারণ।  \n2) বাংলার হিন্দু সম্প্রদায় ফাল্গুনের সময়ে (যেমন পহেলা ফাল্গুন, হলি প্রভৃতি উপলক্ষ্যে) বিভিন্ন প্রকার পিঠা ও স্থানীয় মিষ্টান্ন প্রস্তুত ও ভাগাভাগি করে, তাই বিবৃতি সঠিক।  \n3) ফলে সঠিক উত্তর হল (a) True; (b) False ভুল, কারণ উক্ত বিবৃতিটি বাস্তবে সত্য।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57332,
+      "value": {
+        "options": {
+          "a": "বিরিয়ানি",
+          "b": "খিচুড়ি",
+          "c": "মিষ্টি",
+          "d": "পোলাও"
+        },
+        "question": "আগস্ট মাসে __________ খাওয়া বাঙালিদের সংস্কৃতিতে পরিণত হয়েছে।",
+        "solution": "সমাধান:\nStep 1: প্রশ্নে বলা আছে আগস্ট মাসে কোন খাবার বাঙালির সংস্কৃতিতে পরিণত হয়েছে—এখানে বছরের নির্দিষ্ট মৌসুম ও ঐতিহ্য বিবেচনা করতে হবে।  \nStep 2: বাঙালি সংস্কৃতিতে বর্ষা ও সহজপাচ্য, সাশ্রয়ী খাবার হিসেবে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E খিচুড়ি বিশেষ পরিচিত; বিশেষভাবে বর্ষাকালে এবং পারিবারিক, স্মরণীয় দিনের খাবার হিসেবে খিচুড়ি প্রচলিত।  \nStep 3: অন্য অপশনগুলো—বিরিয়ানি ও পোলাও প্রধানত উৎসব-উৎসবের ভোজের খাবার, মিষ্টি সাধারণ মিষ্টানের ধরন; এগুলো আগস্ট মাসের বিশেষ সাংস্কৃতিক চিহ্ন নয়।  \nঅতএব সঠিক উত্তর: খিচুড়ি (b)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57333,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের সংস্কৃতি রক্ষায় আমরা কীভাবে সচেতন হতে পারি?",
+        "solution": "সমাধান:\n1) প্রথমে লক্ষ্য নির্ধারণ: সংস্কৃতি রক্ষা করা মানে ঐতিহ্য, ভাষা ও রীতি-নীতি সংরক্ষণ করা।  \n2) কেন শিক্ষা গ্রহণ কার্যকারী: শিক্ষা ও সচেতনতা মানুষকে সংস্কৃতির গুরুত্ব বুঝিয়ে দেয়, ফলে ঐতিহ্যকে মান্য করে পালন করা হয় এবং পরবর্তী প্রজন্মকে তা শেখানো যায়।  \n3) ফলাফল প্রদর্শন: যখন বিদ্যালয়, পরিবার ও সামাজিক প্রতিষ্ঠান সংস্কৃতি সম্পর্কে শিক্ষা দেবে, তখন অনুষ্ঠান পালনে, ভাষা রক্ষণে ও ঐতিহ্য সংরক্ষণে সক্রিয়তা বাড়বে—এটিই সরাসরি সংস্কৃতি রক্ষার উপায়।  \n4) অন্য উপায়গুলো (যেমন কেবল আইন প্রয়োগ বা এককালীন উৎসব) কার্যকর হলেও একমাত্র পর্যায়ে দীর্ঘমেয়াদে পর্যাপ্ত নয়; তাই শিক্ষা‑মুখী সচেতনতা সবচেয়ে স্থায়ী ও কার্যকর সমাধান।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "শিক্ষা গ্রহণ করে, সংস্কৃতির গুরুত্ব বুঝে"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57334,
+      "value": {
+        "options": {
+          "a": "লোকসংগীত",
+          "b": "রক গান",
+          "c": "পপ গান",
+          "d": "ক্লাসিক গান"
+        },
+        "question": "ক্ষেতে কাজ করার সময় কৃষকেরা কী ধরনের গান গায়?",
+        "solution": "সমাধান: ধাপ ১: প্রশ্নের প্রসঙ্গ লক্ষ্য করলে দেখা যায় যে মাঠে কাজ করার সময় গানগুলো সাধারণত শ্রমের তাল মেলাতে এবং বিনোদনের জন্য গান হয়।  \nধাপ ২: এই ধরনের প্রাকৃত ও সমাজজ তথ্যভিত্তিক সংগীত হলো লোকসংগীত, যা শহরের রক বা পপধারা বা শাস্ত্রীয় সঙ্গীতের মতো নয়।  \nধাপ ৩: তাই সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E লোকসংগীত। অন্যান্য বিকল্পগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E রক গান এবং \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পপ গান আধুনিক ও শহুরে, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ক্লাসিক গান সাধারণত মাঠে কাজের পরিবেশের সাথে মানায় না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57335,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাংলাদেশে বিভিন্ন ধর্মের সংস্কৃতি মিলে একটি সংস্কৃতি তৈরি হয়েছে।",
+        "solution": "সমাধান: প্রশ্নে বলা হয়েছে যে বাংলাদেশে বিভিন্ন ধর্মের সংস্কৃতি মিলে একটি সংস্কৃতি সৃষ্টি হয়েছে — এটি সত্য। প্রথমত, ইতিহাস ও সমাজবিজ্ঞান দেখায় যে মুসলিম, হিন্দু, বৌদ্ধ, খ্রিস্টান ও অন্যান্য সম্প্রদায়ের সংস্কৃতি—উৎসব, খাবার, পোশাক, ভাষা ও লোকচারণা—একে অপরের সঙ্গে মিশে এক সামষ্টিক সাংস্কৃতিক পরিচয় গড়েছে। তাই বিবেচনায় এটি একটি মিলিত বা ঐতিহ্যগত সংস্কৃতি, তাই সঠিক উত্তর হলো a: True। বিকল্প b: False ভুল, কারণ তা বাংলাদেশের বৈচিত্র্যময় সাংস্কৃতিক মিলনের বাস্তবতাকে উপেক্ষা করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57336,
+      "value": {
+        "options": {
+          "a": "ডাল",
+          "b": "বিস্কুট",
+          "c": "ফ্রাইড রাইস",
+          "d": "রুটি"
+        },
+        "question": "বাঙালিরা সাধারণত মাছের তরকারির সাথে __________ খায়।",
+        "solution": "সমাধান:\nধাপ ১: বাঙালি রাঁধুনী ও খাদ্যাভ্যাস লক্ষ্য করলে দেখা যায় মাছের তরকারির সঙ্গে সাধারণত ভাত ও ডাল খাওয়া হয়ে থাকে — ডাল ভাতকে পুষ্টিসমৃদ্ধ করে এবং মাছের মশলাদার স্বাদের সঙ্গে ভাল ভারসাম্য তৈরি করে।  \nধাপ ২: অপশনগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \"ডাল\" ঐ সাংস্কৃতিক ও রান্নাবান্ধব মিলের সঙ্গে খাপ খায়, ফলে এটি সঠিক উত্তর।  \nঅন্য অপশনগুলো ভুল কারণ বিস্কুট ও ফ্রাইড রাইস সাধারণ মাছের তরকারির পাশে প্রচলিত পাশে-বাসি নয় এবং রুটিও বাংলা মাছ-ভাত প্রদর্শনীতে তুলনায় কম প্রচলিত।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57337,
+      "value": {
+        "options": [],
+        "question": "আমরা কোন কারণে আমাদের সংস্কৃতি হারাতে বসেছি?",
+        "solution": "সমাধান: প্রথমে লক্ষণগুলো (ভাষার ব্যবহার হ্রাস, ঐতিহ্যগত দৃষ্টিভঙ্গির বদল, বিদেশী পোশাক ও বিনোদন গ্রহণ) পর্যবেক্ষণ করে কারণ নির্ণয় করতে হবে। এরপর প্রতিটি সম্ভাব্য কারণকে যাচাই করে দেখা যায় যে এসব পরিবর্তনের সঙ্গে সরাসরি সম্পর্ক আছে ব্যাপক বিদেশি মিডিয়া, পণ্য ও জীবনযাপনের প্রভাবের (যাকে আমরা \"বিদেশি সংস্কৃতির প্রভাব\" বলি)। তাই সঠিক উত্তর: বিদেশি সংস্কৃতির প্রভাব। অন্যান্য সম্ভাব্য কারণ (যেমন অর্থনৈতিক পরিবর্তন বা প্রযুক্তি) হতে পারে সহায়ক ফ্যাক্টর, কিন্তু মূল চালিকাশক্তি হিসেবে অধিকাংশ ক্ষেত্রে বিদেশি সাংস্কৃতিক প্রভাবই প্রধান।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বিদেশি সংস্কৃতির প্রভাব"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7403,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7403&grade=7&per_page=2000&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7403&grade=7&per_page=2000&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7403&grade=7&per_page=2000&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 85,
+  "total": 85
+}

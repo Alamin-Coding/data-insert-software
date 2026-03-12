@@ -1,0 +1,149 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747454,
+      "value": {
+        "options": {
+          "ক": "যোগাযোগ",
+          "খ": "তথ্য",
+          "গ": "ব্যবসা",
+          "ঘ": "ক্যামেরা"
+        },
+        "question": "আমাদের জীবনে কোনটি খুবই গুরুত্বপূর্ণ?",
+        "solution": "খ. তথ্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:53:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747455,
+      "value": {
+        "options": {
+          "ক": "ইন্টারনেট",
+          "খ": "টেলিগ্রাফ",
+          "গ": "আইসিটি",
+          "ঘ": "ডিভিডি"
+        },
+        "question": "রাকিব তার বড় ভাইয়ের কাছে তথ্য ও যোগাযোগ প্রযুক্তির বিভিন্ন বিষয় সম্পর্কে জানতে পারে। সে জানতে পারে তথ্য ও যোগাযোগ প্রযুক্তিকে সংক্ষেপে একটি বিশেষ নামে ডাকা হয়। নামটি কী?",
+        "solution": "গ. আইসিটি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:53:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747456,
+      "value": {
+        "options": {
+          "ক": "কাঠ",
+          "খ": "ইট",
+          "গ": "রেডিও",
+          "ঘ": "পাথর"
+        },
+        "question": "নিচের কোনটি তথ্য ও যোগাযোগ প্রযুক্তি?",
+        "solution": "গ. রেডিও",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:53:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7415&grade=7&lesson=13519&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7415&grade=7&lesson=13519&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7415&grade=7&lesson=13519&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 3,
+  "total": 3
+}

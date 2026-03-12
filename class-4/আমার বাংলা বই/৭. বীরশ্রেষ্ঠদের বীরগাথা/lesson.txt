@@ -1,0 +1,5255 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 743978,
+      "value": {
+        "options": [],
+        "question": "বীরশ্রেষ্ঠ",
+        "solution": "মুক্তিযুদ্ধে বীরত্বের জন্য যাঁরা সর্বশ্রেষ্ঠ। ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743978,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743979,
+      "value": {
+        "options": [],
+        "question": "অতিক্রম",
+        "solution": "কোনো কিছু পার হওয়া বা ছাড়িয়ে যাওয়া। ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743979,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743980,
+      "value": {
+        "options": [],
+        "question": "অকুতোভয়",
+        "solution": "ভয় নেই যার। ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743980,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743981,
+      "value": {
+        "options": [],
+        "question": "বীরশ্রেষ্ঠরা কেন মুক্তিযুদ্ধ করেছিলেন?",
+        "solution": "পাকিস্তানি হানাদার বাহিনীর কবল থেকে বাংলাদেশকে মুক্ত করার জন্য বীরশ্রেষ্ঠরা মুক্তিযুদ্ধ করেছিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743981,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743982,
+      "value": {
+        "options": {
+          "ক": "ভারতের শ্রীনগরে",
+          "খ": "পাকিস্তানের থাট্টায়",
+          "গ": "বাংলাদেশের মেহেরপুরে",
+          "ঘ": "ভারতের ত্রিপুরায়"
+        },
+        "question": "মতিউর রহমানের বিমানটি কোথায় বিধ্বস্ত হয়েছিল?",
+        "solution": "খ. পাকিস্তানের থাট্টায়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743982,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743983,
+      "value": {
+        "options": [],
+        "question": "বিস্ফোরণ",
+        "solution": "ফেটে পড়া। ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743983,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743984,
+      "value": {
+        "options": [],
+        "question": "বিধ্বস্ত হওয়া",
+        "solution": "ভেঙেচুরে যাওয়া, ধ্বংস হওয়া। ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743984,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743985,
+      "value": {
+        "options": [],
+        "question": "দুঃসাহসিক",
+        "solution": "অত্যন্ত সাহসের কাজ। ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743985,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743986,
+      "value": {
+        "options": [],
+        "question": "ক্যাপ্টেন মহিউদ্দিন জাহাঙ্গীর কীভাবে ঝুঁকি নিয়ে মুক্তিযুদ্ধে অংশগ্রহণ করেছিলেন?",
+        "solution": "মুক্তিযুদ্ধ শুরু হলে ক্যাপ্টেন মহিউদ্দিন জাহাঙ্গীর সিদ্ধান্ত নেন পাকিস্তানি সামরিক বাহিনী ত্যাগ করে মুক্তিবাহিনীতে অংশগ্রহণ করবেন। সিদ্ধান্ত অনুযায়ী তিনি পাকিস্তান ও ভারতের দুর্গম পাহাড়ি এলাকা অতিক্রম করে ভারতে এসে মুক্তিবাহিনীতে যোগ দিলেন। এভাবে মহিউদ্দিন জাহাঙ্গীর জীবনের ঝুঁকি নিয়ে মুক্তিযুদ্ধে অংশগ্রহণ করেছিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743986,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743987,
+      "value": {
+        "options": [],
+        "question": "শহিদ",
+        "solution": "স্বাধীনতার জন্য প্রাণ উৎসর্গকারী",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743988,
+      "value": {
+        "options": [],
+        "question": "মুক্তিবাহিনী",
+        "solution": "বাংলাদেশের মুক্তি ও স্বাধীনতার জন্য যাঁরা যুদ্ধ করেছেন তাঁদের বাহিনী।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743988,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743989,
+      "value": {
+        "options": [],
+        "question": "বাঙ্কার",
+        "solution": "যুদ্ধের জন্য তৈরি করা মাটির গর্ত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743989,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743990,
+      "value": {
+        "options": [],
+        "question": "রণক্ষেত্র",
+        "solution": "যুদ্ধের স্থান।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743990,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743991,
+      "value": {
+        "options": [],
+        "question": "মেশিনগান",
+        "solution": "যুদ্ধে ব্যবহৃত বন্দুকের মতো অস্ত্র।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743991,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743992,
+      "value": {
+        "options": [],
+        "question": "বীরশ্রেষ্ঠ হামিদুর রহমান যে অসীম সাহসের সঙ্গে যুদ্ধ করেছিলেন তার বর্ণনা দিই।",
+        "solution": "কমলগঞ্জ থানার ধলই সীমান্ত ফাঁড়িটি দখল করার নেতৃত্বে ছিলেন সিপাহি হামিদুর রহমান। তিন প্লাটুন সৈন্য নিয়ে তিনি রাতের আঁধারে শত্রু শিবিরের দিকে এগিয়ে যেতে থাকলেন। এ সময় মাটিতে পুঁতে রাখা একটি মাইন বিস্ফোরিত -হলে পাকিস্তানি সেনারা সতর্ক হয়ে যায়। হামিদুর রহমানের দলে শুধু একটি রাইফেল আর দুটি গ্রেনেড ছিল। নির্ভুল নিশানায় তিনি প্রথম গ্রেনেডটা ছুড়ে শত্রুর আক্রমণকে নিস্তব্ধ করে দিয়েছিলেন। কিন্তু দ্বিতীয় গ্রেনেডটা ছোড়ার মুহূর্তে শত্রুর মেশিনগানের গুলি এসে তাঁর গায়ে লাগে। তখনই শহিদ হন অকুতোভয় বীর মুক্তিযোদ্ধা হামিদুর রহমান।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743992,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743993,
+      "value": {
+        "options": {
+          "ক": "মেশিনগান থেকে গুলি ছুঁড়েছিলেন",
+          "খ": "ট্যাংক নিয়ে অগ্রসর হয়েছিলেন",
+          "গ": "পাকিস্তানি সেনাদের বাংকারে আক্রমণ চালিয়েছিলেন",
+          "ঘ": "বিমান থেকে আক্রমণ করেছিলেন"
+        },
+        "question": "বীরশ্রেষ্ঠ মহিউদ্দিন জাহাঙ্গীর কীভাবে যুদ্ধ করেছিলেন?",
+        "solution": "গ. পাকিস্তানি সেনাদের বাংকারে আক্রমণ চালিয়েছিলেন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743993,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743994,
+      "value": {
+        "options": [],
+        "question": "অবিস্মরণীয়",
+        "solution": "ভোলা যায় না এমন",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743995,
+      "value": {
+        "options": [],
+        "question": "আকস্মিকভাবে",
+        "solution": "হঠাৎ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743996,
+      "value": {
+        "options": [],
+        "question": "ধূলিসাৎ",
+        "solution": "মাটির সঙ্গে মিশে যাওয়া। ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743996,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743997,
+      "value": {
+        "options": [],
+        "question": "নিয়ন্ত্রণ",
+        "solution": "নিজের আয়ত্তে আনা। ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743997,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743998,
+      "value": {
+        "options": [],
+        "question": "বীরগাথা",
+        "solution": "বীরদের গল্প। ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743998,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743999,
+      "value": {
+        "options": [],
+        "question": "যুদ্ধবিমানের নিয়ন্ত্রণ নিতে গেলে মতিউরের কী ঘটেছিল?",
+        "solution": "পূর্ব পরিকল্পনা অনুসারে মতিউর রহমান পাকিস্তানি বৈমানিক মিনহাজ রশিদের কাছ থেকে নিজেই যুদ্ধ বিমানের নিয়ন্ত্রণ নিতে চাইলেন। এ নিয়ে বিমানের মধ্যে মিনহাজের সঙ্গে মতিউরের ধস্তাধস্তি শুরু হলে বিমানটি পাকিস্তানের থাট্টায় বিধ্বস্ত হয়। বিধ্বস্ত এলাকায় ছড়িয়ে ছিটিয়ে পড়ে মতিউর রহমানের প্রাণহীন দেহ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743999,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744000,
+      "value": {
+        "options": [],
+        "question": "'এক মহান বীরগাথার রচয়িতা তাঁরা'- ব্যাখ্যা করি।",
+        "solution": "১৯৭১ সালের মুক্তিযুদ্ধে অসীম সাহসিকতার পরিচয় দেওয়া বীরশ্রেষ্ঠরা এক মহান বীরগাথার রচয়িতা। তাঁদের বীরত্ব ও জীবনের বিনিময়ে আমরা পেয়েছি স্বাধীন বাংলাদেশ। দেশকে শত্রুমুক্ত করতে তাঁরা কোনো কিছুর পরোয়া করেননি। এই বীরদের মহান আত্মত্যাগ চিরদিন স্মরণীয় হয়ে থাকবে। বীরত্বের এই কাহিনি প্রেরণা জোগাবে আমাদের স্বাধীনতার সুরক্ষায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744000,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744001,
+      "value": {
+        "options": {
+          "ক": "৬ জন",
+          "খ": "৭ জন",
+          "গ": "৫ জন",
+          "ঘ": "৯ জন"
+        },
+        "question": "বাংলাদেশের মুক্তিযুদ্ধে জীবন উৎসর্গকারী বীরশ্রেষ্ঠ কতজন?",
+        "solution": "খ. ৭ জন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744001,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744002,
+      "value": {
+        "options": {
+          "ক": "হামিদুর রহমান",
+          "খ": "মতিউর রহমান",
+          "গ": "মহিউদ্দিন জাহাঙ্গীর",
+          "ঘ": "মোস্তফা কামাল"
+        },
+        "question": "কমলপুর ঘাঁটি দখলই সীমান্ত ফাঁড়িটি দখলের নেতৃত্ব দিয়েছিলেন কে?",
+        "solution": "ক. হামিদুর রহমান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744002,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744003,
+      "value": {
+        "options": [],
+        "question": "সুরক্ষিত",
+        "solution": "সব রকম বিপদ থেকে মুক্ত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744004,
+      "value": {
+        "options": [],
+        "question": "খতম করা",
+        "solution": "শেষ করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744005,
+      "value": {
+        "options": [],
+        "question": "অপারেশন",
+        "solution": "বিশেষ অভিযান।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744006,
+      "value": {
+        "options": [],
+        "question": "প্রশিক্ষণ",
+        "solution": "হাতকলমে শিক্ষা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744007,
+      "value": {
+        "options": [],
+        "question": "ক্লোরোফর্ম",
+        "solution": "চেতনানাশক।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744008,
+      "value": {
+        "options": [],
+        "question": "মাইন",
+        "solution": "মাটির নিচে লুকিয়ে রাখা বোমা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744009,
+      "value": {
+        "options": [],
+        "question": "মুক্তিবাহিনী সম্পর্কে দুটি বাক্য লেখো।",
+        "solution": "বাংলাদেশের মুক্তি ও স্বাধীনতার জন্য যাঁরা যুদ্ধ করেছেন তাঁদের বাহিনীই মুক্তিবাহিনী বলে। দেশের স্বাধীন করার জন্য সকল শ্রেণি-পেশার মানুষজন নিয়ে মুক্তিবাহিনী গঠিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744010,
+      "value": {
+        "options": [],
+        "question": "মুক্তিযোদ্ধারা কোন ফাঁড়িটি দখল করার সিদ্ধান্ত নেন? এ অভিযানের নেতৃত্বের ভার কার উপর দেওয়া হয়েছিল?",
+        "solution": "মৌলভীবাজার জেলার কমলগঞ্জ থানার ধলই সীমান্ত ফাঁড়িটি দখল করার সিদ্ধান্ত নেন মুক্তিযোদ্ধারা। এ অভিযানের নেতৃত্বের ভার দেওয়া হয়েছিল তরুণ সিপাহি হামিদুর রহমানের উপর।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744011,
+      "value": {
+        "options": [],
+        "question": "গ্রেনেড ছোড়ার মুহূর্তে শত্রুর ________ গুলি এসে লাগে।",
+        "solution": "মেশিনগানের",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744012,
+      "value": {
+        "options": [],
+        "question": "জাতি-ধর্ম-বর্ণ নির্বিশেষে সব পেশার মানুষ যোগ দিচ্ছে ________।",
+        "solution": "মুক্তিযুদ্ধে",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744013,
+      "value": {
+        "options": [],
+        "question": "গুলি",
+        "solution": "আকস্মিকভাবে পাকিস্তানি সেনাদের গুলি এসে লাগে তার কপালে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744014,
+      "value": {
+        "options": [],
+        "question": "অর্জন",
+        "solution": "বর্জন",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744015,
+      "value": {
+        "options": [],
+        "question": "শুরু",
+        "solution": "শেষ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744016,
+      "value": {
+        "options": [],
+        "question": "রাত",
+        "solution": "রজনী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744017,
+      "value": {
+        "options": [],
+        "question": "সাহসী",
+        "solution": "নির্ভীক",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744018,
+      "value": {
+        "options": [],
+        "question": "ণ্ট",
+        "solution": "ণ্ + ট, পাল্টা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744019,
+      "value": {
+        "options": [],
+        "question": "স্ব",
+        "solution": "স্ + ব, স্বাধীন",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744020,
+      "value": {
+        "options": [],
+        "question": "অসীম",
+        "solution": "সীমাহীন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744021,
+      "value": {
+        "options": [],
+        "question": "সমাাহিত করা",
+        "solution": "কবর দেওয়া।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744022,
+      "value": {
+        "options": [],
+        "question": "প্লাটুন",
+        "solution": "সৈন্যদের ছোটো দল।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744023,
+      "value": {
+        "options": [],
+        "question": "ফাঁড়ি",
+        "solution": "পুলিশের ঘাঁটি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744024,
+      "value": {
+        "options": [],
+        "question": "ক্যাপ্টেন মহিউদ্দিন জাহাঙ্গীর মহানন্দা নদী পার হন কেন? দুটি বাক্যে লেখো।",
+        "solution": "ক্যাপ্টেন মহিউদ্দিন জাহাঙ্গীর স্বাধীনতা যুদ্ধের বীর যোদ্ধা। তিনি পাকিস্তানি সেনাদের কবল থেকে বাংলাদেশ আক্রমণ করার জন্য মহানন্দা নদী পার হন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744025,
+      "value": {
+        "options": [],
+        "question": "বীরশ্রেষ্ঠরা কেন মুক্তিযুদ্ধ করেছিলেন তা দুটি বাক্যে লেখো।",
+        "solution": "পশ্চিম পাকিস্তানি শাসকগোষ্ঠী বাংলার জনগণের উপর নানা রকম অত্যাচার চালাত। তাদের হাত থেকে দেশকে মুক্ত করার জন্য বীরশ্রেষ্ঠরা মুক্তিযুদ্ধ করেছিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744026,
+      "value": {
+        "options": [],
+        "question": "শহীদ হন এই অকুতোভয় ________।",
+        "solution": "বীর",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744027,
+      "value": {
+        "options": [],
+        "question": "আগেই রুমাল ________ মাখিয়ে এনেছিলেন।",
+        "solution": "ক্লোরোফর্ম",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744028,
+      "value": {
+        "options": [],
+        "question": "________ ছুড়ে শত্রুর বাঙ্কার নিশ্চিহ্ন করে।",
+        "solution": "গ্রেনেড",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744029,
+      "value": {
+        "options": [],
+        "question": "হামিদুরের সঙ্গে শুধু একটা রাইফেল আর দুটো গ্রেনেড নির্ভুল নিশানায় তিনি প্রথম গ্রেনেডটা ছোড়েন শত্রুর আক্রমণকে স্তব্ধ করে দেন তিনি কিন্তু দ্বিতীয় গ্রেনেডটা ছোড়ার মুহূর্তে শত্রুর মেশিনগানের গুলি এসে লাগে তাঁর গায়ে শহিদ হন এই অকুতোভয় বীর",
+        "solution": "হামিদুরের সঙ্গে শুধু একটা রাইফেল, আর দুটো গ্রেনেড। নির্ভুল নিশানায় তিনি প্রথম গ্রেনেডটা ছোড়েন। শত্রুর আক্রমণকে স্তব্ধ করে দেন তিনি। কিন্তু দ্বিতীয় গ্রেনেডটা ছোড়ার মুহূর্তে শত্রুর মেশিনগানের গুলি এসে লাগে তাঁর গায়ে। শহিদ হন এই অকুতোভয় বীর।",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744030,
+      "value": {
+        "options": [],
+        "question": "জীবন",
+        "solution": "মরণ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744031,
+      "value": {
+        "options": [],
+        "question": "যোগ",
+        "solution": "বিয়োগ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744032,
+      "value": {
+        "options": [],
+        "question": "আঁধার",
+        "solution": "আলো",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744033,
+      "value": {
+        "options": [],
+        "question": "প্রবেশ",
+        "solution": "বাহির",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744034,
+      "value": {
+        "options": [],
+        "question": "আগে",
+        "solution": "পরে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744035,
+      "value": {
+        "options": [],
+        "question": "আসছে",
+        "solution": "যাচ্ছে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744036,
+      "value": {
+        "options": [],
+        "question": "গ্রাম",
+        "solution": "শহর",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744037,
+      "value": {
+        "options": [],
+        "question": "মাটি",
+        "solution": "জমি",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744038,
+      "value": {
+        "options": [],
+        "question": "স্বাধীন",
+        "solution": "মুক্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744039,
+      "value": {
+        "options": [],
+        "question": "আক্রমণ",
+        "solution": "হামলা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744040,
+      "value": {
+        "options": [],
+        "question": "জন্ম",
+        "solution": "জনম",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744041,
+      "value": {
+        "options": [],
+        "question": "ছাত্র",
+        "solution": "শিক্ষার্থী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744042,
+      "value": {
+        "options": [],
+        "question": "বিনিময়ে",
+        "solution": "পরিবর্তে",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744043,
+      "value": {
+        "options": [],
+        "question": "স্বাধীন",
+        "solution": "মুক্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744044,
+      "value": {
+        "options": [],
+        "question": "ন্ত",
+        "solution": "ন্ + ত, অন্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744045,
+      "value": {
+        "options": [],
+        "question": "ক্ষ",
+        "solution": "ক্ + ষ, কক্ষ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744046,
+      "value": {
+        "options": [],
+        "question": "যুদ্ধ করেন যিনি",
+        "solution": "যোদ্ধা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744047,
+      "value": {
+        "options": [],
+        "question": "সাহস আছে যার",
+        "solution": "সাহসী",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744048,
+      "value": {
+        "options": [],
+        "question": "নিজের আয়ত্তে আনা",
+        "solution": "নিয়ন্ত্রণ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744049,
+      "value": {
+        "options": [],
+        "question": "ন্যায্য যুদ্ধে জীবন দেন যিনি",
+        "solution": "শহিদ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744050,
+      "value": {
+        "options": [],
+        "question": "গ্রেনেড",
+        "solution": "বোমা বিশেষ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744051,
+      "value": {
+        "options": [],
+        "question": "হাইজেক করা",
+        "solution": "অপহরণ করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744052,
+      "value": {
+        "options": [],
+        "question": "সাহসী এ যোদ্ধা আরও দুঃসাহসী হয়ে ওঠেন কেন? ব্যাখ্যা করো।",
+        "solution": "প্রশ্নোক্ত সাহসী যোদ্ধা হলেন ক্যাপ্টেন মহিউদ্দীন জাহাঙ্গীর। তিনি আক্রমণ চালিয়ে শত্রুবাহিনীর বাংকার ধ্বংস করে দেন। .এরপর শত্রুরা পাল্টা আক্রমণ চালায়। আর তাদের আক্রমণের জবাব দিতে সাহসী মুক্তিযোদ্ধা দুঃসাহসী হয়ে ওঠেন। কেননা, তিনি যেকোনো মূল্যে এদেশকে শত্রুমুক্ত করতে চান।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744053,
+      "value": {
+        "options": [],
+        "question": "সিপাহি হামিদুর রহমানের বীরত্বের কথা বর্ণনা করো।",
+        "solution": "সিপাহি হামিদুর রহমান ছিলেন একজন অকুতোভয় বীর সৈনিক। মৌলভীবাজার জেলার একটি সীমান্ত ফাঁড়ি দখল অভিযানে নেতৃত্ব দেন তিনি। রাতের আঁধারে তুমুল যুদ্ধ বেধে গেলে তিনি মৃত্যুর ভয় না করে সাহসের সাথে যুদ্ধ করে যান। শত্রুর সঙ্গে প্রাণপণে লড়াই করেছেন। তাই তিনি শত্রুর সঙ্গে প্রাণপণে লড়াই করেছেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744054,
+      "value": {
+        "options": [],
+        "question": "বৈমানিক মতিউর রহমানের বীরত্বের বর্ণনা দাও।",
+        "solution": "বীরশ্রেষ্ঠ মতিউর রহমান ছিলেন পাকিস্তানি বিমানবাহিনীর প্রশিক্ষক। তাঁর ভাবনা ছিল পাকিস্তান থেকে যুদ্ধবিমান নিয়ে মুক্তিযুদ্ধে যোগ দেবেন। তাঁর ছাত্র মিনহাজকে বোকা বানিয়ে ককপিটের ধরে অচেতন করে বিমানটি হাইজ্যাক করেন। পরে মিনহাজের জ্ঞান ফিরলে তাঁর সাথে ধস্তাধস্তিতে বিমান বিধ্বস্ত হয়। বীরশ্রেষ্ঠ বৈমানিক মতিউর রহমান শহীদ হন। তাঁর বীরত্বে বাংলার মানুষ স্বাধীনতা জয়ী হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744055,
+      "value": {
+        "options": [],
+        "question": "মহিউদ্দিন জাহাঙ্গীরের জন্ম ________ জেলায়।",
+        "solution": "বরিশাল",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744056,
+      "value": {
+        "options": [],
+        "question": "নৌকায় করে মহানন্দ ________ পার হন।",
+        "solution": "নদী",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744057,
+      "value": {
+        "options": [],
+        "question": "মেহেদিপুর সাব ________ এর চেহারা পাল্টে গেল।",
+        "solution": "সেক্টরের",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744058,
+      "value": {
+        "options": [],
+        "question": "ক্লোরোফর্ম",
+        "solution": "ক্লোরোফর্মের ঘ্রাণে মানুষ অচেতন হয়ে পড়ে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744059,
+      "value": {
+        "options": [],
+        "question": "গ্রেনেড",
+        "solution": "গ্রেনেড হামলায় পাকিস্তানি সেনার মৃত্যু ঘটে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744060,
+      "value": {
+        "options": [],
+        "question": "শহিদ",
+        "solution": "গাজি",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744061,
+      "value": {
+        "options": [],
+        "question": "অধিক",
+        "solution": "অল্প",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744062,
+      "value": {
+        "options": [],
+        "question": "সাহসী",
+        "solution": "ভীতু",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744063,
+      "value": {
+        "options": [],
+        "question": "ত্যাগ",
+        "solution": "বর্জন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744064,
+      "value": {
+        "options": [],
+        "question": "যোগ্য",
+        "solution": "উপযুক্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744065,
+      "value": {
+        "options": [],
+        "question": "অসীম",
+        "solution": "অনন্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744066,
+      "value": {
+        "options": [],
+        "question": "পরাজিত",
+        "solution": "পরাস্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744067,
+      "value": {
+        "options": [],
+        "question": "বীরশ্রেষ্ঠ",
+        "solution": "বলবান, সাহসী, ব্যক্তি",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744068,
+      "value": {
+        "options": [],
+        "question": "হ্ব",
+        "solution": "হ্ + ব, আহ্বান",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744069,
+      "value": {
+        "options": [],
+        "question": "ম্প",
+        "solution": "ম্ + প, ক্যাম্প",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744070,
+      "value": {
+        "options": [],
+        "question": "বীরদের মধ্যে শ্রেষ্ঠ",
+        "solution": "বীরশ্রেষ্ঠ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744071,
+      "value": {
+        "options": [],
+        "question": "ক্যাম্প",
+        "solution": "সৈন্যদের অস্থায়ী আবাস।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744072,
+      "value": {
+        "options": [],
+        "question": "ক্ষিপ্রতা",
+        "solution": "দ্রুততা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744073,
+      "value": {
+        "options": [],
+        "question": "হানাদার",
+        "solution": "অন্যায়ভাবে আক্রমণকারী।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744074,
+      "value": {
+        "options": [],
+        "question": "যোদ্ধা",
+        "solution": "যুদ্ধ করে যে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744075,
+      "value": {
+        "options": [],
+        "question": "রেজিমেন্ট",
+        "solution": "সেনাবাহিনীর অংশ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744076,
+      "value": {
+        "options": [],
+        "question": "রানওয়ে",
+        "solution": "বিমান ওঠা-নামার স্থান।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744077,
+      "value": {
+        "options": [],
+        "question": "মতিউর রহমান টি-৩৩ বিমানটি বিধ্বস্ত হয় এবং কোথায়?",
+        "solution": "মতিউর রহমান টি-৩৩ বিমানটি করাচির থাট্টায় বিধ্বস্ত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744078,
+      "value": {
+        "options": [],
+        "question": "ফ্লাইট লেফটেন্যান্ট মতিউর রহমানের ভাবনা কী ছিল? দুই বাক্যে লেখো।",
+        "solution": "ফ্লাইট লেফটেন্যান্ট মতিউর রহমানের ভাবনা ছিল ক্যাপ্টেন মহিউদ্দিন জাহাঙ্গীরের মতো। তিনিও চেয়েছিলেন পাকিস্তান থেকে যুদ্ধবিমান নিয়ে মুক্তিযুদ্ধে যোগ দেবেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744079,
+      "value": {
+        "options": [],
+        "question": "দুই পক্ষে তুমুল যুদ্ধ বেধে যায় কেন? বুঝিয়ে লেখো।",
+        "solution": "বাংলাদেশের সাতজন বীরশ্রেষ্ঠের মধ্যে অন্যতম ছিলেন সিপাহি হামিদুর রহমান। ধলই সীমান্ত ফাঁড়ি দখল করার জন্য এই তরুণ সিপাহি হামিদুর রহমান তিন প্লাটুন সৈন্য নিয়ে যাত্রা শুরু করেন। শত্রুর বাঙ্কার ধ্বংস করার জন্য তাঁরা রাতের আঁধারে গ্রেনেড নিয়ে অপেক্ষা করছিলেন। তখন শত্রুর পুঁতে রাখা মাইন বিস্ফোরিত হয় এবং পাকিস্তানি সেনারা সতর্ক হয়ে যায়। ফলে দুই পক্ষের মধ্যে তুমুল যুদ্ধ বেঁধে যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744080,
+      "value": {
+        "options": [],
+        "question": "বীরশ্রেষ্ঠ মতিউর রহমান কীভাবে রক্তে রঞ্জিত হলো কেন? বুঝিয়ে লেখো।",
+        "solution": "ক্যাপ্টেন মহিউদ্দিন জাহাঙ্গীর ছিলেন অদম্য সাহসী মুক্তিযোদ্ধা। তিনি জীবন বাজি রেখে শক্তিশালী পাকিস্তানি সেনাদের উপর আক্রমণ চালিয়েছেন। তাদের কবল থেকে বাংলাদেশ আক্রমণ করেছেন। দেশকে রক্ষা করতে তাঁকে জীবন দিতে হয়েছে। তাঁর মতো মহান মুক্তিযোদ্ধার রক্তে রঞ্জিত হলো বাংলাদেশ স্বাধীন হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744081,
+      "value": {
+        "options": [],
+        "question": "রঞ্জিত",
+        "solution": "বীরদের রক্তে রঞ্জিত হলো বাংলার মাটি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744082,
+      "value": {
+        "options": [],
+        "question": "ফাঁড়ি",
+        "solution": "সীমান্ত ফাঁড়িটি দখল করে নিল সেনারা।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744083,
+      "value": {
+        "options": [],
+        "question": "সাব-সেন্টার",
+        "solution": "মেহেদিপুর সাব-সেন্টারের চেহারা পাল্টে দিল যোদ্ধারা।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744084,
+      "value": {
+        "options": [],
+        "question": "আকাশ",
+        "solution": "পাতাল",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744085,
+      "value": {
+        "options": [],
+        "question": "অসীম",
+        "solution": "সসীম",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744086,
+      "value": {
+        "options": [],
+        "question": "অচেতন",
+        "solution": "চেতনানাশূণ্য",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744087,
+      "value": {
+        "options": [],
+        "question": "শুরু",
+        "solution": "আরম্ভ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744088,
+      "value": {
+        "options": [],
+        "question": "শত্রু",
+        "solution": "দুশমন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744089,
+      "value": {
+        "options": [],
+        "question": "আত্মত্যাগ",
+        "solution": "আত্মদান",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744090,
+      "value": {
+        "options": [],
+        "question": "মহান",
+        "solution": "মহৎ, উদার",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744091,
+      "value": {
+        "options": [],
+        "question": "ব্যবহৃত শব্দ",
+        "solution": "সমার্থক শব্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744092,
+      "value": {
+        "options": [],
+        "question": "ম্ব",
+        "solution": "ম্ + ব, ডিসেম্বর",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744093,
+      "value": {
+        "options": [],
+        "question": "মুক্তির জন্য যে যুদ্ধ",
+        "solution": "মুক্তিযুদ্ধ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744094,
+      "value": {
+        "options": [],
+        "question": "কোনো কিছু পার হওয়া বা ছাড়িয়ে যাওয়া",
+        "solution": "অতিক্রম",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-11-27T06:33:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 189324,
+      "value": {
+        "options": {
+          "a": "মোহাম্মদ মোস্তফা কামাল",
+          "b": "মহিউদ্দিন জাহাঙ্গীর",
+          "c": "হামিদুর রহমান",
+          "d": "মতিউর রহমান"
+        },
+        "question": "মুক্তিযুদ্ধের সময় বীরশ্রেষ্ঠদের মধ্যে কার সাহসিকতা সবচেয়ে বেশি ভাবে উল্লেখ করা হয়?",
+        "chapter_id": "1337",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-08-07T16:44:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 189325,
+      "value": {
+        "options": {
+          "a": "মৌলভীবাজার সীমান্তে",
+          "b": "পাকিস্তানের বিমানঘাঁটিতে",
+          "c": "চাঁপাইনবাবগঞ্জের মুক্তিবাহিনী ক্যাম্পে",
+          "d": "ভারতের মেহেদিপুরে"
+        },
+        "question": "মুক্তিযুদ্ধের সময় বীরশ্রেষ্ঠ হামিদুর রহমান কোন যুদ্ধে শহিদ হন?",
+        "chapter_id": "1337",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-08-07T16:44:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 189326,
+      "value": {
+        "options": {
+          "a": "মুক্তিযোদ্ধা শুধুমাত্র পুরুষরা ছিলেন",
+          "b": "স্বাধীনতার জন্য সব জাতির মানুষ যোগ দিয়েছিল",
+          "c": "শুধুমাত্র শিক্ষিত ব্যক্তিরা মুক্তিযোদ্ধা হয়েছিলেন",
+          "d": "মুক্তিযুদ্ধের সময় বিদেশীদের সাহায্য নেওয়া হয়নি"
+        },
+        "question": "মুক্তিযুদ্ধের সময় মুক্তিবাহিনীর গঠনের প্রেক্ষিতে কোনটি সত্য?",
+        "chapter_id": "1337",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-08-07T16:44:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 189327,
+      "value": {
+        "options": {
+          "a": "মহিউদ্দিন জাহাঙ্গীর, মতিউর রহমান, হামিদুর রহমান",
+          "b": "মোহাম্মদ মোস্তফা কামাল, মতিউর রহমান, হামিদুর রহমান",
+          "c": "মহিউদ্দিন জাহাঙ্গীর, মোহাম্মদ মোস্তফা কামাল, হামিদুর রহমান",
+          "d": "মোহাম্মদ মোস্তফা কামাল, মহিউদ্দিন জাহাঙ্গীর, মতিউর রহমান"
+        },
+        "question": "বাংলাদেশের মুক্তিযুদ্ধে বীরশ্রেষ্ঠদের মধ্যে কাদের নাম উল্লেখ করা হয়েছে?",
+        "chapter_id": "1337",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-08-07T16:44:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 147932,
+      "value": {
+        "options": {
+          "a": "সত্য",
+          "b": "মিথ্যা"
+        },
+        "question": "মুক্তিযুদ্ধের সময় মুক্তিযোদ্ধারা জাতি-ধর্ম-বর্ণ নির্বিশেষে একত্রিত হয়েছিলেন, যা বাংলাদেশে জাতীয় ঐক্যের প্রতীক।",
+        "solution": "সমাধান:\n\nসঠিক উত্তর: a (সত্য)\n\nউত্তরপ্রক্রিয়া:\n1. প্রশ্নের বক্তব্য বিশ্লেষণ করা — মুক্তিযুদ্ধের সময় মানুষদের একটি সাধারণ বিষয়ে (স্বাধীনতা) একত্রিত হওয়া এবং তা কি জাতীয় ঐক্যের প্রতীক কিনা তা যাচাই করা।\n2. ইতিহাস ও বাস্তবতায় মিলিয়ে দেখা — কোন কারণে এবং কেমনভাবে একত্রিত হয়েছিলেন মুক্তিযোদ্ধারা।\n\nমূল ধারা/কারণ-বিবেচনা:\n1. ঐতিহাসিক প্রেক্ষাপট: ১৯৭১ সালের পাকিস্তানী শাসনের বর্বরতা ও গণহত্যার বিরুদ্ধে বাংলাভিত্তিক স্বাধীনতার দাবিই ছিল প্রধান সংহত শক্তি। ব্যক্তিগত ধর্ম, বর্ণ বা সামাজিক পরিচয় থেকে উপরে উঠে জাতিগত ও সাংস্কৃতিক অধিকারের কারণে মানুষ একত্রিত হয়েছিলেন।\n2. বহুস্বরূপ অংশগ্রহণ: ছাত্র, কৃষক, শ্রমিক, intelektual, প্রবাসী—এছাড়াও বিভিন্ন ধর্মের (মুসলিম, হিন্দু, বৌদ্ধ, খ্রিস্টান ইত্যাদি) মানুষ মুক্তিযুদ্ধের অংশ ছিলেন; ফলে সংগ্রামটি ধর্ম বা বর্ণভিত্তিক ছিল না বরং জাতি-ভিত্তিক ও মানুষের মৌলিক অধিকার নিয়ে পরিচালিত ছিল।\n3. রাজনৈতিক ও সাংগঠনিক ঐক্য: মুক্তিকামী রাজনৈতিক নেতৃত্ব, প্রাথমিক সরকার ও মুজিবনগর সরকারের আহ্বানে ঐক্যবদ্ধ প্রতিরোধ গড়ে উঠেছিল—যা স্বাধীনতার লক্ষ্যে সকলে একসাথে কাজ করেছিল।\n4. প্রতীকী মূল্য: ১৬ ডিসেম্বর ১৯৭১-এর বিজয় হলো সেই ঐক্যের অভিব্যক্তি — ভিন্ন পরিচয়ের মানুষেরা সম্মিলিতভাবে অর্জিত স্বাধীনতা ও জাতীয় আত্মপরিচয়ের প্রতীক।\n\nসংক্ষিপ্ত যুক্তি:\n- মুক্তিযুদ্ধ ধর্ম বা বর্ণভিত্তিক সংঘাত নয়, এটি ছিল একটি জাতিগত ও স্বাধীনতা সংগ্রাম; তাই মুক্তিযোদ্ধাদের একতা প্রকৃতপক্ষে জাতীয় ঐক্যের প্রতীক। ইতিহাস ও উপস্থিত সাক্ষ্য এই সত্যকে সমর্থন করে।\n\nউপসংহার:\nবক্তব্যটি সঠিক — মুক্তিযুদ্ধের সময় মুক্তিযোদ্ধারা জাতি-ধর্ম-বর্ণ নির্বিশেষে একত্রিত ছিলেন এবং তা বাংলাদেশে জাতীয় ঐক্যের প্রতীক।",
+        "chapter_id": "1337",
+        "explanation": "মুক্তিযুদ্ধের সময় মুসলিম, হিন্দু, বৌদ্ধ, খ্রিষ্টান ও বিভিন্ন আঞ্চলিক জাতিগোষ্ঠীর মানুষ একসঙ্গে মুক্তিযুদ্ধে অংশগ্রহণ করে পাকিস্তানি শাসনের বিরুদ্ধে লড়াই করেছিলেন। এই ধর্ম-বর্ণ নির্বিশেষে গঠিত ঐক্যই স্বাধীন বাংলাদেশের জাতীয় ঐক্যের প্রতীক হিসেবে পরিচিত।",
+        "correct_answer": "a"
+      },
+      "question_type_id": 4,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-30T10:41:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 4,
+        "name": "True False",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 147933,
+      "value": {
+        "options": {
+          "a": "সত্য",
+          "b": "মিথ্যা"
+        },
+        "question": "হামিদুর রহমান মুক্তিযুদ্ধের সময় একটি গ্রেনেড ছুঁড়ে শত্রুর আক্রমণ প্রতিহত করার চেষ্টা করেছিলেন, কিন্তু তিনি শহিদ হন।",
+        "solution": "সমাধান:\n\nউত্তর নির্ধারণের পদ্ধতি:\n1. প্রশ্নটির ধরণ হলো সত্য/মিথ্যা — এখানে একটি ঐতিহাসিক ঘটনার সত্যতা যাচাই করা দরকার।\n2. সত্যেবোধ করার মানদণ্ড: নির্ভরযোগ্য ঐতিহাসিক সূত্র, সাক্ষী-বিবরণ বা সরকারি/স্মৃতিস্তম্ভের তথ্য যদি উক্ত ঘটনার সঙ্গে মিল রেখে থাকে, তবে বিবৃতিটি সত্য ধরা হবে।\n\nপ্রধান যুক্তি ও যাচাই ধাপ:\n1. ঐতিহাসিক বিবরণ অনুযায়ী — মুক্তিযুদ্ধের সময় হামিদুর রহমানের একটি ঘটনাকে রেকর্ড করা আছে যেখানে তিনি শত্রুর আক্রমণ ঠেকাতে একটি গ্রেনেড নিক্ষেপ করেন এবং সেই সময় তিনি শহীদ হন। এমন ঘটনা সম্পর্কে স্বাধীন সাক্ষী, স্মৃতিচিহ্ন ও মুক্তিযুদ্ধ সংশ্লিষ্ট দলিল-পত্রে উল্লেখ পাওয়া যায়।\n2. ঘটনার ধারণা: শত্রুদের সামনা-সামনি অবস্থায় আত্মরক্ষার উদ্দেশ্যে গ্রেনেড ছোড়া এবং তাতে নিজে জীবন হারানো—এটি একটি স্বাভাবিক যুদ্ধকালীন ঘটনা এবং এতে শহিদ হওয়া হিসেবে বিবেচিত হওয়া যৌক্তিক।\n3. উপরোক্ত সূত্র ও সূত্রের সামঞ্জস্য দেখে বলা যায় যে বিবৃতিটি ঐতিহাসিকভাবে সাযুজ্যপূর্ণ এবং বিশ্বাসযোগ্য।\n\nসিদ্ধান্ত:\nউক্ত বিবৃতিটি সত্য — তাই সঠিক উত্তর: a: সত্য।",
+        "chapter_id": "1337",
+        "explanation": "বিবৃতি সত্য—মুক্তিযুদ্ধের সময় হামিদুর রহমান শত্রুর আক্রমণ ঠেকাতে একটি গ্রেনেড ছুঁড়ে আত্মরক্ষার চেষ্টা করেন এবং সেই ঘটনার সময় তিনি শহিদ হন। তার এই বীরত্বের জন্য তাকে পরে রাষ্ট্রীয়ভাবে বীরশ্রেষ্ঠ খেতাব দেওয়া হয়।",
+        "correct_answer": "a"
+      },
+      "question_type_id": 4,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-30T10:41:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 4,
+        "name": "True False",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 147927,
+      "value": {
+        "options": [],
+        "question": "মুক্তিযুদ্ধের সময় মহিউদ্দিন জাহাঙ্গীর কিভাবে পাকিস্তানি সেনাবাহিনীকে পরাজিত করতে সাহসিকতা প্রদর্শন করেন?",
+        "solution": "সমাধান:\nমহিউদ্দিন জাহাঙ্গীরের সাহসিকতার বিবরণ বোঝাতে আমরা কৌশলগত ও ধাপে ধাপে ঘটনাক্রম ব্যাখ্যা করব।\n\n1. উদ্দেশ্য ও প্রাথমিক পর্যবেক্ষণ: তিনি লক্ষ্য নির্ধারণ করে পাকিস্তানি সেনাদের ঘাঁটি ও বাংকারের অবস্থান, রক্ষাকবচ এবং অনুপস্থিততা যাচাই করেছিলেন — এটি ছিল সফল আক্রমণের প্রথম ধাপ কারণ সঠিক লক্ষ্য চিহ্নিত করা জরুরি।\n\n2. পরিকল্পনা ও Überraschung (আশ্চর্যতার) নীতি প্রয়োগ: সীমিত শক্তি থাকা সত্ত্বেও তিনি হঠাৎ ও দ্রুত আক্রমণ করার কৌশল বেছে নেন যাতে শত্রু প্রস্তুত হতে পারে না। ছোট নির্দেশক দলের সঙ্গে ঘনিষ্টভাবে সমন্বয় করে আক্রমণ পরিকল্পনা করা হয়।\n\n3. আক্রমণ ও ঘাঁটিতে প্রবেশ: নির্ধারিত সময়ে দ্রুতভাবে ঘাঁটির দিকে আঘাত করা হয় — রকেট, গ্রেনেড বা ঘনিষ্ঠ যুদ্ধের অস্ত্র প্রয়োগ করে বাংকারের প্রাধান্য ও নিরাপত্তা ভঙ্গ করা হয়। এর ফলে বাংকারের প্রতিরক্ষা দুর্বল হয়ে পড়ে।\n\n4. বাংকার ধ্বংস ও শত্রু নিরস্ত্রকরণ: ঘনিষ্ঠ লড়াই ও বিস্ফোরক/নিষ্ক্রিয়করণ পদ্ধতি ব্যবহার করে বাংকার ধ্বংস করা হয় এবং সেখানে থাকা পাকিস্তানি বীর্যর শক্তি ভেঙে দেয়া হয়। এভাবে ঘাঁটি ধ্বংস হওয়ায় শত্রুদের মনোবলও ভেঙে পড়ে।\n\n5. ফল এবং নীতিগত ব্যাখ্যা: অসম সামরিক সমতা থাকা সত্ত্বেও পরিকল্পিত, দ্রুত ও সাহসী আক্রমণের ফলে শক্তিশালী প্রতিরক্ষা ভঙ্গ করা সম্ভব হয় — এটি গেরিলা যুদ্ধের মৌলিক নীতি (আশ্চর্যতা, লক্ষ্যভিত্তিক আঘাত, দ্রুত প্রতিক্রিয়া) প্রয়োগ করে প্রমাণিত হয়।\n\nসংক্ষেপে, মহিউদ্দিন জাহাঙ্গীর পাকিস্তানি সেনাদের ঘাঁটিতে আক্রমণ চালিয়ে তাদের বাংকার ধ্বংস করে প্রতিপক্ষকে পরাজিত করার মাধ্যমে অসাধারণ সাহসিকতা দেখান।",
+        "chapter_id": "1337",
+        "explanation": "ব্যাখ্যা: মহিউদ্দিন জাহাঙ্গীর সরাসরি পাকিস্তানি সেনাদের ঘাঁটিতে আক্রমণ করে তাদের বাংকার ধ্বংস করার মাধ্যমে সাহসিকতা দেখান, কারণ এতে শত্রুর প্রতিরক্ষা ভেঙে পড়ে এবং তাদের কার্যকর আগ্নেয় শক্তি কমে যায়। বাংকারের মতো কনিষ্ঠ নিরাপত্তা ভাঙা সামরিকভাবে গুরুত্বপূর্ণ কাজ, যা ঝুঁকি নিয়ে তৎপরতা ও নেতৃত্ব প্রদর্শনকে প্রতিফলিত করে।",
+        "correct_answer": "তিনি পাকিস্তানি সেনাদের ঘাঁটিতে আক্রমণ চালিয়ে তাদের বাংকার ধ্বংস করেন।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-30T10:40:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 147928,
+      "value": {
+        "options": [],
+        "question": "মুক্তিযুদ্ধে শহিদ হওয়া বীরশ্রেষ্ঠদের মধ্যে হামিদুর রহমানের অসীম সাহসিকতার উদাহরণ কী?",
+        "solution": "সমাধান:\nউত্তর সংক্ষেপ: তিনি শত্রুর বাংকারে আক্রমণ করতে গিয়ে শহিদ হন।\n\nউত্তর উপস্থাপনার ধারা ও বিশ্লেষণ:\n1. প্রশ্নের ধারণা ও প্রাসঙ্গিকতা: মুক্তিযুদ্ধে বীরশ্রেষ্ঠরা তাদের ব্যক্তিগত সাহসিকতা ও আত্মত্যাগের জন্য স্মরণীয়। হামিদুর রহমানের কৃতিত্বের মূল ঘটনার সারমর্ম জানতে হবে—তার কী কার্যকলাপ ছিল ও কেন তা অসীম সাহসিকতার উদাহরণ।\n\n2. ঘটনাটির সরাসরি বর্ণনা (মূল উত্তর): হামিদুর রহমান শত্রুর কেলেঙ্কারিতে অবস্থানরত একটি বাংকারকে ধ্বংস করার জন্য সামনে এগিয়ে যান এবং সেই আক্রমণে তিনি শহিদ হন। এই একক কর্মেই তার ত্যাগ ও সাহসিকতা প্রমাণিত হয়।\n\n3. যুক্তিযুক্ত বিশ্লেষণ (কেন এটি অসীম সাহসিকতার উদাহরণ):\n   - বাংকার হলো ঘনিষ্ঠ ও নিরাপদভাবে রক্ষিত শত্রু-পজিশন; সেখানে আক্রমণ করা অত্যন্ত বিপজ্জনক ও জোরালো প্রতিরোধের মুখোমুখি হওয়া মানে।\n   - তিনি ব্যক্তিগত স্বার্থের বিনিময়ে সম্পূর্ণ বিপদের মুখে নিজেকে উৎসর্গ করে, তাতে আত্মত্যাগ ও দেশপ্রেমের উচ্চমাত্রা প্রতিফলিত হয়।\n   - তার এই উদ্যোগি কাণ্ড সহযোদ্ধাদের জীবন রক্ষা ও সামরিক লক্ষ্য পূরণে কার্যকর ছিল—অর্থাৎ কেবল সাহসই নয়, নৈতিক ও কৌশলগত গুরুত্বও রয়েছে।\n\n4. উপসংহার: হামিদুর রহমানের বাংকারে আক্রমণ করেই শহিদ হওয়া ঘটনার মাধ্যমে তিনি নিজের জীবন উৎসর্গ করে জাতির স্বাধীনের লক্ষ্যে অনন্য সাহসিকতার নজির স্থাপন করেছিলেন। এই কারণেই তাকে বীরশ্রেষ্ঠ খেতাব দেওয়া হয়েছে।",
+        "chapter_id": "1337",
+        "explanation": "ব্যাখ্যা: হামিদুর রহমান শত্রুর বাংকারে সরাসরি আক্রমণ করতে গিয়ে তীব্র গোলাবারুদ ও গুলিতে আক্রান্ত হয়ে শহিদ হন, যা তার অসীম সাহসের সরাসরি প্রমাণ। বাংকারে আক্রমণ করা অত্যন্ত বিপজ্জনক হওয়ায় এই আত্মত্যাগ ও ঝুঁকি গ্রহণই তার চরম বীরত্বের উদাহরণ বলে বিবেচিত হয়।",
+        "correct_answer": "তিনি শত্রুর বাংকারে আক্রমণ করতে গিয়ে শহিদ হন।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-30T10:40:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56375,
+      "value": {
+        "options": {
+          "a": "জাতীয় সংসদ নির্বাচন",
+          "b": "বাংলাদেশের স্বাধীনতা অর্জন",
+          "c": "পাকিস্তানের বিজয় লাভ",
+          "d": "শান্তি শৃঙ্খল স্থাপন"
+        },
+        "question": "১৯৭১ সালের মুক্তিযুদ্ধের মূল উদ্দেশ্য কি ছিল?",
+        "solution": "সমাধান:\nধাপ ১: ইতিহাসিক প্রেক্ষাপট — ১৯৭০ সালের জাতীয় নির্বাচনে গণআন্দোলন, রাজনৈতিক অধিকার না মেনে পাকিস্তানী শাসকদের শোষণ ও নির্যাতনের বিরুদ্ধে বাংলার জনগণ স্বাধীন রাষ্ট্র প্রতিষ্ঠা করার লক্ষ্যে আন্দোলন শুরু করে।  \nধাপ ২: মূল লক্ষ্য নিরূপণ — মুক্তিযুদ্ধের প্রধান উদ্দেশ্য ছিল বাংলাদেশের স্বাধীনতা অর্জন, যা সরাসরি \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E অপশনের সাথে মেলে।  \nধাপ ৩: অন্যান্য অপশন কেন ভুল — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (জাতীয় সংসদ নির্বাচন) ছিল সংঘাতের একটি চালিকা কারণ কিন্তু মুক্তিযুদ্ধের মূল লক্ষ্য ছিল না; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (পাকিস্তানের বিজয়) স্বাধীনতার উদ্দেশ্যের পুরো বিপরীত; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (শান্তি শৃঙ্খল) চাওয়া হয়েছিল কিন্তু সেটাই যুদ্ধের প্রধান উদ্দেশ্য ছিল না, বরং স্বাধীনতা অর্জনের পরে স্থায়ী শান্তি প্রতিষ্ঠা করাই লক্ষ্য।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56376,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মুক্তিযুদ্ধ ১৯৭১ সালের ২৬শে মার্চ শুরু হয়েছিল।",
+        "solution": "সমাধান:\nধাপ ১: ১৯৭১ সালের ২৫–২৬ মার্চ পাকিস্তানি সেনাবাহিনীর অপারেশন সার্চলাইট এবং গণহত্যার পর স্বাধীনতার ঘোষণা ও গণআন্দোলন তীব্র হয়ে উঠে।  \nধাপ ২: জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমান ১৯৭১ সালের ২৬ মার্চ গণপ্রজাতন্ত্রী বাংলাদেশের স্বাধীনতার ঘোষণা করেন — ঐ দিনটিই সাধারণত মুক্তিযুদ্ধের শুরু হিসেবে প্রতিষ্ঠিত।  \nঅতএব সঠিক উত্তর: a (True)। বিকল্প b (False) ভুল, কারণ মুক্তিযুদ্ধের আনুষ্ঠানিক শুরুর তারিখ হল ২৬ মার্চ ১৯৭১।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56377,
+      "value": {
+        "options": {
+          "a": "বরিশাল",
+          "b": "ঢাকা",
+          "c": "রাজশাহী",
+          "d": "চট্টগ্রাম"
+        },
+        "question": "মহিউদ্দিন জাহাঙ্গীরের জন্ম স্থান __________।",
+        "solution": "সমাধান: মহিউদ্দিন জাহাঙ্গীরের জন্মস্থান পরিচিত জীবনীগত তথ্য অনুযায়ী বরিশাল। তিনি বাংলাদেশের মুক্তিযুদ্ধে বীরশ্রেষ্ঠ খেতাবপ্রাপ্ত একজন বীর, এবং তার জীবনীতে জন্মস্থান হিসেবে বরিশালের উল্লেখ আছে, তাই সঠিক উত্তর হল a: বরিশাল। অন্যান্য বিকল্পগুলো (ঢাকা, রাজশাহী, চট্টগ্রাম) ভিন্ন জেলা/নগরী এবং তার জন্মস্থল হওয়ার কোনো প্রামাণ্য তথ্য নেই।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56378,
+      "value": {
+        "options": [],
+        "question": "বীরশ্রেষ্ঠ হামিদুর রহমান কিভাবে শহীদ হন?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে দেওয়া বিভিন্ন বিকল্পগুলো পড়ে প্রতিটি ঘটনার বিবরণ ইতিহাস ও খোঁজ-খবর মিলিয়ে যাচাই করা।  \nধাপ ২: ইতিহাস ও সম্মানসূচক বর্ণনা অনুযায়ী বীরশ্রেষ্ঠ হামিদুর রহমানকে সরাসরি মাংসপেশী বা গোলাবারু দ্বারা হত্যা করা হয়নি, বরং তিনি সৈন্যদলের সঙ্গে লড়াই করার সময় মিনেজের নিকট থেকে ছোড়া গ্রেনেডে আঘাত পেয়ে শহীদ হন।  \nনির্ণয়: তাই সঠিক উত্তর হলো মিনেজের নিকট থেকে গ্রেনেড ছুঁড়ে শহীদ হন।  \nব্যাখ্যা: অন্যান্য বিকল্পগুলো (উদাহরণস্বরূপ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E গুলি করে মারা, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ফাঁসি ইত্যাদি) ঐতিহাসিক বিবরণ-মতে ঘটনার সঙ্গে মেলে না, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মিনেজের নিকট থেকে গ্রেনেড ছুঁড়ে শহীদ হন।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56379,
+      "value": {
+        "options": {
+          "a": "৭",
+          "b": "৫",
+          "c": "১০",
+          "d": "৩০"
+        },
+        "question": "বীরশ্রেষ্ঠদের সংখ্যা কত?",
+        "solution": "সমাধান:\nধাপ ১: বীরশ্রেষ্ঠ হলো বাংলাদেশের সর্বোচ্চ যুদ্ধকালীন বীরত্ব পদক, যা ১৯৭১ সালের মুক্তিযুদ্ধে অসামান্য সাহস প্রদর্শনের জন্য প্রদত্ত হয়।  \nধাপ ২: ইতিহাসগতভাবে এই পদকটি মোট সাতজনকে посে দেওয়া হয়েছে (১৯৭১ সালের নায়ক-শহীদদের মধ্যে সাতজনকে সর্বোচ্চ সম্মান দেওয়া হয়েছে)।  \nধাপ ৩: তাই সঠিক উত্তরে সংখ্যা হবে ৭, অর্থাৎ বিকল্প a সঠিক; অন্যান্য বিকল্পগুলো (৫, ১০, ৩০) ঐতিহাসিক তথ্যের সঙ্গে মিলছে না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56380,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মুক্তিযোদ্ধাদের মধ্যে শুধুমাত্র পেশাদার সেনারা ছিলেন।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নের অর্থ হলো মুক্তিযোদ্ধাদের মধ্যে কি কেবল পেশাদার সেনাই ছিলেন কিনা পরীক্ষা করা।  \nধাপ ২: ইতিহাস অনুযায়ী মুক্তিযুদ্ধে অংশ নিয়েছিলেন পেশাদার সেনাসদস্যদের পাশাপাশি সাধারণ নাগরিক—ছাত্র, কৃষক, শিক্ষক, পেশাজীবী ও অনিয়মিত গেরিলা-যোদ্ধারা; ফলে মুক্তিযোদ্ধারা শুধুমাত্র পেশাদার সেনাই ছিলেন না।  \nধাপ ৩: তাই বিবৃতি মিথ্যা। সঠিক উত্তর: b (False)।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56381,
+      "value": {
+        "options": {
+          "a": "শান্তির",
+          "b": "রণক্ষেত্রের",
+          "c": "রাজনৈতিক",
+          "d": "অর্থনৈতিক"
+        },
+        "question": "মুক্তিযুদ্ধের সময় নিয়ন্ত্রণ ছিল __________।",
+        "solution": "সমাধান: মুক্তিযুদ্ধ একটি সশস্ত্র সংগ্রাম হওয়ায় কার্যত নিয়ন্ত্রণ ছিল সামরিক ও যুদ্ধক্ষেত্রভিত্তিক। প্রথম ধাপে বুঝতে হবে যে যুদ্ধকালীন সময়ে সিদ্ধান্ত ও দক্ষতা প্রধানত রণনৈতিক ও সামরিক কর্মকাণ্ডের ওপর নির্ভর করে, তাই এটি রণক্ষেত্রের নিয়ন্ত্রণ নির্দেশ করে। অন্য বিকল্পগুলো মিথ্যা কারণ (a) শান্তির—যুদ্ধকালীন প্রযোজ্য নয়, (c) রাজনৈতিক ও (d) অর্থনৈতিক—এগুলো zwar প্রভাবিত করে কিন্তু সরাসরি নিয়ন্ত্রণ ছিল যুদ্ধক্ষেত্রের। সঠিক উত্তর: রণক্ষেত্রের (b).",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56382,
+      "value": {
+        "options": [],
+        "question": "মুক্তিযোদ্ধা মহিউদ্দিন জাহাঙ্গীরের সাহসিকতা কিভাবে প্রকাশিত হয়?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে \"সাহসিকতা কিভাবে প্রকাশিত হয়\"—এখানে এমন কোনো ক্রিয়া খুঁজতে হবে যা সরাসরি বিপজ্জনক পরিস্থিতিতে নেতৃত্ব দেওয়া ও আত্মত্যাগের মাধ্যমে সাহস প্রদর্শন করে।  \nধাপ ২: মুক্তিযোদ্ধা মহিউদ্দিন জাহাঙ্গীর পাকিস্তানি সেনাবাহিনীর আক্রমণের সময় সামরিক প্রতিরোধে নেতৃত্ব দিয়েছিলেন এবং সেই লড়াইয়ে প্রাণ উৎসর্গ করেছেন; এটি স্পষ্টভাবে ভৌতিক সাহস ও ত্যাগের প্রকাশ।  \nধাপ ৩: তাই সঠিক উত্তর হচ্ছে—\"তিনি পাকিস্তানি সেনাবাহিনীর আক্রমণে নেতৃত্ব দেন এবং প্রাণ উৎসর্গ করেন।\"  \nব্যাখ্যা: অন্যান্য সম্ভাব্য বিকল্প (যেমন কেবল প্রচারণা করা, প্রশাসনিক কাজ বা গোপন অনুচর্যতা) সাহসের অন্য রকম প্রকাশ হতে পারে, কিন্তু সরাসরি সামরিক নেতৃত্বের মাধ্যমে জীবন উৎসর্গ করাই সবচেয়ে স্পষ্ট এবং নির্ধারণী সাহসিকতা, তাই সেগুলো এই প্রসঙ্গে ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "তিনি পাকিস্তানি সেনাবাহিনীর আক্রমণে নেতৃত্ব দেন এবং প্রাণ উৎসর্গ করেন।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56383,
+      "value": {
+        "options": {
+          "a": "ভারতের দিল্লিতে",
+          "b": "পশ্চিম পাকিস্তানে",
+          "c": "বাংলাদেশে",
+          "d": "বিএমএসএ তে"
+        },
+        "question": "মুক্তিযুদ্ধের পরিকল্পনা গ্রহণের সময় মহিউদ্দিন জাহাঙ্গীর কোথায় ছিলেন?",
+        "solution": "সমাধান:\nধারা ১: ইতিহাস অনুযায়ী মুক্তিযুদ্ধের পরিকল্পনা গ্রহণের সময় মহিউদ্দিন জাহাঙ্গীর পশ্চিম পাকিস্তানে অবস্থান করেছিলেন।  \nধারা ২: দেওয়া বিকল্পগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (b) = \"পশ্চিম পাকিস্তানে\" এই বিবরণটির সঙ্গে মেলে, তাই সঠিক উত্তর হচ্ছে (b)।  \nধারা ৩: অন্যান্য বিকল্পগুলো ভুল কারণ তিনি ভারতের দিল্লিতে বা বাংলাদেশে অবস্থান করছিলেন না এবং \"বিএমএসএ তে\" থাকা সম্পর্কিত কোনো ঐতিহাসিক তথ্য প্রযোজ্য নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56384,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মুক্তিযুদ্ধে অনেক মুক্তিযোদ্ধা শহীদ হয়েছেন।",
+        "solution": "সমাধান: প্রশ্নে বলা হয়েছে—মুক্তিযুদ্ধে অনেক মুক্তিযোদ্ধা শহীদ হয়েছেন কি না।  \nStep 1: ঐতিহাসিক তথ্য অনুসারে ১৯৭১ সালের মুক্তিযুদ্ধে দেশের স্বাধীনতার জন্য অসংখ্য মুক্তিযোদ্ধা লড়াই করে এবং বহুজন প্রাণ হারান।  \nStep 2: প্রশ্নে ব্যবহৃত শব্দটি \"অনেক\" ঐ ঐতিহাসিক সত্যকে সঠিকভাবে প্রকাশ করে। তাই বিবৃতি সত্য।  \nসঠিক উত্তর: a (True)।  \nকোনও কারণের জন্য \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (False) ভুল, কারণ এটি ইতিহাসের পুঙ্খানুপুঙ্খ ঘটনাকে অস্বীকার করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56385,
+      "value": {
+        "options": {
+          "a": "গোপন",
+          "b": "সীমান্ত",
+          "c": "অভিযান",
+          "d": "অ্যাডভেঞ্চার"
+        },
+        "question": "মহিউদ্দিন জাহাঙ্গীর মুক্তিযুদ্ধ শুরু করার জন্য পাকিস্তানের __________ চলে যান।",
+        "solution": "সমাধান: বাক্যের প্রেক্ষাপট অনুযায়ী বক্তব্যটি এমন একটি স্থানের কথা বলছে যেখানে মুক্তিযুদ্ধ শুরু করার জন্য যাওয়া সম্ভব—অর্থাৎ একটি স্থান নির্দেশক বিশেষ্য হওয়া দরকার। \"সীমান্ত\" শব্দটি স্থানের অর্থ দেয় এবং বাক্যে সম্পূর্ণভাবে মানানসই, তাই সঠিক উত্তর হলো \"সীমান্ত\" (option b)। অন্যান্য অপশনগুলো অনুচিত কারণ \"গোপন\" একটি বিশেষণ/অবস্থাকে বোঝায়, \"অভিযান\" এবং \"অ্যাডভেঞ্চার\" সবই ঘটনার ধরন; এগুলো স্থান নির্দেশ করে না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56386,
+      "value": {
+        "options": [],
+        "question": "মুক্তিযুদ্ধে মতিউর রহমান কীভাবে বিমান নিয়ন্ত্রণ নিতে গিয়েছিলেন?",
+        "solution": "সমাধান:\n1) প্রশ্নে অনুসন্ধান করে ঐতিহাসিক বর্ণনা থেকে মূল ঘটনা সনাক্ত করা হয়েছে — মুক্তিযুদ্ধে মতিউর রহমান বিমান নিয়ন্ত্রণ নিতে সরাসরি আক্ষিপ্ত পদক্ষেপ নিয়েছিলেন।  \n2) নির্দিষ্ট ঘটনাটি হচ্ছে: তিনি মিনহাজের বিমানে লাফিয়ে উঠেছিলেন এবং সেটিকে নিয়ন্ত্রণে নিয়ে নিয়েছিলেন; এটাই প্রামাণিক বর্ণনা অনুযায়ী ঘটেছিল।  \n3) তাই অন্যান্য সম্ভাব্য উপায়—যেমন কৌশলে প্রতিদ্বন্দ্বীকে রাজি করা, দূর থেকে নিয়ন্ত্রণ করা বা বোমা বিস্ফোরণের মাধ্যমে ক্ষমতা নেওয়া—ঐতিহাসিক সূত্রে-supported নয় এবং সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "তিনি মিনহাজের বিমানে লাফিয়ে উঠেছিলেন।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56387,
+      "value": {
+        "options": {
+          "a": "২৮শে অক্টোবর, ১৯৭১",
+          "b": "২৭শে জুলাই, ১৯৭১",
+          "c": "৩০শে সেপ্টেম্বর, ১৯৭১",
+          "d": "২৫শে মার্চ, ১৯৭১"
+        },
+        "question": "হামিদুর রহমান কবে শহীদ হন?",
+        "solution": "সমাধান:\nধাপ ১: ঐতিহাসিক তথ্য অনুযায়ী, মুক্তিযুদ্ধে সৈনিক হামিদুর রহমানকে শহীদ করা হয় ২৮শে অক্টোবর, ১৯৭১-এ।  \nধাপ ২: তাই সঠিক উত্তরে হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ২৮শে অক্টোবর, ১৯৭১।  \nকেন অন্যগুলো ভুল: \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ২৫শে মার্চ, ১৯৭১ ছিল যুদ্ধের শুরু ও গণহত্যার দিন; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ২৭শে জুলাই ও \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ৩০শে সেপ্টেম্বর, ১৯৭১ কোনো প্রামাণ্য সূত্রে হামিদুর রহমানের শহীদ হওয়ার দিন হিসেবে পাওয়া যায় না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56388,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মুক্তিযোদ্ধা বন্দুক ব্যবহার করতে পারতেন না।",
+        "solution": "সমাধান:\nStep 1: বিবৃতি বোঝা — বিবৃতিটি বলছে “মুক্তিযোদ্ধা বন্দুক ব্যবহার করতে পারতেন না।”  \nStep 2: ঐতিহাসিক প্রমাণ — ১৯৭১ সালের মুক্তিযুদ্ধে মুক্তিযোদ্ধারা গ্রেনেড, রাইফেল ও অন্যান্য আগ্নেয়াস্ত্র ব্যবহার করেছিল; অনেক অস্ত্র তারা قبضা করেছিল বা ভারতীয় সহায়তা ও প্রশিক্ষণ পেয়েছিল।  \nStep 3: সিদ্ধান্ত — তাই বিবৃতিটি ভুল, সঠিক উত্তর হলো বিকল্প b (False)।  \nব্যাখ্যা: বিকল্প a (True) ভুল কারণ বাস্তবে মুক্তিযোদ্ধারা আগ্নেয়াস্ত্র ব্যবহার করেই পাকিস্তানি বাহিনীর বিরুদ্ধে লড়াই করেছে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56389,
+      "value": {
+        "options": {
+          "a": "মহিউদ্দিন জাহাঙ্গীর",
+          "b": "মতিউর রহমান",
+          "c": "হামিদুর রহমান",
+          "d": "সকল"
+        },
+        "question": "বীরশ্রেষ্ঠ __________ এর শহিদ হয়ে জীবন উৎসর্গ করেন।",
+        "solution": "সমাধান:\n1. প্রথমে প্রতিটি নাম পরীক্ষা করি — মহিউদ্দিন জাহাঙ্গীর, মতিউর রহমান ও হামিদুর রহমান — প্রত্যেকে বাংলাদেশ মুক্তিযুদ্ধে অংশ নিয়ে বীরশ্রেষ্ঠ পদকপ্রাপ্ত এবং শহিদ হন।\n2. যেহেতু তিনজনেই শহিদ হয়ে জীবন উৎসর্গ করেছেন, তাই এককভাবে কোনো একটি নাম নির্বাচন করলে পূর্ণ সত্য প্রকাশ пাবে না।\n3. অতএব সর্বোত্তম উত্তর হলো d: সকল — কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মহিউদ্দিন জাহাঙ্গীর, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E মতিউর রহমান এবং \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E হামিদুর রহমান সবাই শহিদ হয়েছেন।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56390,
+      "value": {
+        "options": [],
+        "question": "মুক্তিযুদ্ধের সময় পাকিস্তানি সেনাবাহিনীকে কীভাবে পরাজিত করতে হয়েছিল?",
+        "solution": "সমাধান: প্রথমত মুক্তিযোদ্ধারা ব্যক্তিগত ও সংগঠিত সাহস দেখিয়ে লড়াই শুরু করলে মনোবল বজায় থাকে এবং প্রতিরোধ শক্তিশালী হয়। পরে কৌশলগত পদ্ধতি—গেরিলা যুদ্ধ, টার্গেটেড আকস্মিক আক্রমণ, স্থানীয় জনসাহায্য ও সঠিক সময় নির্বাচন—প্রয়োগ করে সুষম ও কার্যকর আঘাত করা সম্ভব হয়েছিল। তাই মূলত সাহসের সঙ্গে লড়াই করা এবং কৌশল প্রয়োগ করাই পাক সেনাবাহিনীকে পরাজিত করার পথ ছিল; কেবল কূটনীতি বা শান্তিপূর্ণ অনুরোধ একলা যথেষ্ট হতো না, কারণ তখনকার পরিস্থিতিতে সামরিক শক্তিকে কেবল শক্তির সঙ্গে মোকাবিলা করাই ফলপ্রসূ ছিল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "সাহসের সঙ্গে যুদ্ধ করে এবং কৌশল প্রয়োগ করে।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56391,
+      "value": {
+        "options": {
+          "a": "৪র্থ বাঙ্গালি",
+          "b": "১ম ইস্ট বেঙ্গল",
+          "c": "২য় ইস্ট বেঙ্গল",
+          "d": "৩rd কোনও রেজিমেন্ট"
+        },
+        "question": "মুক্তিযুদ্ধ চলাকালীন হামিদুর রহমানের নেতৃত্বে কোন রেজিমেন্ট কাজ করেছিল?",
+        "solution": "সমাধান: মুক্তিযুদ্ধকালের ঐতিহাসিক রেকর্ড ও পরিচিতি অনুযায়ী হামিদুর রহমান ছিলেন ১ম ইস্ট বেঙ্গল রেজিমেন্টের সঙ্গে যুক্ত ও তার নেতৃত্বে কাজ করেছিলেন। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (১ম ইস্ট বেঙ্গল)। বাকি অপশনগুলো ভুল—চতুর্থ বাঙ্গালি, দ্বিতীয় ইস্ট বেঙ্গল বা তৃতীয় কোনো রেজিমেন্টের নেতৃত্বের সঙ্গে তার নাম সাধারণত যুক্ত না থাকার কারণে সেগুলি প্রযোজ্য নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56392,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "গোটা জাতি মুক্তিযুদ্ধের সময় একত্রিত হয়েছিল।",
+        "solution": "সমাধান:\nধাপ ১: ১৯৭১ সালের মুক্তিযুদ্ধের সময় গ্রাম-শহর, বিভিন্ন শ্রেণি ও পেশার মানুষ, ছাত্র-ছাত্রী, শ্রমিক ও কৃষকরা একযোগে অংশগ্রহণ ও সমর্থন করেছিল।  \nধাপ ২: জাতীয় ঐক্য, সর্বস্তরের অর্থনৈতিক ও রাজনৈতিক সমর্থন এবং মুক্তিযোদ্ধাদের পাশে সাধারণ জনগণের সক্রিয় ভূমিকা দেখে বলা যায় বিবৃতি সঠিক — True।  \nধাপ ৩: অপশন b (False) ভুল কারণ এটি ঐতিহাসিক বাস্তবতার পরিপন্থী; বিশাল গণঅভ্যুত্থান ও জাতীয় ঐক্যই মুক্তিযুদ্ধের মূল বৈশিষ্ট্য ছিল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56393,
+      "value": {
+        "options": {
+          "a": "অএশীয়",
+          "b": "শান্তির",
+          "c": "বঙ্গবন্ধুর",
+          "d": "জাতীয়"
+        },
+        "question": "মুক্তিযুদ্ধের সময় __________ মুক্তিবাহিনী গঠিত হয়।",
+        "solution": "সমাধান: মুক্তিযুদ্ধের সময় নেতৃত্ব ও দিকনির্দেশনা প্রদানকারী ছিলেন বঙ্গবন্ধু শেখ মুজিবুর রহমান; তাই মুক্তিবাহিনী গঠিত ও সংগঠিত হয় তাঁর নেতৃত্বে—অর্থাৎ \"বঙ্গবন্ধুর মুক্তিবাহিনী\"। তাই সঠিক উত্তর হচ্ছে (c) বঙ্গবন্ধুর। অন্যান্য বিকল্পগুলো ভুল কারণ তারা মুক্তিবাহিনী বা তার নেতৃত্বের সঙ্গে সম্পর্কিত নয়: \"অএশীয়\", \"শান্তির\" বা \"জাতীয়\" এমন কোনো গ্রহণযোগ্য ঐতিহাসিক নাম নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56394,
+      "value": {
+        "options": [],
+        "question": "মুক্তিযোদ্ধাদের শহিদ হওয়ার কারণ কী?",
+        "solution": "সমাধান:\n1. প্রথমত, “শহিদ” বলতে সাধারণত বোঝায় এমন ব্যক্তি যিনি জাতির জন্য বা সুন্দর কোনো লক্ষ্য পূরণের উদ্দেশ্যে লড়াই করে প্রাণ উৎসর্গ করেছেন।  \n2. মুক্তিযোদ্ধারা ১৯৭১ সালে দেশের স্বাধীনতা অর্জনের জন্য সশস্ত্র ও রাজনৈতিকভাবে লড়াই করেছিলেন এবং সেই সংগ্রামে অনেকেই জীবন দান করেছেন—এ কারণেই তাদের শহিদ বলা হয়।  \n3. তাই সঠিক উত্তর: স্বাধীনতার জন্য লড়াই করা ও জীবন উৎসর্ঙ করা; অন্য বিকল্পগুলো (যেমন স্বাভাবিক মৃত্যু, দুর্যোগজনিত মৃত্যু ইত্যাদি) ঐক্যবদ্ধ রাজনৈতিক সংগ্রামে প্রাণ হারানোর অর্থ বহন করে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "স্বাধীনতার জন্য লড়াই করা ও জীবন উৎসর্গ করা।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56395,
+      "value": {
+        "options": {
+          "a": "মেশিনগান",
+          "b": "সিঁড়ি",
+          "c": "গাড়ি",
+          "d": "কাঠ"
+        },
+        "question": "মুক্তিযুদ্ধের সময় বন্দুকের নাম কি?",
+        "solution": "সমাধান:\n১) প্রশ্নটি মুক্তিযুদ্ধের সময় ব্যবহৃত বন্দুকের নাম জানতে চায়।  \n২) দেওয়া অপশনগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E \"মেশিনগান\" সরাসরি অস্ত্র-শ্রেণীর মধ্যে পড়ে, যেখানে \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E \"সিঁড়ি\", \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E \"গাড়ি\" এবং \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E \"কাঠ\" অস্ত্র নয়।  \n৩) অতএব সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E মেশিনগান, কারণ মুক্তিযুদ্ধের সময় যেসব জিনিসাই সরাসরি যুদ্ধায় ব্যবহার করা হতো সেগুলোই অস্ত্র হিসেবে গণ্য।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56396,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "দেশে স্বাধীনতা অর্জন হয়েছিল মুক্তিযোদ্ধাদের অবদানে।",
+        "solution": "সমাধান:\nধাপ ১: ঐতিহাসিক সত্য — ১৯৭১ সালের মুক্তিযুদ্ধে বাংলাদেশের স্বাধীনতা অর্জনে প্রধান ভূমিকা রেখেছিলেন মুক্তিযোদ্ধারা (মুক্তিযোদ্ধা বাহিনী ও সাধারণ জনগণের অংশগ্রহণ)।  \nধাপ ২: কারণ বিশ্লেষণ — মুক্তিযোদ্ধারা ত্যাগ, প্রতিরোধ এবং সামরিক/গেরিলা কার্যক্রমের মাধ্যমে পাকিস্তানি দমন বাহিনীকে পরাজিত করে স্বাধীনতা নিশ্চিত করেছিলেন।  \nসুতরাং প্রশ্নটির সঠিক উত্তর হচ্ছে a (True)। বিকল্প b ভুল, কারণ স্বাধীনতা শুধুমাত্র কূটনৈতিক বা অন্য কোনো কারণে স্বতঃসিদ্ধভাবে হয়নি — এটি মুক্তিযোদ্ধাদের সংগ্রাম ও ত্যাগের ফল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7371,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7371&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7371&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7371&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 147,
+  "total": 147
+}

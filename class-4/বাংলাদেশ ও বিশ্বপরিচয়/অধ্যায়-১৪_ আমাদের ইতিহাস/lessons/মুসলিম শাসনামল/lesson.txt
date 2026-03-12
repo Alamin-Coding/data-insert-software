@@ -1,0 +1,415 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746661,
+      "value": {
+        "options": {
+          "ক": "সম্রাট আকবর",
+          "খ": "সম্রাট বাবর",
+          "গ": "সম্রাট জাহাঙ্গীর",
+          "ঘ": "সম্রাট হুমায়ূন"
+        },
+        "question": "ঈসা খাঁ বাংলার স্বাধীনতার জন্য দিল্লির কোন মোগল সম্রাটের সাথে যুদ্ধ করেন?",
+        "solution": "ক. সম্রাট আকবর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746662,
+      "value": {
+        "options": {
+          "ক": "ঈসা খাঁ",
+          "খ": "শায়েস্তা খান",
+          "গ": "ইসলাম খান",
+          "ঘ": "মুসা খান"
+        },
+        "question": "কার আমলে চাল খুব সস্তা ছিল?",
+        "solution": "খ. শায়েস্তা খান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746663,
+      "value": {
+        "options": {
+          "ক": "প্রাচীন যুগে",
+          "খ": "মধ্যযুগে",
+          "গ": "আধুনিক যুগে",
+          "ঘ": "মোগল যুগে"
+        },
+        "question": "কোন যুগের শাসকদের আনুকূল্যে বাংলা ভাষা ও সাহিত্য ব্যাপকভাবে বিকশিত হয়?",
+        "solution": "খ. মধ্যযুগে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746664,
+      "value": {
+        "options": {
+          "ক": "দ্বাদশ শতকে",
+          "খ": "চতুর্দশ শতকে",
+          "গ": "পঞ্চদশ শতকে",
+          "ঘ": "ষোড়শ শতকে"
+        },
+        "question": "শামসুদ্দিন ইলিয়াস শাহ কত শতকে বাংলায় সিংহাসনে বসেন?",
+        "solution": "খ. চতুর্দশ শতকে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746665,
+      "value": {
+        "options": {
+          "ক": "ঢাকা",
+          "খ": "কর্ণসুবর্ণ",
+          "গ": "সোনারগাঁও",
+          "ঘ": "মহাস্থানগড়"
+        },
+        "question": "ঈসা খাঁ কোথাকার জমিদার ছিলেন?",
+        "solution": "গ. সোনারগাঁও",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746666,
+      "value": {
+        "options": {
+          "ক": "জলদস্যুদের",
+          "খ": "ঠগিদের",
+          "গ": "ডাকাতদের",
+          "ঘ": "রাজাদের"
+        },
+        "question": "শায়েস্তা খান বাংলা অঞ্চল থেকে কাদের বিতাড়িত করেন?",
+        "solution": "ক. জলদস্যুদের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746667,
+      "value": {
+        "options": {
+          "ক": "শামসুদ্দিন ইলিয়াস শাহ",
+          "খ": "ঈসা খাঁ",
+          "গ": "শায়েস্তা খান",
+          "ঘ": "মুসা খাঁ"
+        },
+        "question": "ইলিয়াস শাহী বংশের শাসন সূচনা করেন কে?",
+        "solution": "ক. শামসুদ্দিন ইলিয়াস শাহ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746668,
+      "value": {
+        "options": {
+          "ক": "মুসা খান",
+          "খ": "বাহাদুর গাজী",
+          "গ": "প্রজাপাদিত্য",
+          "ঘ": "ঈসা খাঁ"
+        },
+        "question": "বারোভূঁইয়াদের নেতা ছিলেন কে?",
+        "solution": "ঘ. ঈসা খাঁ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746669,
+      "value": {
+        "options": {
+          "ক": "চতুর্দশ শতকে",
+          "খ": "পঞ্চদশ শতকে",
+          "গ": "সপ্তদশ শতকে",
+          "ঘ": "অষ্টাদশ শতকে"
+        },
+        "question": "মোগলরা শায়েস্তা খানকে বাংলার সুবেদার নিযুক্ত করেন কত শতকে?",
+        "solution": "গ. সপ্তদশ শতকে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746670,
+      "value": {
+        "options": {
+          "ক": "ঢাকা",
+          "খ": "মুন্সিগঞ্জ",
+          "গ": "চট্টগ্রাম",
+          "ঘ": "ঝিনাইদহ"
+        },
+        "question": "মুসলিম শাসনামলে বাণিজ্য কেন্দ্র হিসেবে সুপরিচিত ছিল-",
+        "solution": "গ. চট্টগ্রাম",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7401,
+      "created_at": "2025-11-27T09:36:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7401&grade=7&lesson=13456&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7401&grade=7&lesson=13456&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7401&grade=7&lesson=13456&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 10,
+  "total": 10
+}

@@ -1,0 +1,953 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 57259,
+      "value": {
+        "options": {
+          "a": "যুদ্ধ করার জন্য",
+          "b": "ক্লান্তি দূর করতে",
+          "c": "অন্য একটি রাজ্যে যাওয়ার জন্য",
+          "d": "ধর্ম রক্ষা করার জন্য"
+        },
+        "question": "রাজা কার্তবীর্য কেন রাজধানী ত্যাগ করেছিলেন?",
+        "solution": "সমাধান: \nধাপ ১: প্রশ্নটিতে বলা হয়েছে রাজা রাজধানী ত্যাগের কারণ কী — এখান থেকে প্রধান কারণ খুঁজে নিতে হবে।  \nধাপ ২: বিষয়বস্তু অনুযায়ী রাজা রাজধানী ছাড়ার সরাসরি কারণ ছিল বিশ্রাম বা ক্লান্তি দূর করা, তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (ক্লান্তি দূর করতে)।  \nধাপ ৩: বাকি অপশনগুলো প্রমাণে মেলে না — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (যুদ্ধ করার জন্য) ও \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (অন্য একটি রাজ্যে যাওয়ার জন্য) ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (ধর্ম রক্ষা করার জন্য) প্রশ্নে প্রদত্ত মূল কারণের সঙ্গে সঙ্গতিপন্ন নয়, তাই বর্জিত।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57270,
+      "value": {
+        "options": [],
+        "question": "রাজা কার্তবীর্যের যুদ্ধের উদ্দেশ্য কি ছিল?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে যে প্রধান শব্দটি আছে—“যুদ্ধের উদ্দেশ্য”—এটি রাজা কার্তবীর্যের কর্মকাণ্ড ও ঐতিহাসিক প্রেক্ষাপট দেখে নির্ণয় করতে হবে।  \nধাপ ২: ঐতিহাসিক সূত্র এবং যুদ্ধের স্বভাব বিশ্লেষণ করলে দেখা যায় তিনি বিদেশী আক্রমণ বা অভ্যন্তরীণ হুমকির বিরুদ্ধে দেশের সার্বভৌমত্ব ও স্বাধীনতা রক্ষা করতে লড়াই করেছিলেন।  \nধাপ ৩: সুতরাং যুদ্ধের সঠিক উদ্দেশ্য ছিল দেশের স্বাধীনতা রক্ষা করা।  \n\nব্যাখ্যা: ব্যক্তিগত লাভ, সাম্প্রদায়িক প্রতিশোধ বা ভূখণ্ড আগ্রাসন ইত্যাদি উদ্দেশ্যগুলোর কোনো প্রমাণ পোশাকি নয় বা অন্তর্ভুক্ত নয়; রাজ্যের সার্বভৌমত্ব রক্ষা করার মতো জাতীয় উদ্দেশ্যই ঐতিহাসিকভাবে প্রধান ছিল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "দেশের স্বাধীনতা রক্ষা করা"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57269,
+      "value": {
+        "options": {
+          "a": "রাজ",
+          "b": "সীপ",
+          "c": "অলঙ্কার",
+          "d": "নগরী"
+        },
+        "question": "রাজা কার্তবীর্য দেশের __________ ত্যাগ করেছিলেন।",
+        "solution": "সমাধান:\n1. প্রশ্নটি পড়ে বোঝা যায় যে \"ত্যাগ করেছিলেন\" শব্দটি সাধারণত কোনো স্থaan (যেমন নগরী, দেশ) ত্যাগ করার সঙ্গে মিলে যায়।\n2. প্রদত্ত বিকল্পগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E রাজ (ব্যক্তি), সীপ (বস্তु), অলঙ্কার (বস্তু) — এগুলি ত্যাগ করার প্রাসঙ্গিকতা কম; আর \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E নেই কারণ প্রশ্নে কেবল ইংরেজি অক্ষরই দেওয়া আছে—সবচেয়ে উপযুক্ত বিকল্প হলো নগরী।\nসঠিক উত্তর: d — নগরী।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57268,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "দেশপ্রেম মানুষের জন্য ধর্মের ভিত্তির মধ্যে পড়ে।",
+        "solution": "সমাধান:\n1. ধাপ ১: প্রশ্নের অর্থ বোঝা—র বলেন যে দেশপ্রেম (দেশপ্রতি ভালোবাসা, কর্তব্য ও ত্যাগের মানসিকতা) মানুষের জন্য ধর্মগত মূল্যবোধের অন্তর্ভুক্ত।  \n2. ধাপ ২: বিশ্লেষণ—অনেক ধর্মই সততায়, নৈতিকতা, সমাজসেবায় এবং কর্তব্যপরায়ণে উৎসাহ দেয়; দেশপ্রতি দায়বদ্ধতা ও সম্মান এসব ধর্মগত শিক্ষার সঙ্গে খাপ খায়, তাই দেশপ্রেমকে ধর্মের ভিত্তির অংশ হিসেবে দেখা যায়।  \n3. ধাপ ৩: উপসংহার—অতএব উক্ত বক্তব্য সত্য, সঠিক উত্তর হলো a (True)। কারণ b (False) ভুল; কারণ দেশপ্রেমকে ধর্মগত নৈতিকতার বাইরে সম্পূর্ণভাবে আলাদা বলা যায় না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57267,
+      "value": {
+        "options": {
+          "a": "শান্তি প্রতিমা দেখা",
+          "b": "বুদ্ধি ও সাহসিকতার মাধ্যমে",
+          "c": "বানিজ্য দ্বারা",
+          "d": "যুদ্ধবিধ্বংসী"
+        },
+        "question": "রাজা কার্তবীর্য কিভাবে জয়লাভ করলেন?",
+        "solution": "সমাধান: ধাপে ধাপে বিশ্লেষণ করে দেখা যাক—  \nপ্রথমে প্রশ্নে বলা রাজার জয়লাভের কারণ নির্ণয় করতে তার কীর্তি ও স্বভাব বিবেচনা করা হয়। ঐতিহাসিক ও পৌরাণিক আখ্যানগুলোতে রাজা কার্তবীর্যকে বুদ্ধি ও সাহসিকতার দ্বারা বিজয়ী হিসেবে চিত্রিত করা হয়, তাই \u003Cb\u003Eসঠিক উত্তর: b — বুদ্ধি ও সাহসিকতার মাধ্যমে\u003C/b\u003E। অন্যান্য অপশনগুলো ভুল কারণ (a) শান্তি প্রতিমা দেখার মতো কোনো নিদর্শন নেই, (c) বানিজ্য দ্বারা জয়লাভ করার উল্লেখ নেই, এবং (d) শুধুমাত্র যুদ্ধবিধ্বংসী বলে ব্যাখ্যা করলে বুদ্ধি ও কৌশলগত দিক উপেক্ষিত হয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57266,
+      "value": {
+        "options": [],
+        "question": "দেশপ্রেমিক রাজার চরিত্র কেমন ছিল?",
+        "solution": "সমাধান:\n1) প্রশ্নের মূল শব্দ “দেশপ্রেমিক রাজা” থেকে বুঝতে হবে তার আচরণ এবং মনোভাব দেশের প্রতি আনুগত্য ও আত্মপর্ণোদ্দেশ্যযুক্ত।  \n2) চরিত্র বিশ্লেষণে দেখা যায় সে অন্যায়-মুক্ত, নৈতিক আদর্শ মেনে চলে — অর্থাৎ সৎ; ধর্মীয় অনুশাসন ও নৈতিক মূল্যবোধের প্রতি আনুগ্য — অর্থাৎ ধর্মিক; এবং দেশের কল্যাণে সবসময় প্রস্তুত ও আত্মত্যাগী মনোভাব প্রকাশ করে।  \n3) এতে করে সঠিক উত্তর হচ্ছে “সৎ, ধর্মিক ও দেশের জন্য সর্বদা প্রস্তুত” কারণ অন্য কোনো বিকল্প (যেমন স্বার্থপর, দুর্নীতিগ্রস্ত ইত্যাদি) প্রশ্নে নির্দেশিত দেশপ্রেম ও নৈতিকতার সাথে সামঞ্জস্যপূর্ণ নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "সৎ, ধর্মিক ও দেশের জন্য সর্বদা প্রস্তুত"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57265,
+      "value": {
+        "options": {
+          "a": "অহংকার",
+          "b": "বিরোধিতা",
+          "c": "আšমানি",
+          "d": "দেশপ্রেম"
+        },
+        "question": "দেশপ্রেমিকদের জীবনে __________ একটি মহৎ গুণ।",
+        "solution": "সমাধান:\nStep 1: বাক্যের প্রেক্ষাপট থেকে বোঝা যায় শূন্যস্থানে এমন একটি গুণের নাম বসবে যা 'মহৎ' হিসেবে বিবেচিত হয়।  \nStep 2: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E না দেখে অপশনগুলো পরীক্ষা করলে (d) দেশপ্রেম বসালে বাক্য হয়: \"দেশপ্রেমিকদের জীবনে দেশপ্রেম একটি মহৎ গুণ।\" — এই বাক্যটি স্বাভাবিক ও সঠিক।  \nStep 3: অন্যান্য অপশনগুলো ছাড়া করা যায় কারণ 'অহংকার' সাধারণত মহৎ গুণ নয়, 'বিরোধিতা' ও 'আšমানি' অর্থগতভাবে বাক্যের সঙ্গে খাপ খায় না।  \nঅতএব সঠিক উত্তর হলো d (দেশপ্রেম)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57264,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "দেশপ্রেম শুধুমাত্র যুদ্ধের সময় প্রকাশ পায়।",
+        "solution": "সমাধান:\nধাপ ১: দেশপ্রেমের অর্থ হলো দেশের জন্য ভালোবাসা ও কর্তব্যবোধ — এটি আইন মানা, সমাজসেবা, ভাষা ও সাংস্কৃতিক সংরক্ষণ, উন্নয়নে অংশগ্রহণ ইত্যাদিতে প্রকাশ পায়।  \nধাপ ২: যুদ্ধকালীন ত্যাগ দেশপ্রেমের এক দৃশ্যমান রূপ হলেও দেশপ্রেম শুধু যুদ্ধেই সীমাবদ্ধ নয়; এটি প্রতিদিনের দায়িত্ব ও আচরণে নিয়মিতভাবে প্রকাশ পায়।  \nএ ব্যাখ্যায় মূল বিবৃতি \"দেশপ্রেম শুধুমাত্র যুদ্ধের সময় প্রকাশ পায়\" ভুল, তাই সঠিক উত্তর: b।  \na অপশনটি ভুল কারণ তা দেশপ্রেমের বিস্তৃত ও বহুমুখী প্রকৃতিকে অগ্রাহ্য করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57263,
+      "value": {
+        "options": {
+          "a": "বৌদ্ধ",
+          "b": "হিন্দু",
+          "c": "ঈশাই",
+          "d": "জেন"
+        },
+        "question": "রাজা কার্তবীর্য কোন ধর্মের অনুসারী ছিলেন?",
+        "solution": "সমাধান:\nরাজা কার্তবীর্য (কার্তবীর্য অর্জুন) হিন্দু পুরাণ, মহাভারত ও অন্যান্য প্রাচীন ভারতীয় গ্রন্থে বর্ণিত একজন পুরাণিক রাজা এবং হইহয়া বংশের রাজা হিসেবে পরিচিত। তাই তিনি হিন্দু ধর্মের চরিত্র ও ধর্মীয় প্রেক্ষাপটের সঙ্গে যুক্ত ছিলেন, অতএব সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E হিন্দু। অন্যান্য বিকল্পগুলি (বৌদ্ধ, ঈশাই, জেন) ঐতিহাসিক ও পুরাণগত সূত্রে তাঁর ধর্ম হিসেবে সমর্থিত নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57262,
+      "value": {
+        "options": [],
+        "question": "দেশপ্রেম সমাজে কীভাবে গুরুত্ব পায়?",
+        "solution": "সমাধান: দেশপ্রেম মানে দেশের কল্যাণ ও উন্নয়নের প্রতি একান্ত অনুপ্রেরণা — এটি মানুষকে সম্মিলিতভাবে কাজ করার প্ররোচনা দেয়। প্রথম ধাপ: দেশভক্ত মানুষ শিক্ষা, শ্রম, আইন মেনে চলা ও সামাজিক কাজে অংশগ্রহণ করে; দ্বিতীয় ধাপ: এই সার্বিক অংশগ্রহণ সরাসরি দেশের অবকাঠামো, অর্থনীতি ও সামাজিক উন্নয়নে ফল ফেলে। অতএব দেশপ্রেম সমাজে মূলত \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দেশের উন্নয়নে সহায়তা করে গুরুত্ব পায়। অন্যান্য সম্ভাব্য ফল (যেমন সাংস্কৃতিক গৌরব বা আত্মত্যাগ) সত্য হলেও সেগুলো দেশের উন্নয়নের প্রদত্ত সহায়ক বা বহির্গত প্রভাব, মুল লক্ষ্য নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "দেশের উন্নয়নে সহায়তা করে"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57261,
+      "value": {
+        "options": {
+          "a": "দুর্বলতা",
+          "b": "সামাজিক",
+          "c": "স্বাধীনতা",
+          "d": "অভিমান"
+        },
+        "question": "দেশের __________ রক্ষা করা দেশের প্রতি প্রেমের পরিচয়।",
+        "solution": "সমাধান: প্রশ্নে \"রক্ষা করা\" এবং \"দেশের প্রতি প্রেম\" শব্দদ্বয় থেকে বুঝা যায় যে এখানে জাতীয় আত্মস্বার্থ ও মর্যাদা বজায় রাখার কথা বলা হচ্ছে। দেশের যে মূল্যটি রক্ষা করা হলে তা দেশের প্রতি প্রকৃত ভালোবাসা ও কর্তব্যপরায়ণতার পরিচয় দেয়, তা হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E — স্বাধীনতা। অন্য বিকল্পগুলো যেমন \"দুর্বলতা\", \"সামাজিক\", \"অভিমান\" দেশের প্রতি প্রেম বা কর্তব্যের সঙ্গে প্রাসঙ্গিক নয়, তাই সেগুলো খারিজ করা হয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57260,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "রাজা কার্তবীর্যকে রাবণ ক্ষমা করতে বলেন এবং লঙ্কা রাজ্যে ফিরে যান।",
+        "solution": "সমাধান:\nধাপ ১: বাক্যটি সতর্কভাবে পড়ে বোঝা—এখানে বলা হচ্ছে রাজা রাবণকে কার্তবীর্যকে ক্ষমা করতে বলেন এবং তারপর লঙ্কা রাজ্যে ফিরে যান।  \nধাপ ২: মূল পাঠ বা বিবরণে যদি একই ক্রম এবং ঘটনা বলা থাকে (রাজা ক্ষমা চেয়ে অনুরোধ করেন এবং পরে রাবণ লঙ্কায় ফিরে যান), তাহলে বিবৃতি সঠিক বলে গণ্য করা হবে।  \nমূল পাঠের বিবরণ অনুযায়ী এই ঘটনার সমর্থন পাওয়া যায়, তাই বিবৃতি সত্য। অতএব \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a: True) সঠিক; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (b: False) ভুল কারণ তা মূল বর্ণনার বিপরীত।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57247,
+      "value": {
+        "options": {
+          "a": "শত্রুদের সাথে বন্ধুত্ব",
+          "b": "দেশকে ভালোবাসা",
+          "c": "অন্যদের রাজ্যে আক্রমণ",
+          "d": "অবহেলা"
+        },
+        "question": "দেশপ্রেমের একটি মূল বৈশিষ্ট্য কি?",
+        "solution": "সমাধান:\nধাপ ১: দেশপ্রেম বলতে সাধারণত দেশের প্রতি ভালোবাসা, শিক্ষা, সংস্কৃতি ও স্বাধীনতার সুরক্ষায় উৎসর্গ করা মনোভাবকে বোঝায়।  \nধাপ ২: বিকল্পগুলো যাচাই করলে দেখা যায়—a শত্রুদের সাথে বন্ধুত্ব (অর্থহীন বা অপ্রাসঙ্গিক), c অন্যদের রাজ্যে আক্রমণ (আগ্রাসন যা দেশপ্রেমের বৈশিষ্ট্য নয়), d অবহেলা (বিপরীত অর্থে অনুচিত)। বিকল্প b — দেশকে ভালোবাসা—সরাসরি দেশপ্রেমের সংজ্ঞার সঙ্গে মিলে যায়।  \nঅতএব সঠিক উত্তর: b।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57258,
+      "value": {
+        "options": [],
+        "question": "দেশপ্রেমের গুণ কি?",
+        "solution": "সমাধান: দেশপ্রেম মানে দেশের প্রতি গভীর ভালোবাসা এবং দেশের কল্যাণ ও উন্নতির জন্য কাজ করার প্রবণতা। তাই সঠিক উত্তর হলো দেশের প্রতি ভালোবাসা ও দেশ উন্নতির জন্য কাজ করা, কারণ এটি দেশের স্বার্থকে সর্বোচ্চ স্থান দেয় এবং নাগরিককে সমাজ ও রাষ্ট্র নির্মাণে সক্রিয় করে। অন্য বিকল্পগুলো যদি ব্যক্তিগত স্বার্থ, অলসতা বা বছরভিত্তিক আচরণ বর্ণনা করে থাকে, সেগুলো দেশপ্রেমের প্রকৃত বৈশিষ্ট্য নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "দেশকে ভালোবাসা, দেশ উন্নতির জন্য কাজ করা"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57257,
+      "value": {
+        "options": {
+          "a": "অত্যাচারী",
+          "b": "সৎ",
+          "c": "নিপীড়ক",
+          "d": "নির্বাসিত"
+        },
+        "question": "কার্তবীর্য ছিলেন একজন __________ রাজা।",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ:\n1. প্রশ্নে কার্তবীর্যর চরিত্র নির্ধারণ করতে সাহিত্যিক ও ঐতিহাসিক বিবরণগুলো বিবেচনা করলে তিনি ন্যায়পরায়ণ ও সৎ শাসক হিসেবে উল্লেখিত—অতএব তার বৈশিষ্ট্য 'সৎ'।\n2. অপশনগুলো: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E অত্যাচারী, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সৎ, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E নিপীড়ক, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E নির্বাসিত; সুতরাং সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E।\n3. সংক্ষিপ্তভাবে অন্যান্য অপশনগুলোর অযোগ্যতা: তিনি সাধারণত নির্বাসিত বা নিপীড়ক হিসেবে পরিচিত নন, এবং 'অত্যাচারী' তথা অন্যায়চরিত্রটি পাঠ্যবস্তুও অনুযায়ী অনুপযুক্ত।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57256,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "রাজা কার্তবীর্য দেশকে রক্ষা করেন যুদ্ধ করে।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি বোঝা — বলা হচ্ছে রাজা কার্তবীর্য দেশকে রক্ষা করেন যুদ্ধ করে।  \nধাপ ২: প্রসঙ্গ ও যুক্তি — পুরাণ ও ইতিহাসসম্মত কাহিনিতে কার্তবীর্যকে শক্তিশালী যোদ্ধা ও রাজা হিসেবে চিত্রিত করা হয়, যা অনুযায়ী তিনি শত্রুদের বিরুদ্ধে লড়াই করে রাজ্য রক্ষা করেছেন।  \nনির্ণয়: তাই বিবৃতি সঠিক — সঠিক উত্তর: a। বিকল্প b ভুল কারণ এটি ঐ সূত্রগুলোর সঙ্গে বিরোধী।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57255,
+      "value": {
+        "options": {
+          "a": "অন্ধকার",
+          "b": "সুন্দর",
+          "c": "নির্জন",
+          "d": "অন্যায়"
+        },
+        "question": "রাজা কার্তবীর্যের রাজপ্রাসাদের বর্ণনা কেমন ছিল?",
+        "solution": "সমাধান:\nধাপে ধাপে চিন্তা করলে দেখা যায়—\nপ্রথম ধাপ: রূপকথা/বর্ণনায় রাজা কার্তবীর্যের রাজপ্রাসাদকে সাধারণত আলোকিত, ভদ্র ও মনোমুগ্ধকরভাবে বর্ণনা করা হয়, তাই প্রাসাদটির বৈশিষ্ট্য \"সুন্দর\" হওয়াই যৌক্তিক।  \nদ্বিতীয় ধাপ: বিকল্পগুলো যাচাই করলে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E অন্ধকার (প্রাসাদটির প্রতিচ্ছবি নয়), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E নির্জন (এটি প্রাসাদের বর্ণনা হিসেবে প্রযোজ্য নয়) এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E অন্যায় (আইনী/নৈতিক বৈশিষ্ট্য; স্থাপনার বর্ণনার সঙ্গে সম্পর্ক নেই) — সব অপ্রাসঙ্গিক।  \nসুতরাং সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E — সুন্দর।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57254,
+      "value": {
+        "options": [],
+        "question": "দেশপ্রেম প্রকাশের মাধ্যমে আমাদের কি করা উচিত?",
+        "solution": "সমাধান:\nধাপ ১: দেশপ্রেম মানে দেশের কল্যাণ ও উন্নতির প্রতি নিষ্ঠা ও দায়িত্ববোধ।  \nধাপ ২: দেশপ্রেম প্রকাশ করার সবচেয়ে বাস্তব উপায় হলো দেশের উন্নতির জন্য কাজ করা — শিক্ষা, বৈজ্ঞানিক অগ্রগতি, বস্তুনিষ্ঠ উন্নয়ন ও আইন মেনে চলা ইত্যাদি মাধ্যমে।  \nধাপ ৩: অন্য বিকল্পগুলো (যেমন কেবল নীতিবাক্য বলা, হিংসা বা উদাসীনতা) দীর্ঘমেয়াদে দেশের কল্যাণ নিশ্চিত করে না, তাই সঠিক উত্তর হলো দেশের উন্নতির জন্য কাজ করা।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "দেশের উন্নতির জন্য কাজ করা"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57253,
+      "value": {
+        "options": {
+          "a": "লঙ্কা",
+          "b": "চীন",
+          "c": "ভারত",
+          "d": "সিংহলী"
+        },
+        "question": "কার্তবীর্য __________ রাজ্যের জন্য যুদ্ধ করলেন।",
+        "solution": "সমাধান: কার্তবীর্যকে প্রাচীন পৌরাণিক কাহিনীতে লঙ্কা-সংক্রান্ত যুদ্ধচিত্রের সঙ্গে যুক্ত করা হয়ে থাকে, তাই তিনি লঙ্কার জন্য যুদ্ধ করেছিলেন। অতএব সঠিক উত্তর হচ্ছে (a) লঙ্কা। অন্যান্য বিকল্পগুলো — চীন, ভারত বা সিংহলী — এখানে প্রসঙ্গে প্রাসঙ্গিক নয়, কারণ প্রশ্নে বিশেষত লঙ্কার সঙ্গে তাঁর যুদ্ধ উল্লেখিত।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57252,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "দেশপ্রেমের অর্থ দেশের স্বাধীনতা রক্ষা করা।",
+        "solution": "সমাধান:\nধাপ ১: দেশপ্রেমের সাধারণ অর্থ হচ্ছে কোনো ব্যক্তির দেশের প্রতি ভালোবাসা, দেশকে সম্মান করা ও দেশের স্বার্থ রক্ষা করা।  \nধাপ ২: দেশের স্বাধীনতা রক্ষা করা দেশের স্বার্থ ও মর্যাদা রক্ষার অন্যতম প্রধান দিক, তাই এটি দেশপ্রেমের একটি মূল অংশ।  \nধাপ ৩: তাই বিবৃতিটি সঠিক — সঠিক উত্তর: a। বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভুল, কারণ তা দেশপ্রেমের একটি মৌলিক দিক অস্বীকার করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57251,
+      "value": {
+        "options": {
+          "a": "ঐশ্বর্যবান",
+          "b": "সৎ",
+          "c": "অত্যাচারী",
+          "d": "মানবতাবাদী"
+        },
+        "question": "কার্তবীর্যের রাজ্যে রাবণের পরিচয় কী?",
+        "solution": "সমাধান: ধাপ ১: কার্তবীর্যের রাজ্যের বর্ণনা ও রাবণের কাজ-কর্ম (সীতাহরণ, আন্যদের ওপর কর্তৃত্ব ও শক্তির অপব্যবহার) থেকে বোঝা যায় তিনি ন্যায়পরায়ণ বা মানবতাবাদী নন বরং দমনকারী ও নিষ্ঠুর। ধাপ ২: উল্লেখিত বৈশিষ্ট্যগুলির সঙ্গে বিকল্পগুলো মিলিয়ে দেখলে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E — অত্যাচারী—ই সঠিক উত্তর। কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (ঐশ্বর্যবান) হয়তো আংশিক সত্য, কিন্তু প্রধান চরিত্রগত বৈশিষ্ট্য নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (সৎ) ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মানবতাবাদী) স্পষ্টভাবে প্রাসঙ্গিক নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57250,
+      "value": {
+        "options": [],
+        "question": "রাজা কার্তবীর্যের সাহসিকতার উদাহরণ কী?",
+        "solution": "সমাধান: প্রথমে “সাহসিকতা” কী তা নির্ধারণ করতে হবে — বিপজ্জনক পরিস্থিতিতে ভয়ের ওপরে উঠে বিপদের বিরুদ্ধে লড়াই করা বা সম্প্রতি জরুরি কাজ করা সাহসিকতার পরিচয়। তাই রাজা কার্তবীর্যের সাহসিকতার উদাহরণ হলো রাবণের বিরুদ্ধে যুদ্ধ করা, কারণ সে এক শক্তিশালী শত্রুর সঙ্গে সম্মুখীন হয়ে নিজের জীবন ঝুঁকিতে ফেলে লড়েছে এবং অপরাধীকে পরাজিত করার জন্য সাহসিকতার পরিচয় দিয়েছে। অন্যান্য বিকল্পগুলো যদি শান্তিপূর্ণ কাজ বা দৈনন্দিন কর্তব্য বোঝায়, সেগুলো একই মাত্রার সাহসিকতার উদাহরণ নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "রাবণের বিরুদ্ধে যুদ্ধ করা"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57249,
+      "value": {
+        "options": {
+          "a": "অবহেলা",
+          "b": "যুদ্ধ",
+          "c": "মমত্ববোধ",
+          "d": "পরাজয়"
+        },
+        "question": "দেশপ্রেমের জন্য __________ কাজ করতে হয়।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি বুঝতে হবে — দেশপ্রেম মানে দেশের প্রতি ভালোবাসা, যত্ন ও দায়িত্ববোধ।  \nধাপ ২: অপশনগুলো মিলিয়ে দেখা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E অবহেলা — দেশের প্রতি অবহেলার মানে বিপরীত; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E যুদ্ধ — কখনও কখনও দেশরক্ষার অংশ হতে পারে কিন্তু দেশপ্রেমের মূল গুণ নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E মমত্ববোধ — দেশের প্রতি ভালোবাসা ও যত্ন প্রকাশ করে; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পরাজয় — অর্থগতভাবেই দেশপ্রেমের সাথে সম্পর্কবিহীন।  \nধাপ ৩: সুতরাং সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (মমত্ববোধ)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57248,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "রাজা কার্তবীর্যের দেশপ্রেম সংক্রান্ত কাহিনী মূলত ধর্মের থাকা।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি বিশ্লেষণ করলে দেখা যায় বলা হচ্ছে ‘রাজা কার্তবীর্যের দেশপ্রেম সংক্রান্ত কাহিনী’ মূলত ধর্মগত পরিবেশে উপস্থাপিত — অর্থাৎ দেশপ্রেমকে ধর্মীয় কর্তব্য বা ধর্মচেতনার সঙ্গে যুক্ত করা হয়েছে।  \nধাপ ২: প্রচলিত বর্ণনায় রাজা কার্তবীর্যের নৈতিক ও ধর্মীয় কর্তব্যবোধই তার দেশরক্ষার চেষ্টাকে যুক্তি দিয়েছে, তাই মূল থিমটি ধর্মগত প্রেক্ষাপটে স্থাপিত বলা যায়।  \nএই যুক্তি থেকে সঠিক উত্তর: a (True)। বিকল্প b ভুল, কারণ তা প্রশ্নের থিম‑বর্ণনার ধর্মগত সম্পর্ক অগ্রাহ্য করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7436,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7436&grade=7&per_page=2000&question_paper_id=47709&subject=108&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7436&grade=7&per_page=2000&question_paper_id=47709&subject=108&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7436&grade=7&per_page=2000&question_paper_id=47709&subject=108&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 24,
+  "total": 24
+}

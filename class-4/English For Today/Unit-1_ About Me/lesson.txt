@@ -1,0 +1,2692 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 741925,
+      "value": {
+        "options": [],
+        "question": "______ question will you ask to know about a new friend?",
+        "solution": "Which",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741895,
+      "value": {
+        "options": [],
+        "question": "Class",
+        "solution": "Standard or grade",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741896,
+      "value": {
+        "options": [],
+        "question": "old",
+        "solution": "aged",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741897,
+      "value": {
+        "options": [],
+        "question": "Bijoy",
+        "solution": "Nine years old",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741898,
+      "value": {
+        "options": [],
+        "question": "______ is the name of your school?",
+        "solution": "What",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741899,
+      "value": {
+        "options": [],
+        "question": "______ are you from?",
+        "solution": "Where",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741900,
+      "value": {
+        "options": [],
+        "question": "Salma Akhter ______ in a school. (teach)",
+        "solution": "teaches",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741901,
+      "value": {
+        "options": [],
+        "question": "What ______ the name of your school? (be)",
+        "solution": "is",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741902,
+      "value": {
+        "options": [],
+        "question": "Where ______ you from? (be)",
+        "solution": "are",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741903,
+      "value": {
+        "options": [],
+        "question": "Nice ______ you. (meet/meets/to meet)",
+        "solution": "to meet",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741904,
+      "value": {
+        "options": [],
+        "question": "How old ______ you? (is/are/am)",
+        "solution": "are",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741905,
+      "value": {
+        "options": [],
+        "question": "This ______ the first day of my school. (be)",
+        "solution": "is",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741906,
+      "value": {
+        "options": [],
+        "question": "nice",
+        "solution": "good",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741907,
+      "value": {
+        "options": [],
+        "question": "well",
+        "solution": "fine",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741908,
+      "value": {
+        "options": [],
+        "question": "hello im your teacher my name is salma akhtar im from palashpur hi im shirin whats your name",
+        "solution": "Hello, I&#39;m your teacher. My name is Salma Akhtar. I&#39;m from Palashpur. Hi! I&#39;m Shirin. What&#39;s your name?",
+        "correct_answer": null
+      },
+      "question_type_id": 19,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741909,
+      "value": {
+        "options": [],
+        "question": "Ali is in",
+        "solution": "Class four",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741911,
+      "value": {
+        "options": [],
+        "question": "Salma ______ herself to the students. (introduce)",
+        "solution": "introduces",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741924,
+      "value": {
+        "options": [],
+        "question": "______ is Salma Akhtar?",
+        "solution": "Who",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741923,
+      "value": {
+        "options": [],
+        "question": "Shirin",
+        "solution": "From Palashpur",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741922,
+      "value": {
+        "options": [],
+        "question": "A teacher greets",
+        "solution": "The students",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741921,
+      "value": {
+        "options": [],
+        "question": "Teacher",
+        "solution": "Tutor",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741920,
+      "value": {
+        "options": [],
+        "question": "I ______ in class four. (be)",
+        "solution": "am",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741919,
+      "value": {
+        "options": [],
+        "question": "Where ______ you live? (do/does/doing)",
+        "solution": "do",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741918,
+      "value": {
+        "options": [],
+        "question": "Salma Akhter",
+        "solution": "A teacher",
+        "correct_answer": null
+      },
+      "question_type_id": 21,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741917,
+      "value": {
+        "options": [],
+        "question": "listen",
+        "solution": "hear",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741916,
+      "value": {
+        "options": [],
+        "question": "friend",
+        "solution": "mate",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741915,
+      "value": {
+        "options": [],
+        "question": "Nine",
+        "solution": "A number",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741914,
+      "value": {
+        "options": [],
+        "question": "Hello",
+        "solution": "Used as a greeting",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741913,
+      "value": {
+        "options": [],
+        "question": "Live",
+        "solution": "To reside",
+        "correct_answer": null
+      },
+      "question_type_id": 35,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 35,
+        "name": "Match the words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741912,
+      "value": {
+        "options": [],
+        "question": "Salma ______ her name to the class. (say)",
+        "solution": "says",
+        "correct_answer": null
+      },
+      "question_type_id": 27,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 27,
+        "name": "Correct form of verbs",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 741910,
+      "value": {
+        "options": [],
+        "question": "______ do you thank your friend?",
+        "solution": "When",
+        "correct_answer": null
+      },
+      "question_type_id": 56,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-11-27T05:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 56,
+        "name": "Question words",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489308,
+      "value": {
+        "options": {
+          "a": "Interrupt others loudly",
+          "b": "Introduce people and mention useful details politely",
+          "c": "Ignore new classmates",
+          "d": "Always answer with just numbers"
+        },
+        "question": "When Salam introduces Ayesha as 'She's in Class 3,' and the song shows polite greetings, which combined classroom rule is being modeled?",
+        "chapter_id": "4431",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489313,
+      "value": {
+        "options": {
+          "a": "Classmate's health and favorite sport",
+          "b": "Classmate's name and their class or age",
+          "c": "Classmate's breakfast menu and class timetable",
+          "d": "Classmate's shoe brand and phone number"
+        },
+        "question": "After performing the dialogue in groups, a student is asked to 'write the answers' about classmates. Combining the song's model replies and the pairwork questions, which two written answers are most likely expected?",
+        "chapter_id": "4431",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489312,
+      "value": {
+        "options": {
+          "a": "Shouting answers in class",
+          "b": "Using polite language to make and learn about friends",
+          "c": "Copying homework from others",
+          "d": "Avoiding conversation"
+        },
+        "question": "Students practice both singing greetings and asking personal details. Which combined classroom behaviour does this most encourage?",
+        "chapter_id": "4431",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489311,
+      "value": {
+        "options": {
+          "a": "Who is your friend? Could you introduce them, please?",
+          "b": "How many books do you have?",
+          "c": "Can you solve this puzzle?",
+          "d": "Do you want to run?"
+        },
+        "question": "The lesson asks 'Who's your friend?' and shows introductions like 'This is Ayesha.' Combining these ideas, which question would best introduce a friend during pairwork?",
+        "chapter_id": "4431",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489310,
+      "value": {
+        "options": {
+          "a": "Mita must be nine years old",
+          "b": "Bijoy gives his age, while Mita gives only her name and class",
+          "c": "Both students said where they live",
+          "d": "Neither student exchanged greetings"
+        },
+        "question": "If you hear 'Hello, I'm Mita' and later 'Hello, I'm Bijoy. I'm nine years old,' and you must compare the two introductions, what combined conclusion is correct?",
+        "chapter_id": "4431",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489309,
+      "value": {
+        "options": {
+          "a": "Name and class",
+          "b": "Favorite food and favorite subject",
+          "c": "School timetable and exam dates",
+          "d": "Number of siblings and shoe size"
+        },
+        "question": "The activities ask students to 'Write the answers to the questions from Activity B.' Combining this instruction with the dialogues, which two pieces of information are you most likely to be asked to write down?",
+        "chapter_id": "4431",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489307,
+      "value": {
+        "options": {
+          "a": "Talking about personal background during introductions",
+          "b": "Describing daily routines in detail",
+          "c": "Explaining a scientific experiment",
+          "d": "Asking for homework answers"
+        },
+        "question": "If a student follows the pairwork model and asks 'Where do you live?' and the reply is like 'I'm from Palashpur,' what combined classroom skill does this exchange show?",
+        "chapter_id": "4431",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489294,
+      "value": {
+        "options": {
+          "a": "What's your name? Where are you from?",
+          "b": "How old are you? What class are you in?",
+          "c": "What's your name? How old are you?",
+          "d": "Where do you live? What is the name of your school?"
+        },
+        "question": "If you greet a new classmate like in the song and then want to follow the pairwork pattern, which two questions would you ask to learn both their name and age?",
+        "chapter_id": "4431",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489295,
+      "value": {
+        "options": {
+          "a": "Salam's age",
+          "b": "They study in the same class",
+          "c": "Salam's school name",
+          "d": "Salam's hometown"
+        },
+        "question": "Mita says she's in Class 4 and Salam replies 'I'm in Class 4, too.' Combining the dialogue and the pairwork idea, what does Salam's reply mainly communicate?",
+        "chapter_id": "4431",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489296,
+      "value": {
+        "options": {
+          "a": "What's your name?",
+          "b": "What class are you in?",
+          "c": "Where do you live?",
+          "d": "How are you?"
+        },
+        "question": "Bijoy says 'I'm nine years old.' Using the pairwork question list and the song's polite replies, which is the best polite follow-up question to ask him to continue the conversation?",
+        "chapter_id": "4431",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489297,
+      "value": {
+        "options": {
+          "a": "Do you like music?",
+          "b": "What is the name of your school?",
+          "c": "Can you help me?",
+          "d": "Have you finished your homework?"
+        },
+        "question": "In the song Mita and Ayesha exchange greetings and say 'Nice to meet you.' When combined with the exercise instruction to 'ask more questions', which question best follows 'Nice to meet you' to get personal information?",
+        "chapter_id": "4431",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489298,
+      "value": {
+        "options": {
+          "a": "Is she your sister?",
+          "b": "What class is she in?",
+          "c": "How old is she?",
+          "d": "Where is she from?"
+        },
+        "question": "Salam introduces Ayesha by saying 'This is Ayesha. She's in Class 3.' Combining that with the pairwork format, what is an appropriate pairwork question to confirm Ayesha's class?",
+        "chapter_id": "4431",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489299,
+      "value": {
+        "options": {
+          "a": "Everyone in Class 3 is older than nine",
+          "b": "A student's age always equals their class number",
+          "c": "Age and class vary; you should ask both to know someone better",
+          "d": "Class number tells you the student's hometown"
+        },
+        "question": "If you follow the lesson pattern—greet, ask name, ask class—and the class contains Bijoy (9 years) and Ayesha (in Class 3), what inference can you make about age and class from the examples?",
+        "chapter_id": "4431",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489300,
+      "value": {
+        "options": {
+          "a": "Reading a story silently",
+          "b": "Giving and asking personal information politely",
+          "c": "Writing a paragraph about a place",
+          "d": "Counting numbers in English"
+        },
+        "question": "During pairwork one student asks 'Where are you from?' and the other answers like Shirin does in the book. What combined skill from the dialogues is practiced by this exchange?",
+        "chapter_id": "4431",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489301,
+      "value": {
+        "options": {
+          "a": "Fine, and you?",
+          "b": "Leave me alone.",
+          "c": "I am from Palashpur.",
+          "d": "I don't know."
+        },
+        "question": "The song shows polite replies like 'I'm very well, thank you.' Combining that with classroom practice, which response best follows 'How are you?' in a formal school introduction?",
+        "chapter_id": "4431",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489302,
+      "value": {
+        "options": {
+          "a": "Are you in Class 4?",
+          "b": "Do you live in Palashpur?",
+          "c": "How old are you?",
+          "d": "What is your favorite song?"
+        },
+        "question": "If Mita and Salam are both in Class 4 and Ayesha is in Class 3, and you need to ask a question to learn if someone is in the same class as Mita, which combined question from the lesson and pairwork would you choose?",
+        "chapter_id": "4431",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489303,
+      "value": {
+        "options": {
+          "a": "What is the name of your school and where are you from?",
+          "b": "Do you like apples?",
+          "c": "Can you swim?",
+          "d": "What time is it?"
+        },
+        "question": "The teacher tells students to 'Ask more questions.' Using examples from the song and pairwork, which additional question would best help you learn both school and hometown information?",
+        "chapter_id": "4431",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489304,
+      "value": {
+        "options": {
+          "a": "What's your name? How old are you? Goodbye.",
+          "b": "Hello. Nice to meet you. What class are you in?",
+          "c": "Where do you live? Leave now.",
+          "d": "What is your school? Go away."
+        },
+        "question": "Combining the dialogues where students greet and introduce friends, which sequence best shows a polite short conversation between two classmates?",
+        "chapter_id": "4431",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489305,
+      "value": {
+        "options": {
+          "a": "Their favorite color and their hobby",
+          "b": "Their name and the number of their house",
+          "c": "Their name and what class they are in",
+          "d": "The weather and the song title"
+        },
+        "question": "Bijoy says his age and other students tell their class in the dialogues. If you must write answers in your exercise book as instructed, which combined pair of information should you record for a classmate to follow both activities?",
+        "chapter_id": "4431",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 489306,
+      "value": {
+        "options": {
+          "a": "Singing alone",
+          "b": "Real-life social interaction and pronunciation",
+          "c": "Drawing pictures",
+          "d": "Solving math problems"
+        },
+        "question": "In the song the students exchange 'Nice to meet you' after introductions. Combining this with the roleplay instruction, what does acting the dialogue help students practice beyond words?",
+        "chapter_id": "4431",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-25T07:44:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204308,
+      "value": {
+        "options": {
+          "a": "To practice both oral fluency and written accuracy together",
+          "b": "Because the teacher wants to give extra homework only",
+          "c": "So students memorize rules without speaking",
+          "d": "To avoid any classroom conversation"
+        },
+        "question": "The lesson asks students to 'Ask and answer' aloud and also to 'Write the answers to the questions in your exercise book.' Why does the lesson combine speaking (pairwork) and writing tasks?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T12:10:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204301,
+      "value": {
+        "options": {
+          "a": "Students mix local and English greetings to be polite and practice language",
+          "b": "They only use formal greetings and avoid informal speech",
+          "c": "They are correcting each other’s pronunciation",
+          "d": "They refuse to speak to the teacher"
+        },
+        "question": "In the lesson Mita and Ayesha greet each other with both 'Salam' and 'Hello' and then say 'Nice to meet you.' What does using both kinds of greetings in the same dialogue most likely show about the classroom interaction?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T12:10:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204302,
+      "value": {
+        "options": {
+          "a": "I'm fine, thanks",
+          "b": "I'm very well, thank you",
+          "c": "Hello, how are you?",
+          "d": "Nice to meet you"
+        },
+        "question": "Two replies to 'How are you?' appear in the dialogues: 'I'm very well, thank you' and 'I'm fine, thanks.' Comparing these, which reply is most likely considered the more formal response to practice in class?",
+        "chapter_id": "4431",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T12:10:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204303,
+      "value": {
+        "options": {
+          "a": "The question should be answered with a class level, as Mita and Salam show",
+          "b": "Students should never say their class aloud",
+          "c": "Class information is private and not used in pairwork",
+          "d": "Only the teacher answers this question"
+        },
+        "question": "The pairwork asks 'What class are you in?' and in the dialogue both Mita and Salam say 'I'm in Class 4.' What inference can you draw by combining the pairwork prompt and that dialogue?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T12:10:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204304,
+      "value": {
+        "options": {
+          "a": "Because they are meeting different people and show polite reciprocation",
+          "b": "Because they forgot the first greeting",
+          "c": "Because the teacher required them to speak twice",
+          "d": "Because they are practicing a song, not a conversation"
+        },
+        "question": "When the dialogue has 'Hello, Ayesha. Nice to meet you.' followed by 'Nice to meet you, too,' why is this exchange repeated for different characters in the lesson?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T12:10:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204305,
+      "value": {
+        "options": {
+          "a": "'Where are you from?' asks origin; 'Where do you live?' asks current residence",
+          "b": "They both ask exactly the same thing and must be answered identically",
+          "c": "'Where are you from?' asks the name of the school; 'Where do you live?' asks age",
+          "d": "'Where are you from?' asks nationality only; 'Where do you live?' asks for the nearest shop"
+        },
+        "question": "The lesson includes both 'Where are you from?' and 'Where do you live?' How do these two questions differ in purpose when students answer in class?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T12:10:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204307,
+      "value": {
+        "options": {
+          "a": "A nine-year-old can be a classmate of Class 4 students in these dialogues",
+          "b": "All nine-year-olds must be in Class 3",
+          "c": "Class numbers tell nothing about students’ ages",
+          "d": "Students never reveal their ages in pairwork"
+        },
+        "question": "Bijoy says 'I'm nine years old' and another child, Ayesha, is stated to be in Class 3 while Mita is in Class 4. Combining these facts, which inference is most reasonable for classroom activities?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T12:10:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204309,
+      "value": {
+        "options": {
+          "a": "Friend's name and her class",
+          "b": "Friend's age and phone number",
+          "c": "Friend's height and favourite colour",
+          "d": "Friend's teacher and school's address"
+        },
+        "question": "In the dialogue 'This is Ayesha. She's in Class 3.' which two kinds of information does the response to 'Who's your friend?' combine, as shown by the lesson's model?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T12:10:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204310,
+      "value": {
+        "options": {
+          "a": "Songs make the greetings memorable while dialogues let students practise using them in conversation",
+          "b": "Songs replace speaking practice so students only listen",
+          "c": "Dialogues are for singing and songs are for reading grammar",
+          "d": "Singing removes the need to learn any greetings"
+        },
+        "question": "The lesson includes a short song 'Hello, hello, hello! How are you?' and dialogues practicing greetings. When a teacher uses a song plus dialogs, what is the main combined benefit for Class 4 students?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T12:10:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204311,
+      "value": {
+        "options": {
+          "a": "There are different appropriate greetings and students should use them politely and return them",
+          "b": "Only 'Salam' is correct and 'Hello' is wrong",
+          "c": "Students must always use both greetings in every sentence",
+          "d": "Greetings are not necessary in classroom interactions"
+        },
+        "question": "Both 'Salam' and 'Hello' appear in the lessons and are followed by polite replies. Synthesizing these examples, what is the lesson likely teaching about greetings?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T12:10:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204306,
+      "value": {
+        "options": {
+          "a": "Their name and where they are from",
+          "b": "Their favorite subject and the time",
+          "c": "Their height and weight",
+          "d": "Their teacher’s name and address"
+        },
+        "question": "The teacher models 'Hello! I'm your teacher. Hi! I'm Shirin, I'm from Palashpur.' If students follow this model during pairwork, which two pieces of information are they most likely expected to give together?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T12:10:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204122,
+      "value": {
+        "options": {
+          "a": "Mita and Salam",
+          "b": "Mita and Ayesha",
+          "c": "Ayesha and Bijoy",
+          "d": "Shirin and Bijoy"
+        },
+        "question": "Combining the classroom-introduction dialogue and the pairwork prompt 'What class are you in?', which two characters are introduced as being in the same class?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T03:17:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204120,
+      "value": {
+        "options": {
+          "a": "A classmate in the same class as Mita",
+          "b": "A friend who is in a lower class than Mita",
+          "c": "Their teacher",
+          "d": "Mita's sibling"
+        },
+        "question": "Based on the group dialogue, how would you best describe Ayesha in relation to Mita?",
+        "chapter_id": "4431",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T03:17:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204117,
+      "value": {
+        "options": {
+          "a": "Mita and Salam",
+          "b": "Mita and Ayesha",
+          "c": "Bijoy and Shirin",
+          "d": "Salam and Ayesha"
+        },
+        "question": "Which two students in the dialogues are shown as being in the same class and exchange the phrase 'Nice to meet you'?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T03:17:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204118,
+      "value": {
+        "options": {
+          "a": "\"I'm Bijoy; I'm nine years old\"",
+          "b": "\"I'm Shirin; I'm from Palashpur\"",
+          "c": "\"I'm Mita; I'm in Class 4\"",
+          "d": "\"I'm Ayesha; Nice to meet you\""
+        },
+        "question": "If a classmate asks both 'What's your name?' and 'Where are you from?' which pair of answers from the texts would correctly reply to those two questions?",
+        "chapter_id": "4431",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T03:17:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204119,
+      "value": {
+        "options": {
+          "a": "What's your name?",
+          "b": "How are you?",
+          "c": "Where do you live?",
+          "d": "How old are you?"
+        },
+        "question": "Which question is used in the song 'Hello, hello...' but is not included among the specific identity questions listed for pairwork (like name, class, age, where from)?",
+        "chapter_id": "4431",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T03:17:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 204121,
+      "value": {
+        "options": {
+          "a": "Act the dialogue from Activity B aloud",
+          "b": "Write the answers to the questions from Activity B in your exercise book",
+          "c": "Sing the 'Hello, hello' song as a group",
+          "d": "Only ask and answer verbally without writing"
+        },
+        "question": "After practicing asking 'What is the name of your school?' in pairwork, which activity from the text asks students to record those answers in their exercise book?",
+        "chapter_id": "4431",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-16T03:17:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 203541,
+      "value": {
+        "options": {
+          "a": "What's the name of your school?",
+          "b": "How old are you?",
+          "c": "Where do you live?",
+          "d": "Who's your friend?"
+        },
+        "question": "After introductions (name and class) the teacher tells students to 'Ask more questions.' Which follow-up question from the lesson would be most appropriate to learn about a friend's home location?",
+        "chapter_id": "4431",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-14T16:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 203540,
+      "value": {
+        "options": {
+          "a": "Nice to meet you.",
+          "b": "I'm in Class 4.",
+          "c": "Who's your friend?",
+          "d": "I'm very well, thank you."
+        },
+        "question": "In the greetings and short dialogue the students use polite responses. If someone asks 'How are you?' which reply best matches the polite answer model shown in the lesson?",
+        "chapter_id": "4431",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-14T16:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 203539,
+      "value": {
+        "options": {
+          "a": "Where do you live?",
+          "b": "What class are you in?",
+          "c": "How are you?",
+          "d": "Who's your friend?"
+        },
+        "question": "You want to check whether two children study in the same year-group. Based on the pairwork question list and the classroom dialogue where characters say 'I'm in Class 4', which question from the lesson is the most direct one to ask?",
+        "chapter_id": "4431",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-14T16:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 203538,
+      "value": {
+        "options": {
+          "a": "Every nine-year-old must be in Class 4.",
+          "b": "Bijoy and Mita are definitely classmates.",
+          "c": "Students in Class 4 can be about nine years old.",
+          "d": "Class number tells nothing about age."
+        },
+        "question": "Bijoy says 'I'm nine years old' in one of the lesson snippets, while Mita and Salam state 'I'm in Class 4' in the dialogue. What reasonable conclusion can you draw by combining these pieces of information?",
+        "chapter_id": "4431",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-14T16:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 203537,
+      "value": {
+        "options": {
+          "a": "How old are you?",
+          "b": "Where do you live?",
+          "c": "What is the name of your school?",
+          "d": "What's your name?"
+        },
+        "question": "The pairwork list asks learners many questions (name, class, age, home, school). In the short conversation among Mita, Salam and Ayesha, which of these pairwork questions is NOT asked or answered?",
+        "chapter_id": "4431",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-14T16:15:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 202439,
+      "value": {
+        "options": {
+          "a": "I'm fine, thanks.",
+          "b": "I'm from Palashpur.",
+          "c": "I live in Class 4.",
+          "d": "I'm nine years old."
+        },
+        "question": "What is the correct way to respond when someone asks, 'How are you?' based on the dialogues in the chapter?",
+        "chapter_id": "4431",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 257,
+      "book_grade_id": 7,
+      "content_chunk_id": 7288,
+      "created_at": "2025-08-13T12:28:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 257,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7288&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7288&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7288&grade=7&per_page=2000&question_paper_id=47673&subject=257&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 74,
+  "total": 74
+}

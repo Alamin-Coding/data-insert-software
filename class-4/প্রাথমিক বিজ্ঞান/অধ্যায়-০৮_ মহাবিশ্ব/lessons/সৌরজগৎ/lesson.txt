@@ -1,0 +1,339 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747356,
+      "value": {
+        "options": {
+          "ক": "ধূমকেতু",
+          "খ": "গ্রহ",
+          "গ": "কালপুরুষ",
+          "ঘ": "গ্যালাক্সি"
+        },
+        "question": "স্যর ক্লাস বলেছেন, মিল্কিওয়ে নক্ষত্রের একটি বিশাল সমাবেশ। এটি আসলে কী?",
+        "solution": "ঘ. গ্যালাক্সি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747357,
+      "value": {
+        "options": {
+          "ক": "নক্ষত্র",
+          "খ": "গ্রহ",
+          "গ": "উপগ্রহ",
+          "ঘ": "ছায়াপথ"
+        },
+        "question": "জ্বলন্ত গ্যাসের এক বিশাল কুণ্ডলী কোনটি?",
+        "solution": "ক. নক্ষত্র",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747358,
+      "value": {
+        "options": {
+          "ক": "মহাবিশ্ব",
+          "খ": "কালপুরুষ",
+          "গ": "মিল্কিওয়ে",
+          "ঘ": "গ্যালাক্সি"
+        },
+        "question": "মৌ রাতে আকাশের দিকে তাকিয়ে সর্পিল আকার যা দেখল তা হলো—",
+        "solution": "গ. মিল্কিওয়ে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747359,
+      "value": {
+        "options": {
+          "ক": "চাঁদ",
+          "খ": "কৃষ্ণমণ্ডল",
+          "গ": "জ্যোতিষ্ক",
+          "ঘ": "নভোমণ্ডল"
+        },
+        "question": "মেঘমুক্ত রাতের আকাশে যে উজ্জ্বল বস্তু দেখা যায় সেগুলোর নাম কী?",
+        "solution": "গ. জ্যোতিষ্ক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747360,
+      "value": {
+        "options": {
+          "ক": "কালপুরুষ",
+          "খ": "নক্ষত্রমণ্ডল",
+          "গ": "ছায়াপথ",
+          "ঘ": "মহাদেশ"
+        },
+        "question": "সৌরজগৎ কোনটির অন্তর্ভুক্ত?",
+        "solution": "গ. ছায়াপথ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747361,
+      "value": {
+        "options": {
+          "ক": "গ্রহ",
+          "খ": "উপগ্রহ",
+          "গ": "নক্ষত্রমণ্ডল",
+          "ঘ": "মিল্কিওয়ে"
+        },
+        "question": "রাতের আকাশে তুমি কোনো ব্যক্তি বা প্রাণীর মতো বিশেষ আকৃতির কী দেখতে পাও?",
+        "solution": "গ. নক্ষত্রমণ্ডল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747362,
+      "value": {
+        "options": {
+          "ক": "গ্রহ",
+          "খ": "উপগ্রহ",
+          "গ": "গ্যালাক্সি",
+          "ঘ": "নক্ষত্রমণ্ডল"
+        },
+        "question": "কালপুরুষ কী?",
+        "solution": "ঘ. নক্ষত্রমণ্ডল",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747363,
+      "value": {
+        "options": {
+          "ক": "গোল",
+          "খ": "ডিম্ব",
+          "গ": "সর্পিল",
+          "ঘ": "দণ্ড"
+        },
+        "question": "আকাশগঙ্গা দেখতে কেমন আকৃতির?",
+        "solution": "গ. সর্পিল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7411,
+      "created_at": "2025-11-27T10:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7411&grade=7&lesson=13508&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7411&grade=7&lesson=13508&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7411&grade=7&lesson=13508&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 8,
+  "total": 8
+}

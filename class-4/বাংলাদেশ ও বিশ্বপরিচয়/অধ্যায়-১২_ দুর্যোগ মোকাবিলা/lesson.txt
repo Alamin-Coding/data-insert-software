@@ -1,0 +1,4962 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 260367,
+      "value": {
+        "options": [],
+        "question": "আগুন লাগলে প্রথমে — রক্ষা করতে হবে।",
+        "solution": "নিজেকে",
+        "explanation": "ব্যাখ্যা: আগুন লাগলে প্রথমে জীবন রক্ষা করতে হবে কারণ মানুষ ও প্রাণীর নিরাপত্তাই সবচেয়ে মূল্যবান এবং সম্পদ পরে উদ্ধারে চেষ্ট করা যায়। ধোঁয়া, তাপ ও বিষাক্ত গ্যাস দ্রুত প্রাণহানি ঘটায়, তাই দ্রুত লোকজনকে নিরাপদ স্থানে সরানোই প্রথম কাজ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260367,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260368,
+      "value": {
+        "options": [],
+        "question": "দাহ্য পদার্থ — থেকে দূরে রাখতে হবে।",
+        "solution": "লোকালয়",
+        "explanation": "দাহ্য পদার্থ আগুন বা তাপ-উৎস থেকে দূরে রাখতে হবে। কারণ তাপ, স্ফুলিঙ্গ বা উন্মুক্ত আগুনের সংস্পর্শে এসে এগুলো সহজে জ্বলে উঠতে পারে ও বিস্ফোরণ বা বড় আগুনের কারণ হতে পারে; তাই আলাদা, ঠান্ডা ও ভাল হাওয়াযুক্ত স্থানে রাখা নিরাপদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260368,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260369,
+      "value": {
+        "options": [],
+        "question": "আগুনে শরীরের কোনো জায়গা পুড়ে গেলে সেখানে — ধরে পানি ঢালতে হবে।",
+        "solution": "১০ মিনিট",
+        "explanation": "ব্যাখ্যা: আগুনে পুড়ে গেলে সেখানে ধারাবাহিকভাবে (ধারে ধরে) ঠাণ্ডা পানি ঢালতে হবে কারণ চলমান ঠাণ্ডা পানি তাপ দ্রুত বের করে দেয়, ব্যথা কমায় এবং ত্বকের ক্ষত বাড়া রোধ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260369,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260370,
+      "value": {
+        "options": [],
+        "question": "কোনো সম্পদ রক্ষা করতে নিজের — ঝুঁকি নেওয়া যাবে না।",
+        "solution": "জীবনের",
+        "explanation": "ব্যাখ্যা: জীবন অমূল্য ও অপরিবর্তনীয়; কোনো সম্পদ হারালে পরে তা বদলে আনা যায়, কিন্তু জীবন ফিরে পাওয়া যায় না। তাই সম্পদ রক্ষা করতে নিজের জীবন ঝুঁকি নেওয়া উচিত নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260370,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260371,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে আজকাল — লাগার ঘটনা বেশি ঘটছে।",
+        "solution": "আগুন",
+        "explanation": "ব্যাখ্যা: এখানে 'আগুন' সঠিক, কারণ বাংলা ভাষায় কোনো স্থানে অগ্নিকাণ্ড ঘটলে বলা হয় 'আগুন লাগা' — তাই বাক্যে 'আগুন লাগার ঘটনা বেশি ঘটছে' বলে অগ্নিকাণ্ড বাড়ছে বোঝায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260371,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260372,
+      "value": {
+        "options": [],
+        "question": "কোন দুটি প্রাকৃতিক দুর্যোগে আমরা বেশি আক্রান্ত হই?",
+        "solution": "বন্যা ও ঘূর্ণিঝড়ে আমরা বেশি আক্রান্ত হই।",
+        "explanation": "বন্যা ও ঘূর্ণিঝড়। কারণ: আমাদের দেশ নিম্নভূমি ও বহু নদী প্রবাহিত হওয়ায় মৌসুমি ভারী বর্ষণ ও নদীর পানি ওভারফ্লোরে বন্যা সৃষ্টি হয়, এবং উপকূলীয় অবস্থানের কারণে গরম বঙ্গোপসাগরের উপর থেকে সৃষ্টি হওয়া ঘূর্ণিঝড় ও ঝড়الার্ম আমাদের অঞ্চলে বেশি প্রভাব ফেলে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260372,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260373,
+      "value": {
+        "options": [],
+        "question": "বন্যার পর কোন কারণে রোগের প্রাদুর্ভাব বেড়ে যেতে পারে?",
+        "solution": "বন্যার পর বিশুদ্ধ পানির অভাবে মানুষের মাঝে নানা রোগের প্রাদুর্ভাব বেড়ে যেতে পারে।",
+        "explanation": "বন্যার জল নদী-নালী ও বর্জ্যের সঙ্গে মিশে পানীয় জল ও খাবার দূষিত হওয়ার ফলে কলেরা, ডায়রিয়া ও অন্যান্য জলবাহিত রোগের সম্ভাবনা বাড়ে। পাশাপাশি থমথমে জল মশার পোকামাকড়ের বংশবৃদ্ধি এবং আশ্রয়কেন্দ্রে ভিড় ও স্বাস্থ্যসেবার বিঘ্নে জীবাণু ছড়ানো সহজ হয়, ফলে সংক্রামক ও ভেক্টর-জনিত রোগের প্রাদুর্ভাব বেড়ে যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260373,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260374,
+      "value": {
+        "options": [],
+        "question": "আগুন লাগার দুটি কারণ উল্লেখ কর।",
+        "solution": "আগুন লাগার দুটি কারণ হলো— ১. রান্নার পরে চুলার আগুন সম্পূর্ণ নিভিয়ে না দিলে। ২. শিশুরা আগুন নিয়ে খেলা করলে বা আতশবাজি ফোটাতে গেলে।",
+        "explanation": "দুটি সাধারণ কারণ: বৈদ্যুতিক শর্ট সার্কিট (স্পার্ক) এবং অসাবধানতাবশত খোলা আগুন বা তেলের ছিটে থাকা। কারণ আগুন লেগে যেতে তাপ/স্পার্ক (ইগনিশন), জ্বালানি এবং অক্সিজেন লাগে; শর্ট সার্কিট তাপ/স্পার্ক দেয় আর অসাবধানতায় জ্বালানি থাকলে তা সহজে দগ্ধ হয়ে আগুন ছড়ায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260374,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260375,
+      "value": {
+        "options": [],
+        "question": "বন্যা প্রতিরোধের দুটি উপায় লেখ।",
+        "solution": "বন্যা প্রতিরোধের দুটি উপায় হলো— ১. গাছ কেটে না ফেলা। ২. পরিকল্পিতভাবে রাস্তাঘাট, বাসস্থান ও বাঁধ তৈরি করা, যেন পানি বেড়ে জলাবদ্ধতা সৃষ্টি না হয়।",
+        "explanation": "ব্যাখ্যা: বন্যা প্রতিরোধের দুটি কার্যকর উপায় হল বাঁধ বা ডাম নির্মাণ এবং বনায়ন (গাছ লাগানো)। বাঁধ নদীর পানি নিয়ন্ত্রণ করে নদীমাতৃক অঞ্চল বাঁচায়, আর গাছ ও বন মাটির পানিসম্পৃক্তি বাড়িয়ে বৃষ্টির পানি শোষণ করে দ্রুত প্রবাহ কমায়, ফলে বন্যা কমে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260375,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260376,
+      "value": {
+        "options": [],
+        "question": "মাহিমদের এলাকায় কখন বন্যার প্রকোপ বেশি দেখা যায়?",
+        "solution": "মাহিমদের এলাকায় আষাঢ় থেকে ভাদ্র মাসে বন্যার প্রকোপ বেশি দেখা যায়।",
+        "explanation": "মাহিম এলাকায় বন্যার প্রকোপ সাধারণত বর্ষাকালে, বিশেষ করে জুন থেকে সেপ্টেম্বর পর্যন্ত বেশি দেখা যায়। কারণ এই সময় ভারী মৌসুমি বৃষ্টি ও উচ্চ জোয়ার/খারাপ নিষ্কাশনের ফলে নদী বা সমুদ্রের পানি দ্রুত বাড়ে এবং পানি নিস্কাশন না হলে প্লাবন ঘটে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260376,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260377,
+      "value": {
+        "options": [],
+        "question": "কামরুল ইসলাম কত নম্বর মহাবিপদ সংকেতের খবর শুনল?",
+        "solution": "কামরুল ইসলাম ১০ নম্বর মহাবিপদ সংকেতের খবর শুনল।",
+        "explanation": "ব্যাখ্যা: প্রশ্নে দেওয়া পাঠ্যের অংশ না থাকায় ঠিক কোন নম্বর শুনেছে তা নির্ধারণ করা যায় না। উত্তর জানতে পাঠ্যের সেই অংশটি খুঁজে দেখুন যেখানে “মহাবিপদ সংকেত”-এর খবর উল্লেখ করা হয়েছে; যে সংখ্যা লেখায় সরাসরি উল্লেখ আছে সেটিই সঠিক কারণ প্রশ্ন সরাসরি পাঠ্যের তথ্যের ওপর নির্ভর করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260377,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260378,
+      "value": {
+        "options": [],
+        "question": "ঘূর্ণিঝড়ের তীব্রতা বৃদ্ধির কারণ কী?",
+        "solution": "ঘূর্ণিঝড়ের তীব্রতা বৃদ্ধির কারণ হলো ভূপৃষ্ঠের তাপমাত্রা বৃদ্ধি।",
+        "explanation": "প্রধান কারণ হলো সমুদ্রের উষ্ণ পানি থেকে বেশি বাষ্প ওঠা এবং গোপন তাপের মুক্তি, যা আবহাওয়াকে গরম করে কনভেকশন বাড়ায় এবং কেন্দ্রীয় চাপ কমিয়ে দমকানো বাতাসকে শক্তিশালী করে। পাশাপাশি কম উল্লম্ব বায়ুশীড় (vertical wind shear) ও উচ্চ আর্দ্রতা অনুকূল পরিবেশ তৈরি করলে ঘূর্ণিঝড় আরও তীব্র হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260378,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260379,
+      "value": {
+        "options": [],
+        "question": "কোন সময়ে আগুন লাগার ঘটনা বেশি ঘটছে?",
+        "solution": "শুষ্ক মৌসুমে আগুন লাগার ঘটনা বেশি ঘটছে।",
+        "explanation": "শুষ্ক, গরম এবং বাতাসবহুল সময়ে (বিশেষ করে শুষ্ক গ্রীষ্ম/বর্ষাবিহীন মৌসুম) আগুন লাগার ঘটনা বেশি ঘটে। কারণ তখন জ্বালানি পদার্থ শুকিয়ে সহজে জ্বলে ওঠে এবং বাতাস আগুন দ্রুত ছড়িয়ে দেয়, পাশাপাশি মানুষের খোলা আগুন বা বৈদ্যুতিক ত্রুটি ঘটনার ঝুঁকি বাড়ায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260379,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260380,
+      "value": {
+        "options": [],
+        "question": "দুর্যোগকে কয়ভাবে ভাগ করা যায় ও কী কী?",
+        "solution": "দুর্যোগকে দুই ভাগে ভাগ করা যায়। যথা— ১. প্রাকৃতিক দুর্যোগ ও ২. মানবসৃষ্ট দুর্যোগ।",
+        "explanation": "দুর্যোগকে সাধারণত দুইভাবে ভাগ করা হয় — প্রাকৃতিক ও মানবসৃষ্ট; প্রাকৃতিক দুর্যোগের উদাহরণ: ভূমিকম্প, সুনামি, ঘূর্ণিঝড়, বন্যা, খরা, মহামারি, আর মানবসৃষ্ট দুর্যোগের উদাহরণ: তেলচ্যুত, কারিগরি দুর্ঘটনা, শিল্পদূষণ, যুদ্ধ/সংঘাত। এই বিভাজনটি মূলত উৎস ও কারণ অনুযায়ী করা হয়—প্রাকৃতিক দুর্যোগ পৃথিবীর স্বাভাবিক প্রক্রিয়া থেকে ঘটে আর মানবসৃষ্ট দুর্যোগ মানুষের কর্মকাণ্ড বা ত্রুটি থেকে সৃষ্টি হয়, তাই প্রতিরোধ ও ব্যবস্থাপনার কৌশল আলাদা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260380,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260331,
+      "value": {
+        "options": {
+          "ক": "খরা ও জলোচ্ছ্বাস",
+          "খ": "বন্যা ও ঘূর্ণিঝড়",
+          "গ": "তুষারপাত ও ভূমিকম্প",
+          "ঘ": "আগুন ও ঝড়"
+        },
+        "question": "বাংলাদেশের প্রধান দুটি দুর্যোগ কী?",
+        "solution": "বাংলাদেশে বন্যা ও ঘূর্ণিঝড় সবচেয়ে বেশি দেখা যায় এবং এগুলো গুরুত্বপূর্ণ দুর্যোগ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260331,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260332,
+      "value": {
+        "options": {
+          "ক": "মাঘ–ফাল্গুন",
+          "খ": "বৈশাখ–জ্যৈষ্ঠ",
+          "গ": "আষাঢ়–ভাদ্র",
+          "ঘ": "কার্তিক–অগ্রহায়ণ"
+        },
+        "question": "বন্যা সাধারণত কোন মাসে বেশি হয়?",
+        "solution": "আষাঢ় থেকে ভাদ্র মাসের মধ্যে বাংলাদেশে বন্যার প্রকোপ বেশি দেখা যায়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260332,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260333,
+      "value": {
+        "options": {
+          "ক": "ফসল",
+          "খ": "বাড়িঘর",
+          "গ": "রাস্তা",
+          "ঘ": "পাহাড়"
+        },
+        "question": "বন্যার ফলে নিচের কোনটি ক্ষতিগ্রস্ত হয় না?",
+        "solution": "বন্যা সাধারণত নিচু অঞ্চলে হয়, পাহাড়ে এর প্রভাব পড়ে না।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260333,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260334,
+      "value": {
+        "options": {
+          "ক": "নদী শুকিয়ে যায়",
+          "খ": "গাছ শুকিয়ে যায়",
+          "গ": "পলি জমে মাটি উর্বর হয়",
+          "ঘ": "মানুষ অসুস্থ হয়"
+        },
+        "question": "বন্যার ফলে কোন উপকার পাওয়া যায়?",
+        "solution": "বন্যার ফলে পলি জমে জমির উর্বরতা বৃদ্ধি পায়, যা কৃষিতে উপকারী।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260334,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260335,
+      "value": {
+        "options": {
+          "ক": "ঘূর্ণিঝড়",
+          "খ": "ভূমিকম্প",
+          "গ": "নদীর তলদেশ ভরাট",
+          "ঘ": "বন উজাড়"
+        },
+        "question": "নিচের কোনটি বন্যার একটি কারণ?",
+        "solution": "নদীতে অতিরিক্ত পলি জমে তলদেশ ভরাট হলে বন্যার আশঙ্কা বেড়ে যায়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260335,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260336,
+      "value": {
+        "options": {
+          "ক": "মাটি শক্ত হয়",
+          "খ": "খরা দেখা দেয়",
+          "গ": "নিম্নাঞ্চল প্লাবিত হয়",
+          "ঘ": "নদী শুকিয়ে যায়"
+        },
+        "question": "উজানে বাঁধ দিয়ে হঠাৎ পানি ছেড়ে দিলে কী হতে পারে?",
+        "solution": "উজান থেকে হঠাৎ পানি ছাড়লে নিচু এলাকাগুলো বন্যায় প্লাবিত হতে পারে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260336,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260337,
+      "value": {
+        "options": {
+          "ক": "সেচ বৃদ্ধি",
+          "খ": "জলাশয় শুকায়",
+          "গ": "বন্যা হতে পারে",
+          "ঘ": "গরম বৃদ্ধি পায়"
+        },
+        "question": "অতিরিক্ত বৃষ্টিপাতের ফলে কী হয়?",
+        "solution": "অতিরিক্ত বৃষ্টিপাত নদীর ধারণক্ষমতা অতিক্রম করলে বন্যা হতে পারে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260337,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260338,
+      "value": {
+        "options": {
+          "ক": "সংবাদ শোনা",
+          "খ": "পানির পাত্রে আগুন জ্বালানো",
+          "গ": "শুকনো খাবার জমিয়ে রাখা",
+          "ঘ": "বই খাতা প্লাস্টিকে রাখা"
+        },
+        "question": "নিচের কোনটি বন্যা মোকাবিলার প্রস্তুতি নয়?",
+        "solution": "পানির পাত্রে আগুন জ্বালানো বন্যা মোকাবিলার জন্য যুক্তিযুক্ত নয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260338,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260339,
+      "value": {
+        "options": {
+          "ক": "মাইক চালানো",
+          "খ": "প্রতিবেশীকে জিজ্ঞেস করা",
+          "গ": "রেডিও-টিভিতে খবর শোনা",
+          "ঘ": "বই পড়া"
+        },
+        "question": "বন্যা সম্পর্কে তথ্য জানার জন্য কী করতে হবে?",
+        "solution": "বন্যা বা আবহাওয়া পরিস্থিতি সম্পর্কে সঠিক তথ্য পেতে রেডিও, টিভি, সংবাদপত্রে নজর রাখা দরকার।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260339,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260340,
+      "value": {
+        "options": {
+          "ক": "জুতা রাখা",
+          "খ": "কুয়া খনন",
+          "গ": "খাল-নদীতে বাঁশ পুঁতে রাখা",
+          "ঘ": "গাছ কাটা"
+        },
+        "question": "পানি বৃদ্ধির মাত্রা বোঝার জন্য কী করা যেতে পারে?",
+        "solution": "পানি কতটুকু বেড়েছে তা বুঝতে বাঁশ-লাঠি পুঁতে চিহ্ন দেওয়া যায়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260340,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260341,
+      "value": {
+        "options": {
+          "ক": "ভয় পেয়ে পালানো",
+          "খ": "ধৈর্য ও সাহস রাখা",
+          "গ": "সব জিনিস ফেলে দেওয়া",
+          "ঘ": "কাঁদতে থাকা"
+        },
+        "question": "বন্যার সময় কোন আচরণ সবচেয়ে গুরুত্বপূর্ণ?",
+        "solution": "দুর্যোগে ধৈর্য ও সাহস আমাদের মানসিকভাবে দৃঢ় রাখে এবং মোকাবিলায় সহায়তা করে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260341,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260342,
+      "value": {
+        "options": {
+          "ক": "খেলার জিনিস",
+          "খ": "বই",
+          "গ": "আগুন",
+          "ঘ": "ঔষধ ও বিশুদ্ধ পানি"
+        },
+        "question": "দুর্যোগের সময় কোনটি সংগ্রহ করে রাখা দরকার?",
+        "solution": "বন্যার সময় পরিষ্কার পানি ও জরুরি ঔষধ খুব দরকারি।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260342,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260343,
+      "value": {
+        "options": {
+          "ক": "খেলার সামগ্রী",
+          "খ": "মূল্যবান বই-খাতা ও কাগজ",
+          "গ": "শুকনো মাটি",
+          "ঘ": "জামা-কাপড়"
+        },
+        "question": "প্লাস্টিক ব্যাগে কী রাখা উচিত?",
+        "solution": "বন্যা থেকে রক্ষা করতে বই ও গুরুত্বপূর্ণ জিনিস প্লাস্টিকে রাখা উচিত।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260343,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260344,
+      "value": {
+        "options": {
+          "ক": "শীত বৃদ্ধি",
+          "খ": "দুর্গন্ধ",
+          "গ": "দুর্যোগ বেড়ে যেতে পারে",
+          "ঘ": "শান্তিপূর্ণ পরিবেশ"
+        },
+        "question": "পরিবেশ দূষণের কারণে কী হতে পারে?",
+        "solution": "পরিবেশ দূষণ অনেক সময় দুর্যোগের মাত্রা ও সম্ভাবনা বাড়িয়ে তোলে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260344,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260345,
+      "value": {
+        "options": {
+          "ক": "বাঁধ নির্মাণ",
+          "খ": "নদী ভরাট",
+          "গ": "উজান থেকে পানি ছাড়া",
+          "ঘ": "অতিরিক্ত বৃষ্টিপাত"
+        },
+        "question": "নিচের কোনটি বন্যার একটি প্রাকৃতিক কারণ?",
+        "solution": "অতিরিক্ত বৃষ্টিপাত একটি প্রাকৃতিক কারণ, যা বন্যার অন্যতম উৎস।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260345,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260346,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে নানা ধরনের — ঘটে।",
+        "solution": "দুর্যোগ",
+        "explanation": "ব্যাখ্যা: বাংলাদেশ সমুদ্রপৃষ্ঠের কাছাকাছি নিম্নভূমি ও ঘন নদের জালের ওপর অবস্থিত হওয়ায় বর্ষায় নদী উজানি ও প্লাবনের কারণে বন্যা হয়, এবং বঙ্গোপসাগরের মেতে ভূমিকম্প ও ঘূর্ণিঝড়ের প্রভাবে ঝড়বৃষ্টি ও সাইক্লোন ঘটে; এই ভূগোলই নানা ধরনের প্রাকৃতিক দুর্যোগের কারণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260346,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260347,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের উল্লেখযোগ্য দুইটি দুর্যোগ হলো বন্যা ও —।",
+        "solution": "ঘূর্ণিঝড়",
+        "explanation": "ঠিক উত্তর: ঘূর্ণিঝড়। বাংলাদেশ সমুদ্রতীরবর্তী ও নিম্নভূমিতে অবস্থিত হওয়ায় ঘূর্ণিঝড়ে তীব্র বাতাস, প্রবল বৃষ্টি ও সুনামি হয়ে বিস্তর ক্ষতি হয়, তাই বন্যার পাশাপাশি ঘূর্ণিঝড়ও এই দেশের অন্যতম উল্লেখযোগ্য দুর্যোগ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260347,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260348,
+      "value": {
+        "options": [],
+        "question": "প্রাকৃতিক কারণ ছাড়াও মানবসৃষ্ট পরিবেশ দূষণের প্রভাবে অনেক সময় — ঘটে থাকে।",
+        "solution": "দুর্যোগ",
+        "explanation": "ব্যাখ্যা: মানবসৃষ্ট পরিবেশ দূষণ (যেমন বায়ু, জল ও মাটি দূষণ, বন নিধন, এবং জলবায়ু পরিবর্তন) প্রজাতির আবাসস্থল নষ্ট করে, খাদ্য ও প্রজনন ব্যাহত করে এবং বিষাক্ত পদার্থ জমা করায় অনেক প্রজাতির সংখ্যা কমে অবশেষে বিলুপ্তি ঘটে। তাই খালি স্থানে \"বিলুপ্তি\" বা \"প্রজাতি বিলুপ্তি\" সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260348,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260349,
+      "value": {
+        "options": [],
+        "question": "১৯৮৭ সাল থেকে বাংলাদেশে — ভয়াবহ বন্যা হয়েছে।",
+        "solution": "৭টি",
+        "explanation": "\"১৯৮৭ সাল থেকে\" বলতে ওই সময় থেকে এখন পর্যন্ত একাধিক ঘটনা বোঝায়, তাই বাক্যে সংখ্যা বা পরিমাণ বোঝাতে 'বহু' বা 'অনেক' ব্যবহার করে লেখা উচিত: \"১৯৮৭ সাল থেকে বাংলাদেশে বহু ভয়াবহ বন্যা হয়েছে।\" এখানে 'হয়েছে' ক্রিয়াপদটি অতীতের বিভিন্ন সময়ে ঘটনাগুলোর সম্পন্ন হওয়া এবং তা বর্তমানেও প্রাসঙ্গিক থাকার ধারণা দেয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260349,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260350,
+      "value": {
+        "options": [],
+        "question": "আষাঢ় থেকে — মাসের মধ্যে মূলত বন্যার প্রকোপ বেশি থাকে।",
+        "solution": "ভাদ্র",
+        "explanation": "ব্যাখ্যা: আষাঢ় থেকে আশ্বিন মাসে মৌসুমী বর্ষা (মনসুন) সবচেয়ে সক্রিয় থাকে, ফলে প্রচুর বৃষ্টিপাতে নদী ও খাল-নালা ফুলে উঠে বন্যার ঝুঁকি বেড়ে যায়; এজন্য এই সময়টুকুই বন্যার প্রকোপ বেশি থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260350,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260351,
+      "value": {
+        "options": [],
+        "question": "বন্যার ফলে মানুষের জীবন, — বাড়ি-ঘর এবং রাস্তা-ঘাটের অনেক ক্ষতি হয়।",
+        "solution": "ফসল",
+        "explanation": "ব্যাখ্যা: শূন্যস্থান পূরণে সঠিক শব্দ হলো \"জানমাল\"। বন্যার পানিতে মানুষের প্রাণের পাশাপাশি ঘরবাড়ি, ফসল ও অন্যান্য মালপত্র নষ্ট হয়ে যায়, তাই এখানে \"জানমাল\" (সম্পদ/মালপত্র) বলা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260351,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260352,
+      "value": {
+        "options": [],
+        "question": "বন্যার কারণে — পানির অভাবে নানা রোগ ছড়ায়।",
+        "solution": "বিশুদ্ধ",
+        "explanation": "ব্যাখ্যা: এখানে বাক্যটি দুটি কারণ একসঙ্গে বোঝাচ্ছে, তাই যোড়কারী শব্দ \"\u003Cspan class=\"cq-explanation-label\"\u003Eএবং\u003C/span\u003E\" ব্যবহার করা উচিত। \"বন্যার কারণে এবং পানির অভাবে নানা রোগ ছড়ায়\"—এতে দুটি আলাদা কারণ পরিষ্কারভাবে যুক্ত হয় এবং অর্থ সঠিক হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260352,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260353,
+      "value": {
+        "options": [],
+        "question": "বন্যা হলে মাটিতে পলি জমা হয় যা মাটির — বাড়াতে সহায়তা করে।",
+        "solution": "উর্বরতা",
+        "explanation": "ব্যাখ্যা: বন্যার সময় নদী থেকে বয়ে আসা পলি প্লাবিত ভূখণ্ডের উপর ছড়িয়ে পড়ে। এই পলিতে খনিজ লবণ ও জৈব পদার্থ থাকে, যা মাটির পুষ্টি ও উর্বরতা বাড়ায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260353,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260354,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের — অবস্থান ও প্রাকৃতিক কারণে বন্যা হয়।",
+        "solution": "ভৌগোলিক",
+        "explanation": "ব্যাখ্যা: বাংলাদেশ একটি নিম্নভূমি-ভিত্তিক ডেল্টা অঞ্চলে অবস্থিত, তাই নদী ও সমুদ্রের জল সহজে জমে যায়। বর্ষার ভারি বৃষ্টি, হিমালয়ের তুষার গলন ও সাইক্লোন-তুফানের জলোচ্ছ্বাসের ফলে নদীগুলো লাইক করে পানি ছাড়ালে বন্যা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260354,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260355,
+      "value": {
+        "options": [],
+        "question": "অতিরিক্ত — বন্যার একটি কারণ।",
+        "solution": "বৃষ্টিপাত",
+        "explanation": "অতিরিক্ত বৃষ্টি বন্যার কারণ কারণ অনেক পরিমাণে পানি জমে নদী, খাল ও ড্রেন আটকে থাকা ধারণক্ষমতার বাইরে চলে গিয়ে জল উপচে পরে; মাটি ইতোমধ্যে সিক্ত হলে পানি শোষিত না হয়ে সরাসরি বৃষ্টিপাতের জল হিসেবে বৈঠকে জমা হয় এবং বন্যা সৃষ্টি করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260355,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260356,
+      "value": {
+        "options": [],
+        "question": "বর্ষা মৌসুমে পানি — বৃদ্ধি পেলে বন্যা দেখা দেয়।",
+        "solution": "প্রবাহ",
+        "explanation": "বর্ষার বিশাল বর্ষণ হলে নদী-বিলে ও ভূমি জলাধারগুলোতে যে পরিমাণ পানি আসে তা নদী বা নালার ধারণক্ষমতার বাইরে চলে যায়, ফলে পানি উপরে উঠে এসে আশপাশের জমি ও বাড়িঘর ভেসে যাওয়া — এটিই বন্যা। সহজ কথা: বৃষ্টি বেশি হলে জল নিষ্কাশন ও মাটির শোষণ ক্ষমতা কম গিয়ে অতিরিক্ত পানি জমে বন্যা সৃষ্টি করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260356,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260357,
+      "value": {
+        "options": [],
+        "question": "বন্যা সবসময় — করা যায় না।",
+        "solution": "নিয়ন্ত্রণ",
+        "explanation": "ব্যাখ্যা: বন্যা সবসময় প্রতিরোধ করা যায় না। কারণ তীব্র বর্ষা, নদীর অতিপ্রবাহ, তুষারগলন বা হঠাৎ জলবায়ু পরিবর্তনের মতো প্রাকৃতিক কারণগুলো সম্পূর্ণভাবে মানুষের কন্ট্রোলে থাকে না; আমরা ক্ষতি কমাতে বাঁধ, প্ল্যানিং ও সতর্কতা গ্রহণ করতে পারি কিন্তু পুরোপুরি প্রতিরোধ করা সম্ভব নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260357,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260358,
+      "value": {
+        "options": [],
+        "question": "আমরা ধৈর্যের সাথে — মোকাবিলা করব।",
+        "solution": "দুর্যোগ",
+        "explanation": "কারণ \"মোকাবিলা করা\" ক্রিয়ার সঙ্গে সাধারণত যে বস্তুকে মোকাবিলা করা হবে তা বসে; এখানে উপযুক্ত শব্দ হলো \"সমস্যা\" (অথবা \"চ্যালেঞ্জ\"), তাই বাক্যটি হবে \"আমরা ধৈর্যের সাথে সমস্যার মোকাবিলা করব।\" \"ধৈর্যের সাথে\" অংশটি ক্রিয়ার উপায় বা ভঙ্গি নির্দেশ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260358,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260359,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে আজকাল — লাগার ঘটনা বেশি ঘটছে।",
+        "solution": "আগুন",
+        "explanation": "ব্যাখ্যা: এখানে \"আগুন\" সঠিক কারণ বাংলা ভাষায় \"লাগা\" সাধারণত \"আগুন লাগা\" বলতে কোনো জায়গায় আগুন ধরে যাওয়াকে বোঝায়। সাম্প্রতিক সময়ে দেশে অগ্নিকাণ্ডের ঘটনা বাড়ছে, তাই বাক্যটি স্বাভাবিকভাবে \"বাংলাদেশে আজকাল আগুন লাগার ঘটনা বেশি ঘটছে।\" হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260359,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260360,
+      "value": {
+        "options": [],
+        "question": "শুষ্ক মৌসুমে শহরের বস্তি, গার্মেন্টস, ব্যবসা প্রতিষ্ঠানে আগুন লেগে — ঘটে।",
+        "solution": "দুর্ঘটনা",
+        "explanation": "ব্যাখ্যা: শুষ্ক মৌসুমে বাতাস শুষ্ক এবং আর্দ্রতা কম থাকে, ফলে কাঠ, কাপড় ও প্লাস্টিকসহ জ্বালনযোগ্য বস্তুগুলো সহজে জ্বলতে শুরু করে এবং আগুন দ্রুত ছড়ায়। এছাড়া ঘনবসতি, খুঁতিপূর্ণ বৈদ্যুতিক সংযোগ ও অপ্রতীকরিত সঞ্চয়ের কারণে শহরের বস্তি, গার্মেন্টস ও ব্যবসা প্রতিষ্ঠানে শুষ্ক মৌসুমে আগুন লাগার ঘটনা বেশি ঘটে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260360,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260361,
+      "value": {
+        "options": [],
+        "question": "আগুন লাগার ফলে ঘর বাড়ির প্রচুর ক্ষতি হয় এবং মানুষের জীবন — হয়।",
+        "solution": "বিপদগ্রস্ত",
+        "explanation": "ব্যাখ্যা: আগুন লাগলে ঘরবাড়ি পুড়ে ধ্বংস হয় এবং এতে মানুষ মারা পড়তে পারে, তাই 'জীবনহানি' (মানুষের প্রাণের ক্ষতি) এখানে সঠিক। এই শব্দটি বাক্যের অর্থ স্পষ্ট করে এবং ব্যাকরণগতভাবে মানায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260361,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260362,
+      "value": {
+        "options": [],
+        "question": "গ্রামাঞ্চলে আগুন লাগলে — পুড়ে যায় এবং এতে কৃষক ক্ষতিগ্রস্ত হয়।",
+        "solution": "শস্য",
+        "explanation": "কারণ গ্রামাঞ্চলে আগুন দ্রুত ছড়ায় এবং ফসল, গোডাউন, ঘরবাড়ি বা পোষা প্রাণী পুড়ে গেলে কৃষকের উৎপাদন ও সঞ্চিত সামগ্রী নষ্ট হয়ে আর্থিক ক্ষতি হয়। ফলে আগুন লাগলে সরাসরি তাদের জীবিকা ও আয় ক্ষতিগ্রস্ত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260362,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260363,
+      "value": {
+        "options": [],
+        "question": "— সৃষ্ট নানা কারণে আগুন লাগতে পারে।",
+        "solution": "মানুষের",
+        "explanation": "আগুন তখনই ধরে যখন তাপ, জ্বালানি ও অক্সিজেন একসঙ্গে থাকে — এটাকে 'ফায়ার ট্রায়াঙ্গেল' বলা হয়। তাই নানা কারণে (বজ্রপাত, বৈদ্যুতিক শর্ট সার্কিট, ধূমপান‑অবহেলা, রাসায়নিক বিক্রিয়া বা অতিরিক্ত তাপ) কোনো জ্বালানিতে জ্বলানোর পর্যাপ্ত তাপ বা জাগরণ উৎস সৃষ্টি হলে আগুন লাগতে পারে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260363,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260364,
+      "value": {
+        "options": [],
+        "question": "রান্নার পরে — সম্পূর্ণ নিভিয়ে না দিলে আগুন লাগতে পারে।",
+        "solution": "চুলার",
+        "explanation": "ব্যাখ্যা: রান্না শেষে চুলা বা গ্যাস সম্পূর্ণ নিভিয়ে না রাখলে তাপ বা গ্যাসের অবশিষ্টতা থেকে অল্প স্পার্কেই জ্বালানি, তাপ ও অক্সিজেন মিলিয়ে আগুন ধরে যেতে পারে। তাই দুর্ঘটনা প্রতিরোধে চুলা/গ্যাসের নল ও কুণ্ডি সম্পূর্ণভাবে বন্ধ করে আগুন নিভিয়ে রাখা জরুরি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260364,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260365,
+      "value": {
+        "options": [],
+        "question": "শিশুরা আগুন নিয়ে খেলা করলে বা — ফোটাতে গেলে আগুন লাগতে পারে।",
+        "solution": "আতশবাজি",
+        "explanation": "শিশুরা আগুন নিয়ে খেলা করলে বা ফেটকা ফোটাতে গেলে আগুন লাগতে পারে কারণ আগুনের চিংচড় বা স্ফুলিঙ্গ সহজেই কাপড়, শুকনো ঘাস বা অন্যান্য দাহ্য পদার্থে লেগে যায়। তাই বাচ্চাদের কাছে আগুন বা আতশবাজি ছাড়া থাকা উচিত নয় এবং তত্ত্বাবধানে ব্যবহার করানো উচিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260365,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:29.000000Z",
+            "updated_at": "2025-08-18T12:01:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 260366,
+      "value": {
+        "options": [],
+        "question": "এক বাড়িতে আগুন লাগলে সহজেই অন্য — আগুন ধরে যেতে পারে।",
+        "solution": "বাড়িতে",
+        "explanation": "ব্যাখ্যা: এক বাড়িতে আগুন লাগলে তাপ, উড়ে চলা ঝলসে যাওয়া স্পার্ক বা ছাই এবং বাতাসের প্রবাহের কারণে পাশের বাড়িতেও সহজেই আগুন লাগতে পারে। তাই কাছাকাছি থাকা ও জ্বলনীয় পদার্থ থাকলে আগুন দ্রুত ছড়ায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-18T12:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 260366,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:01:30.000000Z",
+            "updated_at": "2025-08-18T12:01:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746622,
+      "value": {
+        "options": {
+          "ক": "কাপড়চোপড় রক্ষা করতে হবে",
+          "খ": "নিজেকে রক্ষা করতে হবে",
+          "গ": "মেইন সুইচ বন্ধ করতে হবে",
+          "ঘ": "চিৎকার করতে হবে"
+        },
+        "question": "আগুন লাগলে প্রথমে কী করতে হবে?",
+        "solution": "খ. নিজেকে রক্ষা করতে হবে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746623,
+      "value": {
+        "options": {
+          "ক": "শুষ্ক মৌসুমে",
+          "খ": "শীত মৌসুমে",
+          "গ": "বন্যা মৌসুমে",
+          "ঘ": "বর্ষা মৌসুমে"
+        },
+        "question": "কখন আগুন লাগার ঘটনা বেশি ঘটে থাকে?",
+        "solution": "ক. শুষ্ক মৌসুমে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746624,
+      "value": {
+        "options": {
+          "ক": "ঘূর্ণিঝড়",
+          "খ": "খরা",
+          "গ": "ভূমিকম্প",
+          "ঘ": "আগুন লাগা"
+        },
+        "question": "মানুষের কারণে যে দুর্যোগ হয় তার মধ্যে সবচেয়ে মারাত্মক কোনটি?",
+        "solution": "ঘ. আগুন লাগা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746625,
+      "value": {
+        "options": {
+          "ক": "রান্নার পরে চুলার আগুন সম্পূর্ণ না নিভানো",
+          "খ": "রান্নার পর চুলা বন্ধ করা",
+          "গ": "ত্রুটিপূর্ণ গ্যাস সিলিন্ডার ব্যবহার না করা",
+          "ঘ": "আগুন নিয়ে খেলা না করা"
+        },
+        "question": "নিচের কোনটি আগুন লাগার কারণ?",
+        "solution": "ক. রান্নার পরে চুলার আগুন সম্পূর্ণ না নিভানো",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746626,
+      "value": {
+        "options": {
+          "ক": "প্রচুর পানি ঢালতে হবে",
+          "খ": "সাবান দিয়ে পরিষ্কার করতে হবে",
+          "গ": "মলম লাগাতে হবে",
+          "ঘ": "ব্যান্ডেজ করতে হবে"
+        },
+        "question": "দেহের কোনো অংশ পুড়ে গেলে প্রথমে কী করতে হবে?",
+        "solution": "ক. প্রচুর পানি ঢালতে হবে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746627,
+      "value": {
+        "options": {
+          "ক": "খরা",
+          "খ": "ভূমিকম্প",
+          "গ": "অগ্নিকাণ্ড",
+          "ঘ": "নদীভাঙন"
+        },
+        "question": "ফায়ার সার্ভিসকে ডাকা হয় কোন দুর্যোগ মোকাবিলার জন্য?",
+        "solution": "গ. অগ্নিকাণ্ড",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746613,
+      "value": {
+        "options": {
+          "ক": "খরা",
+          "খ": "তীব্র বাতাস",
+          "গ": "বন্যা",
+          "ঘ": "ভূমিকম্প"
+        },
+        "question": "সবকিছু উড়িয়ে নিয়ে যায় বা ভেঙে ফেলে—",
+        "solution": "খ. তীব্র বাতাস",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746614,
+      "value": {
+        "options": {
+          "ক": "ঘূর্ণিঝড়",
+          "খ": "ভূমিকম্প",
+          "গ": "জলাবদ্ধতা",
+          "ঘ": "আগুন লাগা"
+        },
+        "question": "প্রাকৃতিক কারণে কোন দুর্যোগ দেখা যায়?",
+        "solution": "ক. ঘূর্ণিঝড়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746615,
+      "value": {
+        "options": {
+          "ক": "৪৫ ফুট",
+          "খ": "২০ ফুট",
+          "গ": "২৫ ফুট",
+          "ঘ": "৩০ ফুট"
+        },
+        "question": "জলোচ্ছ্বাস কত ফুট পর্যন্ত উঁচু হতে পারে?",
+        "solution": "ক. ৪৫ ফুট",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746616,
+      "value": {
+        "options": {
+          "ক": "ভয় দেখানো",
+          "খ": "সতর্ক করা",
+          "গ": "লোভ দেখানো",
+          "ঘ": "সাহস দেখানো"
+        },
+        "question": "বিভিন্ন নম্বরের সংকেতের মাধ্যমে মানুষকে কী করা হয়?",
+        "solution": "খ. সতর্ক করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746617,
+      "value": {
+        "options": {
+          "ক": "ভূমিকম্পে",
+          "খ": "অগ্নিকাণ্ডে",
+          "গ": "টর্নেডোতে",
+          "ঘ": "ঘূর্ণিঝড়ে"
+        },
+        "question": "উপকূলীয় এলাকার অনেক ক্ষতি হয়—",
+        "solution": "ঘ. ঘূর্ণিঝড়ে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746618,
+      "value": {
+        "options": {
+          "ক": "১ - ৫ নম্বর",
+          "খ": "১ - ৬ নম্বর",
+          "গ": "১ - ৮ নম্বর",
+          "ঘ": "১ - ১০ নম্বর"
+        },
+        "question": "ঘূর্ণিঝড়ের হুঁশিয়ারি সংকেত কত পর্যন্ত?",
+        "solution": "ঘ. ১ - ১০ নম্বর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746619,
+      "value": {
+        "options": {
+          "ক": "বন্যা",
+          "খ": "খরা",
+          "গ": "ভূমিকম্প",
+          "ঘ": "জলোচ্ছ্বাস"
+        },
+        "question": "ঘূর্ণিঝড় ভয়ঙ্কর হলে সাগরের ঢেউ অনেক উঁচু হয়ে মানুষের ঘরবাড়ি, পশুপাখি, রাস্তাঘাট ভাসিয়ে নিয়ে যায়। এটাকে কী বলে?",
+        "solution": "ঘ. জলোচ্ছ্বাস",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746620,
+      "value": {
+        "options": {
+          "ক": "ভূমিকম্প",
+          "খ": "অগ্নিকাণ্ড",
+          "গ": "টর্নেডো",
+          "ঘ": "ঘূর্ণিঝড়"
+        },
+        "question": "নিম্নচাপের কারণে সৃষ্টি হয়—",
+        "solution": "ঘ. ঘূর্ণিঝড়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746621,
+      "value": {
+        "options": {
+          "ক": "যাতায়াত ব্যবস্থার",
+          "খ": "সাংস্কৃতিক অনুষ্ঠানের",
+          "গ": "সংকেত প্রচারের",
+          "ঘ": "সংগীত অনুষ্ঠানের"
+        },
+        "question": "দুর্যোগকালে রেডিও, টেলিভিশন এবং বিভিন্ন খবরের কাগজে কীসের ব্যবস্থা করা হয়?",
+        "solution": "গ. সংকেত প্রচারের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746604,
+      "value": {
+        "options": {
+          "ক": "বিশুদ্ধ পানি",
+          "খ": "প্রয়োজনীয় ঔষধ",
+          "গ": "পর্যাপ্ত শুকনো খাবার",
+          "ঘ": "খাবার স্যালাইন"
+        },
+        "question": "বন্যার সময় কীসের অভাবে নানা রোগ ছড়ায়?",
+        "solution": "ক. বিশুদ্ধ পানি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:34:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746605,
+      "value": {
+        "options": {
+          "ক": "নদীর তীরে",
+          "খ": "আশ্রয়কেন্দ্রে",
+          "গ": "শহরে",
+          "ঘ": "গ্রামে"
+        },
+        "question": "পানি তাড়াতাড়ি বাড়লে বাড়ির সবাই মিলে কোথায় যাওয়ার প্রস্তুতি নেব?",
+        "solution": "খ. আশ্রয়কেন্দ্রে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:34:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746606,
+      "value": {
+        "options": {
+          "ক": "সূর্যগ্রহণ",
+          "খ": "বিভিন্ন দুর্যোগ",
+          "গ": "সূর্যোদয়",
+          "ঘ": "সূর্যাস্ত"
+        },
+        "question": "পরিবেশ দূষণের কারণে কোনটি হয়ে থাকে?",
+        "solution": "খ. বিভিন্ন দুর্যোগ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:34:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746607,
+      "value": {
+        "options": {
+          "ক": "মরুকরণ",
+          "খ": "খরা",
+          "গ": "বন্যা",
+          "ঘ": "আগুন লাগা"
+        },
+        "question": "কোনটি বাংলাদেশের একটি প্রধান দুর্যোগ?",
+        "solution": "গ. বন্যা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:34:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746608,
+      "value": {
+        "options": {
+          "ক": "শীতকালে",
+          "খ": "গ্রীষ্মকালে",
+          "গ": "বর্ষাকালে",
+          "ঘ": "বসন্তকালে"
+        },
+        "question": "কোন মৌসুমে বন্যা হয়ে থাকে?",
+        "solution": "গ. বর্ষাকালে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:34:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746609,
+      "value": {
+        "options": {
+          "ক": "ভূমিকম্প",
+          "খ": "বন্যা",
+          "গ": "সাইক্লোন",
+          "ঘ": "খরা"
+        },
+        "question": "বর্ষাকালে পানি অস্বাভাবিকভাবে বেড়ে গেলে মানুষ, পশুপাখি, ঘরবাড়ির যে ক্ষতি হয় সে অবস্থাকে আমরা বলি—",
+        "solution": "খ. বন্যা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:34:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746610,
+      "value": {
+        "options": {
+          "ক": "প্লাস্টিক ব্যাগে ভরে",
+          "খ": "পাটের ব্যাগে ভরে",
+          "গ": "লোহার ব্যাগে ভরে",
+          "ঘ": "টিনের ব্যাগে ভরে"
+        },
+        "question": "বন্যার সময় বই-খাতা ও ঘরের গুরুত্বপূর্ণ সামগ্রী কীভাবে গুছিয়ে রাখব?",
+        "solution": "ক. প্লাস্টিক ব্যাগে ভরে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:34:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746611,
+      "value": {
+        "options": {
+          "ক": "বৈশাখ-জ্যৈষ্ঠ",
+          "খ": "আষাঢ়-ভাদ্র",
+          "গ": "আশ্বিন-অগ্রহায়ণ",
+          "ঘ": "পৌষ-ফাল্গুন"
+        },
+        "question": "কোন মাসে বন্যার প্রকোপ বেশি?",
+        "solution": "খ. আষাঢ়-ভাদ্র",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:34:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746612,
+      "value": {
+        "options": {
+          "ক": "ভৌগোলিক কারণে",
+          "খ": "নদী খননের কারণে",
+          "গ": "নদীর তলদেশ ভরাট হয়ে যাওয়ায়",
+          "ঘ": "প্রাকৃতিক কারণে"
+        },
+        "question": "নদীগুলোর ধারণক্ষমতা হ্রাস পাচ্ছে কেন?",
+        "solution": "গ. নদীর তলদেশ ভরাট হয়ে যাওয়ায়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:34:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598559,
+      "value": {
+        "options": {
+          "ক": "মূল্যবান অলংকার ও নথি",
+          "খ": "জরুরি চিকিৎসা কিট ও বিশুদ্ধ পানির বোতল",
+          "গ": "বাচ্চাদের খেলনা ও শিক্ষাসামগ্রী",
+          "ঘ": "বাড়ির বড় বড় আসবাবপত্র"
+        },
+        "question": "দুর্যোগের সময় দ্রুত বাড়ি ত্যাগ করতে যাচ্ছি—সবার আগে কোন জিনিসটি প্রস্তুত রাখা উচিত?",
+        "solution": "দুর্যোগের সময় প্রথমেই বহনযোগ্য জরুরি কিট (প্রাথমিক চিকিৎসা কিট) এবং বিশুদ্ধ পানি সঙ্গে রাখা জরুরি কারণ তা জীবন রক্ষায় সরাসরি সহায়ক।",
+        "explanation": "বন্যা, ভূমিকম্প বা অন্য কোনো দুর্যোগে ততক্ষণে বাইরে যাওয়ার সময় যতটা সম্ভব হালকা এবং প্রয়োজনীয় জিনিস বহন করা উচিত। জরুরি ঔষধ ও পরিষ্কার পানি না থাকলে চোট বা অসুস্থতা বেড়ে যেতে পারে। মূল্যবান জিনিস, খেলনা বা বড় আসবাবপত্র স্থানান্তর করা সময়সাপেক্ষ ও ঝুঁকিপূর্ণ হওয়ায় এগুলো পরে নেওয়া যায় বা না-ও নেওয়া যেতে পারে।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:28:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598556,
+      "value": {
+        "options": {
+          "ক": "অতিরিক্ত বৃষ্টিপাত",
+          "খ": "বন উজাড় করা",
+          "গ": "বরফ গলন",
+          "ঘ": "চক্রবাত (ঘূর্ণিঝড়)"
+        },
+        "question": "নিচের কোনটি বন্যার একটি মানবসৃষ্ট কারণ?",
+        "solution": "বন উজাড় করা একটি মানবসৃষ্ট কারণ, যা বন্যার ঝুঁকি বাড়ায়।",
+        "explanation": "বন উজাড় করার ফলে গাছপালা মুছে যায়, মাটি-জল শোষণের ক্ষমতা কমে যায় এবং ভূমি ক্ষয় বৃদ্ধি পায়। ফলে বৃষ্টির পানি দ্রুত বয়ে রেখে নদী ও খালে প্রবাহ বাড়ে ও বন্যার সম্ভাবনা বেড়ে যায়। অন্যান্য বিকল্পগুলো (অতিরিক্ত বৃষ্টিপাত, বরফ গলন, চক্রবাত) প্রাকৃতিক কারন।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:28:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598553,
+      "value": {
+        "options": {
+          "ক": "সেচের চাহিদা বেড়ে যায়",
+          "খ": "জলাবদ্ধতা ও রাস্তা বন্যা সৃষ্টি হয়",
+          "গ": "ভূগর্ভস্থ জলের পরিমাণ দ্রুত কমে যায়",
+          "ঘ": "বায়ুমণ্ডলের তাপমাত্রা বাড়ে"
+        },
+        "question": "দীর্ঘসময় ভারী বৃষ্টি হলে সাধারণত কোনটি ঘটে?",
+        "solution": "দীর্ঘসময় ভারী বৃষ্টি হলে মাটি দ্রুত জলসিক্ত হয়ে পড়ে এবং নালা-নর্দমা ও নিষ্কাশন ব্যবস্থা ভরে উঁচু স্থানগুলোতে পানি জমে যায়, ফলে জলাবদ্ধতা ও রাস্তা বন্যার সৃষ্টি হয়।",
+        "explanation": "ভারী বর্ষণ থেকে জল সহজে নিখুঁতভাবে ঢালাই করা না হলে পানি জমে যায় এবং সড়ক ও বসতভূমি প্লাবিত হয়—এটিই জলাবদ্ধতা এবং স্থানীয় বন্যার প্রধান কারণ। অপশন ক ভুল কারণ ভারী বৃষ্টিতে সেচের প্রয়োজন সাধারণত কমে যায়; গ ভুল কারণ ভূগর্ভস্থ জলের পরিমাণ সাধারণত ক্ষণিকের মধ্যে দ্রুত কমে না, বরং কয়েক দিনে বা মাসে পরিবর্তিত হতে পারে; ঘ ভুল কারণ ভারী বৃষ্টি সাধারণত তাপমাত্রা কমায় বা পরিবর্তন করে, বাড়ায় না।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:28:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598548,
+      "value": {
+        "options": {
+          "ক": "সামাজিক যোগাযোগমাধ্যমের প্রতিটি পোস্ট বিশ্বাস করা",
+          "খ": "প্রতিবেশীর কথার ওপর নির্ভর করে সিদ্ধান্ত নেওয়া",
+          "গ": "স্থানীয় রেডিও-টিভি এবং সরকারি বিজ্ঞপ্তি নিয়মিত নজর রাখা",
+          "ঘ": "অজানা অনলাইন সূত্র থেকে একাই প্রস্তুতি নেওয়া"
+        },
+        "question": "বন্যা-সতর্কতা সম্পর্কে সঠিক তথ্য জানার জন্য কী করা উচিত?",
+        "solution": "বন্যা-সতর্কতা নিয়ে সঠিক ও আধিকারিক তথ্য পেতে স্থানীয় রেডিও-টিভি, জরুরি সেবা এবং সরকারি বিজ্ঞপ্তি নিয়মিত দেখতে/শুনতে হবে।",
+        "explanation": "সরকারি ও স্থানীয় মিডিয়া বা দুর্যোগ ব্যবস্থাপনা কর্তৃপক্ষের বিজ্ঞপ্তিই সাধারণত সর্বশেষ ও যাচাইকৃত তথ্য দেয়। সামাজিক মিডিয়া বা গুজব ভুল বা ভানাজারক হতে পারে, তাই সরকারি সূত্র থেকে সতর্কতা ও নির্দেশাবলী অনুসরণ করা সবচেয়ে নিরাপদ।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:28:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598549,
+      "value": {
+        "options": {
+          "ক": "জরুরি কাগজপত্র ও মূল্যবান জিনিস প্লাস্টিক কভার করে উচ্চ স্থানে রাখা",
+          "খ": "শুকনো খাবার, পানীয় ও ওষুধ জোগাড় করে রাখা",
+          "গ": "রেডিও, টর্চ এবং অতিরিক্ত ব্যাটারি নিয়ে একটি জরুরি কিট তৈরি রাখা",
+          "ঘ": "নদীর তীরের পাশে নতুন বাড়ি নির্মাণ করা"
+        },
+        "question": "বন্যার জন্য নিচের কোনটি প্রস্তুতির অংশ নয়?",
+        "solution": "ঘ",
+        "explanation": "নদীর তীরের পাশে নতুন বাড়ি নির্মাণ করা বন্যার ঝুঁকি বাড়ায় এবং এটি প্রস্তুতির অংশ নয় — বরং ঝুঁকি সৃষ্টি করে। বন্যার প্রস্তুতি মানে বিপদ কমানো ও নিরাপত্তা নিশ্চিত করার ব্যবস্থা নেওয়া, যেমন মূল্যবান কাগজপত্র সুরক্ষিত রাখা, শুকনো খাবার ও ওষুধ জোগাড় করা এবং জরুরি কিট প্রস্তুত রাখা।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:28:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598544,
+      "value": {
+        "options": {
+          "ক": "তাড়াহুড়া করে বাইরে দৌড়ানো",
+          "খ": "শান্ত থেকে মজবুত আসবাবপত্রের নিচে ঢুকে ধরার মতো করে থাকা",
+          "গ": "মূল্যবান জিনিস সংগ্রহ করে বাইরে যাওয়ার চেষ্টা করা",
+          "ঘ": "উচ্চস্বরে চিৎকার করে আশেপাশের সবাইকে ডাকানো"
+        },
+        "question": "ভূমিকম্পের সময় কোন আচরণটি সবচেয়ে গুরুত্বপূর্ণ?",
+        "solution": "ভূমিকম্পে প্রথমে নিজেকে সুরক্ষিত করা জরুরি—শান্ত থেকে মজবুত আসবাবপত্র (টেবিল ইত্যাদি) এর নিচে ঢুকে মাথা ও ঘাড় ঢেকে ধরে থাকা।",
+        "explanation": "ভূমিকম্পে দ্রুত প্রতিক্রিয়া দেখানো প্রয়োজন, কিন্তু তাড়াহুড়া করে বাইরে গেলে ভাঙা কাচ, পড়ে থাকা ইট-পাথরের আঘাতে আহত হওয়ার ঝুঁকি বেশি। মূল্যবান জিনিস নেওয়ার চেষ্টা করলে মূল্যবান মানুষের নিরাপত্তা ঝুঁকির মধ্যে পড়ে। চিৎকার করলে সাহায্য পাওয়া যেতে পারে, কিন্তু প্রথমেই নিজেকে রক্ষাই সবচেয়ে গুরুত্বপূর্ণ—বিস্তৃত নিরাপদ জায়গায় ঢেকে ধরে থাকা (Drop, Cover, Hold On) সবচেয়ে কার্যকর।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:28:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598540,
+      "value": {
+        "options": {
+          "ক/a/ا": "পাহাড়",
+          "খ/b/ب": "বাড়িঘর",
+          "গ/c/ج": "রাস্তা",
+          "ঘ/d/ث": "সমতল ভূমি"
+        },
+        "question": "ভূমিধসের ফলে নিচের কোনটি সাধারণত ক্ষতিগ্রস্ত হয় না?",
+        "solution": "ভূমিধস সাধারণত ঢালু ও পাহাড়ি অঞ্চলগুলোতে ঘটে; সমতল ভূমি সাধারণত ভূমিধসের প্রত্যক্ষ লক্ষ্য হয় না।",
+        "explanation": "ভূমিধস তখনই ঘটে যখন বর্ষা, ভূমিকম্প বা ভূমির অনিয়মিত চাপের ফলে ঢালে মাটি ও পাথর সরতে শুরু করে। এতে পাহাড়ি এলাকা, পাহাড়ি রাস্তা এবং ঢালের নিকটবর্তী বাড়িঘর ক্ষতিগ্রস্ত হয়। সমতল বা সমভূমি এলাকায় ঢাল বা খাড়া ঢেউ থাকেনা, ফলে ভূমিধসের সরাসরি প্রভাব সেখানে সাধারণত পড়ে না।",
+        "correct_answer": "ঘ/d/ث"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:28:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598530,
+      "value": {
+        "options": {
+          "ক": "মাঘ–ফাল্গুন",
+          "খ": "বৈশাখ–জ্যৈষ্ঠ",
+          "গ": "আষাঢ়–ভাদ্র",
+          "ঘ": "কার্তিক–অগ্রহায়ণ"
+        },
+        "question": "বাংলাদেশে বর্ষাকাল সাধারণত কোন মাস থেকে কোন মাস পর্যন্ত থাকে?",
+        "solution": "আষাঢ় থেকে ভাদ্র মাস (প্রায় জুন থেকে সেপ্টেম্বর) পর্যন্ত বাংলাদেশে বর্ষাকাল বা মনসুনকাল থাকে।",
+        "explanation": "পশ্চিমদিকের মৌসুমি বাদলবায়ু (স্ব-মনসুন) বঙ্গোপসাগর থেকে আর্দ্রতা নিয়ে আসে, যা সাধারণত জুন (আষাঢ়) মাসে শুরু হয়ে সেপ্টেম্বর (ভাদ্র) মাসে শেষ হয়। এই সময়ে দেশে সবচেয়ে বেশি বৃষ্টি হয় এবং বন্যার আশঙ্কাও বৃদ্ধি পায়।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:27:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598537,
+      "value": {
+        "options": {
+          "ক": "খেলার জিনিস",
+          "খ": "মূল্যবান নথি ও কাগজপত্র",
+          "গ": "শুকনো পাতা",
+          "ঘ": "খাওয়ার অবর্জনা"
+        },
+        "question": "বন্যাকাল বা ভারি বৃষ্টিতে প্লাস্টিক ব্যাগে কোনটি রাখা সবচেয়ে গুরুত্বপূর্ণ?",
+        "solution": "বন্যা বা ভারি বর্ষায় গুরুত্বপূর্ণ নথি ও কাগজপত্র প্লাস্টিক ব্যাগে রেখে ভিজে যাওয়া ও নষ্ট হওয়া থেকে রক্ষা করা উচিত।",
+        "explanation": "প্লাস্টিক ব্যাগ জলের আটকান দেয়, তাই মূলধনী নথি, পরিচয়পত্র, শিক্ষা সংক্রান্ত কাগজপত্র ইত্যাদি প্লাস্টিকে রেখে বন্যা বা বৃষ্টিতে ভেজায় হারানো বা নষ্ট হওয়া থেকে রক্ষা করা যায়। খেলনারা বা শুকনো পাতা কম গুরুত্বপূর্ণ এবং খাওয়ার আবর্জনা প্লাস্টিকে রাখা অস্বাস্থ্যকর।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:27:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598525,
+      "value": {
+        "options": {
+          "ক": "বালি জমে মাটি খাড়া হয়",
+          "খ": "কাদা জমে মাটি ভারী ও চটচটে হয়",
+          "গ": "পলি জমে মাটি উর্বর হয়",
+          "ঘ": "পাথর উঠে এসে জমি ক্ষতিগ্রস্ত হয়"
+        },
+        "question": "বন্যা সমাপ্তির পর জমিতে জমে থাকা কোন বস্তু কৃষকের জন্য সবচেয়ে উপকারী?",
+        "solution": "গ: বন্যার সাথে ভেসে আসা পলি জমি বরাবর ছড়িয়ে পড়ে; এই পলিতে থাকা খনিজ ও জৈব পদার্থ মাটির উর্বরতা বাড়ায়।",
+        "explanation": "বন্যার পানি নদীর তলদেশ ও কাছাকাছি এলাকা থেকে সূক্ষ্ম কণার মতো পলি ও ধূলি বহন করে নিয়ে আসে। বন্যা নেমে গেলে ওই পলি জমিতে পড়ে এবং মাটির উর্বরতা ও পুষ্টিমান বৃদ্ধি পায়। ফলশ্রুতিতে পরবর্তীতে ফসল উৎপাদন ভালো হয়। অন্য অপশনগুলোতে বালি বা পাথরের উপস্থিতি সাধারণত উর্বরতা বাড়ায় না এবং কাদা জমলে মাটি চলাইতে পারে, তাই সেগুলো উপকারী হিসেবে বিবেচিত নয়।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:27:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598527,
+      "value": {
+        "options": {
+          "ক": "মাটি শক্ত হয়ে যায়",
+          "খ": "নীচু এলাকার জমি দ্রুত প্লাবিত হয়ে যেতে পারে",
+          "গ": "নদীর পানি সম্পূর্ণ শুকিয়ে যায়",
+          "ঘ": "খরার সৃষ্টি হয়"
+        },
+        "question": "উজানে থাকা বাঁধ হঠাৎ ভেঙে গেলে নীচে অবস্থিত এলাকাগুলোতে কী ঘটতে পারে?",
+        "solution": "বাঁধ হঠাৎ ভেঙে গেলে উপরের জমে থাকা বড় পরিমাণ পানি নিচের দিকে একসাথে প্রবাহিত হয়ে নীচু এলাকাগুলো বন্যায় প্লাবিত করে।",
+        "explanation": "বাঁধ ভাঙার ফলে ঝটপটভাবে বড় পরিমাণ পানি মুক্ত হয় এবং তা নিম্নভূমি ও বুকে‑বুকের দিকে চাপযুক্তভাবে নেমে আসে। নিম্নাঞ্চল সাধারণত সমতল ও নিচু হওয়ায় পানি জমা হয়ে প্লাবিত হয়, ফলে বাড়ি, ফসল ও যোগাযোগ ব্যবস্থা ক্ষতিগ্রস্ত হতে পারে।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:27:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598528,
+      "value": {
+        "options": {
+          "ক": "খরা ও জলোচ্ছ্বাস",
+          "খ": "বন্যা ও ঘূর্ণিঝড়",
+          "গ": "ভূমিকম্প ও ভূমিধস",
+          "ঘ": "তুষারপাত ও তাপদাহ"
+        },
+        "question": "বাংলাদেশে কোন দু'টি প্রাকৃতিক দুর্যোগ সাধারণত সবচেয়ে বেশি মানুষ ও সম্পত্তির ক্ষতি করে?",
+        "solution": "বন্যা ও ঘূর্ণিঝড়",
+        "explanation": "বাংলাদেশ একটি নিম্নভূমি ও সুন্দরবন-সংলগ্ন দেশ যা বর্ষা মৌসুমে ভারী বর্ষণ ও নদী-জলস্তরের কারণে বন্যায় ধ্বংসাত্মকরূপে আক্রান্ত হয়। একই সঙ্গে বঙ্গোপসাগর থেকে সৃষ্ট ঘূর্ণিঝড় তীব্র বায়ু ও স্রোত এবং জলোচ্ছ্বাস নিয়ে আসে। সুতরাং বন্যা ও ঘূর্ণিঝড়ই সবচেয়ে বেশি মানুষ ও সম্পত্তি ক্ষতিগ্রস্ত করে।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:27:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598517,
+      "value": {
+        "options": {
+          "ক/a/ا": "বৃহৎ পরিমাণে গাছ রোপণ",
+          "খ/b/ب": "শহরে অপরিকল্পিতভাবে নালা ও জলাধার পূরণ করে নির্মাণ",
+          "গ/c/ج": "প্রাকৃতিক জলাধার সংরক্ষণ",
+          "ঘ/d/ث": "নদীর তীরে বাঁধ দিয়ে সঠিক নিয়ন্ত্রণ"
+        },
+        "question": "নিচের কোনটি বন্যার সম্ভাবনা সবচেয়ে বাড়ায়?",
+        "solution": "অপরিকল্পিত নির্মাণ ও নালা বা জলাধার পূরণ করলে বৃষ্টির জল দ্রুত সরে যেতে পারে না এবং পানির অভিব্যক্তি বাধাগ্রস্থ হয়, ফলে বন্যার ঝুঁকি বৃদ্ধি পায়।",
+        "explanation": "শহরে নালা, খাল ও জলাধার ভরাট করলে বা অবৈধভাবে নির্মাণ করলে মাটির অনুপ্রবেশক্ষমতা কমে এবং বৃষ্টির জল জমে থেকে চলাচল ব্যাহত হয়। impermeable (অপরিবহ্য) পার্থিব পৃষ্ঠতল বেড়ে গেলে বৃষ্টির পানির প্রবাহ দ্রুত বৃদ্ধি পায় এবং বিদ্যমান নিকাশী ব্যবস্থা অতিভার বহন করতে পারে না—ফলশ্রুতিতে বন্যা ঘটে। এছাড়া ছোট ছোট জলাধার ও ভেলভ সিস্টেমগুলোও কার্যকর না হলে নদীর পানি অনিয়ন্ত্রিতভাবে আশেপাশের এলাকায় ছড়িয়ে পড়ে।",
+        "correct_answer": "খ/b/ب"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:27:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598518,
+      "value": {
+        "options": {
+          "ক": "বাড়ির ছাদে পতাকা লাগানো",
+          "খ": "রাস্তা বন্ধ করে দেওয়া",
+          "গ": "নদী-খালের তীরে মাপের লাঠি (স্টাফ গেজ) পুঁতে চিহ্ন দেয়া",
+          "ঘ": "বন্যা কবলিত এলাকায় অন্ধকারে লাইট বন্ধ করা"
+        },
+        "question": "বন্যার সময় পানি কতটা উঠেছে তা সহজভাবে পরিমাপ করতে কী করা উচিত?",
+        "solution": "নদী বা খালের তীরে মাপ করা লাঠি বা স্টাফ গেজ পুঁতে সেখানে ধারাবাহিকভাবে চিহ্ন রেখে পানি কতটা ওঠেছে তা দেখা যায়। এটি সহজ, দৃশ্যমান ও পুনরাবৃত্তিমূলকভাবে পর্যবেক্ষণযোগ্য পদ্ধতি।",
+        "explanation": "স্টাফ গেজ বা মাপের লাঠি পুঁতে চিহ্ন দিলে প্রতিবার পানি উঠলে তা লাঠির উপর কতদূর ছুঁয়েছে তা দেখে দ্রুত ও নির্ভুলভাবে পানি স্তর বৃদ্ধি জানা যায়। অন্য বিকল্পগুলো পানি মাত্রা পরিমাপের সাথে সম্পর্কিত নয়: বাড়ির ছাদে পতাকা বা লাইট বন্ধ করা পানি স্তর মাপতে সাহায্য করে না, এবং রাস্তা বন্ধ করলে মাপানো যায় না।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:27:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 598502,
+      "value": {
+        "options": {
+          "ক": "জীববৈচিত্র্য বৃদ্ধি",
+          "খ": "শ্বাসজনিত রোগ ও জলেরজিৎ রোগ বাড়া",
+          "গ": "রাস্তাঘাটের উন্নতি",
+          "ঘ": "প্রযুক্তিগত অগ্রগতি"
+        },
+        "question": "বায়ু ও জলদূষণের ফলে সাধারণত কী ঘটতে পারে?",
+        "solution": "বায়ু ও জলদূষণ শরীরের সঙ্গে সরাসরি সম্পর্কিত। দূষিত বায়ু শ্বাসনালী ও ফুসফুসে সমস্যা সৃষ্টি করে এবং দূষিত জল পরিশোধনহীন হলে জলজ সংক্রমণ ও ক্ষতিকর রোগ ছড়ায়, ফলে শ্বাসজনিত ও জলজ রোগ বাড়ে।",
+        "explanation": "বায়ুতে কণিকা, বিষাক্ত গ্যাস থাকলে শ্বাসকষ্ট, হাঁপানি ও অন্যান্য ফুসফুসজ ব্যাধি দেখা যায়। অপরদিকে নদী-হ্রদ বা পাত্রজাতীয় পানিতে দূষণ থাকলে ডায়রিয়া, টাইফয়েড ইত্যাদি পানি-উৎপন্ন রোগের ঝুঁকি বেড়ে যায়। তাই বায়ু ও জলদূষণের সরাসরি প্রভাব হচ্ছে জনস্বাস্থ্যের অবনতি ও রোগের বাড়তি সংক্রমণ।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-26T14:27:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 175100,
+      "value": {
+        "options": {
+          "a": "বন্যার ফলে বিভিন্ন রোগের প্রাদুর্ভাব ঘটে",
+          "b": "বন্যার কারণে মাটিতে পলি জমা হয়, যা মাটির উর্বরতা বাড়ায়",
+          "c": "বন্যার কারণে খাদ্য সংকট সৃষ্টি হয়",
+          "d": "বন্যার ফলে বাড়ির ক্ষতি হয়"
+        },
+        "question": "বাংলাদেশে বন্যার কারণে মানুষের জীবন ও সম্পদের ক্ষতি হয়, কিন্তু এর কিছু ইতিবাচক দিকও রয়েছে। এই ইতিবাচক দিকটি কী?",
+        "chapter_id": "1381",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-04T12:42:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 159039,
+      "value": {
+        "options": {
+          "a": "মাটিতে পলি জমা হওয়া",
+          "b": "ফসলের ক্ষতি হওয়া",
+          "c": "মানুষের স্বাস্থ্যহানি",
+          "d": "শহরের জনসংখ্যা বৃদ্ধি"
+        },
+        "question": "বাংলাদেশে বন্যার প্রভাবের মধ্যে কোনটি অন্তর্ভুক্ত নয়?",
+        "chapter_id": "1381",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-01T07:24:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 159040,
+      "value": {
+        "options": {
+          "a": "অতিরিক্ত বৃষ্টিপাত",
+          "b": "মাটি ভরাট",
+          "c": "সমুদ্রপৃষ্ঠের তাপমাত্রা বৃদ্ধি",
+          "d": "শীতল বাতাস"
+        },
+        "question": "ঘূর্ণিঝড়ের জন্য কোন প্রাকৃতিক কারণ বিশেষভাবে দায়ী?",
+        "chapter_id": "1381",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-01T07:24:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 159029,
+      "value": {
+        "options": {
+          "a": "সেচের জন্য পানি সরবরাহ",
+          "b": "রোগ ছড়িয়ে পড়া",
+          "c": "কৃষি ফসলের ক্ষতি",
+          "d": "বাসস্থান নষ্ট হওয়া"
+        },
+        "question": "বন্যার ক্ষতিকর প্রভাবের মধ্যে কোনটি অন্তর্ভুক্ত নয়?",
+        "chapter_id": "1381",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-01T07:24:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 159030,
+      "value": {
+        "options": {
+          "a": "অতিরিক্ত জল",
+          "b": "শীতকাল",
+          "c": "গ্রীষ্মকাল",
+          "d": "সামাজিক অসচেতনতা"
+        },
+        "question": "ভৌগোলিক কারণে বাংলাদেশের বন্যার মূল কারণ কি?",
+        "chapter_id": "1381",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-08-01T07:24:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57007,
+      "value": {
+        "options": {
+          "a": "স্বাস্থ্যসেবা",
+          "b": "শিক্ষাগত সুযোগ",
+          "c": "ফসলের ক্ষতি",
+          "d": "বাড়ির বাচ্চাদের নিরাপত্তা"
+        },
+        "question": "বন্যা বাংলাদেশের প্রধান প্রাকৃতিক দুর্যোগগুলোর মধ্যে একটি। এর থেকে মানুষকে কী ধরনের ক্ষতি হতে পারে?",
+        "solution": "সমাধান: ধাপে ধাপে বিশ্লেষণ করে দেখা যায় বন্যার প্রধান ও প্রত্যক্ষ ক্ষতি হলো ফসল প্লাবিত হয়ে নষ্ট হওয়া, জমির রূপান্তর এবং ফলন হ্রাস। তাই সরাসরি ক্ষতির বিবরণ হিসেবে \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E (ফসলের ক্ষতি) সঠিক উত্তর। অন্যান্য বিকল্পগুলো—স্বাস্থ্যসেবা এবং শিক্ষাগত সুযোগ অপ্রত্যক্ষ বা পরোক্ষভাবে প্রভাবিত হতে পারে, আর \"বাড়ির বাচ্চাদের নিরাপত্তা\" অতি সাধারণ ও অসুনির্দিষ্ট; এগুলো বন্যার কারণে ঘটতে পারে কিন্তু প্রধান ও নিদর্শনগত ক্ষতি নয়। সুতরাং সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57008,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাংলাদেশে ঘূর্ণিঝড়ের প্রকোপ সাধারণত শীত মৌসুমে বেশি হয়।",
+        "solution": "সমাধান: বিবৃতি ভুল। বাংলাদেশে ঘূর্ণিঝড় সাধারণত শীতকালে নয়, বরং প্রাক-মানুস্ন (এপ্রিল–মে) ও পরবান্ধব মানুস্ন/শরৎকাল (সেপ্টেম্বর–নভেম্বর) এ বেশি দেখা যায়; শীতকালে (ডিসেম্বর–ফেব্রুয়ারি) উত্তর বঙ্গোপসাগরে তাপমাত্রা ও আবহাওয়া ঘূর্ণিঝড় ত্বরান্বিত করার মতো থাকে না। তাই প্রশ্নের সঠিক উত্তর হলো b (False), এবং a (True) মিসলিডিং।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57009,
+      "value": {
+        "options": {
+          "a": "আবহাওয়া",
+          "b": "দূষণ",
+          "c": "বিশুদ্ধ পানির অভাব",
+          "d": "পালনপালন"
+        },
+        "question": "বন্যার কারণে __________ হতে পারে যে কারণে মানুষের স্বাস্থ্য খারাপ হয়।",
+        "solution": "সমাধান: ধরণগতভাবে বন্যার ফলে পানি প্রবাহিত হওয়া ও জলাশয়ে গাদা হয়ে থাকা বর্জ্য, মল-অপচয় এবং রাসায়নিক নোগসন্দ্রব হওয়ায় সব জলাশয়ে স্বচ্ছ ও বিশুদ্ধ পানির সরবরাহ কমে যায়; ফলে পানীয় জলের অভাবে মানুষের স্বাস্থ্য খারাপ হতে পারে। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বিশুদ্ধ পানির অভাব)। অন্যান্য অপশনগুলির ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (আবহাওয়া) বন্যার কারণ হতে পারে কিন্তু সরাসরি স্বাস্থ্যহানির মূল কারণ নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (দূষণ) গুরুত্বপূর্ণ হলেও এখানে বন্যার প্রভাব হিসেবে মূলত বিশুদ্ধ পানির অভাব উল্লেখ করা বেশি সঠিক; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (পালনপালন) সম্পর্কহীন।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57010,
+      "value": {
+        "options": [],
+        "question": "বন্যার প্রস্তুতির জন্য তুমি কী কি গ্রহণ করবে?",
+        "solution": "সমাধান: বন্যার সময় বেঁচে থাকার জন্য সবচেয়ে জরুরি জিনিসগুলো হলো শুকনো খাবার, বিশুদ্ধ পানি এবং ঔষধ — তাই সেগুলো নির্বাচন করা হলো। প্রথমত, বিদ্যুত ছাড়াই দীর্ঘ সময় খাবার মজুত রাখতে শুকনো ও দীর্ঘস্থায়ী খাবার দরকার; দ্বিতীয়ত, বন্যায় পানির উৎস দূষিত হয়ে যায়, তাই বিশুদ্ধ পানি রোগ প্রতিরোধে অপরিহার্য; তৃতীয়ত, ক্ষুদ্র আঘাত বা নিয়মিত ওষুধের চাহিদা মেটাতে ঔষধ থাকা জরুরি। অন্য সম্ভাব্য আইটেম (যেমন মূল্যবান জিনিসপত্র বা বিলাসিতা) জরুরি জীবিকাগত চাহিদার তুলনায় কম গুরুত্বপূর্ণ, তাই সঠিক উত্তর হল: শুকনো খাবার, বিশুদ্ধ পানি, ঔষধ।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "শুকনো খাবার, বিশুদ্ধ পানি, ঔষধ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57011,
+      "value": {
+        "options": {
+          "a": "বর্ষা মৌসুম",
+          "b": "শীত মৌসুম",
+          "c": "গ্রীষ্ম মৌসুম",
+          "d": "বসন্ত মৌসুম"
+        },
+        "question": "কোন মৌসুমে বাংলাদেশের ঘূর্ণিঝড়ের প্রকোপ বেশি হয়?",
+        "solution": "সমাধান:\n১) বর্ষা মৌসুমে (জুন–সেপ্টেম্বর) বঙ্গোপসাগরের সমুদ্রপৃষ্ঠের তাপমাত্রা ও বায়ুমণ্ডলের আপেক্ষিক আদ্রতা খুব উচ্চ থাকে, যা ঘূর্ণিঝড় গঠনের জন্য অনুকূল পরিবেশ তৈরি করে।  \n২) এই উচ্চ তাপ ও আর্দ্রতার ফলে লঘুচাপ কেন্দ্র দ্রুত শক্তিশালী হয়ে ঘূর্ণিঝড়ে পরিণত হয় এবং বিস্তৃত ক্ষতি করতে পারে।  \n৩) অতএব ঘূর্ণিঝড়ের প্রকোপ সবচেয়ে বেশি হয় বর্ষা মৌসুমে, ফলে সঠিক উত্তর হচ্ছে a: বর্ষা মৌসুম।  \n৪) অন্য অপশনগুলো (শীত, গ্রীষ্মের শুরু, বসন্ত) তেমন উচ্চ সামুদ্রিক তাপ বা আর্দ্রতা না থাকায় ঘূর্ণিঝড় কম ঘটে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57012,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "অতিরিক্ত বৃষ্টিপাত বন্যার সৃষ্টি করে।",
+        "solution": "সমাধান:\nঅতিরিক্ত বৃষ্টিপাত বন্যার একটি সাধারণ কারণ কারণ মাটি এবং নদীর ধারণক্ষমতা সীমিত। ধাপে ধাপে:\n1. অতিরিক্ত বৃষ্টি মাটি ও ভূ-গর্ভস্থ পানি সংরক্ষণকে পূর্ণ করে এবং পানির গ্রহনযোগ্যতা কমে যায়।\n2. যখন অবতীর্ণ বৃষ্টির পরিমাণ পরোক্ষভাবে মাটির শোষণ, সংরক্ষণ ও নিষ্কাশনের যোগফলের চেয়ে বেশি হয়, অর্থাৎ [math]P \u003E I + S + D[/math], তখন অতিরিক্ত পানি ব(runoff) হিসেবে জমে যায়।\n3. এই অতিরিক্ত জল নদী, খাল বা শহরের নিষ্কাশন ব্যবস্থাকে ছড়িয়ে দিয়ে বন্যা সৃষ্টি করে। তাই উত্তরটি সঠিক: a (True)। বিকল্প b (False) ভুল কারণ অতিরিক্ত বৃষ্টি বাস্তবে বন্যার সম্ভাবনা বৃদ্ধি করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57013,
+      "value": {
+        "options": {
+          "a": "৩৫ ফুট",
+          "b": "৪৫ ফুট",
+          "c": "৫০ ফুট",
+          "d": "২৫ ফুট"
+        },
+        "question": "ঘূর্ণিঝড় থেকে সৃষ্ট তীব্র বাতাস __________ ধ্বংস করে।",
+        "solution": "সমাধান: প্রশ্নে জিজ্ঞেস করা হয়েছে ঘূর্ণিঝড় থেকে সৃষ্ট তীব্র বাতাস কী উচ্চতার বস্তু ধ্বংস করতে পারে। সাধারণভাবে প্রবল ঘূর্ণিঝড়ের বাতাস এমন শক্তিশালী যে তা প্রায় ৪৫ ফুট পর্যন্ত উচ্চতার গাছ কিংবা কাঠামোও ভেঙে দিতে পারে, তাই সঠিক উত্তর হলো (b) ৪৫ ফুট। অন্যান্য অপশনগুলো অপ্রতুল বা অতিরঞ্জিত — যেমন ২৫ ফুট ও ৩৫ ফুট খুব ছোট মান, আর ৫০ ফুট অনেক বেশি; বাস্তবে সাধারণ ঘূর্ণিঝড়ে নিয়মিতভাবে ৫০ ফুট পর্যন্ত প্রতিটি বস্তু নষ্ট হয় না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57014,
+      "value": {
+        "options": [],
+        "question": "কীভাবে ঘূর্ণিঝড়ের ক্ষয়ক্ষতি কমানো যেতে পারে?",
+        "solution": "সমাধান:\n1. কারণ-বিশ্লেষণ: ঘূর্ণিঝড়ের তীব্রতা ও ক্ষয়ক্ষতি কেবলমাত্র প্রতিবেশগত কন্ডিশনের উপর নির্ভর করে—বিশেষত সমুদ্রের পৃষ্ঠের তাপমাত্রা (SST)। সাধারণভাবে ঘূর্ণিঝড়ের তীব্রতা [math]I[/math] সমুদ্রের অতিরিক্ত তাপমাত্রা [math]\\Delta T_{SST}[/math]–এর ওপর অনুপাতিকভাবে নির্ভর করে, অর্থাৎ [math]I \\propto \\Delta T_{SST}[/math]। একইভাবে বিশ্ব উষ্ণীকরণ বাড়ালে [math]\\Delta T_{SST}[/math] বৃদ্ধি পায় এবং তা অনেকাংশে বায়ুমণ্ডলে কার্বন ডাইঅক্সাইডের মাত্রা (যা জীবাশ্ম জ্বালানির জ্বালায় বৃদ্ধি পায়) দ্বারা প্রভাবিত হয়: [math]\\Delta T_{SST} \\propto \\mathrm{CO_2}[/math]।\n2. তাই রূপরেখা: জীবাশ্ম জ্বালানি ব্যবহার কমালে [math]\\mathrm{CO_2}[/math] নির্গমন কমবে → গ্লোবাল উষ্ণতা কম বাড়বে → সমুদ্রের অতিরিক্ত তাপ কমবে → ঘূর্ণিঝড়ের তীব্রতা ও সম্ভাব্য ক্ষয়ক্ষতি কমবে। এই যতিসংক্ষেপেই বৈজ্ঞানিক যুক্তি রয়েছে যে \"জীবাশ্ম জ্বালানি ব্যবহার কমানো\" হচ্ছে সঠিক উপায়।\n3. অন্যান্য বিকল্পগুলো কেন পর্যাপ্ত নয়: তৎকালীন সতর্কতা, আশ্রয়কেন্দ্র বা অবকাঠামো উন্নয়ন ক্ষতিপূরণ ও প্রাণরক্ষা করে কিন্তু ঘূর্ণিঝড় জন্মানো বা তার তীব্রতা কমায় না; বনায়ন সাহায্য করে কিন্তু জীবাশ্ম জ্বালানি ব্যবহার হ্রাসের তুলনায় তা দীর্ঘমেয়াদি ও ধীর প্রভাব ফেলে। \n\nঅতএব সঠিক উত্তর: জীবনাশ্ম জ্বালানি ব্যবহার কমানো।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "জীবাশ্ম জ্বালানি ব্যবহার কমানো"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57015,
+      "value": {
+        "options": {
+          "a": "১ নম্বর থেকে ৫ নম্বর সংকেত",
+          "b": "১ নম্বর থেকে ৩০ নম্বর সংকেত",
+          "c": "১ নম্বর থেকে ১০ নম্বর সংকেত",
+          "d": "১ নম্বর থেকে ১৫ নম্বর সংকেত"
+        },
+        "question": "কোন সংকেতগুলি ঘূর্ণিঝড়ের সময় সতর্কতা দেয়?",
+        "solution": "সমাধান:\nধাপ ১: ঘূর্ণিঝড় সতর্কতা (Cyclone Warning Signal) সম্পর্কে জানালে, বাংলাদেশে বহুল প্রচলিত ব্যবস্থা হলো সংকেত সংখ্যা [math]1[/math] থেকে [math]10[/math] পর্যন্ত, যেখানে সংখ্যা বৃদ্ধির সঙ্গে ঝুঁকি ও বাতাসের তীব্রতা বেড়ে যায়।  \nধাপ ২: তাই সঠিক উত্তর হলো অপশন c: ১ নম্বর থেকে ১০ নম্বর।  \nধাপ ৩: অন্যান্য অপশনগুলো ভুল কারণ [math]1\\text{–}5[/math], [math]1\\text{–}30[/math] বা [math]1\\text{–}15[/math] এই ধরণে সংকেত ব্যবস্থাপনা প্রচলিত নয় এবং বাস্তবে ব্যবহার করা হয় না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57016,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "আগুন লাগার জন্য শুধুমাত্র প্রাকৃতিক কারণ থাকে।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি বলেছে যে আগুন লাগার জন্য শুধুমাত্র প্রাকৃতিক কারণই থাকে — এটি একটি সার্বজনীন দাবি।  \nধাপ ২: বাস্তবে আগুন লাগার কারণ দুপ্রকার: প্রাকৃতিক (যেমন বজ্রপাত, স্বতঃপ্রজ্বলন) এবং মানবসৃষ্ট (যেমন দগ্ধ করা সিগারেট ফেলে দেয়া, বৈদ্যুতিক শর্ট সার্কিট, আর্সন)। যেহেতু মানবসৃষ্ট কারণগুলো স্পষ্টভাবে বিদ্যমান, তাই “শুধুমাত্র প্রাকৃতিক” এই দাবিটি মিথ্যা।  \nউপসংহার: সঠিক উত্তর হল b (False)।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57017,
+      "value": {
+        "options": {
+          "a": "রান্নার ভুল",
+          "b": "শীতল অবস্থার খারাপ",
+          "c": "দূষণ",
+          "d": "আবহাওয়া"
+        },
+        "question": "আগুন লাগানোর অন্যতম কারণ হলো __________।",
+        "solution": "সমাধান: ধাপ ১ — প্রশ্নে দেওয়া বিকল্পগুলো বিশ্লেষণ করুন: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E রান্নার ভুল, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শীতল অবস্থার খারাপ, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দূষণ, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E আবহাওয়া।  \nধাপ ২ — রান্নার ভুল কেন প্রধান কারণ: রান্নার সময় খোলা আগুন, গরম তেল বা ছড়িয়ে পড়া জ্বালানী সহজেই আগুন ধরাতে পারে, বিশেষ করে চুলা অমনitored বা তেলে আগুন লেগে গেলে দ্রুত বড় আগুন হয়।  \nধাপ ৩ — অন্যান্য বিকল্পগুলো অনুষঙ্গ বা সরাসরি কারণ নয়: শীতল অবস্থা, দূষণ বা আবহাওয়া সাধারণত আগুন লাগার সরাসরি মূল কারণ হিসেবে কম ঘটে। অতএব সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E রান্নার ভুল।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57018,
+      "value": {
+        "options": [],
+        "question": "আগুন লাগলে তুমি প্রথমে কী করবে?",
+        "solution": "সমাধান:\nধাপ ১: প্রথম আহতির লক্ষ্য হলো সোজাসুজি বিপদ থেকে নিজেকে নিরাপদ স্থানে সরানো — তাই “নিজেকে রক্ষা করবো” হওয়া উচিত প্রথম কাজ।  \nধাপ ২: নিজেকে নিরাপদ করে নেওয়ার পরই (যদি সম্ভব এবং নিরাপদ হয়) সাহায্য চাওয়া, জরুরি সেবা কল করা বা আগুন বোঝানো যায়।  \nকারণ: আগুনে প্রথমে নিজেকে রক্ষা না করলে পরবর্তীতে অন্যকে সাহায্য করতে পারা বা আগুন নেভানো অসম্ভব ও বিপজ্জনক; তাই সরাসরি আগুন নেভানো বা অন্যকে তত্ক্ষণাত সাহায্য করা — এসব প্রথম প্রাধান্য হওয়া উচিত নয় যদি নিজের নিরাপত্তা নিশ্চিত না থাকে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "নিজেকে রক্ষা করবো"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57019,
+      "value": {
+        "options": {
+          "a": "পলি",
+          "b": "প্রদূষণ",
+          "c": "น้ำ",
+          "d": "বালি"
+        },
+        "question": "বন্যার ফলে মাটিতে __________ জমা হয়।",
+        "solution": "সমাধান:\nধাপ ১: বন্যার পানি নদী ও ভূপ্রকৃতি থেকে মাটি এবং ক্ষুদ্র কণা বহন করে আসে।  \nধাপ ২: বন্যার পরে সেই ক্ষুদ্র কণাগুলো জমা হয় যা সিল্ট বা পলি নামে পরিচিত—অর্থাৎ মাটির সূক্ষ্ম অণুগুলো জমা হয়, তাই সঠিক উত্তর \u003Cb\u003Ea: পলি\u003C/b\u003E।  \nবাকি বিকল্পগুলোর ব্যাখ্যা: (b) প্রদূষণ হলো দূষিত পদার্থ, এটি সরাসরি মাটির ধরনের নাম নয়; (c) \"น้ำ\" থাই ভাষায় পানি, কিন্তু প্রশ্নে মাটিতে কি জমা হয় তা জানতে চাওয়া হয়েছে; (d) বালি কিছু ক্ষেত্রে জমা হতে পারে, কিন্তু সাধারণত বন্যায় প্রধানত সূক্ষ্ম কণার পলি জমা হয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57020,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "আবহাওয়া রিপোর্ট শুনলে বন্যার আগাম প্রস্তুতি নেওয়া যায়।",
+        "solution": "সমাধান:\nপ্রথমে আবহাওয়া রিপোর্টে বৃষ্টির পরিবর্তন, বন্যার ঝুঁকি, নদীর পানি বেড়ে যাওয়ার সম্ভাব্যতা ইত্যাদি আগাম জানা যায়। তার ওপর ভিত্তি করে পরিবারের নিরাপদ স্থান নির্ধারণ, জরুরি সরঞ্জাম ও খাদ্যপণ্য প্রস্তুত করা, এবং স্থানীয় সতর্কতা-নির্দেশ মেনে দ্রুত সরিয়ে নেওয়া সম্ভব হয়। তাই উক্ত বক্তব্যটি সঠিক — উত্তর হলো a (True)। b (False) ভুল, কারণ আবহাওয়া রিপোর্ট ছাড়া আগাম প্রস্তুতি নেওয়া অনেকটা অস্থিতিশীল ও ঝুঁকিপূর্ণ হয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57021,
+      "value": {
+        "options": {
+          "a": "সিগারেট",
+          "b": "শুকনো খাবার",
+          "c": "কাঁচা খাবার",
+          "d": "কেক"
+        },
+        "question": "বন্যার সময় __________ রান্না করতে হবে।",
+        "solution": "সমাধান:\n1) পরিস্থিতির বিশ্লেষণ: বন্যার সময় পরিশোধিত পানি ও রান্নার সুবিধা সীমিত থাকে, তাই এমন খাবার প্রয়োজন যা দীর্ঘ সময় ভেজা বা দূষিত হওয়ার সম্ভাবনা কম এবং দ্রুত প্রস্তুত করা যায়।  \n2) উপসংহার: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শুকনো খাবারই এই শর্তগুলো পূরণ করে — সংরক্ষণযোগ্য, কম পানি/গ্যাসে প্রস্তুতযোগ্য এবং নিরাপদ।  \n3) Why others are incorrect: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সিগারেট রান্নার বিষয় নয় ও স্বাস্থ্যবিধি লঙ্ঘন; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কাঁচা খাবার বন্যায় দূষণের কারণে অসুস্থতা ঘটাতে পারে; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কেক সাধারণত দ্রুত নষ্ট হয় এবং বিশেষ প্রস্তুতির প্রয়োজন। তাই সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শুকনো খাবার।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57022,
+      "value": {
+        "options": [],
+        "question": "বন্যা মোকাবিলায় কী ধরনের প্রস্তুতি নিয়ে রাখতে হবে?",
+        "solution": "সমাধান: \n\nধাপ ১: বন্যা হলে পানি বাড়ি ভেতরে ঢুকতে পারে এবং ভিত্তি-প্রাচীর ক্ষতি করতে পারে, তাই পানি আটকানো বা প্রবাহ পরিবর্তন করাই প্রথম লক্ষ্য।  \nধাপ ২: বাড়ির কাছে বাঁশ পুঁতে রাখলে তা দ্রুত একটি বাধা বা অস্থায়ী বাঁধ তৈরি করে পানির প্রবাহ ধীর করে/বিকল্প পথ দেয় এবং নাজুক স্থানগুলোর সুরক্ষা বাড়ায়—এই কারণে \"বাড়ির কাছে বাঁশ পুঁতে রাখা\" সবচেয়ে কার্যকর প্রস্তুতি।  \nধাপ ৩: অন্যান্য প্রস্তুতি (যেমন খাবার-জল সঞ্চয় বা জিনিসপত্র ওপরে তুলে রাখা) সুবিধাজনক হলেও সেগুলো মূলত বন্যার পরে টিকিয়ে রাখার ব্যবস্থাপনা; পানি সরাসরি আটকোতে বা প্রবাহ নিবারণে বাঁশের মতো প্রতিবন্ধকতার তুলনা নেই।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বাড়ির কাছে বাঁশ পুঁতে রাখা"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57023,
+      "value": {
+        "options": {
+          "a": "পানি কমে যাওয়া",
+          "b": "ফসল ধ্বংস",
+          "c": "নদীর গভীরতা বৃদ্ধি",
+          "d": "জলাবদ্ধতা কমে যাওয়া"
+        },
+        "question": "বাংলাদেশে ঘূর্ণিঝড়ের গুরুত্বপূর্ণ ফলাফল কি?",
+        "solution": "সমাধান:\nঘূর্ণিঝড় সাধারণত তীব্র বাতাস, ভারী বৃষ্টি এবং স্রোতসহ সামুদ্রিক জলোচ্ছ্বাস তৈরি করে; এই কারণগুলো মাটির ক্ষরণ, জলাবদ্ধতা ও লবণাক্ততা বাড়িয়ে ফসলের ব্যাপক ক্ষতি করে। তাই ঘূর্ণিঝড়ের সবচেয়ে গুরুত্বপূর্ণ ফলাফল হলো ফসল ধ্বংস — সুতরাং সঠিক উত্তর: b (ফসল ধ্বংস)। অন্যান্য অপশনগুলো ভুল কারণ ঘূর্ণিঝড়ে পানি কমে যাওয়ার পরিবর্তে বরং পানিবৃদ্ধি ও জলাবদ্ধতা ঘটে, নদীর গভীরতা স্থায়ীভাবে বৃদ্ধি করা মুখ্য নয় এবং জলাবদ্ধতা কমে যায় না বরং বৃদ্ধি পায়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57024,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "কেবল মানুষের কারণে আগুন লাগে।",
+        "solution": "সমাধান:\nধাপ 1: বিবৃতিটি পরীক্ষা করুন — \"কেবল মানুষের কারণে আগুন লাগে\" মানে শুধুমাত্র মানুষই আগুন লাগাতে পারে।  \nধাপ 2: বাস্তব উদাহরণ ও কারণ দেখুন — প্রকৃতিতে বজ্রপাত, আগ্নেয়গিরির লাভা, স্বতঃস্ফূর্ত জ্বালানীর দহন বা গরম অবস্থায় কীটপতঙ্গ/গাছপালা থেকে অগ্নিস্ফুটন ইত্যাদি কারণে আগুন লাগতে পারে।  \nধাপ 3: সিদ্ধান্ত — তাই বিবৃতিটি সঠিক নয়; সঠিক উত্তর হলো বিকল্প b (False)।  \nঅবশ্য, বিকল্প a ভুল কারণ তা প্রাকৃতিক কারণগুলোকে উপেক্ষা করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57025,
+      "value": {
+        "options": {
+          "a": "পুলিশ",
+          "b": "ফায়ার সার্ভিস",
+          "c": "শুধু অনলাইন",
+          "d": "বাড়ির লোক"
+        },
+        "question": "আগুন লাগলে __________ খবর দিতে হবে।",
+        "solution": "সমাধান: আগুন লাগলে দ্রুত পেশাদার সাহায্য প্রয়োজন, তাই প্রথমে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ফায়ার সার্ভিসকে খবর দিতে হবে কারণ তাদের কাছে অগ্নিনির্বাপক যন্ত্রপাতি ও প্রশিক্ষিত দমকর্মী থাকে যারা আগুন নেভাতে সক্ষম। অন্যান্য বিকল্পগুলো উপযুক্ত নয়—\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পুলিশ নিরাপত্তা নিশ্চিত করতে পারে কিন্তু অগ্নিনির্বাপক কাজ করে না, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শুধুমাত্র অনলাইন জানানো সময় নেবে ও কার্যকর নয়, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বাড়ির লোক জরুরি তত্ক্ষণিক পেশাদার সহায়তার বিকল্প হতে পারে না। সুতরাং সঠিক উত্তর: ব (ফায়ার সার্ভিস)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57026,
+      "value": {
+        "options": [],
+        "question": "ধারণ ক্ষমতা হারানোর কারণে নদীর কি অবস্থা হয়?",
+        "solution": "সমাধান: \n\nধারণক্ষমতা বলতে নদীর স্রোত ধারণ করার জন্য তার ক্রস-সেকশনের এলাকা ও পরিসরকে বোঝায়; যখন এটি ক্ষয়প্রাপ্ত বা ভরাট হয়, নদীর বেড উঁচু হয়ে ক্রস-সেকশন এলাকা কমে যায়। ধাপগুলো:  \n\n1) নদীর প্রবাহের সূত্র অনুযায়ী [math]Q = A \\times v[/math] (যেখানে [math]Q[/math] = প্রবাহ পরিমাণ, [math]A[/math] = ক্রস-সেকশন এলাকা, [math]v[/math] = গতি)।  \n2) যদি ধারণক্ষমতা হারিয়ে [math]A[/math] কমে, একই গতি থাকলেও প্রবাহ ক্ষমতা বা পানির পরিমাণ কমে যায়।  \n3) অতএব নদী ভরাট হয়ে যাওয়ার ফলে পানির পরিমাণ কমে যায় — তাই দেয়া সঠিক উত্তরটি: “ভরাট হয়ে যাওয়ার ফলে পানির পরিমাণ কমে যায়”।  \n\nঅন্য বিকল্পগুলো ভুল কারণ তারা ভরাটের ফলে পানির পরিমাণ বাড়বে বা অপরিবর্তিত থাকবে ধারণাকে সমর্থন করে, যা ক্রস-সেকশন এলাকা কমে যাওয়া বাস্তবতার বিরুদ্ধে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ভরাট হয়ে যাওয়ার ফলে পানির পরিমাণ কমে যায়"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7399&grade=7&per_page=2000&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7399&grade=7&per_page=2000&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7399&grade=7&per_page=2000&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 114,
+  "total": 114
+}

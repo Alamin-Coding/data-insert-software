@@ -1,0 +1,301 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746671,
+      "value": {
+        "options": {
+          "ক": "দুটি",
+          "খ": "তিনটি",
+          "গ": "চারটি",
+          "ঘ": "পাঁচটি"
+        },
+        "question": "পাকিস্তানের কয়টি ভাগ ছিল?",
+        "solution": "ক. দুটি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746672,
+      "value": {
+        "options": {
+          "ক": "১৯৪৭",
+          "খ": "১৯৫২",
+          "গ": "১৯৭০",
+          "ঘ": "১৯৭১"
+        },
+        "question": "ভারত ও পাকিস্তান স্বাধীনতা লাভ করে কত সালে?",
+        "solution": "ক. ১৯৪৭",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746673,
+      "value": {
+        "options": {
+          "ক": "অসম্মান",
+          "খ": "ঘৃণা",
+          "গ": "শ্রদ্ধা",
+          "ঘ": "নিন্দা"
+        },
+        "question": "ভাষাশহিদদের স্মরণে ঢাকায় শহিদ মিনার গড়ে তোলা হয়। ভাষাশহিদদের জন্য আমাদের কী করা উচিত?",
+        "solution": "গ. শ্রদ্ধা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746674,
+      "value": {
+        "options": {
+          "ক": "২০শে ফেব্রুয়ারি",
+          "খ": "২১শে ফেব্রুয়ারি",
+          "গ": "২৫শে ফেব্রুয়ারি",
+          "ঘ": "২৬শে ফেব্রুয়ারি"
+        },
+        "question": "একটি তারিখকে কেন্দ্র করে আমরা শহিদ দিবস পালন করি। উক্ত তারিখ হলো-",
+        "solution": "খ. ২১শে ফেব্রুয়ারি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746675,
+      "value": {
+        "options": {
+          "ক": "২১শে ফেব্রুয়ারি",
+          "খ": "৭ই মার্চ",
+          "গ": "২৬শে মার্চ",
+          "ঘ": "১৬ই ডিসেম্বর"
+        },
+        "question": "আন্তর্জাতিক মাতৃভাষা দিবস পালিত হয়-",
+        "solution": "ক. ২১শে ফেব্রুয়ারি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746676,
+      "value": {
+        "options": {
+          "ক": "১৯৪৭ সালে",
+          "খ": "১৯৫২ সালে",
+          "গ": "১৯৭০ সালে",
+          "ঘ": "১৯৭১ সালে"
+        },
+        "question": "একটি আন্দোলনকে কেন্দ্র করে রফিক, সালাম, জব্বার, বরকত, শফিউরসহ অনেকেই শহিদ হন। উক্ত আন্দোলন ঘটে-",
+        "solution": "খ. ১৯৫২ সালে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746677,
+      "value": {
+        "options": {
+          "ক": "পূর্ব পাকিস্তান",
+          "খ": "পশ্চিম পাকিস্তান",
+          "গ": "কাশ্মীর",
+          "ঘ": "বেলুচিস্তান"
+        },
+        "question": "পাকিস্তানের রাজধানী ছিল-",
+        "solution": "খ. পশ্চিম পাকিস্তান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7402&grade=7&lesson=13457&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7402&grade=7&lesson=13457&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7402&grade=7&lesson=13457&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 7,
+  "total": 7
+}

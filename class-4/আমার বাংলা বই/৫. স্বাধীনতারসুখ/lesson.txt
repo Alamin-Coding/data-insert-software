@@ -1,0 +1,3644 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 743856,
+      "value": {
+        "options": [],
+        "question": "গড়া",
+        "solution": "নির্মাণ করা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743857,
+      "value": {
+        "options": [],
+        "question": "তুমি কত _______ পাও রোদ, বৃষ্টি, ঝড়ে।",
+        "solution": "কষ্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743858,
+      "value": {
+        "options": [],
+        "question": "হাসি",
+        "solution": "কান্না",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743859,
+      "value": {
+        "options": [],
+        "question": "গড়া",
+        "solution": "ভাঙা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743860,
+      "value": {
+        "options": [],
+        "question": "বড়াই",
+        "solution": "অহংকার",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743861,
+      "value": {
+        "options": [],
+        "question": "সন্দেহ",
+        "solution": "সংশয়",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743862,
+      "value": {
+        "options": [],
+        "question": "কাঁচা",
+        "solution": "অপক্ব",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743863,
+      "value": {
+        "options": [],
+        "question": "বড়াই",
+        "solution": "নিজেকে নিয়ে বড়াই করা উচিত নয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743864,
+      "value": {
+        "options": {
+          "ক": "অহংকারী",
+          "খ": "মিথ্যাবাদী",
+          "গ": "স্বাধীনচেতা",
+          "ঘ": "পরনির্ভরশীল"
+        },
+        "question": "'স্বাধীনতার সুখ' কবিতায় বাবুই পাখি-",
+        "solution": "গ. স্বাধীনচেতা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743865,
+      "value": {
+        "options": {
+          "ক": "অসুখ",
+          "খ": "কান্না",
+          "গ": "কষ্ট",
+          "ঘ": "দুঃখ"
+        },
+        "question": "'সুখ' শব্দটির বিপরীত কোনটি?",
+        "solution": "ঘ. দুঃখ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743866,
+      "value": {
+        "options": [],
+        "question": "পাখি-কীট-পতঙ্গ-জন্তু জানোয়ারের বাসস্থান",
+        "solution": "বাসা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743867,
+      "value": {
+        "options": [],
+        "question": "'স্বাধীনতার সুখ' কবিতাটির মূলভাব লেখ।",
+        "solution": "\u003Cdiv\u003Eবাবুই খুব সুন্দর করে নিজের বাসা বোনে গাছের ডালে। সেখানেই সে থাকে। আর চড়ুই থাকে অট্টালিকায়। অন্যের&nbsp;আশ্রয়ে থেকে চড়ুইয়ের অহংকারের শেষ নেই। বাবুইকে সে বাঁকা কথা বলে। কিন্তু বাবুই তাতে দুঃখ পায় না। রোদ, বৃষ্টি, ঝড়ে কষ্ট পেলেও বাবুই নিজের ঘরে থাকে। নিজের হাতে বানানো কাঁচা ঘরটাতেই সে সুখী। কবিতাটিতে বোঝানো হয়েছে, নিজের চেষ্টায় অল্প অর্জনও অধিক গৌরবের।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 61,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 61,
+        "name": "মূলভাব",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743794,
+      "value": {
+        "options": [],
+        "question": "আমি থাকি মহাসুখে _______ পরে।",
+        "solution": "অট্টালিকা",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743794,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743795,
+      "value": {
+        "options": [],
+        "question": "বাবুই হাসিয়া কহে _______ কি তায়?",
+        "solution": "সন্দেহ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743795,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743796,
+      "value": {
+        "options": [],
+        "question": "কষ্ট পাই, তবু থাকি _______ বাসায়।",
+        "solution": "নিজের",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743796,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743797,
+      "value": {
+        "options": [],
+        "question": "সুখ",
+        "solution": "দুঃখ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743797,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743798,
+      "value": {
+        "options": [],
+        "question": "পাকা",
+        "solution": "কাঁচা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743798,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743799,
+      "value": {
+        "options": [],
+        "question": "বাবুই পাখি কষ্ট পায় কেন?",
+        "solution": "কাঁচাঘরের কারণে রোদ, বৃষ্টি ও ঝড়ে বাবুই পাখি কষ্ট পায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743800,
+      "value": {
+        "options": [],
+        "question": "কার ঘরটি খাসা?",
+        "solution": "বাবুই পাখির ঘরটি খাসা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743801,
+      "value": {
+        "options": [],
+        "question": "চড়াই-এর মতে কে শিল্পের বড়াই করে? কেন করে?",
+        "solution": "চড়াই-এর মতে বাবুই পাখি শিল্পের বড়াই করে। কেননা নিজ হাতে সে সুন্দর বাসা বোনে এবং সেই বাসায়ই থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743802,
+      "value": {
+        "options": [],
+        "question": "কুঁড়েঘরে থেকেও বাবুই পাখির মনে কষ্ট নেই কেন?",
+        "solution": "উত্তর : বাবুই পাখি নিজ হাতে তার বাসা গড়ে তোলে। রোদ, বৃষ্টি ও ঝড়ে কষ্ট পেলেও সে নিজের কুঁড়েঘরে স্বাধীনভাবে থাকে। তাই কুঁড়েঘরে থেকেও তার মনে কষ্ট নেই।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743803,
+      "value": {
+        "options": [],
+        "question": "চড়াইয়ের বাসা নিয়ে বাবুই পাখি কী বলে?",
+        "solution": "\u003Cdiv\u003Eচড়াইয়ের বাসা নিয়ে বাবুই পাখি বলে, চড়াইয়ের বাসা হলো পরের বাসা। বাসাটি পাকা হলেও চড়াইকে পরের বাসাতেই পরাধীনভাবে থাকতে হয়।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743804,
+      "value": {
+        "options": [],
+        "question": "বাবুই পাখি সুখী কেন?",
+        "solution": "\u003Cdiv\u003Eবাবুই পাখি অন্যের আশ্রয়ে না থেকে নিজের কুঁড়েঘরে থাকে। সে পরনির্ভরশীল নয়। নিজের অক্লান্ত পরিশ্রমে গড়া নিজের বাসায় সে থাকে। রোদ, বৃষ্টি, ঝড়ে কষ্ট পেলেও সে নিজের ঘরে থাকে। নিজের চেষ্টায় অল্প অর্জনও অনেক গৌরবের। তাই বাবুই পাখি সুখী।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743805,
+      "value": {
+        "options": [],
+        "question": "_______ থাকি কর শিল্পের বড়াই।",
+        "solution": "কুঁড়েঘরে",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743806,
+      "value": {
+        "options": [],
+        "question": "আমি থাকি _______ অট্টালিকা পরে।",
+        "solution": "মহাসুখে",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743807,
+      "value": {
+        "options": [],
+        "question": "পাকা হোক, তবু _______, পরের ও বাসা।",
+        "solution": "ভাই",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743808,
+      "value": {
+        "options": [],
+        "question": "সুখ",
+        "solution": "দুঃখ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743809,
+      "value": {
+        "options": [],
+        "question": "পাকা",
+        "solution": "কাঁচা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743810,
+      "value": {
+        "options": [],
+        "question": "কুঁড়েঘর",
+        "solution": "কুটির",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743811,
+      "value": {
+        "options": [],
+        "question": "হাসি",
+        "solution": "হাস্য",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743812,
+      "value": {
+        "options": [],
+        "question": "ভাই",
+        "solution": "আমার একটি বোন আছে, কোনো ভাই নেই।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743813,
+      "value": {
+        "options": {
+          "ক": "রজনীকান্ত দাস",
+          "খ": "রজনীকান্ত সেন",
+          "গ": "রজনীকান্ত দাশ",
+          "ঘ": "রবীন্দ্রনাথ ঠাকুর"
+        },
+        "question": "'স্বাধীনতার সুখ' কবিতাটির কবির নাম কী?",
+        "solution": "খ. রজনীকান্ত সেন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743814,
+      "value": {
+        "options": {
+          "ক": "অট্টালিকায়",
+          "খ": "পাকা ঘরে",
+          "গ": "কুঁড়েঘরে",
+          "ঘ": "পরের বাসায়"
+        },
+        "question": "বাবুই পাখি কোথায় থাকে?",
+        "solution": "গ. কুঁড়েঘরে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743815,
+      "value": {
+        "options": [],
+        "question": "ষ্ট",
+        "solution": "ষ + ট, কষ্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743816,
+      "value": {
+        "options": [],
+        "question": "ঘাস বা পাতায় ছাওয়া দরিদ্রের ছোটো ঘর",
+        "solution": "কুঁড়েঘর",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743817,
+      "value": {
+        "options": [],
+        "question": "ইটের তৈরি বাড়ি বা দালান",
+        "solution": "অট্টালিকা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743818,
+      "value": {
+        "options": [],
+        "question": "স্বাধীনতা",
+        "solution": "পরাধীনতা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743818,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743819,
+      "value": {
+        "options": [],
+        "question": "চড়াই বাবুইয়ের বাসা নিয়ে কী বলে?",
+        "solution": "চড়াই বাবুইয়ের বাসা নিয়ে বাঁকা কথা বলে। বাবুইকে বলে, কুঁড়েঘরে থেকে সে শিল্পের বড়াই করে। অথচ চড়াই অট্টালিকায় মহাসুখে থাকে। আর বাবুই রোদ, বৃষ্টি ও ঝড়ে কষ্ট পায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743820,
+      "value": {
+        "options": [],
+        "question": "কে অহংকারী? বাবুই পাখি, নাকি চড়াই? বুঝিয়ে লেখ।",
+        "solution": "\u003Cdiv\u003Eচড়াই পাখি হলো অহংকারী। কেননা চড়াই পাখি অন্যের অট্টালিকায় থেকে সে বাবুই পাখিকে বাঁকা কথা বলে অন্যের বাসায় মহাসুখে থেকে সে নিজেকে বড়ো মনে করেছে। পরের অট্টালিকার অহংকার দেখিয়েছে সে। তাই বাবুই পাখির নিজের তৈরি বাসাকে কুঁড়েঘর বলেছে। এদিকে বাবুই পাখি প্রতি উত্তরে হেসে উত্তর দিয়েছে, অহংকার দেখায় নি।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743821,
+      "value": {
+        "options": [],
+        "question": "সুখ",
+        "solution": "আরাম, আয়াস",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743822,
+      "value": {
+        "options": [],
+        "question": "মোর",
+        "solution": "আমার",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743823,
+      "value": {
+        "options": [],
+        "question": "নিজ হাতে _______ মোর কাঁচাঘর, খাসা।",
+        "solution": "গড়া",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743824,
+      "value": {
+        "options": [],
+        "question": "রোদ",
+        "solution": "বৃষ্টি",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743825,
+      "value": {
+        "options": [],
+        "question": "ঝড়",
+        "solution": "তুফান",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743826,
+      "value": {
+        "options": [],
+        "question": "সন্দেহ",
+        "solution": "রাহাতের কথায় আমার কোনো সন্দেহ নেই।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743827,
+      "value": {
+        "options": [],
+        "question": "বাসা",
+        "solution": "আলালদের বাসা নরসিংদী শহরে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743828,
+      "value": {
+        "options": [],
+        "question": "বাবুই পাখিরে ডাকি বলিছে চড়াই\u003Cbr\u003E\nকুঁড়েঘরে থাকি কর শিল্পের বড়াই\u003Cbr\u003E\nআমি থাকি মহাসুখে অট্টালিকা পরে\u003Cbr\u003E\nতুমি কত কষ্ট পাও রোদ বৃষ্টি ঝড়ে",
+        "solution": "\u003Cdiv\u003Eবাবুই পাখিরে ডাকি, বলিছে চড়াই,\u003Cbr /\u003E\n&quot;কুঁড়েঘরে থাকি কর শিল্পের বড়াই,\u003Cbr /\u003E\nআমি থাকি মহাসুখে অট্টালিকা পরে\u003Cbr /\u003E\nতুমি কত কষ্ট পাও রোদ, বৃষ্টি, ঝড়ে।&quot;\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743829,
+      "value": {
+        "options": {
+          "ক": "গানের",
+          "খ": "ঘরের",
+          "গ": "শিল্পের",
+          "ঘ": "স্বাধীনতার"
+        },
+        "question": "চড়ুই পাখির মতে বাবুই কীসের বড়াই করে?",
+        "solution": "গ. শিল্পের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743830,
+      "value": {
+        "options": {
+          "ক": "সুখে",
+          "খ": "দুঃখে",
+          "গ": "মহাসুখে",
+          "ঘ": "মহাদুঃখে"
+        },
+        "question": "চড়ুই পাখি অট্টালিকায় কীভাবে থাকে?",
+        "solution": "গ. মহাসুখে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743831,
+      "value": {
+        "options": {
+          "ক": "অহংকার",
+          "খ": "ভণ্ডামি",
+          "গ": "বড়াই",
+          "ঘ": "নিরহংকার"
+        },
+        "question": "'স্বাধীনতার সুখ' কবিতায় চড়ুই পাখির মধ্যে কী দেখা যায়?",
+        "solution": "ক. অহংকার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743832,
+      "value": {
+        "options": {
+          "ক": "অস্বাধীন",
+          "খ": "অধীন",
+          "গ": "পরনির্ভর",
+          "ঘ": "পরাধীন"
+        },
+        "question": "'স্বাধীন' শব্দটির বিপরীত শব্দ কোনটি?",
+        "solution": "ঘ. পরাধীন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743833,
+      "value": {
+        "options": [],
+        "question": "ল্প",
+        "solution": "ল + প, শিল্প",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743834,
+      "value": {
+        "options": [],
+        "question": "ট্ট",
+        "solution": "ট + ট, অট্টালিকা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743835,
+      "value": {
+        "options": [],
+        "question": "চ্ছ",
+        "solution": "চ + ছ, স্বচ্ছ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743836,
+      "value": {
+        "options": [],
+        "question": "ন্দ",
+        "solution": "ন + দ, আনন্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743837,
+      "value": {
+        "options": [],
+        "question": "ন্ত",
+        "solution": "ন + ত, চলন্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743838,
+      "value": {
+        "options": [],
+        "question": "পরম ও গভীর সুখ",
+        "solution": "মহাসুখ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743839,
+      "value": {
+        "options": [],
+        "question": "সত্যতা নির্ণয়ে অনিশ্চয়তা",
+        "solution": "সন্দেহ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743840,
+      "value": {
+        "options": [],
+        "question": "নিজ হাতে গড়া মোর কাঁচাঘর, _______।",
+        "solution": "খাসা",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743840,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743841,
+      "value": {
+        "options": [],
+        "question": "কষ্ট",
+        "solution": "আরাম",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743841,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743842,
+      "value": {
+        "options": [],
+        "question": "খাসা",
+        "solution": "নিকৃষ্ট/জঘন্য/অপকৃষ্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743842,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743843,
+      "value": {
+        "options": [],
+        "question": "চড়াই বাবুইকে ডেকে কী বলে?",
+        "solution": "চড়াই বাবুইকে ডেকে বলে, কুঁড়েঘরে থেকে তুমি শিল্পের বড়াই কর, আর আমি মহাসুখে অট্টালিকায় থাকি। তুমি রোদ, বৃষ্টি, ঝড়ে কষ্ট পাও।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743844,
+      "value": {
+        "options": [],
+        "question": "কষ্ট পেলেও বাবুইয়ের মনে দুঃখ নেই কেন?",
+        "solution": "কষ্ট পেলেও বাবুইয়ের মনে দুঃখ নেই, কারণ নিজের হাতে বানানো নিজের কাঁচা ঘরটাতেই সে সুখী।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743845,
+      "value": {
+        "options": [],
+        "question": "কবি ও কবিতার নামসহ 'স্বাধীনতার সুখ' কবিতার প্রথম ৮ লাইন লেখ:",
+        "solution": "\u003Cdiv style=\"text-align: center;\"\u003E\u003Cstrong\u003Eস্বাধীনতার সুখ\u003Cbr /\u003E\nরজনীকান্ত সেন\u003C/strong\u003E\u003Cbr /\u003E\nবাবুই পাখিরে ডাকি,বলিছে চড়াই,\u003Cbr /\u003E\n&quot;কুঁড়েঘরে থাকি কর শিল্পের বড়াই,\u003Cbr /\u003E\nআমি থাকি মহাসুখে অট্টালিকা পরে\u003Cbr /\u003E\nতুমি কত কষ্ট পাও রোদ, বৃষ্টি, ঝড়ে।&quot;\u003Cbr /\u003E\nবাবুই হাসিয়া কহে, &quot;সন্দেহ কি তায়?\u003Cbr /\u003E\nকষ্ট পাই, তবু থাকি নিজের বাসায়।\u003Cbr /\u003E\nপাকা হোক, তবু ভাই, পরের ও বাসা\u003Cbr /\u003E\nনিজ হাতে গড়া মোর কাঁচা ঘর, খাসা।&quot;\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 51,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 51,
+        "name": "কবিতা",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743846,
+      "value": {
+        "options": [],
+        "question": "কষ্ট",
+        "solution": "আরাম",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743847,
+      "value": {
+        "options": [],
+        "question": "পর",
+        "solution": "আপন",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743848,
+      "value": {
+        "options": [],
+        "question": "খাসা",
+        "solution": "উৎকৃষ্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743849,
+      "value": {
+        "options": [],
+        "question": "কষ্ট",
+        "solution": "তোমার কথায় রাকিব খুব কষ্ট পেয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743850,
+      "value": {
+        "options": {
+          "ক": "নিজের বাসায়",
+          "খ": "অট্টালিকায়",
+          "গ": "কুঁড়েঘরে",
+          "ঘ": "কাঁচা ঘরে"
+        },
+        "question": "চড়ুই পাখি কোথায় থাকে?",
+        "solution": "খ. অট্টালিকায়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743851,
+      "value": {
+        "options": [],
+        "question": "শ্ব",
+        "solution": "শ + ব, বিশ্ব",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743852,
+      "value": {
+        "options": [],
+        "question": "কুঁড়েঘরে থাকি কর শিল্পের _______।",
+        "solution": "বড়াই",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743852,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743853,
+      "value": {
+        "options": [],
+        "question": "চড়াই কোথায় থাকে?",
+        "solution": "চড়াই অট্টালিকায় থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743854,
+      "value": {
+        "options": [],
+        "question": "পরে",
+        "solution": "উপরে",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743855,
+      "value": {
+        "options": [],
+        "question": "কষ্ট",
+        "solution": "দুঃখ, বেদনা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-11-27T06:32:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180465,
+      "value": {
+        "options": {
+          "a": "বাবুই সুখী, কারণ সে নিজের তৈরি বাসায় থাকে।",
+          "b": "চড়ুই পাকা বাড়িতে বসবাস করে এবং বাবুই কষ্ট পায়।",
+          "c": "বাবুই কষ্ট পায়, কিন্তু সে নিজের বাসায় আরও বেশি সুখী।",
+          "d": "বাবুই এবং চড়ুই উভয়ই সুখী।"
+        },
+        "question": "বাবুই পাখির জীবনযাত্রা এবং চড়ুইয়ের জীবনযাত্রায় কী মূল পার্থক্য প্রকাশিত হয়েছে?",
+        "chapter_id": "1335",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180466,
+      "value": {
+        "options": {
+          "a": "বড় বাড়িতে বসবাস করা সবসময় ভালো।",
+          "b": "নিজের চেষ্টায় অর্জিত জিনিসই সেরা।",
+          "c": "চড়ুইয়ের মতো হওয়া উচিত।",
+          "d": "সবাইকে উড়িয়ে দেওয়া উচিত।"
+        },
+        "question": "বাবুই পাখির জীবন থেকে কী শিক্ষা নেওয়া যায়?",
+        "chapter_id": "1335",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180467,
+      "value": {
+        "options": {
+          "a": "ছোটো বাড়িতে থাকা সুখের নয়।",
+          "b": "বড় বাড়িতে থাকা সুখের।",
+          "c": "ছোটো বাড়ির গর্ব আছে।",
+          "d": "বাবুই নিজের ঘর তৈরি করে।"
+        },
+        "question": "বাবুই পাখি কেন চড়ুইকে ডাকে?",
+        "chapter_id": "1335",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56330,
+      "value": {
+        "options": {
+          "a": "অট্টালিকায়",
+          "b": "গাছের ডালে",
+          "c": "মাটির নিচে",
+          "d": "আকাশে"
+        },
+        "question": "বাবুই পাখি নিজের বাসা কোথায় তৈরি করে?",
+        "solution": "সমাধান:\n১) বাবুই পাখি সাধারণত তুলো, ঘাস ও ডালপালা ব্যবহার করে কাপের মতো ধরনের বাসা তৈরি করে এবং তা গাছের ডালে মাটির উপর নয়।  \n২) তাই সঠিক উত্তর হচ্ছে b — গাছের ডালে।  \n৪) অন্যান্য বিকল্পগুলো ভুল কারণ: a (অট্টালিকায়) মানুষের নির্মিত স্থানে সাধারণত বাসা বানায় না, c (মাটির নিচে) খোঁড়াখুঁড়ি প্রাণীরা করে, ও d (আকাশে) স্থায়ী কোনো বাসা তৈরি করা সম্ভব নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56331,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "চড়ুই বাবুইকে সাহায্য করতে চায়।",
+        "solution": "সমাধান:\nধাপ ১: দেওয়া বিবৃতিটি লক্ষ্য করলে এটি একটি কৃতকৌশলী দাবী—“চড়ুই বাবুইকে সাহায্য করতে চায়।”  \nধাপ ২: প্রশ্নে প্রদত্ত পাঠ্য/প্রেক্ষাপট অনুযায়ী চড়ুইের আচরণ বা ইচ্ছা থেকে দেখা যায় যে সে বাবুইকে সাহায্য করতে চায়নি/সাহায্য প্রসঙ্গে অনুকূল মনোভাব প্রকাশ করেনি, তাই এই বিবৃতি সত্য নয়।  \nধাপ ৩: অতএব সঠিক উত্তর হচ্ছে b (False)। \n\nব্যাখ্যা: a (True) ভুল কারণ এটা পাঠ্য/প্রমাণের বিরুদ্ধাভাস।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56332,
+      "value": {
+        "options": {
+          "a": "পাথরের ওপর",
+          "b": "গাছের ডালে",
+          "c": "কাঁকড়ার কাছে",
+          "d": "জলাদির মধ্যে"
+        },
+        "question": "বাবুই পাখির কাঁচা ঘর তৈরি করা হয় __________.",
+        "solution": "সমাধান:\nপদক্ষেপ ১: বাবুই পাখি (weaver bird) সাধারণত শাখার উপর ঝুলানো জালজাতের ঘর তৈরী করে, কারণ তাদের বিলুপ্তভাবে বোনা ঘর গাছের ডালে স্থির ও সুরক্ষিত থাকে।  \nপদক্ষেপ ২: তাই সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E — গাছের ডালে।  \nপদক্ষেপ ৩: অন্য অপশনগুলো ভুল কারণ পাথরের ওপর, কাঁকড়ার কাছে বা জলাদির মধ্যে সাধারণত বাবুই পাখি বাসা বাঁধে না; তারা শাখা-শিকড়ে ঝুলানো ঘর বানাতে অভ্যস্ত।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56333,
+      "value": {
+        "options": [],
+        "question": "কেন বাবুই নিজের হাতে বানানো বাসায় সুখী?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নের মূল বক্তব্য বোঝা—বাবুই নিজের হাতে বাসা বানিয়েছে, তাই সেই ঘরে থাকা মানসিক সন্তুষ্টি ও গর্ব দেয়।  \nধাপ ২: সঠিক উত্তরটি হলো যে সে নিজের গড়া ঘরেই থাকে এবং সেই গৃহ তার নিজের শ্রমের ফল; এটিই সুখের কারণ—স্বাধীনতা ও আত্মতৃপ্তি।  \nধাপ ৩: অন্য যে বিকল্পগুলো বাহ্যিক কারণ (যেমন আকার, অবস্থান বা কারও উপহার) উল্লেখ করে, তা এখানে প্রযোজ্য নয় কারণ মূল কারণ হলো নিজের পরিশ্রম ও মালিকানার অনুভূতি।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "কারণ সে নিজের গড়া ঘরেই থাকে এবং তার গৃহ তৈরি তার নিজের শ্রমের ফল।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56334,
+      "value": {
+        "options": {
+          "a": "অন্যের সাহায্য নিতে হবে",
+          "b": "নিজের প্রচেষ্টায় সুখী হওয়া",
+          "c": "অট্টালিকা তৈরি করা",
+          "d": "মানুষের অহংকার"
+        },
+        "question": "কবিতাটির প্রধান বার্তা কি?",
+        "solution": "সমাধান: কবিতার ভাব ও উদাহরণগুলো আত্মনির্ভরতা ও নিজের প্রচেষ্টার মাধ্যমে শান্তি বা সুখ অর্জনের দিকে ঘোরে, তাই প্রধান বার্তা হলো নিজে চেষ্টা করে সুখী হওয়া। অন্যান্য বিকল্পগুলো ব্যাখ্যা করলে: a (অন্যের সাহায্য নিতে হবে) কবিতার মূল উদ্দীপক নয় কারণ কবিতায় ওপরের সাহায্যের ওপর নির্ভরতা নয়; c (অট্টালিকা তৈরি করা) প্রাসঙ্গিক নয়; d (মানুষের অহংকার) হলে কবিতার নেতিবাচক স্তুতির মতো হতো, যা এখানে নেই। তাই সঠিক উত্তরটি হল b: নিজের প্রচেষ্টায় সুখী হওয়া।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56335,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাবুই চড়ুইয়ের অহংকারের জন্য দুঃখ পায়।",
+        "solution": "সমাধান: প্রথমে বক্তৃতার অর্থ বিশ্লেষণ করি — বাক্যটি বলে যে \"বাবুই চড়ুইয়ের অহংকারের জন্য দুঃখ পায়\", অর্থাৎ বাবুইকে চড়ুইয়ের অহংকারই দুঃখ দেয়। বাস্তবে গল্পে চড়ুইয়ের অহংকারের কথা উল্লেখ নেই (বা দৃশ্যত চড়ুই বাবুইকে দুঃখ দেয় না), তাই কারণ-ফল সম্পর্কটি ভুলভাবে উপস্থাপিত হয়েছে। অতএব বক্তব্যটি মিথ্যা — সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E; \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E ভুল কারণ তা বিরোধী তথ্য দেয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56336,
+      "value": {
+        "options": {
+          "a": "কাঁচা",
+          "b": "পাকা",
+          "c": "অস্থায়ী",
+          "d": "অচল"
+        },
+        "question": "চড়ুই পাখির বাসা __________।",
+        "solution": "সমাধান: চড়ুই সাধারণত ঘাস, পাতা, কুঁচোকোনা ও কখনও কাদা-মাটির মিশ্রণে শক্তভাবে বাসা বানায়, যা সহজে ভেঙে যাওয়া কাঁচা না হয়ে তুলনামূলকভাবে স্থায়ী ও মজবুত থাকবে। তাই চড়ুইর বাসাকে \"পাকা\" বলা হয়। সুতরাং সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (পাকা)। কাঁচা, অস্থায়ী বা অচল বিকল্পগুলো মানে এই বাসার জন্য সঠিক নয়—কাঁচা ও অস্থায়ী বলে বোঝায় খুব নরম বা অস্থিরতা; অচল মানে স্থির/অচল যা প্রসঙ্গে প্রযোজ্য না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56337,
+      "value": {
+        "options": [],
+        "question": "বাবুই পাখির সুন্দরের মধ্যে কি বোঝানো হয়েছে?",
+        "solution": "সমাধান: প্রথমে বাক্যটির উদ্দেশ্য বোঝা দরকার—বাবুই পাখি নিজের পায়ে ঘর বানায় এবং সেই ঘরেই শান্তি ও গৌরব খুঁজে পায়। তাই \"বাবুই পাখির সুন্দর\" দ্বারা বলা হয়েছে যে নিজের হাতে তৈরি সাধারণ জীবন-বাসস্থানেও সুখ এবং নিজস্ব গৌরব বজায় রাখা যায়। অন্য সম্ভাব্য ভুল ব্যাখ্যাগুলো (যেমন বাহ্যিক সম্পদ, রঙ-বেরঙের সাজ বা আশানুরূপ বিলাসিতা) এখানে প্রযোজ্য নয়, কারণ রচনায় গুরুত্ব দেওয়া হয়েছে নিজের তৈরি ঘরের মান ও আত্মসম্মানকে। তাই সঠিক উত্তর: নিজের হাতে বানানো ঘরেও সুখ থাকা ও নিজের গৌরবকে ধরা।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "নিজের হাতে বানানো ঘরেও সুখ থাকা ও নিজের গৌরবকে ধরা।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56338,
+      "value": {
+        "options": {
+          "a": "তার গৃহের স্থিতিশীলতা",
+          "b": "তার উড়ন্ত ক্ষমতা",
+          "c": "তার খাদ্যের বৈচিত্র্য",
+          "d": "তার সামাজিক জীবন"
+        },
+        "question": "বাবুই পাখির জন্য কি একটি বিশেষ বিষয় বলা হয়েছে?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে বলা আছে বাবুই পাখির জন্য একটি বিশেষ বিষয় নির্ধারণ করতে হবে — পাঠ্যে যে বাক্যটি বিশেষত্ব উল্লেখ করেছে সেটাই খুঁজে বের করুন।  \nধাপ ২: পাঠ্যে যদি বলা থাকে যে বাবুই পাখির ঘর বা বাসা বিশেষভাবে মজবুত/স্থিতিশীল, তাহলে এটি স্পষ্টভাবে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (তার গৃহের স্থিতিশীলতা)-এর সাথে মিলে যায়; তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E।  \nধাপ ৩: অন্যান্য বিকল্পগুলো অযথা, কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (উড়ন্ত ক্ষমতা), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (খাদ্যের বৈচিত্র্য) এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (সামাজিক জীবন) ইফাতে বিশেষভাবে উল্লেখ না করলে তারা সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56339,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাবুই নিজেকে অট্টালিকায় সুখী মনে করে।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নের বক্তব্যটি পরীক্ষা করা — \"বাবুই নিজেকে অট্টালিকায় সুখী মনে করে\" মানে তিনি সেখানে আনন্দিত বা তৃপ্ত বোধ করেন।  \nধাপ ২: মূল পাঠ্য বা প্রাসঙ্গিক বিবরণ অনুযায়ী বাবুই অট্টালিকায় নিঃসঙ্গ, উদ্বিগ্ন বা অসন্তুষ্ট ছিলেন (তিনি সুখী ছিলেন—এই ইঙ্গিত নেই), তাই উক্ত বিবৃতি মিথ্যা।  \n\nঅতএব সঠিক উত্তর: b (False)। Option a (True) ভুল, কারণ পাঠ্য বা প্রাসঙ্গিক সূত্রে বাবুইকে সুখী হিসেবে চিত্রিত করা হয় না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56340,
+      "value": {
+        "options": {
+          "a": "প্রশংসা",
+          "b": "বাঁকা",
+          "c": "শুভেচ্ছা",
+          "d": "প্রতিক্রিয়া"
+        },
+        "question": "বাবুই চড়ুইয়ের কাছে __________ কথা বলে।",
+        "solution": "সমাধান:\n1. প্রশ্নটি একটি সাধারণ বাক্য পূরণের ব্যাপার — প্রচলিত উক্তি অনুযায়ী বাক্যটি হবে “বাবুই চড়ুইয়ের কাছে বাঁকা কথা বলে।” তাই শূন্যস্থান পূরণে হয়েছে “বাঁকা”।  \n2. সুতরাং সঠিক উত্তর হলো b: বাঁকা।  \n3. অন্য বিকল্পগুলো ভুল কারণ “প্রশংসা”, “শুভেচ্ছা” বা “প্রতিক্রিয়া” মানে বাক্যের প্রাকৃতিক তথা প্রচলিত ভাবের সঙ্গে খাপ খায় না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56341,
+      "value": {
+        "options": [],
+        "question": "বাবুই পাখি কোন পরিস্থিতিতে থাকে?",
+        "solution": "সমাধান: বাবুই পাখি সাধারণত তার বাসায় থেকেই থাকে এবং রোদ, বৃষ্টি বা ঝড়—এসব অবস্থায়ও নিজের বাসায় থাকতে পছন্দ করে। কারণ এটা নিরাপত্তা, তাপ ও শক্তি সঞ্চয়ের জন্য সুবীধাজনক; বাইরে গিয়ে ঝুঁকি নেওয়া তার জন্য অকার্যকর। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E; অন্য অপশনগুলি (যেগুলো বলে পাখিটি বাইরে থাকে) বাস্তব জীবনের আচরণবিধির সাথে মিলছে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বাবুই পাখি রোদ, বৃষ্টি, ঝড়ের মধ্যেও নিজের বাসায় থাকতে পছন্দ করে।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56342,
+      "value": {
+        "options": {
+          "a": "মেশিন দ্বারা",
+          "b": "নিজের হাতে",
+          "c": "অন্যদের সাহায্যে",
+          "d": "প্রাকৃতিক উপায়ে"
+        },
+        "question": "বাবুই কিভাবে তার বাসা তৈরি করে?",
+        "solution": "সমাধান:\nধাপ ১: বাবুই পাখির আচরণ পর্যবেক্ষণ করলে দেখা যায় সে নিজে ঘরের জন্য ঘাস, রেশা ইত্যাদি সংগ্রহ করে।  \nধাপ ২: সংগ্রহকৃত উপকরণ ডাক, পা ও থুতু ব্যবহার করে বোনা/জোড়া দিয়ে স্থাপন করে—অর্থাৎ সে সক্রিয়ভাবে নিজেই ঘর তৈরি করে।  \nঅতএব সঠিক উত্তর: b — নিজের হাতে। অন্য অপশনগুলো ভুল কারণ (a) মেশিন দ্বারা হওয়া বাস্তবসম্মত নয়, (c) সাধারণত অন্যরা সাহায্য করে না (কিছু ব্যতিক্রম ছাড়া), এবং (d) “প্রাকৃতিক উপায়” বলতে স্বতঃস্ফূর্তভাবে তৈরি হওয়া বোঝায় যা এখানে প্রযোজ্য নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56343,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাবুই পাখি অহংকারীভাবে চড়ুইয়ের বাড়ির কথা বলে।",
+        "solution": "সমাধান:\nধাপ ১: বাক্যটি বোঝা — বলা হয়েছে \"বাবুই পাখি অহংকারীভাবে চড়ুইয়ের বাড়ির কথা বলে।\" এটি একটি বিবৃতি যে কোনো পাখি অন্য পাখির বাড়ি নিয়ে অহংকারী আচরণ করছে।  \nধাপ ২: বাস্তবতা যাচাই করা — সাধারণ বাস্তবে পাখিরা ভাষায় মানুষদের মতো কথা বলে না এবং বিশেষত \"অহংকারীভাবে চড়ুইয়ের বাড়ির কথা বলা\" একটি অসমর্থিত ও অযৌক্তিক বিবৃতি।  \nঅতএব বিবৃতিটি মিথ্যা, সঠিক উত্তর: b। অপশন a ভুল কারণ বাক্যটি বাস্তব বা বৈজ্ঞানিকভাবে সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56344,
+      "value": {
+        "options": {
+          "a": "নষ্ট হয়",
+          "b": "আহত হয়",
+          "c": "মালিক হয়ে যায়",
+          "d": "বেঁচে থাকে"
+        },
+        "question": "চড়ুই সূর্যের তাপ ও বৃষ্টিতে __________।",
+        "solution": "সমাধান: চড়ুই হলো ছোট ও নাজুক পশু; তীব্র সূর্যের তাপ ও ধারাবাহিক বৃষ্টি তার স্বাভাবিক জীবনযাত্রা ব্যাহত করে এবং মরার কারণ হতে পারে, তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a) নষ্ট হয়। অপর বিকল্পগুলো অপ্রাসঙ্গিক: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (b) আহত হয় — এটি আঘাত নির্দেশ করে কিন্তু প্রশ্নে সাধারণভাবে ক্ষতির কথা বলা হয়েছে; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (c) মালিক হয়ে যায় — মানসিক/বস্তুনিষ্ঠভাবে অযুক্তিযুক্ত; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (d) বেঁচে থাকে — সূর্য ও বৃষ্টি চড়ুইয়ের অনুকূল নয়, তাই বিরোধী।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56345,
+      "value": {
+        "options": [],
+        "question": "বাবুই পাখির গৃহ তৈরির কতটা গুরুত্ব রয়েছে?",
+        "solution": "সমাধান:\nধাপ ১: বাবুই পাখির গৃহ তৈরির প্রধান কার্যগুলো চেনা—আশ্রয় ও সুরক্ষার পাশাপাশি গৃহ বানানো আচরণগত ও সামাজিক সংকেতও বহন করে।  \nধাপ ২: গৃহ তৈরির মাধ্যমে বাবুই নিজের পরিবেশ নিয়ন্ত্রণ করে, খাদ্য-সংরক্ষণ ও সন্তানের সুরক্ষার ব্যবস্থা করে—এটি আত্মনির্ভরতার প্রতিফলন।  \nধাপ ৩: অপরদিকে গৃহের জটিলতা এবং প্রস্থান প্রদর্শন প্রজননকালীন গর্ব এবং প্রতিযোগিতার সূচকও হতে পারে; তাই সঠিক উত্তর হলো যে গৃহ তৈরির মাধ্যমে তার আত্মনির্ভরতা এবং গর্ব প্রতিফলিত হয়।  \n\nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E শুধুমাত্র আশ্রয়—সঠিক কিন্তু অসম্পূর্ণ; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শুধুই সাজসজ্জা—অপ্রাসঙ্গিক কারণ গৃহের কার্যকরী ভূমিকা বেশি গুরুত্বপূর্ণ।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বাবুইয়ের গৃহ তৈরির মাধ্যমে তার আত্মনির্ভরতা এবং গর্ব প্রতিফলিত হয়।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56346,
+      "value": {
+        "options": {
+          "a": "সাশ্রয়ী",
+          "b": "আলঙ্কারিক",
+          "c": "গছের ওপর তৈরি",
+          "d": "কমজোরি"
+        },
+        "question": "বাবুই পাখির ঘরটি কেমন?",
+        "solution": "সমাধান: বাবুই পাখি সাধারণত গাছের ডালে বা পাতার ওপরই বাসা বানায়, তাই বাসার অবস্থান হিসেবে সবচেয়ে উপযুক্ত বর্ণনা হল \"গাছের ওপর তৈরি\"। তুলনা করলে দেখা যায় \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \"সাশ্রয়ী\", \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"আলঙ্কারিক\" ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E \"কমজোরি\" এই শব্দগুলো বাসার অবস্থান বোঝায় না। সুতরাং সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56347,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাবুই পাখি তার গৃহকে স্থায়ী মনে করে।",
+        "solution": "সমাধান:\nধাপ ১: বাবুই (বেয়া) পাখি প্রজননকালে ঝুলন্ত থলির মতো নীড় বানিয়ে একই এলাকার মধ্যে কলোনি গঠন করে এবং সেই নীড়গুলো রক্ষা করে।  \nধাপ ২: তারা প্রয়োজনে নীড় সংস্কার করে এবং ভ্রাম্যমাণ নীড় তেমনভাবে পরিবর্তন করে না, তাই তারা সাধারণত তাদের গৃহকে স্থায়ীভাবে ধরে রাখে।  \nঅতএব প্রশ্নের সঠিক উত্তর হলো a (True)। অন্য বিকল্প (b: False) কেন ভুল— কারণ বাবুই পাখি সাধারণত তাদের নীড় রক্ষা ও পুনরায় ব্যবহার করে, তাই তা স্থায়ী মনে না করা সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56348,
+      "value": {
+        "options": {
+          "a": "আরাম",
+          "b": "মিল",
+          "c": "দুঃখ",
+          "d": "আবেগ"
+        },
+        "question": "অন্তর থেকে যদি __________ মনে হয়, তাহলে তা শক্তিশালী হবে।",
+        "solution": "সমাধান:\n1) বাক্যটি বোঝা যাক — \"অন্তর থেকে যদি ___ মনে হয়\" বলতে অভ্যন্তরীণ অনুভব বা নিজের মনে সুমিষ্ট অবস্থা বোঝানো হয়েছে।  \n2) বিকল্পগুলোর মধ্যে \u003Cb\u003Ea: আরাম\u003C/b\u003E (আন্তরিক স্বস্তি/আরাম) এমন একটি অভ্যন্তরীণ অবস্থান যা স্থিতিশীলতা ও দৃঢ়তা দেয়, তাই এটি শক্তিশালী হওয়ার শর্ত পূরণ করে।  \n3) অন্য বিকল্পগুলো অনুচিত কারণ \u003Cb\u003Eb: মিল\u003C/b\u003E বাহ্যিক সামঞ্জস্য, \u003Cb\u003Ec: দুঃখ\u003C/b\u003E দুর্বলতা বাড়ায় এবং \u003Cb\u003Ed: আবেগ\u003C/b\u003E অস্থির ও ক্ষণস্থায়ী হতে পারে। তাই সঠিক উত্তর: a: আরাম।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56349,
+      "value": {
+        "options": [],
+        "question": "বাবুই কিভাবে দুঃখ পায় না?",
+        "solution": "সমাধান:\n১) প্রশ্নের উৎসটি হচ্ছে বাবুইয়ের মনোভাব — সে কেন দুঃখ পায় না তা জানতে হবে।  \n২) বিশ্লেষণ: বাবুই নিজের তৈরি ঘরে স্থিতপ্রাণ এবং সুরক্ষিত মনে করে, তাই চড়ুইয়ের কোনো মন্তব্য বা কটাক্ষ তার সুখভোগে প্রভাব ফেলে না।  \n৩) উপসংহার: সুতরাং সঠিক উত্তর হল — বাবুই চড়ুইয়ের কথার জন্য দুঃখিত নয়, কারণ সে নিজের তৈরি ঘরে সুখী। অন্য বিকল্পগুলো সাধারণত বাইরের কারণে দুঃখ ধরা বা ভয়ের কথা বললে তেমন কারণ নেই, তাই সেগুলো অরুচিকর।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বাবুই চড়ুইয়ের কথার জন্য দুঃখিত নয়, কারণ সে নিজের তৈরি ঘরে সুখী।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56350,
+      "value": {
+        "options": {
+          "a": "চড়ুই সুন্দর হয়",
+          "b": "বাবুই গরিব এবং চড়ুই ধনী",
+          "c": "চড়ুই অহংকারী",
+          "d": "বাবুই রূপবান"
+        },
+        "question": "বাবুই এবং চড়ুইয়ের মধ্যে প্রধান পার্থক্য কি?",
+        "solution": "সমাধান:\nপ্রশ্নটি একটি বহুনির্বাচনী প্রশ্ন যেখানে প্রতিটি অপশনকে প্রাসঙ্গিকতার দিক থেকে যাচাই করতে হবে। অপশন (c) \"চড়ুই অহংকারী\" একটি আচরণগত বৈশিষ্ট্য যা বাবুইয়ের সাথে পার্থক্য হিসেবে লক্ষণীয়; অন্যদিকে (a) এবং (d) চেহারা সম্পর্কিত ও (b) অর্থনৈতিক অবস্থান সংক্রান্ত, যা সাধারণভাবে পক্ষীদের মধ্যে প্রধান পার্থক্য হিসেবে গ্রহণযোগ্য নয়। তাই সঠিক উত্তর হচ্ছে (c)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56351,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাবুইয়ের ঘর সবার কাছে পরিচিত।",
+        "solution": "সমাধান:\n1) বিবৃতির ধরন নির্ণয়: \"বাবুইয়ের ঘর সবার কাছে পরিচিত\" হল একটি সার্বজনীন (universal) দাবি — প্রতিটি ব্যক্তির ক্ষেত্রে সত্য হতে হবে।  \n2) প্রতিপক্ষে যাচাই: এমন কাউকে কল্পনা করলেই যথেষ্ট যে সে বাবুইয়ের সঙ্গে পরিচিত নয় বা বাবুইয়ের ঘর দেখেনি (যেমন নতুন জনপদভর্তি শিশু বা দূরের প্রত্যন্ত অঞ্চলের এক ব্যক্তি) — সেই counterexample দেখায় সার্বজনীন দাবি ভ্রান্ত।  \n3) সিদ্ধান্ত: ফলে বিবৃতিটি মিথ্যা, তাই সঠিক উত্তর হলো ব (False)। বিকল্প ক (True) ভুল, কারণ সার্বজনীন সত্য প্রমাণ না থাকলে কাউকে \"সবার কাছে পরিচিত\" ধরা যায় না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56352,
+      "value": {
+        "options": {
+          "a": "নিজের কাজ",
+          "b": "অন্যের কাজে",
+          "c": "বাহিরের পরিবেশে",
+          "d": "বিদেশে"
+        },
+        "question": "বাবুই __________ থেকে নিজেকে গর্বিত মনে করে।",
+        "solution": "সমাধান:\nধাপ ১: বাক্যটির অর্থ বিশ্লেষণ করলে দেখা যায়—\"বাবুই ___ থেকে নিজেকে গর্বিত মনে করে\" মানে বাবুই তাঁর কোন উৎস থেকে গর্ববোধ করে তা বলতে হবে।  \nধাপ ২: বিকল্পগুলো বিশ্লেষণ করলে স্পষ্ট হয় যে গর্ব সাধারণত নিজের অর্জন বা কাজ থেকে আসে, অন্যের কাজ, বাহিরের পরিবেশ বা বিদেশ থেকে নয়।  \nধাপ ৩: তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E নিজের কাজ — কারণ নিজের পরিশ্রম ও সফলতা থেকেই ব্যক্তির গর্ববোধ সৃষ্টি হয়; বাকী বিকল্পগুলো উপযুক্ত কারণ প্রদান করে না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56353,
+      "value": {
+        "options": [],
+        "question": "বাবুইয়ের গর্বের কারণ কি?",
+        "solution": "সমাধান:\nপ্রথম ধাপ: প্রশ্নে বলা প্রধান কারণটি বিচ্ছিন্নভাবে খুঁজে বের করা—বাবুইয়ের গর্ব এসেছে তার নিজের হাতে তৈরি ঘর এবং জীবনের সংগ্রামের ফল হিসেবে।  \nদ্বিতীয় ধাপ: যুক্তি—নিজের শ্রমে গড়া ঘর ও সংগ্রামের ফলে অর্জিত অবস্থান ব্যক্তি-কেন্দ্রিক গৌরব ও আত্মসম্মান তৈরি করে; তাই বাবুই নিজের শ্রম ও সংগ্রামের উপর গর্ব করে।  \nনির্ণয়: অতএব সঠিক উত্তর হলো—বাবুইয়ের গর্ব তার নিজের হাতে তৈরি ঘর এবং জীবনের সংগ্রামের ফল।  \nঅন্য বিকল্পগুলোর কারণে ভুল: যদি অন্য বিকল্পগুলোতে উত্তর হিসেবে ধন, সৌন্দর্য বা উত্তরাধিকার ইত্যাদি দেওয়া থাকে, সেগুলো ভুল কারণ মূল বিবরণে বিশেষভাবে ব্যক্তির শ্রম ও সংগ্রামই গৌরবের উৎস হিসেবে উপস্থাপিত।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বাবুইয়ের গর্ব তার নিজের হাতে তৈরি ঘর এবং জীবনের সংগ্রামের ফল।"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7369,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7369&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7369&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7369&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 101,
+  "total": 101
+}

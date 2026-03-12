@@ -1,0 +1,3417 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 485571,
+      "value": {
+        "options": [],
+        "question": "আরবিতে মোট — হরফ আছে।",
+        "solution": "২৯টি",
+        "explanation": "আরবিতে মোট [math]28[/math]টি হরফ আছে। কারণ আরবি বর্ণমালায় মূলভাবে ২৮টি মৌলিক বর্ণ রয়েছে; স্বরসম্পর্কিত চিহ্ন বা হরমাত/দাগগুলো আলাদা চিহ্ন হলেও মৌলিক হরফের সংখ্যা পরিবর্তিত করে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485571,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:13.000000Z",
+            "updated_at": "2025-08-20T06:36:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485570,
+      "value": {
+        "options": [],
+        "question": "— কার ও মুখাপেক্ষী নন।",
+        "solution": "আল্লাহ",
+        "explanation": "ব্যাখ্যা: এখানে 'কারও' একক অনির্দিষ্ট সর্বনাম; 'ও' সংযুক্ত হয়ে 'কারও' হিসেবে লেখা হয়, আলাদা 'কার ও' নয়। অতএব সঠিক বাক্য হবে 'কারও মুখাপেক্ষী নন।' যার অর্থ 'সে কারোর উপর নির্ভর করে না।'",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485570,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:13.000000Z",
+            "updated_at": "2025-08-20T06:36:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485569,
+      "value": {
+        "options": [],
+        "question": "হরফে হালকি — টি।",
+        "solution": "৬টি",
+        "explanation": "প্রশ্নটি অসম্পূর্ণ বা অস্পষ্ট বলে সরাসরি ব্যাখ্যা করা যাচ্ছে না। দয়া করে পুরো প্রশ্নটি বা সম্ভাব্য উত্তর/বিকল্পগুলো দিন, তাহলে সংক্ষিপ্ত ও পরিষ্কার ব্যাখ্যা দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485569,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:13.000000Z",
+            "updated_at": "2025-08-20T06:36:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485568,
+      "value": {
+        "options": [],
+        "question": "ইযহার শব্দের অর্থ —",
+        "solution": "প্রকাশ করা",
+        "explanation": "ইযহার (আরবি \"إظهار\") শব্দের অর্থ 'প্রকাশ করা' বা 'স্পষ্ট করা'—কোনো কথা, অনুভব বা বিষয়কে সকলের কাছে প্রকাশ করে বোঝানো। তাই সঠিক উত্তরটি হলো প্রকাশ/স্পষ্ট করা, কারণ ইযহার মূলত কিছু জিনিস দেখতে বা জানাতে উপস্থাপন করার ক্রিয়া।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485568,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:13.000000Z",
+            "updated_at": "2025-08-20T06:36:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485567,
+      "value": {
+        "options": [],
+        "question": "কাছাকাছি উচ্চারণের দুটি হরফকে যুক্ত করে পড়াকে — বলে।",
+        "solution": "ইদগাম",
+        "explanation": "উত্তর: যুক্তাক্ষর\n\nব্যাখ্যা: কাছাকাছি উচ্চারনের দুটো (অথবা বেশি) ব্যঞ্জনবর্ণ একসঙ্গে মিলিয়ে যা পড়া হয়, তাকেই যুক্তাক্ষর বলে; যেমন “ক” ও “ষ” মিলিয়ে হওয়া “ক্ষ” একটি যুক্তাক্ষর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485567,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:13.000000Z",
+            "updated_at": "2025-08-20T06:36:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485566,
+      "value": {
+        "options": [],
+        "question": "আরবি মাখরাজ — টি।",
+        "solution": "১৭টি",
+        "explanation": "ব্যাখ্যা: আরবি হরফ \"ت\"–এর মাখরাজ হলো জিহ্বার টিপ ও উপরের সামনের দাঁতের অন্তরের অংশ; জিহ্বার টিপটি উপরের সামনের দাঁতের কাছে স্পর্শ করলে ওই স্থানে স্পষ্টভাবে \"ত\" ধ্বনি তৈরি হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485566,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:13.000000Z",
+            "updated_at": "2025-08-20T06:36:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485565,
+      "value": {
+        "options": [],
+        "question": "কুরআন মজিদ তিলাওয়াত করলে প্রত্যেক হরফের জন্য — সাওয়াব পাওয়া যায়।",
+        "solution": "১০টি",
+        "explanation": "ব্যাখ্যা: কারণ হাদীসে এসেছে যে কোরআনের প্রতিটি হরফ পড়ার জন্য একজনকে একটি হাসানাহ (নেকি) লেখা হয় এবং প্রতিটি হাসানাহকে দশ গুণ হিসেবে গণ্য করা হয়; তাই প্রতিটি হরফের জন্য দশটি সাওয়াব পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485565,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:13.000000Z",
+            "updated_at": "2025-08-20T06:36:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485564,
+      "value": {
+        "options": [],
+        "question": "কুরআন মজিদ শুদ্ধভাবে তিলাওয়াতের জন্য যে নিয়ম রয়েছে তাকে — বলে।",
+        "solution": "তাজবীদ",
+        "explanation": "সঠিক উত্তর হলো \"তাজবীদ\"। তাজবীদ হল কুরআন কারিম আর্টিকুলেশন পয়েন্ট, ধ্বনিস্বত্ব, মদ‑ও কাটা, ও অন্যান্য নিয়ম মেনে কুরআন শুদ্ধভাবে তিলাওয়াত করার ব্যবস্থা, তাই এই নিয়মকে তাজবীদ বলা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485564,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:13.000000Z",
+            "updated_at": "2025-08-20T06:36:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485563,
+      "value": {
+        "options": [],
+        "question": "বড় মাদ্দ চিহ্ন —কোনো হরফে উল্টা পেশ থাকলে সে হরফটি —",
+        "solution": "একটু টেনে পড়তে হয়",
+        "explanation": "প্রশ্নটি অসম্পূর্ণ; বাক্যটির শেষ অংশ বা বিকল্পগুলো দেওয়া নেই, তাই সঠিক ব্যাখ্যা দেওয়া যাচ্ছে না। অনুগ্রহ করে সম্পূর্ণ প্রশ্ন বা অপশনগুলো দিলে সংক্ষিপ্ত ও স্পষ্ট ব্যাখ্যা দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485563,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:13.000000Z",
+            "updated_at": "2025-08-20T06:36:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485562,
+      "value": {
+        "options": [],
+        "question": "ছোট মাদ চিহ্ন —",
+        "solution": "~",
+        "explanation": "প্রশ্নটি অসম্পূর্ণ মনে হচ্ছে — \"ছোট মাদ চিহ্ন\" বলতে কোন প্রসঙ্গ (তাজউইদ/আরবী লিপি বা অন্য কোনো বিষয়) বোঝানো হয়েছে তা জানান। দয়া করে সম্পূর্ণ প্রশ্ন বা উত্তর বিকল্পগুলো দিন, তাহলে আমি সংক্ষেপে এবং পরিষ্কারভাবে কেন কোন উত্তর সঠিক তা ব্যাখ্যা করে দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485562,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:13.000000Z",
+            "updated_at": "2025-08-20T06:36:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485561,
+      "value": {
+        "options": [],
+        "question": "তাশদীদের চিহ্ন —মাদ্দ-এর হরফ — তিনটি।",
+        "solution": "তিনটি",
+        "explanation": "তাশদীরের চিহ্ন হলো শদ্দা (ّ), যা কোনো হরফকে দ্বিগুণ উচ্চারণ করতে তার ওপর বসে। মাদ্দ-এর তিনটি হরফ হলো আলিফ (ا), ওয়াও (و) ও ইয়াই (ي), যেগুলো দীর্ঘ স্বর সৃষ্টি করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485561,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:13.000000Z",
+            "updated_at": "2025-08-20T06:36:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485554,
+      "value": {
+        "options": [],
+        "question": "হরফের নিচে থাকলে উচ্চারণে — কার হবে।",
+        "solution": "যের",
+        "explanation": "উ-কার (সংক্ষিপ্ত [ু] এবং দীর্ঘ হলে ঊ-কার [ূ]) হরফের নিচে লেখা হয়, তাই কোনো কার চিহ্ন হরফের নিচে থাকলে তার উচ্চারণে 'উ' (অন্তত দীর্ঘ হলে 'ঊ') ধ্বনি যোগ হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485554,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485535,
+      "value": {
+        "options": [],
+        "question": "“ফা” ইয়া যের —",
+        "solution": "ফী",
+        "explanation": "প্রশ্নটি অসম্পূর্ণ মনে হচ্ছে — \"ফা” ইয়া যের —\" থেকে কি জানতে চেয়েছেন তা স্পষ্ট নয়; দয়া করে পুরো প্রশ্ন বা অপশনগুলো প্রদান করুন, তখন সংক্ষিপ্ত ও পরিষ্কারভাবে ব্যাখ্যা দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485535,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485555,
+      "value": {
+        "options": [],
+        "question": "হরফের উপর পেশ থাকলে উচ্চারণে — কার হবে।",
+        "solution": "পেশ",
+        "explanation": "ব্যাখ্যা: পেশ (দাম্মা) হরফের উপর ছোট “উ” ধ্বনি নির্দেশ করে, তাই উচ্চারণে তা বাংলায় উকার হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485555,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485556,
+      "value": {
+        "options": [],
+        "question": "দুই যবরকে — বলে।",
+        "solution": "তানবীন",
+        "explanation": "প্রশ্নটি অসম্পূর্ণ বা অস্পষ্ট—\"দুই যবরকে — বলে।\" এখানে কোন শব্দ বা প্রসঙ্গ পুরো করা নেই; অনুগ্রহ করে সম্পূর্ণ বাক্য বা প্রসঙ্গ দিন, তাহলে সংক্ষিপ্ত ও সঠিক ব্যাখ্যা দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485556,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485557,
+      "value": {
+        "options": [],
+        "question": "দুই যের ও দুই পেশকে — বলে।",
+        "solution": "তানবীন",
+        "explanation": "প্রশ্নটি অসম্পূর্ণ কিংবা অস্পষ্ট লাগছে — \"দুই যের ও দুই পেশকে — বলে।\" দিয়ে কী জানতে চাওয়া হয়েছে তা স্পষ্ট নয়; অনুগ্রহ করে পুরো প্রশ্ন বা সম্ভাব্য উত্তরগুলো দিন যাতে আমি সঠিক ও সংক্ষিপ্ত ব্যাখ্যা দিতে পারি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485557,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485558,
+      "value": {
+        "options": [],
+        "question": "জযম যুক্ত হরফকে — বলে।",
+        "solution": "সাকিন",
+        "explanation": "ব্যাখ্যা: সঠিক উত্তর — \"যুক্তাক্ষর\"। কারণ যখন দুটি বা ততোধিক ব্যঞ্জনবর্ণ একসাথে মিলিত হয়ে একটি একক চিহ্ন বা মিলিতাক্ষর তৈরি করে, তখন তাকে যুক্তাক্ষর (যুগ্মব্যঞ্জন) বলা হয়; যেমন \"ক্ত\" (ক+ত), \"জ্ঞ\" (জ+ঞ) ইত্যাদি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485558,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485559,
+      "value": {
+        "options": [],
+        "question": "জযম-এর আকৃতি সাধারণত এরূপ হয় —",
+        "solution": "^",
+        "explanation": "ব্যাখ্যা: জ্যাম সাধারণত গ্লাস বা প্লাস্টিকের সিলিন্ড্রিক্যাল (গোলাকার ভিত্তির) জারে থাকায় তার আকৃতি সাধারণত বৃত্তাকার/সিলিন্ড্রিকাল হয়; এই ধরণের পাত্র ভর্তি করা, ঝরানো ও সংরক্ষণে সুবিধা দেয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485559,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485560,
+      "value": {
+        "options": [],
+        "question": "একই হরফ পাশাপাশি দুবার উচ্চারণ করাকে — বলে।",
+        "solution": "তাশদীদ",
+        "explanation": "একই হরফ পাশাপাশিই দুবার উচ্চারণ করাকে \"দ্বিত্ব\" বলা হয়। এর মানে হলো কোনো ধ্বনি পরপর দুইবার উচ্চারিত হওয়া (linguistically gemination), যেমন \"কট্টর\" শব্দে ট্ ধ্বনি দুবার উচ্চারিত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485560,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:13.000000Z",
+            "updated_at": "2025-08-20T06:36:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485534,
+      "value": {
+        "options": [],
+        "question": "“তা” পেশ —",
+        "solution": "তু",
+        "explanation": "তা একটি নির্দেশবাচক সর্বনাম। এটি কথ্য বা লেখায় পূর্বে উল্লেখিত বা প্রসঙ্গভিত্তিক বস্তু/ব্যক্তিকে নির্দেশ করে, ফলে এটি নামের পরিবর্তে ব্যবহৃত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485534,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485552,
+      "value": {
+        "options": [],
+        "question": "— হরকত বলে।",
+        "solution": "হরকত",
+        "explanation": "ব্যাখ্যা: বাক্যটির শুরুতে থাকা — চিহ্নটি সরাসরি উক্তি বা সংলাপ নির্দেশ করে; বাংলায় সংলাপ লেখার সময় উদ্ধৃতি চিহ্নের বদলে বা বক্তৃতা সূচক হিসেবে এটি ব্যবহার করা হয়। তাই \"— হরকত বলে।\" সঠিক কারণ এতে কেউ কথা বলছে বোঝাতে ড্যাশ ব্যবহার করা হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485552,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485536,
+      "value": {
+        "options": [],
+        "question": "সূরা আল-লাহাবের আয়াত সংখ্যা — টি।",
+        "solution": "৫",
+        "explanation": "সুরা আল-লাহাব (অর্থাৎ আল-মাসাদ) মোট ৫টি আয়াতবিশিষ্ট; কুরআনের সূচি ও মূল মুশাফে প্রতিটি আয়াত গণনা করলে ফলাফল পাঁচটি হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485536,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485537,
+      "value": {
+        "options": [],
+        "question": "তানবীনের উচ্চারণ — হয়।",
+        "solution": "নূনযুক্ত",
+        "explanation": "ব্যাখ্যা: তানবীন শব্দের শেষে একটি লুকানো 'ন' (ن) নির্দেশ করে, তাই তা উচ্চারণ করা হয় নুন ধ্বনি বা নাসিকভাবে—অর্থাৎ তানবীনকে একটি অদৃশ্য 'ন' ধরে নাসালভাবে উচ্চারণ করতে হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485537,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485538,
+      "value": {
+        "options": [],
+        "question": "কুরআন মজিদ — আসমানি কিতাব।",
+        "solution": "সর্বশেষ",
+        "explanation": "কুরআন মজিদকে \"আসমানি কিতাব\" বলা হয় কারণ এটি আল্লাহর পক্ষ থেকে স্বর্গ থেকে অবতীর্ণ পবিত্র বাণী, যা ফেরেশতা জিব্রাঈলের মাধ্যমে নবী মুহাম্মদকে জানানো হয়েছে। এজন্য এটি দিব্য ও অনবদ্য গ্রন্থ হিসেবে গণ্য হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485538,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485539,
+      "value": {
+        "options": [],
+        "question": "আরবি হরফ মুখের বিভিন্ন স্থান থেকে — হয়।",
+        "solution": "উচ্চারিত",
+        "explanation": "ঠিক উত্তর: \"উৎপন্ন\"। কারণ আরবি হরফগুলোর সঠিক উচ্চারণ নির্ভর করে মুখ ও গলার বিভিন্ন সুনির্দিষ্ট উৎপত্তিস্থল (মাখরাজ) এর উপর; প্রতিটি হরফের নিজস্ব মাখরাজ থাকে যেমন গলা, জিহবা, ঠোঁট বা তালু থেকে শব্দটি উৎপন্ন হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485539,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485540,
+      "value": {
+        "options": [],
+        "question": "কুরআন মজিদ তিলাওয়াত তোমার জন্য কেন গুরুত্বপূর্ণ ছয়টি বাক্য লেখ।",
+        "solution": "কুরআন মজিদ তিলাওয়াত করা এজন্য গুরুত্বপূর্ণ যে-\n\n১. কুরআন মজিদ তিলাওয়াত করা সর্বশ্রেষ্ঠ নফল ইবাদত ।\n\n২. সালাতে কুরআন তিলাওয়াত ফরজ।\n\n৩. মহানবি (স) বলেছেন, “তোমাদের মধ্যে সে ব্যক্তি উত্তম যে নিজে কুরআন শিখে এবং অপরকে শেখায়।”\n\n৪. তিনি আরও বলেছেন, “কুরআন মজিদ তিলাওয়াত করলে প্রত্যেক হরফের জন্য ১০টি সাওয়াব পাওয়া যায়।”\n\n৫. কুরআনে সকল কিছুর বর্ণনা রয়েছে।\n\n৬. দুনিয়াতে শান্তিতে বসবাস করা যাবে।",
+        "explanation": "কুরআন তিলাওয়াত হৃদয়কে শান্ত করে এবং আল্লাহর সঙ্গে সম্পর্ক শক্তিশালী করে। নিয়মিত তিলাওয়াত নৈতিকতা ও আচরণে হেদায়েত দেয় এবং মানুষকে সঠিক পথে চালিত করে। তিলাওয়াতে আল্লাহর বাক্য স্মরণে থাকে, যা গুরুত্বপূর্ণ সিদ্ধান্তে সহায়ক হয়। প্রতিটি আয়াতের জন্য সাওয়াব পাওয়া যায়, সুতরাং এটি ইমান বাড়ানোর ও পুরস্কার অর্জনের উপায়। তিলাওয়াত স্মৃতি, মনোযোগ ও ভাষাগত দক্ষতা উন্নত করে। পাশাপাশি এটি পরিবারের মধ্যে ঐক্য বজায় রাখে এবং ধর্মীয় সাংস্কৃতিক ধারাবাহিকতা রক্ষা করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485540,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485541,
+      "value": {
+        "options": [],
+        "question": "কার ওপর পবিত্র কুরআন নাজিল হয়? তাজবীদ পড়ার প্রয়োজনীয়তা পাঁচটি বাক্যে লেখ।",
+        "solution": "হযরত মুহাম্মদ (স)-এর ওপর পবিত্র কুরআন নাজিল হয়।\n\nতাজবীদ পাঠের চারটি উপকারিতা-\n\n১. কুরআন মজিদ তাজবীদসহকারে না পড়লে আল্লাহর কালামের আয়াতসমূহ, আয়াতের শব্দ ও বর্ণ উচ্চারণসমূহ ঠিক হয় না।\n\n২. কুরআনের শব্দের অর্থ ঠিক থাকে না।\n\n৩. এমনকি সালাতও শুদ্ধ হয় না।\n\n৪. তাজবীদ ব্যতীত তিলাওয়াত করলে গুনাহ হবে।\n\n৫. শুদ্ধরূপে কুরআন তিলাওয়াতের জন্য তাজবীদ পড়া আবশ্যক।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পবিত্র কুরআন নবী মুহাম্মদ (সা.)-এর ওপর নাজিল হয়েছে; আল্লাহ তাঁকে শেষ রাসূল ও মানুষের জন্য হেদায়েত হিসেবে পাঠিয়েছেন এবং বরকতময় কিতাবটি পয়গম্বরের মাধ্যমে (জিবরাঈল) অবতীর্ণ হয়েছিল। এই কারণেই কুরআন মুখস্থ ও পাঠ উভয় ক্ষেত্রেই তার সঠিক গ্রহণ ও প্রচলন গুরুত্বপূর্ণ।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E তাজবীদ শেখার ফলে আরবি হরফ ও ধ্বনিগুলো সঠিকভাবে উচ্চারণ করা যায়। তাজবীদ না মানলে শব্দের রূপ বদলে যেতে পারে এবং অনর্থ ঘটতে পারে। সঠিক তাজবীদ কুরআনের পবিত্রতা ও অর্থ রক্ষা করে। তাজবীদ নামাজ ও তিলাওয়াতে পাঠকে শ্রুতিমধুর ও পবিত্র করে। তাজবীদ শেখা পাঠকে বিশ্বাসযোগ্য ও দীর্ঘমেয়াদি স্মরণে সাহায্য করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485541,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485542,
+      "value": {
+        "options": [],
+        "question": "আরবি হরফ উচ্চারণের স্থানকে কী বলে? মুখের কয়টি স্থান হতে আরবি হরফ উচ্চারিত হয়? আল-কুরআন তিলাওয়াত সম্পর্কে তিনটি হাদিস লেখ। ১ + ১ + ৪ = ৬",
+        "solution": "আরবি হরফ উচ্চারণের স্থানকে মাখরাজ বলে।\n\nমুখের ৫টি স্থান হতে আরবি হরফ উচ্চারিত হয়।\n\nকুরআন তিলাওয়াত সম্পর্কে তিনটি হাদিস হলো-\n\n১. “তোমাদের মধ্যে সে উত্তম যে নিজে কুরআন শিখে এবং অপরকে শেখায়।”\n\n২. “কুরআন তিলাওয়াতে প্রতিটি হরফে ১০টি নেকি পাওয়া যায়।”\n\n৩. “কুরআন তিলাওয়াত হলো উত্তম ইবাদত।”\n\n৪. “অন্তরের মরিচা দূর করা যন্ত্র হলো কুরআন তিলাওয়াত।”",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E আরবি হরফ উচ্চারণের স্থানকে বলা হয় \"মখারিজুল হুরুফ\" (মাখারিজ), কারণ এটি সেই নির্দিষ্ট মুখ/গলা-স্থলকে বোঝায় যেখান থেকে প্রতিটি হরফের ধ্বনি উত্ত্পন্ন হয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E আরবি হরফ মোট [math]17[/math]টি ভিন্ন উচ্চারণস্থল থেকে উচ্চারিত হয়; ক্লাসিক তাজবিদে এগুলো গলাপাশ, জিহ্বা (ভর, ডান, বাম), ঠোঁট, দাঁত ইত্যাদি অঞ্চলে বিভাগ করা হয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E তিনটি হাদিস (সংক্ষিপ্ত): (১) \"خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ\" — তোমাদের মধ্যে সেরা যে কোরআন শিখে ও শেখায়; (২) \"مَنْ قَرَأَ حَرْفًا مِنْ كِتَابِ اللَّهِ فَلَهُ بِهِ حَسَنَةٌ...\" — আল্লাহর কিতাবের একটি হরফ পড়লে এক গুণ সওয়াব, যা দশগুণ হয়; (৩) \"اقْرَءُوا الْقُرْآنَ فَإِنَّهُ يَأْتِي يَوْمَ الْقِيَامَةِ شَفِيعًا لِأَصْحَابِهِ\" — কোরআন পড়ো, কারণ কিয়ামতে এটি তার পাঠকদের জন্য শফায়ত করবে। এই হাদিসগুলো দেখায় যে তিলাওয়াতে বিশেষ মর্যাদা, পুরস্কার ও শফায়ত রয়েছে।  \nমোট নম্বর: [math]1+1+4=6[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485542,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485543,
+      "value": {
+        "options": [],
+        "question": "কোন সূরায় আল্লাহর সাহায্য ও বিজয়ের ঘোষণা দেওয়া হয়েছে? সে সূরাটি কোথায় নাজিল করা হয়েছিল? সূরাটির বাংলা অর্থ দেখ ।",
+        "solution": "সূরা আন নাসর-এ আল্লাহর সাহায্য ও বিজয়ের ঘোষণা দেওয়া হয়েছে।\n\nসূরাটি মদিনায় নাজিল করা হয় ।\n\nসূরাটির অর্থ—\n\nযখন আল্লাহর সাহায্য ও বিজয় আসবে এবং তুমি মানুষকে দলে দলে আল্লাহর দ্বীনে প্রবেশ করতে দেখবে।\n\nতখন তুমি তোমার প্রতিপালকের প্রশংসা কর, তাঁর পবিত্রতা ও মহিমা ঘোষণা কর এবং ক্ষমা প্রার্থনা কর, তিনি তো তওবা কবুলকারী।",
+        "explanation": "সূরা আন-নাসর (সূরা ১১০)‑এ আল্লাহর সাহায্য ও বিজয়ের ঘোষণা এসেছে; কারণ সূরার প্রথম আয়াতে সরাসরি বলা হয়েছে যে \"আল্লাহর সাহায্য ও ফাতহ (বিজয়) এলে\"। এটি মদিনায় নাজিল হয়েছিল এবং কাবা বিজয়ের ঘটনার পরবর্তী সময়ে নাজিল বলে সমঝা যায়। সূরার বাংলা অর্থ: \"যখন আল্লাহর সাহায্য এবং বিজয় এলো, এবং তুমি দেখবে মানুষ দলবদ্ধভাবে আল্লাহর পথে প্রবেশ করছে; তবে তোমার প্রভুর উদ্দেশে তসবিহ করো এবং তাঁর কাছে ক্ষমা চাইও—নিঃসন্দেহে তিনি অনেক ক্ষমাশীল।\"",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485543,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485544,
+      "value": {
+        "options": [],
+        "question": "তোমার পাঠ্যপুস্তকের সর্বশেষ সূরা কোনটি? এর আয়াত সংখ্যা কত? সূরাটির বাংলা অর্থ লেখ।",
+        "solution": "আমার পাঠ্যপুস্তকের সর্বশেষ সূরা হলো— সূরা আল-ইখলাস ।\n\nএ সূরার আয়াত ৪টি।\n\nসূরা আল-ইখলাসের অর্থ—\n\n১. বল, তিনি আল্লাহ, একক।\n\n২. আল্লাহ কারও মুখাপেক্ষী নন।\n\n৩. তাঁর কোনো সন্তান নেই এবং তিনি কারও সন্তান নন।\n\n৪. এবং তাঁর সমতুল্য কেউ নেই।",
+        "explanation": "ব্যাখ্যা: তোমার পাঠ্যপুস্তকের সর্বশেষ সূরা সাধারণত কোরআনের অন্তিম সূরা \u003Cspan class=\"cq-explanation-label\"\u003Eনাস\u003C/span\u003E (সূরা 114), এর আয়াত সংখ্যা [math]6[/math]। সূরাটির বাংলা অর্থ হলো \"মানুষ\" বা \"মানুষজাতি\", এবং কোরআনের প্রচলিত ক্রম অনুযায়ী এটি শেষ সূরা হওয়ায় পাঠ্যপুস্তকের শেষে থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485544,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485545,
+      "value": {
+        "options": [],
+        "question": "সূরা আন নাসর বাংলায় লেখ।",
+        "solution": "সূরা আন নাসর :\n\nইযা জাআ নাসরুল্লাহি ওয়ালফাতহু। ওয়ারাআইতান নাসা ইয়াদখুলূনা ফী দীনিল্লাহি আফওয়াজা।\n\nফাসাব্বিহ বিহামদি রাব্বিকা ওয়াসতাগফিরহু। ইন্নাহু কানা তাওওয়াবা।",
+        "explanation": "বিসমিল্লাহির রাহমানির রাহিম\n\n\"যখন আল্লাহর সাহায্য এবং বিজয় এসে পৌঁছাবে, এবং তুমি দেখবে মানুষ আল্লাহর ধর্মে দলবদ্ধভাবে প্রবেশ করছে; তখন তোমার প্রতিপালকের প্রশংসা করো এবং তাঁর কাছে ক্ষমা চাও; নিশ্চয় তিনি অনুতপ্ত, কওম।\"\n\nব্যাখ্যা: এই বাংলা অনুবাদটি সূরা আন-নাসরের মূল আরবি আয়াতগুলোর সরল অর্থ প্রকাশ করে — এখানে আল্লাহর সাহায্য ও জনগণের ইসলাম গ্রহণের সংবাদ এবং নবীকে প্রশংসা ও ক্ষমাপ্রার্থনার নির্দেশনাই প্রধান, তাই অনুবাদটি যথার্থ এবং বিষয়টি বোঝাতে সাহায্য করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485545,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485546,
+      "value": {
+        "options": [],
+        "question": "সূরা ইখলাসের বাংলা উচ্চারণসহ অর্থ লেখ।",
+        "solution": "সূরা ইখলাসের বাংলা উচ্চারণ :\n\nকুল হুয়াল্লাহু আহাদ।\n\nআল্লাহুস সামাদ। লাম ইয়ালিদ, ওয়া লাম ইউলাদ। ওয়ালাম ইয়াকুল্লাহু কুফুয়ান আহাদ।\n\nঅর্থ :\n\n১. বলো, তিনি আল্লাহ, একক।\n\n২. আল্লাহ কারও মুখাপেক্ষী নন।\n\n৩. তাঁর কোনো সন্তান নেই এবং তিনি কারও সন্তান নন।\n\n৪. এবং তাঁর সমতুল্য কেউ নেই।",
+        "explanation": "সূরা ইখলাস (উচ্চারণ):\nকুল হুয়া আল্লাহু আহাদ। আল্লাহুস্-সমাদ। লাম ইয়ালিদ ওয়ালাম ইউলাদ। ওয়ালাম ইয়াকুন লাহু কুফুওয়ান আহাদ।\n\nবাংলা অর্থ:\nবলো: তিনি আল্লাহ্ এক। আল্লাহ্ সকলের উপর নির্ভরযোগ্য, অনবরত আদি-অনাদি নয়। তিনি জন্ম দেননি এবং জন্মগ্রহণ করেননি। এবং তাঁর অনুরূপ কেউ নেই।\n\nব্যাখ্যা: এই সূরা তাওহীদের সরল অথচ পূর্ণ বিবরণ দেয়—আল্লাহ্ একক, আত্মনির্ভর এবং অজন্মনীয়; তাই উক্ত উচ্চারণ ও অনুবাদ সূরার মূল অর্থকে সঠিকভাবে প্রকাশ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485546,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485547,
+      "value": {
+        "options": [],
+        "question": "সালাতে — তিলাওয়াত করা ফরজ।",
+        "solution": "কুরআন মজিদ",
+        "explanation": "এই বিবৃতি সঠিক নয়। সালাতে সাধারণভাবে সমস্ত তিলাওয়াত ফরজ নয়; কোরআনের সূরা আল‑ফাতিহা প্রতিটি রাকাতে ফরজ/ওয়াজিব হিসেবে বিবেচিত হয় (বহু ফিক্‌হ নাজরে), কিন্তু অন্য সূরা বা অতিরিক্ত তিলাওয়াত সাধারণত সুন্নত বা সুন্নত-মুয়াক্কাদা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485547,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485548,
+      "value": {
+        "options": [],
+        "question": "কুরআনের তিলাওয়াত — হওয়া দরকার।",
+        "solution": "শুদ্ধ",
+        "explanation": "হ্যাঁ — কুরআানের তিলাওয়াত হওয়া দরকার, কারণ কুরআন মুসলমানদের জন্য জীবনের নির্দেশ ও হেদায়াত এবং তার পাঠ ঈমান জোরদার ও নৈতিকভাবে পথপ্রদর্শক। বিশেষত নামাজে সূরা আল‑ফাতিহা পড়া বাধ্যতামূলক, আর ব্যক্তিগত ইবাদত ও আত্মশুদ্ধির জন্য নিয়মিত তিলাওয়াত অত্যন্ত গুরুত্বপূর্ণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485548,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485549,
+      "value": {
+        "options": [],
+        "question": "তোমাদের মধ্যে সে উত্তম যে —",
+        "solution": "নিজে কুরআন শিখে এবং অপরকে শেখায়",
+        "explanation": "প্রশ্নটি অসম্পূর্ণ—বাক্যটির পরন্ত অংশ বা উত্তর বিকল্প না থাকায় সঠিক উত্তরের ব্যাখ্যা দেয়া যাচ্ছে না। অনুগ্রহ করে সম্পূর্ণ বাক্যটি বা সম্ভাব্য অপশনগুলো দিন, তাহলে সংক্ষিপ্ত ও স্পষ্ট ব্যাখ্যা দেয়া হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485549,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485550,
+      "value": {
+        "options": [],
+        "question": "আরবি পড়তে হয় — দিক থেকে।",
+        "solution": "ডান",
+        "explanation": "সঠিক উত্তর: ডান দিক থেকে। আরবি লিপি ও ভাষা ডান থেকে বামে লেখা ও পড়া হয়, তাই পড়া শুরু করতে হয় ডান দিক থেকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485550,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485551,
+      "value": {
+        "options": [],
+        "question": "আরবিতে মোট — হরফ বা অক্ষর আছে।",
+        "solution": "২৯টি",
+        "explanation": "ব্যাখ্যা: আরবিতে মোট ২৮টি হরফ আছে। আধুনিক আরবি বর্ণমালায় ২৮টি মৌলিক অক্ষর থাকে; স্বর চিহ্ন (হরকাত) ও সংযুক্ত আকারগুলি আলাদা চিহ্ন কিন্তু নতুন হরফ নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485551,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 485553,
+      "value": {
+        "options": [],
+        "question": "হরফের উপর যবর থাকলে উচ্চারণে — কার হবে।",
+        "solution": "যবর",
+        "explanation": "ব্যাখ্যা: জবর (ফৎহা) হলো স্বল্পকালীন \"অ/আ\" স্বর; তাই হরফের উপর জবর থাকলে উচ্চারণে সেই হরফে \"আ\" ধরনের স্বর শোনা যায়, যাকে বাংলা শিক্ষা-প্রথায় \"কার\" বলা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-08-20T06:36:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 485553,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-20T06:36:12.000000Z",
+            "updated_at": "2025-08-20T06:36:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746795,
+      "value": {
+        "options": {
+          "ক": "৩টি",
+          "খ": "৪টি",
+          "গ": "৫টি",
+          "ঘ": "৬টি"
+        },
+        "question": "সুরা ইখলাস-এর আয়াত সংখ্যা কত?",
+        "solution": "খ. ৪টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:49:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746794,
+      "value": {
+        "options": {
+          "ক": "আল্লাহ তায়ালার",
+          "খ": "মহানবি (স)-এর",
+          "গ": "হযরত আবু বকর (রা)-এর",
+          "ঘ": "হযরত খাদিজা (রা)-এর"
+        },
+        "question": "কার কোনো সন্তান নেই এবং তিনি কারও সন্তান নন?",
+        "solution": "ক. আল্লাহ তায়ালার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:49:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746793,
+      "value": {
+        "options": {
+          "ক": "তায়েফে",
+          "খ": "জেদ্দায়",
+          "গ": "মক্কায়",
+          "ঘ": "মদিনায়"
+        },
+        "question": "সুরা ইখলাস কোথায় অবতীর্ণ হয়?",
+        "solution": "গ. মক্কায়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:49:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746792,
+      "value": {
+        "options": {
+          "ক": "৪টি",
+          "খ": "৫টি",
+          "গ": "৬টি",
+          "ঘ": "৭টি"
+        },
+        "question": "সুরা আল লাহাব-এর আয়াত সংখ্যা কত?",
+        "solution": "খ. ৫টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:49:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746791,
+      "value": {
+        "options": {
+          "ক": "ইন্ধন",
+          "খ": "পাথর",
+          "গ": "কয়লা",
+          "ঘ": "বালু"
+        },
+        "question": "আবু লাহাবের স্ত্রী কী বহন করে?",
+        "solution": "ক. ইন্ধন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:49:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746790,
+      "value": {
+        "options": {
+          "ক": "আবু লাহাব",
+          "খ": "আবু তালেব",
+          "গ": "আবু জাহেল",
+          "ঘ": "উতবা"
+        },
+        "question": "কে লেলিহান অগ্নিতে দগ্ধ হবে?",
+        "solution": "ক. আবু লাহাব",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:49:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746789,
+      "value": {
+        "options": {
+          "ক": "তায়েফী",
+          "খ": "মাদানি",
+          "গ": "মাক্কি",
+          "ঘ": "আরবি"
+        },
+        "question": "সুরা নাসর কোন ধরনের সুরা?",
+        "solution": "খ. মাদানি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746788,
+      "value": {
+        "options": {
+          "ক": "৫টি",
+          "খ": "৩টি",
+          "গ": "৪টি",
+          "ঘ": "৭টি"
+        },
+        "question": "সুরা আন নাসর-এর আয়াত সংখ্যা কত?",
+        "solution": "খ. ৩টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746787,
+      "value": {
+        "options": {
+          "ক": "মক্কায় অবতীর্ণ হয়",
+          "খ": "মদিনায় অবতীর্ণ হয়",
+          "গ": "বাগদাদে অবতীর্ণ হয়",
+          "ঘ": "সিরিয়ায় অবতীর্ণ হয়"
+        },
+        "question": "সুরা আন নাসর সম্পর্কে নিচে কোন তথ্যটি সঠিক?",
+        "solution": "খ. মদিনায় অবতীর্ণ হয়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746786,
+      "value": {
+        "options": {
+          "ক": "আল্লাহ তায়ালা",
+          "খ": "ফেরেশতা",
+          "গ": "মুনকার নাকির",
+          "ঘ": "আজরাইল (আ)"
+        },
+        "question": "কে তওবা কবুলকারী?",
+        "solution": "ক. আল্লাহ তায়ালা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746784,
+      "value": {
+        "options": {
+          "ক": "গুনাহ ছাড়া",
+          "খ": "ইখফা ছাড়া",
+          "গ": "কলব ছাড়া",
+          "ঘ": "গুন্নাহ ও ইখফা ছাড়া"
+        },
+        "question": "ইযহার করতে হয় কীভাবে?",
+        "solution": "ঘ. গুন্নাহ ও ইখফা ছাড়া",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746785,
+      "value": {
+        "options": {
+          "ক": "যুক্ত করা, একত্র করা",
+          "খ": "পৃথক করা",
+          "গ": "ভেঙে দেওয়া",
+          "ঘ": "প্রকাশ করা"
+        },
+        "question": "ইযহার শব্দের অর্থ কী?",
+        "solution": "ঘ. প্রকাশ করা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746783,
+      "value": {
+        "options": {
+          "ক": "কাছাকাছি উচ্চারণের দুটি হরফকে যুক্ত করে পড়ার জন্য",
+          "খ": "দুটি বাক্যকে যুক্ত করে পড়ার জন্য",
+          "গ": "একই হরফ দুবার উচ্চারণের জন্য",
+          "ঘ": "শব্দের অর্থ প্রকাশের জন্য"
+        },
+        "question": "কুরআন তিলাওয়াতের একটি নিয়মকে ঈদগাম বলে। তুমি ঈদগাম করবে কেন?",
+        "solution": "ক. কাছাকাছি উচ্চারণের দুটি হরফকে যুক্ত করে পড়ার জন্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746782,
+      "value": {
+        "options": {
+          "ক": "ইযহার",
+          "খ": "মাখরাজ",
+          "গ": "ঈদগাম",
+          "ঘ": "তাশদীদ"
+        },
+        "question": "কাছাকাছি উচ্চারণের দুটি হরফকে যুক্ত করে পড়াকে কী বলে?",
+        "solution": "গ. ঈদগাম",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746781,
+      "value": {
+        "options": {
+          "ক": "পৃথক করা",
+          "খ": "ভেঙে দেওয়া",
+          "গ": "যুক্ত করা, একত্র করা",
+          "ঘ": "প্রকাশ করা, স্পষ্ট করা"
+        },
+        "question": "ঈদগাম অর্থ কী?",
+        "solution": "গ. যুক্ত করা, একত্র করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746780,
+      "value": {
+        "options": {
+          "ক": "তাশদীদ",
+          "খ": "সাকিন",
+          "গ": "মাখরাজ",
+          "ঘ": "ঈদগাম"
+        },
+        "question": "আরবি হরফ উচ্চারণের স্থানকে কী বলে?",
+        "solution": "গ. মাখরাজ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746779,
+      "value": {
+        "options": {
+          "ক": "সালাত",
+          "খ": "কুরআন",
+          "গ": "আরবি শেখা",
+          "ঘ": "কুরআনের অর্থ"
+        },
+        "question": "সঠিক উচ্চারণে তিলাওয়াত না করলে কী শুদ্ধ হয় না?",
+        "solution": "ক. সালাত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746778,
+      "value": {
+        "options": {
+          "ক": "মাদ্দ",
+          "খ": "তাজবীদ",
+          "গ": "তাশদীদ",
+          "ঘ": "হরকত"
+        },
+        "question": "কুরআন মাজিদ শুদ্ধভাবে তিলাওয়াতের জন্য বিশেষ নিয়ম রয়েছে। এ নিয়মকে কী বলে?",
+        "solution": "খ. তাজবীদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746777,
+      "value": {
+        "options": {
+          "ক": "৫টি",
+          "খ": "৬টি",
+          "গ": "৭টি",
+          "ঘ": "১০টি"
+        },
+        "question": "কুরআন মাজিদ তিলাওয়াত করলে প্রত্যেক হরফের জন্য কয়টি সওয়াব পাওয়া যায়?",
+        "solution": "ঘ. ১০টি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:48:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746775,
+      "value": {
+        "options": {
+          "ক": "তাজবীদ",
+          "খ": "মাদ্দ",
+          "গ": "জযম",
+          "ঘ": "মাখরাজ"
+        },
+        "question": "কুরআন মাজিদের কোনো কোনো হরফ টেনে পড়তে হয়। এ টেনে পড়াকে কী বলবে?",
+        "solution": "খ. মাদ্দ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746776,
+      "value": {
+        "options": {
+          "ক": "লম্বা করে",
+          "খ": "টেনে",
+          "গ": "দীর্ঘ করে",
+          "ঘ": "সবগুলো"
+        },
+        "question": "মাদ্দের হরফ কীভাবে পড়তে হয়?",
+        "solution": "ঘ. সবগুলো",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746774,
+      "value": {
+        "options": {
+          "ক": "মাদ্দ",
+          "খ": "মাখরাজ",
+          "গ": "তাশদীদ",
+          "ঘ": "তানবীন"
+        },
+        "question": "একই হরফ পাশাপাশি দুবার উচ্চারণ করাকে কী বলে?",
+        "solution": "গ. তাশদীদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746773,
+      "value": {
+        "options": {
+          "ক": "∧",
+          "খ": "ـَ",
+          "গ": "ُ",
+          "ঘ": "ـّ"
+        },
+        "question": "তাশদীদের চিহ্ন কীরূপ?",
+        "solution": "ঘ. ـّ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746772,
+      "value": {
+        "options": {
+          "ক": "সাকিন",
+          "খ": "মাদ্দ",
+          "গ": "তাশদীদ",
+          "ঘ": "তানবীন"
+        },
+        "question": "জযম যুক্ত হরফকে কী বলা হয়?",
+        "solution": "ক. সাকিন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746771,
+      "value": {
+        "options": {
+          "ক": "জযম",
+          "খ": "তাশদীদ",
+          "গ": "তানবীন",
+          "ঘ": "সাকিন"
+        },
+        "question": "দুই যবর, দুই যের ও দুই পেশকে কী বলে?",
+        "solution": "গ. তানবীন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746770,
+      "value": {
+        "options": {
+          "ক": "গুনাহ করা",
+          "খ": "স্পষ্ট করা",
+          "গ": "নূনে পরিণত করা",
+          "ঘ": "মিমে পরিণত করা"
+        },
+        "question": "তানবীন অর্থ কী?",
+        "solution": "গ. নূনে পরিণত করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746769,
+      "value": {
+        "options": {
+          "ক": "নূনযুক্ত",
+          "খ": "আলিফযুক্ত",
+          "গ": "মীমযুক্ত",
+          "ঘ": "কাফযুক্ত"
+        },
+        "question": "তানবিনের উচ্চারণ কীরূপ হয়?",
+        "solution": "ক. নূনযুক্ত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746767,
+      "value": {
+        "options": {
+          "ক": "উপরে",
+          "খ": "নিচে",
+          "গ": "পাশে",
+          "ঘ": "শেষে"
+        },
+        "question": "যের হরফের কোথায় থাকে?",
+        "solution": "খ. নিচে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746763,
+      "value": {
+        "options": {
+          "ক": "তাজবীদ",
+          "খ": "তানবীন",
+          "গ": "হরকত",
+          "ঘ": "সাকিন"
+        },
+        "question": "যবর, যের ও পেশকে কী বলে?",
+        "solution": "গ. হরকত",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746764,
+      "value": {
+        "options": {
+          "ক": "উপরে",
+          "খ": "নিচে",
+          "গ": "পাশে",
+          "ঘ": "শেষে"
+        },
+        "question": "পেশ ও যবর হরফের কোথায় থাকে?",
+        "solution": "ক. উপরে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746765,
+      "value": {
+        "options": {
+          "ক": "ু-কার",
+          "খ": "া-কার হবে",
+          "গ": "ি-কার",
+          "ঘ": "ী-কার"
+        },
+        "question": "হরফের উপর পেশ থাকলে উচ্চারণে কী হয়?",
+        "solution": "ক. ু-কার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746766,
+      "value": {
+        "options": {
+          "ক": "ে-কার",
+          "খ": "া-কার",
+          "গ": "উ-কার",
+          "ঘ": "ি-কার"
+        },
+        "question": "যের, যবর, পেশকে হরকত বলে। হরকত দ্বারা হরফের সঠিক উচ্চারণ করা হয়। হরফের উপর যবর থাকলে কীভাবে উচ্চারণ করতে হয়?",
+        "solution": "খ. া-কার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746768,
+      "value": {
+        "options": {
+          "ক": "ে-কার",
+          "খ": "া-কার",
+          "গ": "ূু-কার",
+          "ঘ": "ি-কার"
+        },
+        "question": "আরবি স্বরচিহ্ন হলো হরকত। যের হরকতের অংশ। হরফের নিচে যের থাকলে কীভাবে উচ্চারণ করতে হয়?",
+        "solution": "ঘ. ি-কার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:47:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746762,
+      "value": {
+        "options": {
+          "ক": "বাম দিক",
+          "খ": "সামনের দিক",
+          "গ": "ডান দিক",
+          "ঘ": "উত্তর দিক"
+        },
+        "question": "আরবি পড়তে হয় কোন দিক থেকে?",
+        "solution": "গ. ডান দিক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746761,
+      "value": {
+        "options": {
+          "ক": "উর্দু",
+          "খ": "ফারসি",
+          "গ": "আরবি",
+          "ঘ": "বাংলা"
+        },
+        "question": "কুরআন মাজিদের ভাষা কী?",
+        "solution": "গ. আরবি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746760,
+      "value": {
+        "options": {
+          "ক": "২৯টি",
+          "খ": "২৭টি",
+          "গ": "২৮টি",
+          "ঘ": "২৬টি"
+        },
+        "question": "আরবিতে মোট হরফ কয়টি?",
+        "solution": "ক. ২৯টি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746756,
+      "value": {
+        "options": {
+          "ক": "ওয়াজিব",
+          "খ": "ফরজ",
+          "গ": "সুন্নাত",
+          "ঘ": "নফল"
+        },
+        "question": "সালাতের মধ্যে কুরআন তিলাওয়াত করা কী?",
+        "solution": "খ. ফরজ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746755,
+      "value": {
+        "options": {
+          "ক": "তাওরাত",
+          "খ": "যাবুর",
+          "গ": "ইনজিল",
+          "ঘ": "কুরআন"
+        },
+        "question": "সর্বশেষ আসমানি কিতাব–",
+        "solution": "ঘ. কুরআন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746758,
+      "value": {
+        "options": {
+          "ক": "কুরআন সর্বশেষ আসমানি কিতাব",
+          "খ": "কুরআনই সকলের সংবিধান",
+          "গ": "শুদ্ধভাবে কুরআন তিলাওয়াতের ফজিলত",
+          "ঘ": "কুরআন খতম করার ফজিলত"
+        },
+        "question": "মহানবি (স) বলেছেন, \"তোমাদের মধ্যে সে উত্তম, যে কুরআন শিখে এবং অপরকে শিখায়।\" রাসূল (স) এর উক্ত বাণী দ্বারা কী বোঝানো হয়েছে?",
+        "solution": "গ. শুদ্ধভাবে কুরআন তিলাওয়াতের ফজিলত",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746757,
+      "value": {
+        "options": {
+          "ক": "আল্লাহ তায়ালার",
+          "খ": "মহানবি (সা.)-এর",
+          "গ": "হযরত আবু বকর (রা)-এর",
+          "ঘ": "হযরত উমর (রা)-এর"
+        },
+        "question": "“তোমাদের মধ্যে সে উত্তম, যে নিজে কুরআন শিখে এবং অপরকে শিখায়।” – উক্তিটি কার?",
+        "solution": "খ. মহানবি (সা.)-এর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746759,
+      "value": {
+        "options": {
+          "ক": "তাওরাত",
+          "খ": "যাবুর",
+          "গ": "ইনজিল",
+          "ঘ": "কুরআন"
+        },
+        "question": "আল্লাহ তায়ালা মানুষের হিদায়েতের জন্য আসমানি কিতাব নাজিল করেছেন। মহানবি (স)-এর ওপর নাজিলকৃত আসমানি কিতাব কোনটি?",
+        "solution": "ঘ. কুরআন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7333,
+      "created_at": "2025-11-27T09:46:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7333&grade=7&per_page=2000&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7333&grade=7&per_page=2000&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7333&grade=7&per_page=2000&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 79,
+  "total": 79
+}

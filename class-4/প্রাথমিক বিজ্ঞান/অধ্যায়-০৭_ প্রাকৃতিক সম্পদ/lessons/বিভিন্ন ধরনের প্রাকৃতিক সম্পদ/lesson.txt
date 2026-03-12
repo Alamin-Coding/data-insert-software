@@ -1,0 +1,225 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747322,
+      "value": {
+        "options": {
+          "ক": "আলো",
+          "খ": "শব্দ",
+          "গ": "বায়ুপ্রবাহ",
+          "ঘ": "গাছপালা"
+        },
+        "question": "নিচের কোনটি জেনারেটরের সাথে যুক্ত উইন্ডমিলের টারবাইন ঘুরিয়ে বিদ্যুৎ উৎপন্ন করে?",
+        "solution": "গ. বায়ুপ্রবাহ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747323,
+      "value": {
+        "options": {
+          "ক": "তেল",
+          "খ": "বায়ুপ্রবাহ",
+          "গ": "কয়লা",
+          "ঘ": "গ্যাস"
+        },
+        "question": "শিক্ষক ক্লাসে নবায়নযোগ্য শক্তির উৎস সম্পর্কে বললেন। তোমার মতে নিচের কোনটি এ শক্তির উৎস?",
+        "solution": "খ. বায়ুপ্রবাহ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747324,
+      "value": {
+        "options": {
+          "ক": "তেল",
+          "খ": "বায়ু",
+          "গ": "পানি",
+          "ঘ": "সূর্যের আলো"
+        },
+        "question": "নিচের কোনটি জীবাশ্ম জ্বালানি?",
+        "solution": "ক. তেল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747325,
+      "value": {
+        "options": {
+          "ক": "সম্পদ",
+          "খ": "শক্তি",
+          "গ": "শিলা",
+          "ঘ": "জ্বালানি"
+        },
+        "question": "কোনো কিছু করার সামর্থ্যকে কী বলে?",
+        "solution": "খ. শক্তি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747326,
+      "value": {
+        "options": {
+          "ক": "তেল",
+          "খ": "কয়লা",
+          "গ": "সৌর প্যানেল",
+          "ঘ": "মাটি"
+        },
+        "question": "সূর্যের আলো থেকে বিদ্যুৎ উৎপাদনের জন্য তোমার বন্ধুকে কোনটি ব্যবহার করার পরামর্শ দেবে?",
+        "solution": "গ. সৌর প্যানেল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7410&grade=7&lesson=13504&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7410&grade=7&lesson=13504&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7410&grade=7&lesson=13504&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

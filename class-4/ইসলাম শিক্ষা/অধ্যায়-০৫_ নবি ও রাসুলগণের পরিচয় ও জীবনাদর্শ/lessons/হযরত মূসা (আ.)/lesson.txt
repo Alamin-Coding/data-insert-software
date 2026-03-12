@@ -1,0 +1,567 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746821,
+      "value": {
+        "options": {
+          "ক": "সাফিয়া",
+          "খ": "ইমরান",
+          "গ": "সফুরা",
+          "ঘ": "হালিমা"
+        },
+        "question": "মূসা (আ)-এর স্ত্রীর নাম কী?",
+        "solution": "গ. সফুরা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746822,
+      "value": {
+        "options": {
+          "ক": "৯০ বছর",
+          "খ": "১০০ বছর",
+          "গ": "১১০ বছর",
+          "ঘ": "১২০ বছর"
+        },
+        "question": "মূসা (আ) কত বছর জীবিত ছিলেন?",
+        "solution": "ঘ. ১২০ বছর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746823,
+      "value": {
+        "options": {
+          "ক": "আম্বিয়া",
+          "খ": "হাজেরা",
+          "গ": "আছিয়া",
+          "ঘ": "আমিনা"
+        },
+        "question": "ফিরআউনের স্ত্রীর নাম কী?",
+        "solution": "গ. আছিয়া",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746824,
+      "value": {
+        "options": {
+          "ক": "আবরাহা",
+          "খ": "সুমির",
+          "গ": "হাদীদ",
+          "ঘ": "ওলীদ"
+        },
+        "question": "প্রাচীনকালে মিশরের বাদশাহকে ফিরআউন বলা হতো। কোন ফিরআউনের সাথে মূসা (আ)-এর বিরোধ ছিল?",
+        "solution": "ঘ. ওলীদ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746825,
+      "value": {
+        "options": {
+          "ক": "নীল নদে",
+          "খ": "ফোরাত নদীতে",
+          "গ": "টাইগ্রিস নদীতে",
+          "ঘ": "মৃত সাগরে"
+        },
+        "question": "বাদশাহ ওলীদ কোথায় ডুবে মরেছিল?",
+        "solution": "ক. নীল নদে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746826,
+      "value": {
+        "options": {
+          "ক": "সামেরী",
+          "খ": "সাবেরী",
+          "গ": "হাশেমী",
+          "ঘ": "রাফেজী"
+        },
+        "question": "বনি-ইসরাইলিদের ধোঁকা দিয়ে গো-বৎস পূজায় লিপ্ত করেছিল কে?",
+        "solution": "ক. সামেরী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746827,
+      "value": {
+        "options": {
+          "ক": "আছিয়া",
+          "খ": "ইউখাবেজ",
+          "গ": "হাজেরা",
+          "ঘ": "আম্বিয়া"
+        },
+        "question": "হযরত মূসা (আ)-এর মাতার নাম কী?",
+        "solution": "খ. ইউখাবেজ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746828,
+      "value": {
+        "options": {
+          "ক": "প্রেসিডেন্ট",
+          "খ": "বাদশাহ",
+          "গ": "রাজা",
+          "ঘ": "ফিরাউন"
+        },
+        "question": "প্রাচীনকালে মিশরের বাদশাকে বলা হতো-",
+        "solution": "ঘ. ফিরাউন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746829,
+      "value": {
+        "options": {
+          "ক": "হযরত ঈসা (আ)",
+          "খ": "হযরত মূসা (আ)",
+          "গ": "হযরত লূত (আ)",
+          "ঘ": "হযরত হূদ (আ)"
+        },
+        "question": "মিশরের রাজা ওলীদ নিজেকে খোদা দাবি করেছিল। তাকে হিদায়েতের বাণী শোনানোর জন্য কোন রাসুলকে প্রেরণ করা হয়?",
+        "solution": "খ. হযরত মূসা (আ)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746830,
+      "value": {
+        "options": {
+          "ক": "বনি ইসরাইল",
+          "খ": "কিবতি",
+          "গ": "বনি বকর",
+          "ঘ": "বনি হাসেম"
+        },
+        "question": "হযরত মূসা (আ) কোন বংশে জন্মগ্রহণ করেন?",
+        "solution": "ক. বনি ইসরাইল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746831,
+      "value": {
+        "options": {
+          "ক": "খুব ভালো",
+          "খ": "দয়ালু",
+          "গ": "লোভী",
+          "ঘ": "কৃপণ"
+        },
+        "question": "মিশরের বাদশাহ ওলীদ কেমন ছিল?",
+        "solution": "গ. লোভী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746832,
+      "value": {
+        "options": {
+          "ক": "নমরুদ",
+          "খ": "ইয়াজিদ",
+          "গ": "হামান",
+          "ঘ": "সাজ্জাদ"
+        },
+        "question": "ওলীদের মন্ত্রী কে ছিল?",
+        "solution": "গ. হামান",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746833,
+      "value": {
+        "options": {
+          "ক": "হযরত শুয়াইব (আ)",
+          "খ": "হযরত ইসহাক (আ)",
+          "গ": "হযরত ইলিয়াস (আ)",
+          "ঘ": "হযরত ইয়াকূব (আ)"
+        },
+        "question": "মূসা (আ)-এর শ্বশুরের নাম কী?",
+        "solution": "ক. হযরত শুয়াইব (আ)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746834,
+      "value": {
+        "options": {
+          "ক": "হযরত নূহ (আ)",
+          "খ": "হযরত ইবরাহীম (আ)",
+          "গ": "হযরত শুয়াইব (আ)",
+          "ঘ": "হযরত মূসা (আ)"
+        },
+        "question": "কে 'কালিমুল্লাহ' উপাধিতে ভূষিত হন?",
+        "solution": "ঘ. হযরত মূসা (আ)",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T09:51:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7334&grade=7&lesson=13490&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7334&grade=7&lesson=13490&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7334&grade=7&lesson=13490&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 14,
+  "total": 14
+}

@@ -1,0 +1,263 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747419,
+      "value": {
+        "options": {
+          "ক": "শীতল",
+          "খ": "খুব ঠান্ডা",
+          "গ": "উষ্ণ ও আর্দ্র",
+          "ঘ": "খুব গরম"
+        },
+        "question": "বাংলাদেশের জলবায়ু কোন ধরনের?",
+        "solution": "গ. উষ্ণ ও আর্দ্র",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747420,
+      "value": {
+        "options": {
+          "ক": "৫° সেলসিয়াস",
+          "খ": "৪° সেলসিয়াস",
+          "গ": "৬° সেলসিয়াস",
+          "ঘ": "৭° সেলসিয়াস"
+        },
+        "question": "রাশিয়ার রাজধানী মস্কো। এখানে বার্ষিক গড় তাপমাত্রা কত?",
+        "solution": "গ. ৬° সেলসিয়াস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747421,
+      "value": {
+        "options": {
+          "ক": "বায়ুপ্রবাহ",
+          "খ": "জলবায়ু",
+          "গ": "অক্ষাংশ",
+          "ঘ": "ঋতু"
+        },
+        "question": "আবহাওয়া পরিবর্তনের ধারাকে কী বলে?",
+        "solution": "খ. জলবায়ু",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747422,
+      "value": {
+        "options": {
+          "ক": "জলবায়ু",
+          "খ": "আবহাওয়া",
+          "গ": "অক্ষাংশ",
+          "ঘ": "বিষুবরেখা"
+        },
+        "question": "কোনটি প্রতিদিন পরিবর্তিত হয়?",
+        "solution": "খ. আবহাওয়া",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747423,
+      "value": {
+        "options": {
+          "ক": "২০° সেলসিয়াস",
+          "খ": "২৪° সেলসিয়াস",
+          "গ": "২৫° সেলসিয়াস",
+          "ঘ": "২৬° সেলসিয়াস"
+        },
+        "question": "বাংলাদেশে ঢাকার বার্ষিক গড় তাপমাত্রা কত?",
+        "solution": "ঘ. ২৬° সেলসিয়াস",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747424,
+      "value": {
+        "options": {
+          "ক": "দক্ষিণে",
+          "খ": "পূর্বে",
+          "গ": "উত্তরে",
+          "ঘ": "পশ্চিমে"
+        },
+        "question": "মিজানের চাচা রাশিয়া থাকেন। এ দেশটি বাংলাদেশের কোন দিকে অবস্থিত?",
+        "solution": "গ. উত্তরে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7413,
+      "created_at": "2025-11-27T10:51:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13515&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13515&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7413&grade=7&lesson=13515&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}

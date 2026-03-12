@@ -1,0 +1,225 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747292,
+      "value": {
+        "options": {
+          "ক": "জায়গা দখল করে",
+          "খ": "ওজন আছে",
+          "গ": "চোখে দেখা যায়",
+          "ঘ": "চাপ প্রয়োগে বাধা প্রদান করে"
+        },
+        "question": "বায়ুর বৈশিষ্ট্য নয় নিচের কোনটি?",
+        "solution": "গ. চোখে দেখা যায়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747293,
+      "value": {
+        "options": {
+          "ক": "শব্দ",
+          "খ": "আলো",
+          "গ": "তাপ",
+          "ঘ": "বায়ু"
+        },
+        "question": "নিচের কোনটি প্রবাহিত হলে গাছের ডালপালা নড়ে?",
+        "solution": "ঘ. বায়ু",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747294,
+      "value": {
+        "options": {
+          "ক": "আকার",
+          "খ": "ওজন",
+          "গ": "আকৃতির পরিবর্তন",
+          "ঘ": "চাপ প্রয়োগে বাধা দান"
+        },
+        "question": "তুমি একটি বায়ুপূর্ণ ফুটবলে লাথি দিয়ে ব্যথা পেলে। পদার্থের কোন বৈশিষ্ট্যের কারণে এমনটি হলো?",
+        "solution": "ঘ. চাপ প্রয়োগে বাধা দান",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747295,
+      "value": {
+        "options": {
+          "ক": "আলো",
+          "খ": "শব্দ",
+          "গ": "বিদ্যুৎ",
+          "ঘ": "বায়ু"
+        },
+        "question": "নিচের কোনটি পদার্থ?",
+        "solution": "ঘ. বায়ু",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747296,
+      "value": {
+        "options": {
+          "ক": "দেয়ালে আঘাত করে",
+          "খ": "চুপসানো ফুটবলে আঘাত করে",
+          "গ": "বায়ুপূর্ণ ফুটবলে আঘাত করে",
+          "ঘ": "বাসার ছাদ থেকে লাফ দিয়ে"
+        },
+        "question": "বায়ু যে বল প্রয়োগে বাধা প্রদান করে তা তুমি কিভাবে বুঝবে?",
+        "solution": "গ. বায়ুপূর্ণ ফুটবলে আঘাত করে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7409,
+      "created_at": "2025-11-27T10:48:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7409&grade=7&lesson=13500&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7409&grade=7&lesson=13500&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7409&grade=7&lesson=13500&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

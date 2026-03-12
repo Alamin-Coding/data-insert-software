@@ -1,0 +1,225 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746835,
+      "value": {
+        "options": {
+          "ক": "কিবতী",
+          "খ": "কুরাইশ",
+          "গ": "আদ",
+          "ঘ": "সেলজুক"
+        },
+        "question": "পৃথিবীতে ধ্বংসপ্রাপ্ত জাতির মধ্যে আদ ও সামুদ জাতি অন্যতম। আম্মান থেকে শুরু করে হাযরামাওত ও ইয়েমেন পর্যন্ত কোন জাতির বসতি ছিল?",
+        "solution": "গ. আদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746836,
+      "value": {
+        "options": {
+          "ক": "সূর্যের",
+          "খ": "মূর্তির",
+          "গ": "সাপের",
+          "ঘ": "অগ্নির"
+        },
+        "question": "আদ জাতি কীসের পূজা করত?",
+        "solution": "খ. মূর্তির",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746837,
+      "value": {
+        "options": {
+          "ক": "হযরত হূদ (আ)",
+          "খ": "হযরত সালিহ (আ)",
+          "গ": "হযরত ইসহাক (আ)",
+          "ঘ": "হযরত শুয়াইব (আ)"
+        },
+        "question": "আদ জাতি মূর্তিপূজা করত এবং শিরকে লিপ্ত ছিল। তাদের হিদায়েতের জন্য আল্লাহ কাকে প্রেরণ করেছিলেন?",
+        "solution": "ক. হযরত হূদ (আ)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746838,
+      "value": {
+        "options": {
+          "ক": "বিরাটাকায় দেহ",
+          "খ": "সুঠাম দেহ",
+          "গ": "শক্তিশালী দেহ",
+          "ঘ": "সবগুলো"
+        },
+        "question": "আদ জাতির দেহের গঠন প্রকৃতি কেমন ছিল?",
+        "solution": "ঘ. সবগুলো",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746839,
+      "value": {
+        "options": {
+          "ক": "অনাবৃষ্টি",
+          "খ": "ঘূর্ণিঝড়",
+          "গ": "দুর্ভিক্ষ",
+          "ঘ": "সবগুলো"
+        },
+        "question": "আদ জাতিকে ধ্বংস করা হয়েছিল কীভাবে?",
+        "solution": "ঘ. সবগুলো",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:00:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7334&grade=7&lesson=13491&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7334&grade=7&lesson=13491&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7334&grade=7&lesson=13491&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

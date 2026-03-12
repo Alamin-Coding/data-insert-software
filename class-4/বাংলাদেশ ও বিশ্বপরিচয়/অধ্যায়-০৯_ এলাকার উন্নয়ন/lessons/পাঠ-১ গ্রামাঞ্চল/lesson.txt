@@ -1,0 +1,339 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746532,
+      "value": {
+        "options": {
+          "ক": "পুকুর",
+          "খ": "নদী",
+          "গ": "টিউবওয়েল",
+          "ঘ": "নালা ও খাল"
+        },
+        "question": "নিরাপদ পানি পাওয়ার জন্য কোনটি প্রয়োজন?",
+        "solution": "গ. টিউবওয়েল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7396,
+      "created_at": "2025-11-27T09:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746533,
+      "value": {
+        "options": {
+          "ক": "খেলার মাঠ",
+          "খ": "বিদ্যুৎ ব্যবস্থা",
+          "গ": "শিক্ষাপ্রতিষ্ঠান",
+          "ঘ": "নিরাপদ পানির ব্যবস্থা"
+        },
+        "question": "কোনটির ব্যবস্থা না থাকায় মানুষ রোগব্যাধিতে আক্রান্ত হয়?",
+        "solution": "ঘ. নিরাপদ পানির ব্যবস্থা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7396,
+      "created_at": "2025-11-27T09:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746534,
+      "value": {
+        "options": {
+          "ক": "হাসপাতাল",
+          "খ": "শিক্ষাপ্রতিষ্ঠান",
+          "গ": "বিদ্যুৎ সুবিধা",
+          "ঘ": "খেলার মাঠ"
+        },
+        "question": "শিক্ষা ব্যবস্থার উন্নয়নের জন্য গ্রামে কী থাকতে হবে?",
+        "solution": "খ. শিক্ষাপ্রতিষ্ঠান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7396,
+      "created_at": "2025-11-27T09:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746535,
+      "value": {
+        "options": {
+          "ক": "শিক্ষাপ্রতিষ্ঠান",
+          "খ": "বিদ্যুৎ সুবিধা",
+          "গ": "খেলার মাঠ",
+          "ঘ": "গ্যাস ব্যবস্থা"
+        },
+        "question": "গ্রামাঞ্চলে কোন সুযোগ-সুবিধাটি নেই?",
+        "solution": "ঘ. গ্যাস ব্যবস্থা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7396,
+      "created_at": "2025-11-27T09:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746536,
+      "value": {
+        "options": {
+          "ক": "চেয়ারম্যানকে",
+          "খ": "মেয়রকে",
+          "গ": "কাউন্সিলরকে",
+          "ঘ": "সিটি কর্পোরেশনকে"
+        },
+        "question": "গ্রামাঞ্চলের লোকজন তাদের সমস্যার কথা কাকে জানাবে?",
+        "solution": "ক. চেয়ারম্যানকে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7396,
+      "created_at": "2025-11-27T09:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746537,
+      "value": {
+        "options": {
+          "ক": "পার্ক",
+          "খ": "পুকুর",
+          "গ": "রাস্তার বাতি",
+          "ঘ": "গ্যাস ব্যবস্থা"
+        },
+        "question": "গ্রামাঞ্চলে যারা বাস করেন, তাদের নিচের কোন সুবিধাটি প্রয়োজন?",
+        "solution": "খ. পুকুর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7396,
+      "created_at": "2025-11-27T09:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746538,
+      "value": {
+        "options": {
+          "ক": "বিদ্যুৎ ব্যবস্থা",
+          "খ": "স্বাস্থ্যসম্মত পায়খানা",
+          "গ": "গ্যাস ব্যবস্থা",
+          "ঘ": "শিক্ষাপ্রতিষ্ঠান"
+        },
+        "question": "কোনটি না থাকলে পরিবেশ দূষিত হয়?",
+        "solution": "খ. স্বাস্থ্যসম্মত পায়খানা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7396,
+      "created_at": "2025-11-27T09:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746539,
+      "value": {
+        "options": {
+          "ক": "নালা",
+          "খ": "পুকুর",
+          "গ": "নদী",
+          "ঘ": "নলকূপ"
+        },
+        "question": "গ্রামাঞ্চলে নিরাপদ পানির জন্য কোনটি প্রয়োজন সবচেয়ে বেশি?",
+        "solution": "ঘ. নলকূপ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7396,
+      "created_at": "2025-11-27T09:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7396&grade=7&lesson=13442&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7396&grade=7&lesson=13442&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7396&grade=7&lesson=13442&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 8,
+  "total": 8
+}

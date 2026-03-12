@@ -1,0 +1,377 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747377,
+      "value": {
+        "options": {
+          "ক": "রেডিও",
+          "খ": "তবলা",
+          "গ": "সেচ পাম্প",
+          "ঘ": "গিটার"
+        },
+        "question": "ফসল উৎপাদনের কাজে কোন প্রযুক্তি ব্যবহৃত হয়?",
+        "solution": "গ. সেচ পাম্প",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747378,
+      "value": {
+        "options": {
+          "ক": "সেচ পাম্প",
+          "খ": "নাগরদোলা",
+          "গ": "ইলেকট্রো-কার্ডিওগ্রাম",
+          "ঘ": "বেহালা"
+        },
+        "question": "নিচের কোনটি কৃষি প্রযুক্তি?",
+        "solution": "ক. সেচ পাম্প",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747379,
+      "value": {
+        "options": {
+          "ক": "অধিক পরিশ্রম অধিক ফসল",
+          "খ": "অধিক পরিশ্রম অল্প ফসল",
+          "গ": "অল্প পরিশ্রম অল্প ফসল",
+          "ঘ": "অল্প পরিশ্রম অধিক ফসল"
+        },
+        "question": "উন্নত কৃষি প্রযুক্তি ব্যবহারের সুবিধা কোনটি?",
+        "solution": "ঘ. অল্প পরিশ্রম অধিক ফসল",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747380,
+      "value": {
+        "options": {
+          "ক": "কৃষি",
+          "খ": "চিকিৎসা",
+          "গ": "বিনোদন",
+          "ঘ": "খেলাধুলা"
+        },
+        "question": "অধিক ফসল উৎপাদন ও প্রক্রিয়াকরণ সম্ভব হয় কোন প্রযুক্তির কারণে?",
+        "solution": "ক. কৃষি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747381,
+      "value": {
+        "options": {
+          "ক": "করাত",
+          "খ": "যান্ত্রিক করাত",
+          "গ": "কুড়াল",
+          "ঘ": "ছুরি"
+        },
+        "question": "বিমল একজন কাঠুরে। সহজেই গাছ কাটার জন্য সে কোন প্রযুক্তি ব্যবহার করে?",
+        "solution": "খ. যান্ত্রিক করাত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747382,
+      "value": {
+        "options": {
+          "ক": "কৃষি যন্ত্রপাতি ব্যবহার",
+          "খ": "উন্নত ফসল উৎপাদন",
+          "গ": "উদ্ভিদ প্রজনন",
+          "ঘ": "উন্নত সার ব্যবহার"
+        },
+        "question": "একই গাছে বিভিন্ন রঙের ফুল উৎপাদন করা হয় কোন প্রযুক্তির সাহায্যে?",
+        "solution": "গ. উদ্ভিদ প্রজনন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747383,
+      "value": {
+        "options": {
+          "ক": "সেচ পাম্প",
+          "খ": "বেহালা",
+          "গ": "আল্ট্রাসোনোগ্রাফি",
+          "ঘ": "থার্মোমিটার"
+        },
+        "question": "স্বল্প সময়ে অধিক ফসল উৎপাদনে সহায়তা করে নিচের কোনটি?",
+        "solution": "ক. সেচ পাম্প",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747384,
+      "value": {
+        "options": {
+          "ক": "কৃষি প্রযুক্তি",
+          "খ": "বিনোদন প্রযুক্তি",
+          "গ": "খেলাধুলা প্রযুক্তি",
+          "ঘ": "চিকিৎসা প্রযুক্তি"
+        },
+        "question": "তোমার বাবা ট্রাক্টর দিয়ে জমি চাষ করে। সে কোন ধরনের প্রযুক্তির ব্যবহার করে?",
+        "solution": "ক. কৃষি প্রযুক্তি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747385,
+      "value": {
+        "options": {
+          "ক": "বনজ সম্পদ সংগ্রহ",
+          "খ": "উদ্ভিদের নতুন জাত সৃষ্টি",
+          "গ": "পরিবেশের সৌন্দর্য বর্ধন",
+          "ঘ": "শিশুদের মানসিক বিকাশ"
+        },
+        "question": "কৃষি প্রযুক্তির সুবিধা নয় কোনটি?",
+        "solution": "ঘ. শিশুদের মানসিক বিকাশ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7412,
+      "created_at": "2025-11-27T10:50:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7412&grade=7&lesson=13510&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7412&grade=7&lesson=13510&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7412&grade=7&lesson=13510&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 9,
+  "total": 9
+}

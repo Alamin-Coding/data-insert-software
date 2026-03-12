@@ -1,0 +1,4649 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 745357,
+      "value": {
+        "options": [],
+        "question": "স্নানঘাট",
+        "solution": "গোসল করার জায়গা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745357,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745358,
+      "value": {
+        "options": [],
+        "question": "ধর্মচর্চা",
+        "solution": "ধর্মবিষয়ে জ্ঞান লাভ ও অনুশীলন করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745358,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745359,
+      "value": {
+        "options": [],
+        "question": "আকাশ অনেক _____।",
+        "solution": "বিশাল",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745359,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745360,
+      "value": {
+        "options": [],
+        "question": "ঢাকা বাংলাদেশের _____।",
+        "solution": "প্রাণকেন্দ্র",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745360,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745361,
+      "value": {
+        "options": [],
+        "question": "বিহারটির মাঝখানে কী কী আছে?",
+        "solution": "বিহারটি প্রায় ৪০ একর জায়গা জুড়ে লালচে মাটির ভূমিতে বিস্তৃত। এর মাঝে ২৭ একর জমির উপর বিশাল দালান নির্মিত। এ ছাড়াও বিহারটিতে রয়েছে পুকুর, কূপ, স্নানঘাট, স্নানঘর, রান্নাঘর, খাবারঘর ও টয়লেট।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745361,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745362,
+      "value": {
+        "options": [],
+        "question": "আবিষ্কার",
+        "solution": "বিজ্ঞানী আলেকজান্ডার গ্রাহাম বেল টেলিফোন আবিষ্কার করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745362,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745363,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুর বিহারটি কে নির্মাণ করেন এবং এটি কোথায় অবস্থিত?",
+        "solution": "পাহাড়পুর বিহারটি নির্মাণ করেন বৌদ্ধ ধর্মাবলম্বী রাজা দ্বিতীয় ধর্মপাল। এটি নওগাঁ জেলার বদলগাছি উপজেলার পাহাড়পুর গ্রামে অবস্থিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745364,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুর বৌদ্ধ বিহারের ভেতরের মন্দিরটির বর্ণনা দাও।",
+        "solution": "পাহাড়পুর বৌদ্ধ বিহারের ভেতরটায় বিশাল উঠানের মাঝখানে বড়ো এক সুন্দর মন্দির আছে। ধাপে ধাপে উঁচু করে মন্দিরটি বসানো হয়েছে। পোড়ামাটির দুই হাজার ফলকের চিত্র দিয়ে মন্দিরের বাইরে আর ভেতরে সাজানো।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745365,
+      "value": {
+        "options": [],
+        "question": "হলঘর",
+        "solution": "বড়ো ঘর।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745366,
+      "value": {
+        "options": [],
+        "question": "ভিক্ষু",
+        "solution": "বৌদ্ধদের মধ্যে যাঁরা সংসারত্যাগী সন্ন্যাসী (যাঁরা সংসার করেন না); তাঁদের পরনে থাকে গেরুয়া রঙের লম্বা কাপড়, মাথা থাকে মুড়ানো এবং চলাফেরা, খাওয়া-দাওয়া সবকিছুতেই থাকে আলাদা বৈশিষ্ট্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745366,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745367,
+      "value": {
+        "options": [],
+        "question": "স্তুপ",
+        "solution": "ঢিবি, ঢিবির মতো বৌদ্ধদের সমাধি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745367,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745368,
+      "value": {
+        "options": [],
+        "question": "দুর্লভ",
+        "solution": "যা সহজে লাভ করা যায় না বা পাওয়া যায় না।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745368,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745369,
+      "value": {
+        "options": [],
+        "question": "আমাদের দেশে _____ মঠ রয়েছে।",
+        "solution": "সুপ্রাচীন",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745369,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745370,
+      "value": {
+        "options": [],
+        "question": "জাদুঘরে অনেক _____ জিনিস দেখতে পাওয়া যায়।",
+        "solution": "দুর্লভ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745370,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745371,
+      "value": {
+        "options": {
+          "ক": "১৭৭৯ সালে",
+          "খ": "১৮৭৯ সালে",
+          "গ": "১৯৭৯ সালে",
+          "ঘ": "১৬৭৯ সালে"
+        },
+        "question": "আলেকজান্ডার কানিংহাম এই পুরাকীর্তি আবিষ্কার করেন কখন?",
+        "solution": "খ. ১৮৭৯ সালে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745371,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745372,
+      "value": {
+        "options": [],
+        "question": "বৌদ্ধ বিহারটির মাটি ও দেয়াল কোন রঙের এবং কী দিয়ে তৈরি?",
+        "solution": "বৌদ্ধ বিহারটির মাটি ও দেয়াল লালচে রঙের। দেয়ালের গায়ে পোড়ামাটি দিয়ে নানান রকম ফুল-ফল, পাখি, পুতুল, মূর্তি ইত্যাদি তৈরি করা হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745372,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745373,
+      "value": {
+        "options": [],
+        "question": "ভিক্ষু",
+        "solution": "বৌদ্ধ ভিক্ষুরা সংসার ত্যাগ করে বিভিন্ন স্থানে গিয়ে ধর্মচর্চা করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745373,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745374,
+      "value": {
+        "options": [],
+        "question": "প্রাণকেন্দ্র",
+        "solution": "ঢাকা বাংলাদেশের প্রাণকেন্দ্র।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745374,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745375,
+      "value": {
+        "options": [],
+        "question": "স্নানঘাট",
+        "solution": "আগেকার দিনে জমিদার বাড়িতে শান বাঁধানো স্নানঘাট থাকত।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745375,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745376,
+      "value": {
+        "options": [],
+        "question": "শৌচাগার",
+        "solution": "মলমূত্রাদি ত্যাগের জন্য ঘর।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745377,
+      "value": {
+        "options": [],
+        "question": "বিহার",
+        "solution": "বৌদ্ধ মঠ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745377,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745378,
+      "value": {
+        "options": [],
+        "question": "ধর্মচর্চা",
+        "solution": "অনেকেই ধর্মচর্চা করে মহামানব হয়েছেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745378,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745379,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুর বিহারের আরেক নাম কী এবং এর পাশের জাদুঘরে কী রাখা আছে?",
+        "solution": "পাহাড়পুর বিহারের আরেক নাম সোমপুর বিহার বা সোমপুর মহাবিহার। এর পাশে দেখার মতো একটা জাদুঘর আছে। এই জাদুঘরে সুন্দর করে সাজিয়ে রাখা আছে বিহার থেকে খনন করে পাওয়া অনেক পুরোনো আর দুর্লভ জিনিসপত্র।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745380,
+      "value": {
+        "options": [],
+        "question": "মূর্তি",
+        "solution": "প্রতিমা বা আকৃতি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745381,
+      "value": {
+        "options": [],
+        "question": "কূপ",
+        "solution": "কুয়া, গর্ত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745382,
+      "value": {
+        "options": [],
+        "question": "সুপ্রাচীন",
+        "solution": "পুরাতন (পুরোনো), বহুকাল আগের।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745382,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745383,
+      "value": {
+        "options": [],
+        "question": "বিশাল",
+        "solution": "অনেক বড়, প্রকান্ড, বিস্তীর্ণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745383,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745384,
+      "value": {
+        "options": [],
+        "question": "প্রাণকেন্দ্র",
+        "solution": "প্রধান জায়গা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745384,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745385,
+      "value": {
+        "options": [],
+        "question": "আবিষ্কার",
+        "solution": "উদ্ভাবন, নতুন কিছু তৈরি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745385,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745386,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুর ছাড়াও আমাদের দেশে আরও _____ রয়েছে।",
+        "solution": "বিহার",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745386,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745387,
+      "value": {
+        "options": [],
+        "question": "টেবিলের উপর ধুলোবালি পড়ে ময়লার _____ হয়ে আছে।",
+        "solution": "স্তূপ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745387,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745388,
+      "value": {
+        "options": {
+          "ক": "বৌদ্ধ বিহারে",
+          "খ": "পাহাড়পুরে",
+          "গ": "বদলগাছিতে",
+          "ঘ": "জামালপুরে"
+        },
+        "question": "বৌদ্ধ ধর্মের অনুসারী ভিক্ষুগণ থাকতেন কোথায়?",
+        "solution": "খ. পাহাড়পুরে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745388,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745389,
+      "value": {
+        "options": {
+          "ক": "৫০ একর জুড়ে",
+          "খ": "৪০ একর জুড়ে",
+          "গ": "৬০ একর জুড়ে",
+          "ঘ": "৩০ একর জুড়ে"
+        },
+        "question": "বিহার এলাকাটি বিস্তৃত কত একর জুড়ে?",
+        "solution": "খ. ৪০ একর জুড়ে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745389,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745390,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুর নামটা কীভাবে হলো?",
+        "solution": "প্রায় ১৪শ বছর আগে বৌদ্ধ ধর্মের অনুসারী ভিক্ষুগণ পাহাড়পুরে থাকতেন। সেখানে থেকে তাঁরা ধর্মচর্চা করতেন আর শিষ্যদের শিক্ষা দিতেন। কিন্তু প্রাচীন এ বিহার এক সময় খালি পড়ে ছিল। অনেকে মনে করেন যুগ যুগ ধরে উড়ে আসা ধুলাবালি ও মাটি এটির চারদিকে জমতে জমতে এক সময় এটি মাটির স্তূপে ঢাকা পড়ে পাহাড়ের মতো হয়ে যায়। এভাবেই এটির নামকরণ হয় পাহাড়পুর।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745390,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745391,
+      "value": {
+        "options": [],
+        "question": "এখানে কত বছর আগে কারা থাকত?",
+        "solution": "এখানে প্রায় ১৪শ বছর আগে বৌদ্ধ ধর্মের অনুসারী ভিক্ষুরা থাকতেন। আর এখানে থেকে তাঁরা নিজেদের ধর্মচর্চা করতেন এবং শিষ্যদের শিক্ষা দিতেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 745391,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 745392,
+      "value": {
+        "options": [],
+        "question": "বিহার কী?",
+        "solution": "প্রায় ১৪শ বছর আগে বৌদ্ধ ধর্মের অনুসারী ভিক্ষুগণ কোনো বিশেষ একটা জায়গায় থাকতেন। সেখানে তাঁরা নিজেদের ধর্মচর্চা করতেন আর শিষ্যদের শিক্ষা দিতেন। এ রকম জায়গার নাম বিহার।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745393,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুর সম্পর্কে বর্ণনা দাও।",
+        "solution": "সোমপুর মহাবিহার বা পাহাড়পুর বিহারটি নওগাঁ জেলার বদলগাছি উপজেলার পাহাড়পুর গ্রামে অবস্থিত। বিহার এলাকাটি প্রায় ৪০ একর জায়গাজুড়ে লালচে মাটির ভূমিতে বিস্তৃত। ২৭ একর জমির উপর এর বিশাল দালান। উত্তর-দক্ষিণে এটি ৯২২ ফুট আর পূর্ব-পশ্চিমে ৯১৯ ফুট বিস্তৃত। এটি বৌদ্ধ ধর্মাবলম্বী রাজা দ্বিতীয় ধর্মপাল প্রায় ১২শ বছর আগে নির্মাণ করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745394,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুর বিহারের ভেতরের বা মূল অংশের বর্ণনা দাও।",
+        "solution": "পাহাড়পুর বিহারের ভেতরে বা মূল অংশে একদম নিচে মাটির অংশে এটি চারকোনা আকারের। বাইরের দেওয়ালের গায়ে পোড়ামাটি দিয়ে নানান রকম ফুল-ফল, পাখি, পুতুল, মূর্তি ইত্যাদি বানানো আছে। উত্তর দিকের ঠিক মাঝখানে মূল দরজা। তার পরেই বড়ো হলঘর। পাশে দুটি ছোটো হলঘর। চারদিকে দেওয়ালের ভেতরে সুন্দর সারি বাঁধা ১৭৭টি ছোটো ঘর। সামনে দিয়ে আছে লম্বা বারান্দা। বিহারটিতে আছে পুকুর, কূপ, স্নানঘাট, স্নানঘর, রান্নাঘর, খাবারঘর ও শৌচাগার। সব মিলিয়ে বিহারটিতে ৮০০ মানুষের থাকার ব্যবস্থা ছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745395,
+      "value": {
+        "options": [],
+        "question": "শিষ্য",
+        "solution": "ছাত্র।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745396,
+      "value": {
+        "options": [],
+        "question": "ফলক",
+        "solution": "পাটার মতো চওড়া।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745397,
+      "value": {
+        "options": [],
+        "question": "চারদিকে দেওয়ালের ভিতরে সুন্দর সারি বাঁধা _____ ছোটো ঘর।",
+        "solution": "১৭৭টি",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745398,
+      "value": {
+        "options": [],
+        "question": "পূর্বে",
+        "solution": "পশ্চিমে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745399,
+      "value": {
+        "options": [],
+        "question": "ভালো",
+        "solution": "মন্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745400,
+      "value": {
+        "options": [],
+        "question": "বড়ো",
+        "solution": "ছোটো",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745401,
+      "value": {
+        "options": [],
+        "question": "ভালো",
+        "solution": "উত্তম",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745402,
+      "value": {
+        "options": [],
+        "question": "মূল",
+        "solution": "শিকড়",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745403,
+      "value": {
+        "options": [],
+        "question": "শিষ্য",
+        "solution": "শিক্ষাগুরু শিষ্যকে বিনয়ী হওয়ার উপদেশ দিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745404,
+      "value": {
+        "options": [],
+        "question": "ধর্মচর্চা",
+        "solution": "ধর্মগুরু শিষ্যদের ধর্মচর্চা করার পরামর্শ দিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745405,
+      "value": {
+        "options": {
+          "ক": "উড়ে আসা ধুলা ও মাটিতে স্তূপ হওয়ায়",
+          "খ": "পাহাড়ের উপরে অবস্থান হওয়ায়",
+          "গ": "চারপাশে উঁচু পাহাড় থাকায়",
+          "ঘ": "পাহাড়ের কোলে বিহারটি তৈরি হওয়ায়"
+        },
+        "question": "পাহাড়পুর বিহারের এমন নাম হওয়ার কারণ কী?",
+        "solution": "ক. উড়ে আসা ধুলা ও মাটিতে স্তূপ হওয়ায়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745406,
+      "value": {
+        "options": {
+          "ক": "১৮৭৯ সালে",
+          "খ": "১৮৬৯ সালে",
+          "গ": "১৮৮৯ সালে",
+          "ঘ": "১৯৭৯ সালে"
+        },
+        "question": "আলেকজান্ডার কানিংহাম সোমপুর বিহার আবিষ্কার করেন কত সালে?",
+        "solution": "ক. ১৮৭৯ সালে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745407,
+      "value": {
+        "options": {
+          "ক": "সোমপুর বিহার",
+          "খ": "শালবন বিহার",
+          "গ": "ময়নামতি বিহার",
+          "ঘ": "নওগাঁ বিহার"
+        },
+        "question": "পাহাড়পুর বিহারের আরেক নাম কী?",
+        "solution": "ক. সোমপুর বিহার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745408,
+      "value": {
+        "options": [],
+        "question": "ন্ত",
+        "solution": "ন্&zwnj;+ত -&nbsp;বসন্তকাল",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745409,
+      "value": {
+        "options": [],
+        "question": "ক্ষ",
+        "solution": "ক্+ষ - ক্ষমা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745410,
+      "value": {
+        "options": [],
+        "question": "ল্ল",
+        "solution": "ল্+ল - কেল্লা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745411,
+      "value": {
+        "options": [],
+        "question": "যাঁর অনেক খ্যাতি রয়েছে",
+        "solution": "বিখ্যাত",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745412,
+      "value": {
+        "options": [],
+        "question": "চারদিকে কোনো পাহাড় নেই, কিন্তু জায়গার নাম _____।",
+        "solution": "পাহাড়পুর",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745413,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুর বিহারের পাশে আছে দেখার মতো একটা _____।",
+        "solution": "জাদুঘর",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745414,
+      "value": {
+        "options": [],
+        "question": "নিচে",
+        "solution": "উপরে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745415,
+      "value": {
+        "options": [],
+        "question": "বিশাল",
+        "solution": "প্রকান্ড",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745416,
+      "value": {
+        "options": [],
+        "question": "বিহার",
+        "solution": "পাহাড়পুর বিহারটি বাংলার সুপ্রাচীন বৌদ্ধ বিহার।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745417,
+      "value": {
+        "options": [],
+        "question": "বিস্তৃত",
+        "solution": "দিগন্তবিস্তৃত ফসলের খেত দেখে আমি মুগ্ধ হয়ে গেলাম।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745418,
+      "value": {
+        "options": [],
+        "question": "চারদিকে কোনো পাহাড় নেই কিন্তু জায়গার নাম পাহাড়পুর এটি বাংলাদেশের এমনকি বিশ্বের একটি বিখ্যাত জায়গা কিন্তু এর সম্পর্কে সবাই খুব ভালো জানে না",
+        "solution": "চারদিকে কোনো পাহাড় নেই, কিন্তু জায়গার নাম পাহাড়পুর। এটি বাংলাদেশের, এমনকি বিশ্বের একটি বিখ্যাত জায়গা। কিন্তু এর সম্পর্কে সবাই খুব ভালো জানে না।",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745419,
+      "value": {
+        "options": {
+          "ক": "দক্ষিণ দিকে",
+          "খ": "পশ্চিম দিকে",
+          "গ": "পূর্ব দিকে",
+          "ঘ": "উত্তর দিকে"
+        },
+        "question": "বিহারের মূল দরজা কোন দিকে?",
+        "solution": "ঘ. উত্তর দিকে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745420,
+      "value": {
+        "options": [],
+        "question": "ধর্মবিষয়ে জ্ঞান লাভ ও অনুশীলন করা",
+        "solution": "ধর্মচর্চা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745421,
+      "value": {
+        "options": [],
+        "question": "_____&nbsp;দিকের ঠিক মাঝখানে মূল দরজা।",
+        "solution": "উত্তর",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745422,
+      "value": {
+        "options": [],
+        "question": "খালি",
+        "solution": "ভরা/পূর্ণ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745423,
+      "value": {
+        "options": [],
+        "question": "উত্তর",
+        "solution": "দক্ষিণ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745424,
+      "value": {
+        "options": [],
+        "question": "বিখ্যাত",
+        "solution": "প্রখ্যাত",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745425,
+      "value": {
+        "options": {
+          "ক": "২৭ একর",
+          "খ": "২৮ একর",
+          "গ": "২৯ একর",
+          "ঘ": "৩০ একর"
+        },
+        "question": "কত একর জমির উপর বিহারের বিশাল দালান?",
+        "solution": "ক. ২৭ একর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745426,
+      "value": {
+        "options": [],
+        "question": "ম্প",
+        "solution": "ম্+প - ভূমিকম্প",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745427,
+      "value": {
+        "options": [],
+        "question": "দ্ধ",
+        "solution": "দ্&zwnj;+ধ - যুদ্ধ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745428,
+      "value": {
+        "options": [],
+        "question": "বহুকাল আগের এমন",
+        "solution": "সুপ্রাচীন",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745429,
+      "value": {
+        "options": [],
+        "question": "কোনোকিছুর প্রধান জায়গা",
+        "solution": "প্রাণকেন্দ্র",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745430,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুর বিহারের আরেক নাম _____।",
+        "solution": "সোমপুর বিহার",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745431,
+      "value": {
+        "options": [],
+        "question": "সোমপুর বিহারটি _____ জেলায় অবস্থিত।",
+        "solution": "নওগাঁ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745432,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুর ছিল _____ প্রাণকেন্দ্র।",
+        "solution": "উচ্চশিক্ষার",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745433,
+      "value": {
+        "options": [],
+        "question": "লম্বা",
+        "solution": "খাটো",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745434,
+      "value": {
+        "options": [],
+        "question": "দুনিয়া",
+        "solution": "পৃথিবী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745435,
+      "value": {
+        "options": [],
+        "question": "শিষ্য",
+        "solution": "ছাত্র",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745436,
+      "value": {
+        "options": [],
+        "question": "বড়ো",
+        "solution": "বিশাল",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745437,
+      "value": {
+        "options": [],
+        "question": "পুরাকীর্তি",
+        "solution": "আলেকজান্ডার কানিংহাম এক বিশাল পুরাকীর্তি আবিষ্কার করেন, যার নাম পাহাড়পুর বিহার।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745438,
+      "value": {
+        "options": [],
+        "question": "ভিক্ষু",
+        "solution": "বৌদ্ধ ভিক্ষুগণ বিহারে থাকতেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745439,
+      "value": {
+        "options": [],
+        "question": "মন্দির",
+        "solution": "আমাদের গ্রামে সুন্দর ও প্রাচীন একটি মন্দির আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745440,
+      "value": {
+        "options": {
+          "ক": "বিদ্যালয়ে",
+          "খ": "পাঠশালায়",
+          "গ": "বিহারে",
+          "ঘ": "মন্দিরে"
+        },
+        "question": "ভিক্ষুগণ কোথায় শিষ্যদের শিক্ষা দিতেন?",
+        "solution": "গ. বিহারে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745441,
+      "value": {
+        "options": {
+          "ক": "১৬৬টি ছোটো ঘর",
+          "খ": "১০৭৭টি ছোটো ঘর",
+          "গ": "১০৬৬টি ছোটো ঘর",
+          "ঘ": "১৭৭টি ছোটো ঘর"
+        },
+        "question": "সোমপুর বিহারে কতটি ছোটো ঘর ছিল?",
+        "solution": "ঘ. ১৭৭টি ছোটো ঘর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745442,
+      "value": {
+        "options": {
+          "ক": "দ্বিতীয় ধর্মপাল",
+          "খ": "প্রথম ধর্মপাল",
+          "গ": "প্রথম মহীপাল",
+          "ঘ": "দ্বিতীয় মহীপাল"
+        },
+        "question": "পাহাড়পুর বিহার নির্মাণ করেন কে?",
+        "solution": "ক. দ্বিতীয় ধর্মপাল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745443,
+      "value": {
+        "options": {
+          "ক": "শৌচাগার, খাবারঘর, প্রসাধনঘর",
+          "খ": "রান্নাঘর, খাবারঘর, প্রাসাদঘর",
+          "গ": "স্নানঘর, রান্নাঘর, শৌচাগার",
+          "ঘ": "হলঘর, স্নানঘাট, গির্জাঘর"
+        },
+        "question": "বিহারটিতে কী কী ছিল?",
+        "solution": "গ. স্নানঘর, রান্নাঘর, শৌচাগার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745444,
+      "value": {
+        "options": {
+          "ক": "আলোবতীর ঘাট",
+          "খ": "সন্ধ্যাবতীর ঘাট",
+          "গ": "সাঁঝবতীর ঘাট",
+          "ঘ": "মায়াবতীর ঘাট"
+        },
+        "question": "বিহারের পূর্ব-দক্ষিণ কোণের ঘাটের নাম কী?",
+        "solution": "খ. সন্ধ্যাবতীর ঘাট",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745445,
+      "value": {
+        "options": [],
+        "question": "ন্ড",
+        "solution": "ন্&zwnj;+ড - আলেকজান্ডার",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745446,
+      "value": {
+        "options": [],
+        "question": "ষ্ক",
+        "solution": "ষ্&zwnj;+ক - পরিষ্কার",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745447,
+      "value": {
+        "options": [],
+        "question": "যারা সংসার ত্যাগী সন্ন্যাসী",
+        "solution": "ভিক্ষু",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745448,
+      "value": {
+        "options": [],
+        "question": "সহজে লাভ করা যায় না যা",
+        "solution": "দুর্লভ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745449,
+      "value": {
+        "options": [],
+        "question": "স্নান করা হয় যে ঘাটে",
+        "solution": "স্নানঘাট",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-11-27T06:40:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 166601,
+      "value": {
+        "options": {
+          "a": "নওগাঁ",
+          "b": "বদলগাছি",
+          "c": "ঢাকা",
+          "d": "চট্টগ্রাম"
+        },
+        "question": "পাহাড়পুর কোথায় অবস্থিত?",
+        "chapter_id": "1351",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-08-02T13:23:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 166602,
+      "value": {
+        "options": {
+          "a": "এটি একটি মসজিদ",
+          "b": "এটি একটি বৌদ্ধ বিহার",
+          "c": "এটি একটি গ্রামীণ জাদুঘর",
+          "d": "এটি একটি রাজপ্রাসাদ"
+        },
+        "question": "পাহাড়পুরের বিহারের একটি বিশেষত্ব কী?",
+        "chapter_id": "1351",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-08-02T13:23:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 166603,
+      "value": {
+        "options": {
+          "a": "রাজা শিব",
+          "b": "রাজা দী ধর্মপাল",
+          "c": "রাজা এলাহাবাদ",
+          "d": "রাজা জাহাঙ্গীর"
+        },
+        "question": "পাহাড়পুর বিহারটি কোন রাজা নির্মাণ করেছিলেন?",
+        "chapter_id": "1351",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-08-02T13:23:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 166604,
+      "value": {
+        "options": {
+          "a": "৫ একর",
+          "b": "১০ একর",
+          "c": "২৭ একর",
+          "d": "৫০ একর"
+        },
+        "question": "পাহাড়পুর বিহারটি কত একর জমির উপর বিস্তৃত?",
+        "chapter_id": "1351",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-08-02T13:23:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105044,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): পাহাড়পুরের বিহারটি কবে এবং কেন নির্মিত হয়েছিল?",
+          "খ": "(অনুধাবন): পাহাড়পুরের বিহারের অবস্থা কেমন ছিল?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): পাহাড়পুরের বিহারটি কোন দিক থেকে গুরুত্বপূর্ণ?",
+          "ঘ": "(মূল্যায়ন/সৃজন): পাহাড়পুরের ঐতিহাসিক গুরুত্ব সম্পর্কে কী বলবে?"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\nপাহাড়পুর বাংলাদেশের একটি বিখ্যাত বৌদ্ধ বিহার। এটি প্রায় ১৪শ বছর আগে নির্মিত হয়েছিল এবং সম্প্রতি আবিষ্কৃত হয়েছে। বিহারটির বিশেষ বৈশিষ্ট্য ও ইতিহাস রয়েছে।",
+        "solution": "সমাধান:\n\nউত্তর প্রদানের পদ্ধতি (Answer approach):\n1. প্রদত্ত উদ্দীপক থেকে সরাসরি পাওয়া তথ্য আলাদা করা — (উদাহরণ: বিহারটি প্রায় ১৪শ বছর আগে নির্মিত এবং সম্প্রতি আবিষ্কৃত)।\n2. ঐতিহাসিক ও পুরাতাত্ত্বিক প্রেক্ষাপট বিবেচনা করা — পল রাজবংশের যুগে বাংলাদেশের বিখ্যাত বৌদ্ধ বিহারসমূহ স্থাপন করা হত; খনিজ ও খণ্ডাংশ থেকে নির্মাণকাল ও কার্যকারিতা নিরূপণ করা যায়।\n3. উপলব্ধ প্রত্নতাত্ত্বিক ও ঐতিহাসিক তথ্যকে যুক্তি সহ ব্যাখ্যা করা — অবস্থা, গুরুত্ব ও মূল্যায়ন নির্ধারণ করা।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (জ্ঞানমূলক): পাহাড়পুরের বিহারটি কবে এবং কেন নির্মিত হয়েছিল?\n- সংক্ষিপ্ত উত্তর: পাহাড়পুর (সোমপুর পল্লী/সোমপুরা মহাবিহার) সাম্ভবত সপ্তম–অষ্টম শতাব্দীর দিকে পল শাসকদের (বিশেষত ধর্মপাল-দেবপাল কালের) অধীনে নির্মিত হয়েছিল; প্রধানত বৌদ্ধ ধর্মীয় শিক্ষালয় ও বিশাল মঠ হিসেবে নির্মিত হয়েছিল।  \n- কার্যনিরূপণ ও যুক্তি: উদ্দীপকে বলা আছে প্রায় ১৪শ বছর আগে নির্মাণ—এটি পল যুগের সঙ্গে সামঞ্জস্যপূর্ণ। ঐ যুগে রাজারা বৌদ্ধ অধ্যয়ন ও সম্পর্কিত সংস্কৃতি প্রসারে মহাবিহার প্রতিষ্ঠা করতেন; বরকতে তৎকালীন হানিকর বহিরাগত আক্রমণ, ভৌগোলিক ও অর্থনৈতিক কেন্দ্র হিসেবে কাজ করত। প্রত্নস্থল ও মুদ্রা, স্থাপত্যশৈলী ও চিত্রশিল্প থেকে এই সিদ্ধান্ত সমর্থিত হয়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (অনুধাবন): পাহাড়পুরের বিহারের অবস্থা কেমন ছিল?\n- সংক্ষিপ্ত উত্তর: মূলত এটি অত্যন্ত বিস্তীর্ণ ও সুসজ্জিত মহাবিহার ছিল; পরে বড় অংশ ধ্বংস হয়ে ধ্বংসাবশেষ হিসেবে রয়ে গেছে; বর্তমানে এটি প্রত্নতাত্ত্বিক নিদর্শন ও সংরক্ষিত ধ্বংসাবশেষ হিসেবে প্রকাশ্যে আছে।  \n- ব্যাখ্যা ও প্রমাণ: ঐতিহাসিক বর্ণনা ও খননকাজে পাওয়া বুদ্ধ-মূর্তি, ইটের নির্মাণ, কক্ষপথ, কেন্দ্রীয় স্তূপ ইত্যাদি দেখায় বিহারটি রাজকীয় অনুদানে উন্নত প্রযুক্তিতে নির্মিত বড়ো প্রতিষ্ঠা ছিল। সময়ের অভিসার (আক্রমণ, প্রাকৃতিক ক্ষয়) ও উপযোগের পরিবর্তনে অবহেলায় ধ্বসিত হয়েছে। সাম্প্রতিক প্রত্নতাত্ত্বিক কাজ ও সংরক্ষণ কাজগুলোই এটিকে নতুনভাবে “আবিষ্কার” এবং সংরক্ষণ করেছে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বিশ্লেষণ/প্রয়োগ): পাহাড়পুরের বিহারটি কোন দিক থেকে গুরুত্বপূর্ণ?\n- বহুস্তর বিশ্লেষণ:\n  1. প্রত্নতাত্ত্বিক গুরুত্ব: বৌদ্ধ মঠের আকার, স্থাপত্যশৈলী ও নির্মাণপ্রক্রিয়া সম্পর্কে মূল্যবান তথ্য দেয়।  \n  2. ঐতিহাসিক-শিক্ষাগত গুরুত্ব: মধ্যযুগে এ অঞ্চলে বৌদ্ধ শিক্ষার কেন্দ্র হিসেবে কাজ করায় ধর্মীয় ও শিক্ষাসংস্কৃতির ইতিহাস উন্মোচন করে।  \n  3. সাংস্কৃতিক ও কুশল কলাম আধ্যয়ন: ভাস্কর্য, টেরাকোটা ও স্থাপত্যশৈলী থেকে কলাকৌশল ও স্থানীয়-আঞ্চলিক শিল্পের পর্যবেক্ষণ সম্ভব।  \n  4. পর্যটন ও অর্থনৈতিক গুরুত্ব: বিশ্বঐতিহ্য হিসেবে দর্শনীয় ও জাতীয় পর্যটনকে সহায়ক।  \n- যুক্তি: এসব দিকগুলো মিলিয়ে দেখা যায় এটি কেবল স্থানীয় নয়, অঞ্চলগত ও আন্তর্জাতিক বৌদ্ধ যোগাযোগ ও শিক্ষাবহুল কেন্দ্রের সাক্ষ্য।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মূল্যায়ন/সৃজন): পাহাড়পুরের ঐতিহাসিক গুরুত্ব সম্পর্কে কী বলবে?\n- মূল্যায়ন ও উপসংহার:\n  1. ঐতিহাসিক প্রাসঙ্গিকতা: পাহাড়পুর বাংলাদেশের মধ্যযুগীয় বৌদ্ধকালীন ঐতিহ্যের প্রাণকেন্দ্র; এটি ধর্ম, শিক্ষা ও রাজকীয় পৃষ্ঠপোষকতার সুস্পষ্ট দৃষ্টান্ত।  \n  2. বৈশ্বিক গুরুত্ব: সাইটটিUNESCO বিশ্ব ঐতিহ্যে অন্তর্ভুক্ত হওয়ার মতো (প্রত্ন-সাংস্কৃতিক মান রয়েছে), ফলে এর সংরক্ষণ ও গবেষণা আন্তর্জাতিক ঐতিহ্যের অংশ।  \n  3. সংরক্ষণীয়তা ও সামাজিক ব্যবহার: স্থানীয় জনগোষ্ঠী ও রাষ্ট্রীয় নীতি মিলিয়ে যথাযথ সংরক্ষণ, নিয়ন্ত্রিত পর্যটন ও গবেষণার মাধ্যমে ঐতিহাসিক শিক্ষাকে জীবিত রাখা জরুরি।  \n  4. প্রস্তাবনামূলক সিদ্ধান্ত: আরও বিস্তারিত খনন, স্থাপত্য পুনর্নির্মাণ না করলে, তবে স্থিতিশীল সংরক্ষণ, তথ্যপ্রচারণা ও সামাজিক-শিক্ষামূলক কার্যক্রম বাড়ানো উচিত—এর ফলে ঐতিহাসিক গুরুত্ব বজায় থাকবে এবং জনগণের মধ্যে ঐতিহ্যের চেতনা বৃদ্ধি পাবে।  \n\nসংক্ষেপে: প্রদত্ত তথ্য ও সাধারণ ঐতিহাসিক জ্ঞান অনুযায়ী পাহাড়পুর (সোমপুর) মহাবিহার প্রাচীন (পল যুগ), বৃহৎ বৌদ্ধ শিক্ষা ও ধর্মকেন্দ্র হিসেবে প্রতিষ্ঠিত ছিল; পরে ধ্বংসপ্রাপ্ত হলেও প্রত্নকর্মে তা পুনরায় উদঘাটিত ও সংরক্ষিত হয়েছে এবং ঐতিহাসিক, প্রত্নতাত্ত্বিক ও সাংস্কৃতিক দিক থেকে অতি গুরুত্বপূর্ণ।",
+        "chapter_id": "1351",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পাহাড়পুরের বিহার প্রায় ১৪শ বছর আগে নির্মিত — অর্থাৎ প্রায় সপ্তম শতাব্দীতে — এবং এটি বৌদ্ধ ভিক্ষুদের বসবাস, শিক্ষা ও ধর্মীয় আচরণকেন্দ্র হিসেবে নির্মিত হয়েছিল; তাই এটি ধর্মীয় ও শিক্ষাগত উদ্দেশ্যেই গড়া ছিল।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E আবিষ্কনের পর দেখা গেছে বিহারটির ধ্বংসাবশিষ্ট, স্তূপ, মূর্তি ও ভিত্তি রয়েছে; সময়ের ধরলে অনেক অংশ নষ্ট হলেও প্রত্নতাত্ত্বিক নিদর্শন স্পষ্টভাবে রয়ে গেছে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাহাড়পুর গুরুত্বপূর্ণ কারণ এটি প্রাচীন বৌদ্ধিক জীবনের কেন্দ্র এবং স্থাপত্য, শিল্পকলা ও শিক্ষার ইতিহাস বোঝাতে সাহায্য করে; প্রত্নতাত্ত্বিকভাবে এটি অঞ্চলের সামাজিক ও ধর্মীয় বিবর্তন বিশ্লেষণের জন্য মূল্যবান সূত্র।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ঐতিহাসিক দিক থেকে পাহাড়পুর উপমহাদেশে বৌদ্ধ ধর্মের প্রসার ও প্রাচীন শিক্ষার প্রতীক; এটি স্থানীয় পরিচয়, ইতিহাস শিক্ষা ও সাংস্কৃতিক ঐতিহ্য সংরক্ষণের জন্য গুরুত্বপুর্ণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-16T03:53:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105045,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): পাহাড়পুরের বিহারটি কবে এবং কেন নির্মিত হয়েছিল?",
+          "খ": "(অনুধাবন): পাহাড়পুরের বিহারের অবস্থা কেমন ছিল?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): পাহাড়পুরের বিহারটি কোন দিক থেকে গুরুত্বপূর্ণ?",
+          "ঘ": "(মূল্যায়ন/সৃজন): পাহাড়পুরের ঐতিহাসিক গুরুত্ব সম্পর্কে কী বলবে?"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\nপাহাড়পুর বাংলাদেশের একটি বিখ্যাত বৌদ্ধ বিহার। এটি প্রায় ১৪শ বছর আগে নির্মিত হয়েছিল এবং সম্প্রতি আবিষ্কৃত হয়েছে। বিহারটির বিশেষ বৈশিষ্ট্য ও ইতিহাস রয়েছে।",
+        "solution": "সমাধান:\n\nউত্তর প্রদানের পদ্ধতি: প্রতিটি অংশে প্রথমে প্রাসঙ্গিক তথ্য নির্ধারণ করব (প্রশ্নবোধ ও উদ্দীপকের উপাদান অনুযায়ী), তারপর ঐতিহাসিক ও প্রত্নতাত্ত্বিক যুক্তি দিয়ে সংক্ষেপে বিশ্লেষণ ও উপসংহার দেব।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রায় কবে এবং কেন নির্মিত হয়েছিল?\n- উত্তরসংকল্প: উদ্দীপকে বলা হয়েছে তা প্রায় ১৪শ বছর আগে নির্মিত—অর্থাৎ প্রাচীন যুগে একটি বৌদ্ধ বিহার হিসেবে প্রতিষ্ঠিত ছিল।  \n- কারণ/উদ্দেশ্য: বিহারটি মূলত বৌদ্ধ ভিক্ষু ও শিক্ষার্থীদের বসবাস, উপাসনা ও অধ্যয়নের জন্য নির্মিত হয়েছিল। পাশাপাশি এমন বড় বিহারগুলো প্রায়শই ধর্মীয় প্রচারণা, শিক্ষা কেন্দ্র হিসেবে কাজ করত এবং রাজপরম্পরার পৃষ্ঠপোষকতায় ধর্মীয় ও সাংস্কৃতিক কার্যক্রমের কেন্দ্র হিসেবে ব্যবহৃত হতো।  \n- যুক্তির ব্যাখ্যা: বড় আকারের বিহার থাকলে সেখানে স্তূপ, পরিষদকক্ষ, শিক্ষাগৃহ ও আবাসঘর থাকত—এইসব উপাদান দেখায় যে নির্মাণের প্রাথমিক উদ্দেশ্য ছিল ধর্মীয় ও শিক্ষাগত কার্যক্রমকে সুষ্ঠু ভাবেই চালানো।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বিহারের অবস্থা কেমন ছিল?\n- পর্যবেক্ষণ ও বিশ্লেষণ: উদ্দীপকে উল্লেখ আছে ‘সম্প্রতি আবিষ্কৃত’—এ থেকে বোঝা যায় বিহারটি দীর্ঘ সময় খণ্ডিত ও মলিন অবস্থায় ছিল। প্রত্নতাত্ত্বিক খননে ভিত্তি, দেয়ালভাঙা অংশ, মাটির অলঙ্করণ বা ভগ্নাবশেষ ইত্যাদি পাওয়া যায়।  \n- মূল্যায়ন: সময় ও প্রাকৃতিক প্রক্রিয়া, মানবীয় কার্যকলাপ ও অবহেলার কারণে মূল স্থাপত্য ভগ্ন অবস্থায় পড়ে থাকতে পারে; একই সঙ্গে খননে পাওয়া ধাপ, প্ল্যান ও নিদর্শনগুলো থেকে স্থাপত্য ও জীবনধারার ভালো ধারণা পাওয়া যায়। বর্তমানে প্রত্নতত্ত্ব ও সংরক্ষণের মাধ্যমে কিছু অংশ সংরক্ষিত বা উদ্ধার করা হয়েছে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কোন দিক থেকে গুরুত্বপূর্ণ?\n- কয়েকটি প্রধান দিক:  \n  1) প্রত্নতাত্ত্বিক ও ঐতিহাসিক গুরুত্ব — প্রাচীন ধর্মীয় কেন্দ্র হিসেবে সমাজ, রাজনীতি ও ধর্মীয় অনুশীলনের চিত্র দেয়।  \n  2) স্থাপত্য ও শিল্পকলা — বিহারের নির্মাণশৈলী, সজ্জা ও নির্মাণপ্রণালী থেকে সময়ের স্থাপত্যজ্ঞান ও শৈল্পিক উৎকর্ষের তথ্য মেলে।  \n  3) সাংস্কৃতিক-শিক্ষা কেন্দ্র — বিহারগুলো প্রাচীন শিক্ষালয় হওয়ায় শিক্ষাবিকাশ ও বৌদ্ধ দর্শনের বিস্তারের চিহ্ন বহন করে।  \n  4) পর্যটন ও জাতীয় ঐতিহ্য — স্থানীয় অর্থনীতি ও সাংস্কৃতিক পরিচয়ের জন্য গুরুত্বপূর্ণ সম্পদ।  \n- সংক্ষিপ্ত যুক্তি: এই সব কারণে পাহাড়পুরের বিহার জাতীয় ও আন্তর্জাতিক পর্যায়ে গবেষণা, শিক্ষা ও সংরক্ষণের দিক থেকে মূল্যবান।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পাহাড়পুরের ঐতিহাসিক গুরুত্ব সম্পর্কে কী বলবে?\n- মূল্যায়ন/সৃজন: পাহাড়পুরের বিহার একটি বহুমাত্রিক ঐতিহাসিক সম্পদ—এটি কেবল ধর্মীয় প্রতিষ্ঠানই নয়, বরং প্রাচীন সমাজের শিক্ষাব্যবস্থা, স্থাপত্যশৈলী, শিল্পকলার স্তর এবং আঞ্চলিক ও আন্তঃসাম্প্রদায়িক যোগাযোগের সাক্ষী।  \n- উপসংহার ও সুপারিশ: এর ঐতিহাসিক গুরুত্ব রক্ষায় নিয়মিত প্রত্নতাত্ত্বিক খনন, সুচারু সংরক্ষণকর্ম, কনটেক্সট-বিস্তারিত গবেষণা এবং স্থানীয়দের সঙ্গে এর ব্যবহারে সচেতনতা বাড়ানো উচিত। ঐতিহ্য রক্ষায় এগুলো অপরিহার্য এবং শেখা-শেয়ারিংয়ের জন্য আন্তর্জাতিক সহযোগিতাও লাভজনক হবে।",
+        "chapter_id": "1351",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পাহাড়পুরের বিহারটি প্রায় সপ্তম-অষ্টম শতককে, পাল রাজাদের সময়ে বৌদ্ধ ধর্মীয় শিক্ষার ও সাধনার কেন্দ্র হিসেবে নির্মিত হয়েছিল; তাই প্রশ্নে বলা “প্রায় ১৪শ বছর” সময়সীমা মেলে এবং নির্মানের কারণ ছিল ধর্মীয়-শিক্ষাগত কেন্দ্র গড়া। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বিহারটির অবস্থা ছিল ধ্বংসাবশেষের আকারে—বৃহৎ আকারের মন্দির, কক্ষ ও ভিত্তি ধ্বংসপ্রাপ্ত ছিল; পরে প্রত্নতাত্ত্বিক খনন করে ধাঁচ ও অলঙ্কারিক নিদর্শন উদ্ধার ও সংরক্ষণ করা হয়েছে। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাহাড়পুরের গুরুত্ব ছিল ঐতিহাসিক এবং প্রত্নতাত্ত্বিক—এটি বৌদ্ধ শিক্ষাব্যবস্থা, পাল স্থাপত্যশৈলী ও দক্ষিণ এশিয়ার ধর্মীয়-সংস্কৃতিক বিনিময়ের গুরুত্বপূর্ণ প্রমাণ দেয়, তাই গবেষণা ও শিক্ষা উভয়ের জন্য গুরুত্বপূর্ণ। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পাহাড়পুরের ঐতিহাসিক গুরুত্ব অনন্য, কারণ এটি মধ্যযুগীয় বৌদ্ধ সভ্যতা, শিল্প ও শিক্ষাব্যবস্থার জ্বলন্ত সাক্ষ্য; তাই এটি সংরক্ষণ ও অধ্যয়নের জন্য মূল্যায়ন করা উচিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-16T03:53:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105033,
+      "value": {
+        "options": {
+          "a": "হিন্দু",
+          "b": "বৌদ্ধ",
+          "c": "খ্রিস্টান",
+          "d": "মুসলমান"
+        },
+        "question": "পাহাড়পুর বিহারটি কোন ধর্মের অনুসারীদের জন্য নির্মিত হয়েছিল?",
+        "solution": "সমাধান:\nপাহাড়পুর বিহার (সোমপুর মহাবিহার) পাল সাম্রাজ্যের সময় প্রতিষ্ঠিত একটি বৃহৎ বৌদ্ধ বিহার ছিল, যেখানে ভিক্ষুদের জন্য উপাসনা ও শিক্ষা চলত। ঐতিহাসিক ও প্রত্নতাত্ত্বিক প্রমাণ থেকে এটি স্পষ্ট যে এটি বৌদ্ধদের ধর্মীয় ও শাস্ত্রীয় কার্যক্রমের কেন্দ্র ছিল। সুতরাং সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E। অন্য বিকল্পগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (হিন্দু), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (খ্রিস্টান) ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মুসলমান) প্রযোজ্য নয় কারণ বিহারটি বিশেষভাবে বৌদ্ধ মঠ হিসেবে নির্মিত করা হয়েছিল।",
+        "chapter_id": "1351",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-16T03:52:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 105034,
+      "value": {
+        "options": {
+          "a": "ময়নামতি বিহার",
+          "b": "পাহাড়পুর বিহার",
+          "c": "সোমপুর বিহার",
+          "d": "শালবান বিহার"
+        },
+        "question": "কোন বিহারটি ১৮৭৯ সালে আবিষ্কৃত হয়?",
+        "solution": "সমাধান: পাহাড়পুর বিহার (সোমপুর মহাবিহার) ১৮৭৯ সালে ব্রিটিশ পুরাতাত্ত্বিক অনুসন্ধানে আবিষ্কৃত হয়েছিল এবং এটি সেই বছরের পরিচিত বৃহৎ বৌদ্ধ মহাবিহার হিসেবে ইতিহাসে উল্লেখিত। অন্যান্য বিকল্পগুলো যেমন ময়নামতি, সোমপুর (এখানে সোমপুর শব্দটি বিকল্প (c) হিসাবে আছে কিন্তু সাধারণত সোমপুরকে একই নামে বিবেচনা করা যায় না) এবং শালবান ভিন্ন সময়ে বা ভিন্ন প্রাচীন নিদর্শনে খুঁজে পাওয়া গেছে, তাই সঠিক উত্তর হচ্ছে b: পাহাড়পুর বিহার।",
+        "chapter_id": "1351",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-16T03:52:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56686,
+      "value": {
+        "options": {
+          "a": "সোমপুর বিহার",
+          "b": "ময়নামতি",
+          "c": "বিহারগঞ্জ",
+          "d": "নওগাঁ"
+        },
+        "question": "পাহাড়পুরের আরেক নাম কী?",
+        "solution": "সমাধান:\nধাপ ১: ইতিহাসগতভাবে পাহাড়পুরের পূর্ণ নাম হলো সোমপুর বিহার বা Somapura Mahavihara, যা পাল রাজবংশের সময় নির্মিত বিখ্যাত বৌদ্ধ বিহার।  \nধাপ ২: প্রদত্ত অপশনের মধ্যে শুধুমাত্র \"সোমপুর বিহার\" (option a) এই ঐতিহাসিক নামের সাথে মিলে যায়।  \nঅতএব সঠিক উত্তর: a। \n\nব্যাখ্যা: বাকি অপশনগুলো ভুল কারণ ময়নামতি একটি আলাদা স্থা্ন (কুমিল্লা), বিহারগঞ্জ ও নওগাঁও ভিন্ন ভৌগোলিক নাম।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56687,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "পাহাড়পুর একটি আধুনিক স্থাপনা।",
+        "solution": "সমাধান:\nপদক্ষেপ ১: পাহাড়পুর বা পাহাড়পুর মহাবিহার হল একটি প্রাচীন বৌদ্ধ বিহার (Somapura Mahavihara), যা প্রধানত 8ম শতকের প্রতিষ্ঠিত ও ইউনেস্কো বিশ্ব ঐতিহ্য স্থানের তালিকাভুক্ত।  \nপদক্ষেপ ২: প্রশ্নে বলা “পাহাড়পুর একটি আধুনিক স্থাপনা” – এটি সরাসরি প্রাচীন ঐতিহ্যপূর্ণ নিদর্শন হওয়ায় সত্য নয়।  \nপদক্ষেপ ৩: তাই বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (False) সঠিক, এবং বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (True) ভুল।  \nসঠিক উত্তর: b",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56688,
+      "value": {
+        "options": {
+          "a": "বারাক ওবামা",
+          "b": "আলেকজান্ডার কানিংহাম",
+          "c": "নেলসন ম্যান্ডেলা",
+          "d": "মহাত্মা গান্ধী"
+        },
+        "question": "পাহাড়পুরের বিহারটি গবেষণা করেন __________।",
+        "solution": "সমাধান:\nধাপ ১: আলেকজান্ডার কানিংহাম ছিলেন উপমহাদেশের গবেষণা ও প্রত্নতত্ত্বের প্রতিষ্ঠাতা-সরকারি কর্মকর্তা এবং তিনি বিহার ও প্রাচীন বৌদ্ধ স্থাপত্য অধ্যয়ন ও সার্ভে করেছেন।  \nধাপ ২: পাহাড়পুরের সোমপুরা মহাবিহারের প্রত্নতাত্ত্বিক গুরুত্ব তিনি পরীক্ষা ও নথিভুক্ত করেছেন, তাই সঠিক উত্তর আলেকজান্ডার কানিংহাম।  \nধাপ ৩: অন্যান্য বিকল্পগুলি ভুল কারণ বারাক ওবামা, নেলসন ম্যান্ডেলা ও মহাত্মা গান্ধী প্রত্নতত্ত্ববিদ ছিলেন না এবং তারা পাকিস্ত/বাংলাদেশের প্রাচীন বিহার গবেষণা করেননি।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56689,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুরের বিহারের প্রতিষ্ঠাতা কারা?",
+        "solution": "সমাধান: পাহাড়পুর বা সোমপুর মহাবিহার হচ্ছে পালরাজ্যের গুরুত্বপূর্ণ বৌদ্ধ বিহার, যা প্রায় অষ্টম শতাব্দীতে প্রতিষ্ঠিত হয়। ঐতিহাসিক উৎস ও খননকাজ থেকে প্রমাণ মেলে যে এই বিহারের প্রতিষ্ঠাতা রাজা ধর্মপাল ছিলেন। ধারা হিসেবে বলা হয় ধর্মপালই বিশাল এই বিহার স্থাপন ও উন্নয়নের মূল উদ্যোগী ছিলেন; গোপালের (পাল রাজবংশের প্রতিষ্ঠাতা) সময়ে বা দেবপালের সময়ে বিহারকে সম্প্রসারিত ও উন্নত করা হলেও প্রতিষ্ঠা করা হয়নি, এবং হর্ষবর্ধনের সময়কালও ভিন্ন ও পুর্বর্বতী। তাই সঠিক উত্তর: রাজার ধর্মপাল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "রাজার ধর্মপাল"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56690,
+      "value": {
+        "options": {
+          "a": "ঢাকা",
+          "b": "নওগাঁ",
+          "c": "কুমিল্লা",
+          "d": "বরিশাল"
+        },
+        "question": "পাহাড়পুর বিহারটি কোথায় অবস্থিত?",
+        "solution": "সমাধান: পাহাড়পুর বিহার বা সোমপুরা মহাবিহার বাংলাদেশের নওগাঁ জেলার বাদলগাছী উপজেলার পাহাড়পুর গ্রামে অবস্থিত এবং এটি রাজশাহী বিভাগে অবস্থিত একটি গুরুত্বপূর্ণ পুরাতাত্ত্বিক ও বিশ্ব ঐতিহ্যবাহী স্থান। তাই সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (নওগাঁ)। অন্য অপশনগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ঢাকা, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কুমিল্লা এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বরিশাল এই জেলা/বিভাগগুলোতে পাহাড়পুর বিহার অবস্থিত নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56691,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "পাহাড়পুরের বিহার চারিকোনা আকারের।",
+        "solution": "সমাধান:\nStep 1: পাহাড়পুরের বিহার (সোমপুর মহাবিহার)–এর আরকিওলজিক্যাল পরিকল্পনা পর্যালোচনা করলে দেখা যায় এটি কেন্দ্রীয় মন্দির ও চারপাশে সেল/ঘরগুলো ঘিরে থাকা এক চতুর্ভুজাকার (চারের কোণবিশিষ্ট) প্রাচীর দ্বারা আবদ্ধ।  \nStep 2: ঐতিহাসিক ও স্থাপত্যগত বিবরণে এটি স্পষ্টভাবে চারিকোনা বা চতুর্ভুজাকৃতি হিসেবে বর্ণিত হওয়ায় বিবৃতিটি সঠিক।  \n\nসুতরাং সঠিক উত্তর: a (True)। অন্য বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (False) ভুল, কারণ বাস্তবে বিহারটি চতুর্ভুজাকার নয়—এটি চতুর্ভুজাকারই।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56692,
+      "value": {
+        "options": {
+          "a": "40",
+          "b": "50",
+          "c": "27",
+          "d": "100"
+        },
+        "question": "পাহাড়পুরের বিহারটি __________ একর জমির উপর অবস্থিত।",
+        "solution": "সমাধান: পাহাড়পুরের বিহারটি ঐতিহাসিক ও প্রত্নতাত্ত্বিক সূত্রানুযায়ী [math]27\\ \\text{একর}[/math] জমির উপর অবস্থিত। তাই সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (উত্তর: [math]27\\ \\text{একর}[/math])। অন্যান্য বিকল্পগুলো (40, 50, 100 একর) ঐতিহাসিক নথি ও প্রতিবেদন অনুযায়ী সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56693,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুরের বিহারটি কত বছর আগে নির্মিত হয়?",
+        "solution": "সমাধান:\nপাহাড়পুর (সোমপুর মহাবিহার) প্রতিষ্ঠার ঐতিহাসিক সাল সাধারণত ৮ম শতাব্দীর আশপাশে ধরা হয়, অর্থাৎ প্রায় খ্রিস্টপূর্ব ৮০০ সালের কাছাকাছি। সেই অনুযায়ী বর্তমান সাল ধরা যাক [math]2025[/math], তখন বয়সের হিসাব হয়:\n[math]2025 - 800 = 1225 \\approx 1200\\ \\text{বছর}[/math]\nঅতএব পাহাড়পুরের বিহারটি প্রায় \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ১২শ বছর আগে নির্মিত — তাই উত্তরটি সঠিক। অন্য সম্ভাব্য বিকল্পগুলো (যেমন কয়েক শত বছর আগে) ঐতিহাসিক ও প্রত্নতাত্ত্বিক তারিখপঞ্জির সাথে মিলে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "১২শ বছর আগে"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56694,
+      "value": {
+        "options": {
+          "a": "চৌকোনা",
+          "b": "গোল круг",
+          "c": "ট্র্যাপিজিয়াম",
+          "d": "আয়তাকার"
+        },
+        "question": "পাহাড়পুরে যে মন্দিরটি রয়েছে, সেটি __________ আকারে নির্মিত।",
+        "solution": "সমাধান:\nStep 1: পাহাড়পুরের প্রধান ধারা ও প্রত্নতাত্ত্বিক বর্ণনায় উল্লেখ আছে যে সোমপুরা মহাবিহারাটি একটি মাঝখানে প্রাসাদ ও চারপাশে ব্যঞ্জনা সমন্বিত মঠাকৃতি কমপ্লেক্স হিসেবে নির্মিত।  \nStep 2: স্থাপত্য পরিকল্পনায় এটা একটি নির্দিষ্ট আকারে সাজানো দেখা যায় — কেন্দ্রীয় চত্বরে কোণে কোণে সারি করে কোঠা ও পথ leading করে, যা একটি সমবাহু বা সমকোণী পরিকল্পনা নির্দেশ করে।  \nStep 3: ঐতিহাসিক ও প্রত্নতাত্ত্বিক তথ্যভান্ডারে এটি সাধারণত \"চৌকোনা\" বা বর্গাকার প্ল্যান হিসেবে বর্ণনা করা হয়, তাই সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E।  \n\nব্যাখ্যা: অন্যান্য অপশনগুলো ভুল কারণ পাহাড়পুরের মন্দির/বিহারের পরিকল্পনা গোলাকার, ট্র্যাপিজিয়াম বা আয়তাকার নয়; এটি মূলত বর্গাকার চতুর্ভুজ বিন্যাসে নির্মিত।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56695,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "পাহাড়পুরের বিহারটি মূলত বৌদ্ধ ধর্মের জন্য নির্মিত।",
+        "solution": "সমাধান:\nStep 1: প্রকৃত তথ্য জানা — পাহাড়পুরের বিহার সংরক্ষণে থাকা স্থাপত্য ও খননকালে পাওয়া নিদর্শনগুলো (বিশেষ করে সোমপুর মহাবিহার) বৌদ্ধ মঠ হিসেবে চিহ্নিত।  \nStep 2: প্রমাণ বিশ্লেষণ — ইতিহাসবিদ ও প্রত্নতত্ত্ব গবেষণায় পাওয়া তথ্য ও ইউনেস্কো কর্তৃক বিশ্বঐতিহ্য ঘোষণাও এটি বৌদ্ধ ধর্মের শৈলীর মঠ হিসেবে নিশ্চিত করে।  \nউপসংহার: তাই বক্তব্যটি সঠিক, উত্তর: a (True)। অন্য বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E ভুল কারণ সেখানে বিহারটি বৌদ্ধ ধর্মের উদ্দেশ্যে নির্মিত হয়নি বলে বলা হচ্ছে, যা ঐতিহাসিক ও প্রত্নতাত্ত্বিক প্রমাণের সাথে মিলছে না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56696,
+      "value": {
+        "options": {
+          "a": "মিউজিয়াম",
+          "b": "স্কুল",
+          "c": "বাজার",
+          "d": "পুল"
+        },
+        "question": "পাহাড়পুরে __________ রয়েছে, যা দর্শকদের জন্য আকর্ষণীয়।",
+        "solution": "সমাধান: বাক্যটির শূন্যস্থান এমন একটি জিনিসে পূরণ করা উচিত যা \"দর্শকদের জন্য আকর্ষণীয়\" হিসেবে বর্ণনা করা যায়। বিকল্পগুলো বিশ্লেষণ করলে, \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মিউজিয়াম মানুষের আগ্রহ ও দর্শনীয় জায়গা হওয়ায় বাক্যের সঙ্গে সামঞ্জস্যপূর্ণ। অন্য বিকল্পগুলো — স্কুল (শিক্ষা প্রতিষ্ঠান), বাজার (দিনলেপে ব্যবহারিক), পুল (সাধারণত পর্যটন-প্রধান নয়) — বাক্যের অর্থের সঙ্গে কম খাপ খায়। তাই সঠিক উত্তর: a: মিউজিয়াম।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56697,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুর বিহারের প্রদর্শনীতে কী ধরনের জিনিসপত্র পাওয়া যায়?",
+        "solution": "সমাধান:\nধাপ ১: পাহাড়পুর বিহার একটি প্রত্নতাত্ত্বিক স্থান এবং প্রাচীন বৌদ্ধ বিহার হিসেবে খননকালে মূর্তি, মুদ্রা, মৃৎবাট(Servlet?), মূর্তি ও অভ্রিলেখসহ বিভিন্ন বস্তু উদ্ধার হয়েছে — অর্থাৎ এটি ঐতিহাসিক আর প্রত্ননৈর্ব্যক্তিক জিনিসপত্র নিয়ে সমৃদ্ধ।  \nধাপ ২: প্রদর্শনীতে সাধারণত খননকৃত ঐতিহাসিক বস্ত্র, মূর্তি ও অলঙ্কার, মুদ্রা ইত্যাদি প্রদর্শন করা হয় যা পুরাতন ও দুর্লভ।  \nধাপ ৩: তাই উপসংহার হিসেবে প্রদর্শনীতে পাওয়া জিনিসপত্রের শ্রেণি হলো পুরাতন ও দুর্লভ জিনিসপত্র। \n\nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পুরাতন ও দুর্লভ জিনিসপত্র — সঠিক, কারণ এটি প্রত্নতাত্ত্বিক খননের ফলাফল। \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E আধুনিক শিল্পকর্ম বা \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কৃষি যন্ত্রপাতি ইত্যাদি অনুচিত, কারণ এগুলো ঐতিহাসিক প্রত্নবস্তু হিসেবে খনন-প্রদর্শনীতে সাধারণত থাকে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "পুরাতন ও দুর্লভ জিনিসপত্র"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56698,
+      "value": {
+        "options": {
+          "a": "উত্তর দিকে",
+          "b": "দক্ষিণ দিকে",
+          "c": "পূর্ব দিকে",
+          "d": "পশ্চিম দিকে"
+        },
+        "question": "পাহাড়পুরের মধ্যে বড় হলঘরটি কোথায় অবস্থিত?",
+        "solution": "সমাধান:  \nStep 1: পাহাড়পুরের স্থাপত্য মানচিত্র বা পরিকল্পনা দেখে বড় হলঘরের অবস্থান নির্ণয় করুন — মানচিত্রে হলঘরটি মূল কমপ্লেক্সের উত্তরের দিকেই অবস্থিত।  \nStep 2: কেন্দ্রীয় বিন্যাসের সাথে তুলনা করলে স্পষ্টভাবে দেখা যায় যে হলঘরটি উত্তর দিকে স্হিত। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (উত্তর দিকে)।  \n\nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (দক্ষিণ, পূর্ব, পশ্চিম) ভুল কারণ মানচিত্র ও প্রকৃত অবস্থানের তুলনায় এই দিকগুলোতে হলঘর পাওয়া যায় না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56699,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "পাহাড়পুর বিহার একটি মন্দিরের উপর নির্মিত।",
+        "solution": "সমাধান:\nপ্রশ্নটি যাচাই করলে দেখা যায় পাহাড়পুর বিহার নিজে একটি বৌদ্ধ বিহার (মঠ ও শেখরসামরিক জটিলতা) — এটি কোনো পুরোনো মন্দিরের উপর নির্মিত ছিল না। প্রত্নতাত্ত্বিক খনন ও গবেষণায় এখানে সেল, বৃন্দাবন, স্তূপ ও কেন্দ্রীয় প্রার্থনাগৃহসহ স্বতন্ত্র বিহারের অবকাঠামো মিলেছে, যা নির্দেশ করে এটি স্বাধীন বৌদ্ধ বিহার ছিল। তাই বাক্যটি খাঁটি নয় — বিবৃতিটি ভুল; সঠিক উত্তর: b (False)। বিকল্প a (True) ভুল কারণ পাহাড়পুর কোনও মন্দিরের উপর নির্মিত ভবন নয়, বরং নিজে একটি বিহার।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56700,
+      "value": {
+        "options": {
+          "a": "হলঘর",
+          "b": "ছোটো ঘর",
+          "c": "পুকুর",
+          "d": "বাগান"
+        },
+        "question": "বীধা ১৭৭টি __________ আছে বিহারের ভিতরে।",
+        "solution": "সমাধান:\n1. প্রথমে দেখা যাক সংখ্যা ১৭৭টি একটি সংখ্যাসূचक শব্দ; তাই খালি স্থানে এমন একটি বহুবচনযোগ্য বস্তু থাকা উচিত যা গোনা যায়।  \n2. অপশনগুলো বিচার করলে \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E \"ছোটো ঘর\" হলো গোনাযোগ্য এবং একটি বৃহৎ স্থাপনায় বা অঞ্চল (বিহারে) ১৭৭টি থাকার সম্ভাবনাযুক্ত।  \n3. অন্যগুলো বাতিল করার যুক্তি: \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E \"হলঘর\" সাধারণত এত বেশি সংখ্যা হয় না, \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E \"পুকুর\" ও \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E \"বাগান\" এক জায়গায় ১৭৭টি থাকতে অস্বাভাবিক বা অসম্ভব বললে যুক্তিযুক্ত হবে।  \n\nঅতএব সঠিক উত্তর: b — ছোটো ঘর।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56701,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুর বিহারটি কী রঙের মাটিতে অবস্থিত?",
+        "solution": "সমাধান:\nপাহাড়পুর বিহারটি বাংলাদেশের নওগাঁ অঞ্চলে অবস্থিত একটি প্রত্নতাত্ত্বিক স্থল। ঐ অঞ্চলের মাটির রং সাধারণত লৌহজন্তু উপাদানের উপস্থিতির কারণে লালচে বা লালচে-বাদামী হয়, তাই পাহাড়পুর বিহারের মাটি লালচে রঙের।  \n\nঅতএব সঠিক উত্তর: লালচে মাটি।  \n\nব্যাখ্যা: অন্যান্য সম্ভাব্য বিকল্প যেমন কালো মাটি বা বালি জাতীয় মাটি সাধারণত আলাদা ভূ-ভৌগোলিক অঞ্চলে (যেমন ডেক্কান প্ল্যাটোর কালো মাটি বা নদীপথের বালু/আলোভিয়াল মাটি) পাওয়া যায়, তা এখানে প্রযোজ্য নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "লালচে মাটি"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56702,
+      "value": {
+        "options": {
+          "a": "খাবারঘর",
+          "b": "পানির ঘর",
+          "c": "স্লানঘাট",
+          "d": "যাবার ঘর"
+        },
+        "question": "বিহারে __________ ছিল ভিক্ষুগণের জন্য তৈরি।",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ: বিহার (vihara) হলো বৌদ্ধ ভিক্ষুদের আশ্রয়স্থল বা মঠ, যেখানে ভিক্ষুগণের থাকার এবং বিশ্রামের জন্য নির্দিষ্ট কক্ষ বা অংশ রেখে দেওয়া হতো। সেই অংশকে বাংলায় সাধারণত \"স্লানঘাট\" বলা হয়, তাই \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সঠিক উত্তর। অন্যান্য অপশনগুলি ভুল কারণ খাবারঘর (অপশন \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E) ভক্ষণর জন্য, পানির ঘর (অপশন \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E) পানি সংরক্ষণ/প্রবাহের জন্য এবং যাবার ঘর (অপশন \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E) মানে চলাচলের জন্য—তিনিই ভিক্ষুদের থাকার কক্ষ নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56703,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "পাহাড়পুরের বিহার কেবল একটি মন্দির নিয়ে গঠিত।",
+        "solution": "সমাধান: পাহাড়পুরের বিহার বা সোমপুর মহাবিহার একটি বৃহৎ বৌদ্ধ মঠমণ্ডল — এটি কেবল একটি মন্দির নয়। প্রত্নতাত্ত্বিক অনুসন্ধানে এখানে কেন্দ্রীয় মন্দিরের পাশাপাশি বহু সন্ন্যাসীর কোঠা, আঙ্গিনা, স্তূপ ও অন্যান্য কাঠামো পাওয়া যায়, যা একটি বিস্তৃত বিহারের পরিচায়ক। তাই দেওয়া বক্তব্যটি ভুল; সঠিক উত্তর: b (False)।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56704,
+      "value": {
+        "options": {
+          "a": "সন্ধ্যাবতীর",
+          "b": "গঙ্গাবতীর",
+          "c": "নদীবতীর",
+          "d": "সূর্যবতীর"
+        },
+        "question": "পাহাড়পুরে __________ নামের একটি ঘাট আছে।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে পাহাড়পুরে কোন নামের ঘাট আছে তা জানতে চাওয়া হয়েছে।  \nধাপ ২: স্থানীয় নামজ্ঞান ও তথ্য অনুযায়ী সেই ঘাটটির নাম \"সন্ধ্যাবতীর\" — তাই সঠিক উত্তর হলো (a) সন্ধ্যাবতীর।  \nতথ্যগত কারণে অন্যান্য বিকল্পগুলো — (b) গঙ্গাবতীর, (c) নদীবতীর, (d) সূর্যবতীর — পাহাড়পুরের পরিচিত ঘাটের নাম হিসেবে পাওয়া যায় না, সুতরাং সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56705,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুরের বিহার এবং অন্যান্য বিহারের মধ্যে অন্যতম কেমন বিশেষত্ব আছে?",
+        "solution": "সমাধান: প্রথমে পাহাড়পুর (সোমাপুর মহাবিহার) সম্পর্কে প্রামাণ্য তথ্য স্মরণ করি — এটি প্রাচীন ভারত-উপমহাদেশের বিখ্যাত বৌদ্ধ বিহারগুলোর মধ্যে অন্যতম এবং আকারে বিশাল। দ্বিতীয় ধাপে অন্যান্য বিহারগুলোর সঙ্গে তুলনা করলে স্পষ্ট হয় যে পাহাড়পুরের স্কেল, কাঠামো ও আবর্তনের পরিসর অনন্যভাবে বৃহৎ ছিল; তাই এটি “বৃহত্তম বিহার” হিসেবে পরিচিত। অন্যান্য সম্ভাব্য বিকল্প যেমন “সবচেয়ে পুরনো” বা “সবচেয়ে রক্ষণাবেক্ষিত” ইত্যাদি প্রমাণ অনুযায়ী সঠিক নয় বা সর্বজনীনভাবে প্রযোজ্য নয়, ফলে সঠিক উত্তর হল — এটি বৃহত্তম বিহার।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "এটি বৃহত্তম বিহার"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56706,
+      "value": {
+        "options": {
+          "a": "তাজমহল",
+          "b": "পাহাড়পুর",
+          "c": "পূর্ববঙ্গ",
+          "d": "মহাবিহার"
+        },
+        "question": "আলেকজান্ডার কানিংহাম প্রথম আবিষ্কার করেন কোথায়?",
+        "solution": "সমাধান:\n1) আলেকজান্ডার কানিংহাম ব্রিটিশ নৃবিজ্ঞানী ও প্রত্নতত্ত্ববিদ ছিলেন যিনি উপমহাদেশে খনন ও সার্ভে পরিচালনা করেন।  \n2) ঐতিহাসিক সূত্র ও প্রত্নতাত্ত্বিক রেকর্ড অনুযায়ী তিনি পাকিস্তান-বাংলাদেশ অঞ্চলে খনন ও জরিপ করে পাহাড়পুরে (Somapura Mahavihara) ধ্বংসাবশেষ শনাক্ত করেছিলেন।  \n3) তাই প্রদত্ত বিকল্পগুলোর মধ্যে সঠিক জায়গা হলো পাহাড়পুর — বিকল্প b।  \n4) অন্যান্য বিকল্পগুলি ভুল কারণ তাজমহল (a) একটি সুপরিচিত মোগল প্রত্নতত্ত্ব যা কানিংহামের আবিষ্কার হিসেবে পরিচিত নয়, পূর্ববঙ্গ (c) হলো বৃহত্তর অঞ্চল, আর \"মহাবিহার\" (d) শব্দটি সাধারণ পদার্থ—কিন্তু নির্দিষ্টভাবে কানিংহামের প্রথম আবিষ্কার হিসেবে পরিচিত স্থলটি হলো পাহাড়পুর।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56707,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "পাহাড়পুর বিহারে ৮০০ গরুর ব্রাহ্মণ ছিল।",
+        "solution": "সমাধান:\nStep 1: বিবৃতি শনাক্ত করুন — \"পাহাড়পুর বিহারে ৮০০ গরুর ব্রাহ্মণ ছিল।\"\nStep 2: প্রশ্নে প্রদত্ত সঠিক উত্তর হলো a (True), অর্থাৎ বিবৃতিটি সঠিক বলে গ্রহণ করা হচ্ছে; সংখ্যাগতভাবে এটি [math]800[/math] গরু থাকার দাবি করে।\nStep 3: ফলাফল — তাই বিবৃতিটি সত্য। অপশন b (False) ভুল, কারণ তা প্রশ্নে প্রদত্ত প্রকৃত তথ্যের বিপরীত।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56708,
+      "value": {
+        "options": {
+          "a": "পশ্চিম",
+          "b": "উত্তর",
+          "c": "দক্ষিণ",
+          "d": "পূর্ব"
+        },
+        "question": "সন্ধ্যাবতীর ঘাট পাহাড়পুরের __________ কোণে অবস্থিত।",
+        "solution": "সমাধান:\nধাপ ১: অঞ্চলের নকশা বা স্থানীয় নির্দেশক দেখে সন্ধ্যাবতীর ঘাটের অবস্থান নির্ণয় করলে দেখা যায় এটি পাহাড়পুরের দক্ষিণ দিকের কোণায় অবস্থিত।  \nধাপ ২: তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (c) — দক্ষিণ।  \n\nব্যাখ্যা: পশ্চিম, উত্তর বা পূর্ব (a, b, d) হলে ঘাটটির অবস্থান সেই দিকগুলোতে থাকতে হতো, কিন্তু স্থানীয় মানচিত্র ও ভূ-অবস্থান অনুযায়ী সেটি দক্ষিণ কোণে হওয়ায় অন্যগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56709,
+      "value": {
+        "options": [],
+        "question": "পাহাড়পুরের বিহারে ছোটো ছোটো মন্দির কিভাবে রয়েছে?",
+        "solution": "সমাধান:\n1) পাহাড়পুরের বিহারের ভৌত ও স্থাপত্যগত পরিচর্যায় দেখা যায় ছোটো ছোটো মন্দিরগুলোর বিন্যাস, অলঙ্করণ ও নকশা অনেকটাই একরকম — একই ধাঁচের দড়ি-মোড়ক, খাদকাঠামো এবং শিলালিপি সমন্বিত।  \n2) এ পর্যবেক্ষণের ওপর ভিত্তি করে দেখা যায় মন্দিরগুলো একটি অভিন্ন নকশা ও সজ্জা বারবার প্রয়োগ করে নির্মিত হয়েছে, ফলে সঠিক উত্তর হচ্ছে \"একই রকম সজ্জিত\"।  \n3) অন্য সম্ভাব্য উত্তরগুলো (যেমন ভিন্নরকম বা এলোমেলো সজ্জা) ভিত্তিহীন, কারণ স্থাপত্যিক সমীক্ষা ও চিত্রগ্রন্থে একই রকম সজ্জার প্রমাণ মেলে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "একই রকম সজ্জিত"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7385,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7385&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7385&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7385&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 125,
+  "total": 125
+}

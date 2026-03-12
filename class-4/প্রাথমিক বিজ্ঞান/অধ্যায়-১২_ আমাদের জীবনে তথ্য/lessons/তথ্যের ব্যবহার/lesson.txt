@@ -1,0 +1,339 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747468,
+      "value": {
+        "options": {
+          "ক": "অপেক্ষা করে",
+          "খ": "পর্যবেক্ষণ করে",
+          "গ": "টিভি দেখে",
+          "ঘ": "চিকিৎসা করে"
+        },
+        "question": "শিমুলের পোষা পাখিটি কয়েক দিন যাবৎ অসুস্থ। শিমুল কীভাবে তার পোষা পাখিটির অসুস্থতার ধরন সম্পর্কে তথ্য সংগ্রহ করতে পারে?",
+        "solution": "খ. পর্যবেক্ষণ করে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747469,
+      "value": {
+        "options": {
+          "ক": "টেলিফোনে",
+          "খ": "বইতে",
+          "গ": "পেনড্রাইভে",
+          "ঘ": "গণমাধ্যমে"
+        },
+        "question": "রফিক সাহেব পরিবার নিয়ে নৌকা ভ্রমণে বের হওয়ার পূর্বে আবহাওয়া সম্পর্কে জেনে নিতে চান। তিনি কোথায় এ তথ্যটি পেতে পারেন?",
+        "solution": "ঘ. গণমাধ্যমে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747470,
+      "value": {
+        "options": {
+          "ক": "ক্যামেরা",
+          "খ": "টেপ রেকর্ডার",
+          "গ": "পেনড্রাইভ",
+          "ঘ": "রেডিও"
+        },
+        "question": "তোমার বন্ধুর কম্পিউটার থেকে তোমার কম্পিউটারে গেইমস আনার জন্য নিচের কোনটি ব্যবহার করবে?",
+        "solution": "গ. পেনড্রাইভ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747471,
+      "value": {
+        "options": {
+          "ক": "তথ্য সংগ্রহ",
+          "খ": "তথ্যের উৎস ও সংগ্রহের উপায় নির্ণয়",
+          "গ": "কোন বিষয়ে তথ্য প্রয়োজন তা নির্দিষ্ট করা",
+          "ঘ": "তথ্য বিনিময়"
+        },
+        "question": "তথ্যের যথাযথ ব্যবহারের প্রথম পদ্ধতি কোনটি?",
+        "solution": "গ. কোন বিষয়ে তথ্য প্রয়োজন তা নির্দিষ্ট করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747472,
+      "value": {
+        "options": {
+          "ক": "সংরক্ষণ",
+          "খ": "বিনিময়",
+          "গ": "আদান-প্রদান",
+          "ঘ": "বিশ্লেষণ"
+        },
+        "question": "তথ্য সংগ্রহের সময় অবশ্যই তা কী করতে হবে?",
+        "solution": "ক. সংরক্ষণ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747473,
+      "value": {
+        "options": {
+          "ক": "২টি",
+          "খ": "৩টি",
+          "গ": "৪টি",
+          "ঘ": "৫টি"
+        },
+        "question": "তথ্যের যথাযথ ব্যবহারের কয়টি পদ্ধতি রয়েছে?",
+        "solution": "গ. ৪টি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747474,
+      "value": {
+        "options": {
+          "ক": "প্রযুক্তি",
+          "খ": "আবহাওয়া",
+          "গ": "বায়ুপ্রবাহ",
+          "ঘ": "ধোঁয়া"
+        },
+        "question": "নিচের কোনটির মাধ্যমে তথ্য সংগ্রহ করা যায়?",
+        "solution": "ক. প্রযুক্তি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747475,
+      "value": {
+        "options": {
+          "ক": "তথ্য বিশ্লেষণ",
+          "খ": "ইন্টারনেট ব্যবহার",
+          "গ": "তথ্য সংরক্ষণ",
+          "ঘ": "তথ্য বিনিময়"
+        },
+        "question": "তুমি ইন্টারনেটের মাধ্যমে বড় ভাইকে পরীক্ষায় পাসের খবর জানালে। এ বিষয়টিকে কী বলা যায়?",
+        "solution": "ঘ. তথ্য বিনিময়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7415&grade=7&lesson=13521&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7415&grade=7&lesson=13521&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7415&grade=7&lesson=13521&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 8,
+  "total": 8
+}

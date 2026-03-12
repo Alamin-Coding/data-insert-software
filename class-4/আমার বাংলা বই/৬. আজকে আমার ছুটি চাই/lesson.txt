@@ -1,0 +1,4705 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 743913,
+      "value": {
+        "options": [],
+        "question": "ষ্ঠ",
+        "solution": "ষ্ + ঠ, ষষ্ঠ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743914,
+      "value": {
+        "options": [],
+        "question": "ক্ল",
+        "solution": "ক্ + ল, ক্লান্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743915,
+      "value": {
+        "options": [],
+        "question": "ল্প",
+        "solution": "ল্ + প, গল্প",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743916,
+      "value": {
+        "options": [],
+        "question": "ক্র",
+        "solution": "ক্ + র (র-ফলা), ক্রিকেট (ছেলেরা মাঠে ক্রিকেট খেলছে।)",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743917,
+      "value": {
+        "options": [],
+        "question": "ন্দ",
+        "solution": "ন্ + দ, আনন্দ (ছেলেরা খেলায় জিতে আনন্দ করছে।)",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743918,
+      "value": {
+        "options": [],
+        "question": "শ্ব",
+        "solution": "স্ + ব, মুখস্থ (ছেলেটি মুখস্থ করছে।)",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743919,
+      "value": {
+        "options": [],
+        "question": "বিনয় সহকারে",
+        "solution": "সবিনয়",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743920,
+      "value": {
+        "options": [],
+        "question": "দিন ও রাতের মিলনকাল",
+        "solution": "সন্ধ্যা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743921,
+      "value": {
+        "options": [],
+        "question": "বন্ধু শেখরকে কেন শাহীন চিঠি লিখেছিল?",
+        "solution": "বন্ধু শেখরকে শাহীন চিঠি লিখেছিল প্রধান শিক্ষককে লেখা চিঠিটি পৌঁছে দেওয়ার জন্য। এছাড়া স্কুলের সব পড়া ভালো করে বুঝে ও লিখে নিয়ে আসার জন্য। স্কুলের লাইব্রেরি থেকে খেলার বইটা নিয়ে আসার জন্যও চিঠি লিখেছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743921,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743922,
+      "value": {
+        "options": [],
+        "question": "চিঠি লেখার ফলে শাহীনের কী লাভ হয়েছিল?",
+        "solution": "চিঠি লেখার ফলে শাহীন তার জরুরি কাজ ও সমস্যার সমাধান করতে পেরেছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743922,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743923,
+      "value": {
+        "options": [],
+        "question": "প্রেরক",
+        "solution": "যে পাঠায়",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743924,
+      "value": {
+        "options": [],
+        "question": "অসহ্য",
+        "solution": "রোগে ভুগছে যে",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743925,
+      "value": {
+        "options": [],
+        "question": "অসুস্থ",
+        "solution": "রোগ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743926,
+      "value": {
+        "options": [],
+        "question": "সমীর",
+        "solution": "বাতাস",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743927,
+      "value": {
+        "options": [],
+        "question": "শাহীনের বিপদটি কী? এই বিপদের কারণে সে স্কুলে যেতে পারল না কেন?",
+        "solution": "শাহীনের বিপদটি হলো ছোটো বোন অসুস্থ হয়ে যাওয়া। বাবা কাজে দূরে যাওয়ায় সন্ধ্যার আগে বাড়িতে ফিরতে পারবেন না। তাই শাহীন স্কুলে যেতে পারল না।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743928,
+      "value": {
+        "options": [],
+        "question": "শাহীন কেন চিঠি লিখেছিল? তা দুটি বাক্যে লেখো।",
+        "solution": "ছোটো বোনের অসুস্থ হওয়ায় শাহীন স্কুলে যেতে পারবে না। এ সংবাদ জানাতে সে তার স্যারের কাছে চিঠি লিখেছিল এবং চিঠিটি স্যারের কাছে পৌঁছে দেওয়ার জন্য বন্ধু শেখরের কাছে আরেকটি চিঠি লিখেছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743929,
+      "value": {
+        "options": [],
+        "question": "চিঠির খামে কয়টি অংশ থাকে ও কী কী?",
+        "solution": "চিঠির খামে দুইটি অংশ থাকে। যথা: বাম অংশ ও ডান অংশ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743930,
+      "value": {
+        "options": [],
+        "question": "শাহীন চিঠি লিখেছিল কেন? বর্ণনা করো।",
+        "solution": "শাহীন তার দায়িত্ব সম্পর্কে সচেতন। তার ছোটো বোন একদিন অসুস্থ হয়ে পড়ে। শাহীনের বাবা তখন একটি কাজে বাড়ি থেকে দূরে অবস্থান করায় শাহীন স্কুলে না যাওয়ার সিদ্ধান্ত নেয়। স্কুলে না যাওয়ার কারণ এবং একদিনের ছুটির আবেদনের জন্য দুটি চিঠি লিখে। সে তার শিক্ষককে একটি এবং বন্ধু শেখরকে একটি চিঠি লিখে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743931,
+      "value": {
+        "options": [],
+        "question": "শাহীনের ছুটি মঞ্জুর হয় কীভাবে?",
+        "solution": "শাহীন প্রথমে তার ছোটো বোনের অসুখের খবর ও স্কুলে না আসতে পারার কারণ জানিয়ে বন্ধু শেখরকে একটি চিঠি লেখে। এই চিঠিতেই শাহীন প্রধান শিক্ষককে তার পাঠানো আরেকটি চিঠি দিতে জানায়। শেখর যথাযথভাবে সবকিছু করে। শাহীনের বিপদের কথা জেনে প্রধান শিক্ষক ছুটি মঞ্জুর করে চিঠির গায়ে সই করে দেন। শেখর তা শাহীনকে জানায়, শাহীনের একদিনের ছুটি মঞ্জুর করা হয়েছে। এভাবেই শাহীনের ছুটি মঞ্জুর হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743932,
+      "value": {
+        "options": [],
+        "question": "স্কুল",
+        "solution": "আজ আমাদের স্কুল ছুটি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743933,
+      "value": {
+        "options": [],
+        "question": "বোন",
+        "solution": "মিতু আমার ছোটো বোন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743934,
+      "value": {
+        "options": [],
+        "question": "সবিনয় নিবেদন এই যে আমার ছোটো বোন খুব অসুস্থ বাবা বাড়ি নেই তিনি সন্ধ্যায় আসবেন ছোটোবোনকে দেখাশোনা করতে হবে বলে আমার পক্ষে আজ বিদ্যালয়ে আসা সম্ভব নয়",
+        "solution": "সবিনয় নিবেদন এই যে, আমার ছোটো বোন খুব অসুস্থ। বাবা বাড়ি নেই। তিনি সন্ধ্যায় আসবেন। ছোটোবোনকে দেখাশোনা করতে হবে বলে আমার পক্ষে আজ বিদ্যালয়ে আসা সম্ভব নয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743935,
+      "value": {
+        "options": [],
+        "question": "দেবে",
+        "solution": "নেবে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743936,
+      "value": {
+        "options": [],
+        "question": "সম্ভব",
+        "solution": "অসম্ভব",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743937,
+      "value": {
+        "options": [],
+        "question": "প্রিয়",
+        "solution": "অপ্রিয়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743938,
+      "value": {
+        "options": [],
+        "question": "নিয়মিত",
+        "solution": "অনিয়মিত",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743939,
+      "value": {
+        "options": [],
+        "question": "দিন",
+        "solution": "রাত",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743940,
+      "value": {
+        "options": [],
+        "question": "ছোটো",
+        "solution": "বড়ো",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743941,
+      "value": {
+        "options": [],
+        "question": "দেওয়া",
+        "solution": "নেওয়া",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743942,
+      "value": {
+        "options": [],
+        "question": "সাহায্য",
+        "solution": "সহযোগিতা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743943,
+      "value": {
+        "options": [],
+        "question": "বোন",
+        "solution": "সহোদরা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743944,
+      "value": {
+        "options": [],
+        "question": "কাজ",
+        "solution": "কর্ম",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743945,
+      "value": {
+        "options": [],
+        "question": "বিপদ",
+        "solution": "আপদ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743946,
+      "value": {
+        "options": [],
+        "question": "অনুগাত",
+        "solution": "বাধ্য",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743947,
+      "value": {
+        "options": [],
+        "question": "ন্ধ",
+        "solution": "ন্ + ধ, অন্ধ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743948,
+      "value": {
+        "options": [],
+        "question": "ব্র",
+        "solution": "ব্ + র (র-ফলা), ব্রাহ্মণ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743949,
+      "value": {
+        "options": [],
+        "question": "ত্ত",
+        "solution": "ত্ + ত, উত্তর (আমাদের বাড়ির উত্তর দিকে নদী।)",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743950,
+      "value": {
+        "options": [],
+        "question": "জ্ঞ",
+        "solution": "জ্ + ঞ, বিদ্বান (লোকটি খুব বিদ্বান।)",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743951,
+      "value": {
+        "options": [],
+        "question": "সম্ভব নয় এমন",
+        "solution": "অসম্ভব",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743952,
+      "value": {
+        "options": [],
+        "question": "চিঠিতে সাধারণত কয়টি অংশ থাকে?",
+        "solution": "চিঠিতে সাধারণত ছয়টি অংশ থাকে। এগুলো হলো-\u003Cbr /\u003E\n১. যেখান থেকে চিঠিটি লেখা হচ্ছে সেখানকার ঠিকানা ও. চিঠি লেখার তারিখ\u003Cbr /\u003E\n২. সম্বোধন বা সম্ভাষণ\u003Cbr /\u003E\n৩. মূলবক্তব্য\u003Cbr /\u003E\n৪. বিদায় সম্ভাষণ\u003Cbr /\u003E\n৫. প্রেরকের নাম ও ঠিকানা\u003Cbr /\u003E\n৬. প্রাপকের নাম ও ঠিকানা",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743952,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743953,
+      "value": {
+        "options": [],
+        "question": "প্রাপক",
+        "solution": "যে পায়",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743954,
+      "value": {
+        "options": [],
+        "question": "জরুরি",
+        "solution": "খুব দরকারি",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743955,
+      "value": {
+        "options": [],
+        "question": "সন্ধ্যা",
+        "solution": "সাঁঝবেলা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743956,
+      "value": {
+        "options": [],
+        "question": "শাহীন কোন কোন ধরনের পত্র লিখেছে?",
+        "solution": "শাহীন বন্ধু শেখরকে ব্যক্তিগত পত্র লিখেছে এবং প্রধান শিক্ষককে আবেদনপত্র লিখেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743957,
+      "value": {
+        "options": [],
+        "question": "শাহীনের লেখা চিঠি পেয়ে শেখর কী করেছিল? চিঠি পেয়ে স্যার কী করেছিলেন?",
+        "solution": "শাহীনের লেখা চিঠি পেয়ে শেখর ঠিকমতো সবকিছু করেছিল। প্রধান শিক্ষককে চিঠিটি দিলে তিনি শাহীনের বিপদ সম্পর্কে জানতে পারেন। প্রধান শিক্ষক নিজে ছুটির দরখাস্তের কথা চিঠিতে লিখে দেন। এতে সইও করেন। সাথে শেখরকে জানিয়ে দেন, শাহীনকে একদিনের ছুটি দেওয়া হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743958,
+      "value": {
+        "options": [],
+        "question": "গল্প",
+        "solution": "আমি গল্প শুনতে পছন্দ করি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743959,
+      "value": {
+        "options": [],
+        "question": "অসুস্থ",
+        "solution": "আমার ছোটোবোনের অসুস্থ হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743960,
+      "value": {
+        "options": [],
+        "question": "সন্ধ্যা",
+        "solution": "সন্ধ্যায় সূর্য অস্ত যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743961,
+      "value": {
+        "options": [],
+        "question": "বন্ধু",
+        "solution": "আমরা সবাই বন্ধু হয়ে থাকব।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743962,
+      "value": {
+        "options": [],
+        "question": "শিক্ষক",
+        "solution": "শিক্ষক ক্লাসে প্রবেশ করলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743963,
+      "value": {
+        "options": [],
+        "question": "বন্ধু",
+        "solution": "শত্রু",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743964,
+      "value": {
+        "options": [],
+        "question": "অসুস্থ",
+        "solution": "সুস্থ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743965,
+      "value": {
+        "options": [],
+        "question": "সন্ধ্যা",
+        "solution": "সকাল",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743966,
+      "value": {
+        "options": [],
+        "question": "সন্ধ্যা",
+        "solution": "সাঁঝ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743967,
+      "value": {
+        "options": [],
+        "question": "বন্ধু",
+        "solution": "মিত্র",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743968,
+      "value": {
+        "options": [],
+        "question": "স্কুল",
+        "solution": "বিদ্যালয়",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743969,
+      "value": {
+        "options": [],
+        "question": "আবেদন",
+        "solution": "নিবেদন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743970,
+      "value": {
+        "options": [],
+        "question": "কথা",
+        "solution": "বাণী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743971,
+      "value": {
+        "options": [],
+        "question": "খুব",
+        "solution": "অনেক",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743972,
+      "value": {
+        "options": [],
+        "question": "ছুটি",
+        "solution": "অবকাশ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743973,
+      "value": {
+        "options": [],
+        "question": "মা",
+        "solution": "জননী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743974,
+      "value": {
+        "options": [],
+        "question": "বাবা",
+        "solution": "পিতা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743975,
+      "value": {
+        "options": [],
+        "question": "স্ক",
+        "solution": "স্ + ক, স্কুল",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743976,
+      "value": {
+        "options": [],
+        "question": "প্র",
+        "solution": "প্ + র (র-ফলা), প্রিয় (ফুটবল আমার প্রিয় খেলা।)",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743977,
+      "value": {
+        "options": [],
+        "question": "সুস্থ নয় এমন",
+        "solution": "অসুস্থ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743868,
+      "value": {
+        "options": [],
+        "question": "শাহীন কাকে কাকে চিঠি লিখেছিল?",
+        "solution": "শাহীন চিঠি লিখেছিল দুজনের কাছে। একজন স্কুলের প্রধান শিক্ষক, অন্যজন শাহীনের ক্লাসের বন্ধু শেখর।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743868,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743869,
+      "value": {
+        "options": [],
+        "question": "অবস্থান",
+        "solution": "যেখানে থাকা হয়",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743870,
+      "value": {
+        "options": [],
+        "question": "নিয়মিত",
+        "solution": "নিয়ম মেনে চলা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743871,
+      "value": {
+        "options": [],
+        "question": "শাহীনের বাবা কোথায় গেছেন এবং কখন আসবেন?",
+        "solution": "শাহীনের বাবা দূরে কাজে গেছেন। তিনি সন্ধ্যায় বাড়িতে ফিরে আসবেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743872,
+      "value": {
+        "options": [],
+        "question": "চিঠির খামের বাম অংশে ও ডান অংশে কী কী থাকে?",
+        "solution": "চিঠির খামের বাম অংশে যিনি চিঠি পাঠান বা প্রেরণ করেন, তার ঠিকানা থাকে; ডান অংশে যাকে চিঠি লেখা হয়েছে অর্থাৎ, প্রাপকের ঠিকানা থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743873,
+      "value": {
+        "options": [],
+        "question": "আমরা কখন কাউকে চিঠি লিখতে পারি? এর জন্য কী কী আমাদের জানা উচিত?",
+        "solution": "আমরা কোনো জরুরি খবর জানিয়ে কাউকে চিঠি লিখতে পারি। চিঠি লেখার জন্য অভ্যাস করতে হয়, জানতে হয় কোন চিঠি কখন, কাকে এবং কীভাবে লিখতে হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743874,
+      "value": {
+        "options": [],
+        "question": "শাহীনের কেন ছুটি দরকার হয়েছিল?",
+        "solution": "শাহীনের ছোটো বোনটা অনেক ছোটো। একদিন শাহীনের ছোটো বোনের অসুখ করে। এদিকে তার বাবাও বাড়িতে নেই, সন্ধ্যার আগে তিনি ফিরতে পারবেন না বলে জানিয়েছেন। এমন অবস্থায় বাড়িতে অসুস্থ বোনের কাছে থাকার কথা ভেবে শাহীন একদিনের ছুটি নেওয়ার সিদ্ধান্ত নেয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743875,
+      "value": {
+        "options": [],
+        "question": "চিঠির খাম কীভাবে লিখতে হয়? প্রধান শিক্ষককে লেখা শাহীনের চিঠির খামের অনুসারে তা দেখাও।",
+        "solution": "\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রেরক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tশাহীন রহমান\u003Cbr /\u003E\n\t\t\tচতুর্থ শ্রেণি\u003Cbr /\u003E\n\t\t\tপিতা: বদিউর রহমান\u003Cbr /\u003E\n\t\t\tগ্রাম: সফেদপুর\u003Cbr /\u003E\n\t\t\tজেলা: ঢাকা\u003Cbr /\u003E\n\t\t\tপোস্ট কোড: ১৩৪৫\u003C/td\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রাপক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tপ্রধান শিক্ষক\u003Cbr /\u003E\n\t\t\tইছাপুর সরকারি প্রাথমিক\u003Cbr /\u003E\n\t\t\tবিদ্যালয়\u003Cbr /\u003E\n\t\t\tডাকঘর: ইছাপুর\u003Cbr /\u003E\n\t\t\tজেলা: ঢাকা\u003Cbr /\u003E\n\t\t\tপোস্ট কোড: ১৩৪৪\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743876,
+      "value": {
+        "options": [],
+        "question": "চিঠি",
+        "solution": "আমি বাবাকে চিঠি লিখলাম।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743877,
+      "value": {
+        "options": [],
+        "question": "কাজ",
+        "solution": "রনি বাগানে কাজ করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743878,
+      "value": {
+        "options": [],
+        "question": "অনুগাত",
+        "solution": "অবাধ্য",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743879,
+      "value": {
+        "options": [],
+        "question": "বাবা",
+        "solution": "মা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743880,
+      "value": {
+        "options": [],
+        "question": "বাম",
+        "solution": "ডান",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743881,
+      "value": {
+        "options": [],
+        "question": "ভালো",
+        "solution": "মন্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743882,
+      "value": {
+        "options": [],
+        "question": "ছোটো",
+        "solution": "ক্ষুদ্র",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743883,
+      "value": {
+        "options": [],
+        "question": "অসুস্থ",
+        "solution": "রোগ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743884,
+      "value": {
+        "options": [],
+        "question": "বাড়ি",
+        "solution": "গৃহ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743885,
+      "value": {
+        "options": [],
+        "question": "দিন",
+        "solution": "দিবস",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743886,
+      "value": {
+        "options": [],
+        "question": "সেদিন",
+        "solution": "ঐদিন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743887,
+      "value": {
+        "options": [],
+        "question": "অন্য",
+        "solution": "অপর",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743888,
+      "value": {
+        "options": [],
+        "question": "আজকে/আজ",
+        "solution": "অদ্য",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743889,
+      "value": {
+        "options": [],
+        "question": "ক্ষ",
+        "solution": "ক্ + ষ, শিক্ষক",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743890,
+      "value": {
+        "options": [],
+        "question": "ম্ব",
+        "solution": "ম্ + ব, কম্বল (শীতে কম্বল মুড়ি দিয়ে শুয়েছি।)",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743891,
+      "value": {
+        "options": [],
+        "question": "যিনি শিক্ষা দেন",
+        "solution": "শিক্ষক",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743892,
+      "value": {
+        "options": [],
+        "question": "প্রেরণ করে যে",
+        "solution": "প্রেরক",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743893,
+      "value": {
+        "options": [],
+        "question": "সুখ নেই এমন",
+        "solution": "অসুখ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743894,
+      "value": {
+        "options": [],
+        "question": "শাহীন কেন চিঠি লিখেছিল?",
+        "solution": "শাহীনের ছোটো বোনটার অসুখ করেছিল। তার বাবাও বাড়িতে ছিলেন না। তাই স্কুলে যেতে না পারায় শাহীন চিঠি লিখেছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 743894,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 743895,
+      "value": {
+        "options": [],
+        "question": "বিনয়",
+        "solution": "নম্রতা, ভদ্রতা, আদবকায়দা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743896,
+      "value": {
+        "options": [],
+        "question": "ফাঁকে",
+        "solution": "অবসর সময়ে",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743897,
+      "value": {
+        "options": [],
+        "question": "অনুগ্রহ",
+        "solution": "দয়া",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743898,
+      "value": {
+        "options": [],
+        "question": "চিঠি",
+        "solution": "পত্র",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743899,
+      "value": {
+        "options": [],
+        "question": "শাহীন স্কুলে যায়নি কেন?",
+        "solution": "শাহীনের বাবা বাসায় ছিলেন না। এদিকে তার ছোটো বোনের অসুখ করেছিল। তাই শাহীন স্কুলে যায়নি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743900,
+      "value": {
+        "options": [],
+        "question": "চিঠিতে শাহীন কোন ক্লাসে পড়ে বলে উল্লেখ আছে? শাহীনের স্কুলের নাম কী?",
+        "solution": "প্রধান শিক্ষককে লেখা চিঠি অনুযায়ী শাহীন চতুর্থ শ্রেণিতে পড়ে। শাহীনের বিদ্যালয়ের নাম ইছাপুর সরকারি প্রাথমিক বিদ্যালয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743901,
+      "value": {
+        "options": [],
+        "question": "শাহীন শেখরকে পড়াল্লেখার ব্যাপারে কী বলেছিল?",
+        "solution": "শাহীন শেখরকে দিনের সব পড়া ভালো করে দেখতে ও লিখতে বলে। বাবা বাড়ি এলে সে শেখরের কাছ থেকে পড়া দেখে নেবে বলে জানায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743902,
+      "value": {
+        "options": [],
+        "question": "শাহীনকে দুটি চিঠি লিখতে হলো কেন?",
+        "solution": "প্রধান শিক্ষককে নিজের বিপদের কথা জানিয়ে একদিনের ছুটি নিতে শাহীন চিঠি লিখেছিল। আর বন্ধু শেখর যেন শাহীনের চিঠিটি প্রধান শিক্ষককে পৌঁছে দেয় এবং বাবা ফিরলে শাহীন লেখাপড়ার বিষয়গুলো শেখরের কাছ থেকে বুঝে নেবে, এরকম জানাতেই সে শেখরকে চিঠি লেখে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743903,
+      "value": {
+        "options": [],
+        "question": "লাইব্রেরি",
+        "solution": "আমাদের স্কুলে বড় একটা লাইব্রেরি আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743904,
+      "value": {
+        "options": [],
+        "question": "খেলাধুলা",
+        "solution": "বাচ্চারা মাঠে খেলাধুলা করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743905,
+      "value": {
+        "options": [],
+        "question": "বোন",
+        "solution": "ভাই",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743906,
+      "value": {
+        "options": [],
+        "question": "কাল",
+        "solution": "আজ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743907,
+      "value": {
+        "options": [],
+        "question": "নেই",
+        "solution": "আছে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743908,
+      "value": {
+        "options": [],
+        "question": "পক্ষে",
+        "solution": "বিপক্ষে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743909,
+      "value": {
+        "options": [],
+        "question": "প্রদান",
+        "solution": "গ্রহণ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743910,
+      "value": {
+        "options": [],
+        "question": "চিঠি",
+        "solution": "পত্র",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743911,
+      "value": {
+        "options": [],
+        "question": "অনেক",
+        "solution": "খুব/বহু",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743912,
+      "value": {
+        "options": [],
+        "question": "আবেদন",
+        "solution": "নিবেদন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-11-27T06:32:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180468,
+      "value": {
+        "options": {
+          "a": "একটি ব্যক্তিগত এবং একটি আবেদনপত্র, ছোটো বোনের অসুখের কারণে।",
+          "b": "দুটি আবেদনপত্র, বন্ধুদের জন্য।",
+          "c": "একটি ব্যবসায়িক এবং একটি পারিবারিক, বাড়ির জন্য।",
+          "d": "দুটি ব্যক্তিগত চিঠি, স্কুলে যাওয়ার জন্য।"
+        },
+        "question": "মোট কত ধরনের চিঠি শাহীন লিখেছে এবং কেন?",
+        "chapter_id": "1336",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180469,
+      "value": {
+        "options": {
+          "a": "তার বাবাও বাড়িতে ছিলেন।",
+          "b": "তার বোনের অসুখ খুব গুরুতর ছিল।",
+          "c": "তার স্কুল বন্ধ ছিল।",
+          "d": "তার বন্ধু তাকে স্কুলে নিতে পারেনি।"
+        },
+        "question": "শাহীন তার ছোটো বোনের অসুখের কারণে কীভাবে স্কুলে যেতে পারেনি?",
+        "chapter_id": "1336",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180470,
+      "value": {
+        "options": {
+          "a": "বন্ধু শেখরকে।",
+          "b": "তার বাবাকে।",
+          "c": "শিক্ষকের কাছে।",
+          "d": "ছোটো বোনকে।"
+        },
+        "question": "শাহীন স্কুলে না যাওয়ার জন্য কোন চিঠি লিখেছে?",
+        "chapter_id": "1336",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180471,
+      "value": {
+        "options": {
+          "a": "তার স্কুলের বন্ধুর জন্য।",
+          "b": "ছোটো বোনের জন্য সাহায্য চেয়ে।",
+          "c": "ছুটি চেয়ে প্রধান শিক্ষকের কাছে।",
+          "d": "তার বাবার জন্য।"
+        },
+        "question": "শাহীন কেন চিঠি লিখে প্রয়োজন জানিয়েছে?",
+        "chapter_id": "1336",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180472,
+      "value": {
+        "options": {
+          "a": "তিনি বাড়ি থেকে পালিয়ে যান।",
+          "b": "তিনি চিঠি লেখেন।",
+          "c": "তিনি পড়াশোনা বন্ধ করেন।",
+          "d": "তিনি পরিবারের কাজে যোগ দেন।"
+        },
+        "question": "শাহীন স্কুলে না যাওয়ার ক্ষেত্রে তার কি কার্যক্রম ছিল?",
+        "chapter_id": "1336",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56354,
+      "value": {
+        "options": {
+          "a": "মা",
+          "b": "শেখর ও প্রধান শিক্ষক",
+          "c": "বাবা",
+          "d": "বন্ধু"
+        },
+        "question": "শাহীনের চিঠিগুলো কার কাছে লেখা হয়েছিল?",
+        "solution": "সমাধান:\n1) প্রশ্নে প্রদত্ত পাঠ্যাংশে চিঠির প্রারম্ভিক সম্বোধন ও উক্তি পরীক্ষা করা উচিত — সেখানে চিঠিগুলোতে সরাসরি \"শেখর\" এবং \"প্রধান শিক্ষক\"কে সম্বোধন করা হয়েছে।  \n2) সম্বোধন ও প্রাসঙ্গিক বাক্যগুলো থেকে পরিষ্কার হয় যে চিঠিগুলো তাদের কাছে লেখা হয়েছিল, তাই সঠিক উত্তর হলো (b) শেখর ও প্রধান শিক্ষক।  \nঅন্য অপশনগুলি (মা, বাবা, বন্ধু) ভুল কারণ পাঠ্যাংশে এই ব্যক্তিদের কোনো সম্বোধন বা উল্লেখ পাওয়া যায় না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56355,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শাহীন তার ছোটো বোনের অসুখের কারণে স্কুলে যেতে পারেনি।",
+        "solution": "সমাধান:\nধাপ ১: বাক্যটি পড়ে বুঝুন—“শাহীন তার ছোটো বোনের অসুখের কারণে স্কুলে যেতে পারেনি” বলে সরাসরি একটি কারণযুক্ত তথ্য দেওয়া আছে।  \nধাপ ২: যেখানে বক্তব্যটি একটি ঘটনার কারণ হিসেবে উপস্থাপিত হয়েছে, তাকে সত্য বলেই গ্রহণ করা হয়। অতএব সঠিক উত্তর হলো a (সত্য)। b (মিথ্যা) ভুল, কারণ তা দেওয়া তথ্যের বিপরীতে যায়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56356,
+      "value": {
+        "options": {
+          "a": "মা এবং বন্ধু",
+          "b": "বন্ধু শেখর ও প্রধান শিক্ষক",
+          "c": " বাবা",
+          "d": " শিক্ষক"
+        },
+        "question": "শাহীন _____________________ চিঠি লিখেছিল।",
+        "solution": "সমাধান:\nপ্রথম ধাপ: বাক্যটিতে শাহীন কাকে চিঠি লিখেছিল তা নির্ধারণ করতে প্রতিটি অপশনের মানে দেখা হবে — (a) মা এবং বন্ধু, (b) বন্ধু শেখর ও প্রধান শিক্ষক, (c) বাবা, (d) শিক্ষক।  \nদ্বিতীয় ধাপ: অপশন (b)-তে স্পষ্টভাবে একটি বন্ধু (শেখর) এবং একটি নির্দিষ্ট পদবি (প্রধান শিক্ষক) উল্লেখ আছে, যা বাক্যের কাঠামোর সঙ্গে সঠিকভাবে মিলে যায়।  \nতৃতীয় ধাপ: অন্য অপশনগুলো ভুল কারণ (a)–এ মা এবং বন্ধু হলেও এখানে বিশেষভাবে \"শেখর ও প্রধান শিক্ষক\" বলা হয়নি, (c) ও (d) একক ব্যক্তি নির্দেশ করে এবং প্রশ্নে প্রদত্ত প্রসঙ্গ অনুযায়ী উপযুক্ত নয়।  \nঅতএব সঠিক উত্তর: b — বন্ধু শেখর ও প্রধান শিক্ষক।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56357,
+      "value": {
+        "options": [],
+        "question": "শাহীনের লিখিত প্রথম চিঠির উদ্দেশ্য কী ছিল?",
+        "solution": "সমাধান:\n1) চিঠির ভাষাবলীর দিকে লক্ষ্য করলে দেখা যায় লেখক সরাসরি অনুরোধ করে ছুটির অনাপত্তি বা বিরতি চাচ্ছে (যেমন — ছুটির তারিখ, কারণ উল্লেখ)। এই ধরনের সরাসরি অনুরোধই চিঠির প্রধান উদ্দেশ্য নির্দেশ করে।  \n2) অতএব চিঠির উদ্দেশ্য ছিল শিক্ষককে ছুটি চাওয়া — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E শিক্ষকের কাছে ছুটি চাওয়া।  \n3) অন্য বিকল্পগুলো ভুল কারণ সেখানে প্রশংসা, পরীক্ষার উত্তর জমা বা ক্ষমা চাওয়ার মতো উপাদান থাকা উচিত ছিল, কিন্তু চিঠিতে তা লক্ষণীয় নেই।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "শিক্ষকের কাছে ছুটি চাওয়া"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56358,
+      "value": {
+        "options": {
+          "a": "শিরোনাম, বিষয়বস্তু, বিদায়",
+          "b": "বিষয়বস্তু, ঠিকানা, বিদায়",
+          "c": "পত্রের নাম, বিদায়, প্রেরক",
+          "d": "স্থান, সময়, বিদায়"
+        },
+        "question": "চিঠির কোন অংশগুলো সাধারণত থাকে?",
+        "solution": "সমাধান:\nধাপ ১: সাধারণত একটি চিঠির মূল অংশগুলো হলো শিরোনাম (প্রাপক ও বিষয়বস্তু সূচক), বিষয়বস্তু (মূল বার্তা) এবং বিদায় (সমাপ্তি ও স্বাক্ষর)।  \nধাপ ২: অপশনগুলো যাচাই করলে অপশন (a) — \"শিরোনাম, বিষয়বস্তু, বিদায়\" — এই তিনটি মূল উপাদান সঠিকভাবে অন্তর্ভুক্ত করে, তাই এটি সঠিক।  \nধাপ ৩: অন্যান্য অপশনগুলো ভুল কারণ: অপশন (b)-তে ঠিকানা আছে যা প্রায়ই থাকে কিন্তু শিরোনাম বা পরিচিত অংশের বদলে এটি প্রধান তিনটির মধ্যে গণ্য হওয়াটা ঠিক না; অপশন (c)-তে \"পত্রের নাম\" অস্পষ্ট এবং প্রেরক থাকা সত্ত্বেও বিষয়বস্তু অনুপস্থিত; অপশন (d)-তে কেবল স্থান, সময় ও বিদায় আছে—মূল বিষয়বস্তু বাদ পড়েছে।  \n\nঅতএব সঠিক উত্তর: a.",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56359,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শাহীন চিঠিতে ক্লাসের বিষয়গুলি লিখতে ভুলে গেছিল।",
+        "solution": "সমাধান: প্রশ্নে দেওয়া বিবৃতিটি বলছে শাহীন চিঠিতে ক্লাসের বিষয়গুলি লিখতে ভুলে গেছিল। প্রাসঙ্গিক তথ্য অনুযায়ী চিঠিতে বিষয়গুলো উল্লেখ ছিল, সুতরাং এই দাবি মিথ্যা। অতএব সঠিক উত্তর: b (False)। বিকল্প a (True) ভুল কারণ চিঠিতে বিষয়গুলোর অনুপস্থিতি সম্পর্কিত দাবি সমর্থিত নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56360,
+      "value": {
+        "options": {
+          "a": "পড়া দেখে নেবে",
+          "b": "মতে থাকবে",
+          "c": "চিঠি পাঠাবে",
+          "d": "আর কোনো কাজ করবে"
+        },
+        "question": "শাহীন তার চিঠিতে বন্ধুকে বলেছিল, 'তুমি _______________________।'",
+        "solution": "সমাধান: প্রশ্নে সরাসরি উদ্ধৃতিতে শাহীন বন্ধুকে বলেছেন \"তুমি ___।\" — তাই পূরণকারী অংশটি দ্বিতীয় পুরুষের জন্য স্বাভাবিক নির্দেশ বা আশ্বাস হওয়া উচিত। অপশনগুলির মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \"পড়া দেখে নেবে\" একটি স্বাভাবিক নির্দেশ/উপদেশ যা চিঠিতে লেখার উপযুক্ত এবং ব্যাকরণগতও সঠিক। অন্যগুলো অপ্রাসঙ্গিক বা অস্বাভাবিক: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"মতে থাকবে\" বানান ও ভাব অপ্রকৃত, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E \"চিঠি পাঠাবে\" প্রাসঙ্গিক না হওয়া ছাড়া স্পষ্ট উদ্দেশ্য নেই, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E \"আর কোনো কাজ করবে\" বাক্যের অর্থ/সংরচনায় মানানসই নয়। তাই সঠিক উত্তর: a (পড়া দেখে নেবে)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56361,
+      "value": {
+        "options": [],
+        "question": "শাহীন কেন প্রধান শিক্ষকের কাছে এসে ছুটি চেয়ে ছিল?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্ন বা প্রদত্ত বাক্যটি পর্যবেক্ষণ করে বোঝা যায় শাহীন ছুটি চাইতে প্রধান শিক্ষকের কাছে এসেছে — তাই তার ব্যক্তিগত কোনো জরুরি কারণ থাকতে হবে।  \nধাপ ২: প্রদত্ত উত্তরগুলোর মধ্যে সবচেয়ে যৌক্তিক কারণ হল \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E—ছোটো বোন অসুস্থ, কারণ অসুস্থ পরিবারের সদস্য দেখভালের জন্য ছুটি নেওয়া সাধারণ এবং তা জরুরি।  \nঅন্য সম্ভাব্য কারণগুলো (যেমন বিনোদন বা অপ্রাসঙ্গিক কাজ) জরুরি মনে হয় না, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ছোটো বোন অসুস্থ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56362,
+      "value": {
+        "options": {
+          "a": "ক্লাস ২",
+          "b": "ক্লাস ৩",
+          "c": "ক্লাস ৪",
+          "d": "ক্লাস ৫"
+        },
+        "question": "শাহীন কত নম্বর শ্রেণির ছাত্র?",
+        "solution": "সমাধান: প্রশ্নটি সরাসরি একটি বহুনির্বাচনি প্রশ্ন — শাহীন কোন শ্রেণির ছাত্র তা জানতে বলা হয়েছে। দেওয়া বিকল্পগুলোর মধ্যে সঠিক হল ক্লাস ৪, তাই উত্তর হলো ক্লাস ৪ (উত্তর c)। অন্য বিকল্পগুলো — ক্লাস ২, ক্লাস ৩ এবং ক্লাস ৫ — ভিন্ন শ্রেণি নির্দেশ করে, তাই সেগুলো সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56363,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শাহীন স্কুলে যাননি কারণ তার বাবা বাড়িতে ছিল।",
+        "solution": "সমাধান:\nধাপ ১: বাক্যটি বলে: \"শাহীন স্কুলে যাননি কারণ তার বাবা বাড়িতে ছিল।\" এখানে একটি কারণ-ফল সম্পর্ক স্থাপিত হয়েছে — অর্থাৎ বাবার বাড়িতে থাকা হচ্ছে শাহীন না যাওয়ার কারণ।  \nধাপ ২: কিন্তু সাধারণভাবে কোনো ব্যক্তির বাড়িতে থাকা থেকে অন্যের স্কুলে না যাওয়া অনিবার্যভাবে অনুসরণ করে না; এই তথ্যটি একাই যথেষ্ট প্রমাণ দেয় না যে বাবার বাড়িতে থাকা ছিল প্রধান কারণ। অতএব মূল বক্তব্যকে সত্য ধরে নেওয়া যায় না।  \nসুতরাং সঠিক উত্তর: b (False)। অন্য অপশন (a) ভুল কারণ প্রস্তাবিত কারণ-ফল সম্পর্কটি নির্দিষ্ট প্রমাণ ছাড়া স্থির করা যায় না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56364,
+      "value": {
+        "options": {
+          "a": "মহামান্য",
+          "b": "প্রেরক",
+          "c": "বিষয়",
+          "d": "ছাত্র"
+        },
+        "question": "শাহীনের চিঠিতেও আছে প্রাপক ও ____________________।",
+        "solution": "সমাধান: একটি চিঠিতে সাধারণত দুইটি মূল নামের অংশ থাকে — প্রাপক এবং প্রেরক; তাই শাহীনের চিঠিতেও প্রাপক ও প্রেরক থাকা স্বাভাবিক। তাই সঠিক উত্তর হল (b) প্রেরক। অন্যগুলো ভুল কারণ \"মহামান্য\" একটি সম্মানসূচক শব্দ, \"বিষয়\" চিঠির অংশ হলেও প্রাপক‑প্রেরকের জোড়াটির সাথে মিল নেই, এবং \"ছাত্র\" প্রাসঙ্গিক নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56365,
+      "value": {
+        "options": [],
+        "question": "শাহীন কাকে লেখা চিঠিতে বলা হয়েছে 'সাধারণ বিদ্যালয়'? ",
+        "solution": "সমাধান: পত্রটি পড়ে দেখা যায় শাহীন যে স্থানের জন্য 'সাধারণ বিদ্যালয়' শব্দটি ব্যবহার করেছে তা সরাসরি \"ইচ্ছাপুর সরকারি প্রাথমিক বিদ্যালয়\" হিসেবে উল্লেখ আছে। পদ্ধতি—প্রথমে চিঠির প্রাসঙ্গিক অনুচ্ছেদ খুঁটিয়ে পড়া, পরে সেখানে থাকা নাম ও বর্ণনার সঙ্গে বিকল্পগুলোর মিলিয়ে দেখা। অন্য বিকল্পগুলো (যেমন বেসরকারি স্কুল বা উচ্চ বিদ্যালয়) ভুল কারণ চিঠির ভাষ্য ও প্রসঙ্গ স্পষ্টভাবে একটি সরকারি প্রাথমিক বিদ্যালয়কে নির্দেশ করে। অতএব সঠিক উত্তর: ইচ্ছাপুর সরকারি প্রাথমিক বিদ্যালয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ইচ্ছাপুর সরকারি প্রাথমিক বিদ্যালয়"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56366,
+      "value": {
+        "options": {
+          "a": "স্কুলে নতুন কথা বলা",
+          "b": "পড়া দেখে নেওয়া",
+          "c": "বড় ভাইয়ের খেলা দেখা",
+          "d": "শেখরকে খুঁজে বের করা"
+        },
+        "question": "ছুটি পাওয়ার পরে শাহীনের উদ্দেশ্য কী ছিল?",
+        "solution": "সমাধান:\n1. প্রশ্নে বলা আছে “ছুটি পাওয়ার পরে…” — এখানে আমাদের দেখতে হবে পাঠ্যাংশে শাহীনের কী ইচ্ছা বা পরিকল্পনার কথা বলা হয়েছে।  \n2. পাঠ্যাংশের বর্ণনা থেকে স্পষ্ট যে শাহীনের উদ্দেশ্য ছিল তার পড়া দেখে নেওয়া, অর্থাৎ তিনি লেখাপড়া/পাঠ পড়াশোনা সামলাইতে চেয়েছিলেন। তাই প্রদত্ত বিকল্পগুলোর মধ্যে (b) “পড়া দেখে নেওয়া” সঠিক।  \n3. কেন অন্যগুলো ভুল: (a) স্কুলে নতুন কথা বলা — এই উদ্দেশ্য পাঠ্যাংশে নেই; (c) বড় ভাইয়ের খেলা দেখা — সুস্পষ্ট কোনো উল্লেখ নেই; (d) শেখরকে খুঁজে বের করা — তা–ও বলা হয়নি। তাই সঠিক উত্তর: b।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56367,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শাহীন রাজনৈতিক বিষয়ে চিঠি লিখেছিল।",
+        "solution": "সমাধান:\nধাপ ১: বলা বক্তব্যটি শনাক্ত করুন — \"শাহীন রাজনৈতিক বিষয়ে চিঠি লিখেছিল।\"\nধাপ ২: প্রশ্নে প্রদত্ত অনুচ্ছেদ/তথ্য অনুযায়ী শাহীন রাজনৈতিক নয় অন্য কোনো বিষয়ে চিঠি লিখেছেন, অতএব উক্ত ঘোষণা মিথ্যা।\nধাপ ৩: সুতরাং সঠিক উত্তর হল b (False); a (True) ভুল কারণ উৎসে রাজনৈতিক বিষয়ে চিঠির কোনো উল্লেখ নেই।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56368,
+      "value": {
+        "options": {
+          "a": "একজন সৎ ছেলে",
+          "b": "একজন মা",
+          "c": "একজন শিক্ষক",
+          "d": "একজন রাঁধুনি"
+        },
+        "question": "শাহীন _____________________।",
+        "solution": "সমাধান:\n1. প্রশ্নে বলা নাম \"শাহীন\" একটি পুরুষ নাম; তাই উপযুক্ত পরিচয় হবে পুরুষ সম্পর্কিত শব্দ (যেমন \"ছেলে\")।  \n2. অপশনগুলো বিচার করলে (a) \"একজন সৎ ছেলে\" সরাসরি নামের লিঙ্গ ও পরিচয়ের সঙ্গে মেলে; অন্যগুলো — (b) \"একজন মা\" নারী পরিচয়, (c) \"একজন শিক্ষক\" পেশা নির্দিষ্ট করে (প্রশ্নে পেশা উল্লেখ নেই), (d) \"একজন রাঁধুনি\" পেশা/লিঙ্গ মিলছে না।  \n3. সুতরাং সঠিক উত্তর: a — একজন সৎ ছেলে।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56369,
+      "value": {
+        "options": [],
+        "question": "শাহীন কোন লেখায় চিঠি পদ্ধতির উল্লেখ করেছে?",
+        "solution": "সমাধান:\nধাপে ধাপে চিন্তা করলে দেখা যায় যে প্রশ্নটি জিজ্ঞেস করছে শাহীন কোন লেখায় চিঠি পদ্ধতির উল্লেখ করেছেন — অর্থাৎ লেখাটিতে চিঠি বা চিঠিপত্রের শ্রেণিকরণ রয়েছে। \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সরকারী ও ব্যক্তিগত চিঠি সরাসরি চিঠি পদ্ধতির নাম উল্লেখ করে, তাই এটি সঠিক উত্তর। অন্য বিকল্পগুলো যদি চিঠি‑পদ্ধতির কথা না বলে বা ভিন্ন ধরণের আলোচনা করে (যেমন সাধারণ প্রবন্ধ, স্মৃতিকথা ইত্যাদি), সেগুলো সঠিক নয়। তাই সঠিক উত্তর: সরকারী ও ব্যক্তিগত চিঠি।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "সরকারী ও ব্যক্তিগত চিঠি"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56370,
+      "value": {
+        "options": {
+          "a": "ব্যক্তিগত পত্র",
+          "b": "ফর্মাল পত্র",
+          "c": "এপ্লিকেশন",
+          "d": "নোট"
+        },
+        "question": "শাহীন কি ধরনের চিঠি লিখেছে শেখরকে?",
+        "solution": "সমাধান: শাহিনের চিঠির ভাষা ও বিষয়বস্তুর ওপর ভিত্তি করে এটি ব্যক্তিগত যোগাযোগ, বন্ধুত্বপূর্ণ অভিবাদন এবং ব্যক্তিগত খবর বা অনুভব প্রকাশ করা হয়েছে—অর্থাৎ এটি একটি ব্যক্তিগত পত্র। তাই সঠিক উত্তর হলো a: ব্যক্তিগত পত্র। অন্যান্য অপশন ভুল কারণ: ফর্মাল পত্রে আনুষ্ঠানিক ভাষা ও অফিসিয়াল উদ্দেশ্য থাকে, এপ্লিকেশন বিশেষ কোন অনুরোধ বা আবেদন পূরণের জন্য এবং নোট খুব সংক্ষিপ্ত বা বিজ্ঞপ্তিমূলক হয়—এসব বৈশিষ্ট্য এখানে নেই।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56371,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শাহীন পুলিশের কাছে ছুটি চেয়েছিল।",
+        "solution": "সমাধান: প্রথমে মূল পাঠ্য বা প্রসঙ্গ পরীক্ষা করতে হবে যে সেখানে শাহীন policiais (পুলিশ)–এর কাছে ছুটি চেয়েছিল কি না। মূল বিবরণ অনুযায়ী শাহীন পুলিশের কাছে ছুটি চাওয়ার কোনো উল্লেখ নেই, তাই বিবৃতিটি পাঠ্যসংগত নয়। অতএব বিবৃতিটি মিথ্যা এবং সঠিক উত্তর হলো b (False); a (True) ভুল কারণ তা পাঠ্যে সমর্থিত নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56372,
+      "value": {
+        "options": {
+          "a": "ছুটি আবেদন করতে পারি",
+          "b": "অকাজে যাই",
+          "c": "খুকু নিয়ে খেলা করি",
+          "d": "চিঠি লেখার অভ্যাস করি"
+        },
+        "question": "আমরা প্রয়োজনে ____________________________।",
+        "solution": "সমাধান:\nStep 1: বাক্যটি হলো \"আমরা প্রয়োজনে ____________________________।\" এখানে \"প্রয়োজনে\" শব্দটি এমন কোনো দক্ষতা বা অভ্যাস বোঝায় যা দরকার হলে করা যায়।  \nStep 2: অপশনগুলো যাচাই করে দেখা যায় \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E \"চিঠি লেখার অভ্যাস করি\" বাক্যটিকে অর্থপূর্ণভাবে সম্পূর্ণ করে — প্রয়োজন হলে আমরা চিঠি লেখার অভ্যাস করায় প্রয়োজন অনুযায়ী চিঠি লেখতে সক্ষম হই।  \nStep 3: অন্য অপশনগুলো অনুচিত বা অপ্রাসঙ্গিক: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \"ছুটি আবেদন করতে পারি\" এক ধরনের এককালীন কাজ, habitual প্রেক্ষাপটে সবচেয়ে সুগঠিত নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"অকাজে যাই\" ও \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E \"খুকু নিয়ে খেলা করি\" প্রয়োজনের সাথে সামঞ্জস্যপূর্ণ সহায়ক ক্রিয়া নয়। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E চিঠি লেখার অভ্যাস করি।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56373,
+      "value": {
+        "options": [],
+        "question": "সাধারণ চিঠির দৈর্ঘ্য কেমন হতে পারে?",
+        "solution": "সমাধান:\nধাপে ধাপে বিবেচনা করলে সাধারণ চিঠি বলতে সাধারণত ব্যক্তিগত বা দৈনন্দিন যোগাযোগের জন্য লেখা চিঠিকে বোঝায়, যার উদ্দেশ্য দ্রুত তথ্য আদানপ্রদান বা শুভেচ্ছা জানানো। তাই এর ভাষা ও বক্তব্য সরল এবং সংক্ষিপ্ত হওয়া উচিত — অর্থাৎ দৈর্ঘ্য ছোট এবং স্বল্প। অন্য বিকল্পগুলো যেমন বিস্তৃত বা বিশদ লেখা সাধারণ চিঠির সঙ্গে সামঞ্জস্যপূর্ণ নয় কারণ সেগুলো সাধারণত আনুষ্ঠানিক বা ব্যাখ্যামূলক নথির জন্য ব্যবহৃত হয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ছোট এবং স্বল্প"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56374,
+      "value": {
+        "options": {
+          "a": "মা",
+          "b": "বন্ধু শেখর",
+          "c": "শিক্ষক",
+          "d": "দাদা"
+        },
+        "question": "শাহীন কাকে লিখেছে 'দয়া করে মোকাবিলা করবেন'? ",
+        "solution": "সমাধান:\n১) বাক্যটি \"দয়া করে মোকাবিলা করবেন\" খুবই সৌজন্যমূলক ও আনুষ্ঠানিক — এখানে আদেশ বা অনুরোধ করা হচ্ছে এমন কাউকে যাঁর কাছে দায়িত্ব বা কর্তৃপক্ষ আশা করা যায়।  \n২) ব্যাকরণগতভাবে \"করবেন\" কর্তৃক সম্বোধন আর সম্মানের ভঙ্গি নির্দেশ করে, যা সাধারণত শিক্ষক বা কোনো একজন কর্তৃপক্ষভুক্ত ব্যক্তির জন্য ব্যবহৃত হয়।  \n৩) তাই সবচেয়ে উপযুক্ত উত্তর হল c: শিক্ষক। অন্য বিকল্পগুলো অনানুষ্ঠানিক (মা, বন্ধু শেখর) বা পরিবারভিত্তিক (দাদা) সম্বোধনের জন্য যা সাধারণত ভিন্ন ভঙ্গি বা শব্দচয়ন ব্যবহার করে, সেগুলো মিলছে না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7370,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7370&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7370&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7370&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 136,
+  "total": 136
+}

@@ -1,0 +1,643 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747297,
+      "value": {
+        "options": {
+          "ক": "পানি",
+          "খ": "বায়ু",
+          "গ": "প্রাকৃতিক গ্যাস",
+          "ঘ": "তেল"
+        },
+        "question": "রহিম একজন কৃষক। সে তার ক্ষেতে ফসল ফলানোর জন্য কোনটি ব্যবহার করবে?",
+        "solution": "ক. পানি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747298,
+      "value": {
+        "options": {
+          "ক": "বায়ু",
+          "খ": "গাছপালা",
+          "গ": "পানি",
+          "ঘ": "চুনাপাথর"
+        },
+        "question": "আমরা তাপ পেতে জ্বালানি হিসেবে কোনটি ব্যবহার করতে পারি?",
+        "solution": "খ. গাছপালা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747299,
+      "value": {
+        "options": {
+          "ক": "বনজ সম্পদ",
+          "খ": "ভূমি সম্পদ",
+          "গ": "শিলা এবং খনিজ",
+          "ঘ": "চুনাপাথর"
+        },
+        "question": "ফসল উৎপাদন, ভবন নির্মাণ, নির্মাণ সামগ্রী, মৃৎশিল্প এগুলোতে কোন প্রাকৃতিক সম্পদের ব্যবহার রয়েছে?",
+        "solution": "খ. ভূমি সম্পদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747300,
+      "value": {
+        "options": {
+          "ক": "সুনীল",
+          "খ": "বিদ্যুৎ",
+          "গ": "কাগজ",
+          "ঘ": "আলো"
+        },
+        "question": "কী তৈরিতে গাছ ব্যবহার করা হয়?",
+        "solution": "গ. কাগজ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747301,
+      "value": {
+        "options": {
+          "ক": "গাছপালা",
+          "খ": "কয়লা",
+          "গ": "নির্মাণসামগ্রী",
+          "ঘ": "প্লাস্টিক"
+        },
+        "question": "মাটির গভীরে কোনটি পাওয়া যায়?",
+        "solution": "খ. কয়লা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747302,
+      "value": {
+        "options": {
+          "ক": "তেল",
+          "খ": "চুনাপাথর",
+          "গ": "পানি",
+          "ঘ": "কাঠ"
+        },
+        "question": "নিচের কোনটি এক ধরনের শিলা?",
+        "solution": "খ. চুনাপাথর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747303,
+      "value": {
+        "options": {
+          "ক": "শিল্প কারখানা",
+          "খ": "প্রাকৃতিক সম্পদ",
+          "গ": "গাছপালা",
+          "ঘ": "জীবাশ্ম জ্বালানি"
+        },
+        "question": "আমাদের প্রয়োজনীয় সবকিছু কোথা থেকে আসে?",
+        "solution": "খ. প্রাকৃতিক সম্পদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747304,
+      "value": {
+        "options": {
+          "ক": "কলকারখানা",
+          "খ": "নদী",
+          "গ": "সূর্যের আলো",
+          "ঘ": "গাছপালা"
+        },
+        "question": "দৈনন্দিন জীবনে ব্যবহৃত কাঠের প্রধান উৎস কোনটি?",
+        "solution": "ঘ. গাছপালা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747305,
+      "value": {
+        "options": {
+          "ক": "পানি সম্পদ",
+          "খ": "বনজ সম্পদ",
+          "গ": "খনিজ সম্পদ",
+          "ঘ": "ভূমি সম্পদ"
+        },
+        "question": "তুলির বাবা তুলিকে একটি কাঠের চেয়ার বানিয়ে দিল। চেয়ার তৈরিতে ব্যবহার করা হয়েছে—",
+        "solution": "খ. বনজ সম্পদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747306,
+      "value": {
+        "options": {
+          "ক": "পানি সম্পদ",
+          "খ": "বনজ সম্পদ",
+          "গ": "ভূমি সম্পদ",
+          "ঘ": "খনিজ সম্পদ"
+        },
+        "question": "তুমি যে কাগজ লেখ তা কোন ধরনের প্রাকৃতিক সম্পদ থেকে তৈরি করা হয়?",
+        "solution": "খ. বনজ সম্পদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747307,
+      "value": {
+        "options": {
+          "ক": "গয়না তৈরির উপকরণে",
+          "খ": "প্লাস্টিক সামগ্রী উৎপাদনে",
+          "গ": "ফসল ও মাছ উৎপাদনে",
+          "ঘ": "উদ্ভিদের খাদ্য তৈরিতে"
+        },
+        "question": "বায়ু বা বায়ু প্রবাহ কি কাজে ব্যবহার করা হয়?",
+        "solution": "ঘ. উদ্ভিদের খাদ্য তৈরিতে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747308,
+      "value": {
+        "options": {
+          "ক": "পানি",
+          "খ": "মাটি",
+          "গ": "বায়ু",
+          "ঘ": "সূর্যালোক"
+        },
+        "question": "নিচের কোনটি থেকে আমরা আলো ও তাপ পাই?",
+        "solution": "ঘ. সূর্যালোক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747309,
+      "value": {
+        "options": {
+          "ক": "পানি",
+          "খ": "বাঁশ",
+          "গ": "সৌরপ্যানেল",
+          "ঘ": "কাঁচ"
+        },
+        "question": "নিচের কোনটি প্রাকৃতিক সম্পদ?",
+        "solution": "ক. পানি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747310,
+      "value": {
+        "options": {
+          "ক": "মাটি",
+          "খ": "পানির স্রোত",
+          "গ": "ফসল আবর্তন",
+          "ঘ": "চুনাপাথর"
+        },
+        "question": "তুমি ঘরে সুইচ অন করলেই বৈদ্যুতিক বাতি জ্বলে। তোমার মতে নিচের কোনটি এ বিদ্যুতের উৎস?",
+        "solution": "খ. পানির স্রোত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747311,
+      "value": {
+        "options": {
+          "ক": "মাটি",
+          "খ": "লোহা",
+          "গ": "বায়ু",
+          "ঘ": "বিদ্যুৎ"
+        },
+        "question": "নির্মাণসামগ্রী এবং মৃৎশিল্পে কী ব্যবহৃত হয়?",
+        "solution": "ক. মাটি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747312,
+      "value": {
+        "options": {
+          "ক": "বনজ",
+          "খ": "জলজ",
+          "গ": "উদ্ভিদ",
+          "ঘ": "খনিজ"
+        },
+        "question": "মৌ একটি সোনার চুড়ি পরেছে। এটি কোন ধরনের সম্পদ?",
+        "solution": "ঘ. খনিজ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7410&grade=7&lesson=13501&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7410&grade=7&lesson=13501&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7410&grade=7&lesson=13501&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 16,
+  "total": 16
+}

@@ -1,0 +1,3569 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 254459,
+      "value": {
+        "options": [],
+        "question": "ট্যালি চিহ্নের মাধ্যমে ৯ সংখ্যাকে প্রকাশ করলে দেখা যায় —।",
+        "solution": "i",
+        "explanation": "ট্যালি চিহ্নে প্রতি পাঁচটাকে চারটি উল্লম্ব রেখা ও পঞ্চমটিকে কেটে দিয়ে (ক্রস) দেখানো হয়। তাই নয় হবে একটি ক্রস করা পঞ্চকোশ(৫) ও আরও চারটি উল্লম্ব রেখা যোগ করলে — [math]9 = 5 + 4[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254459,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254469,
+      "value": {
+        "options": [],
+        "question": "৫টি করে সংখ্যার দলের হিসাব রাখার জন্য ট্যালি চিহ্ন একটি — পদ্ধতি।",
+        "solution": "সহজ",
+        "explanation": "ট্যালি চিহ্ন একটি গোষ্ঠীকরণ পদ্ধতি, কারণ এতে পাঁচটি করে দল বানিয়ে চিহ্ন দিলে গোনা দ্রুত এবং ভুল কম হয়। প্রতি চারটি উল্লম্ব রেখা ও একটি তির্যক রেখা মিলিয়ে একটি পাঁচের দল তৈরি করা হয়, ফলে বড় সংখ্যাও সহজে গোনা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254469,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254468,
+      "value": {
+        "options": [],
+        "question": "পাঁচটি বইয়ের পৃষ্ঠা সংখ্যা ২০২, ১৬৫, ২১৫, ২৩০, ১৫৫। দুইশ এর বেশি পৃষ্ঠাযুক্ত বই ——— টি।",
+        "solution": "২ টি",
+        "explanation": "দুইশের বেশি মানে পৃষ্ঠা সংখ্যা [math]\u003E200[/math]; তালিকায় [math]202,\\,215,\\,230[/math] এই তিনটি সংখ্যা [math]\u003E200[/math], সুতরাং উত্তর [math]3[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254468,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254467,
+      "value": {
+        "options": {
+          "ক": "বিন্যস্ত উপাত্ত",
+          "খ": "অবিন্যস্ত উপাত্ত",
+          "গ": "স্তম্ভলেখ",
+          "ঘ": "লেখচিত্র"
+        },
+        "question": "সংগৃহীত উপাত্ত যদি কোনো বৈশিষ্ট্য অনুযায়ী সাজানো না হয়, তাকে কী বলা হয়?",
+        "solution": "যেসব উপাত্ত এলোমেলো অবস্থায় থাকে এবং কোনো ক্রম অনুযায়ী সাজানো হয় না, তাদের অবিন্যস্ত উপাত্ত বলে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 254467,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254466,
+      "value": {
+        "options": {
+          "ক": "অবিন্যস্ত উপাত্ত",
+          "খ": "বিন্যস্ত উপাত্ত",
+          "গ": "ট্যালি চিহ্ন",
+          "ঘ": "স্তম্ভলেখ"
+        },
+        "question": "সংগৃহীত উপাত্ত যদি কোনো বৈশিষ্ট্য অনুযায়ী সাজানো হয়, তাকে কী বলা হয়?",
+        "solution": "যখন উপাত্ত নির্দিষ্ট বৈশিষ্ট্যের ক্রমে সাজানো হয়, তখন সেটি বিন্যস্ত উপাত্ত হিসেবে পরিচিত।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 254466,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254465,
+      "value": {
+        "options": [],
+        "question": "ট্যালি চিহ্নে প্রতিটি ৫ সংখ্যার গুচ্ছের শেষ রেখাটি — আকারে থাকে।",
+        "solution": "তির্যক (cross)",
+        "explanation": "ব্যাখ্যা: ট্যালি চিহ্নে প্রথম চারটি রেখা লম্বাভাবে আঁকা হয়ে পঞ্চমটি সেগুলোর উপর তির্যকভাবে কাটা রেখা হিসেবে দেওয়া হয়, যাতে প্রতিটি পাঁচের গুচ্ছ এক নজরে বোঝা যায়। এতে দ্রুত এবং নির্ভুলভাবে পাঁচের গুচ্ছ হিসেবে গণনা করা সহজ হয়ে যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254465,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254464,
+      "value": {
+        "options": [],
+        "question": "সংখ্যাগুলোর তালিকা বানাতে সবচেয়ে সহজ ও দ্রুত উপায় —।",
+        "solution": "ট্যালি চিহ্ন",
+        "explanation": "সংখ্যাগুলোকে ক্রম অনুযায়ী সাজানো (ছোট থেকে বড় বা বড় থেকে ছোট) হলো সবচেয়ে সহজ ও দ্রুত উপায়। এতে সংখ্যা খুঁজে পাওয়া ও তুলনা করা সহজ হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254464,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254463,
+      "value": {
+        "options": [],
+        "question": "স্তম্ভলেখ তৈরি করতে সর্বপ্রথম — নির্ধারণ করতে হয়।",
+        "solution": "শ্রেণি বা উপাত্ত",
+        "explanation": "স্তম্ভলেখ তৈরি করতে সর্বপ্রথম স্কেল নির্ধারণ করতে হয়। কারণ স্কেলই সংখ্যাগুলোকে গ্রাফে সঠিক উচ্চতায় বদলে দেয় এবং উপযুক্ত স্কেল হলে বারগুলো কাগজে ঠিকভাবে ফিট করে ও সহজে তুলনা করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254463,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254462,
+      "value": {
+        "options": [],
+        "question": "স্তম্ভলেখে একটি স্তম্ভের উচ্চতা যত বেশি, উপাত্তের পরিমাণ —।",
+        "solution": "তত বেশি",
+        "explanation": "ব্যাখ্যা: স্তম্ভলেখে প্রতিটি স্তম্ভের উচ্চতা কোনো শ্রেণির বা বস্তুতে উপস্থিত উপাত্তের পরিমাণকে প্রকাশ করে; উচ্চতা বেশি হলে সেই শ্রেণির উপাত্তের পরিমাণও বেশি। তাই স্তম্ভের উচ্চতা যত বেশি, উপাত্তের পরিমাণ তত বেশি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254462,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254461,
+      "value": {
+        "options": [],
+        "question": "৬০, ৫৫, ৫৮, ৫২, ৫৭ উপাত্তগুলোর গড় মান —।",
+        "solution": "৫৬.৪",
+        "explanation": "গড় মান হলো উপাত্তগুলোর যোগফলকে উপাত্তের সংখ্যায় ভাগ করলে পাওয়া মান; এখানে [math]60+55+58+52+57=282[/math] এবং [math]282 ÷ 5 = 56.4[/math], তাই গড় = [math]56.4[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254461,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254460,
+      "value": {
+        "options": [],
+        "question": "একটি শ্রেণিতে ৪ জন ছাত্র ও ৩ জন ছাত্রী থাকলে মোট শিক্ষার্থী সংখ্যা — জন।",
+        "solution": "৭ জন",
+        "explanation": "ব্যাখ্যা: শ্রেণির ছেলে ও মেয়ের সংখ্যা যোগ করলে মোট শিক্ষার্থী পাওয়া যায়; [math]4 + 3 = 7[/math], তাই মোট ৭ জন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254460,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254470,
+      "value": {
+        "options": [],
+        "question": "ট্যালি চিহ্নে প্রথম ৪টির প্রতিটির জন্য একটি খাড়া রেখা টানা হয় কিন্তু ৫ম টির জন্য আগের ৪টি রেখার উপর — দাগ টানা হয়।",
+        "solution": "একটি",
+        "explanation": "ব্যাখ্যা: ট্যালি চিহ্নে প্রথম চারটি আলাদা করতে চারটি উল্লম্ব রেখা টানা হয় এবং পঞ্চমটি হিসেবে ওই চারটির উপর একটি কাত করে রেখা টেনে পাঁচটি একত্র করে একটি গ্রুপ তৈরি করা হয়। এভাবে গণনা দ্রুত হয় এবং সংখ্যা গুলোকে সহজে পাঁচের ব্লকে ভাগ করে ভুল কমে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254470,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254458,
+      "value": {
+        "options": [],
+        "question": "সংখ্যা ৫ কে ট্যালি চিহ্নে প্রকাশ করলে দেখা যায় —।",
+        "solution": "i",
+        "explanation": "ট্যালি পদ্ধতিতে প্রতিটি পাঁচটি সংখ্যাকে এক গ্রুপ মনে করে দেখা হয়: প্রথম চারটি হিসেবে চারটি উল্লম্ব দাগ এবং পাঁচম 번째টি ওই চারটির ওপর диагোনালি ক্রস করে। তাই ৫ ট্যালি চিহ্নে হিসাবে লেখা হয় [math]||||/[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254458,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254457,
+      "value": {
+        "options": [],
+        "question": "৩৫, ৩২, ৩৮, ৪০, ৩২, ৪২ উপাত্তগুলোর মধ্যে মোড (mode) হবে —।",
+        "solution": "৩২",
+        "explanation": "মোড হলো সবচেয়ে বেশি বার ঘটা মান; এখানে উপাত্তে [math]32[/math] দুইবার আছে আর অন্যান্য মান একবারই আছে, তাই মোড হল [math]32[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254457,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254456,
+      "value": {
+        "options": [],
+        "question": "১ম শ্রেণিতে ১৫ জন, ২য় শ্রেণিতে ১৮ জন, ৩য় শ্রেণিতে ১২ জন শিক্ষার্থী থাকলে মোট শিক্ষার্থী — জন।",
+        "solution": "৪৫ জন",
+        "explanation": "মোট শিক্ষার্থী পাওয়ার জন্য সকল শ্রেণির শিক্ষার্থীর সংখ্যা যোগ করতে হয়। [math]15 + 18 + 12 = 45[/math], তাই মোট 45 জন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254456,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254455,
+      "value": {
+        "options": [],
+        "question": "কোন চিত্রটি ট্যালি চিহ্নের মাধ্যমে সংখ্যা প্রকাশ করে? —",
+        "solution": "ট্যালি চিত্র",
+        "explanation": "সঠিক চিত্রটি সেইটি যেখানে চিহ্নগুলো পাঁচটিতে একটি করে গুচ্ছ করা—চারটি উলম্ব লাইন ও তাদের উপর একটি তির্যক রেখা (ক্রস করে)। কারণ ট্যালি চিহ্ন সংখ্যা প্রকাশে প্রতিটি গুচ্ছকে [math]5[/math] ধরে সহজে গোনা যায় ও বড় সংখ্যাও দ্রুত নির্ণয় করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254455,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254454,
+      "value": {
+        "options": [],
+        "question": "ট্যালি চিহ্নের প্রতিটি রেখা সাধারণত — আকৃতির হয়।",
+        "solution": "খাড়া",
+        "explanation": "ব্যাখ্যা: ট্যালি চিহ্নের প্রতিটি রেখা সাধারণত লম্ব আকৃতির হয়, কারণ সরল উল্লম্ব রেখা দ্রুত ও স্পষ্টভাবে চিহ্নিত করা যায়। চারটি লম্ব রেখার ওপর পঞ্চমটি диагонাল করে মার্ক করলে সহজে পাঁচটাকে একসঙ্গে গ্রুপ করা যায় ও দ্রুত গণনা করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254454,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254449,
+      "value": {
+        "options": [],
+        "question": "স্তম্ভলেখে প্রতিটি স্তম্ভের নিচে — লেখা থাকে।",
+        "solution": "শ্রেণি বা পরিচায়ক",
+        "explanation": "ব্যাখ্যা: স্তম্ভলেখ হল টেবিলের শিরোনাম যা প্রতিটি স্তম্ভে কী ধরনের তথ্য থাকবে তা নির্দেশ করে; তাই প্রতিটি স্তম্ভের নিচে ঐ শিরোনামের সঙ্গে সম্পর্কিত তথ্য লেখা থাকে। এটি তথ্যগুলো শ্রেণীবদ্ধ করে সহজে তুলনা ও সন্ধান করার সুবিধা দেয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254449,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254450,
+      "value": {
+        "options": [],
+        "question": "স্তম্ভলেখ সাধারণত কোন ধরনের তথ্য উপস্থাপনে ব্যবহৃত হয়? —",
+        "solution": "তুলনামূলক",
+        "explanation": "স্তম্ভলেখ সাধারণত বিভাগীয় বা শ্রেণিভিত্তিক তথ্য—বিভিন্ন শ্রেণির মধ্যে সংখ্যাগত তুলনা, পরিমাণ বা ফ্রিকোয়েন্সি—উপস্থাপনের জন্য ব্যবহৃত হয়। কারণ প্রতিটি স্তম্ভের উচ্চতা বা দৈর্ঘ্য কোনো মান নির্দেশ করে, ফলে শ্রেণিগুলোর মধ্যে তুলনা সহজে ও স্পষ্টভাবে করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254450,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254451,
+      "value": {
+        "options": [],
+        "question": "ট্যালি চিহ্নে সংখ্যাগুলো সাধারণত — করে গণনা করা হয়।",
+        "solution": "গ্রুপ",
+        "explanation": "ব্যাখ্যা: ট্যালি চিহ্নে সাধারণত চারটি উল্লম্ব দাগের পরে পঞ্চম দাগটি ক্রস করা হয়, ফলে প্রতিটি গুচ্ছ সহজে পাঁচ হিসেবে চিন্হিত হয় ও দ্রুত গণনা করা যায়; তাই সংখ্যাগুলো পাঁচ করে গণনা করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254451,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254452,
+      "value": {
+        "options": [],
+        "question": "৫টি বইয়ের পৃষ্ঠাসংখ্যা ১৪৫, ১৫৫, ১৬০, ১৭৫, ১৮০ হলে ১৫০ এর কম পৃষ্ঠাযুক্ত বই — টি।",
+        "solution": "১ টি",
+        "explanation": "145 ই ছাড়া অন্য সব পৃষ্ঠা সংখ্যা [math]150[/math] থেকে বড়, কারণ [math]145\u003C150[/math] ও [math]155,160,175,180\\ge150[/math]। তাই ১৫০ এর কম পৃষ্ঠাযুক্ত বইয়ের সংখ্যা [math]1\\ \\text{টি}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254452,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254453,
+      "value": {
+        "options": [],
+        "question": "৫টি সংখ্যার গড় বের করতে হলে তাদের — করতে হয়।",
+        "solution": "যোগফলকে ৫ দিয়ে ভাগ",
+        "explanation": "ব্যাখ্যা: গড় হল সংখ্যাগুলোর যোগফলকে সংখ্যার সংখ্যায় ভাগ করা; তাই ৫টি সংখ্যার গড় পেতে প্রথমে সব সংখ্যাগুলো যোগ করে তারপর যোগফলকে ৫ দিয়ে ভাগ করতে হয়। [math]\\text{গড়}=\\dfrac{\\text{সংখ্যাগুলোর যোগফল}}{5}[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254453,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254480,
+      "value": {
+        "options": [],
+        "question": "৩৪, ৩৭, ৬০, ৫৫, ৩২, ৩৭, ৬৩, ৩৭, ৬৪, ৩৮ উপাত্তগুলোর মধ্যে সর্বাধিক ৪ বার একই উপাত্ত এসেছে।",
+        "solution": "৩৭",
+        "explanation": "ব্যাখ্যা: উপাত্তগুলো গোনে দেখা যায় [math]37[/math] তিনবার এসেছে (২য়, ৬ষ্ঠ, ৮ম স্থান), অন্য কোন সংখ্যাই চারবার নেই; তাই সর্বাধিক পুনরাবৃত্তি হচ্ছে [math]3[/math], [math]4[/math] নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254480,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254490,
+      "value": {
+        "options": [],
+        "question": "ট্যালি চিহ্নে প্রতিটি ৫ সংখ্যার জন্য তৈরি হয় একটি — সেট।",
+        "solution": "গুচ্ছ",
+        "explanation": "কারণ সঠিক উত্তর হলো 'গুচ্ছ'। ট্যালি চিহ্নে প্রতি পাঁচটি সংখ্যাকে চারটি উল্লম্ব রেখা এবং একটি তির্যক রেখা দিয়ে একত্র করে একটি গুচ্ছ হিসেবে চিহ্নিত করা হয়, ফলে প্রতিটি গুচ্ছ পাঁচটি সংখ্যা প্রতিনিধিত্ব করে এবং বড় সংখ্যা দ্রুত ও নির্ভুলভাবে গণনা করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254490,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254489,
+      "value": {
+        "options": [],
+        "question": "ট্যালি চিহ্নে ১৫ সংখ্যাকে প্রকাশ করতে দরকার হয় — টি রেখা।",
+        "solution": "১৫",
+        "explanation": "ব্যাখ্যা: ট্যালি চিহ্নে প্রতি গ্রুপে [math]5[/math]টি রেখা লেখা হয় (||||/), আর [math]15=5\\times3[/math] হওয়ায় তিনটি গ্রুপ লাগে, তাই মোট [math]5\\times3=15[/math] টি রেখা প্রয়োজন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254489,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254488,
+      "value": {
+        "options": [],
+        "question": "১০, ২০, ৩০, ৪০, ৫০ — ধারাটি একটি — গাণিতিক ধারা।",
+        "solution": "গাণিতিক",
+        "explanation": "এটি একটি গাণিতিক ধারা, কারণ ধারার প্রতিটি পরের পদ পূর্ববর্তী পদের সাথে একটি স্থির পার্থক্য যোগ করে পাওয়া যায়। এখানে [math]20-10=10,\\;30-20=10,\\;40-30=10[/math] ইত্যাদি, তাই সাধারণ পার্থক্য [math]10[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254488,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254487,
+      "value": {
+        "options": [],
+        "question": "ছয়টি ঝুড়িতে ফলের সংখ্যা ৬৫, ৪৮, ৩২, ৫৩, ৪২, ৫০। পঞ্চাশ এর কম ফল আছে এমন ঝুড়ির সংখ্যা — টি।",
+        "solution": "৩ টি",
+        "explanation": "৫০-এর কম ফল আছে এমন ঝুড়িগুলো হলো [math]48,\\,32,\\,42[/math]। [math]50[/math] কম না হওয়ায় তা গণনায় নেই, তাই মোট [math]3[/math]টি ঝুড়ি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254487,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254486,
+      "value": {
+        "options": [],
+        "question": "স্তম্ভলেখে দুইটি স্তম্ভচিত্র পরস্পর —",
+        "solution": "সমান্তরাল",
+        "explanation": "কারণ প্রতিটি স্তম্ভ আলাদা শ্রেণির মান প্রদর্শন করে এবং প্রতিটির উচ্চতা শূন্য রেখা থেকে স্বাধীনভাবে পরিমাপ করা হয়; একটি স্তম্ভের উচ্চতা অন্যটির মান নির্ধারণ করে না। তাই স্তম্ভচিত্রে দুইটি স্তম্ভ পরস্পর স্বতন্ত্র।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254486,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254485,
+      "value": {
+        "options": [],
+        "question": "স্তম্ভলেখ ও আনুভূমিক রেখার মধ্যবর্তী কোণ — ডিগ্রি।",
+        "solution": "৯০°",
+        "explanation": "ব্যাখ্যা: আনুভূমিক রেখা ও স্তম্ভলেখ (উল্লম্ব রেখা) পরস্পর লম্ব, এবং লম্ব রেখার মধ্যবর্তী কোণ হচ্ছে [math]90^\\circ[/math]; তাই তাদের মধ্যবর্তী কোণ [math]90^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254485,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254484,
+      "value": {
+        "options": [],
+        "question": "৮টি ছাগলের জন্য একটি ট্যালি চিহ্ন ধরলে, — দিয়ে ৪৮টি ছাগল বোঝায়।",
+        "solution": "৬টি ট্যালি চিহ্ন",
+        "explanation": "প্রতিটি ট্যালি চিহ্ন ৮টি ছাগল বোঝায়, তাই ৪৮টি ছাগল দেখাতে ট্যালি চিহ্নের সংখ্যা হবে [math]48 ÷ 8 = 6[/math]. অর্থাৎ — দিয়ে ছয়টি ট্যালি চিহ্ন বা মোট [math]6 × 8 = 48[/math] ছাগল বোঝানো হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254484,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254483,
+      "value": {
+        "options": [],
+        "question": "রিকশার চাকার সংখ্যা ট্যালি দিয়ে প্রকাশ করলে — হয়।",
+        "solution": "৩ × রিকশার সংখ্যা",
+        "explanation": "ব্যাখ্যা: রিকশার সাধারণত তিনটি চাকা থাকে, তাই ট্যালি চিহ্নে তিনটি খুঁচি লেখা হয়। ট্যালি: [math]|||[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254483,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254482,
+      "value": {
+        "options": [],
+        "question": "৩৪, ৩৭, ৬০, ৫৫, ৩২, ৫৯, ৬৩, ৫৯, ৬৪, ৩৮ উপাত্তগুলোর মধ্যে সর্বাধিক ৩ বার একই উপাত্ত এসেছে।",
+        "solution": "৫৯",
+        "explanation": "গণনা করলে [math]59[/math] তিনবার এসেছে এবং বাকি প্রতিটি উপাত্ত একবারই আছে। তাই কোনো উপাত্ত সর্বাধিকভাবে [math]3[/math] বারই এসেছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254482,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254481,
+      "value": {
+        "options": [],
+        "question": "৫০, ৬৩, ৮৩, ৭৪, ৫৯ উপাত্তগুলোর সর্বোচ্চ ও সর্বনিম্ন মানের পার্থক্য —",
+        "solution": "৩৩",
+        "explanation": "ব্যাখ্যা: সর্বোচ্চ মান [math]83[/math] এবং সর্বনিম্ন মান [math]50[/math], তাই পার্থক্য = [math]83-50=33[/math]. রেঞ্জ বা পরিসর হলো ডেটাসেটের সর্বোচ্চ ও সর্বনিম্ন মানের ব্যবধান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254481,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254479,
+      "value": {
+        "options": [],
+        "question": "গাড়ির চাকার সংখ্যা ট্যালি দিয়ে প্রকাশ করলে — হয়।",
+        "solution": "চাকা × গাড়ির সংখ্যা",
+        "explanation": "ব্যাখ্যা: একটি সাধারণ গাড়িতে চারটি চাকা থাকে, তাই ট্যালি হিসেবে চারটি সরল লাইন লেখা হয়—[math]||||[/math]। ট্যালি পদ্ধতিতে পাঁচটি পর্যন্ত গোনার সময় পঞ্চমটিতে ক্রস করে গোষ্ঠী করা হয়, কিন্তু চারটির জন্য কেবল চারটি লাইনই লাগে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254479,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254478,
+      "value": {
+        "options": [],
+        "question": "একটি পুকুরে ১২টি বোয়াল, ৪০টি কই, ১৫টি পাঙ্গাস, ২১টি রুই, ৩০টি গ্রাস কার্প এবং ৮টি কাতলা মাছ আছে। পুকুরে মাছ আছে — প্রকার।",
+        "solution": "৬ প্রকার",
+        "explanation": "ব্যাখ্যা: তালিকাভুক্ত ভিন্ন মাছের নামগুলো — বোয়াল, কই, পাঙ্গাস, রুই, গ্রাস কার্প ও কাতলা — মোট ছয়টি আলাদা প্রকার। তাই পুকুরে মাছ আছে [math]6[/math] প্রকার।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254478,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254477,
+      "value": {
+        "options": [],
+        "question": "১২০, ২৭৫, ৩০৬, ১০১, ১৫৫, ৯৭ উপাত্তের সর্বোচ্চ ও সর্বনিম্ন মানের সমষ্টি —",
+        "solution": "৪০৩",
+        "explanation": "সব সংখ্যার মধ্যে সর্বোচ্চ হল ৩০৬ এবং সর্বনিম্ন হল ৯৭, কারণ এগুলো অন্য সব সংখ্যার চাইতে বড় ও ছোট। তাদের যোগফল হলো [math]306 + 97 = 403[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254477,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254476,
+      "value": {
+        "options": [],
+        "question": "১১১, ২৩৪, ১০৪, ১৮২, ৯৪, ১৫৫ উপাত্তের সর্বোচ্চ ও সর্বনিম্ন মানের পার্থক্য —",
+        "solution": "১৪০",
+        "explanation": "ব্যাখ্যা: সংখ্যাগুলো থেকে সর্বোচ্চ হল [math]২৩৪[/math] এবং সর্বনিম্ন হল [math]৯৪[/math]। তাদের পার্থক্য [math]২৩৪-৯৪=১৪০[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254476,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254475,
+      "value": {
+        "options": [],
+        "question": "একটি মাঠে ১০ম শ্রেণির ১৪ জন, ৭ম শ্রেণির ২২ জন, ৫ম শ্রেণির ১৭ জন ও ৪র্থ শ্রেণির — জন শিক্ষার্থী রয়েছে। মাঠে মোট শিক্ষার্থী সংখ্যা ৭৬ জন।",
+        "solution": "২৩ জন",
+        "explanation": "মাঠে ৪র্থ শ্রেণির ছাত্রসংখ্যা মোট থেকে বাকি শ্রেণির যোগফল বাদ দিলে পাওয়া যায়। অন্য তিন শ্রেণির সংখ্যা হলো [math]14+22+17=53[/math], তাই ৪র্থ শ্রেণির সংখ্যা [math]76-53=23[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254475,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254474,
+      "value": {
+        "options": [],
+        "question": "স্তম্ভলেখের উচ্চতা — উপর নির্ভর করে।",
+        "solution": "উপাত্তের পরিমাণ",
+        "explanation": "কারণ স্তম্ভলেখের দৈর্ঘ্য মূলত স্তম্ভের উচ্চতা এবং সূর্যের আপেক্ষিক উচ্চকোণের ওপর নির্ভর করে। জ্যামিতিকভাবে [math]L = h\\cot\\theta[/math] (যেখানে [math]L[/math] ছায়ার দৈর্ঘ্য, [math]h[/math] স্তম্ভের উচ্চতা, [math]\\theta[/math] সূর্যের উচ্চকোণ), তাই সূর্য যত উঁচু থাকবে তত ছায়া ছোট হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254474,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254473,
+      "value": {
+        "options": [],
+        "question": "স্তম্ভ লেখের আনুভূমিক বা উলম্ব রেখাগুলো পরস্পর —",
+        "solution": "সমান্তরাল",
+        "explanation": "ব্যাখ্যা: স্তম্ভ লেখের আনুভূমিক রেখাগুলো একে অপরের সমান্তরাল এবং উলম্ব রেখাগুলোও একে অপরের সমান্তরাল, কারণ এগুলো কোনো বিন্দুতে মিলিত হয় না ও সব স্থানে পরস্পর সমান দূরত্ব বজায় রাখে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254473,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254472,
+      "value": {
+        "options": [],
+        "question": "আমাদের খুব সহজেই সংখ্যার পরিমাণ তুলনা করতে সাহায্য করে। —",
+        "solution": "স্তম্ভলেখ",
+        "explanation": "উত্তর: তুলনা চিহ্ন ( [math]\u003E, \u003C, =[/math] ) — কারণ এই চিহ্নগুলো দিয়ে সহজেই দেখা যায় কোন সংখ্যা বড়, কোনটি ছোট বা দুইটি সংখ্যা সমান; উদাহরণ: [math]5 \u003E 3[/math] বলে ৫ বড় এবং ৩ ছোট।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254472,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 254471,
+      "value": {
+        "options": [],
+        "question": "স্তম্ভলেখে উল্লম্ব রেখা বরাবর — থাকে।",
+        "solution": "স্তম্ভ",
+        "explanation": "আপনি কি সংখ্যার স্তম্ভলেখা (কলামে লেখা) সম্পর্কে প্রশ্ন করছেন? অনুগ্রহ করে সম্পূর্ণ বাক্যটি বা বিকল্পগুলো দিন, তারপর আমি সঠিক উত্তর ও সংক্ষিপ্ত ব্যাখ্যা দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-18T11:41:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 254471,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-18T11:41:38.000000Z",
+            "updated_at": "2025-08-18T11:41:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 594176,
+      "value": {
+        "options": {
+          "ক": "বিন্যস্ত উপাত্ত",
+          "খ": "অবিন্যস্ত উপাত্ত",
+          "গ": "স্তম্ভলেখ",
+          "ঘ": "লেখচিত্র"
+        },
+        "question": "সংগৃহীত উপাত্ত যদি কোনো নির্দিষ্ট ক্রম বা বৈশিষ্ট্য অনুযায়ী সাজানো থাকে, তাকে কী বলা হয়?",
+        "solution": "যেসব উপাত্তকে কোনো নির্দিষ্ট নিয়ম বা বৈশিষ্ট্য অনুসারে ক্রমানুসারে সাজানো হয়, যেমন নয় থেকে বেশি বা বয়স অনুযায়ী ছাঁটাই করা, সেগুলোকে বিন্যস্ত উপাত্ত বলা হয়।",
+        "explanation": "বিন্যস্ত উপাত্ত (ordered/sorted data) হলো এমন উপাত্ত যা কোনো মানদণ্ডে সাজানো থাকে। এর বিপরীতে অবিন্যস্ত উপাত্ত এলোমেলোভাবে থাকে। স্তম্ভলেখ এবং লেখচিত্র উপাত্ত উপস্থাপনের ভিজ্যুয়াল মাধ্যম; তারা উপাত্তের ধরন নয়। অতএব সঠিক উত্তর হলো 'বিন্যস্ত উপাত্ত'।",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-26T13:29:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 594158,
+      "value": {
+        "options": {
+          "ক": "অবিন্যস্ত উপাত্ত",
+          "খ": "বিন্যস্ত উপাত্ত",
+          "গ": "গুচ্ছীকৃত উপাত্ত",
+          "ঘ": "ট্যালি চিহ্ন"
+        },
+        "question": "যদি উপাত্তকে সমমানের শ্রেণী বা গুচ্ছ করে ভাগ করে উপস্থাপনা করা হয়, তাকে কী বলা হয়?",
+        "solution": "যে উপাত্তগুলোকে নির্দিষ্ট শ্রেণী বা গুচ্ছে ভাগ করে দেখানো হয়, সেগুলোকে গুচ্ছীকৃত উপাত্ত বলা হয়।",
+        "explanation": "গুচ্ছীকৃত উপাত্ত বলতে বোঝায় উপাত্তকে নির্দিষ্ট শ্রেণী বা বিভাজনে ভাগ করে উপস্থাপন করা। 'অবিন্যস্ত উপাত্ত' মানে কাঁচা বা সাজানো নয়; 'বিন্যস্ত উপাত্ত' মানে নির্দিষ্ট ক্রমে সাজানো; 'ট্যালি চিহ্ন' হচ্ছে উপাত্ত নথিভুক্ত করার একটি পদ্ধতি — সেগুলো গুচ্ছীকরণের সমার্থক নয়।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-26T13:28:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 184366,
+      "value": {
+        "options": {
+          "a": "প্রতি সংখ্যার জন্য একটি করে রেখা আঁকা হয়",
+          "b": "একাধিক রেখা আঁকা হয়",
+          "c": "সবচেয়ে বেশি সংখ্যা পরিমাপ করা হয়",
+          "d": "শুধুমাত্র একটি রেখা ব্যবহার করা হয়"
+        },
+        "question": "গণনা করার জন্য ট্যালি চিহ্ন ব্যবহার করা হয় কিভাবে?",
+        "chapter_id": "1366",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-06T13:36:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 172281,
+      "value": {
+        "options": {
+          "a": "| | | | |",
+          "b": "| | | | | |",
+          "c": "| | | | | /",
+          "d": "| | | | | ||"
+        },
+        "question": "একটি সারির ৫টি সংখ্যার ট্যালি চিহ্ন কিভাবে চিহ্নিত হবে?",
+        "chapter_id": "1366",
+        "correct_answer": "| | | | | /"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-04T01:34:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 170522,
+      "value": {
+        "options": [],
+        "question": "৭০ জন শিক্ষার্থীর মধ্যে ২৫ জন অনুপস্থিত ছিল। মোট শিক্ষার্থীর সংখ্যা কত?",
+        "chapter_id": "1366",
+        "explanation": "মোট ছাত্রসংখ্যা থেকে অনুপস্থিতদের সংখ্যা বাদ দিলে উপস্থিতদের সংখ্যা পাওয়া যায়। তাই [math]70 - 25 = 45[/math], অর্থাৎ উপস্থিত শিক্ষার্থী ৪৫ জন।",
+        "correct_answer": "৪৫"
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-03T13:22:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 170278,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যা ৭ দ্বারা ভাগ করলে ভাগশেষ ৪ হয়, তাহলে ভাগফল কি হবে?",
+        "chapter_id": "1366",
+        "explanation": "ব্যাখ্যা: কোনো সংখ্যা 7 দিয়ে ভাগ করলে ভাগশেষ 4 হলে সেটাকে লেখা যায় [math]n=7q+4[/math] (এখানে [math]q[/math] হলো ভাগফল)। উদাহরণস্বরূপ, যদি [math]n=39[/math] হয় তাহলে [math]39=7\\times5+4[/math], ফলে ভাগফল হল [math]5[/math]।",
+        "correct_answer": "৫"
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-03T11:28:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 160831,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): ট্যালি চিহ্ন কীভাবে কাজ করে?",
+          "খ": "(অনুধাবন): ট্যালি চিহ্ন ব্যবহারের সুবিধা কী কী?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): ট্যালি চিহ্ন ব্যবহার করে একটি উদাহরণ তৈরি করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): তথ্য সংগ্রহে ট্যালি চিহ্নের কার্যকারিতা নিয়ে আলোচনা কর।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: \nগণনায় ট্যালি চিহ্ন ব্যবহার করা হয়। এটি শিক্ষার্থীদের সংখ্যা বা অন্য যেকোনো পরিমাণের হিসাব রাখার একটি সহজ উপায়। যখন আমরা ট্যালি চিহ্ন ব্যবহার করি, আমরা দ্রুত সংখ্যা গণনা করতে পারি।",
+        "chapter_id": "1366",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ট্যালি চিহ্ন সাধারণত চারটি উল্লম্ব লাইন লেখে পঞ্চমটিকে তির্যক রেখা দিয়ে ক্রস করা হয়, ফলে প্রতিটি গোষ্ঠী সহজে [math]5[/math] হিসেবে পড়া যায় এবং বড় সংখ্যাও দ্রুত গণনা করা যায়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ট্যালি ব্যবহারের সুবিধা হলো এটি দ্রুত ও بصریভাবে সংখ্যাগুলো গোষ্ঠীভুক্ত করে ভুলের সম্ভাবনা কমায়, রিয়েল-টাইমে যোগ করা সহজ এবং কাগজ-কলমে তাড়াতাড়ি হিসাব রাখা যায়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E উদাহরণ: ধরো ক্লাসে যারা স্যান্ডউইচ এনেছে তাদের ট্যালি নেয়া হলো ||||/ ||||/ |||, এখানে দুটি পূর্ণ গোষ্ঠী এবং একটি আংশিক, ফলে মোট = [math]13[/math] জন।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ট্যালি তথ্য সংগ্রহে কার্যকর যখন ডেটা ছোট-স্কেলে, দ্রুত ও ম্যানুয়ালি কনট করণ দরকার; কিন্তু বড় বা জটিল ডেটাসেটের ক্ষেত্রে ডিজিটাল রেকর্ডিং ও বিশ্লেষণের প্রয়োজন পড়ে, তাই ট্যালি সীমিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-08-01T13:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 143923,
+      "value": {
+        "options": {
+          "a": "১টি",
+          "b": "৫টি",
+          "c": "১০টি",
+          "d": "২০টি"
+        },
+        "question": "গণনা করতে ট্যালি চিহ্নের সাহায্যে কতটি সংখ্যা নির্বাণ করা হয়?",
+        "solution": "সমাধান:\nধাপ ১: ট্যালি চিহ্নে একক গ্রুপে চারটি উল্লম্ব লাইন ও পঞ্চমটি সেগুলো কাটিয়ে লেখা হয়, ফলে একটি গ্রুপ দিয়ে লেখা যায় [math]১,২,৩,৪,৫[/math]।  \nধাপ ২: তাই একটি ট্যালি গ্রুপে মোট [math]৫[/math]টি সংখ্যার ভিন্ন চিহ্ন থাকে, অতএব সঠিক উত্তর হলো বিকল্প b।  \nব্যাখ্যা: অন্যান্য অপশনগুলো ([math]১[/math], [math]১০[/math], [math]২০[/math]) ভুল কারণ এগুলো একক ট্যালি গ্রুপে থাকা ভিন্ন চিহ্নের সংখ্যা নয় — বড় সংখ্যার জন্য একাধিক গ্রুপ ব্যবহার করতে হয়।",
+        "chapter_id": "1366",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-29T13:23:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 143922,
+      "value": {
+        "options": {
+          "a": "সংখ্যার সারণি তৈরির জন্য",
+          "b": "মাল্টিপ্লাইয়ের জন্য",
+          "c": "যোগফল বের করার জন্য",
+          "d": "গুণফল বের করার জন্য"
+        },
+        "question": "গণনা করার জন্য ট্যালি চিহ্নের কোন ব্যবহার হয়?",
+        "solution": "সমাধান:\nধাপ ১: ট্যালি চিহ্নগুলো মূলত দ্রুতভাবে এবং স্পষ্টভাবে গণনা করে সংখ্যার সারণি বা ফ্রিকোয়েন্সি তৈরির জন্য ব্যবহার করা হয়—প্রতিটি চারটি সোজা লাইন পর একটি ছেঁড়া লাইন বা গ্রুপ করে পাঁচ করে গোনা হয়।  \nধাপ ২: উদাহরণ: ৭টি বস্তু দেখাতে ট্যালি গ্রুপ করা হয় এক গ্রুপ ৫টি এবং অতিরিক্ত ২টি, অর্থাৎ [math]5+2=7[/math] (ট্যালি প্রদর্শন: একটি ৫-গ্রুপ + ২)।  \nধাপ ৩: তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (সংখ্যার সারণি তৈরির জন্য)। \n\nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (মাল্টিপ্লাইয়ের জন্য) ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (গুণফল বের করার জন্য) ভুল কারণ ট্যালি গুণ করার চিহ্ন নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (যোগফল বের করার জন্য) কিছুটা অনুকূল মনে হলেও ট্যালি স্বতন্ত্রভাবে গণনা/সারণি তৈরির উপায়—অপারেশন হিসেবে যোগের প্রতীক নয়।",
+        "chapter_id": "1366",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-29T13:23:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 143768,
+      "value": {
+        "options": [],
+        "question": "ফল এবং সবজির সংখ্যা সংরক্ষণের জন্য ট্যালি চিহ্ন ব্যবহার করার প্রধান কারণ কী?",
+        "solution": "সমাধান:\nট্যালি চিহ্ন ব্যবহার করার প্রধান কারণ হলো সংখ্যাগুলো দ্রুত ও সহজে চিহ্নিত করা যায়। সংক্ষিপ্তভাবে ব্যাখ্যা ও ধাপে ধাপে কারণগুলো:\n\n1. উদ্দেশ্য ও ধারণা:\n   - ফল ও সবজি কাউন্ট করা হলে বারবার গোনা ও নোট করা লাগে। ট্যালি চিহ্ন দিয়ে ক্রমান্বয়ে একটানা নথিভুক্ত করা যায় এবং পরে দ্রুত মোট বোঝা যায়।\n\n2. কাজ করার পদ্ধতি (কীভাবে সহজ হয়):\n   - সাধারণত ট্যালি পাঁচের গ্রুপে করা হয়: চারটি উল্লম্ব লাইন এবং পঞ্চমটি তাদের ওপর একটি ঢালু লাইন দিয়ে গ্রুপ করা হয়। এতে সংখ্যাগুলো দ্রুত গোষ্ঠীতে পড়ে।\n   - উদাহরণ: বারোটা ফল হলে তা ট্যালিতে দেখানো যায় যেমন  \n     [math]||||| ||||| ||[/math]  \n     অথবা সংখ্যাগতভাবে [math]12 = 5 + 5 + 2[/math]।\n\n3. প্রাসঙ্গিক নীতিনির্দেশ ও সুবিধা:\n   - দৃশ্যগত শনাক্তকরণ: গোষ্ঠিভিত্তিক প্যাটার্ন দেখে মানুষের চোখ দ্রুত মোট সংখ্যা বুঝতে পারে (প্রতিটি গ্রুপ = 5)।\n   - ত্রুটি কমে: বারবার গোনা দেয় না; শুধু ট্যালি বাড়ালে হয়—মানুষ ভুল করতে কম।\n   - সরল ও প্রযুক্তিনির্ভর নয়: কাগজ-প্যানে সহজেই ব্যবহার করা যায়, মিটার বা ক্যালকুলেটর লাগেনা।\n   - চলমান নথি রক্ষায় সুবিধা: বাজারে বিক্রি-সূচি, যানবাহনে লোডিং ইত্যাদিতে দ্রুত হিসাব রাখা যায়।\n\n4. সারসংক্ষেপ যুক্তি:\n   - ট্যালি চিহ্নের মূল লক্ষ্য হল বিভিন্ন সংখ্যা দ্রুত ও সহজে শনাক্ত করা এবং গণনা-ত্রুটি ও কাজের জটিলতা কমানো। তাই ফল ও সবজি গোনা-সংরক্ষণের জন্য এটি কার্যকর এবং সুবিধাজনক পদ্ধতি।",
+        "chapter_id": "1366",
+        "explanation": "ব্যাখ্যা: ট্যালি চিহ্নগুলোকে গ্রুপ করে (সাধারণত প্রতি ৫টি একটি সমাপ্ত দল) দেখতে পেলে ভিন্ন ভিন্ন সংখ্যাগুলো তাত্ক্ষণিকভাবে চিহ্নিত করা যায়। ফলে দ্রুত গণনা, সহজ নথিভুক্তি এবং ভুল কমে আসে, তাই ফল ও সবজির সংখ্যা সংরক্ষণে এটি কার্যকর।",
+        "correct_answer": "বিভিন্ন সংখ্যা সহজে চিহ্নিত করা"
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-29T12:44:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 143760,
+      "value": {
+        "options": {
+          "a": "৩০",
+          "b": "১৫",
+          "c": "১৮",
+          "d": "২০"
+        },
+        "question": "একটি স্কুলে শিক্ষার্থীদের সংখ্যা ২৪ জন। যদি ৬ জন অনুপস্থিত থাকে, তবে উপস্থিত শিক্ষার্থীর সংখ্যা কত?",
+        "solution": "সমাধান:\nমোট শিক্ষার্থী ছিল [math]24[/math] জন এবং অনুপস্থিত ছিল [math]6[/math] জন। উপস্থিত শিক্ষার্থীর সংখ্যা হবে মোট থেকে অনুপস্থিত গোছানো সংখ্যা বিয়োগ করে: [math]24 - 6 = 18[/math]। তাই সঠিক উত্তর হচ্ছে অপশন c = [math]18[/math]। অন্যান্য অপশনগুলো (a = 30, b = 15, d = 20) এই গণনায় থেকে পাওয়া ফল [math]18[/math] এর সাথে মেলে না, তাই সেগুলো ভুল।",
+        "chapter_id": "1366",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-29T12:44:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 121329,
+      "value": {
+        "options": [],
+        "question": "গণনার সময় ট্যালি চিহ্ন ব্যবহারের সুবিধা কি?",
+        "solution": "সমাধান:\nউত্তরসংক্ষেপ: ট্যালি চিহ্ন ব্যবহার করলে সংখ্যা দ্রুত ও সহজে গণনা করা যায় এবং সামগ্রিক পরিমাণ চোখে তাত্ক্ষনিকভাবে দেখা যায়।\n\nউপায় ও করণীয় ধাপ:\n1. মূল ধারণা: ট্যালি ব্যবস্থায় প্রতিটি একক আইটেম জন্য একটি উলম্ব চিহ্ন আঁকা হয়; প্রতি পঞ্চমটি একটি তির্যক/আড়াআড়ি রেখা বা ক্রস দিয়ে গ্রুপ করা হয়, ফলে পাঁচটি একসঙ্গে একটি গ্রুপ হিসেবে ধরা যায়।\n2. গণনা প্রক্রিয়া:\n   - প্রতিটি আইটেম দেখলে একটি টালি লেখুন।\n   - যখন একই শ্রেণীর পাঁচটি হয়ে যায়, তখন পঞ্চমটিকে গ্রুপ করার জন্য চারটি উলম্বের ওপর একটি তির্যক রেখা দিন — এতে সেই পাঁচটি এক ইউনিটে পরিণত হয়।\n   - পরবর্তী আইটেম গোনার সময় নতুন গ্রুপ শুরু করুন; শেষে গ্রুপ ও বাকি টালি যোগ করে মোট জানা যায়।\n3. যুক্তি ও সুবিধা:\n   - দৃশ্যমান গ্রুপিং (প্রতিটি ৫) থাকার ফলে বড় সংখ্যা দ্রুত চোখে পড়ে — দ্রুত প্রতিফলন।\n   - ভুল কমে, কারণ প্রতিবার শূন্য থেকে গণনা শুরু করতে হয় না; শুধু গ্রুপ ও অপ্রাপ্ত অংশ গোনা যায়।\n   - যোগ-আমিাগ ও তুলনা সহজ হয় (উদাহরণ: তিনটি টালি‑গ্রুপ = ১৫)।\n   - হ্যান্ডহেল্ড বা কাগজে দ্রুত সার্ভে, ইনভেন্টরি, শ্রেণিকক্ষচেক ইত্যাদিতে কার্যকর।\n4. সংক্ষিপ্ত উদাহরণ (শক্তভাবে বোঝাতে):\n   - ৭টি আইটেম: একটি পূর্ণ গ্রুপ (৫) + দুইটি আলাদা টালি → মোট ৭।\n   - ১৩টি আইটেম: দুইটি পূর্ণ গ্রুপ (২×৫=১০) + তিনটি আলাদা টালি → মোট ১৩।\n\nসংক্ষিপ্ত সীমাবদ্ধতা: খুব বড় বা জটিল ডেটা বিশ্লেষণের জন্য ট্যালি সীমিত; তবে দ্রুত ম্যানুয়াল গণনার জন্য অত্যন্ত কার্যকর।",
+        "chapter_id": "1366",
+        "explanation": "ট্যালি চিহ্ন ব্যবহার করলে সংখ্যাগুলোকে ছোট গ্রুপে সাজানো যায় (সাধারণত চারটি উল্লম্ব ও পঞ্চমটি ঢালু রেখা দিয়ে কাটা), ফলে একবারে পাঁচ করে গোনা যায়। এতে মোট দ্রুত ও সহজে বোঝা যায় এবং গননার ত্রুটিও কমে।",
+        "correct_answer": "সংখ্যা গণনা করা সহজ হয় এবং দ্রুত প্রতিফলন ঘটে।"
+      },
+      "question_type_id": 1,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-25T05:16:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 103136,
+      "value": {
+        "options": [],
+        "question": "একটি সারণি অনুযায়ী সবজির মধ্যে কোনটি সবচেয়ে বেশি বিক্রি হয়েছে এবং তার মোট পরিমাণ কত?",
+        "solution": "সমাধান:\n\nপদ্ধতি ও মূল ধারণা:\n1. সারণি থেকে প্রতিটি সবজির প্রতিটি এন্ট্রি (ভিন্ন দিন/বিক্রেতা ইত্যাদি) থেকে বিক্রয়ের পরিমাণ সংগ্রহ করতে হবে।\n2. যদি কোনো সবজির একাধিক এন্ট্রি থাকে, তাহলে সেই সব এন্ট্রির যোগফল করে ঐ সবজির মোট বিক্রয় বের করতে হবে — উদাহরণস্বরূপ মোট = [math]\\sum \\text{(প্রতিটি এন্ট্রি)}[/math]।\n3. সবজিগুলোর মোট বিক্রয় পরস্পর তুলনা করে যা সবচেয়ে বড় হবে সেটিই সর্বাধিক বিক্রি হয়।\n\nঅ্যাপ্লিকেশন (টেবিল অনুযায়ী):\n- টেবিলের সকল এন্ট্রি যোগ করে দেখা যায় কুমড়ার মোট বিক্রয় [math]139[/math]।\n- টেবিলের অন্যান্য সবজিগুলোর মোট বিক্রয় কুমড়ার [math]139[/math] থেকে কম ছিল।\n\nতথ্যগত সিদ্ধান্ত:\n- তাই সারণি অনুযায়ী সবচেয়ে বেশি বিক্রি হয়েছে কুমড়া এবং তার মোট পরিমাণ [math]139[/math]।",
+        "chapter_id": "1366",
+        "explanation": "ব্যাখ্যা: সারণিতে প্রতিটি সবজির মোট বিক্রয়পরিমাণ তুলনা করলে কুমড়ার পরিমাণ অন্যগুলোর চেয়ে সবচেয়ে বেশি, তাই সবচেয়ে বেশি বিক্রি হয়েছে কুমড়া এবং তার মোট পরিমাণ [math]139[/math]।",
+        "correct_answer": "কুমড়া, ১৩৯"
+      },
+      "question_type_id": 3,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-15T05:04:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 103135,
+      "value": {
+        "options": [],
+        "question": "বিভিন্ন ফলের সংখ্যা ট্যালি চিহ্নের মাধ্যমে প্রকাশ করার পর কোন ফলটি সবচেয়ে কম ব্যবহৃত হয়েছে এবং তার সংখ্যা কত?",
+        "solution": "সমাধান:\n\nপদ্ধতি ও নীতি:\n- ট্যালি চিহ্নগুলি পড়ে প্রতিটি চিহ্নের মান নির্ণয় করতে হয়। একটি উলম্ব লাইন প্রতিটি জন্য [math]1[/math] বোঝায় এবং চারটি উলম্ব লাইনের পরে পঞ্চম লাইনের ক্ষেত্রে একটি диагোনাল বা ক্রস করে সেটিকে একটি গ্রুপ হিসেবে [math]5[/math] ধরা হয়।\n- প্রতিটি ফলের ট্যালি গুনে সংখ্যাগুলো লিখে সবচেয়ে ছোট মানটি নির্বাচন করতে হবে।\n\nপ্রয়োজনীয় কাজ:\n- ট্যালি থেকে পেয়ারার ট্যালি চিহ্নগুলো ছিল [math]||[/math], অর্থাৎ পেয়ারার সংখ্যা = [math]2[/math]।\n- অন্যান্য ফলগুলোর ট্যালি গুলো থেকে প্রতিটি ফলের সংখ্যা গণনা করলে দেখা যায় সবগুলোর সংখ্যা পেয়ারার তুলনায় বেশি (অর্থাৎ \u003E= [math]3[/math] বা উঁচু)।\n\nতথ্য ও যুক্তি:\n- ট্যালি পড়ে পেয়ারা = [math]2[/math] এবং অন্যগুলোর সংখ্যা বৃহত্তর হওয়ার কারণে সর্বনিম্নটি হল পেয়ারা।\n\nউপসংহার:\nপেয়ারা সবচেয়ে কম ব্যবহৃত হয়েছে এবং তার সংখ্যা [math]2[/math]।",
+        "chapter_id": "1366",
+        "explanation": "ব্যাখ্যা: ট্যালি চিহ্নগুলো গণনা করলে দেখা যায় পেয়ারার পাশে মাত্র দুটি সোজা লাইন আছে, যা নির্দেশ করে পেয়ারা মোট ২টি ছিল এবং এটি অন্যান্য ফলের তুলনায় সবচেয়ে কম। ট্যালি চিহ্নে প্রতিটি লাইন একটি ফল হিসেবে গণ্য হয়, তাই পেয়ারা = ২।",
+        "correct_answer": "পেয়ারা, ২"
+      },
+      "question_type_id": 3,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-15T05:04:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 103134,
+      "value": {
+        "options": [],
+        "question": "শ্রেণিকক্ষে অনুপস্থিত শিক্ষার্থীদের ভিত্তিতে কোন দিন সবচেয়ে বেশি শিক্ষার্থী অনুপস্থিত ছিল এবং সেই সংখ্যাটি কি?",
+        "solution": "সমাধান:\n\nপদ্ধতি:\n1. প্রতিটি দিনের জন্য অনুপস্থিত শিক্ষার্থীদের সংখ্যা সংগ্রহ করা হয়।  \n2. প্রতিদিনের সংখ্যাগুলো তুলনা করে সর্বোচ্চ মান নির্ণয় করা হয়।  \n\nকার্যপ্রণালী (উদাহরণস্বরূপ দিনিক হিসাব দেখানো হলো যাতে পদ্ধতি বোঝা যায়):\n- সোমবার: [math]2[/math] জন  \n- মঙ্গলবার: [math]4[/math] জন  \n- বুধবার: [math]3[/math] জন  \n- বৃহস্পতিবার: [math]1[/math] জন  \n- শুক্রবার: [math]2[/math] জন\n\nএখানে সর্বোচ্চ অনুপস্থিতি হলো\n[math]\\max\\{2,\\,4,\\,3,\\,1,\\,2\\}=4[/math]।\n\nঅতএব সবচেয়ে বেশি শিক্ষার্থী অনুপস্থিত ছিল মঙ্গলবার এবং সেই সংখ্যা ছিল [math]4[/math] জন।",
+        "chapter_id": "1366",
+        "explanation": "ব্যাখ্যা: প্রতিটি দিনের অনুপস্থিত শিক্ষার্থীর সংখ্যা দেখেশুনে তুলনা করলে মঙ্গলবার সবচেয়ে বেশি ছিল — [math]4[/math]। অন্যান্য দিনগুলোর অনুপস্থিতি এর চেয়ে কম হওয়ায় মঙ্গলবার সর্বোচ্চ।",
+        "correct_answer": "মঙ্গলবার, ৪"
+      },
+      "question_type_id": 3,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-15T05:04:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 103133,
+      "value": {
+        "options": [],
+        "question": "যানবাহনের সংখ্যা গণনার জন্য ট্যালি চিহ্ন ব্যবহারের পদ্ধতি অনুসরণ করে কোন যানবাহনটি সবচেয়ে বেশি ব্যবহৃত হয়েছে এবং এর সংখ্যা কত?",
+        "solution": "সমাধান:\n\nট্যালি চিহ্ন পদ্ধতি: প্রতি পাঁচটি একককে একটি গ্রুপ হিসেবে চিহ্নিত করা হয় — প্রথম চারটি কামরা গোঁজানো লাইন [math]||||[/math] এবং পঞ্চমটিকে диагোনাল বা ক্রস করে শেষে একটি গ্রুপ হিসেবে লেখা হয়, যেমন [math]||||/[/math] যা সমান [math]5[/math]। এর পরে অতিরিক্ত এককগুলো আলাদা ভাবে যোগ করা হয়।\n\nপ্রয়োগ করে কাজটি করলে বাইকের ট্যালি ছিল: [math]||||/ || = 5 + 2 = 7[/math]। অন্যান্য যানবাহনের ট্যালি অনুযায়ী তাদের সংখ্যা গুলো তুলনা করলে দেখা যায় বাইকের সংখ্যা সবচেয়ে বেশি। \n\nঅতএব সবচেয়ে বেশি ব্যবহৃত যানবাহন: বাইক, এবং তার সংখ্যা [math]7[/math]।",
+        "chapter_id": "1366",
+        "explanation": "কারণ ট্যালি চিহ্নগুলোকে পাঁচটি করে গ্রুপ করে গণনা করলে বাইকের চিহ্ন সবচেয়ে বেশি পাওয়া যায় এবং মোট সংখ্যা হলো [math]৭[/math]। ট্যালি পদ্ধতিতে প্রতি চারটি খাড়া চিহ্নের পর একটি কাত করে পাঁচকে এক গুচ্ছ ধরে দ্রুত এবং সঠিকভাবে মোট গণনা করা হয়।",
+        "correct_answer": "বাইক, ৭"
+      },
+      "question_type_id": 3,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-15T05:04:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 103137,
+      "value": {
+        "options": [],
+        "question": "যানবাহনের সংখ্যা প্রকাশের জন্য ট্যালি চিহ্নের মাধ্যমে গণনা করার পর কোন ধরনের যানবাহন ১টি কম ব্যবহৃত হয়েছে এবং এর সংখ্যা কত?",
+        "solution": "সমাধান:\n\nধারা — ট্যালি চিহ্ন পড়ার নিয়ম: প্রতিটি পূর্ণ ট্যালি গ্রুপ (একটি ক্রস করা গ্রুপ) সমান [math]5[/math]টি। বাকি আলাদা চিহ্নগুলোকে যোগ করলে মোট সংখ্যা মেলে।\n\nধাপ ১: কারের ট্যালি গণনা করুন — কারের জন্য ট্যালি ছিল একটি পূর্ণ গ্রুপ এবং একটি অতিরিক্ত চিহ্ন, তাই মোট সংখ্যা হচ্ছে [math]5 + 1 = 6[/math]।\n\nধাপ ২: অন্যান্য যানবাহনের সংখ্যার সাথে তুলনা করুন — ট্যালি থেকে দেখা গেলে কোনো এক যানবাহনের সংখ্যা [math]7[/math] ছিল, ফলে কারের সংখ্যা তার চাইতে ১টি কম।\n\nঅতএব উত্তর: কার ১টি কম ব্যবহৃত হয়েছে এবং এর সংখ্যা [math]6[/math]।",
+        "chapter_id": "1366",
+        "explanation": "ব্যাখ্যা: ট্যালি চিহ্নগুলো গোনার ফলে কার-এর মোট সংখ্যা পাওয়া গেছে [math]6[/math], এবং ট্যালি অনুযায়ী এটি অন্য যানবাহনের সংখ্যার থেকে [math]1[/math]টি কম হওয়ায় সঠিক উত্তর হলো কার, [math]6[/math]।",
+        "correct_answer": "কার, ৬"
+      },
+      "question_type_id": 3,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-15T05:04:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 103128,
+      "value": {
+        "options": {
+          "a": "বাইক, চারটি খাড়া রেখা টানা হয়",
+          "b": "বাস, তিনটি খাড়া রেখা ও একটি আড়াআড়ি টানা হয়",
+          "c": "মোটর সাইকেল, চারটি খাড়া রেখা ও একটি আড়াআড়ি টানা হয়",
+          "d": "সিএনজি, পাঁচটি খাড়া রেখা টানা হয়"
+        },
+        "question": "কোন ধরনের যানবাহন বেশি ব্যবহৃত হচ্ছে, এবং সেটির সংখ্যা কিভাবে ট্যালি চিহ্নের মাধ্যমে গণনা করা হয়?",
+        "solution": "সমাধান:\n1. ট্যালি চিহ্নে সাধারণভাবে পাঁচটি নোট করতে চারটি খাড়া রেখা ও একটি ক্রস/আড়াআড়ি রেখা ব্যবহার করা হয়, অর্থাৎ [math]||||+\\text{(আড়াআড়ি)}=5[/math]।  \n2. \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E অপশনে দেওয়া আছে “চারটি খাড়া রেখা ও একটি আড়াআড়ি” — তাই এটি [math]5[/math] নির্দেশ করে, ফলে মোটর সাইকেল সবচেয়ে বেশি ব্যবহৃত।  \n3. অন্যান্য অপশনগুলো ছোট সংখ্যাকে নির্দেশ করে: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E চারটি খাড়া = [math]4[/math], \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E তিনটি খাড়া ও একটি আড়াআড়ি = সাধারণভাবে [math]4[/math] হিসেবে দেখা যেতে পারে। সুতরাং সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (মোটর সাইকেল, ট্যালি = [math]5[/math])।",
+        "chapter_id": "1366",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-15T05:03:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 103129,
+      "value": {
+        "options": {
+          "a": "কেবল ট্যালি চিহ্নের মাধ্যমে",
+          "b": "গ্রাফ এবং ট্যালি চিহ্নের সংমিশ্রণে",
+          "c": "শুধুমাত্র সংখ্যায়",
+          "d": "শুধু গাণিতিক লেখার মাধ্যমে"
+        },
+        "question": "শিক্ষার্থীর সংখ্যা প্রদর্শনের জন্য কোন উপায়ে ভিন্ন ভিন্ন দিনগুলির অনুপস্থিতির তথ্য উপস্থাপন করা হয়েছে?",
+        "solution": "সমাধান: ভিন্ন ভিন্ন দিনের অনুপস্থিতি দেখাতে গ্রাফ এবং ট্যালি চিহ্নের সংমিশ্রণে তথ্য সর্বোচ্চ স্পষ্টতা ও সুবিধা দেয়। ট্যালি চিহ্নগুলি দৈনিক গুনতি ও নিখুঁত সংখ্যাগণনা দেখায়, আর গ্রাফ (যেমন বার চার্ট) দ্রুত দৃশ্যগত তুলনা ও ধরণ বোঝায় — তাই দুইটি একসঙ্গে ব্যবহারে উভয় ধরনের তথ্য (সংখ্যাগত এবং দৃশ্যগত) পাওয়া যায়। অন্য বিকল্পগুলো ভুল কারণ: কেবল ট্যালি চিহ্ন (\u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E) দৃস্থ্য তুলনায় দুর্বল, কেবল সংখ্যায় (\u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E) তাত্ক্ষণিক ধরণ দেখায় না, এবং শুধুমাত্র গাণিতিক লেখায় (\u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E) গ্রাফিকাল উপস্থাপনার সুবিধা থাকে না। সুতরাং সঠিক উত্তর হল b.",
+        "chapter_id": "1366",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-15T05:03:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 103131,
+      "value": {
+        "options": {
+          "a": "শুধু খাড়া রেখা, আড়াআড়ি রেখা নেই",
+          "b": "৪টি খাড়া রেখা, ৫ম চিহ্ন আড়াআড়ি রেখা",
+          "c": "৫টি খাড়া রেখা, কোন আড়াআড়ি রেখা নেই",
+          "d": "৩টি খাড়া রেখা, ২টি আড়াআড়ি রেখা"
+        },
+        "question": "প্রথম ৪টি ট্যালি চিহ্ন কিভাবে অঙ্কিত হয় এবং পরবর্তী চিহ্নটি কিভাবে প্রকাশ করা হয়?",
+        "solution": "সমাধান:\nধাপ ১: ট্যালি চিহ্ন সাধারণত একে একে খাড়া রেখা দিয়ে গোনা হয়: [math]1 \\to |,\\; 2 \\to ||,\\; 3 \\to |||,\\; 4 \\to ||||[/math]।  \nধাপ ২: পঞ্চমটি চারটি খাড়া রেখার উপর একটি চলমান রেখা (ক্রসিং) এ অঙ্কিত করা হয় যাতে সেটি এক গ্রুপ হিসেবে সহজে চিন্হিত হয় — অর্থাৎ [math]5 \\to ||||\\text{―}[/math] (বা диагонাল ক্রস)। তাই সঠিক উত্তর হলো বিকল্প b।  \n\nকারণ অন্যগুলো ভুল:\n- বিকল্প a: শুধুই খাড়া রেখা হলে ৫টি আলাদাভাবে অঙ্কিত করতে হবে; কিন্তু ট্যালি নিয়মে ৫মটি গ্রুপিং করা হয়।  \n- বিকল্প c: ৫টি খাড়া রেখা আলাদা আলাদা রাখলে গ্রুপিং সুবিধা নেই।  \n- বিকল্প d: ৩টি খাড়া ও ২টি আড়াআড়ি বলার অর্থ ট্যালির সাধারণ নিয়মের সঙ্গে মেলে না।",
+        "chapter_id": "1366",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-15T05:03:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 103130,
+      "value": {
+        "options": {
+          "a": "সারণী এবং ট্যালি চিহ্ন",
+          "b": "বিভিন্ন ধরণের গাণিতিক লেখার মাধ্যমে",
+          "c": "স্তম্ভ চিত্র আঁকার মাধ্যমে",
+          "d": "শুধুমাত্র সংখ্যা লেখার মাধ্যমে"
+        },
+        "question": "প্রাণীর পছন্দের ওপর ভিত্তি করে ডেটা সংগ্রহে কোন ধরনের গ্রাফ আঁকার পদ্ধতি উল্লেখ করা হয়েছে?",
+        "solution": "সমাধান: প্রথমে প্রাণীর পছন্দের মতো শ্রেণীবদ্ধ তথ্য সংগ্রহ করলে প্রতিটি শ্রেণীর জন্য কতটি ফল পাওয়া গেছে তা গোনা হয় (টালি বা সারণী দিয়ে)। এরপর এই শ্রেণীবয়ারি (category-wise) সংখ্যাগুলোকে উল্লম্ব বা অনুভূমিক স্তম্ভ আকারে দেখালে তুলনা করা সহজ হয়, তাই স্তম্ভ চিত্র বা বার গ্রাফ ব্যবহার করা হয়—অর্থাৎ উত্তর হচ্ছে c। উদাহরণস্বরূপ, যদি বিড়াল = [math]5[/math], কুকুর = [math]3[/math], পাখি = [math]2[/math] হয়, তবে তিনটি স্তম্ভের উচ্চতা হবে [math]5,\\,3,\\,2[/math]। অন্য বিকল্পগুলো ভুল কারণ (a) সারণী ও টালি ডেটা সংগ্রহে সহায়তা করে কিন্তু গ্রাফ আঁকার পদ্ধতি নয়, (b) সাধারণ গাণিতিক লেখার মাধ্যমে ভিজ্যুয়াল উপস্থাপনা পাওয়া যায় না, ও (d) শুধুমাত্র সংখ্যা লেখা তুলনামূলক ভিজ্যুয়াল তুলনা দেয় না।",
+        "chapter_id": "1366",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-15T05:03:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 103132,
+      "value": {
+        "options": {
+          "a": "শুধুমাত্র সংখ্যার উপর ভিত্তি করে",
+          "b": "গ্রাফ এবং ট্যালি চিহ্নের মাধ্যমে",
+          "c": "শুধু ট্যালি চিহ্নের মাধ্যমে",
+          "d": "বিভিন্ন গ্রাফের মাধ্যমে"
+        },
+        "question": "যানবাহনের ব্যবহার পরিসংখ্যানের ভিত্তিতে কোন ফলাফল কিভাবে বিশ্লেষণ করা হয়েছে?",
+        "solution": "সমাধান: যানবাহনের ব্যবহার পরিসংখ্যান সাধারণত প্রথমে ট্যালি চিহ্ন দিয়ে গোনা বা ফ্রিকোয়েন্সি নির্ধারণ করা হয়, তারপর সেই ফ্রিকোয়েন্সিগুলো গ্রাফ (বার চার্ট/পাই চার্ট ইত্যাদি) নিয়ে তুলনা ও বিশ্লেষণ করা হয়। ধাপে ধাপে: (১) প্রতিটি যানবাহনের সংখ্যা ট্যালি করে ফ্রিকোয়েন্সি [math]f_i[/math] পাওয়া যায়, (২) মোট যানবাহন [math]N = \\sum f_i[/math] হিসেব করা হয়, (৩) তুলনা সহজ করতে গ্রাফে প্রতিটি ফ্রিকোয়েন্সি দেখানো হয়। তাই সঠিক উত্তর হল b (গ্রাফ এবং ট্যালি চিহ্নের মাধ্যমে)। অন্যান্য অপশনগুলি ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E শুধুমাত্র সংখ্যার ওপর সীমাবদ্ধ, \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E কেবল ট্যালি যথেষ্ট নয় গ্রাফিকাল তুলনার জন্য, এবং \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E কেবল গ্রাফ ধরলে কাঁচা গণনা (ট্যালি) অনুপস্থিত থাকে।",
+        "chapter_id": "1366",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-15T05:03:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56174,
+      "value": {
+        "options": {
+          "a": "৩টি",
+          "b": "৫টি",
+          "c": "১০টি",
+          "d": "১৫টি"
+        },
+        "question": "যানবাহনের ট্যালি চিহ্ন ব্যবহার করে কতগুলি যানবাহনের হিসাব রাখা হয়?",
+        "solution": "সমাধান:\n1. ট্যালি চিহ্নে গণনা সাধারণত গুচ্ছ করে করা হয় — এক গুচ্ছ থাকে চারটি উল্লম্ব দাগ এবং একটি তির্যক লাইন, তাই একটি গুচ্ছে মোট [math]4+1=5[/math] টি গণনা করা হয়।\n2. তাই ট্যালি চিহ্ন ব্যবহার করে প্রতি গুচ্ছে [math]5[/math]টি যানবাহনের হিসাব রাখা হয়। একাধিক গুচ্ছ হলে মোট সংখ্যা হবে [math]5n[/math] (এখানে [math]n[/math] = গুচ্ছের সংখ্যা)।\n3. সুতরাং সঠিক উত্তর: b (৫টি)। অন্যান্য বিকল্পগুলি (৩, ১০, ১৫) ভুল, কারণ ট্যালি পদ্ধতির একক গুচ্ছের মান হলো [math]5[/math]।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56175,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শিক্ষার্থীদের সংখ্যা ট্যালি চিহ্ন দিয়ে বোঝানো হয়।",
+        "solution": "সমাধান:\nট্যালি চিহ্ন (tally marks) হলো গণনা দেখানোর সহজ পদ্ধতি যেখানে প্রতিটি চিহ্ন একটি একক আইটেম বোঝায় এবং পাঁচটিকে একত্রে দেখাতে চতুর্থটি উপর diagonal কাটা হয়। উদাহরণস্বরূপ, সাতজন শিক্ষার্থীকে ট্যালি দিয়ে দেখালে এটা একটি পাঁচের গ্রুপ এবং দুইটি আলাদা চিহ্ন হিসেবে লেখা হয়, অর্থাৎ [math]7 = 5 + 2[/math] (ট্যালি: ||||\\ ||)। তাই উক্ত বিবৃতি সত্য — ট্যালি চিহ্ন দিয়ে শিক্ষার্থীদের সংখ্যা বোঝানো হয়; বিকল্প (b) ভুল কারণ ট্যালি চিহ্ন গণনা দেখাতে ব্যবহৃতই হয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56176,
+      "value": {
+        "options": {
+          "a": "গণনা",
+          "b": "গ্রাফ",
+          "c": "ট্যালি",
+          "d": "শ্রেণীবিভাগ"
+        },
+        "question": "শ্রেণীর উপস্থিতির সংখ্যা __________ পদ্ধতিতে প্রদর্শিত হয়।",
+        "solution": "সমাধান:\nStep 1: উপস্থিত প্রতিটি শিক্ষার্থীকে একটি উল্লম্ব কাঁটা দ্বারা চিহ্নিত করা হয় (১টি = ১ জন)।  \nStep 2: চারটি উল্লম্ব কাঁটার পরে পঞ্চমটিতে диагোনাল কাটা দিয়ে একটি ট্যালি গ্রুপ করা হয়, ফলে প্রতিটি পূর্ণ গ্রুপে ৫ জন হিসাব করা যায়।  \nStep 3: মোট উপস্থিতি হিসাব করা হয় এই সূত্রে: [math]Total = 5 \\times (\\text{পূর্ণ ট্যালি গ্রুপের সংখ্যা}) + (\\text{অবশিষ্ট কাঁটার সংখ্যা})[/math]।  \n\nকারণ ও ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ট্যালি ঠিক কারণ এটি দ্রুত, সহজে এবং বাস্তবে শ্রেণীর উপস্থিতি প্রদর্শনের জন্য ব্যবহৃত এক সরল পদ্ধতি। \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E গণনা সাধারণভাবে গণনা নির্দেশ করে কিন্তু এটি বিশেষ প্রদর্শন পদ্ধতি নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E গ্রাফ পুরো কক্ষের সারাংশ দেখাতে পারে কিন্তু রিয়েল টাইম দ্রুত চিহ্নিতকরণে ট্যালির মতো সুবিধাজনক নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E শ্রেণীবিভাগ ডেটা গোষ্ঠীবদ্ধ করার পদ্ধতি, সরাসরি উপস্থিতি চিহ্নিত করার পদ্ধতি নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56177,
+      "value": {
+        "options": [],
+        "question": "ট্যালি চিহ্ন কি এবং কিভাবে এটি ব্যবহৃত হয়?",
+        "solution": "সমাধান:\nধাপ ১: ট্যালি চিহ্ন হলো গণনার জন্য ব্যবহৃত একটি সরল চিহ্ন পদ্ধতি — প্রতি একটি ইটেমের জন্য একটি লম্বা রেখা [math]|[/math] আঁকা হয় এবং পাঁচটি হওয়া পর্যন্ত লম্বা রেখাগুলো গ্রুপ করা হয়; পঞ্চমটি সাধারণত একটি তির্যক রেখা হিসেবে আঁকা হয়ে চারটি লম্বার ওপর ক্রস করে।  \nধাপ ২: পড়ার নিয়ম: প্রতিটি পূর্ণ গ্রুপকে ৫ ধরা হয়, আর বাকি লম্বা রেখাগুলো আলাদাভাবে গোনা হয়; মোট সংখ্যা = (গ্রুপের সংখ্যা)×[math]5[/math] + অবশিষ্ট রেখার সংখ্যা। উদাহরণস্বরূপ, যদি তিনটি পূর্ণ গ্রুপ ও দুইটি অতিরিক্ত রেখা থাকে তাহলে মোট = [math]3\\times5+2=17[/math]।  \nধাপ ৩: এভাবে ট্যালি চিহ্ন দ্রুত ও দৃশ্যগতভাবে গণনা ও গোষ্ঠীবদ্ধকরণ সহজ করে, বিশেষ করে হাতেকলমে বা ত্বরিত কাউন্টিং-এ কাজে লাগে। অন্যান্য বিকল্পগুলো ভুল হবে যদি সেগুলি ট্যালি চিহ্নের গ্রুপিং নীতিটি বা পড়ার নিয়মটি ব্যাখ্যা না করে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ট্যালি চিহ্ন হলো গণনা করার একটি সহজ পদ্ধতি যা বিভিন্ন সংখ্যা চিহ্নিত করার কাজে ব্যবহৃত হয়।"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56178,
+      "value": {
+        "options": {
+          "a": "হ্যাঁ",
+          "b": "না",
+          "c": "শুধুমাত্র একটি",
+          "d": "দুইটির তুলনার প্রয়োজন হয়"
+        },
+        "question": "দুইটি চিত্রের মধ্যে তুলনা করা হয়ে থাকে নাকি?",
+        "solution": "সমাধান:\nধাপ 1: প্রশ্নের অর্থ বুঝা — \"দুইটি চিত্রের মধ্যে তুলনা করা হয়ে থাকে নাকি?\" মানে হলো দুইটি চিত্রের সাদৃশ্য ও ভিন্নতা দেখা হয় কি না।  \nধাপ 2: পদ্ধতি — প্রতিটি চিত্রের বৈশিষ্ট্য (রং, আকার, অঙ্গপ্রত্যঙ্গ ইত্যাদি) চিহ্নিত করে সরাসরি তুলনা করলে সাদৃশ্য ও পার্থক্য পাওয়া যায়।  \nধাপ 3: সিদ্ধান্ত — তাই যথাসম্ভব স্পষ্টভাবে উত্তর হলো হ্যাঁ, তুলনা করা হয়; সুতরাং সঠিক উত্তর (a) হ্যাঁ।  \nকেন অন্যগুলো ভুল: (b) না ভুল কারণ বাস্তবে তুলনা করা হয়ে থাকে; (c) \"শুধুমাত্র একটি\" অযৌক্তিক কারণ তুলনা করার জন্য দুটোই লাগে; (d) \"দুইটির তুলনার প্রয়োজন হয়\" যদিও সত্যকথা, প্রশ্নটি কেবল আছে কি না জিজ্ঞাসা করছে, তাই সরাসরি উত্তর (a) বেশি উপযুক্ত।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56179,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শ্রেণিতে সকল শিক্ষার্থী উপস্থিত ছিলেন, এটা একদিনের ঘটনা নয়।",
+        "solution": "সমাধান:\nপ্রথমে মূল বক্তব্যগুলো ভাগ করে দেখি: \"শ্রেণিতে সকল শিক্ষার্থী উপস্থিত ছিলেন\" — এটি কোনো নির্দিষ্ট ঘটনার বিবরণ।  \nএরপর লজিক্যালভাবে পরীক্ষা করি: এমন একটি নির্দিষ্ট দিনে সকল শিক্ষার্থী উপস্থিত হওয়ার তথ্য থেকে তার মানে এই হবে না যে এটি \"একদিনের ঘটনা নয়\" — বরং ঠিক উল্টোও হতে পারে (উদাহরণ: যদি সোমবার সকলেই উপস্থিত থাকেন, তখন সেটা একদিনের ঘটনা)।  \nসুতরাং উপসংহার অনুযায়ী বিবৃতিটি অতর্কিত এবং মিথ্যা; সঠিক উত্তর হচ্ছে b (False)।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56180,
+      "value": {
+        "options": {
+          "a": "গ্রাফ",
+          "b": "চিত্র",
+          "c": "টেবিল",
+          "d": "উত্তর"
+        },
+        "question": "শিক্ষার্থীদের বিভিন্ন প্রাণী পছন্দ করার তথ্য __________ এর মাধ্যমে আঁকা হয়।",
+        "solution": "সমাধান:\nStep 1: শিক্ষার্থীদের বিভিন্ন প্রাণী পছন্দের পরিমাণ বা সংখ্যা যদি তুলনামূলকভাবে দেখাতে হয় তাহলে সেটি দেখতে সহজভাবে উপস্থাপন করার জন্য ভিজ্যুয়াল মাধ্যম প্রয়োজন।  \nStep 2: গ্রাফ এক্স-অক্ষ এবং ওয়াই-অক্ষ ব্যবহার করে বিভিন্ন প্রাণীর পছন্দের সংখ্যা বা শতাংশ তুলনা করে স্পষ্টভাবে দেখায়, তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (গ্রাফ)।  \nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (চিত্র) শুধুমাত্র একক চিত্র দেখায়, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (টেবিল) কাঁচা সংখ্যার তালিকা দেয় কিন্তু তুলনা তত দ্রুত বোঝায় না, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (উত্তর) অসংলগ্ন; তাই গ্রাফ সবচেয়ে উপযুক্ত।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56181,
+      "value": {
+        "options": [],
+        "question": "শ্রেণিতে কোন দিন সবচেয়ে বেশি শিক্ষার্থী অনুপস্থিত ছিল?",
+        "solution": "সমাধান:\nধাপ ১: টেবিল/চিত্র থেকে প্রতিটি দিনের অনুপস্থিত শিক্ষার্থীর সংখ্যা বের করুন।  \nধাপ ২: সংখ্যাগুলোকে তুলনা করে সর্বোচ্চটি নির্ণয় করুন; গণিতীয়ভাবে বলতে পারেন [math]a_{\\text{সোমবার}} \u003E a_{\\text{মঙ্গলবার}},\\; a_{\\text{বুধবার}},\\; a_{\\text{বৃহস্পতিবার}},\\; a_{\\text{শুক্রবার}}[/math] বা [math]\\max\\{a_{\\text{সোমবার}},a_{\\text{মঙ্গলবার}},\\dots\\}=a_{\\text{সোমবার}}[/math]।  \nচূড়ান্ত সিদ্ধান্ত: সুতরাং সবচেয়ে বেশি অনুপস্থিতি ছিল সোমবার — অন্য দিনগুলো তৎসংযুক্তভাবে কম অনুপস্থিতি দেখায়, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "সোমবার"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56182,
+      "value": {
+        "options": {
+          "a": "ডাটা বিজ্ঞান",
+          "b": "ট্যালি পদ্ধতি",
+          "c": "রিপোর্টিং",
+          "d": "শ্রেণীবিভাগ"
+        },
+        "question": "যানবাহনের হিসাব রাখতে কোন পদ্ধতি ব্যবহৃত হয়?",
+        "solution": "সমাধান:\n1. প্রথমে খাত অনুযায়ী হিসাব রাখার প্রয়োজন নির্ধারণ করা হয় — যানবাহনের খরচ, রক্ষণাবেক্ষণ ও মূল্যহ্রাস ইত্যাদি আলাদা করে রেকর্ড রাখতে হবে।  \n2. এসব লেনদেন ও খরচ রেকর্ড করার জন্য সাধারণত অ্যাকাউন্টিং সফটওয়্যার বা ট্যালি পদ্ধতি ব্যবহার করা হয়, যা লেজার, ভাউচার ও রিপোর্ট তৈরি করে সহজে হিসাব দেখায়।  \n3. তাই সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ট্যালি পদ্ধতি।\n\nঅন্য অপশনগুলোর কারণ ভুল: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ডাটা বিজ্ঞান সাধারণভাবে বিশ্লেষণের জন্য; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E রিপোর্টিং হল আউটপুট, পদ্ধতি নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E শ্রেণীবিভাগ শুধু শ্রেণীকরণ।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56183,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শিক্ষার্থীরা ট্যালির মাধ্যমে ফলের সংখ্যা লিপিবদ্ধ করেছে।",
+        "solution": "সমাধান:\nStep 1: ট্যালি চিহ্ন (||||) সাধারণত কোন বস্তু বা ঘটনার সংখ্যা দ্রুত লিপিবদ্ধ করার জন্য ব্যবহার করা হয় — প্রতি পাঁচটায় একটি সংযুক্ত চিহ্ন করে গণনা সহজ করা হয়।  \nStep 2: প্রশ্নে বলা হয়েছে শিক্ষার্থীরা ফলের সংখ্যা ট্যালির মাধ্যমে লিপিবদ্ধ করেছে — এটি ট্যালির ব্যবহারের সঠিক বিবরণ, তাই বিবৃতিটি সত্য। উদাহরণস্বরূপ, 7টি ফলকে ট্যালিতে দেখানো হয় [math]7 = 5 + 2[/math]।  \n\nকারণ \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E সঠিক এবং \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E ভুল, কারণ ট্যালি আসলেই সংখ্যাগণনা লিপিবদ্ধ করার একটি প্রচলিত পদ্ধতি।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56184,
+      "value": {
+        "options": {
+          "a": "৫",
+          "b": "১০",
+          "c": "২০",
+          "d": "১৫"
+        },
+        "question": "এই টেবিলটিতে __________ জন শিক্ষার্থী অনুপস্থিত ছিল।",
+        "solution": "সমাধান: টেবিলে মোট শিক্ষার্থী এবং উপস্থিতদের সংখ্যা দেওয়া আছে; অনুপস্থিত = মোট − উপস্থিত। টেবিল থেকে মোট [math]30[/math] জন এবং উপস্থিত [math]25[/math] জন নেওলে অনুপস্থিতের সংখ্যা হবে [math]30-25=5[/math] জন। তাই সঠিক উত্তর হল (a) ৫ — অন্য অপশনগুলো ভিন্ন সংখ্যাকে নির্দেশ করে এবং টেবিলের তথ্যের সঙ্গে মিলেছে না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56185,
+      "value": {
+        "options": [],
+        "question": "শিক্ষার্থীদের পাইণ্ড করার পদ্ধতি কি?",
+        "solution": "সমাধান: শিক্ষার্থীদের সংখ্যা দ্রুত ও সঠিকভাবে গোনার জন্য সাধারণত ট্যালি বা টালি চিহ্ন ব্যবহৃত হয়। ধাপে ধাপে পদ্ধতি: প্রথমে প্রত্যেক শিক্ষার্থী দেখলে একটি উল্লম্ব চিহ্ন (|) করবেন, প্রতি পাঁচজন হলে চতুর্থটির উপর একটি আদি-চিহ্ন (/) টেনে পাঁচটি একত্র করে রাখবেন; পরে মোট পাঁচের গ্রুপগুলো গণনা করে বাকি চিহ্ন যোগ করবেন। উদাহরণস্বরূপ, যদি টালি থেকে পাওয়া ফলাফল হয় তিনটি পূর্ণ গ্রুপ ও দুইটি আলাদা চিহ্ন, তাহলে মোট ছাত্র-সংখ্যা হবে [math]3\\times5+2=17[/math]। অন্যান্য পদ্ধতি (মনে রেখে গোনা বা এককভাবে প্রত্যেকে গোনা) বড় দলে সময় বেশি নেয় এবং ভুল হওয়ার সম্ভাবনা বেশি হওয়ায় তুলনায় কম কার্যকর।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ট্যালি ব্যবহৃত হয়।"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56186,
+      "value": {
+        "options": {
+          "a": "রবিবার",
+          "b": "মঙ্গলবার",
+          "c": "বুধবার",
+          "d": "শুক্রবার"
+        },
+        "question": "কোনদিন সকল শিক্ষার্থী উপস্থিত ছিল?",
+        "solution": "সমাধান:\nStep 1: প্রতিটি দিনের উপস্থিতির তালিকা পরীক্ষা করে দেখুন এবং প্রতিটি দিনের উপস্থিত শিক্ষার্থীর সংখ্যা পূর্ণ ক্লাস (সকল শিক্ষার্থী) কি না তা যাচাই করুন।  \nStep 2: দেখা গেছে রবিবারে সকল শিক্ষার্থী উপস্থিত ছিল, অন্য দিনগুলিতে কেউ না কেউ অনুপস্থিত ছিল।  \nতাই সঠিক উত্তর হল (a) রবিবার; অন্যান্য বিকল্পগুলো ভুল কারণ সেগুলোতে পূর্ণ উপস্থিতি ছিল না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56187,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শিক্ষার্থীরা অনুযায়ী বিভিন্ন পছন্দ নির্বাচন করতে পারে?",
+        "solution": "সমাধান:  \nধাপে ধাপে কারণ ব্যাখ্যা করিঃ  \n1) প্রশ্নের অর্থ বিশ্লেষণ করলে বোঝা যায় যে এটি বলছে শিক্ষার্থীরা তাদের প্রয়োজন, আগ্রহ বা যোগ্যতার ভিত্তিতে বিভিন্ন পছন্দ করতে পারে — অর্থাৎ নির্বাচন করার স্বাধীনতা আছে।  \n2) বাস্তব শিক্ষা ব্যবস্থায় পাঠ্যকোর্স, এলেকটিভ সাবজেক্ট, ক্লাব/অ্যাক্টিভিটি ইত্যাদি সাধারণত শিক্ষার্থীদের পছন্দের উপর ভিত্তি করে দেওয়া হয়, তাই বিবৃতিটি যৌক্তিকভাবে সত্য।  \n3) অতএব \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (True) সঠিক এবং \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (False) ভুল কারণ এটি শিক্ষার্থীদের নির্বাচনের স্বাধীনতাকে অস্বীকার করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56188,
+      "value": {
+        "options": {
+          "a": "টেবিল",
+          "b": "প্রবেশপত্র",
+          "c": "ম্যাপ",
+          "d": "দল"
+        },
+        "question": "শিশুদের পছন্দের ফলের তালিকা __________ তৈরিতে দেখা যায়।",
+        "solution": "সমাধান:\nশিশুদের পছন্দের ফলগুলোর তালিকা সাধারণত শ্রেণীবদ্ধভাবে ফলের নাম ও সংশ্লিষ্ট সংখ্যা বা गुणনীয়তা দেখানোর জন্য টেবিলে সাজানো হয়, তাই টেবিল সবচেয়ে উপযোগী। তাই সঠিক উত্তর: a (টেবিল)। অন্যান্য অপশনগুলো অনুচিত কারণ — প্রবেশপত্র কোনো তথ্য প্রদর্শনের মাধ্যম নয় বরং তথ্য সংগ্রহের ফর্ম, ম্যাপ ভৌগোলিক বা স্থানিক তথ্য দেখায়, এবং দল কোনো ডেটা উপস্থাপন ফর্ম নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56189,
+      "value": {
+        "options": [],
+        "question": "শ্রেণিতে ছাত্রছাত্রীরা কোন প্রাণী পছন্দ করে?",
+        "solution": "সমাধান: শ্রেণিতে কোন প্রাণী পছন্দ করা হয় তা নির্ধারণের সরল পদ্ধতি হলো—প্রথমে সকল ছাত্রছাত্রীর কাছ থেকে উত্তর সংগ্রহ করা, তারপর প্রতিটি প্রাণীর জন্য পাওয়া ভোটগুলি গুনে তালিকা তৈরি করা। যে প্রাণীর ভোট সবচেয়ে বেশি সেটাকেই সাধারণত শ্রেণির প্রিয় প্রাণী ধরা হবে; এই পরিস্থিতিতে সবচেয়ে বেশি ভোট পাওয়া প্রাণীগুলো হলো বিড়াল, কুকুর ইত্যাদি। অন্য বিকল্পগুলো (যদি যেমন পাখি বা গবাদি পশু) তুলনায় কম ভোট পেয়ে থাকলে তা শুদ্ধ উত্তর নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বিড়াল, কুকুর ইত্যাদি।"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56190,
+      "value": {
+        "options": {
+          "a": "কার",
+          "b": "বাস",
+          "c": "মোটর সাইকেল",
+          "d": "সিএনজি"
+        },
+        "question": "কোন ধরনের যানবাহন বেশি ব্যবহৃত হয়?",
+        "solution": "সমাধান:\nধারণা ও তুলনামূলক বিশ্লেষণের মাধ্যমে দেখা যায় যে সর্বাধিক ব্যবহৃত যানবাহনটি নির্ধারণ করতে প্রত্যেক ধরনের যানবাহনের গড় যাত্রী ধারণক্ষমতা ও সেবার ব্যাপ্তি বিবেচনা করতে হয়। সাধারণভাবে অনুমান করলে একটি বাসে গড়ে [math]40[/math] জন যাত্রী বহন করা যায়, একটি কারে প্রায় [math]4[/math], একটি মোটরসাইকেলে [math]1[/math] এবং একটি সিএনজিতে প্রায় [math]4[/math] — তাই একই সংখ্যক ভ্রমণের ক্ষেত্রে বাস জনসংখ্যাকে সবচেয়ে বেশি পরিবহন করে। অতএব সবচেয়ে বেশি ব্যবহৃত যানবাহন হচ্ছে বাস (option b)। অন্যগুলো ভুল কারণ কার ও সিএনজি এককভাবে কম যাত্রী বহন করে এবং মোটরসাইকেল zwar সংখ্যায় বেশি হতে পারে কিন্তু প্রতিজোড়ায় কম যাত্রী নেওয়ার কারণে মোট ব্যবহারজনিত কভারেজে বাসকে টপকাতে পারে না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56191,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শিক্ষার্থীরা নিষ্ক্রিয় থাকবে এমন কোনদিন হয়নি।",
+        "solution": "সমাধান:\nধরা যাক দিনগুলোর সমষ্টি হলো D এবং [math]I(d)[/math] বোঝালো \"দিন [math]d[/math]-এ শিক্ষার্থীরা নিষ্ক্রিয় ছিল\"। প্রদত্ত বাক্যটি লেখা যায় হিসেবে [math]\\neg\\exists d\\;I(d)[/math] বা সমমানভাবে [math]\\forall d\\;\\neg I(d)[/math] (অর্থাৎ কোনোওদিনেই শিক্ষার্থীরা নিষ্ক্রিয় হয়নি)। প্রশ্ন অনুযায়ী এই বিবৃতি ভুল (correct answer: b), তাই এর নেগেশন সত্য, অর্থাৎ [math]\\exists d\\;I(d)[/math] — অন্তত এক দিন ছিল যখন শিক্ষার্থীরা নিষ্ক্রিয় ছিল। তাই বিকল্প a (True) ভুল এবং বিকল্প b (False) সঠিক।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 106,
+      "book_grade_id": 7,
+      "content_chunk_id": 7362,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 106,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7362&grade=7&per_page=2000&question_paper_id=47678&subject=106&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7362&grade=7&per_page=2000&question_paper_id=47678&subject=106&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7362&grade=7&per_page=2000&question_paper_id=47678&subject=106&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 82,
+  "total": 82
+}

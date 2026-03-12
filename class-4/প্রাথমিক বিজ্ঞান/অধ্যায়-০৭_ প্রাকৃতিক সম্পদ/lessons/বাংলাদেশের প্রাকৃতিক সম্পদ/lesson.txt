@@ -1,0 +1,263 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747316,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "প্রাকৃতিক সম্পদকে কয় ভাগে ভাগ করা যায়?",
+        "solution": "ক. ২",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747317,
+      "value": {
+        "options": {
+          "ক": "প্রাকৃতিক গ্যাস",
+          "খ": "কয়লা",
+          "গ": "বায়ুপ্রবাহ",
+          "ঘ": "পেট্রোলিয়াম"
+        },
+        "question": "তোমাকে নবায়নযোগ্য সম্পদের উদাহরণ লিখতে বলা হলো। তুমি নিচের কোনটি লিখবে?",
+        "solution": "গ. বায়ুপ্রবাহ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747318,
+      "value": {
+        "options": {
+          "ক": "খনিজ সম্পদ",
+          "খ": "নবায়নযোগ্য প্রাকৃতিক সম্পদ",
+          "গ": "অনবায়নযোগ্য প্রাকৃতিক সম্পদ",
+          "ঘ": "ভূমি সম্পদ"
+        },
+        "question": "যেসব সম্পদ ব্যবহারের ফলে নিঃশেষ হয় না, তাদেরকে কী বলে?",
+        "solution": "খ. নবায়নযোগ্য প্রাকৃতিক সম্পদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747319,
+      "value": {
+        "options": {
+          "ক": "বিদ্যুৎশক্তি",
+          "খ": "পারমাণবিক শক্তি",
+          "গ": "সৌরশক্তি",
+          "ঘ": "কয়লা"
+        },
+        "question": "নিচের কোন শক্তিটি নবায়নযোগ্য?",
+        "solution": "গ. সৌরশক্তি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747320,
+      "value": {
+        "options": {
+          "ক": "বায়ু",
+          "খ": "তেল",
+          "গ": "কয়লা",
+          "ঘ": "খনিজ"
+        },
+        "question": "কোন প্রাকৃতিক সম্পদটি নবায়নযোগ্য?",
+        "solution": "ক. বায়ু",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747321,
+      "value": {
+        "options": {
+          "ক": "প্রাকৃতিক গ্যাস",
+          "খ": "সৌরশক্তি",
+          "গ": "বায়ুশক্তি",
+          "ঘ": "সমুদ্রের ঢেউ"
+        },
+        "question": "নিচের কোনটি অনবায়নযোগ্য শক্তি?",
+        "solution": "ক. প্রাকৃতিক গ্যাস",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7410,
+      "created_at": "2025-11-27T10:49:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7410&grade=7&lesson=13503&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7410&grade=7&lesson=13503&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7410&grade=7&lesson=13503&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}

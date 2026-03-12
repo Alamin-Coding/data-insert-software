@@ -1,0 +1,225 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746857,
+      "value": {
+        "options": {
+          "ক": "সত্যবাদী",
+          "খ": "প্রতিজ্ঞা রক্ষাকারী",
+          "গ": "দায়িত্বহীন",
+          "ঘ": "মিথ্যাবাদী"
+        },
+        "question": "যুলকিফল অর্থ কী?",
+        "solution": "খ. প্রতিজ্ঞা রক্ষাকারী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746858,
+      "value": {
+        "options": {
+          "ক": "হযরত মূসা (আ)",
+          "খ": "হযরত ঈসা (আ)",
+          "গ": "হযরত যুলকিফল (আ)",
+          "ঘ": "হযরত শীষ (আ)"
+        },
+        "question": "কোন নবি কখনো রাগ করতেন না?",
+        "solution": "গ. হযরত যুলকিফল (আ)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746859,
+      "value": {
+        "options": {
+          "ক": "১টি",
+          "খ": "৩টি",
+          "গ": "৫টি",
+          "ঘ": "৭টি"
+        },
+        "question": "নবি হযরত ইয়াসা (আ) প্রতিনিধি নিয়োগের জন্য কয়টি শর্ত দিয়েছিলেন?",
+        "solution": "খ. ৩টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746860,
+      "value": {
+        "options": {
+          "ক": "হযরত ইয়াকুব (আ)",
+          "খ": "হযরত ইয়াহ্ইয়া (আ)",
+          "গ": "হযরত যুলকিফল (আ)",
+          "ঘ": "হযরত যাকারিয়া (আ)"
+        },
+        "question": "ইয়াসা (আ) এর শর্ত পালন করে তাঁর প্রতিনিধি নির্বাচিত হয়েছিলেন-",
+        "solution": "গ. হযরত যুলকিফল (আ)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746861,
+      "value": {
+        "options": {
+          "ক": "ইবলিস শয়তান",
+          "খ": "দুষ্ট বুড়ি",
+          "গ": "দুষ্ট বৃদ্ধ",
+          "ঘ": "সুন্দরী রমণী"
+        },
+        "question": "কে পর পর তিনদিন যুলকিফল (আ)-কে পথভ্রষ্ট করতে চাইল?",
+        "solution": "ক. ইবলিস শয়তান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 284,
+      "book_grade_id": 7,
+      "content_chunk_id": 7334,
+      "created_at": "2025-11-27T10:02:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 284,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7334&grade=7&lesson=13497&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7334&grade=7&lesson=13497&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7334&grade=7&lesson=13497&per_page=200&question_paper_id=47663&subject=284&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

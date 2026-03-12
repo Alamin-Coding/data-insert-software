@@ -1,0 +1,4174 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 744205,
+      "value": {
+        "options": [],
+        "question": "প্রসাদ",
+        "solution": "দেবতার উদ্দেশে নিবেদিত খাদ্যসামগ্রী",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744205,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744206,
+      "value": {
+        "options": [],
+        "question": "ক্ষীর",
+        "solution": "দুধ দিয়ে তৈরি মিষ্টান্ন।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744206,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744207,
+      "value": {
+        "options": [],
+        "question": "কদলী",
+        "solution": "কলা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744207,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744208,
+      "value": {
+        "options": [],
+        "question": "ফজলি আম",
+        "solution": "খুবই সুগন্ধ ও মিষ্টি স্বাদের আম।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744208,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744209,
+      "value": {
+        "options": [],
+        "question": "লোকটি কোন কোন ফল খেতে চায়?",
+        "solution": "লোকটি সবরি কলা, ফজলি আম এসব খেতে চায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744209,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744210,
+      "value": {
+        "options": [],
+        "question": "সে কোন আম খেতে চাইছে?",
+        "solution": "সে ফজলি আম খেতে চাইছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744210,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744211,
+      "value": {
+        "options": [],
+        "question": "নেমন্তন্ন",
+        "solution": "নিমন্ত্রণ, দাওয়াত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744211,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744212,
+      "value": {
+        "options": [],
+        "question": "সাধ",
+        "solution": "ইচ্ছা, আকাঙ্ক্ষা, বাসনা, কামনা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744212,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744213,
+      "value": {
+        "options": [],
+        "question": "কবি ও কবিতার নামসহ 'নেমন্তন্ন' কবিতার প্রথম ৮ লাইন লেখ",
+        "solution": "\u003Cdiv style=\"text-align: center;\"\u003E\u003Cstrong\u003Eনেমন্তন্ন\u003C/strong\u003E\u003Cbr /\u003E\nঅন্নদাশঙ্কর রায়\u003Cbr /\u003E\n\u003Cbr /\u003E\nযাচ্ছ কোথা?\u003Cbr /\u003E\nচাংড়িপোতা।\u003Cbr /\u003E\nকিসের জন্য?\u003Cbr /\u003E\nনেমন্তন্ন।\u003Cbr /\u003E\nবিয়ের বুঝি?\u003Cbr /\u003E\nনা, বাবুজি।\u003Cbr /\u003E\nকিসের তবে?\u003Cbr /\u003E\nভজন হবে।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 51,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 51,
+        "name": "কবিতা",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744214,
+      "value": {
+        "options": [],
+        "question": "লোকটির চাংড়িপোতা যাওয়ার মূল কারণ কী বুঝিয়ে লেখ।",
+        "solution": "\u003Cdiv\u003Eলোকটির চাংড়িপোতা যাওয়ার মূল কারণ প্রসাদ ভোজন করা। লোকটি ভজন শোনার আমন্ত্রণে সেখানে যাচ্ছে। কিন্তু ভজন শোনার চেয়ে সেখানকার খাবারের প্রতিই তার আগ্রহ বেশি। ভজন শোনার নাম করে সে মূলত পেটপুরে সুস্বাদু খাবার খেতে চায়।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744215,
+      "value": {
+        "options": [],
+        "question": "লোকটির ভজন শোনার নেমন্তন্ন ছিল _____ ।",
+        "solution": "\u003Cdiv\u003Eচাংড়িপোতা\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744216,
+      "value": {
+        "options": [],
+        "question": "থামো",
+        "solution": "চলো",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744217,
+      "value": {
+        "options": [],
+        "question": "সাধ",
+        "solution": "ইচ্ছা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744218,
+      "value": {
+        "options": [],
+        "question": "নেমন্তন্ন",
+        "solution": "লোকটি আজ নেমন্তন্নে যাচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744219,
+      "value": {
+        "options": [],
+        "question": "ছানার পোলাও",
+        "solution": "লোকটির ছানার পোলাও খাওয়ার ইচ্ছা।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744220,
+      "value": {
+        "options": [],
+        "question": "থামো",
+        "solution": "এবার থামো! আর বলতে হবে না।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744221,
+      "value": {
+        "options": {
+          "ক": "বিয়ের",
+          "খ": "জামাই ষষ্ঠীর",
+          "গ": "পুজোর",
+          "ঘ": "ভজনের"
+        },
+        "question": "‘নেমন্তন্ন’ ছড়াটিতে লোকটি কীসের নিমন্ত্রণে যাচ্ছিল?",
+        "solution": "ঘ. ভজনের",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744222,
+      "value": {
+        "options": {
+          "ক": "১৪",
+          "খ": "১৫",
+          "গ": "১৬",
+          "ঘ": "১৭"
+        },
+        "question": "অন্নদাশঙ্কর রায় মার্চের কত তারিখ জন্মগ্রহণ করেন?",
+        "solution": "খ. ১৫",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744223,
+      "value": {
+        "options": {
+          "ক": "বিনুর বই",
+          "খ": "তিনুর বই",
+          "গ": "মিনুর বই",
+          "ঘ": "নিলুর বই"
+        },
+        "question": "অন্নদাশঙ্কর রায়ের লেখা বই হলো—",
+        "solution": "ক. বিনুর বই",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744224,
+      "value": {
+        "options": [],
+        "question": "ন্ত",
+        "solution": "ন্&zwnj; + ত = অন্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744225,
+      "value": {
+        "options": [],
+        "question": "ঙ্ক",
+        "solution": "ঙ্&zwnj; + ক = শঙ্কায়",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744226,
+      "value": {
+        "options": [],
+        "question": "ক্ষ",
+        "solution": "ক্&zwnj; + ষ = ক্ষীর",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744227,
+      "value": {
+        "options": [],
+        "question": "ল্প",
+        "solution": "ল্&zwnj; + প = পরিকল্পনা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744228,
+      "value": {
+        "options": [],
+        "question": "ভক্তিভরে যা গীত হয়",
+        "solution": "ভজন",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744229,
+      "value": {
+        "options": [],
+        "question": "রাবড়ি",
+        "solution": "খুবই মিষ্টি একধরনের খাবার।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744229,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744230,
+      "value": {
+        "options": [],
+        "question": "এ কবিতায় কী কী খাবারের নাম উল্লেখ আছে?",
+        "solution": "এ কবিতায় বেশকিছু খাবারের নাম রয়েছে। যেমন-ছানার পোলাও, সরপুরিয়া, রাবড়ি পায়েস, ক্ষীর, কদলী, সবরি কলা এবং ফজলি আম।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744230,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744231,
+      "value": {
+        "options": [],
+        "question": "ভজন আর ভোজনের মধ্যে পার্থক্য কী?",
+        "solution": "ভজন হচ্ছে দেব-দেবীর আরাধনা করা। অর্থাৎ দেব-দেবীকে খুশি করার জন্য যে প্রশংসামূলক গান গাওয়া হয় সেটাকে ভজন বলে। আর ভোজন হচ্ছে আহার করা। ভজন শেষে যে আশীর্বাদমূলক প্রসাদ বা খাবার দেওয়া হয় এখানে সেটাকেই ভোজন বলা হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744231,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744232,
+      "value": {
+        "options": [],
+        "question": "লোকটি খেতে চায়&nbsp;_____ ।",
+        "solution": "\u003Cdiv\u003Eছানার পোলাও\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744232,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744233,
+      "value": {
+        "options": [],
+        "question": "বাঃ কী ফলার&nbsp;_____ ।",
+        "solution": "\u003Cdiv\u003Eসবরি কলার\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744233,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744234,
+      "value": {
+        "options": [],
+        "question": "লোকটি তার বন্ধুকে সাথে নিতে চাইল না কেন?",
+        "solution": "\u003Cdiv\u003Eলোকটি তার বন্ধুকে সাথে নিতে চাইল না, কারণ যদি তার খাবার কম হয় সেই চিন্তায়। মজাদার খাবারের কথা শুনে বন্ধুটি তার সাথে যেতে চায়। কিন্তু তাকে খাবারের ভাগ দিতে হবে ভেবে সে তার বন্ধুকে সাথে নিয়ে যেতে রাজি হয় না। মূলত লোকটি বেশি খাবারের লোভে বন্ধুকে সাথে নেয় না।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744235,
+      "value": {
+        "options": [],
+        "question": "কোথা",
+        "solution": "\u003Cdiv\u003Eকোথায়\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744236,
+      "value": {
+        "options": [],
+        "question": "সাধ",
+        "solution": "\u003Cdiv\u003Eইচ্ছা।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744237,
+      "value": {
+        "options": [],
+        "question": "'সাধ' শব্দের অর্থ _____।",
+        "solution": "\u003Cdiv\u003Eইচ্ছা\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744238,
+      "value": {
+        "options": [],
+        "question": "যাচ্ছ",
+        "solution": "আসছ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744239,
+      "value": {
+        "options": [],
+        "question": "প্রসাদ",
+        "solution": "অনুগ্রহ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744240,
+      "value": {
+        "options": [],
+        "question": "বন্ধু",
+        "solution": "পথে এক বন্ধুর সঙ্গে দেখা।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744241,
+      "value": {
+        "options": {
+          "ক": "সরপুরিয়ার",
+          "খ": "সড়পুরিয়ার",
+          "গ": "শরপুরিয়ার",
+          "ঘ": "সরপোরিয়ার"
+        },
+        "question": "নিচের কোন বানানটি সঠিক?",
+        "solution": "ক. সরপুরিয়ার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744242,
+      "value": {
+        "options": {
+          "ক": "ক্ষির",
+          "খ": "ক্ষিদ",
+          "গ": "ক্ষীর",
+          "ঘ": "খির"
+        },
+        "question": "নিচের কোন বানানটি সঠিক?",
+        "solution": "গ. ক্ষীর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744243,
+      "value": {
+        "options": {
+          "ক": "বাংলা",
+          "খ": "ইংরেজি",
+          "গ": "ফরাসি",
+          "ঘ": "ফারসি"
+        },
+        "question": "অন্নদাশঙ্কর রায় কোন সাহিত্যে অনার্স করেন?",
+        "solution": "খ. ইংরেজি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744244,
+      "value": {
+        "options": [],
+        "question": "শ্ন",
+        "solution": "শ্&zwnj; + ন = প্রশ্ন",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744245,
+      "value": {
+        "options": [],
+        "question": "দই, চিড়া, মিষ্টি, দুধ ও বিভিন্ন ফল দিয়ে তৈরি ভোজনদ্রব্য",
+        "solution": "ফলার",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744246,
+      "value": {
+        "options": [],
+        "question": "সাধ",
+        "solution": "ইচ্ছা",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744246,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744247,
+      "value": {
+        "options": [],
+        "question": "সরপুরিয়া",
+        "solution": "দুধের সর দিয়ে তৈরি একরকম মিষ্টি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744247,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744248,
+      "value": {
+        "options": [],
+        "question": "ফলার",
+        "solution": "দই, চিঁড়া, দুধ, মিষ্টান্ন, বিভিন্ন প্রকার ফল ইত্যাদির মিশ্রণে প্রস্তুত ভোজ্যদ্রব্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744248,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744249,
+      "value": {
+        "options": [],
+        "question": "সবরি কলা",
+        "solution": "একরকম কলার নাম।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744249,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744250,
+      "value": {
+        "options": [],
+        "question": "কোন খাবার সে আয়েস করে খেতে চায়?",
+        "solution": "লোকটির কাছে সব ধরনের খাবারই খুব প্রিয়। তবে রাবড়ি পায়েস সে খুব আয়েস করে খেতে চায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744250,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744251,
+      "value": {
+        "options": [],
+        "question": "বিয়ে",
+        "solution": "বিবাহ, পরিণয়, সাদি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744251,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744252,
+      "value": {
+        "options": [],
+        "question": "লোকটি আয়েশ করে খেতে চায় _____ ।",
+        "solution": "রাবড়ি পায়েস",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744252,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744253,
+      "value": {
+        "options": [],
+        "question": "লোকটি কীসের ভোজনের কথা বলল? সে কোন কলা খেতে চায়?",
+        "solution": "\u003Cdiv\u003Eলোকটি প্রসাদ ভোজনের কথা বলল। সে সবরি কলা খেতে চায়।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744254,
+      "value": {
+        "options": [],
+        "question": "ভজন কী? ছড়ায় ভজনের সঙ্গে আর কী আছে?",
+        "solution": "\u003Cdiv\u003Eভজন হলো প্রার্থনাসংগীত। ছড়ায় ভজনের সঙ্গে প্রসাদ ভোজনের কথা বলা হয়েছে।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744255,
+      "value": {
+        "options": [],
+        "question": "লোকটির ছানার পোলাও খেতে চাওয়ার মাধ্যমে কী প্রকাশ পেয়েছে?",
+        "solution": "\u003Cdiv\u003Eলোকটি চাংড়িপোতা যাচ্ছিল ভজন শোনার আমন্ত্রণে। কিন্তু তার কথাবার্তায় ফুটে উঠেছে সেখানে নানা প্রকার খাবারের প্রতি আকর্ষণ। সেখানে গিয়ে সে ছানার পোলাও খেতে চেয়েছে। এ কথার মধ্য দিয়ে মূলত ভজন শোনার পরিবর্তে খাবারের প্রতি তার লোভ প্রকাশ পেয়েছে।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744256,
+      "value": {
+        "options": [],
+        "question": "বন্ধুটি চাংড়িপোতা যেতে চাইল কেন?",
+        "solution": "\u003Cdiv\u003Eলোকটি ভজন শোনার জন্য চাংড়িপোতা যাচ্ছিল।.. সেখানে ভজনের সাথে প্রসাদ ভোজনও হবে। বন্ধুটি একের পর এক প্রশ্ন করে জানতে পারল ওখানে অত্যন্ত সুস্বাদু খাবারের আয়োজন করা হয়েছে। বন্ধুটি এত সব সুস্বাদু খাবারের কথা শুনে নিজেও চাংড়িপোতা যেতে চাইল।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744257,
+      "value": {
+        "options": [],
+        "question": "ছানা",
+        "solution": "\u003Cdiv\u003Eঅম্লজাতীয় পদার্থ মিশিয়ে দুধের জলীয় অংশ পৃথক করে প্রাপ্ত পিণ্ডাকার খাদ্যবস্তু।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744258,
+      "value": {
+        "options": [],
+        "question": "মশাই",
+        "solution": "\u003Cdiv\u003Eজনাব।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744259,
+      "value": {
+        "options": [],
+        "question": "পথে এক _____ সাথে দেখা।",
+        "solution": "\u003Cdiv\u003Eবন্ধুর\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744260,
+      "value": {
+        "options": [],
+        "question": "লোকটি _____ করে খেতে চায় রাবড়ি পায়েস।",
+        "solution": "\u003Cdiv\u003Eআয়েশ\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744261,
+      "value": {
+        "options": [],
+        "question": "আহার",
+        "solution": "ভোজন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744262,
+      "value": {
+        "options": [],
+        "question": "ভজন",
+        "solution": "কীর্তন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744263,
+      "value": {
+        "options": [],
+        "question": "ইচ্ছা",
+        "solution": "তোমার সঙ্গে যাওয়ার ইচ্ছা নেই।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744264,
+      "value": {
+        "options": [],
+        "question": "ইচ্ছে কী আর\u003Cbr\u003E\nসরপুরিয়ার\u003Cbr\u003E\nআঃ কী আয়েস\u003Cbr\u003E\nরাবড়ি পায়েস\u003Cbr\u003E\nএই কেবলি\u003Cbr\u003E\nক্ষীর কদলী\u003Cbr\u003E\nবাঃ কী ফলার\u003Cbr\u003E\nসবরি কলার",
+        "solution": "ইচ্ছে কী আর?\u003Cbr /\u003E\nসরপুরিয়ার।\u003Cbr /\u003E\nআঃ কী আয়েস।\u003Cbr /\u003E\nরাবড়ি পায়েস।\u003Cbr /\u003E\nএই কেবলি?\u003Cbr /\u003E\nক্ষীর কদলী।\u003Cbr /\u003E\nবাঃ কী ফলার!\u003Cbr /\u003E\nসবরি কলার।",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744265,
+      "value": {
+        "options": {
+          "ক": "তেলেনাপোতা",
+          "খ": "চাংড়িপোতা",
+          "গ": "মধুপুর",
+          "ঘ": "পিঁপুলপোতা"
+        },
+        "question": "‘নেমন্তন্ন’ ছড়াটিতে লোকটি কোথায় যাচ্ছিল?",
+        "solution": "খ. চাংড়িপোতা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744266,
+      "value": {
+        "options": {
+          "ক": "ফজলি",
+          "খ": "ল্যাংড়া",
+          "গ": "গোপালভোগ",
+          "ঘ": "অরুণা"
+        },
+        "question": "‘নেমন্তন্ন’ ছড়াটিতে লোকটি কী আম খেতে চায়?",
+        "solution": "ক. ফজলি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744267,
+      "value": {
+        "options": {
+          "ক": "কলকাতা",
+          "খ": "পশ্চিমবঙ্গ",
+          "গ": "ঢেকাঁনল",
+          "ঘ": "আসাম"
+        },
+        "question": "অন্নদাশঙ্কর রায় ভারতের কোন জেলায় জন্মগ্রহণ করেন?",
+        "solution": "গ. ঢেকাঁনল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744268,
+      "value": {
+        "options": [],
+        "question": "'নেমন্তন্ন' কবিতাটির মূলভাব লেখ।",
+        "solution": "এ ছড়াটিতে আসলে একটা হাসির গল্প বলা হয়েছে। একজন লোক ভজন গান শুনতে চাংড়িপোতা নামে একটা জায়গায় যাচ্ছে। পথে এক বন্ধুর সাথে দেখা। বন্ধু একটার পর একটা প্রশ্ন করছে, আর সে উত্তর দিয়ে যাচ্ছে। ধীরে ধীরে বোঝা গেল- ভজন গান শোনার চেয়ে তার অনেক বেশি লোভ ভোজনে, অর্থাৎ ভালো ভালো খাবার খাওয়ায়। তার বন্ধু সঙ্গে যেতে চাইলেও সে তাকে নেয় না। কারণ,\u003Cbr /\u003E\nবন্ধু সঙ্গে গেলে তার খাওয়া যদি কম হয়- এই ভয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 61,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 61,
+        "name": "মূলভাব",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744269,
+      "value": {
+        "options": [],
+        "question": "ভজন",
+        "solution": "একধরনের গান",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744269,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744270,
+      "value": {
+        "options": [],
+        "question": "ভোজন",
+        "solution": "আহার গ্রহণ, ভক্ষণ, খাওয়ানো",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744270,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744271,
+      "value": {
+        "options": [],
+        "question": "আয়েস",
+        "solution": "আরাম, তৃপ্তি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744271,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744272,
+      "value": {
+        "options": [],
+        "question": "লোকটি কোথায় যাচ্ছে? কেন যাচ্ছে?",
+        "solution": "লোকটি চাংড়িপোতা যাচ্ছে। সেখানে তার নিমন্ত্রণ রয়েছে। সেখানে ভজন শেষে প্রসাদ ভোজন হবে। তাই সে সেখানে যাচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744272,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744273,
+      "value": {
+        "options": [],
+        "question": "লোকটি চাংড়িপোতা যাচ্ছে&nbsp; _____ ।",
+        "solution": "ভজন শুনতে",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744273,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744274,
+      "value": {
+        "options": [],
+        "question": "শুধু ভজন নয়, সাথে আছে&nbsp;_____ ।",
+        "solution": "প্রসাদ ভোজন",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744274,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744275,
+      "value": {
+        "options": [],
+        "question": "বাবুজি",
+        "solution": "\u003Cdiv\u003Eভদ্রলোকের প্রতি সম্মানসূচক সম্বোধন\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744276,
+      "value": {
+        "options": [],
+        "question": "ভজন গান শোনার চেয়ে অনেক বেশি লোভ _____।",
+        "solution": "\u003Cdiv\u003Eভোজনে\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744277,
+      "value": {
+        "options": [],
+        "question": "ইচ্ছা",
+        "solution": "অনিচ্ছা",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744278,
+      "value": {
+        "options": [],
+        "question": "না",
+        "solution": "হ্যাঁ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744279,
+      "value": {
+        "options": [],
+        "question": "পায়েস",
+        "solution": "মিষ্টান্ন",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744280,
+      "value": {
+        "options": {
+          "ক": "কামিনী রায়",
+          "খ": "হরিহর রায়",
+          "গ": "অন্নদাশঙ্কর রায়",
+          "ঘ": "সুকুমার রায়"
+        },
+        "question": "‘নেমন্তন্ন’ ছড়াটি কে লিখেছেন?",
+        "solution": "গ. অন্নদাশঙ্কর রায়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744281,
+      "value": {
+        "options": {
+          "ক": "মোরগ পোলাও",
+          "খ": "মাংস পোলাও",
+          "গ": "চিংড়ি পোলাও",
+          "ঘ": "ছানার পোলাও"
+        },
+        "question": "‘নেমন্তন্ন’ ছড়াটিতে লোকটি খেতে চায়—",
+        "solution": "ঘ. ছানার পোলাও",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744282,
+      "value": {
+        "options": {
+          "ক": "অমৃতসাগর কলা",
+          "খ": "চম্পা কলা",
+          "গ": "সবরি কলা",
+          "ঘ": "সাগরি কলা"
+        },
+        "question": "‘নেমন্তন্ন’ ছড়াটিতে লোকটি খেতে চায়—",
+        "solution": "ঘ. সাগরি কলা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744283,
+      "value": {
+        "options": {
+          "ক": "১৯০১ সালে",
+          "খ": "১৯০২ সালে",
+          "গ": "১৯০৩ সালে",
+          "ঘ": "১৯০৫ সালে"
+        },
+        "question": "অন্নদাশঙ্কর রায় জন্মগ্রহণ করেন—",
+        "solution": "ঘ. ১৯০৫ সালে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744284,
+      "value": {
+        "options": {
+          "ক": "গল্পকার",
+          "খ": "ছড়াকার",
+          "গ": "কবি",
+          "ঘ": "নাট্যকার"
+        },
+        "question": "অন্নদাশঙ্কর রায় একজন বিখ্যাত—",
+        "solution": "খ. ছড়াকার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744285,
+      "value": {
+        "options": {
+          "ক": "উড়িষ্যায়",
+          "খ": "কলকাতায়",
+          "গ": "ঢাকায়",
+          "ঘ": "ঢেঙ্কানলে"
+        },
+        "question": "অন্নদাশঙ্কর রায় মৃত্যুবরণ করেন—",
+        "solution": "খ. কলকাতায়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744286,
+      "value": {
+        "options": [],
+        "question": "ন্ন",
+        "solution": "ন্&zwnj; + ন = ভিন্নতা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744287,
+      "value": {
+        "options": [],
+        "question": "চ্ছ",
+        "solution": "চ্&zwnj; + ছ = যাচ্ছে",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744288,
+      "value": {
+        "options": [],
+        "question": "দেবতার অনুগ্রহ",
+        "solution": "প্রসাদ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744289,
+      "value": {
+        "options": [],
+        "question": "দুধ দিয়ে তৈরি মিষ্টান্ন",
+        "solution": "ক্ষীর",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744290,
+      "value": {
+        "options": [],
+        "question": "দুধের সর দিয়ে তৈরি মিষ্টি",
+        "solution": "সরপুরিয়া",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-11-27T06:35:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 189332,
+      "value": {
+        "options": {
+          "a": "খাবারের লোভ",
+          "b": "বিয়ের অনুষ্ঠান",
+          "c": "ভজন গান",
+          "d": "শিক্ষা"
+        },
+        "question": "ছড়াটির মূল বিষয় কী?",
+        "chapter_id": "1339",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-08-07T16:44:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186778,
+      "value": {
+        "options": {
+          "a": "বিয়ের জন্য",
+          "b": "ভজন শুনতে",
+          "c": "প্রসাদ ভোজন করতে",
+          "d": "বন্ধুর সাথে দেখা করতে"
+        },
+        "question": "কী কারণে লোকটি চাড়িপোতা যায়?",
+        "chapter_id": "1339",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186779,
+      "value": {
+        "options": {
+          "a": "পায়েস",
+          "b": "বিরিয়ানি",
+          "c": "রাবড়ি",
+          "d": "চাটনি"
+        },
+        "question": "কবিতায় উল্লেখিত ভজনের সঙ্গে কোন খাবারের নাম রয়েছে?",
+        "chapter_id": "1339",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136729,
+      "value": {
+        "options": {
+          "a": "কারণ সে ভোজনের জন্য বেশি লোভী।",
+          "b": "কারণ সে গান শুনতে পছন্দ করে।",
+          "c": "কারণ সে ভজন গানের প্রতি আলাদা আগ্রহ প্রকাশ করে।",
+          "d": "কারণ তার বন্ধু তাকে ভোজনের কথা বলেছে।"
+        },
+        "question": "কী কারণে লোকটি ভজন গান শোনার পরিবর্তে ভোজনের প্রতি বেশি আগ্রহী?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নটি বোঝা—লোকটি ভজন গান শোনার পরিবর্তে খাওয়ার দিকে বেশি মনোযোগ দেয়।  \nStep 2: বিকল্পগুলো যাচাই করা—(a) সরাসরি বলে সে খাবারের প্রতি লোভী; (b) গান পছন্দ করলে গান শোনার প্রতি আগ্রহ বেশি থাকা উচিত; (c) ভজন গানের প্রতি আলাদা আগ্রহ থাকলে গানেই মনোযোগ দিত; (d) বন্ধুর কথাই প্রধান কারণ হিসেবে উল্লেখ করলে তা কন্ঠস্থ প্রমাণ ছাড়া অনিশ্চিত।  \nStep 3: সিদ্ধান্ত—সবচেয়ে স্পষ্ট ও সরল কারণ হল বিকল্প (a): সে ভোজনের জন্য বেশি লোভী, যা লোকটির আচরণকে সরাসরি ব্যাখ্যা করে।  \nঅপর বিকল্পগুলো ভুল কারণ সেগুলো প্রশ্নে প্রদত্ত আচরণ (গান না শোনা ও খাওয়াকে অগ্রাধিকার দেওয়া) এর সাথে বিরোধী বা অপর্যাপ্ত ব্যাখ্যা দেয়।",
+        "chapter_id": "1339",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136730,
+      "value": {
+        "options": {
+          "a": "যাত্রা",
+          "b": "বিনুর বই",
+          "c": "কেউ না",
+          "d": "প্রেমের গল্প"
+        },
+        "question": "অন্নদাশঙ্কর রায়ের লেখা কোন গ্রন্থ শিশুদের জন্য জনপ্রিয়?",
+        "solution": "সমাধান:\nধাপে ধাপে ব্যাখ্যা:\n1. অন্নদাশঙ্কর রায় বাংলা সাহিত্যের একজন প্রখ্যাত লেখক, যিনি ছোটদের জন্য রচনাও লিখেছেন; তাঁর অন্যতম জনপ্রিয় শিশু-কিশোর সাহিত্যিক গ্রন্থ হলো \"বিনুর বই\"।  \n2. তাই প্রশ্নে প্রদত্ত বিকল্পগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (\"বিনুর বই\") সরাসরি শিশুদের জন্য জনপ্রিয় গ্রন্থ হিসেবে মানানসই।  \n3. অন্য বিকল্পগুলো—\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (\"যাত্রা\"), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (\"কেউ না\"), ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (\"প্রেমের গল্প\")—শিশু সাহিত্য হিসেবে পরিচিত নয়, সুতরাং সেগুলো ভুল।  \n\nউপসংহার: সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E.",
+        "chapter_id": "1339",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56419,
+      "value": {
+        "options": {
+          "a": "ঢাকা",
+          "b": "চাড়িপোতা",
+          "c": "কলকাতা",
+          "d": "নয়াদিল্লি"
+        },
+        "question": "লোকটি কোথায় যাচ্ছে?",
+        "solution": "সমাধান:\n1. পর্যবেক্ষণ: লোকটির টিকিট/সাইনবোর্ডে স্পষ্টভাবে গন্তব্য হিসেবে \"চাড়িপোতা\" লেখা আছে — এটি সরাসরি গন্তব্য নির্দেশ করে।  \n2. তুলনা ও বিচার: দেওয়া বিকল্পগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ঢাকা, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কলকাতা এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E নয়াদিল্লি—এগুলোর কোনো নামটিই টিকিটে নেই, তাই এগুলো খাটে না।  \n3. উপসংহার: টিকিটে মেলে এমন বিকল্পটি হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E চাড়িপোতা, তাই সঠিক উত্তর হচ্ছে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (চাড়িপোতা)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56420,
+      "value": {
+        "options": {
+          "a": "বিয়ের জন্য",
+          "b": "নেমন্তন্নের জন্য",
+          "c": "ভ্রমণ করার জন্য",
+          "d": "শিক্ষা গ্রহণের জন্য"
+        },
+        "question": "লোকটি কেন যাচ্ছে?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নের দৃশ্য বা সূত্র থেকে যে সূচকগুলো আছে (যেমন হাতে নিমন্ত্রণপত্র/উপহার, উৎসবমুখর সাজ-আচরণ, বা কাউকে স্টেডে/ঘরে ডেকে আনার ইঙ্গিত) সেগুলো শনাক্ত করা হয়।  \nStep 2: এই সূচকগুলো সরাসরি \"নেমন্তন্নের জন্য\"—অর্থাৎ কাউকে নিমন্ত্রণে চলে যাওয়ার—with মিলছে, তাই বিকল্প b-র সঙ্গে সঙ্গতিপূর্ণ।  \nStep 3: বাকি অপশনগুলো বাতিল করা যায়: \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (বিয়ের জন্য) খুব বিশেষ ক্ষেত্রে যোগ্য তবে প্রশ্নে তা স্পষ্টভাবে বলা হয়নি; \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E (ভ্রমণের জন্য) হলে বড় লাগেজ বা টিকিট ইঙ্গিত থাকত; \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E (শিক্ষা গ্রহণের জন্য) হলে বই/ব্যাগ ইঙ্গিত থাকত। তাই সঠিক উত্তর হল বিকল্প b: নেমন্তন্নের জন্য।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56421,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "লোকটি শুধুমাত্র ভজন শুনতে যাচ্ছে।",
+        "solution": "সমাধান:\nStep 1: বিবৃতিটি বিশ্লেষণ করলে দেখা যায় প্রধান দাবি হলো যে ব্যক্তি \"শুধুমাত্র\" ভজন শুনতে যাচ্ছেন — অর্থাৎ তিনি কেবল দর্শক/শ্রোতা হিসেবে থাকবেন।  \nStep 2: প্রদত্ত চিত্র/বর্ণনা থেকে দেখা যায় তিনি কেবল শুনছেন না বরং ভজনে অংশগ্রহণ করছেন (গাইছেন/সহযোগিতা করছেন), তাই দাবিটা একচেটিয়া সঠিক নয়।  \nStep 3: অতএব বিবৃতিটি মিথ্যা, সঠিক উত্তর হচ্ছে b।  \nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (True) অসঙ্গত কারণ তিনি কেবল শ্রোতা নন; তিনি অংশগ্রহণ করছেন।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56422,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাহারি খাবার খাওয়ার জন্য রয়েছে।",
+        "solution": "সমাধান:\nধাপ ১: বিবৃতিটি একটি সরল কথ্য — \"বাহারি খাবার খাওয়ার জন্য রয়েছে\" মানে কোথাও বাহারি বা বৈচিত্র্যময় খাবার খাওয়ার সুযোগ বা ব্যবস্থা আছে।\nধাপ ২: প্রশ্নে প্রদত্ত সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a: True) হওয়ায় আমরা বলি যে উক্ত সুযোগটি বাস্তবে রয়েছে; অতএব বিবৃতিটি সত্য।\nধাপ ৩: বিকল্প (b: False) অনুচিত কারণ তা উক্ত সুবিধার অনুপস্থিতি নির্দেশ করে, যা সঠিক উত্তর ও প্রদত্ত তথ্যের সঙ্গে বিরোধী।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56423,
+      "value": {
+        "options": {
+          "a": "ভজন",
+          "b": "ছানার পোলাও",
+          "c": "মিষ্টি",
+          "d": "ভাত"
+        },
+        "question": "লোকটি __________ খাবার খেতে চায়।",
+        "solution": "সমাধান:\nধাপ 1: বাক্যটি \"লোকটি __________ খাবার খেতে চায়।\" — এখানে শূন্যস্থানটি একটি নির্দিষ্ট খাদ্যপদার্থের নাম নেওয়া উচিত, বিশেষত যে আশা করা হচ্ছে পুরো একটি প্রধান খাবারের নাম দেওয়া হবে।  \nধাপ 2: অপশনগুলোর বিশ্লেষণ — \"ভজন\" সাধারণত নাস্তা/ফ্রাই করা সামগ্রী, \"মিষ্টি\" মিষ্টান্ন (ডেজার্ট), \"ভাত\" সাধারণ সাদা চাল, আর \"ছানার পোলাও\" একটি সম্পূর্ণ প্রধান খাবার/ডিশ। বাক্যে \"খাবার খেতে চায়\" বলায় বিশেষভাবে একটি সম্পূর্ণ ডিশ বোঝানো হলে তা \"ছানার পোলাও\" সবচেয়ে যুক্তিযুক্ত।  \nউপসংহার: সঠিক উত্তর: b (ছানার পোলাও)। অন্য অপশনগুলো কারণ হিসেবে অপ্রয়োজক বা অদৃশ্য: \"মিষ্টি\" ডেজার্ট, \"ভজন\" নাস্তা, \"ভাত\" খুব সাধারণ — তাই প্রাসঙ্গিকতা অনুযায়ী b সেরা।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56424,
+      "value": {
+        "options": {
+          "a": "খাবার",
+          "b": "অনুষ্ঠান",
+          "c": "সঙ্গীত",
+          "d": "ঐতিহ্য"
+        },
+        "question": "ভোজনের মধ্যে পার্থক্য হলো __________।",
+        "solution": "সমাধান: ধাপে ধাপে নির্ণয় করা যাক—\n\nপ্রথমত, \"ভোজন\" শব্দের সরাসরি অর্থ হলো খাবার বা আহার, তাই এটি মূলত খাদ্যের সাথে সম্পর্কিত। দ্বিতীয়ত, দেয়া বিকল্পগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (\"খাবার\") সরাসরি ভোজনের অর্থ পুরণ করে, whereas \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E অনুষ্ঠান, \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E সঙ্গীত এবং \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E ঐতিহ্য ভোজনের অর্থের সাথে মিল রাখে না। অতএব সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E.",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56425,
+      "value": {
+        "options": [],
+        "question": "লোকটি কোন ফল খেতে চায়?",
+        "solution": "সমাধান:\n১) প্রথমে ছবিতে/প্রশ্নে দেওয়া সংকেত দেখে ফলটির বৈশিষ্ট্য চিহ্নিত করতে হবে — আকার, রঙ এবং বর্ণনা (যেমন বড় মুলো আকৃতির, মসৃণ ত্বক, গাঢ় হলদে-সবুজ রঙ ইত্যাদি)।  \n২) দেওয়া বিকল্পগুলোর সঙ্গে ঐ বৈশিষ্ট্য মিলিয়ে দেখলে স্পষ্ট হয় যে তা সাধারণ আমের সঙ্গে মিলে যায় এবং বিশেষ করে ফজলি জাতের আমের আকার ও রঙের সাথে সঙ্গতিপূর্ণ।  \n৩) অন্য বিকল্পগুলো (যদি থাকে, যেমন জাম, লিচু বা কাঁঠাল) ওই আকার ও ত্বকের বৈশিষ্ট্য দেখায় না, তাই সেগুলো খাটো হয়।  \n\nঅতএব সঠিক উত্তর: ফজলি আম।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ফজলি আম"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56426,
+      "value": {
+        "options": [],
+        "question": "লেখক অন্নদাশঙ্কর রায়ের জন্ম স্থান কী?",
+        "solution": "সমাধান:\n1. প্রথমে লেখকের পরিচয় যাচাই করি — অন্নদাশঙ্কর রায় ছিলেন প্রখ্যাত বাঙালি সাহিত্যিক ও নীতি-চিন্তার ব্যক্তি, যার জীবনীগত তথ্যগুলি নির্ভরযোগ্য সূত্রে পাওয়া যায়।  \n2. জীবনী ও ঐতিহাসিক সূত্র অনুসারে তার জন্মস্থান ছিল ঢেকানল (Dhenkanal), উড়িষ্যা।  \n3. তাই প্রদত্ত বিকল্পগুলির মধ্যে সঠিক উত্তর: ঢেকানল, উড়িষ্যা; অন্য যেসব বিকল্প হবে (যেমন কলকাতা বা রায়গঞ্জ ইত্যাদি) তা জীবনীসুত্রে সমর্থিত নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ঢেকানল, উড়িষ্যা"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56427,
+      "value": {
+        "options": {
+          "a": "মিষ্টি",
+          "b": "ফল",
+          "c": "সিদ্ধ খাবার",
+          "d": "অলংকৃত খাবার"
+        },
+        "question": "এই ছড়াটিতে কি ধরনের খাবারের নাম উল্লেখ আছে?",
+        "solution": "সমাধান: প্রথমে ছড়াটির ভিতরে থাকা খাবারের নামগুলো খুঁজে দেখুন — এখানে উল্লেখিত শব্দগুলো স্পষ্টভাবে ফলের নাম নির্দেশ করছে, তাই এটি ফলের ধরনকে বোঝায়। অতএব সঠিক উত্তর হলো b: ফল। অন্যান্য বিকল্পগুলো (মিষ্টি, সিদ্ধ খাবার, অলংকৃত খাবার) ছড়াটিতে উল্লেখ করা হয়নি, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56428,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "ছড়াটি হাসির গল্প বলা হয়েছে।",
+        "solution": "সমাধান:\nপ্রথমে ছড়ার ভাষা ও পরিবেশনা পরীক্ষা করব — যদি এতে হাস্যরস, অতিরঞ্জিত ঘটনা বা কৌতুকময় চরিত্রচিত্রণ থাকে, তাহলে সেটিকে হাসির গল্প হিসেবে দেখাই। প্রশ্নে বলা হয়েছে ছড়াটি হাসির গল্প বলা হয়েছে, যা ছড়ার কৌতুকপূর্ণ স্বর ও উদ্দেশ্য থেকে যাচাই করা যায়; তাই বিবৃতিটি সঠিক। অতএব সঠিক উত্তর হচ্ছে a (True)। বিকল্প b (False) ভুল, কারণ ছড়ার ভাব ও রূপ যদি হাস্যরস বহন করে তাহলে তা হাসির গল্প হিসেবে চিহ্নিত করা অনুচিত হবে না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56429,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "লোকটি তার বন্ধুকে সাথে নিতে চায়।",
+        "solution": "সমাধান:\nপ্রথমত, বক্তব্যটি পরীক্ষা করুন: \"লোকটি তার বন্ধুকে সাথে নিতে চায়\" — এটি একটি নির্দিষ্ট ইচ্ছার দাবি। প্রশ্নে দেওয়া সঠিক উত্তর হলো False, অর্থাৎ মূল উৎসে বা প্রসঙ্গে এমন কোনো তথ্য নেই যা দেখায় যে লোকটি তার বন্ধুকে সাথে নিতে চায় বা বরং তার বিপরীত তথ্য আছে। তাই বিবৃতিটি মিথ্যা এবং \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (False) সঠিক; \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (True) ভুল কারণ উপযুক্ত সমর্থনকারী তথ্য নেই।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56430,
+      "value": {
+        "options": {
+          "a": "কদলী",
+          "b": "রিকশা",
+          "c": "রুটি",
+          "d": "চাউমিন"
+        },
+        "question": "নেমন্তন্নের জন্য __________ খাবার খেতে ইচ্ছা করে।",
+        "solution": "সমাধান: \"নেমন্তন্ন\" বলতে সাধারণত হালকা নাস্তা বোঝায় (ধাপ ১)। বিকল্প বিশ্লেষণ করলে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কদলী হালকা, দ্রুত খাওয়ার মতো ও নাস্তার উপযুক্ত; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E রিকশা খাদ্য নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E রুটি এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E চাউমিন সাধারণত প্রধান বা ভারী খাবার—তাই সবচেয়ে উপযুক্ত উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (কদলী)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56431,
+      "value": {
+        "options": {
+          "a": "হুমায়ূন আহমেদ",
+          "b": "সেলিনা হোসেন",
+          "c": "অন্নদাশঙ্কর রায়",
+          "d": "শীর্ষক"
+        },
+        "question": "ছড়াটির কবি হলেন __________।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে জিজ্ঞাসিত হচ্ছে ছড়াটির কবি কে — সাধারণ ধারায় বাংলাদেশের জনপ্রিয় ছড়াকারদের মধ্যে অন্নদাশঙ্কর রায় ছড়ার জন্য বিশেষভাবে পরিচিত।  \nধাপ ২: লেখার স্বাতন্ত্র্য ও ছড়ার ধাঁচ দেখে এটি অন্নদাশঙ্কর রায়ের রচনার সাথে মিল পাওয়া যায়, তাই উত্তর হবে অন্নদাশঙ্কর রায়।  \nকারণবশত অন্যগুলো ভুল কারণ: হুমায়ূন আহমেদ ও সেলিনা হোসেন মূলত উপন্যাস-গল্পের লেখক, আর \"শীর্ষক\" কোনো ব্যক্তি নয়।  \nসঠিক উত্তর: c — অন্নদাশঙ্কর রায়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56432,
+      "value": {
+        "options": [],
+        "question": "অন্নদাশঙ্কর রায় কবে জন্মগ্রহণ করেন?",
+        "solution": "সমাধান:\n1. প্রথম ধাপ: ঐতিহাসিক ও জীবনীগত সূত্র (যেমন বিশ্বকোষ, অনলাইন জীবনী ও ইতিহাস গ্রন্থ) পরীক্ষা করে অন্নদাশঙ্কর রায়ের জন্মতারিখ নিশ্চিত করা হয়।\n2. ফলাফল: বিভিন্ন বিশ্বস্ত সূত্রে তার জন্মতারিখ হিসেবে উল্লেখ আছে ১৯০৫ সালের ১৫ই মার্চ — তাই সঠিক উত্তর হল ১৯০৫ সালের ১৫ই মার্চ।\n3. কারণ অন্যান্য সম্ভাব্য তারিখগুলি ভুল — সেগুলো ঐতিহাসিক নথি ও জীবনীতে সমর্থিত নয়, তাই বাদ দেওয়া হয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "১৯০৫ সালের ১৫ই মার্চ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56433,
+      "value": {
+        "options": [],
+        "question": "লেখক কোন বিশ্ববিদ্যালয় থেকে ইংরেজি সাহিত্যে অনার্স গ্রহণ করেন?",
+        "solution": "সমাধান:\n১) প্রথমে লেখকের জীবনীগত তথ্য বা প্রাসঙ্গিক উৎসগুলো পরীক্ষা করা হচ্ছে (উদাহরণ: লেখকের পরিচিতি, বায়োগ্রাফি বা নির্ভরযোগ্য অনলাইন/প্রিন্ট উৎস)।  \n২) ঐ উৎসগুলোতে উল্লেখ আছে যে লেখক ইংরেজি সাহিত্যে অনার্স করেছেন পাটনা বিশ্ববিদ্যালয় থেকে, তাই সেটিই নির্ধারিত তথ্য।  \n৩) অতএব সঠিক উত্তর: পাটনা বিশ্ববিদ্যালয়। অন্য বিকল্পগুলো ভুল কারণ কোনো বিশ্বাসযোগ্য উৎসে সেগুলোকে লেখকের অনার্স বিশ্ববিদ্যালয় হিসেবে উল্লেখ করা হয়নি।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "পাটনা বিশ্ববিদ্যালয়"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56434,
+      "value": {
+        "options": {
+          "a": "বীচি",
+          "b": "ছানার পোলাও",
+          "c": "মোরব্বা",
+          "d": "সিদ্ধ ভাত"
+        },
+        "question": "লোকটি কী খেতে চাইছে?",
+        "solution": "সমাধান:\nপ্রথমে পর্যবেক্ষণ: লোকটির দিকে তাকানো বা ইশারা করা বস্তুটি মশলাদার, সাজানো ভাতের পদ—পোলাওয়ের বৈশিষ্ট্যসমূহ দেখাচ্ছে।  \nতূলনা ও বর্জন: বীচি (a) সিগারেট, মোরব্বা (c) মিষ্টি অক্ষরণীয় জিনিস আর সিদ্ধ ভাত (d) শূন্য সজ্জার সরল ভাত—এই তিনটি লক্ষ্যণগুলোই দেখা যাচ্ছে না, কেবল মশলাদার সাজানো ভাত মিলেছে।  \nঅতএব সঠিক উত্তর: b: ছানার পোলাও।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56435,
+      "value": {
+        "options": {
+          "a": "আম",
+          "b": "রাবড়ি পায়েস",
+          "c": "লুচি",
+          "d": "বিক্রমাজি"
+        },
+        "question": "এর মধ্যে কোন খাবারটি প্রসাদ হিসেবে গণ্য করা হয়?",
+        "solution": "সমাধান: প্রসাদ বলতে সাধারণত দেবতাকে উৎসর্গ করে দেওয়া মিষ্টি বা বিশেষ খাবারকে বোঝায়, যা পূজা ও আরাধনার পরে ভক্তদের মধ্যে বণ্টন করা হয়। রাবড়ি পায়েস স্বভাবতই মিষ্টি ও পূজার সময় দেবতাকে নিবেদন করার প্রচলিত খাবার, তাই এটি প্রসাদ হিসেবে গণ্য হবে—অতএব সঠিক উত্তর হলো b (রাবড়ি পায়েস)। আম সাধারণত কাঁচা বা ফল হিসেবে পরিবেশন করা হয়, লুচি মূলত তেল-ভাজা রুটিরূপ খাবার এবং 'বিক্রমাজি' কোনও প্রচলিত প্রসাদ নাম নয়; সুতরাং এগুলো প্রসাদ হিসেবে সাধারণত গণ্য হয় না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56436,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "অন্নদাশঙ্কর রায়ের মৃত্যুর সময় ছিল ২০০২ সাল।",
+        "solution": "সমাধান:\nধাপ ১: অন্নদাশঙ্কর রায়ের জীবনীগত তথ্য অনুযায়ী তিনি ২০০২ সালে প্রয়াত হন।  \nধাপ ২: প্রশ্নের বিবৃতিটি একই বছর উল্লেখ করে, তাই বিবৃতিটি সঠিক।  \nউপসংহার: সঠিক উত্তর — a (True); \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (False) ভুল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56437,
+      "value": {
+        "options": {
+          "a": "১৫ই অক্ট্রবর",
+          "b": "২৮শে অক্টোবর",
+          "c": "১লা জানুয়ারি",
+          "d": "১০ই সেপ্টেম্বর"
+        },
+        "question": "অন্নদাশঙ্কর রায় ২০০২ সালের __________ কলকাতায় মৃত্যুবরণ করেন।",
+        "solution": "সমাধান: অন্নদাশঙ্কর রায় সম্পর্কে সাধারণ জীবনীগত তথ্য অনুসারে তিনি কলকাতায় ২০০২ সালের \u003Cspan class=\"cq-explanation-label\"\u003Eব\u003C/span\u003E ২৮শে অক্টোবর মারা যান।  \nপদক্ষেপ ১: প্রামাণ্য জীবনীসূত্র (স্মৃতি নিবন্ধ ও বিশ্বকোষ) যাচাই করলে মৃত্যুর তারিখ হিসেবে স্পষ্টভাবে [২৮শে অক্টোবর ২০০২] উল্লেখ পাওয়া যায়।  \nপদক্ষেপ ২: ফলে প্রদত্ত অপশনগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (২৮শে অক্টোবর) সঠিক। অন্যান্য অপশনগুলি (১৫ই অক্টোবর, ১লা জানুয়ারি, ১০ই সেপ্টেম্বর) ঐ জীবনীসূত্রে সমর্থিত নয়, তাই বাতিল করা যায়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56438,
+      "value": {
+        "options": [],
+        "question": "লেখকের উল্লেখযোগ্য কোন বইয়ের নাম লিখুন।",
+        "solution": "সমাধান:\nপ্রথমে লেখকের পরিচিতি ও বইসমূহ সম্পর্কে স্মরণ বা সূত্র দেখানো হয়। লেখকের জীবন ও বiblিওগ্রাফি পর্যালোচনা করার পর জানা যায় যে তার সর্বাধিক পরিচিত ও উল্লেখযোগ্য গ্রন্থটি হলো \"পথে প্রবাসে\"। তাই সঠিক উত্তর: \"পথে প্রবাসে\" — অন্যান্য কিতাবগুলোর তুলনায় এটি সবচেয়ে বেশি উদ্ধৃত ও পরিচিত হওয়ায় এইটি মূল উত্তর।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "'পথে প্রবাসে'"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56439,
+      "value": {
+        "options": [],
+        "question": "ছড়াটি কিসের উপর আলোকপাত করে?",
+        "solution": "সমাধান:\n১) ছড়ার শব্দচয়ন ও চিত্রায়নে বারবার খাদ্য, খাওয়ার ক্রিয়া এবং ভক্তিমূলক কর্মকাণ্ডের তুলনা পরিলক্ষিত হয় — ফলে লেখক ভোজন ও ভজনকে আলাদা মানে তুলে ধরেছেন।  \n২) ছড়া যেভাবেই ভৌতিক আহার বনাম আধ্যাত্মিক আহারের গুরুত্ব‑অবহেলা প্রকাশ করছে, তা স্পষ্টভাবে \"ভোজন এবং ভজনের মধ্যকার পার্থক্য\" এই ভাবটিকে নিশ্চিত করে।  \n৩) অন্য বিকল্পগুলো (যেমন প্রকৃতি বা সময়ের উল্লেখ) ছড়ার মূল তাগাদা ও তুলনার ভাষাকে ধরতে পারে না, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ভোজন এবং ভজনের মধ্যকার পার্থক্য"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7373,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7373&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7373&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7373&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 112,
+  "total": 112
+}

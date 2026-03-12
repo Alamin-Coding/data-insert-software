@@ -1,0 +1,453 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747457,
+      "value": {
+        "options": {
+          "ক": "১৮৩২",
+          "খ": "১৭৩২",
+          "গ": "১৩৮৭",
+          "ঘ": "১৯৩৭"
+        },
+        "question": "টেলিগ্রাফ কত সালে আবিষ্কৃত হয়?",
+        "solution": "ক. ১৮৩২",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747458,
+      "value": {
+        "options": {
+          "ক": "১৭৭৬",
+          "খ": "১৭৯৬",
+          "গ": "১৮৭৬",
+          "ঘ": "১৮৯৬"
+        },
+        "question": "টেলিফোন কত সালে আবিষ্কৃত হয়?",
+        "solution": "গ. ১৮৭৬",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747459,
+      "value": {
+        "options": {
+          "ক": "মার্কনী",
+          "খ": "আলেকজান্ডার গ্রাহামবেল",
+          "গ": "স্যামুয়েল মোর্স",
+          "ঘ": "ব্যারন শিলিং"
+        },
+        "question": "টেলিফোন আবিষ্কার করেন কে?",
+        "solution": "খ. আলেকজান্ডার গ্রাহামবেল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747460,
+      "value": {
+        "options": {
+          "ক": "কম্পিউটার",
+          "খ": "টেলিফোন",
+          "গ": "ছাপাখানা",
+          "ঘ": "সংবাদপত্র"
+        },
+        "question": "নিচের কোনটি আবিষ্কারের ফলে মানুষ তথ্য বইতে ছাপিয়ে সংরক্ষণ করতে শুরু করে?",
+        "solution": "গ. ছাপাখানা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747461,
+      "value": {
+        "options": {
+          "ক": "রেডিও",
+          "খ": "টিভি",
+          "গ": "ঘড়ি",
+          "ঘ": "সিডি"
+        },
+        "question": "বাবুল কম্পিউটার থেকে কিছু তথ্য নিয়ে সংরক্ষণ করে রাখতে চায়। এ জন্য সে নিচের কোনটি ব্যবহার করবে?",
+        "solution": "ঘ. সিডি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747462,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "তথ্য ও যোগাযোগ প্রযুক্তিকে প্রধানত কয় ভাগে ভাগ করা যায়?",
+        "solution": "ক. ২",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747463,
+      "value": {
+        "options": {
+          "ক": "কবুতরের মাধ্যমে",
+          "খ": "চিঠিপত্র পাঠিয়ে",
+          "গ": "ঢোল বাজিয়ে",
+          "ঘ": "চিৎকার করে"
+        },
+        "question": "হাজার বছর আগে মানুষ কীভাবে যোগাযোগ করত?",
+        "solution": "গ. ঢোল বাজিয়ে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747464,
+      "value": {
+        "options": {
+          "ক": "আলেকজান্ডার গ্রাহাম বেল",
+          "খ": "স্যামুয়েল মোর্স",
+          "গ": "আইজ্যাক নিউটন",
+          "ঘ": "ব্যারন শিলিং"
+        },
+        "question": "কোন বিজ্ঞানী টেলিগ্রাফ যন্ত্র আবিষ্কার করেন?",
+        "solution": "ঘ. ব্যারন শিলিং",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747465,
+      "value": {
+        "options": {
+          "ক": "টেলিগ্রাফ",
+          "খ": "লিথোগ্রাফ",
+          "গ": "ফটোগ্রাফ",
+          "ঘ": "প্যারাগ্রাফ"
+        },
+        "question": "মিতু জাদুঘরে গিয়ে প্রাচীনকালে গৃহায় তৈরি মানুষের তথ্য সংরক্ষণের কিছু নমুনা দেখলো। তথ্য সংরক্ষণের এ পদ্ধতিটি কী নামে পরিচিত?",
+        "solution": "খ. লিথোগ্রাফ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747466,
+      "value": {
+        "options": {
+          "ক": "সিডিতে",
+          "খ": "পেনড্রাইভে",
+          "গ": "স্ক্যান করে",
+          "ঘ": "গুহার দেয়ালে ছবি এঁকে"
+        },
+        "question": "আগের মানুষ কীভাবে তথ্য সংগ্রহ করতো?",
+        "solution": "ঘ. গুহার দেয়ালে ছবি এঁকে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747467,
+      "value": {
+        "options": {
+          "ক": "রেডিও",
+          "খ": "মোবাইল ফোন",
+          "গ": "চিঠি",
+          "ঘ": "টেলিগ্রাফ"
+        },
+        "question": "বিদেশে থাকা কোনো বন্ধুর খবর দ্রুত জানতে তুমি কোনটি ব্যবহার করবে?",
+        "solution": "খ. মোবাইল ফোন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7415,
+      "created_at": "2025-11-27T10:54:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7415&grade=7&lesson=13520&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7415&grade=7&lesson=13520&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7415&grade=7&lesson=13520&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 11,
+  "total": 11
+}

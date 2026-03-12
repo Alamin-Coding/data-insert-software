@@ -1,0 +1,377 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746510,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্রীয় সম্পদ",
+          "খ": "সামাজিক সম্পদ",
+          "গ": "অর্থনৈতিক সম্পদ",
+          "ঘ": "ব্যক্তিগত সম্পদ"
+        },
+        "question": "মানুষের জীবনযাপনের মান উন্নয়নে জন্য বিভিন্ন ধরনের স্থানীয় সুযোগ-সুবিধাকে কী বলা হয়?",
+        "solution": "খ. সামাজিক সম্পদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7395,
+      "created_at": "2025-11-27T09:31:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746511,
+      "value": {
+        "options": {
+          "ক": "খেলার মাঠ",
+          "খ": "ধর্মীয় প্রতিষ্ঠান",
+          "গ": "বিদ্যালয়",
+          "ঘ": "হাসপাতাল"
+        },
+        "question": "পড়ালেখা শিখে যাতে জীবনযাপনের মান উন্নয়ন করতে পারে, এ জন্য প্রতিটি এলাকায় কী আছে?",
+        "solution": "গ. বিদ্যালয়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7395,
+      "created_at": "2025-11-27T09:31:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746512,
+      "value": {
+        "options": {
+          "ক": "শিক্ষক",
+          "খ": "উকিল",
+          "গ": "ডাক্তার",
+          "ঘ": "চাকরিজীবী"
+        },
+        "question": "রোগীদের সুস্থ করতে চিকিৎসাসেবা দেন কে?",
+        "solution": "গ. ডাক্তার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7395,
+      "created_at": "2025-11-27T09:31:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746513,
+      "value": {
+        "options": {
+          "ক": "সামাজিক",
+          "খ": "রাজনৈতিক",
+          "গ": "অর্থনৈতিক",
+          "ঘ": "ব্যক্তিগত"
+        },
+        "question": "শিক্ষা লাভ করা আমাদের কোন ধরনের অধিকার?",
+        "solution": "ক. সামাজিক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7395,
+      "created_at": "2025-11-27T09:31:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746514,
+      "value": {
+        "options": {
+          "ক": "শিক্ষা",
+          "খ": "খেলার প্রশিক্ষণ",
+          "গ": "ধর্মীয় বাণী",
+          "ঘ": "স্বাস্থ্যসেবা"
+        },
+        "question": "হাসপাতালে কী দেওয়া হয়?",
+        "solution": "ঘ. স্বাস্থ্যসেবা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7395,
+      "created_at": "2025-11-27T09:31:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746515,
+      "value": {
+        "options": {
+          "ক": "বিদ্যালয়ে",
+          "খ": "পার্কে",
+          "গ": "ধর্মীয় প্রতিষ্ঠানে",
+          "ঘ": "হাসপাতালে"
+        },
+        "question": "কোথায় পরিবারের সকলে ঘুরে আনন্দ লাভ করেন?",
+        "solution": "খ. পার্কে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7395,
+      "created_at": "2025-11-27T09:31:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746516,
+      "value": {
+        "options": {
+          "ক": "সম্পদ",
+          "খ": "যোগান",
+          "গ": "ভূমি",
+          "ঘ": "মূলধন"
+        },
+        "question": "জীবনযাপনের জন্য যা কিছু আমাদের প্রয়োজন মেটায় সেসবকে কী বলে?",
+        "solution": "ক. সম্পদ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7395,
+      "created_at": "2025-11-27T09:31:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746517,
+      "value": {
+        "options": {
+          "ক": "মসজিদ",
+          "খ": "মন্দির",
+          "গ": "প্যাগোডা",
+          "ঘ": "গির্জা"
+        },
+        "question": "মুসলমানদের ধর্মীয় প্রতিষ্ঠান কোনটি?",
+        "solution": "ক. মসজিদ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7395,
+      "created_at": "2025-11-27T09:31:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746518,
+      "value": {
+        "options": {
+          "ক": "মন্দিরে",
+          "খ": "মসজিদে",
+          "গ": "গির্জায়",
+          "ঘ": "প্যাগোডায়"
+        },
+        "question": "বৌদ্ধরা কোথায় প্রার্থনা করেন?",
+        "solution": "ঘ. প্যাগোডায়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7395,
+      "created_at": "2025-11-27T09:31:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7395&grade=7&lesson=13439&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7395&grade=7&lesson=13439&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7395&grade=7&lesson=13439&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 9,
+  "total": 9
+}

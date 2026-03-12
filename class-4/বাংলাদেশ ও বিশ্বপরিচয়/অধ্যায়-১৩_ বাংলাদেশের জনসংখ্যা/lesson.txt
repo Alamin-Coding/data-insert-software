@@ -1,0 +1,4679 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 261031,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে জনসংখ্যা বৃদ্ধির হার —।",
+        "solution": "কমেছে",
+        "explanation": "বাংলাদেশে জনসংখ্যার বার্ষিক বৃদ্ধির হার বর্তমানে আনুমানিক [math]1\\%[/math] বা তার কাছাকাছি, যা আগের তুলনায় ক্রমান্বয়ে হ্রাস পাচ্ছে। এই হ্রাসের মূল কারণ হলো পরিবার পরিকল্পনার বিস্তার, নারী শিক্ষার উন্নতি, নগরায়ন ও গড় সন্তানসংখ্যার কমে আসা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261031,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261032,
+      "value": {
+        "options": [],
+        "question": "অতীতে বাংলাদেশের জনসংখ্যা বেশি বৃদ্ধি পাওয়ায় আয়তনের তুলনায় তা অনেক —।",
+        "solution": "বেশি",
+        "explanation": "ব্যাখ্যা: অতীতে জনসংখ্যা দ্রুত বৃদ্ধি এবং ভূখণ্ড সীমিত থাকায় প্রতি একক ভূপৃষ্ঠে মানুষের ঘনত্ব বেড়ে গিয়েছিল; এটিই 'ঘনবসতি' বা জনঘনত্ব। জনঘনত্বকে হিসাব করা হয়: [math]\\text{জনঘনত্ব}=\\frac{\\text{জনসংখ্যা}}{\\text{আয়তন}}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261032,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261033,
+      "value": {
+        "options": [],
+        "question": "একটি দেশে প্রতি বর্গকিলোমিটারে যতজন লোক বাস করেন, তাকে জনসংখ্যার — বলে।",
+        "solution": "ঘনত্ব",
+        "explanation": "ব্যাখ্যা: দেশের কোনো নির্দিষ্ট ভূখণ্ডে প্রতি বর্গকিলোমিটারে গড়ে কতজন লোক বসবাস করেন, তাকে জনসংখ্যার ঘনত্ব বলা হয়; এটি জনসংখ্যার বিস্তৃতি বোঝায়। গণনায় সাধারণত [math]\\text{জনসংখ্যা ঘনত্ব}=\\frac{\\text{মোট জনসংখ্যা}}{\\text{মোট ক্ষেত্রফল (বর্গকিমি)}}[/math] সূত্রটি ব্যবহৃত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261033,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261034,
+      "value": {
+        "options": [],
+        "question": "২০১৮ সালে বাংলাদেশে জনসংখ্যার ঘনত্ব ছিল প্রতি বর্গকিলোমিটারে — জন।",
+        "solution": "১১১৬",
+        "explanation": "জনসংখ্যার ঘনত্ব হিসাব করা হয় মোট জনসংখ্যা ভাগ করে ভূমি ক্ষেত্রফলের উপর, অর্থাৎ [math]\\text{ঘনত্ব}=\\dfrac{\\text{মোট জনসংখ্যা}}{\\text{ভূমি ক্ষেত্রফল}}[/math]. ২০১৮ সালে মোট জনসংখ্যা প্রায় [math]161{,}000{,}000[/math] ও ভূমি ক্ষেত্রফল প্রায় [math]130{,}170\\ \\text{বর্গকিমি}[/math], তাই ঘনত্ব ≈ [math]\\dfrac{161{,}000{,}000}{130{,}170}\\approx 1{,}237\\ \\text{জন/বর্গকিমি}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261034,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261035,
+      "value": {
+        "options": [],
+        "question": "জনসংখ্যার ঘনত্বের দিক থেকে বাংলাদেশের অবস্থান বিশ্বে —।",
+        "solution": "দশম",
+        "explanation": "ব্যাখ্যা: বাংলাদেশ জনসংখ্যার ঘনত্বের দিক থেকে বিশ্বে অন্যতম সর্বোচ্চ অবস্থানে আছে; কারণ জনসংখ্যা অনেক কিন্তু ভূমির আয়তন ছোট হওয়ায় প্রতি বর্গ কিলোমিটারে মানুষের সংখ্যা খুব বেশি (প্রায় [math]১২০০\\ \\text{জন/বর্গ কিমি}[/math])। এই কারণে শহর ও গ্রামীণ উভয় এলাকায় জনঘনত্ব ও অবকাঠামোর চাপ লক্ষণীয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261035,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261036,
+      "value": {
+        "options": [],
+        "question": "জনসংখ্যার ঘনত্বের দিক থেকে সিঙ্গাপুরের অবস্থান — এবং হংকং —।",
+        "solution": "তৃতীয়, চতুর্থ",
+        "explanation": "উত্তর: জনসংখ্যার ঘনত্বের দিক থেকে সিঙ্গাপুর সাধারণত হংকংয়ের চেয়ে বেশি। কারণ উভয়েরই জনসংখ্যা অনেক বেশি হলেও সিঙ্গাপুরের জমির আয়তন অপেক্ষাকৃত ছোট হওয়ায় ঘনত্ব বেশি — সিঙ্গাপুর প্রায় [math]8{,}000\\ \\text{person/km}^2[/math] এবং হংকং প্রায় [math]7{,}000\\ \\text{person/km}^2[/math] (প্রায়মান)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261036,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261037,
+      "value": {
+        "options": [],
+        "question": "জনসংখ্যার ঘনত্বের দিক থেকে প্রতিবেশী রাষ্ট্র ভারত আছে — স্থানে এবং পাকিস্তানের অবস্থান —।",
+        "solution": "তেত্রিশতম, ছাপান্নতম",
+        "explanation": "ভারত আছে তৃতীয় স্থানে এবং পাকিস্তান আছে পঞ্চম স্থানে। গণসংখ্যার ঘনত্ব বলতে বোঝায় প্রতি বর্গকিলোমিটারে বাসকারী মানুষের সংখ্যা; দক্ষিণ এশিয়ার দেশগুলোর ঘনত্বের তুলনায় মালদ্বীপ ও বাংলাদেশ প্রথম ও দ্বিতীয় হওয়ায় ভারত তৃতীয় এবং পাকিস্তান পঞ্চম স্থানে অবস্থান করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261037,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261038,
+      "value": {
+        "options": [],
+        "question": "অতিরিক্ত জনসংখ্যার কারণে আমাদের প্রতিনিয়ত বিভিন্ন — পড়তে হয়।",
+        "solution": "সমস্যায়",
+        "explanation": "ব্যাখ্যা: অতিরিক্ত জনসংখ্যার ফলে সীমিত সম্পদ ও অবকাঠামোর ওপর চাপ পড়ে, তাই আমাদের প্রতিনিয়ত নানা সমস্যা মোকাবেলা করতে হয়। এর মধ্যে বাসস্থান সংকট, বেকারত্ব ও পরিবেশদূষণ প্রধান উদাহরণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261038,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261039,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে জনসংখ্যা — কারণে বৃদ্ধি পাচ্ছে।",
+        "solution": "নানা",
+        "explanation": "বাংলাদেশে জনসংখ্যা বৃদ্ধি পাচ্ছে মূলত উচ্চ জন্মহার এবং মৃত্যুহার কমে যাওয়া কারণে। দ্রুত বিবাহ, পরিবার পরিকল্পনার সীমিত ব্যবহার এবং উন্নত স্বাস্থ্যসেবা ও টিকাদানের ফলে শিশুমৃতি কমে ও মানুষ বেশি বাঁচায়, যা জনসংখ্যা বৃদ্ধিকে ত্বরান্বিত করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261039,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261040,
+      "value": {
+        "options": [],
+        "question": "জনসংখ্যা বৃদ্ধির প্রধান কারণ —।",
+        "solution": "চারটি",
+        "explanation": "ব্যাখ্যা: জনসংখ্যা বৃদ্ধির প্রধান কারণ হলো উচ্চ জন্মহার — যখন জন্মের সংখ্যা মৃত্যুর সংখ্যার চেয়ে বেশি হয় তখন মোট জনসংখ্যা বাড়ে। স্বাস্থ্যসেবা ও জীবনমান উন্নতির ফলে মৃত্যুহার কমলেও দীর্ঘমেয়াদি উচ্চ গর্ভধারণটাই প্রধান চালক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261040,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261041,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের জনসংখ্যা দ্রুত বৃদ্ধি পাওয়ার পেছনে বিভিন্ন — কারণ রয়েছে।",
+        "solution": "সামাজিক",
+        "explanation": "বাংলাদেশের জনসংখ্যা দ্রুত বাড়ার মূল কারণ হলো জন্মহার মৃত্যুহারের চেয়ে বেশি থাকা এবং স্বাস্থ্যসেবার উন্নতির ফলে শিশুমৃত্যু কমে যাওয়া। অতিরিক্তভাবে প্রাকৃতিকভাবে বিয়ে দ্রুত হওয়া, পরিবারে সন্তানসংখ্যা বেশি রাখার সামাজিক ও অর্থনৈতিক প্রবণতা, নারীশিক্ষা ও চাকরির সীমিত সুযোগ এবং পরিবার পরিকল্পনার সমন্বয়হীনতা জনসংখ্যা বৃদ্ধিকে ত্বরান্বিত করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261041,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261042,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের জনসংখ্যার প্রায় — নারী।",
+        "solution": "অর্ধেক",
+        "explanation": "ব্যাখ্যা: বাংলাদেশের জনসংখ্যায় নারীর অংশ প্রায় অর্ধেক, সাম্প্রতিক জনমর্যাদা ও পরিসংখ্যান অনুযায়ী প্রায় 49% নারী। জন্মহার ও লিঙ্গ অনুপাতে পুরুষের সামান্য অধিকতার কারণে নারীর অংশ পুরোপুরি 50% না হলোও মোট জনসংখ্যায় নারী ও পুরুষের অনুপাত প্রায় সমান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261042,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261043,
+      "value": {
+        "options": [],
+        "question": "নারীদের অধিকাংশ — কাজে জড়িত নন।",
+        "solution": "আয়মূলক",
+        "explanation": "ব্যাখ্যা: এখানে সঠিক শব্দটি \"ই\" কারণ সংখ্যাবাচক শব্দ \"অধিকাংশ\"–কে বিশেষভাবে নির্দেশ করতে এবং বাক্যটিকে স্বাভাবিক করতে \"ই\" যোগ করা লাগে; উদাহরণস্বরূপ, \"নারীদের অধিকাংশই কাজে জড়িত নন\" মানে মহিলাদের বেশিরভাগই কাজে জড়িত নন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261043,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261044,
+      "value": {
+        "options": [],
+        "question": "নারীদের ছেলেমেয়ে — বেশি সময় ব্যয় করতে হয়।",
+        "solution": "লালন-পালনেই",
+        "explanation": "সঠিক উত্তরটি \"পালতে\" (অথবা \"বড় করতে\") কারণ বাক্যটির গঠন অনুযায়ী \"বেশি সময় ব্যয় করতে হয়\"–এর পরে infinitive ধরনকারি ক্রিয়াপদ লাগে, যেমন \"পালতে\"। ভাবগতভাবে এটি ঠিক কারণ লালন‑পালন এবং শিশুর যত্ন নেওয়ার কাজগুলো সামাজিক ও পারিবারিক দায়িত্ব হিসেবে সাধারণত নারীদের ওপর বেশি পড়ে, তাই তারা ছেলেমেয়ে পালনে বেশি সময় ব্যয় করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261044,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261045,
+      "value": {
+        "options": [],
+        "question": "অনেক মা-বাবা মনে করেন, অধিক সন্তান থাকলে বৃদ্ধ বয়সে তাদের — করবে।",
+        "solution": "দেখাশোনা",
+        "explanation": "বৃদ্ধ বয়সে তাদের যত্ন করবে। কারণ অধিক সন্তান থাকলে পরিবারের মধ্যে কেউ না কেউ ভাগ করে নিয়ে বাবা-মা‑র দেখাশোনা ও আর্থিক সহায়তা দিতে পারে, তাই বহু পরিবার মনে করে বেশি সন্তানের ফলে বৃদ্ধাবস্থায় সহায়তা পাওয়ার সম্ভাবনা বাড়ে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261045,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261046,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের — কৃষিনির্ভর।",
+        "solution": "অর্থনীতি",
+        "explanation": "ব্যাখ্যা: বাংলাদেশের অর্থনীতি ঐতিহাসিকভাবে ও বাস্তবিকভাবে কৃষির ওপর নির্ভরশীল; জনসংখ্যার বড় অংশ কৃষিতে নিয়োজিত এবং খাদ্য ও কাঁচামালের প্রধান উৎস হওয়ায় শূন্যস্থান পূরণে 'অর্থনীতি' সঠিক। 'কৃষিনির্ভর' বলতে বোঝায় যে দেশের প্রধান আয়, কর্মসংস্থান ও উৎপাদন প্রধানত কৃষির ওপর নির্ভর করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261046,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261047,
+      "value": {
+        "options": [],
+        "question": "কৃষিকাজে লোকবল — প্রয়োজন হয়।",
+        "solution": "বেশি",
+        "explanation": "কৃষিকাজে সাধারণত অনেক ম্যানুয়াল কাজ—বীজ বোনা, চারা রোপণ, আগাছা তোলা, জলায়ন ও ফসল কাটাসহ অনেক শ্রমসাধ্য কাজ থাকে; তাই এতে বেশি লোকবল প্রয়োজন হয়। মেশিনায়ন কিছু কাজ কমেছে, তবু বিশেষ করে ছোট খামারে মানুষের পরিশ্রম অপরিহার্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261047,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261048,
+      "value": {
+        "options": [],
+        "question": "বৃদ্ধ বয়সে মা-বাবা — সন্তানের উপর বেশি নির্ভর করেন।",
+        "solution": "ছেলে",
+        "explanation": "ব্যাখ্যা: বৃদ্ধ বয়সে শারীরিক শক্তি ও আয় কমে যায় এবং দৈনন্দিন কাজগুলো করা কষ্টসাধ্য হয়ে ওঠে, তাই চিকিৎসা, যত্ন ও আর্থিক ও মানসিক সহায়তার জন্য মা‑বাবা সর্বাধিকভাবে সন্তানের উপর নির্ভর করেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261048,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261049,
+      "value": {
+        "options": [],
+        "question": "— উন্নতিতে বাংলাদেশের মৃত্যুহার এখন অনেক কমে এসেছে।",
+        "solution": "চিকিৎসাবিজ্ঞানের",
+        "explanation": "ব্যাখ্যা: উন্নতিতে বাংলাদেশের মৃত্যুহার এখন অনেক কমে এসেছে কারণ স্বাস্থ্যব্যবস্থা উন্নত হওয়া, টিকাদান ও মাতৃ-নবজাতক সেবা বৃদ্ধি, পুষ্টি ও পরিচ্ছন্নতার উন্নতি শিশুমৃত্যু ও মাতৃমৃত্যু কমিয়েছে। পাশাপাশি অর্থনৈতিক উন্নয়ন, শিক্ষা ও নারীর ক্ষমতায়ন চিকিৎসাসেবা গ্রহণ বাড়িয়ে সার্বিক মৃত্যুহার হ্রাসে সাহায্য করেছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261049,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261050,
+      "value": {
+        "options": [],
+        "question": "জনসংখ্যা বৃদ্ধির হার কমানোর ক্ষেত্রে — অনেক বেশি গুরুত্বপূর্ণ।",
+        "solution": "নারীর ভূমিকা",
+        "explanation": "ব্যাখ্যা: মেয়েদের শিক্ষা জনসংখ্যা বৃদ্ধির হার কমাতে সবচেয়ে গুরুত্বপূর্ণ, কারণ শিক্ষিত নারী দেরিতে বিবাহ করে, সন্তানসংখ্যা সীমিত করার সিদ্ধান্ত নিতে সক্ষম এবং পরিবার পরিকল্পনা কার্যকরভাবে ব্যবহার করে। এর ফলে জন্মহার ও সামগ্রিক জনসংখ্যা বৃদ্ধির হার কমে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261050,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261051,
+      "value": {
+        "options": [],
+        "question": "মেয়েদের যথাযথ শিক্ষা থাকলে তারা তাদের পরিবারের জন্য — উপার্জনের কাজ করতেন।",
+        "solution": "অর্থ",
+        "explanation": "ব্যাখ্যা: যথাযথ শিক্ষা মেয়েদের দক্ষতা ও পেশাগত যোগ্যতা বাড়ায়, ফলে তারা আয়ের উপযোগী কাজ করে পরিবারকে আর্থিকভাবে সহায়তা করতে পারে। তাই এখানে সঠিক শব্দটি \"আর্থিক(ভাবে)\"—অর্থাৎ পরিবারের জন্য আর্থিক উপার্জনের কাজ করা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261051,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261052,
+      "value": {
+        "options": [],
+        "question": "শিক্ষা ও ভালো উপার্জন — মান সম্পর্কে সচেতন করতে পারে।",
+        "solution": "মেয়েদের",
+        "explanation": "ব্যাখ্যা: শিক্ষা মানুষকে নৈতিকতা ও সামাজিক মূল্যবোধ বোঝায় এবং বিশ্লেষণশীল চিন্তা গড়ে তোলে, ফলে তারা মান সম্পর্কে সচেতন হয়ে ওঠে। ভালো উপার্জন জীবনের নিরাপত্তা ও সুযোগ বৃদ্ধি করে, যা মানুষকে স্বাস্থ্য, মর্যাদা ও সামাজিক দায়িত্ব পালনে সচেতন ও সক্ষম করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261052,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261053,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে বর্তমানে বার্ষিক জনসংখ্যা বৃদ্ধির হার কত?",
+        "solution": "বাংলাদেশে বর্তমানে জনসংখ্যা বৃদ্ধির হার ১.৩৩%।",
+        "explanation": "বর্তমানে বাংলাদেশের বার্ষিক জনসংখ্যা বৃদ্ধির হার প্রায় ০.৯% (প্রায় ১%) — এটি জাতিসংঘ/ওয়ার্ল্ড ব্যাংকের সাম্প্রতিক জনসংখ্যা অনুমানের ওপর ভিত্তি করে দেওয়া একটি আনুমানিক মান। এই হার বোঝায় যে গত এক বছরে মোট জনগণ জন্ম, মৃত্যু ও অনাগত/প্রস্থানকারী অভিবাসনের পার্থক্যের ভিত্তিতে শতকরা কত ভাগ বেড়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261053,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261054,
+      "value": {
+        "options": [],
+        "question": "বর্তমানে জনসংখ্যার ঘনত্ব কত?",
+        "solution": "বাংলাদেশে জনসংখ্যার ঘনত্ব প্রতি বর্গকিলোমিটারে ১১১৬ জন। (২০১৮ সাল অনুযায়ী)",
+        "explanation": "ব্যাখ্যা: জনসংখ্যার ঘনত্ব বলতে বোঝায় কোনো অঞ্চলে প্রতি একক এলাকা প্রতি কতজন মানুষ বসবাস করে; এটি হিসাব করা হয় মোট জনসংখ্যা ভাগ করে মোট ভূমি ক্ষেত্রফল নিয়ে। তাই বর্তমান ঘনত্ব জানতে সর্বশেষ জনসংখ্যা ও ভূমি ক্ষেত্রফল ব্যবহার করে [math]\\text{জনসংখ্যার ঘনত্ব}=\\frac{\\text{মোট জনসংখ্যা}}{\\text{মোট ভূমির ক্ষেত্রফল}}[/math] (একক সাধারণত জন/বর্গকিমি) সূত্রে গণনা করতে হবে, যেখানে তথ্যসূত্র হতে পারে জাতীয় আদমশুমারি বা আন্তর্জাতিক অনুমান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261054,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261055,
+      "value": {
+        "options": [],
+        "question": "জনসংখ্যার ঘনত্বের ভিত্তিতে বর্তমানে পৃথিবীতে বাংলাদেশের অবস্থান কত?",
+        "solution": "জনসংখ্যার ঘনত্বের ভিত্তিতে বর্তমানে পৃথিবীতে বাংলাদেশের অবস্থান বিশ্বে দশম।",
+        "explanation": "ব্যাখ্যা: জনসংখ্যার ঘনত্বের ভিত্তিতে বাংলাদেশ সাধারণত বিশ্বের শীর্ষে—প্রায় ৮ম স্থানে থাকে; কারণ এখানে জনসংখ্যা খুব বেশি এবং দেশটি তুলনামূলকভাবে ক্ষুদ্র, ফলে প্রতি বর্গকিলোমিটারে মানুষ বেশি থাকে (জনসংখ্যা ভাগ ক্ষেত্রফল)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261055,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261056,
+      "value": {
+        "options": [],
+        "question": "অতিরিক্ত জনসংখ্যার একটি সামাজিক কারণ উল্লেখ কর।",
+        "solution": "অতিরিক্ত জনসংখ্যার একটি সামাজিক কারণ হলো— ছেলে সন্তান লাভের আশা।",
+        "explanation": "পরিবার পরিকল্পনা সম্পর্কে সচেতনতার অভাব — এ কারণে মানুষ জন্মনিয়ন্ত্রণ পদ্ধতি ব্যবহার করে না ও সেবা পান না, ফলে গড় জন্মহার বেশি থাকে এবং জনসংখ্যা দ্রুত বৃদ্ধি পায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261056,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261057,
+      "value": {
+        "options": [],
+        "question": "রনির বাবার প্রবাসরত দেশটি জনসংখ্যার ঘনত্বের দিক দিয়ে বিশ্বে কততম স্থানে রয়েছে?",
+        "solution": "রনির বাবার প্রবাসরত দেশটি জনসংখ্যার ঘনত্বের দিক দিয়ে বিশ্বের তৃতীয় স্থানে রয়েছে।",
+        "explanation": "আপনার প্রশ্নের সঠিক উত্তর দিতে ওই প্রবাসী দেশের নাম বা প্রসঙ্গ প্রয়োজন—অনুগ্রহ করে দেশটির নাম জানাবেন। জনসংখ্যার ঘনত্বের বিশ্বে অবস্থান নির্ণয়ের জন্য দেশের মোট জনসংখ্যাকে দেশের আয়তনের (বর্গকিলোমিটারে) দ্বারা ভাগ করে [math]ঘনত্ব = \\frac{জনসংখ্যা}{আয়তন}[/math] বের করতে হয় এবং তারপর ইউনাইটেড নেশনস বা ওয়ার্ল্ড ব্যাঙ্কের মতো বিশ্বব্যাপী ডেটার সাথে তুলনা করতে হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261057,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261058,
+      "value": {
+        "options": [],
+        "question": "রুবিনার দেশে প্রতি বর্গকিলোমিটারে কত জন লোক বাস করে?",
+        "solution": "রুবিনার দেশে প্রতি বর্গকিলোমিটারে ১১১৬ জন লোক বাস করে।",
+        "explanation": "এই প্রশ্নের উত্তর দিতে রুবিনার দেশের মোট জনসংখ্যা এবং মোট আয়তন (বর্গকিলোমিটারে) জানা প্রয়োজন। জনঘনত্ব নির্ণয়ের সূত্র হল [math]\\text{জনঘনত্ব}=\\dfrac{\\text{জনসংখ্যা}}{\\text{ক্ষেত্রফল (বর্গকিমি)}}[/math]। আপনি জনসংখ্যা ও আয়তন জানালে আমি প্রতি বর্গকিলোমিটারে কত জন বাস করে তা দ্রুত গণনা করে দেব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261058,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261059,
+      "value": {
+        "options": [],
+        "question": "ছালামের পরিবারে কোন বৈশিষ্ট্য ফুটে উঠেছে?",
+        "solution": "ছালামের পরিবারে জনসংখ্যা বৃদ্ধির বৈশিষ্ট্যটি ফুটে উঠেছে।",
+        "explanation": "ছালামের পরিবারে ঐক্য ও সহমর্মিতা ফুটে উঠেছে। কারণ তারা একে অপরকে সাহায্য করে, দায়িত্ব ভাগাভাগি করে এবং কঠিন সময়ে মিলেমিশে থেকে সমস্যার সমাধান করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261059,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261060,
+      "value": {
+        "options": [],
+        "question": "মালেকের কথায় জনসংখ্যা বৃদ্ধির কোন কারণটি ফুটে উঠেছে?",
+        "solution": "মালেকের কথায় জনসংখ্যা বৃদ্ধির ধর্মীয় কারণটি ফুটে উঠেছে।",
+        "explanation": "ব্যাখ্যা: মালেকের কথায় যদি তিনি পরিবারের শিশুর সংখ্যা বাড়ছে বা বেশি সন্তান হওয়ার কথা উল্লেখ করে থাকেন, তাহলে সেটি জনসংখ্যা বৃদ্ধির কারণ হিসেবে 'উচ্চ জন্মহার' ফুটে ওঠে; কারণ যখন জন্মহার মৃত্যুহার ছাড়িয়ে যায়, তখন মোট জনসংখ্যা দ্রুত বৃদ্ধি পায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261060,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261061,
+      "value": {
+        "options": [],
+        "question": "রাহাতের বাবার জন্মের সময় বাংলাদেশে জনসংখ্যা কত ছিল?",
+        "solution": "রাহাতের বাবার জন্মের সময় বাংলাদেশে জনসংখ্যা ছিল ৭ কোটি ৬৪ লক্ষ।",
+        "explanation": "এটি নির্ণয় করার জন্য রাহাতের বাবার জন্মসাল জানা প্রয়োজন—কোন সাল তিনি জন্মেছেন তা না জানলে বাংলাদেশে তখনকার জনসংখ্যা বলা যায় না। জনসংখ্যা জানার পদ্ধতি: প্রথমে জন্মসাল ধরে সংশ্লিষ্ট বছরের জাতীয় আদমশুমারি বা যুক্তরাষ্ট্র/জাতিসংঘের গণনা/আনুমানিক ডেটা দেখুন; যদি প্রয়োজন হয় নির্দিষ্ট দিনের জন্য, সেই বছরের মধ্যবর্তী (mid‑year) অনুমান ব্যবহার করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261061,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261062,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের জনসংখ্যা কত বছরে দ্বিগুণের বেশি হয়েছে?",
+        "solution": "বাংলাদেশের জনসংখ্যা ৪৫ বছরে দ্বিগুণের বেশি হয়েছে।",
+        "explanation": "ব্যাখ্যা: বাংলাদেশে জনসংখ্যা প্রায় \u003Cmath\u003E৩০\u003C/math\u003E বছরে দ্বিগুণের বেশি হয়েছে; উদাহরণস্বরূপ ১৯৬১ সালে জনসংখ্যা প্রায় \u003Cmath\u003E৫২ মিলিয়ন\u003C/math\u003E ছিল যা ১৯৯১ সালে প্রায় \u003Cmath\u003E১১০ মিলিয়ন\u003C/math\u003E পৌঁছে — তাই প্রায় \u003Cmath\u003E৩০\u003C/math\u003E বছরে দ্বিগুণের বেশি হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261062,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261063,
+      "value": {
+        "options": [],
+        "question": "রাসেলের দেশে প্রতিবছরে শতকরা কত হারে জনসংখ্যা বৃদ্ধি পাচ্ছে?",
+        "solution": "রাসেলের দেশে প্রতিবছরে ১.৩৩% হারে জনসংখ্যা বৃদ্ধি পাচ্ছে।",
+        "explanation": "প্রশ্নে প্রয়োজনীয় সংখ্যাবলয় (আদি জনসংখ্যা এবং বৃদ্ধির পরের জনসংখ্যা বা বৃদ্ধির পরিমাণ) দেওয়া নেই, তাই নির্দিষ্ট শতকরা হার বলা সম্ভব নয়। বার্ষিক শতকরা বৃদ্ধির সূত্র হলো [math]\\text{বার্ষিক বৃদ্ধির হার}=\\frac{\\text{বৃদ্ধির পরিমাণ}}{\\text{আদি জনসংখ্যা}}\\times100\\%[/math] — এই মানগুলো দিলে সরাসরি হিসাব করা যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261063,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261064,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের জনসংখ্যার প্রায় অর্ধেক কী?",
+        "solution": "বাংলাদেশের জনসংখ্যার প্রায় অর্ধেক নারী।",
+        "explanation": "ব্যাখ্যা: বাংলাদেশ একটি কৃষিপ্রধান দেশ, তাই জনসংখ্যার প্রায় অর্ধেকই সরাসরি কৃষিকাজে নিয়োজিত বা কৃষিপণ্য উৎপাদনের উপর নির্ভরশীল। গ্রামীণ এলাকাগুলোতে অধিকাংশ মানুষ জীবিকা নির্বাহের জন্য কৃষি করেন, এ কারণেই এটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261064,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261065,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের অর্থনীতি কৃষিনির্ভর। এ কারণে সবাই কি সন্তান চাই?",
+        "solution": "এ কারণে সবাই ছেলে সন্তান চাই।",
+        "explanation": "না — কৃষিনির্ভর অর্থনীতিতে অনেক পরিবার বেশি সন্তান চান কারণ তারা মাঠে কাজের জন্য এবং বৃদ্ধাবস্থায় আর্থিক-সৌজন্যে নিরাপত্তার উৎস হিসেবে সন্তানকে বিবেচনা করে। কিন্তু সবাই একরকমভাবে চান না; শিক্ষা, শহরায়ন, জীবনযাত্রার ব্যয় এবং পরিবার পরিকল্পনার কারণে অনেকেই সন্তানসংখ্যা সীমিত রাখে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261065,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261066,
+      "value": {
+        "options": [],
+        "question": "কী কারণে গ্রাম ও শহরে অনেক শিশুই মা-বাবার সাথে কাজে যোগ দেয়?",
+        "solution": "পরিবারে অভাবের কারণে গ্রাম ও শহরে অনেক শিশুই মা-বাবার সাথে কাজে যোগ দেয়।",
+        "explanation": "কারণ বহু পরিবার আর্থিকভাবে দুর্বল থাকে, তাই ছোট শিশুরাও পরিবারের আয় বাড়াতে বা গৃহকর্ম ও পারিবারিক ব্যবসায় সাহায্য করতে বাধ্য হয়; একই সঙ্গে স্কুলে যাওয়ার সুবিধা না থাকা ও সামাজিক-সাংস্কৃতিক চাহিদাও শিশুকে কাজে যোগ দেওয়ার মুখ্য কারণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261066,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261067,
+      "value": {
+        "options": [],
+        "question": "কী কারণে বাংলাদেশে এসব সমস্যা হচ্ছে?",
+        "solution": "অতিরিক্ত জনসংখ্যার কারণে বাংলাদেশে এসব সমস্যা হচ্ছে।",
+        "explanation": "এসব সমস্যা সাধারণত দ্রুত জনবৃদ্ধি, দারিদ্র্য ও অসাম্য, দুর্বল প্রশাসন ও দুর্নীতি, অবকাঠামো ও মৌলিক সেবার অভাব এবং জলবায়ু পরিবর্তনের কারণে ঘটে। এসব কারণ একে‑অপরকে জটিলভাবে কাজ করে সীমিত সম্পদ ও দুর্বল পরিকল্পনার ফলে কর্মসংস্থান, শিক্ষা, স্বাস্থ্য ও পরিবেশ ঠিকমত ম্যানেজ করা যায় না, ফলে সমস্যাগুলো স্থায়ীভাবে বাড়ে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261067,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261068,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে জনসংখ্যা বৃদ্ধির হার কী করতে হবে?",
+        "solution": "বাংলাদেশে জনসংখ্যা বৃদ্ধির হার কমাতে হবে।",
+        "explanation": "বাংলাদেশে জনসংখ্যা বৃদ্ধির হার কমিয়ে নিয়ন্ত্রিত ও স্থিতিশীল করা উচিত। অতিরিক্ত উচ্চ বৃদ্ধির হার স্বাস্থ্য, শিক্ষা, কর্মসংস্থান ও পরিবেশে চাপ বাড়ায়; নিয়ন্ত্রিত কম বৃদ্ধি টেকসই উন্নয়ন ও মানুষের জীবনমান উন্নত করতে সহায়ক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261068,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261069,
+      "value": {
+        "options": [],
+        "question": "জনসংখ্যার ঘনত্বের ভিত্তিতে বর্তমানে অদিতির দেশ বাংলাদেশের অবস্থান কত?",
+        "solution": "জনসংখ্যার ঘনত্বের ভিত্তিতে বর্তমানে অদিতির দেশ বাংলাদেশের অবস্থান বিশ্বে দশম।",
+        "explanation": "ব্যাখ্যা: জনসংখ্যার ঘনত্বের দিক থেকে বাংলাদেশ সাধারণত বিশ্বের অষ্টম স্থানে অবস্থান করে; কারণ সীমিত ভূখণ্ডে বিপুল মানুষের ঘনত্ব থাকায় দেশের ঘনত্ব তুলনামূলকভাবে খুব বেশি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261069,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261070,
+      "value": {
+        "options": [],
+        "question": "অতিরিক্ত জনসংখ্যার একটি সামাজিক কারণ উল্লেখ কর।",
+        "solution": "অতিরিক্ত জনসংখ্যার একটি সামাজিক কারণ হলো— ছেলে সন্তান লাভের আশা।",
+        "explanation": "পারিবারিক পরিকল্পনার অভাব একটি সামাজিক কারণ। যদি পরিবার নির্ধারণ, গর্ভনিরোধ বা সেবাসুবিধা সম্পর্কে সচেতনতা কম থাকে বা সামাজিক বাঁধা থাকে, তাহলে জন্মহার বেশি থাকে এবং তা অতিরিক্ত জনসংখ্যা বৃদ্ধিতে ভূমিকা রাখে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261070,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261029,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের জনসংখ্যা — দ্বিগুণের বেশি হয়ে গেছে।",
+        "solution": "৪৫ বছরে",
+        "explanation": "এই উত্তরটি সঠিক কারণ অতীতের তুলনায় জন্মহার উচ্চ থাকায় এবং মৃত্যুহার কমে যাওয়ার ফলে মোট জনসংখ্যা দ্রুত বৃদ্ধি পেয়েছে, ফলে বর্তমান জনসংখ্যা পুরনো সময়চক্রের তুলনায় দ্বিগুণের বেশি হয়ে গেছে। প্রধান কারণগুলো হলো স্বাস্থ্যসেবার উন্নতি ও টিকাকরণের ফলে শিশুমৃত্যু কমে যাওয়া, জীবনকাল বৃদ্ধি এবং অতীতে বেশি জন্মগ্রহণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261029,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:45.000000Z",
+            "updated_at": "2025-08-18T12:02:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 261030,
+      "value": {
+        "options": [],
+        "question": "সর্বশেষ হিসেব অনুযায়ী বছরে — হারে জনসংখ্যা বৃদ্ধি পাচ্ছে।",
+        "solution": "১.৩৩%",
+        "explanation": "সঠিক উত্তরটি তাই কারণ সেটি কোনো একটি বছরের মধ্যে জনসংখ্যার পরিবর্তনের বার্ষিক অনুপাতকে প্রকাশ করে, যা সরকারি জরিপ বা গণনা থেকে পাওয়া শুরু ও শেষের জনসংখ্যা দিয়ে নির্ণয় করা হয়। বার্ষিক বৃদ্ধির হার হিসাবের সূত্র হলো [math]\\text{বার্ষিক বৃদ্ধির হার}=\\frac{\\text{বছরের শেষে জনসংখ্যা}-\\text{বছরের শুরু জনসংখ্যা}}{\\text{বছরের শুরু জনসংখ্যা}}\\times100\\%[/math], তাই উক্ত মান এই সূত্র প্রয়োগ করলে পাওয়া ফলকে বোঝায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-18T12:02:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 261030,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-18T12:02:46.000000Z",
+            "updated_at": "2025-08-18T12:02:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746640,
+      "value": {
+        "options": {
+          "ক": "বহুবিবাহ",
+          "খ": "বাল্যবিবাহ",
+          "গ": "বহুপতি বিবাহ",
+          "ঘ": "একপত্নী বিবাহ"
+        },
+        "question": "পারভিনের সহপাঠী রূপার সপ্তম শ্রেণিতে পড়া অবস্থায় বিয়ে হয়ে যায়। এখন সে ৪ সন্তানের জননী। এটি জনসংখ্যা বৃদ্ধির কোন সামাজিক কারণকে নির্দেশ করে?",
+        "solution": "খ. বাল্যবিবাহ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746641,
+      "value": {
+        "options": {
+          "ক": "কৃষির",
+          "খ": "শিল্পের",
+          "গ": "ব্যবসায় বাণিজ্যের",
+          "ঘ": "শ্রমের"
+        },
+        "question": "বাংলাদেশের অর্থনীতি কীসের ওপর নির্ভরশীল?",
+        "solution": "ক. কৃষির",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746642,
+      "value": {
+        "options": {
+          "ক": "চিকিৎসাবিজ্ঞানের উন্নতিতে",
+          "খ": "কৃষির উন্নতিতে",
+          "গ": "শিল্পের উন্নতিতে",
+          "ঘ": "যোগাযোগ ব্যবস্থার উন্নয়নে"
+        },
+        "question": "বাংলাদেশে মৃত্যুহার কমে গেছে কেন?",
+        "solution": "ক. চিকিৎসাবিজ্ঞানের উন্নতিতে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746643,
+      "value": {
+        "options": {
+          "ক": "নারী",
+          "খ": "শিশু",
+          "গ": "কিশোর",
+          "ঘ": "যুবক"
+        },
+        "question": "বাংলাদেশের জনসংখ্যার প্রায় অর্ধেক",
+        "solution": "ক. নারী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746644,
+      "value": {
+        "options": {
+          "ক": "সংসার সমৃদ্ধির জন্য",
+          "খ": "উত্তরাধিকারের জন্য",
+          "গ": "মানসিক শান্তির জন্য",
+          "ঘ": "বৃদ্ধ বয়সে নিরাপত্তার জন্য"
+        },
+        "question": "অনেক বাবা-মা কেন অধিক সন্তান কামনা করেন?",
+        "solution": "ঘ. বৃদ্ধ বয়সে নিরাপত্তার জন্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746645,
+      "value": {
+        "options": {
+          "ক": "শিল্পের উন্নয়ন",
+          "খ": "যোগাযোগ ব্যবস্থার উন্নয়ন",
+          "গ": "শিক্ষার উন্নয়ন",
+          "ঘ": "বাল্যবিবাহ"
+        },
+        "question": "নিচের কোনটি জনসংখ্যা বৃদ্ধির একটি সামাজিক কারণ?",
+        "solution": "ঘ. বাল্যবিবাহ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746628,
+      "value": {
+        "options": {
+          "ক": "৭ কোটি ৫০ লক্ষ",
+          "খ": "৭ কোটি ৬৪ লক্ষ",
+          "গ": "৭ কোটি ৭৪ লক্ষ",
+          "ঘ": "৭ কোটি ৮৪ লক্ষ"
+        },
+        "question": "আদিল বাংলাদেশে বাস করে। আদিলের দেশে ১৯৭৪ সালে লোকসংখ্যা কত ছিল?",
+        "solution": "খ. ৭ কোটি ৬৪ লক্ষ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746629,
+      "value": {
+        "options": {
+          "ক": "৯১৫ জন",
+          "খ": "১০১৫ জন",
+          "গ": "১১৯৯ জন",
+          "ঘ": "১২১৫ জন"
+        },
+        "question": "সাকিব বাংলাদেশের নাগরিক। তার দেশে প্রতি বর্গকিলোমিটারে কত জন লোক বাস করে?",
+        "solution": "গ. ১১৯৯ জন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746630,
+      "value": {
+        "options": {
+          "ক": "১৫ কোটি ২০ লক্ষ",
+          "খ": "১৬ কোটি ৫১ লক্ষ",
+          "গ": "১৭ কোটি ১০ লক্ষ",
+          "ঘ": "১৮ কোটি ৩০ লক্ষ"
+        },
+        "question": "২০২২ সালে বাংলাদেশের জনসংখ্যা কত ছিল?",
+        "solution": "খ. ১৬ কোটি ৫১ লক্ষ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746631,
+      "value": {
+        "options": {
+          "ক": "জাপান",
+          "খ": "মার্কিন যুক্তরাষ্ট্র",
+          "গ": "বাংলাদেশ",
+          "ঘ": "সিঙ্গাপুর"
+        },
+        "question": "কোন দেশে জনসংখ্যার ঘনত্ব খুব বেশি বলে তুমি মনে কর?",
+        "solution": "ঘ. সিঙ্গাপুর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746632,
+      "value": {
+        "options": {
+          "ক": "১১ কোটি ৫০ লক্ষ",
+          "খ": "১২ কোটি ৬০ লক্ষ",
+          "গ": "১৩ কোটি ৯৭ লক্ষ",
+          "ঘ": "১৪ কোটি ৪০ লক্ষ"
+        },
+        "question": "আদমশুমারি ২০১১ অনুযায়ী বাংলাদেশের লোকসংখ্যা কত?",
+        "solution": "ঘ. ১৪ কোটি ৪০ লক্ষ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746633,
+      "value": {
+        "options": {
+          "ক": "১.২০%",
+          "খ": "১.২২%",
+          "গ": "১.২৪%",
+          "ঘ": "১.২৬%"
+        },
+        "question": "সর্বশেষ হিসাব অনুযায়ী জনসংখ্যা বৃদ্ধির হার কত?",
+        "solution": "খ. ১.২২%",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746634,
+      "value": {
+        "options": {
+          "ক": "১%",
+          "খ": "২%",
+          "গ": "৩%",
+          "ঘ": "৪%"
+        },
+        "question": "১৯৭০ সালে বাংলাদেশে জনসংখ্যার ঘনত্ব প্রতি বর্গকিলোমিটারে কত ছিল?",
+        "solution": "গ. ৩%",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746635,
+      "value": {
+        "options": {
+          "ক": "সপ্তম",
+          "খ": "অষ্টম",
+          "গ": "নবম",
+          "ঘ": "দশম"
+        },
+        "question": "জনসংখ্যার ঘনত্বের দিক থেকে বাংলাদেশ বিশ্বের কততম?",
+        "solution": "ঘ. দশম",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746636,
+      "value": {
+        "options": {
+          "ক": "জনসংখ্যা পরিস্থিতি",
+          "খ": "জনসংখ্যা হারের পার্থক্য",
+          "গ": "জনসংখ্যামিতি",
+          "ঘ": "জনসংখ্যার ঘনত্ব"
+        },
+        "question": "একটি দেশে প্রতি বর্গকিলোমিটারে যতজন লোক বাস করে তাকেই বলে-",
+        "solution": "ঘ. জনসংখ্যার ঘনত্ব",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746637,
+      "value": {
+        "options": {
+          "ক": "৭ কোটি ৬৪ লক্ষ",
+          "খ": "৮ কোটি ৯৯ লক্ষ",
+          "গ": "১১ কোটি ১৪ লক্ষ",
+          "ঘ": "১২ কোটি ৯৩ লক্ষ"
+        },
+        "question": "২০০১ সালে বাংলাদেশের জনসংখ্যা কত ছিল?",
+        "solution": "ঘ. ১২ কোটি ৯৩ লক্ষ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746638,
+      "value": {
+        "options": {
+          "ক": "৪০ বছরে",
+          "খ": "৪৬ বছরে",
+          "গ": "৪৮ বছরে",
+          "ঘ": "৫০ বছরে"
+        },
+        "question": "বাংলাদেশের জনসংখ্যা কত বছরে প্রায় দ্বিগুণ হয়েছে?",
+        "solution": "খ. ৪৬ বছরে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746639,
+      "value": {
+        "options": {
+          "ক": "মানুষ কাজ পায় না",
+          "খ": "মানুষ অনেক খাবার খায়",
+          "গ": "সমাজে অপরাধ থাকে না",
+          "ঘ": "পরিবেশ সুন্দর থাকে"
+        },
+        "question": "অতিরিক্ত জনসংখ্যার কুফল নিচের কোনটি?",
+        "solution": "ক. মানুষ কাজ পায় না",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-11-27T09:35:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181690,
+      "value": {
+        "options": {
+          "a": "অর্থনৈতিক কারণ",
+          "b": "সামাজিক কারণ",
+          "c": "ধর্মীয় কারণ",
+          "d": "স্বাস্থ্যগত কারণ"
+        },
+        "question": "বাংলাদেশের জনসংখ্যা বৃদ্ধির প্রধান চারটি কারণের মধ্যে কোনটি সমাজের জন্য সবচেয়ে সংকট সৃষ্টি করে?",
+        "chapter_id": "1382",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181691,
+      "value": {
+        "options": {
+          "a": "জনসংখ্যার কাজের সুযোগ বাড়ে",
+          "b": "শিক্ষার সুযোগ বৃদ্ধি পায়",
+          "c": "পরিবেশে দূষণ বৃদ্ধি পায়",
+          "d": "স্বাস্থ্যসেবার মান উন্নত হয়"
+        },
+        "question": "যেকোনো দেশের জনসংখ্যার ঘনত্ব বৃদ্ধি পেলে তার কত প্রভাব প্রতিফলিত হতে পারে?",
+        "chapter_id": "1382",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181692,
+      "value": {
+        "options": {
+          "a": "সরকারি নীতি",
+          "b": "আয়তনের অভাব",
+          "c": "অর্থনৈতিক উন্নয়ন",
+          "d": "শিক্ষার উন্নতি"
+        },
+        "question": "বাংলাদেশে জনসংখ্যার বৃদ্ধি কমার পরও জনসংখ্যার ঘনত্ব বাড়ার কারণ কী?",
+        "chapter_id": "1382",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181693,
+      "value": {
+        "options": {
+          "a": "১.৫%",
+          "b": "১.২২%",
+          "c": "২.৫%",
+          "d": "১%"
+        },
+        "question": "বাংলাদেশের জনসংখ্যা বৃদ্ধির হার ১৯৭০ সালে ছিল ৩% কিন্তু বর্তমানে কত শতাংশ?",
+        "chapter_id": "1382",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181694,
+      "value": {
+        "options": {
+          "a": "কৃষি উৎপাদন বৃদ্ধি",
+          "b": "শিক্ষার উন্নতি",
+          "c": "অপরাধের বৃদ্ধি",
+          "d": "স্বাস্থ্য উন্নয়ন"
+        },
+        "question": "বাংলাদেশের জনসংখ্যা বৃদ্ধির ফলে সমাজে যে সমস্যাগুলি দেখা দেয়, তার মধ্যে কোনটি উল্লেখযোগ্য?",
+        "chapter_id": "1382",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181695,
+      "value": {
+        "options": {
+          "a": "শিক্ষার অভাব",
+          "b": "শ্রমবাজারের চাহিদা",
+          "c": "মৃত্যুর হার",
+          "d": "জন্মের হার"
+        },
+        "question": "জনসংখ্যার বৃদ্ধি নিয়ে আলোচনার সময় কোন বিষয়টি সবচেয়ে বেশি গুরুত্ব পায়?",
+        "chapter_id": "1382",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181696,
+      "value": {
+        "options": {
+          "a": "পঞ্চম",
+          "b": "দশম",
+          "c": "ত্রিশতম",
+          "d": "পঁচিশতম"
+        },
+        "question": "বাংলাদেশে জনসংখ্যার ঘনত্বের দিক থেকে বিশ্বে কোন অবস্থানে রয়েছে?",
+        "chapter_id": "1382",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181697,
+      "value": {
+        "options": {
+          "a": "উন্নত চিকিৎসা সেবা",
+          "b": "ছোট পরিবার",
+          "c": "নারীদের কর্মসংস্থান",
+          "d": "সঠিক শিক্ষা"
+        },
+        "question": "জনসংখ্যা বৃদ্ধির জন্য যে সমস্যাগুলি গড়ে তোলে, তার সমাধানের মধ্যে কোনটি সবচেয়ে গুরুত্বপূর্ণ বলে মনে করা হয়?",
+        "chapter_id": "1382",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181698,
+      "value": {
+        "options": {
+          "a": "১০০০",
+          "b": "১২০০",
+          "c": "১১৯৯",
+          "d": "১৫০০"
+        },
+        "question": "বাংলাদেশে জনসংখ্যার ঘনত্ব ২০২২ সালে ছিল প্রতি বর্গকিলোমিটারে কতজন?",
+        "chapter_id": "1382",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181699,
+      "value": {
+        "options": {
+          "a": "শিক্ষার অবস্থা",
+          "b": "স্বাস্থ্যসেবা",
+          "c": "অর্থনীতি",
+          "d": "প্রাকৃতিক সৌন্দর্য"
+        },
+        "question": "জনসংখ্যার বৃদ্ধি নিয়ে আলোচনা করার সময় যে বিষয়টি উল্লেখ করা উচিত নয়?",
+        "chapter_id": "1382",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181700,
+      "value": {
+        "options": {
+          "a": "ভারত",
+          "b": "পাকিস্তান",
+          "c": "সিঙ্গাপুর",
+          "d": "হংকং"
+        },
+        "question": "বাংলাদেশের প্রতিবেশী দেশগুলির মধ্যে জনসংখ্যার ঘনত্বের দিক থেকে কোনটি সবচেয়ে বেশি?",
+        "chapter_id": "1382",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181701,
+      "value": {
+        "options": {
+          "a": "শিক্ষার অভাব",
+          "b": "অর্থনৈতিক সঙ্কট",
+          "c": "বাল্যবিবাহ",
+          "d": "আন্তর্জাতিক সাহায্য"
+        },
+        "question": "যে কারণে বাংলাদেশের জনসংখ্যা দ্রুত বৃদ্ধি পাচ্ছে, তার মধ্যে কোনটি আদর্শ নয়?",
+        "chapter_id": "1382",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181702,
+      "value": {
+        "options": {
+          "a": "শিক্ষার উন্নতি",
+          "b": "অর্থনৈতিক স্থিতিশীলতা",
+          "c": "অপরাধের বৃদ্ধি",
+          "d": "স্বাস্থ্যসেবার উন্নতি"
+        },
+        "question": " জনসংখ্যা বৃদ্ধির ফলে বাংলাদেশের সামাজিক অবস্থা কেমন পরিবর্তিত হচ্ছে?",
+        "chapter_id": "1382",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181703,
+      "value": {
+        "options": {
+          "a": "সাহায্য করে",
+          "b": "বাধা দেয়",
+          "c": "অকার্যকর",
+          "d": "নীতি নির্ধারণ করে"
+        },
+        "question": "বাংলাদেশে জনসংখ্যা বৃদ্ধির জন্য সরকারী নীতির ভূমিকা কেমন?",
+        "chapter_id": "1382",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181704,
+      "value": {
+        "options": {
+          "a": "ক্ষেত্রে কৃষি উন্নয়ন",
+          "b": "জনসংখ্যার আয়তন অপরিবর্তিত",
+          "c": "শিক্ষার বৃদ্ধির কারণে",
+          "d": "মৃত্যুর হার বৃদ্ধি"
+        },
+        "question": "বাংলাদেশের জনসংখ্যা বৃদ্ধির হার কমছে, কিন্তু জনসংখ্যার ঘনত্ব কেন বাড়ছে?",
+        "chapter_id": "1382",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181705,
+      "value": {
+        "options": {
+          "a": "বাতাসের গুণগত মানের উন্নতি",
+          "b": "প্রাকৃতিক পরিবেশের ক্ষতি",
+          "c": "অর্থনৈতিক উন্নয়ন",
+          "d": "শিক্ষার প্রভাব"
+        },
+        "question": "বাংলাদেশে জনসংখ্যার ঘনত্ব বৃদ্ধির ফলে পরিবেশে কী ধরনের সমস্যা দেখা দেয়?",
+        "chapter_id": "1382",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181706,
+      "value": {
+        "options": {
+          "a": "শিক্ষার উৎস বৃদ্ধি",
+          "b": "বিদ্যালয়ের সংখ্যা বৃদ্ধি",
+          "c": "শিক্ষার্থী সংখ্যা বৃদ্ধি",
+          "d": "শিক্ষার গুণগত মান হ্রাস"
+        },
+        "question": "অতিরিক্ত জনসংখ্যার কারণে বাংলাদেশের শিক্ষা ব্যবস্থায় কোন সমস্যাগুলি দেখা দেয়?",
+        "chapter_id": "1382",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181707,
+      "value": {
+        "options": {
+          "a": "কৃষি উৎপাদন বৃদ্ধি",
+          "b": "কৃষকদের কাজে নিবিড়তা",
+          "c": "প্রাকৃতিক সম্পদের ঘাটতি",
+          "d": "কৃষি প্রযুক্তির উন্নতি"
+        },
+        "question": "জনসংখ্যার বৃদ্ধির কারণে কৃষি ক্ষেত্রে কোন সমস্যা সবচেয়ে বেশি হয়?",
+        "chapter_id": "1382",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181708,
+      "value": {
+        "options": {
+          "a": "বৈষম্য বৃদ্ধি",
+          "b": "অর্থনৈতিক উন্নয়ন",
+          "c": "শিক্ষার মান বৃদ্ধি",
+          "d": "স্বাস্থ্য পরিষেবার উন্নতি"
+        },
+        "question": "যেকোনো সমাজের জন্য জনসংখ্যার ঘনত্ব বৃদ্ধির ফলাফল কেমন হতে পারে?",
+        "chapter_id": "1382",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181709,
+      "value": {
+        "options": {
+          "a": "শিক্ষার প্রসার",
+          "b": "বৈষম্য",
+          "c": "অর্থনৈতিক নিরাপত্তা",
+          "d": "সামাজিক চাপ"
+        },
+        "question": "বাংলাদেশে অধিক সন্তান জন্ম দেওয়ার পেছনে কী কারণে পরিবারগুলো উদ্বুদ্ধ হয়?",
+        "chapter_id": "1382",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181710,
+      "value": {
+        "options": {
+          "a": "কৃষির উন্নতি",
+          "b": "অর্থনৈতিক স্বাধীনতা",
+          "c": "শিক্ষার প্রসার",
+          "d": "স্বাস্থ্যসেবার উন্নয়ন"
+        },
+        "question": "বাংলাদেশের জনসংখ্যার দ্রুত বৃদ্ধি কমানোর জন্য নারীদের ভূমিকা কেমন?",
+        "chapter_id": "1382",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 181711,
+      "value": {
+        "options": {
+          "a": "সিঙ্গাপুরের ঘনত্ব বেশি",
+          "b": "বাংলাদেশের ঘনত্ব বেশি",
+          "c": "দুটি দেশের ঘনত্ব সমান",
+          "d": "সিঙ্গাপুরের জনসংখ্যা বেশি"
+        },
+        "question": "জনসংখ্যার ঘনত্বের দিক থেকে সিঙ্গাপুর এবং বাংলাদেশের মাঝে পার্থক্য কী?",
+        "chapter_id": "1382",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-06T01:06:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 159043,
+      "value": {
+        "options": {
+          "a": "শিক্ষার অভাব",
+          "b": "প্রাকৃতিক দুর্যোগ",
+          "c": "অর্থনৈতিক উন্নতি",
+          "d": "শহুরে অভিবাসন"
+        },
+        "question": "বাংলাদেশের জনসংখ্যা বৃদ্ধির প্রধান কারণে কোনটি সঠিকভাবে উল্লেখ করা হয়েছে?",
+        "chapter_id": "1382",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-01T07:24:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 159041,
+      "value": {
+        "options": {
+          "a": "সবার জন্য শিক্ষার সুযোগ বৃদ্ধি করা",
+          "b": "বাল্যবিবাহ বন্ধ করা",
+          "c": "অর্থনৈতিক উন্নয়ন ঘটানো",
+          "d": "মেয়েদের উপার্জনমূলক কাজে অংশগ্রহণ করানো"
+        },
+        "question": "বাংলাদেশে জনসংখ্যা বৃদ্ধির হার কমানোর জন্য কোনটি সবচেয়ে গুরুত্বপূর্ণ পদক্ষেপ হতে পারে?",
+        "chapter_id": "1382",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-01T07:24:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 159042,
+      "value": {
+        "options": {
+          "a": "দ্বিতীয়",
+          "b": "চতুর্থ",
+          "c": "দশম",
+          "d": "পঞ্চম"
+        },
+        "question": "বাংলাদেশের জনসংখ্যার ঘনত্বের দিক থেকে বিশ্বে কোন স্থান অধিকার করে?",
+        "chapter_id": "1382",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-01T07:24:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 159031,
+      "value": {
+        "options": {
+          "a": "জনসংখ্যা স্থিতিশীল",
+          "b": "জনসংখ্যা হ্রাস পাচ্ছে",
+          "c": "জনসংখ্যা বৃদ্ধি পাচ্ছে",
+          "d": "জনসংখ্যা বৃদ্ধি স্থির"
+        },
+        "question": "বাংলাদেশের জনসংখ্যার ঘনত্ব কিভাবে বৃদ্ধি পাচ্ছে?",
+        "chapter_id": "1382",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-01T07:24:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 159032,
+      "value": {
+        "options": {
+          "a": "খাদ্য সংকট",
+          "b": "উন্নয়ন",
+          "c": "শিক্ষার প্রসার",
+          "d": "প্রকৃতি রক্ষা"
+        },
+        "question": "অতিরিক্ত জনসংখ্যার কারণে সমাজে কোন সমস্যা দেখা দেয়?",
+        "chapter_id": "1382",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-08-01T07:24:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57027,
+      "value": {
+        "options": {
+          "a": "১৪ কোটি ৪০ লক্ষ",
+          "b": "১৬ কোটি ৫১ লক্ষ",
+          "c": "১২ কোটি ৯৩ লক্ষ",
+          "d": "১১ কোটি ১৪ লক্ষ"
+        },
+        "question": "বাংলাদেশের জনসংখ্যা ২০২২ সালে কত ছিল?",
+        "solution": "সমাধান:\nStep 1: সরকারি এবং বৈশ্বিক জনসংখ্যা উপাত্ত অনুযায়ী ২০২২ সালের বাংলাদেশি জনসংখ্যা প্রায় [math]165{,}100{,}000[/math] ছিল, যা বাংলায় [math]16\\ \\text{কোটি}\\ 51\\ \\text{লক্ষ}[/math]।\n\nStep 2: কনভার্সন দেখে নেওয়া যাক:\n[math]165{,}100{,}000 = 16\\times 10{,}000{,}000 + 51\\times 100{,}000 = 160{,}000{,}000 + 5{,}100{,}000[/math] = [math]165{,}100{,}000[/math]।\n\nএখান থেকে স্পষ্ট যে সঠিক উত্তরটি বিকল্প (b): [math]16\\ \\text{কোটি}\\ 51\\ \\text{লক্ষ}[/math]। অন্য অপশনগুলোর মান আলাদা: (a) = [math]144{,}000{,}000[/math], (c) = [math]129{,}300{,}000[/math], (d) = [math]111{,}400{,}000[/math] — সেগুলো ২০২২ সালের প্রকৃত জনসংখ্যার সাথে মেলে না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57028,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাংলাদেশের জনসংখ্যা বৃদ্ধির হার ১৯৭০ সালের থেকে বৃদ্ধি পেয়েছে।",
+        "solution": "সমাধান: প্রশ্নটি পরীক্ষা করলে দেখা যায় যে “১৯৭০ সালের থেকে জনসংখ্যা বৃদ্ধির হার বৃদ্ধি পেয়েছে” বলা হচ্ছে। বাস্তবে বাংলাদেশের জন্মনিয়ন্ত্রণ ও জনস্বাস্থ্য উন্নতির কারণে মোট ফার্টিলিটি ও বার্ষিক বৃদ্ধির হার কমেছে, অর্থাৎ\n[math]\\text{growth rate}_{\\text{বর্তমান}} \u003C \\text{growth rate}_{1970}[/math]।\nঅতএব বিবৃতিটি ভুল এবং সঠিক উত্তর: b। বিকল্প a ভুল কারণ তা বৃদ্ধিহারের বৃদ্ধির বিপরীত ধারাকে দাবি করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57029,
+      "value": {
+        "options": {
+          "a": "১১৯৯ জন",
+          "b": "১০০০ জন",
+          "c": "১৫০০ জন",
+          "d": "২০০০ জন"
+        },
+        "question": "বাংলাদেশের জনসংখ্যার ঘনত্ব ছিল প্রতি বর্গকিলোমিটারে __________।",
+        "solution": "সমাধান:\nজনসংখ্যার ঘনত্বের সূত্র: [math]\\text{ঘনত্ব}=\\dfrac{\\text{মোট জনসংখ্যা}}{\\text{মোট এলাকা (বর্গকিমি)}}[/math]। উদাহরণস্বরূপ, যদি মোট জনসংখ্যা ধরা হয় [math]176,936,430[/math] এবং মোট এলাকা [math]147,570\\ \\text{বর্গকিমি}[/math], তাহলে\n[math]\\dfrac{176,936,430}{147,570}\\approx1199\\ (\\text{জন/বর্গকিমি})[/math]।\nঅতএব সঠিক উত্তর হলো অপশন a: ১১৯৯ জন। অন্য অপশনগুলো (১০০০, ১৫০০, ২০০০) এই গণনার ফলাফল অনুসারে সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57030,
+      "value": {
+        "options": [],
+        "question": "জনসংখ্যা বৃদ্ধির প্রধান চারটি কারণসূত্র উল্লেখ করুন।",
+        "solution": "সমাধান:\n১. প্রথমে প্রশ্ন অনুযায়ী জনসংখ্যা বৃদ্ধিকে প্রভাবিতকারী মূল কারণগুলো চিহ্নিত করা হয় — অর্থাৎ কোন সামাজিক নীতি, অর্থনৈতিক পরিস্থিতি, ধর্মীয় মানদণ্ড বা স্বাস্থ্যগত পরিবর্তন জনসংখ্যা বাড়াতে ভূমিকা রাখে।  \n২. প্রতিটি কারণ সংক্ষিপ্তভাবে ব্যাখ্যা করে দেখানো যায়: সামাজিক কারণ — পরিবারের মধ্যে বড় পরিবারকে স্বীকৃতি বা কনিষ্ঠ পুত্র পছন্দ; অর্থনৈতিক কারণ — দরিদ্রতা বা কৃষি নির্ভরতা যেখানে সন্তান শ্রম হিসেবে গণ্য; ধর্মীয় কারণ — প্রসবনিয়ন্ত্রণে বাধা বা ধর্মীয় শিক্ষায় বড় পরিবারকে উৎসাহ; স্বাস্থ্যগত কারণ — শিশুমৃত্যুহার হ্রাস ও চিকিৎসাসুবিধার উন্নতি, ফলে জীবিত শিশুর সংখ্যা বাড়ে।  \n৩. উপরোক্ত বিশ্লেষণ থেকে স্পষ্ট যে প্রধান চারটি কারণসূত্র হচ্ছে: সামাজিক, অর্থনৈতিক, ধর্মীয় এবং স্বাস্থ্যগত।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "সামাজিক, অর্থনৈতিক, ধর্মীয়, স্বাস্থ্যগত"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57031,
+      "value": {
+        "options": {
+          "a": "১.২২%",
+          "b": "৩%",
+          "c": "২%",
+          "d": "১.৫%"
+        },
+        "question": "বাংলাদেশের জনসংখ্যা বৃদ্ধির বার্ষিক হার কত?",
+        "solution": "সমাধান:\nStep 1: বার্ষিক জনসংখ্যা বৃদ্ধির মূল সূত্র হলো [math]\\text{Growth rate}=\\frac{P_2-P_1}{P_1}\\times100\\%[/math] যেখানে [math]P_1[/math] ও [math]P_2[/math] যথাক্রমে দু'টি সময়ের জনসংখ্যা।  \nStep 2: সাম্প্রতিক সরকারি ও আন্তর্জাতিক পরিসংখ্যান অনুযায়ী বাংলাদেশের বার্ষিক জনসংখ্যা বৃদ্ধি প্রায় [math]1.22\\%[/math] (অর্থাৎ [math]0.0122[/math] গুণ)। তাই সঠিক উত্তর হল অপশন (a)।  \nStep 3: অন্যান্য অপশনগুলো (৩%, ২%, ১.৫%) বাস্তব গতিসংখ্যার তুলনায় বেশি; তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57032,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাংলাদেশে জনসংখ্যার ঘনত্ব বিশ্বে দশম।",
+        "solution": "সমাধান: \n\nধাপ ১: জনসংখ্যার ঘনত্বের সূত্র হলো [math]\\text{ঘনত্ব}=\\frac{\\text{জনসংখ্যা}}{\\text{ভূমির আয়তন}}[/math]।  \nধাপ ২: আনুমানিক সংখ্যায় গ্রহণ করলে, বাংলাদেশের জনসংখ্যা ≈ [math]170{,}000{,}000[/math] এবং আয়তন ≈ [math]147{,}570\\ \\text{কিমি}^2[/math], ফলে ঘনত্ব হচ্ছে [math]\\frac{170{,}000{,}000}{147{,}570}\\approx1{,}152\\ \\text{ব্যক্তি/কিমি}^2[/math] (আনুমানিক)।  \nধাপ ৩: বিশ্বব্যাপী দেশগুলোর ঘনত্বের তালিকায় এই ঘনত্ব থেকে বাংলাদেশ সাধারণত শীর্ষ দশের মধ্যে থাকে, তাই বিবৃতিটি সঠিক। \n\nঅতএব সঠিক উত্তর: a (True); বিকল্প b ভুল কারণ সেটি ঘনত্বের উপর ভিত্তি করে থাকা ঐতিহাসিক ও সাম্প্রতিক র‍্যাংকিংয়ের সঙ্গে বিরোধী।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57033,
+      "value": {
+        "options": {
+          "a": "প্রাকৃতিক দুর্যোগ",
+          "b": "অপরাধ",
+          "c": "শিক্ষার অভাব",
+          "d": "স্বাস্থ্যসেবা"
+        },
+        "question": "অতিরিক্ত জনসংখ্যার কারণে __________ বৃদ্ধি পায়।",
+        "solution": "সমাধান:\nStep 1: অতিরিক্ত জনসংখ্যা মানে সীমিত সম্পদে মানুষ বেশি হওয়া, ফলে বেকারি, দারিদ্র্য ও প্রতিযোগিতা বেড়ে যায়।  \nStep 2: এই পরিস্থিতি কর্মসংস্থান ও জীবিকাসহায়তার অভাবে অপরাধ প্রবণতা বাড়ায় — চুরি, ডাকাতি, মাদক ও সামাজিক সহিংসতা বাড়ার সম্ভাবনা বৃদ্ধি পায়। অতএব সঠিক উত্তর হল b: অপরাধ।  \nঅন্য বিকল্পগুলো অপ্রযোজ্য কারণ: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রাকৃতিক দুর্যোগ সাধারণত জনসংখ্যার কারণে directly বাড়ে না, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শিক্ষার অভাব পার্শ্বপ্রভাব হতে পারে কিন্তু সরাসরি অতিরিক্ত জনসংখ্যার প্রধান ফল হিসেবে বিবেচিত নয়, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E স্বাস্থ্যসেবা একটি সেবাখাত — জনসংখ্যা বাড়লে চাপ পড়ে কিন্তু প্রশ্নে জিজ্ঞাসা করা হচ্ছে কী বাড়ে, তাই সবচেয়ে স্পষ্ট উত্তর হলো অপরাধ।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57034,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের জনসংখ্যা বৃদ্ধির ফলে কী ধরনের সমস্যায় মানুষ পড়তে পারে?",
+        "solution": "সমাধান:\nধাপ ১: জনসংখ্যা বাড়লে জাতীয় সম্পদ (শিক্ষা প্রতিষ্ঠান, কাজের সুযোগ, খাদ্য উৎপাদন, স্বাস্থ্যসেবা) প্রতি ব্যক্তির জন্য কমে যায়—এটি সমস্যার মূল যৌক্তিক ভিত্তি।  \nধাপ ২: প্রত্যেক প্রভাবের ব্যাখ্যা—শিক্ষায় জায়গা ও শিক্ষক কমে যাওয়ায় শ্রেণিকোচ ও শিক্ষার মান নেমে আসে; কর্মসংস্থান সীমিত থাকায় বেকারত্ব বাড়ে; জনসংখ্যা বেড়ে খাদ্যের চাহিদা বেশি হলে খাদ্য নিরাপত্তা ঝুঁকিতে পড়ে; বেশি রোগী হলে স্বাস্থ্যসেবা অতিভারিত হয়ে সেবা দুর্বল হয়।  \nউপসংহার: তাই সঠিক উত্তর হল—শিক্ষা, কর্মসংস্থান, খাদ্য নিরাপত্তা এবং স্বাস্থ্যসেবার অভাব।  \nঅন্য সম্ভাব্য বিকল্প (যেমন পরিবেশ বা আবাসন সমস্যা) কিছু ক্ষেত্রে প্রযোজ্য হলেও প্রশ্নে উল্লেখিত প্রধান সমস্যা গুলোই সবচেয়ে সরাসরি ও ব্যাপক প্রভাব ফেলে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "শিক্ষা, কর্মসংস্থান, খাদ্য নিরাপত্তা, স্বাস্থ্যসেবার অভাব"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57035,
+      "value": {
+        "options": {
+          "a": "চতুর্থ",
+          "b": "দ্বিতীয়",
+          "c": "তৃতীয়",
+          "d": "পঞ্চম"
+        },
+        "question": "বাংলাদেশের জনসংখ্যার ঘনত্বের দিক থেকে সিঙ্গাপুরের অবস্থান কত?",
+        "solution": "সমাধান:\nধারণা: জনসংখ্যার ঘনত্ব নির্ণয়ের সূত্র হলো [math]\\text{ঘনত্ব}=\\dfrac{\\text{জনসংখ্যা}}{\\text{আয়তন (বর্গ-কিমি)}}[/math]। \nধরা যাক আনুমানিক মানগুলো: বাংলাদেশ≈[math]\\dfrac{161,000,000}{147,570}\\approx 1,091\\ \\text{জন/বর্গ-কিমি}[/math], সিঙ্গাপুর≈[math]\\dfrac{5,700,000}{719}\\approx 7,900\\ \\text{জন/বর্গ-কিমি}[/math] — সুতরাং সিঙ্গাপুরের ঘনত্ব অনেক বেশি। বিশ্বব্যাপী দেশগুলোর মধ্যে সাধারণভাবে Monaco প্রথম, Macau দ্বিতীয় এবং Singapore তৃতীয় ঘনত্বে থাকে; তাই সিঙ্গাপুরের অবস্থান তৃতীয়। অন্যান্য বিকল্পগুলো—দ্বিতীয়, চতুর্থ বা পঞ্চম—ভুল, কারণ Macau সাধারণত সিঙ্গাপুরের উপরে থাকে এবং সিঙ্গাপুর তৃতীয় স্থানে অবস্থান করে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57036,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বিকাশমান দেশের অধিকাংশ নারী আয়মূলক কাজে জড়িত নন।",
+        "solution": "সমাধান:\nধাপ ১: বিবৃতির অর্থ বিশ্লেষণ করলে দেখা যায় এটি বলছে যে উন্নয়নশীল বা বিকাশমান দেশে অধিকাংশ নারী আয়মূলক (paid/market) কাজে জড়িত নন — অর্থাৎ তাদের অনেকেই আয়ের জন্য বহিরাগত শ্রমবাজারে অংশ নেয় না।  \nধাপ ২: বাস্তবকথা ও সার্বিক পর্যবেক্ষণে বিকাশমান দেশগুলিতে নারীদের শ্রমবাজার অংশগ্রহণ হার কম থাকে কারণ অনেক নারী অনানুষ্ঠানিক, অ-ভুক্ত বা গৃহস্থালি এবং অ-পেইড যত্নমূলক কাজ করেন যা আয়মূলক হিসেবে গণ্য হয় না। তাই বিবৃতিটি সত্য।  \nধাপ ৩: বিকল্প বিবেচনা — \"False\" ভুল কারণ বাস্তব ডেটা ও সামাজিক কাঠামো দেখায় অধিকাংশ নারী সরাসরি আয়ের কাজে নাও যুক্ত থাকতে পারেন; অতএব সঠিক উত্তর: True (a)।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57037,
+      "value": {
+        "options": {
+          "a": "শিক্ষার অভাব",
+          "b": "চাকরির অভাব",
+          "c": "প্রাকৃতিক দুর্যোগ",
+          "d": "রোগব্যাধি"
+        },
+        "question": "জনসংখ্যা বৃদ্ধির সামাজিক কারণে __________ অন্তর্ভুক্ত।",
+        "solution": "সমাধান:  \nধাপ ১: জনসংখ্যা বৃদ্ধির সামাজিক কারণ বলতে বোঝায় সেই সকল সামাজিক ও সাংস্কৃতিক উপাদান যা উচ্চ জন্মহার সৃষ্টি করে — যেমন শিক্ষার মাত্রা, লিঙ্গভিত্তিক বৈষম্য এবং পারিবারিক মূল্যবোধ।  \nধাপ ২: শিক্ষার অভাব (a) থাকলে মানুষ মাতৃত্ব ও পরিবার পরিকল্পনা সম্পর্কিত জ্ঞান ও সচেতনতা থেকে বঞ্চিত হয়, আর ঝুঁকিপূর্ণ প্রথাগুলো (যেমন অল্পবয়সে বিবাহ) বেশি দেখা যায়; ফলে জন্মহার বাড়ে — তাই (a) সঠিক উত্তর।  \nধাপ ৩: অন্য বিকল্পগুলো ভুল কারণ: চাকরির অভাব (b) প্রায়শই জনসংখ্যা বৃদ্ধির ফলন বা অর্থনৈতিক সমস্যা, প্রাকৃতিক দুর্যোগ (c) পরিবেশগত কারণ, এবং রোগব্যাধি (d) সাধারণত জনসংখ্যা হ্রাসকারী কারণ।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57038,
+      "value": {
+        "options": [],
+        "question": "অতিরিক্ত জনসংখ্যা কমানোর উপায় সমূহ উল্লেখ করুন।",
+        "solution": "সমাধান:\nধাপ ১: সমস্যা নির্ধারণ — অতিরিক্ত জনসংখ্যার মূল কারণগুলো হলো উচ্চ গর্ভধারণের হার, অল্পবয়সী বিবাহ, জন্মনিয়ন্ত্রণ ও স্বাস্থ্যসেবার অভাব এবং নারীদের সিদ্ধান্ত গ্রহণে সীমিত অংশগ্রহণ।  \nধাপ ২: প্রস্তাবিত সমাধান ও কারণ — শিক্ষা (বিশেষ করে মেয়েদের শিক্ষা) জন্মহার কমায় কারণ শিক্ষিত মেয়েরা দেরিতে বিয়ে করে ও পরিবার ছোট রাখতে সচেষ্ট থাকে; স্বাস্থ্যসেবা ও গর্ভনিরোধক সেবা জন্মনিয়ন্ত্রণ সহজতর করে এবং মাতৃ-শিশু মৃত্যু কমায়; পরিকল্পিত পরিবার (পরিবার-পরিকল্পনা কর্মসূচি ও কনডম/ইউপিএলআই প্রদান) সরাসরি গর্ভধারণ নিয়ন্ত্রণ করে; নারীদের ক্ষমতায়ন (অর্থনৈতিক সুযোগ, আইনি অধিকার, সিদ্ধান্ত গ্রহণে অংশ) পরিবার পরিকল্পনায় স্থিতিশীলতা নিয়ে আসে।  \nধাপ ৩: উপসংহার — উপরের চারটি উপায় (শিক্ষা, স্বাস্থ্যসেবা, পরিকল্পিত পরিবার, নারীদের ক্ষমতায়ন) মিলিয়ে অতিরিক্ত জনসংখ্যা কার্যকরভাবে কমানো যায়। অন্য বিকল্পগুলো (যেমন শুধুমাত্র সীমাবদ্ধ অভিবাসন বা জোরপূর্বক নীতি) টেকসই বা নৈতিক দিক থেকে কার্যকর নয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "শিক্ষা, স্বাস্থ্যসেবা, পরিকল্পিত পরিবার, নারীদের ক্ষমতায়ন"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57039,
+      "value": {
+        "options": {
+          "a": "শিক্ষার্থীদের",
+          "b": "বৃদ্ধদের",
+          "c": "বিশ্বের বাঁশি সরকারী",
+          "d": "সকলের জন্য"
+        },
+        "question": "অতিরিক্ত জনসংখ্যা কাদের জন্য বেশি সমস্যার সৃষ্টি করে?",
+        "solution": "সমাধান:\nধাপ ১: অতিরিক্ত জনসংখ্যা মানে সুযোগ-сাধনের চেয়ে মানুষের সংখ্যা বেশি হওয়া—ইতিবাচক সম্পদ (খাদ্য, বাসস্থান, স্বাস্থ্যসেবা, শিক্ষা) উপর চাপ বাড়ায় এবং সংস্থান হ্রাস করে।  \nধাপ ২: প্রতিটি অপশনের মূল্যায়ন: (a) শিক্ষার্থীরা শিক্ষার সুযোগ কমে প্রভাবিত হয়, (b) বৃদ্ধদের স্বাস্থ্যসেবা ও সেবা সংকটে সমস্যায় পড়ে, (c) সরকার বা রাষ্ট্রকে পরিচালনা ও সেবাদি প্রদানে বড় চ্যালেঞ্জ আসে। এইভাবে দেখা যায় যে সমস্যা কোনো এক গোষ্ঠীরই সীমাবদ্ধ নয়।  \nধাপ ৩: তাই সঠিক উত্তর হলো d — সকলের জন্য, কারণ অতিরিক্ত জনসংখ্যা সমাজের সকল স্তর ও প্রতিষ্ঠানকে একইভাবে প্রভাবিত করে।  \n\nকেন অন্যগুলো ভুল: a, b, c প্রতিটি কেবল একটি নির্দিষ্ট গোষ্ঠী বা দিককে নির্দেশ করে; অতিরিক্ত জনসংখ্যার প্রভাব বিস্তৃত হওয়ায় শুধুমাত্র একটিই সঠিক নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57040,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "ইসলামী বিশ্বাসের কারণে মানুষ অনেক সন্তান নিতে চায়।",
+        "solution": "সমাধান: ইসলাম ধর্ম পরিবার ও বংশবৃদ্ধিকে উৎসাহ দেয়, বিবাহ ও সন্তানের গণ্ডি কে নেকি ও বরকত হিসেবে দেখা হয়; এই কারণে অনেক মুসলিম পরিবার বেশি সংখ্যক সন্তান চাইতে পারে। তাই মূল বিবৃতিটি সঠিক—অর্থাৎ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বিকল্পটি (a: True) সঠিক। বিকল্প (b: False) ভুল, কারণ তা ইসলামের ঐতিহ্যগত শিক্ষা ও প্রবণতার সঙ্গে সঙ্গতিপূর্ণ নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57041,
+      "value": {
+        "options": {
+          "a": "অর্থনৈতিক সহযোগিতা",
+          "b": "শিক্ষা",
+          "c": "স্বাস্থ্যসেবা",
+          "d": "নেতৃত্ব"
+        },
+        "question": "বাংলাদেশের বেশিরভাগ পরিবারে বেশি সন্তানের প্রত্যাশা কারণ হলো __________।",
+        "solution": "সমাধান:\nধাপ ১: সমস্যার মূল কারণ বিশ্লেষণ করি — বাংলাদেশের অধিকাংশ পরিবারে সন্তানকে অর্থনৈতিক সম্পদ এবং বৃদ্ধাবস্থায় নিরাপত্তা হিসেবে দেখা হয়।  \nধাপ ২: বিকল্পগুলোর মানে যাচাই করি — \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E অর্থনৈতিক সহযোগিতা (শ্রম এবং বৃদ্ধাবস্থার সাপোর্ট), \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E শিক্ষা (প্রায়ই সন্তানের সংখ্যা কমায়), \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E স্বাস্থ্যসেবা (সারের্ভাইভাল বাড়লে সন্তানসংখ্যা কমতে পারে), \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E নেতৃত্ব (প্রাসঙ্গিক নয়)।  \nধাপ ৩: উপাত্ত ও সাধারণ বাস্তবতার ওপর ভিত্তি করে সিদ্ধান্ত — বাংলাদেশের গ্রামীণ ও নিম্নআয়ের পরিবারগুলোর মধ্যে বেশি সন্তানের প্রত্যাশার প্রধান কারণ হলো অর্থনৈতিক সহযোগিতা ও বৃদ্ধাবস্থার নিরাপত্তা। তাই সঠিক উত্তর: a (অর্থনৈতিক সহযোগিতা)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57042,
+      "value": {
+        "options": [],
+        "question": "অতিরিক্ত জনসংখ্যার সমস্যা সমাধানে শহরগুলিতে কী সুবিধা দিতে হবে?",
+        "solution": "সমাধান:\n1. সমস্যা চিহ্নিত করা: অতিরিক্ত জনসংখ্যা হলে শহরে শৌচ, স্বাস্থ্যঝুঁকি, বেকারত্ব ও সেবা চাপ বাড়ে — ফলে দীর্ঘমেয়াদে জীবনমান খারাপ হয় এবং অপরিকল্পিত বসতি বৃদ্ধি পায়।  \n2. উপযুক্ত সুবিধা নির্ধারণ: এসব সমস্যা কমাতে প্রয়োজন জনস্বাস্থ্য ও শিক্ষা ব্যবস্থার উন্নয়ন এবং কর্মসংস্থানের সুযোগ সৃষ্টি। শিক্ষা প্রতিষ্ঠান জনশক্তিকে দক্ষ করে তোলে, স্বাস্থ্যকেন্দ্র রোগনির্ণয় ও প্রতিরোধ সম্ভব করে এবং কর্মসংস্থান মানুষের আয় বাড়িয়ে অপরিকল্পিত শহরতলি ও অপরাধ কমায়।  \n3. সিদ্ধান্ত: তাই অতিরিক্ত জনসংখ্যার সমস্যা সমাধানে সবচেয়ে প্রয়োজনীয় সুবিধাগুলো হলো — শিক্ষা প্রতিষ্ঠান, স্বাস্থ্যকেন্দ্র, এবং কর্মসংস্থান।  \nঅতিরিক্তভাবে, শুধু আবাসন বা অবকাঠামো দেওয়া পর্যাপ্ত নয় যদি শিক্ষার সুযোগ, স্বাস্থ্যসেবা ও চাকরির ব্যবস্থা না থাকে; সেগুলো সমন্বিতভাবে প্রয়োজন।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "শিক্ষা প্রতিষ্ঠান, স্বাস্থ্যকেন্দ্র, কর্মসংস্থান"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57043,
+      "value": {
+        "options": {
+          "a": "সামাজিক সমস্যা",
+          "b": "অর্থনৈতিক চাপ",
+          "c": "বৈজ্ঞানিক উন্নতি",
+          "d": "ধর্মীয় বিশ্বাস"
+        },
+        "question": "বাংলাদেশে জনসংখ্যা বৃদ্ধির প্রধান কারণের মধ্যে কোনটি নিম্নে উল্লেখ করা হয়নি?",
+        "solution": "সমাধান:\n1) প্রথমে মূল কারণগুলো বিবেচনা করুন: বাংলাদেশের জনসংখ্যা বৃদ্ধির সাধারণ কারণে থাকে উচ্চ জন্মহার, সামাজিক রীতি-নীতি ও পরিবারিক কাঠামো, দরিদ্রতা এবং ধর্মীয় বিশ্বাস, অল্পবয়সে বিবাহ এবং নির্ধারিত পরিবার পরিকল্পনার অপ্রচলন। These correspond to \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সামাজিক সমস্যা, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E অর্থনৈতিক চাপ এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ধর্মীয় বিশ্বাস।  \n2) বৈজ্ঞানিক উন্নতি (শিক্ষা/স্বাস্থ্য-প্রগতির ফলে জীবনের মান বাড়ে) সাধারণত জনসংখ্যা বৃদ্ধির প্রধান কারণ নয়; বরং উন্নত চিকিৎসা ও শিক্ষা জন্মহার কমাতে সাহায্য করে। তাই \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বৈজ্ঞানিক উন্নতি) সঠিক উত্তর।  \n3) অন্যগুলো কেন ভুল নয়: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E—এসব সামাজিক, অর্থনৈতিক ও ধর্মীয় কারণগুলো সরাসরি বা পরোক্ষভাবে উচ্চ জন্মহার ও জনসংখ্যা বৃদ্ধিতে অবদান রাখে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57044,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাল্যবিবাহের ফলে জনসংখ্যা বৃদ্ধি পায়।",
+        "solution": "সমাধান:\n\nStep 1: কারণ বোঝা — বাল্যবিবাহ হলে মহিলা বা কন্যারা জীবনীশক্তির শুরুতে গর্ভধারণ শুরু করেন এবং সামগ্রিক প্রজননকাল বাড়ে, ফলে প্রত্যেক মহিলার গড় সন্তানসংখ্যা বেড়ে যেতে পারে।  \n\nStep 2: জনবৃদ্ধির সরল সম্পর্ক দেখানো যাক: মোট জন্মের সংখ্যা [math]B[/math], মৃত্যু [math]D[/math], শরণার্থী/নেট মাইগ্রেশন [math]M[/math], মোট জনসংখ্যা [math]P[/math] হলে বৃদ্ধির হারকে লেখা যায়  \n[math]r=\\frac{B-D+M}{P}[/math].  \n\nStep 3: বাল্যবিবাহ বৃদ্ধির ফলে [math]B[/math] বৃদ্ধি পায় (প্রতি নারী গড় সন্তানের সংখ্যা বাড়লে), ফলে উপরের সূত্র অনুযায়ী [math]r[/math] বৃদ্ধি পাবে এবং জনসংখ্যা বাড়বে। উদাহরণস্বরূপ, যদি গড় সন্তানের সংখ্যা [math]b[/math] থেকে [math]b+\\Delta b[/math] হয়, তখন মোট জন্ম [math]B=N\\times b[/math] থেকে [math]B'=N\\times(b+\\Delta b)\u003EB[/math] হবে।  \n\nসুতরাং বিবৃতিটি সঠিক — উত্তর: a (True)। বিকল্প b (False) ভুল কারণ তা বাল্যবিবাহের দ্বারা জন্মহারে ও জনবৃদ্ধিতে পড়া প্রভাবকে অস্বীকার করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57045,
+      "value": {
+        "options": {
+          "a": "অর্থনীতি",
+          "b": "চিকিৎসা",
+          "c": "কালচারের পরিবর্তন",
+          "d": "বিবাহ"
+        },
+        "question": "জানুয়ারির সৃষ্টির কারণে __________ জনসংখ্যা বৃদ্ধি পায়।",
+        "solution": "সমাধান:\n1) উন্নত চিকিৎসার ফলে মৃত্যুহার কমে যায় এবং শিশুমৃত্যুহার ও প্রাপ্তবয়স্কদের রোগজনিত মৃত্যু হ্রাস পায়, ফলে জনসংখ্যার এখনও বেঁচে থাকা অংশ বেড়ে যায়।  \n2) যখন মৃত্যু হার কমে এবং জন্মহার অপরিবর্তিত বা ধীরে ধীরে কমে না, তখন মোট জনসংখ্যা বৃদ্ধি পেতে থাকে — তাই চিকিৎসা সরাসরি জনসংখ্যা বৃদ্ধির প্রধান কারণ।  \n3) অন্যান্য অপশনগুলি অপ্রাসঙ্গিক কারণ: অর্থনীতি বা কালচারের পরিবর্তন পরোক্ষভাবে প্রভাব ফেলে এবং বিবাহ বাড়লেও যদি মৃত্যু হার বেশি থাকে তাহলে জনসংখ্যা বৃদ্ধি সীমিত থাকবে; তাই সঠিক উত্তর হলো চিকিৎসা।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57046,
+      "value": {
+        "options": [],
+        "question": "কোন কারণে অধিক সন্তান জন্ম দিতে হয় বলে মনে করেন অনেক বাবা-মা?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নটি বোঝা — অনেক বাবা-মা বেশি সন্তান চান কেন তা জানতে মূল কারণগুলো বিশ্লেষণ করতে হবে।  \nStep 2: কারণ বিশ্লেষণ — গ্রামে বা ঐতিহ্যগত সমাজে পেনশন বা সামাজিক নিরাপত্তার অভাবে বৃদ্ধ বয়সে নিজের দেখভালের জন্য সন্তানকে নির্ভরযোগ্য মনে করা হয়; তাই পরিবারের বৃদ্ধা-বৃদ্ধিকে সাহায্য করবে এমন বেশি সন্তান রাখার প্রবণতা তৈরি হয়।  \nStep 3: উপসংহার — তাই \"বৃদ্ধ বয়সে সন্তানের সাহায্য পাওয়ার আশায়\" এই কারণটিই সবচেয়ে যুক্তিযুক্ত এবং নির্ভুল কারণ। অন্য সম্ভাব্য কারণগুলো (সামাজিক সম্মান, শ্রমশক্তি, ধর্মীয় অনুশাসন ইত্যাদি) থাকতে পারে কিন্তু প্রধান কারণ হিসেবে বৃদ্ধাবস্থায় সহযোগিতার আশা প্রধান।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "বৃদ্ধ বয়সে সন্তানের সাহায্য পাওয়ার আশায়"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57047,
+      "value": {
+        "options": {
+          "a": "১৪ কোটি",
+          "b": "১৬ কোটি",
+          "c": "১২ কোটি",
+          "d": "১৮ কোটি"
+        },
+        "question": "বাংলাদেশে জনগণের কাজে লাগানোর জন্য তাঁদের প্রত্যাশিত সংখ্যা কত?",
+        "solution": "সমাধান:\nStep 1: সাম্প্রতিক জনসংখ্যা পরিসংখ্যান এবং সরকারি আনুমান্য অনুযায়ী বাংলাদেশের জনসংখ্যা প্রায় [math]১৬ কোটি[/math] (প্রায় [math]১.৬\\times10^{8} = ১৬০,০০,০০,০০০[/math])।  \nStep 2: তাই জনগণের কাজে লাগানোর জন্য প্রত্যাশিত সংখ্যা হল \u003Cb\u003Eবিকল্প b\u003C/b\u003E, অর্থাৎ [math]১৬ কোটি[/math]।  \nকারণগুলো সংক্ষিপ্তভাবে: অন্যান্য অপশনগুলো—[math]১৪ কোটি[/math], [math]১২ কোটি[/math], [math]১৮ কোটি[/math]—বর্তমান আনুমানিকতার সাথে মিলছে না; [math]১৪ কোটি[/math] ও [math]১২ কোটি[/math] কম এবং [math]১৮ কোটি[/math] বেশি।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57048,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "শিক্ষার অভাব জনসংখ্যা বৃদ্ধির একটি প্রধান কারণ।",
+        "solution": "সমাধান:\nধাপ ১: শিক্ষার অভাব মানুষকে পরিবার পরিকল্পনা, গর্ভনিরোধক পদ্ধতি এবং প্রজননস্বাস্থ্য সম্পর্কে সচেতনতা থেকে বঞ্চিত করে।  \nধাপ ২: শিক্ষাহীনতা প্রায়শই আগের বয়সে বিবাহ, সন্তান গণনার বিষয়ে ভুল ধারণা এবং স্বল্প অর্থনৈতিক সুযোগ তৈরি করে, যা গড় সন্তানসংখ্যা বাড়ায়।  \nধাপ ৩: তাই বিবৃতিটি সঠিক — উত্তর হলো a (True)। বিকল্প b (False) ভুল, কারণ শিক্ষার অভাবে জনসংখ্যা বৃদ্ধির উপর সুস্পষ্ট ইতিবাচক প্রভাব দেখা যায়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57049,
+      "value": {
+        "options": {
+          "a": "নিরাপদ পানি",
+          "b": "শিক্ষা",
+          "c": "সুবিধা",
+          "d": "সকল"
+        },
+        "question": "অতিরিক্ত জনসংখ্যার জন্য __________ এর অভাব হয়।",
+        "solution": "সমাধান:\nধাপ ১: অতিরিক্ত জনসংখ্যা মানে সীমিত সম্পদের উপর অতিরিক্ত চাহিদা, ফলে পানি, শিক্ষা এবং অন্যান্য সামাজিক-অবকাঠামোগত সুবিধার উপর চাপ পড়ে।  \nধাপ ২: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E নিরাপদ পানি — দ্রুত জনসংখ্যা বৃদ্ধিতে পানির সরবরাহ অনুপযুক্ত হয়ে যায়; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শিক্ষা — শিক্ষাপ্রতিষ্ঠান ও শিক্ষকের অভাব ও ক্লাসের ভিড় বাড়ে; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সুবিধা — স্বাস্থ্য, পরিবহন ও অন্যান্য সেবায় চাপ পড়ে।  \nধাপ ৩: তাই সবগুলোই বেশি জনসংখ্যার ফলে অভাবগ্রস্ত হয়, ফলে সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (d) সকল।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57050,
+      "value": {
+        "options": [],
+        "question": "কারণগুলি উল্লেখ করুন, যা বাংলাদেশের জনসংখ্যা বৃদ্ধির জন্য বিশেষভাবে দায়ী।",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ করে দেখা যায় জনসংখ্যা বৃদ্ধির মূল কারণগুলো হলো মানুষের জন্মহার বাড়ানো ও প্রতিস্থাপন দরকার মনে করা—এর পিছনে শিক্ষার অভাব, স্বাস্থ্যসেবা সীমিততা ও ধর্মীয় বিশ্বাস গুরুত্বপূর্ণ ভূমিকা রাখে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E শিক্ষার অভাব: নারীদের শিক্ষার স্তর কম হলে পরিবার পরিকল্পনা, জন্মনিয়ন্ত্রণ ও গর্ভনিরোধ বিষয়ে জ্ঞান কম থাকে, ফলে গড় সন্তানের সংখ্যা বেশি থাকে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E স্বাস্থ্যসেবা: প্রতিস্থাপন তত্ত্ব অনুযায়ী শিশুর মৃত্যুহার বেশি হলে পরিবার অতিরিক্ত সন্তান রেখে ‘বিমা’ হিসেবে রাখে; পাশাপাশি সাবলীল জন্মনিয়ন্ত্রণ সেবা না থাকায় গর্ভধারণ নিয়ন্ত্রণ কঠিন হয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ধর্মীয় শিক্ষা: কিছু ধর্মীয় বা সাংস্কৃতিক নির্দেশনা জন্মনিয়ন্ত্রণকে নিরুৎসাহিত করে এবং বড় পরিবারকে সম্মানজনক হিসেবে দেখে, ফলে কাছাকাছি সময়ে সন্তানও বেশি হয়।\n\nএই তিনটি কারণ একসাথে কাজ করলে জন্মহার বেশি থাকে এবং ফলত বাংলাদেশের জনসংখ্যা দ্রুত বাড়ে—এগুলোই প্রদত্ত সঠিক কারণ।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "শিক্ষার অভাব, স্বাস্থ্যসেবা, ধর্মীয় শিক্ষা"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7400,
+      "created_at": "2025-07-08T07:10:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7400&grade=7&per_page=2000&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7400&grade=7&per_page=2000&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7400&grade=7&per_page=2000&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 111,
+  "total": 111
+}

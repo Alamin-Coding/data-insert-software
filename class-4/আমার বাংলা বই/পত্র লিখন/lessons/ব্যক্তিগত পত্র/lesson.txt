@@ -1,0 +1,365 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 745660,
+      "value": {
+        "options": [],
+        "question": "ইন্টারনেট আসক্তি বিষয়ে বন্ধুকে একটি পত্র লেখো।",
+        "solution": "\u003Cdiv style=\"text-align: right;\"\u003Eমধুখালী, ফরিদপুর\u003Cbr /\u003E\n১৫ জুন ২০২৫\u003C/div\u003E\n\n\u003Cdiv\u003Eপ্রিয় শামীম\u003Cbr /\u003E\nআশা করি ভালো আছ। আমিও ভালো আছি। আজ তোমাকে ইন্টারনেট আসক্তি বিষয়ে কিছু বলতে চাই। ইন্টারনেটের কল্যাণে পুরো পৃথিবী যেন হাতের মুঠোয় এসেছে। এই প্রযুক্তির যেমন ভালো দিক আছে, তেমনি খারাপ দিকও আছে। অনেকে সারাদিন মোবাইল কিংবা কম্পিউটারে ভিডিও দেখে এবং অনলাইনে গেম খেলে সময় নষ্ট করে। এতে পড়াশোনার স্বাভাবিক গতি বাধাগ্রস্ত হয়। তাছাড়া অতিরিক্ত ইন্টারনেটে আসক্তির ফলে আমাদের স্বাস্থ্যের উপরও প্রভাব পড়ে। তাই ইন্টারনেট ব্যবহারে আমাদের সতর্ক হওয়া উচিত। ইন্টারনেটের ব্যবহার যেন আমাদের আসক্তির পর্যায়ে চলে না যায় সেদিকে খেয়াল রাখা প্রয়োজন। আশা করি ইন্টারনেট ব্যবহারের বিষয়ে আমার সঙ্গে তুমি একমত হবে। চিঠিতে তোমার মতামত জানিও।\u003Cbr /\u003E\nআজ এখানেই শেষ করছি। ভালো থেকো।\u003Cbr /\u003E\n\u003Cbr /\u003E\nইতি\u003Cbr /\u003E\nতোমার বন্ধু\u003Cbr /\u003E\nসাকিব\n\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রেরক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tসাকিব\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ৬\u003Cbr /\u003E\n\t\t\tরোড নম্বর ৭\u003Cbr /\u003E\n\t\t\tমধুখালী, ফরিদপুর\u003C/td\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রাপক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tশামীম\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ২০৫\u003Cbr /\u003E\n\t\t\tরোড নম্বর ১৮\u003Cbr /\u003E\n\t\t\tচরবাড়িয়া, বরিশাল\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745661,
+      "value": {
+        "options": [],
+        "question": "বাবার সঙ্গে মেট্রোরেল ভ্রমণের অভিজ্ঞতা জানিয়ে বন্ধুকে চিঠি লেখো।",
+        "solution": "\u003Cdiv style=\"text-align: right;\"\u003Eউত্তরা, ঢাকা\u003Cbr /\u003E\n২ জানুয়ারি ২০২৫\u003C/div\u003E\n\n\u003Cdiv\u003Eপ্রিয় লাবিব\u003Cbr /\u003E\nপত্রের শুরুতে আমার শুভেচ্ছা নিয়ো। আশা করি ভালো আছ। চিঠিতে তুমি মেট্রোরেল ভ্রমণ সম্পর্কে জানতে চেয়েছ। আজ তোমাকে মেট্রোরেল ভ্রমণের অভিজ্ঞতা জানাব।\u003Cbr /\u003E\n২৮ ডিসেম্বর, ২০২২ মেট্রোরেল উদ্বোধন হওয়ার পর থেকে এটাতে ভ্রমণ করতে&#39; আমি খুব আগ্রহী ছিলাম। শুক্রবার সকালে আব্বুকে নিয়ে উত্তরা উত্তর স্টেশনে গেলাম। প্রাথমিকভাবে উত্তরা থেকে আগারগাঁও পর্যন্ত পরিষেবাটি চালু হয়েছে। স্টেশনের লম্বা লাইনে দাঁড়িয়ে আব্বু দুটি টিকিট কিনলেন। আব্বু আর আমি মেট্রোরেলের ভেতর প্রবেশ করলাম। কয়েকজন লোক দাঁড়িয়ে ছিল, কয়েকজন লোক ছিল বসে। অনেকের মতো আমরাও কিছু ছবি তুললাম। প্লাটফর্ম এবং মেট্রোরেলের ভেতর খুব পরিষ্কার-পরিচ্ছন্ন ছিল। অল্প সময়ে আমরা আগারগাঁও গিয়ে পৌছালাম। এভাবে আমার মেট্রোরেল ভ্রমণের স্বপ্ন পূর্ণ হলো।\u003Cbr /\u003E\nআজ আর নয়। তোমার চিঠির অপেক্ষায় রইলাম।\u003Cbr /\u003E\n\u003Cbr /\u003E\nইতি\u003Cbr /\u003E\nতোমার বন্ধু\u003Cbr /\u003E\nরনি\n\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রেরক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tরনি\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ৬\u003Cbr /\u003E\n\t\t\tরোড নম্বর ৭\u003Cbr /\u003E\n\t\t\tউত্তরা ৭ ঢাকা\u003C/td\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রাপক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tলাবিব\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ২০৫\u003Cbr /\u003E\n\t\t\tরোড নম্বর ১৮\u003Cbr /\u003E\n\t\t\tচরবাড়িয়া, বরিশাল\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745662,
+      "value": {
+        "options": [],
+        "question": "বনভোজনের বর্ণনা দিয়ে বন্ধুর কাছে একটি পত্র লেখো।",
+        "solution": "\u003Cdiv style=\"text-align: right;\"\u003E১৪৪, দক্ষিণ শাহজাহানপুর, ঢাকা\u003Cbr /\u003E\n২৮ এপ্রিল ২০২৫\u003C/div\u003E\n\n\u003Cdiv\u003Eপ্রিয় রাশেদ\u003Cbr /\u003E\nপত্রের প্রথমে আমার শুভেচ্ছা নিয়ো। আশা করি ভালো আছ, আমিও ভালো আছি। গত কয়েক দিন আগেই আমি তোমার হাতের লেখা পত্র পেয়েছি। নানা ব্যস্ততার কারণে উত্তর দিতে দেরি হয়েছে। আমি আজকের পত্রে আমাদের বনভোজনের কথা লিখছি। এ মাসের ১০ তারিখে আমাদের বিদ্যালয়ের বার্ষিক বনভোজন হয়ে গেল। এ বছর আমরা গেছি নুহাশপল্লিতে। সকাল ৭টায় বিদ্যালয় প্রাঙ্গণ থেকে বাস নুহাশপল্লির উদ্দেশে ছাড়ে। বাসেই সকালের নাশতা পরিবেশন করা হয়। যাত্রাপথে বাসের মধ্যে আমরা গানবাজনা ও আনন্দে মেতে উঠি, সকাল ১০টায় বাস নুহাশপল্লিতে পৌছালেই আমরা প্রথম হুমায়ূন আহমেদের কবর জিয়ারত করি। পরে আমরা দলে দলে ভাগ হয়ে ক্রিকেট, ফুটবল ও ব্যাডমিন্টন খেলায় মেতে উঠি। আগে থেকেই রান্নার আয়োজন করা ছিল। বাবুর্চি রান্না করেছেন কাচ্চি বিরিয়ানি। ২টায় দুপুরের খাবার পরিবেশন শুরু হয়। আমরা খাবার খেয়ে আবারও খেলায় মেতে উঠলাম। ৩টার দিকে সবার খাবারের পালা শেষ হলে মাইকে ঘোষণা হয় বনভোজনের আকর্ষণীয় র&zwj;্যাফেল ড্র। এর জন্য। বাসে ওঠার সময় আমাদের হাতে কুপন দেওয়া হয় যে তার উপর ড্র অনুষ্ঠিত হয়। আমি লটারিতে একটি ক্যালকুলেটর পেয়েছি। বিকাল ৫টায় ঘোষণা হলো ফিরে আসার জন্য। আসার পথে আমরা বসে আবারও গান-বাজনায় মেতে উঠলাম। রাত ৮টায় বাস বিদ্যালয়ের সামনে পৌঁছালে দেখি মা আমার জন্য অপেক্ষা করছেন। আমি মায়ের সঙ্গে বাসায় ফিরে এলাম। কিন্তু সেদিনের স্মৃতি হৃদয়ে চিরদিনের স্মরণীয় হয়ে থাকবে।\u003Cbr /\u003E\nতোমার মা-বাবাকে আমার সালাম এবং তোমার ছোটো বোন আদিবার প্রতি স্নেহাশিস জানিয়ে পত্র লেখা এখানে শেষ করছি। পরে সময় পেলে আবারও তোমাকে লিখব।\u003Cbr /\u003E\n\u003Cbr /\u003E\nইতি\u003Cbr /\u003E\nতোমার বন্ধু\u003Cbr /\u003E\nরাকিব\n\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রেরক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tরাকিব\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ৬\u003Cbr /\u003E\n\t\t\tরোড নম্বর ৭\u003Cbr /\u003E\n\t\t\tশাহজাহানপুর, ঢাকা\u003C/td\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রাপক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tরাশেদ\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ২০৫\u003Cbr /\u003E\n\t\t\tরোড নম্বর ১৮\u003Cbr /\u003E\n\t\t\tচরবাড়িয়া, বরিশাল\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745663,
+      "value": {
+        "options": [],
+        "question": "বই কেনার জন্য টাকা চেয়ে পিতার নিকট একটি পত্র লেখো।",
+        "solution": "\u003Cdiv style=\"text-align: right;\"\u003Eরংপুর\u003Cbr /\u003E\n২০ জানুয়ারি ২০২৫\u003C/div\u003E\n\n\u003Cdiv\u003Eশ্রদ্ধেয় বাবা\u003Cbr /\u003E\nপত্রের প্রথমে আমার সালাম নেবেন। অনেক দিন ধরে আপনাদের কোনো পত্র না পেয়ে বিশেষ চিন্তিত আছি। আশা করি বাড়ির সবাই ভালো আছেন। আগামী মাসে আমাদের প্রথম প্রান্তিক পরীক্ষা শুরু হবে। আমার বাংলা ও ইংরেজি দ্বিতীয় পত্রের উপর দুটি ভালো বই কেনা প্রয়োজন। হাতে কোনো টাকা নেই। পত্র পেয়ে অতিসত্বর দুই হাজার টাকা পাঠিয়ে দিলে বিশেষ উপকৃত হব।\u003Cbr /\u003E\nআমি ভালো আছি। আপনি ও মা কেমন আছেন? কাশফি ও প্রমির কথা সবসময় মনে পড়ে। ওদের আমার আদর দেবেন।\u003Cbr /\u003E\n\u003Cbr /\u003E\nইতি\u003Cbr /\u003E\nআপনার স্নেহের পুত্র\u003Cbr /\u003E\nশ্রাবণ\n\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রেরক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tশ্রাবণ\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ৬\u003Cbr /\u003E\n\t\t\tরোড নম্বর ৭\u003Cbr /\u003E\n\t\t\tরংপুর\u003C/td\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রাপক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tমিজানুর রহমান\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ২০৫\u003Cbr /\u003E\n\t\t\tরোড নম্বর ১৮\u003Cbr /\u003E\n\t\t\tবগুড়া\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745664,
+      "value": {
+        "options": [],
+        "question": "তোমার জীবনের লক্ষ্য জানিয়ে বড়ো ভাইকে একটি চিঠি লেখো।",
+        "solution": "\u003Cdiv style=\"text-align: right;\"\u003Eবানিয়াচং, হবিগঞ্জ\u003Cbr /\u003E\n২০ জানুয়ারি ২০২৫\u003C/div\u003E\n\n\u003Cdiv\u003Eপ্রিয় বড়ো ভাই\u003Cbr /\u003E\nশুরুতেই আমার ভালোবাসা ও সালাম নিবেন। নিশ্চয়ই ভালো আছেন। কিছুদিন আগে আব্বাকে নিয়ে হাসপাতালে গিয়েছিলাম। আব্বার শরীরটা খুব খারাপ ছিল। হাসপাতালে গিয়ে মনটা খুব খারাপ হয়ে গেল। দেখলাম দূর-দূরান্ত থেকে অনেক রোগী এসেছে যারা সঠিকভাবে চিকিৎসা পাচ্ছে না। কারণ ডাক্তারের স্বল্পতা। মুমূর্ষু রোগীরা যন্ত্রণায় ছটফট করছে। বারবার মনে পড়ছিল তাদের কষ্টের কথা। সেইসময় থেকে ভাবলাম, বড়ো হযে ডাক্তার হবো। আদর্শ ডাক্তার হয়ে মানুষের সেবা করব।\u003Cbr /\u003E\nচিঠির প্রত্যাশায় রইলাম। এখানেই শেষ করছি।\u003Cbr /\u003E\n\u003Cbr /\u003E\nইতি\u003Cbr /\u003E\nআপনার আদরের ছোটো ভাই\u003Cbr /\u003E\nইমন\n\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রেরক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tইমন\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ৬\u003Cbr /\u003E\n\t\t\tরোড নম্বর ৭\u003Cbr /\u003E\n\t\t\tবানিয়াচং, হবিগঞ্জ\u003C/td\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রাপক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tলাবিব\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ২০৫\u003Cbr /\u003E\n\t\t\tরোড নম্বর ১৮\u003Cbr /\u003E\n\t\t\tচরবাড়িয়া, বরিশাল\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745665,
+      "value": {
+        "options": [],
+        "question": "মনে করো, তোমার নাম জাবির। তোমার বন্ধু সায়ান। অনলাইন থেকে বই কেনার অভিজ্ঞতার কথা জানিয়ে তোমার বন্ধুর নিকট একটি পত্র লেখো।",
+        "solution": "\u003Cdiv style=\"text-align: right;\"\u003Eঢাকা\u003Cbr /\u003E\n১০ ফেব্রুয়ারি ২০২৫\u003C/div\u003E\n\n\u003Cdiv\u003Eপ্রিয় সায়ান\u003Cbr /\u003E\nপ্রীতি ও ভালোবাসা নিয়ো। আশা করি ভালো আছ। আমিও ভালো আছি। আজ তোমাকে একটি মজার অভিজ্ঞতা ভাগাভাগি করার জন্য চিঠি লিখতে বসেছি। তুমি তো জানো, বই পড়তে আমি অনেক ভালোবাসি। তাই গতকাল আমি প্রথমবারের মতো একটি অনলাইন সাইট থেকে আমার পছন্দের কিছু কমিকস, সায়েন্স ফিকশন ও গল্পের বই কিনেছি। অর্ডার করার পর যথাসময়ে সেগুলো হাতে পেয়েছি। ঘরে বসে এত সহজে বই হাতে পেয়ে আমি অনেক আনন্দিত। তুমিও চাইলে অনলাইন থেকে তোমার পছন্দের বই কিনতে পারো। আজ এখানে শেষ করছি। ভালো থেকো। তোমার মা-বাবাকে আমার সালাম দিও।\u003Cbr /\u003E\n\u003Cbr /\u003E\nইতি\u003Cbr /\u003E\nতোমার বন্ধু\u003Cbr /\u003E\nজাবির\n\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রেরক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tজাবির\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ৬\u003Cbr /\u003E\n\t\t\tরোড নম্বর ৭\u003Cbr /\u003E\n\t\t\tশাহজাহানপুর, ঢাকা\u003C/td\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রাপক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tসায়ান\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ২০৫\u003Cbr /\u003E\n\t\t\tরোড নম্বর ১৮\u003Cbr /\u003E\n\t\t\tচরবাড়িয়া, বরিশাল\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745666,
+      "value": {
+        "options": [],
+        "question": "সাম্প্রদায়িক সম্প্রীতি বিষয়ে বন্ধুকে একটি পত্র লেখো।",
+        "solution": "\u003Cdiv style=\"text-align: right;\"\u003Eলাকসাম, কুমিল্লা\u003Cbr /\u003E\n৭ মে ২০২৫\u003C/div\u003E\n\n\u003Cdiv\u003Eপ্রিয় আনন্দ\u003Cbr /\u003E\nআশা করি ভালো আছ। আমিও ভালো আছি। আজ তোমাকে সাম্প্রদায়িক সম্প্রীতির গুরুত্ব বিষয়ে লিখতে বসেছি। তুমি নিশ্চয় জানো, আমাদের দেশে বিভিন্ন ধর্ম ও জাতের মানুষ মিলেমিশে বসবাস করে। তারা একে অপরের বিপদে-আপদে সহযোগিতার হাত বাড়িয়ে দেয়। এই সাম্প্রদায়িক সম্প্রীতির কারণেই আমাদের দেশ এত সুন্দর। আমাদের খেয়াল রাখতে হবে এই সম্প্রীতি কেউ যেন বিনষ্ট করতে না পারে। কেননা, সাম্প্রদায়িক সম্প্রীতি বিনষ্ট হলে দেশের শান্তি-শৃঙ্খলা বজায় থাকবে না। এর প্রমাণ কিছু দিন আগে পত্রিকায় দেখেছ নিশ্চয়ই। তাই আমাদের উচিত দেশের স্বার্থে সকল ধর্ম ও জাতের মানুষকে শ্রদ্ধা করা ও ভালোবাসা। তুমিও নিশ্চয়ই আমার সঙ্গে একমত হবে। চিঠিতে তোমার মতামত জানিও।\u003Cbr /\u003E\nআজ এখানেই শেষ করছি। ভালো থেকো।\u003Cbr /\u003E\n\u003Cbr /\u003E\nইতি\u003Cbr /\u003E\nতোমার বন্ধু\u003Cbr /\u003E\nসাদমান\n\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রেরক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tসাদমান\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ৬\u003Cbr /\u003E\n\t\t\tরোড নম্বর ৭\u003Cbr /\u003E\n\t\t\tলাকসাম, কুমিল্লা\u003C/td\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রাপক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tআনন্দ\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ২০৫\u003Cbr /\u003E\n\t\t\tরোড নম্বর ১৮\u003Cbr /\u003E\n\t\t\tচরবাড়িয়া, বরিশাল\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745667,
+      "value": {
+        "options": [],
+        "question": "তৃতীয় প্রান্তিক বা বার্ষিক পরীক্ষার ফলাফল জানিয়ে মায়ের নিকট পত্র লেখো।",
+        "solution": "\u003Cdiv style=\"text-align: right;\"\u003Eবনশ্রী, ঢাকা\u003Cbr /\u003E\n২ জানুয়ারি ২০২৫\u003C/div\u003E\n\n\u003Cdiv\u003Eশ্রদ্ধেয় মা\u003Cbr /\u003E\nআসসালামু আলাইকুম। গতকাল আপনার চিঠি পেয়েছি। চিঠি পড়ে বুঝতে পারলাম আপনি আমার বার্ষিক পরীক্ষার ফল নিয়ে অত্যন্ত চিন্তায় আছেন।\u003Cbr /\u003E\nগত সপ্তাহে আমার তৃতীয় প্রান্তিক পরীক্ষার ফল পেয়েছি। আমি এবার চতুর্থ শ্রেণিতে তৃতীয় স্থান অধিকার করেছি। সর্বমোট ৬০০ নম্বরে পরীক্ষা দিয়েছিলাম। আমার প্রাপ্ত নম্বর ৫২০। সব বিষয়েই ৮০%-এর উপরে নম্বর পেয়েছি। তবে গণিত বিষয়টিতে একটু কম নম্বর পাওয়ায় আমার মেধাস্থান তৃতীয় হয়েছে। আপনি এবং আব্বা আমার জন্য দোয়া করবেন যেন আগামীতে আরও ভালো ফল করতে পারি।\u003Cbr /\u003E\nবাড়ির সবাই কেমন আছে জানাবেন। মৃন্ময়ীকে আমার আদর ও স্নেহ জানাবেন। আমি ভালো আছি।&#39;\u003Cbr /\u003E\n\u003Cbr /\u003E\nইতি\u003Cbr /\u003E\nআপনার স্নেহের\u003Cbr /\u003E\nসৈকত\n\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রেরক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tসৈকত\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ৬\u003Cbr /\u003E\n\t\t\tরোড নম্বর ৭\u003Cbr /\u003E\n\t\t\tবনশ্রী, ঢাকা\u003C/td\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রাপক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tবিউটি বেগম\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ২০৫\u003Cbr /\u003E\n\t\t\tরোড নম্বর ১৮\u003Cbr /\u003E\n\t\t\tচরবাড়িয়া, বরিশাল\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745668,
+      "value": {
+        "options": [],
+        "question": "পিতার বদলিজনিত কারণে ঢাকায় এসে কেমন লাগছে তা জানিয়ে মামাকে পত্র লেখো।",
+        "solution": "\u003Cdiv style=\"text-align:right\"\u003Eরংপুর\u003Cbr /\u003E\n২০ জানুয়ারি ২০২৫\u003C/div\u003E\n\n\u003Cdiv\u003Eশ্রদ্ধেয় বড়ো মামা\u003Cbr /\u003E\nআসসালামু আলাইকুম। আশা করি, আপনি এবং বাড়ির সবাই সুস্থ আছেন। গত পয়েলা জানুয়ারি আমরা ঢাকা এসেছি।\u003Cbr /\u003E\nছোটোবেলায় একবার বাবা-মায়ের সঙ্গে ঢাকায় বেড়াতে এসেছিলাম।\u003Cbr /\u003E\nএবার বাবা বদলি হয়ে এসেছেন। আমরা ঢাকা এলিফ্যান্ট রোড সংলগ্ন হাতিরপুল এলাকায় বাসা নিয়েছি। বাবা আমাকে ধানমন্ডি সরকারি বালক উচ্চ বিদ্যালয়ে ভর্তি করে দিয়েছেন। ছোটো বোন লাবণীকে স্থানীয় একটি প্রাথমিক বিদ্যালয়ে ভর্তি করা হয়েছে। নতুন স্কুল এবং নতুন জায়গায় মন বসাতে একটু সময় লাগছে। তবে ঢাকা অত্যন্ত সুন্দর এবং জনবহুল শহর। অল্প কয়েকদিনেই ক্লাসের সহপাঠীদের সঙ্গে আমার বন্ধুত্ব হয়েছে। ঢাকার দর্শনীয় স্থানগুলোতে এখনো যেতে পারিনি। বাবা বলেছেন, ছুটি হলে যাব।\u003Cbr /\u003E\nআমরা সবাই ভালো আছি। বড়ো মামিকে আমার সালাম জানাবেন। সাদি ও শাহানকে আমার স্নেহাশিস জানাবেন।\u003Cbr /\u003E\n\u003Cbr /\u003E\nইতি\u003Cbr /\u003E\nআপনার স্নেহের\u003Cbr /\u003E\nসুপ্তি\n\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রেরক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tসুপ্তি\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ৬\u003Cbr /\u003E\n\t\t\tরোড নম্বর ৭\u003Cbr /\u003E\n\t\t\tরংপুর\u003C/td\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003Eপ্রাপক\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tমিজানুর রহমান\u003Cbr /\u003E\n\t\t\tবাড়ি নম্বর ২০৫\u003Cbr /\u003E\n\t\t\tরোড নম্বর ১৮\u003Cbr /\u003E\n\t\t\tবগুড়া\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 745669,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের প্রাকৃতিক সৌন্দর্যের বর্ণনা দিয়ে বিদেশি বন্ধুর কাছে পত্র লেখো।",
+        "solution": "\u003Cdiv style=\"text-align: right;\"\u003Eঢাকা, বাংলাদেশ\u003Cbr /\u003E\n১৭ জুন ২০২৫\u003C/div\u003E\n\n\u003Cdiv\u003Eপ্রিয় অবন্তী\u003Cbr /\u003E\nশুভেচ্ছা নিয়ো। গত পরশু তোমার চিঠি পেয়েছি। তুমি আমাদের দেশের প্রাকৃতিক সৌন্দর্য সম্পর্কে জানতে চেয়েছ। আমি আজ তোমাকে সে সম্পর্কে লিখছি।\u003Cbr /\u003E\nআমাদের এ দেশ ষড়ঋতুর দেশ। এ কারণে এ দেশের প্রকৃতি বৈচিত্র্যময়। সারা বছর ছয় ঋতুর প্রভাবে নানা রকম আবহাওয়া বিরাজ করে। এছাড়া দেশের সুজলা-সুফলা-শ্যামল পরিবেশ যে কারো মনকে তৃপ্ত করে। এ দেশের খাল-বিল, নদী-নালা অপার সৌন্দর্যের লীলাভূমি। তুমি শীঘ্রই এ দেশে বেড়াতে এসো। আমাদের দেশের প্রাকৃতিক সৌন্দর্য দেখে তুমি নিশ্চয়ই অভিভূত হবে।\u003Cbr /\u003E\n\u003Cbr /\u003E\nইতি\u003Cbr /\u003E\nতোমার বন্ধু\u003Cbr /\u003E\nসাফা কবীর\n\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003EFrom\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tSAFA KABIR\u003Cbr /\u003E\n\t\t\t98, MIRZAPUR\u003Cbr /\u003E\n\t\t\tTANGAIL\u003Cbr /\u003E\n\t\t\tBANGLADESH\u003C/td\u003E\n\t\t\t\u003Ctd\u003E\u003Cstrong\u003ETo\u003C/strong\u003E\u003Cbr /\u003E\n\t\t\tABANTI PAUL\u003Cbr /\u003E\n\t\t\t709 HONEY CREEK DR.\u003Cbr /\u003E\n\t\t\tNEW YORK CITY\u003Cbr /\u003E\n\t\t\tAMERICA\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 62,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 13405,
+      "created_at": "2025-11-27T06:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 62,
+        "name": "potro_likhon",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13405&grade=7&lesson=13407&per_page=200&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13405&grade=7&lesson=13407&per_page=200&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13405&grade=7&lesson=13407&per_page=200&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 10,
+  "total": 10
+}

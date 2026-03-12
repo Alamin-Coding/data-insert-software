@@ -1,0 +1,377 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746595,
+      "value": {
+        "options": {
+          "ক": "রাঙামাটি",
+          "খ": "খাগড়াছড়ি",
+          "গ": "বান্দরবান",
+          "ঘ": "কুমিল্লা"
+        },
+        "question": "বগা লেক কোন জেলায় অবস্থিত?",
+        "solution": "গ. বান্দরবান",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746596,
+      "value": {
+        "options": {
+          "ক": "রাঙামাটি",
+          "খ": "বান্দরবান",
+          "গ": "জাফলং",
+          "ঘ": "খাগড়াছড়ি"
+        },
+        "question": "চিম্বুক পাহাড় কোথায় অবস্থিত?",
+        "solution": "খ. বান্দরবান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746597,
+      "value": {
+        "options": {
+          "ক": "রাঙামাটি",
+          "খ": "বান্দরবান",
+          "গ": "চট্টগ্রাম",
+          "ঘ": "ময়মনসিংহ"
+        },
+        "question": "কাপ্তাই হৃদ কোথায় অবস্থিত?",
+        "solution": "ক. রাঙামাটি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746598,
+      "value": {
+        "options": {
+          "ক": "ঢাকা",
+          "খ": "চট্টগ্রাম",
+          "গ": "সিলেট",
+          "ঘ": "খুলনা"
+        },
+        "question": "খাসিয়া-জৈন্তা পাহাড় বাংলাদেশের কোন বিভাগে অবস্থিত?",
+        "solution": "গ. সিলেট",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746599,
+      "value": {
+        "options": {
+          "ক": "বান্দরবান",
+          "খ": "রাঙামাটি",
+          "গ": "জাফলং",
+          "ঘ": "সিলেট"
+        },
+        "question": "বৌদ্ধ মন্দির দেখার জন্য তোমাকে কোথায় যেতে হবে?",
+        "solution": "ক. বান্দরবান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746600,
+      "value": {
+        "options": {
+          "ক": "ময়মনসিংহ",
+          "খ": "চট্টগ্রাম",
+          "গ": "খাগড়াছড়ি",
+          "ঘ": "জাফলং"
+        },
+        "question": "খাসি নৃ-গোষ্ঠী কোথায় বাস করে?",
+        "solution": "ঘ. জাফলং",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746601,
+      "value": {
+        "options": {
+          "ক": "মিলানছড়িতে",
+          "খ": "কাগজাইয়ে",
+          "গ": "জাফলং-এ",
+          "ঘ": "সিলেটে"
+        },
+        "question": "শৈলপ্রপাত নামে একটি পাহাড়ি ঝরনা কোথায় আছে?",
+        "solution": "ক. মিলানছড়িতে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746602,
+      "value": {
+        "options": {
+          "ক": "সিলেট",
+          "খ": "সুনামগঞ্জ",
+          "গ": "ময়মনসিংহ",
+          "ঘ": "রাঙামাটি"
+        },
+        "question": "চাকমা নৃ-গোষ্ঠীর বাসস্থান কোথায়?",
+        "solution": "ঘ. রাঙামাটি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746603,
+      "value": {
+        "options": {
+          "ক": "চট্টগ্রাম",
+          "খ": "রাজশাহী",
+          "গ": "সিলেট",
+          "ঘ": "খুলনা"
+        },
+        "question": "জাফলং কোন বিভাগে অবস্থিত?",
+        "solution": "গ. সিলেট",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7398,
+      "created_at": "2025-11-27T09:33:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7398&grade=7&lesson=13449&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7398&grade=7&lesson=13449&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7398&grade=7&lesson=13449&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 9,
+  "total": 9
+}

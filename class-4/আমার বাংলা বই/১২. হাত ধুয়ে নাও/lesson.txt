@@ -1,0 +1,4936 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 744461,
+      "value": {
+        "options": [],
+        "question": "অসুখ-বিসুখ",
+        "solution": "রোগ-ব্যাধি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744461,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744462,
+      "value": {
+        "options": [],
+        "question": "মজার আচার পেয়ে সবাই _____ খাচ্ছে।",
+        "solution": "চেটেপুটে",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744462,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744463,
+      "value": {
+        "options": [],
+        "question": "______ থেকে বাঁচার জন্য পরিষ্কার-পরিচ্ছন্ন থাকা চাই।",
+        "solution": "অসুখ-বিসুখ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744463,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744464,
+      "value": {
+        "options": [],
+        "question": "সরকারি",
+        "solution": "আমাদের বিদ্যালয়টি সরকারি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744464,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744465,
+      "value": {
+        "options": [],
+        "question": "আদালত",
+        "solution": "কেউ অন্যায় করলে আদালত তার বিচার করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744465,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744466,
+      "value": {
+        "options": [],
+        "question": "বেঞ্চ",
+        "solution": "স্কুলের বেঞ্চে বসে আমরা লেখাপড়া করি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744466,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744467,
+      "value": {
+        "options": [],
+        "question": "বাস",
+        "solution": "ঈদের সময় আমরা বাসে চড়ে গ্রামের বাড়িতে যাই।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744467,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744468,
+      "value": {
+        "options": [],
+        "question": "হাত ধুয়ে পরিষ্কার রাখার সঙ্গে আর কী করতে হয়?",
+        "solution": "হাত ধুয়ে পরিষ্কার রাখার সঙ্গে সঙ্গে নিয়মিত নখ কেটে পরিষ্কার রাখতে হয়। নাকের সর্দি যেখানে সেখানে মুছতে হয় না। নিয়মিত গোসল করতে হয়। বাইরে থেকে ফিরে সাবান দিয়ে হাত-মুখ ধুইয়ে পরিষ্কার করতে হয়। টয়লেট থেকে এসেও সাবান দিয়ে হাত ধুতে হয়। খাওয়ার আগে ও পরে অবশ্যই দুহাত সাবান দিয়ে ধুয়ে নিতে হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744468,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744469,
+      "value": {
+        "options": [],
+        "question": "অন্তু মামাকে কী কথা দিয়েছিল?",
+        "solution": "\u003Cdiv\u003Eঅন্তু মামাকে কথা দিয়েছিল যে, সে ঠিকমতো হাত ধোবে। আর সবাইকে বলবে, &quot;যদি সুস্থ থাকতে চাও, তো হাত ধুয়ে নাও।&quot;\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744469,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744470,
+      "value": {
+        "options": [],
+        "question": "মামা খাবার থেকে অন্তুর হাতটি সরিয়ে দেন কেন?",
+        "solution": "অন্তু মামার আনা বিরিয়ানির প্যাকেট খুলেই হাত দিয়ে খাবলে খেতে শুরু করে। অথচ তার হাতের ময়লা সে পরিষ্কার করেনি। তাই মামা খাবার থেকে অন্তুর হাতটি সরিয়ে দেন এবং তাকে খাবার ঘরের পাশে হাত ধোয়াতে নিয়ে যান।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744471,
+      "value": {
+        "options": [],
+        "question": "অনুর কেন তর সইছিল না? বুঝিয়ে লেখ।",
+        "solution": "অন্তু বাইরে খেলছিল। মামার আসার কথা শুনে অন্তু ছুটে ঘরে চলে আসে। ঘরে ঢুকেই সে বিরিয়ানির সুগন্ধ পায়। কেননা মামার হাতেই ছিল তার প্রিয় খাবার বিরিয়ানি। বিরিয়ানি দেখেই অন্তু মামার দিকে হাত বাড়ায়। তার আর তর সইছিল না, তা কখন খাবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744472,
+      "value": {
+        "options": [],
+        "question": "অন্তুর কোন কাজগুলো মামার মোটেই ভালো লাগেনি? মামা অন্তুর কোন অভ্যাসটি ভালো করতে বলেন?",
+        "solution": "অন্তু ঠিকমতো হাত ধোয় না, হাত পরিষ্কার করে না। বিশেষ করে খাওয়ার আগে ও পরে আর টয়লেট থেকে এসে অন্তু হাত পরিষ্কার করে না। আর নাকের সর্দিও যেমন-তেমন করে মোছে। অন্তুর এই কাজগুলো মামার কাছে ভালো লাগেনি। তাই মামা তাকে হাত ধোয়ার অভ্যাসটি ভালো করে করতে বলেন। কারণ পরিষ্কার-পরিচ্ছতার প্রথম কাজই হলো ঠিকমতো হাত ধোয়া।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744473,
+      "value": {
+        "options": [],
+        "question": "আজকাল",
+        "solution": "সম্প্রতি, বর্তমানকাল।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744474,
+      "value": {
+        "options": [],
+        "question": "বকাবকি",
+        "solution": "ধমকাধমকি, গালাগাল।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744475,
+      "value": {
+        "options": [],
+        "question": "প্রিয় ভাগিনাকে অনেক দিন দেখেননি _____।",
+        "solution": "\u003Cdiv\u003Eমামা\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744476,
+      "value": {
+        "options": [],
+        "question": "মামার হাতে ওর _____ খাবার বিরিয়ানি।",
+        "solution": "\u003Cdiv\u003Eপ্রিয়\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744477,
+      "value": {
+        "options": [],
+        "question": "পরিষ্কার-পরিচ্ছন্নতার প্রথম কাজই হলো ঠিকমতো _____।",
+        "solution": "\u003Cdiv\u003Eহাত ধোয়া\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744478,
+      "value": {
+        "options": [],
+        "question": "সুগন্ধ",
+        "solution": "দুর্গন্ধ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744479,
+      "value": {
+        "options": [],
+        "question": "চঞ্চল",
+        "solution": "অস্থির",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744480,
+      "value": {
+        "options": [],
+        "question": "শরীর",
+        "solution": "দেহ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744481,
+      "value": {
+        "options": [],
+        "question": "ঘর",
+        "solution": "গৃহ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744482,
+      "value": {
+        "options": [],
+        "question": "সুগন্ধ",
+        "solution": "সুবাস",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744483,
+      "value": {
+        "options": [],
+        "question": "হাত",
+        "solution": "পাণি",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744484,
+      "value": {
+        "options": [],
+        "question": "সুগন্ধ",
+        "solution": "ফুলের সুগন্ধ চারদিক ছড়িয়ে পড়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744485,
+      "value": {
+        "options": {
+          "ক": "দুষ্টু",
+          "খ": "ডানপিটে",
+          "গ": "হাসিখুশি",
+          "ঘ": "অবাধ্য"
+        },
+        "question": "অন্তু কেমন ছেলে?",
+        "solution": "গ. হাসিখুশি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744486,
+      "value": {
+        "options": [],
+        "question": "ব্য",
+        "solution": "ব + য (য-ফলা), ব্যবহার",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744487,
+      "value": {
+        "options": [],
+        "question": "ভালো-মন্দ বিচার করা",
+        "solution": "বাছবিচার",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744488,
+      "value": {
+        "options": [],
+        "question": "খালি চোখে দেখা যায় না এমন ক্ষতিকারক ক্ষুদ্র প্রাণী বা জীব",
+        "solution": "জীবাণু",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744489,
+      "value": {
+        "options": [],
+        "question": "টয়লেট",
+        "solution": "যেখানে পায়খানা-প্রস্রাব করা হয়, শৌচাগার।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744489,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744490,
+      "value": {
+        "options": [],
+        "question": "ভাগিনা",
+        "solution": "বোনের ছেলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744490,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744491,
+      "value": {
+        "options": [],
+        "question": "সতর্ক",
+        "solution": "সাবধান, হুঁশিয়ার।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744491,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744492,
+      "value": {
+        "options": [],
+        "question": "ক্ষুধার্ত লোকটি খাবার পেয়ে _____ থাকল।",
+        "solution": "খাবলে খেতে",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744492,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744493,
+      "value": {
+        "options": [],
+        "question": "শরীরের যত্ন না নিলে _____ লেগেই থাকবে।",
+        "solution": "রোগবালাই",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744493,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744494,
+      "value": {
+        "options": [],
+        "question": "স্টেশন",
+        "solution": "কমলাপুর রেলওয়ে স্টেশন থেকে বাংলাদেশের বিভিন্ন স্থানে ট্রেন চলাচল করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744494,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744495,
+      "value": {
+        "options": [],
+        "question": "কী অভ্যাস করলে অসুখ-বিসুখ অনেক কমে যায়?",
+        "solution": "ভালো করে হাত ধোয়া ও পরিষ্কার-পরিচ্ছন্ন থাকারঅভ্যাস করলে অসুখ-বিসুখ অনেক কমে যায়। পেটের অসুখ কিংবা সর্দি-জ্বরসহ বেশিরভাগ অসুখই হাতে লেগে থাকা জীবাণু খাবারের মাধ্যমে পেটে প্রবেশের কারণে হয়। অনেক ছেলে-মেয়েই আছে যারা ঠিকমতো হাত ধোয় না। টয়লেট থেকে এসে সাবান দিয়ে হাত পরিষ্কার করে না। ফলে তাদের হাতে থাকা জীবাণু খাবারের মাধ্যমে পেটে চলে যায়। আর পেটের অসুখসহ সর্দি-জ্বর এবং বিভিন্ন অসুখ-বিসুখ হয়। তাই ভালো করে হাত ধোয়া ও পরিষ্কার-পরিচ্ছন্ন থাকার অভ্যাস করলেই অসুখ-বিসুখ অনেক কমে যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744495,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744496,
+      "value": {
+        "options": [],
+        "question": "অন্তুর মামা কেন ছুটি নিয়েছেন?",
+        "solution": "অন্তুর মা অন্তুর মামাকে জানিয়েছিল আজকাল অন্তুর শরীরটা সব সময় ভালো যায় না। প্রিয় ভাগিনাকে অনেক দিন দেখেননি। তাই তিনি ছুটি নিয়ে অন্তুকে দেখতে এসেছেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744497,
+      "value": {
+        "options": [],
+        "question": "মামা কী দেখে চোখ পাকান?",
+        "solution": "মামা অন্তুর হাত ধুইয়ে দিয়ে বিরিয়ানির প্যাকেটের সামনে বসিয়ে দেন। বিরিয়ানি খেতে খেতে অন্তুর নাকে সর্দির পানি এসে যায়। ও সেটা বাঁ হাত দিয়ে টিপে শার্টে মুছে নেয়। সেটা দেখে মামা চোখ পাকান।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744498,
+      "value": {
+        "options": [],
+        "question": "অন্তুকে ভালো ডাক্তার দেখানোর কথা বললে মামা কী বলেন?",
+        "solution": "অন্তুকে ভালো ডাক্তার দেখানোর কথা বললে মামা বললেন তিনি যেহেতু, দুদিন আছেন তাই ব্যাপারটা একটু দেখে নেবেন। কেননা তিনি মনে করেন অন্তুর বিশেষ কোনো অসুখ নেই।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744499,
+      "value": {
+        "options": [],
+        "question": "সর্দি",
+        "solution": "নাক দিয়ে পাতলা শ্লেষ্মা নির্গত হয় এমন রোগ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744500,
+      "value": {
+        "options": [],
+        "question": "প্রিয়",
+        "solution": "অপ্রিয়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744501,
+      "value": {
+        "options": [],
+        "question": "আসা",
+        "solution": "যাওয়া",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744502,
+      "value": {
+        "options": [],
+        "question": "সতর্ক",
+        "solution": "অসতর্ক",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744503,
+      "value": {
+        "options": [],
+        "question": "মা",
+        "solution": "জননী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744504,
+      "value": {
+        "options": [],
+        "question": "চঞ্চল",
+        "solution": "কামাল খুবই চঞ্চল একটি ছেলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744505,
+      "value": {
+        "options": [],
+        "question": "মা বলতে থাকেন বুঝলি সান্টু ছেলেটাকে এত দেখে শুনে রাখি তারপরেও দ্যাখ আজকাল ওর যেন অসুখ বিসুখ লেগেই থাকে ভাবছি ভালো ডাক্তার দেখাব",
+        "solution": "\u003Cdiv\u003Eমা বলতে থাকেন, &quot;বুঝলি সান্টু, ছেলেটাকে এত দেখে-শুনে রাখি, তারপরেও দ্যাখ, আজকাল ওর যেন অসুখ-বিসুখ লেগেই থাকে। ভাবছি ভালো ডাক্তার দেখাব।&quot;\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744506,
+      "value": {
+        "options": {
+          "ক": "ভালো",
+          "খ": "ভালো নয়",
+          "গ": "অমনোযোগী",
+          "ঘ": "মোটামুটি"
+        },
+        "question": "অন্তু পড়াশোনায় কেমন?",
+        "solution": "ক. ভালো",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744507,
+      "value": {
+        "options": {
+          "ক": "বাবা",
+          "খ": "মা",
+          "গ": "মামা",
+          "ঘ": "বোন"
+        },
+        "question": "অন্তুর খাওয়ার ধরন দেখে কে বকাবকি করেন?",
+        "solution": "খ. মা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744508,
+      "value": {
+        "options": [],
+        "question": "ক্ত",
+        "solution": "ক + ত, ডাক্তার",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744509,
+      "value": {
+        "options": [],
+        "question": "চ্ছ",
+        "solution": "চ + ছ, স্বচ্ছ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744510,
+      "value": {
+        "options": [],
+        "question": "প্রত্যেহ কোনো কিছু করার স্বভাব",
+        "solution": "অভ্যাস",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744511,
+      "value": {
+        "options": [],
+        "question": "হঠাৎ অপ্রস্তুত হওয়া",
+        "solution": "ভেবাচেকা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744512,
+      "value": {
+        "options": [],
+        "question": "জিহ্বা দিয়ে লেহন করা",
+        "solution": "চেটেপুটে",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744513,
+      "value": {
+        "options": [],
+        "question": "চঞ্চল",
+        "solution": "অস্থির, অশান্ত, ছটফটে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744513,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744514,
+      "value": {
+        "options": [],
+        "question": "খাবলে খাওয়া",
+        "solution": "এক থাবায় যতটুকু খাবার তুলে খাওয়া যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744514,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744515,
+      "value": {
+        "options": [],
+        "question": "চড়ুই পাখি অনেক _____ হয়।",
+        "solution": "চঞ্চল",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744515,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744516,
+      "value": {
+        "options": [],
+        "question": "রিক্সা",
+        "solution": "রিক্সা পরিবেশ দূষণ করে না।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744516,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744517,
+      "value": {
+        "options": [],
+        "question": "সব সময় হাত পরিষ্কার না রাখলে কী হয়?",
+        "solution": "সব সময় হাত পরিষ্কার না রাখলে হাতে লেগে থাকা জীবাণু খাবারের সঙ্গে আমাদের পেটে চলে যায়। ফলে ওইসব জীবাণু থেকে পেটের অসুখ, সর্দি-জ্বর ইত্যাদি রোগ হয়। তাই কিছু খাওয়ার আগে দুই হাত সাবান দিয়ে পরিষ্কার করে ধুয়ে নিতে হয়। তা না হলে বিভিন্ন অসুখ-বিসুখে ভুগতে হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744517,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744518,
+      "value": {
+        "options": [],
+        "question": "অন্তু কেমন ছেলে?",
+        "solution": "অন্তু খুব হাসিখুশি ছেলে। পড়াশোনা ও খেলাধুলায় সে বেশ ভালো। তবে একটু চঞ্চল।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744519,
+      "value": {
+        "options": [],
+        "question": "অন্তুর মা তাকে বকাবকি করলেন কেন?",
+        "solution": "অন্তুর মামা বিরিয়ানির প্যাকেট নিয়ে এলে অন্তু হাত না ধুয়েই তা খাবলে খাওয়া শুরু করল। তার মামা হাত সরিয়ে দিলে সে গাল ফুলিয়ে হাতটাই চেটেপুটে খায়। মামা আবার তার হাত চেপে ধরে বলেন, এভাবে খায় না। এ সময় তার মাও তাকে বকাবকি করলেন এভাবে খাওয়ার জন্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744520,
+      "value": {
+        "options": [],
+        "question": "মা অন্তুকে ভালো ডাক্তার দেখানোর কথা ভাবেন কেন?",
+        "solution": "মা অন্তুকে অনেক দেখে-শুনে রাখেন। তারপরেও আজকাল অন্তুর অসুখ-বিসুখ লেগেই থাকে। তাই মা তাকে ভালো ডাক্তার দেখানোর কথা ভাবেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744521,
+      "value": {
+        "options": [],
+        "question": "মামা অন্তুর সঙ্গে সময় কাটিয়ে কী কী করলেন?",
+        "solution": "মামা অন্তুর সঙ্গে সময় কাটিয়ে ওর সারা দিনের চলাফেরা, মুখ-হাত ধোয়া, গোসল করা, খাওয়া-দাওয়া সবকিছু সম্পর্কে আলোচনা করলেন। পরদিন বিকেলে তার সঙ্গে মাঠে গেলেন। ঘরে ফিরে মামা নিজে দাঁড়িয়ে থেকে অন্তুর মুখ-হাত ধোয়ালেন। এভাবে তিনি অন্তুর সঙ্গে সময় কাটালেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744522,
+      "value": {
+        "options": [],
+        "question": "মুচকি",
+        "solution": "মৃদু, ঈষৎ প্রকাশিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744523,
+      "value": {
+        "options": [],
+        "question": "পরিষ্কার",
+        "solution": "অপরিষ্কার",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744524,
+      "value": {
+        "options": [],
+        "question": "গাল",
+        "solution": "কপোল",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744525,
+      "value": {
+        "options": [],
+        "question": "রোগবালাই",
+        "solution": "পরিষ্কার-পরিচ্ছন্ন থাকলে রোগবালাই কম হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744526,
+      "value": {
+        "options": [],
+        "question": "ব্যাপার",
+        "solution": "কী ব্যাপার! তোমাকে তো দেখাই যায় না।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744527,
+      "value": {
+        "options": [],
+        "question": "অভ্যাস",
+        "solution": "সকাল সকাল ঘুম থেকে ওঠা খুব ভালো একটি অভ্যাস।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744528,
+      "value": {
+        "options": {
+          "ক": "ঘুরে বেড়ানো",
+          "খ": "খেলাধুলা করা",
+          "গ": "আড্ডা দেওয়া",
+          "ঘ": "হাত ধোয়া"
+        },
+        "question": "মামা অন্তুর কোন অভ্যাসটা ভালো করতে বলেন?",
+        "solution": "ঘ. হাত ধোয়া",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744529,
+      "value": {
+        "options": {
+          "ক": "হাতে",
+          "খ": "নাকে",
+          "গ": "মুখে",
+          "ঘ": "শরীরে"
+        },
+        "question": "জীবাণু কোথায় লেগে যায়?",
+        "solution": "ক. হাতে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744530,
+      "value": {
+        "options": {
+          "ক": "করুমালে",
+          "খ": "মায়ের আঁচলে",
+          "গ": "গেঞ্জিতে",
+          "ঘ": "শার্টে"
+        },
+        "question": "অন্তু সর্দির পানি কোথায় মোছে?",
+        "solution": "ঘ. শার্টে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744531,
+      "value": {
+        "options": {
+          "ক": "মামা",
+          "খ": "বাবা",
+          "গ": "মা",
+          "ঘ": "বোন"
+        },
+        "question": "কে অন্তুকে অনেক আদর করলেন?",
+        "solution": "ক. মামা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744532,
+      "value": {
+        "options": {
+          "ক": "মুখ ধোয়ার",
+          "খ": "চোখ ধোয়ার",
+          "গ": "শরীর ধোয়ার",
+          "ঘ": "হাত ধোয়া"
+        },
+        "question": "কীসের অভ্যাস করলে অসুখ-বিসুখ কমে যাবে?",
+        "solution": "ঘ. হাত ধোয়া",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744533,
+      "value": {
+        "options": {
+          "ক": "বাবা",
+          "খ": "চাচা",
+          "গ": "মামা",
+          "ঘ": "ভাই"
+        },
+        "question": "অন্তু কার মতো হতে চায়?",
+        "solution": "গ. মামা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744534,
+      "value": {
+        "options": [],
+        "question": "ন্ধ",
+        "solution": "ন + ধ, অন্ধকার",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744535,
+      "value": {
+        "options": [],
+        "question": "আজ এবং কাল",
+        "solution": "আজকাল",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744536,
+      "value": {
+        "options": [],
+        "question": "চেটেপুটে",
+        "solution": "জিহ্বা আর ঠোঁট দিয়ে একসাথে চেটে পরিষ্কার করে খাওয়া।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744536,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744537,
+      "value": {
+        "options": [],
+        "question": "জীবাণু",
+        "solution": "খালি চোখে দেখা যায় না এমন ক্ষতিকারক ক্ষুদ্র প্রাণী বা জীব।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744537,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744538,
+      "value": {
+        "options": [],
+        "question": "অভ্যাস",
+        "solution": "স্বভাব।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744538,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744539,
+      "value": {
+        "options": [],
+        "question": "স্টেডিয়াম",
+        "solution": "ভাসানী স্টেডিয়াম ঢাকার গুলিস্তানে অবস্থিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744539,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744540,
+      "value": {
+        "options": [],
+        "question": "অন্তু মামার কাছ থেকে কী সম্পর্কে জেনেছিল?",
+        "solution": "অন্তু মামার কাছ থেকে হাত ধোয়া ও পরিষ্কার-পরিচ্ছন্ন থাকার প্রয়োজনীয়তা সম্পর্কে জেনেছিল। অন্তু এতটাই চঞ্চল ছিল যে হাত না ধুয়েই খেতে বসত। ঠিকমতো সাবান দিয়ে হাত পরিষ্কার করত না। ফলে তার সর্দি-জ্বর, অসুখ-বিসুখ লেগেই থাকত। এসব দেখে অন্তুর মামা তাকে খাওয়ার আগে হাত ধুয়ে নিতে বলেন এবং টয়লেট করার পর সাবান দিয়ে ভালোভাবে হাত পরিষ্কার করতে বলেন। মূলত ঠিকমতো পরিষ্কার-পরিচ্ছন্ন থাকলেই যে বিভিন্ন অসুখ-বিসুখ থেকে মুক্তি পাওয়া যায়, অন্তু তার মামার কাছ থেকে সে সম্পর্কেই জেনেছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744540,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744541,
+      "value": {
+        "options": [],
+        "question": "কেন অন্তর অসুখ-বিসুখ লেগেই থাকে?",
+        "solution": "ঠিকমতো পরিষ্কার-পরিচ্ছন্ন না থাকার কারণে অন্তুর অসুখ-বিসুখ লেগেই থাকে। অন্তু স্বভাবে এতটাই চঞ্চল ছিল যে বাইরে ধুলাবালির মধ্যে খেলাধুলা করে এসে হাত না ধুয়ে খেতে বসত। টয়লেট থেকে এসে সাবান দিয়ে হাত পরিষ্কার করত না। নিয়মিত গোসল করত না। এসব কারণেই তার অসুখ-বিসুখ লেগেই থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744541,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744542,
+      "value": {
+        "options": [],
+        "question": "হাত পরিষ্কার দেখালেও হাতের মধ্যে জীবাণু কেমন করে থাকে?",
+        "solution": "হাত পরিষ্কার দেখালেও হাতের মধ্যে বিভিন্নভাবে জীবাণু লেগে থাকে। কারণ জীবাণু এত বেশি ক্ষুদ্র যে তা খালি চোখে দেখা যায় না। আমরা হাত দিয়ে অনেক কিছু ধরি, অনেকের হাতের সঙ্গে হাত মেলাই, ধুলাবালির মধ্যে খেলাধুলা করি, চলাফেরা করি। এ সবকিছুতেই জীবাণু থাকতে পারে যা হাতে লেগে যায়। তাই খাওয়ার আগে বা টয়লেট করার পর সাবান দিয়ে হাত না ধুলে তাতে জীবাণু থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744542,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744543,
+      "value": {
+        "options": [],
+        "question": "মামা অন্তুকে তার নখগুলো নিয়ে কী বলেন?",
+        "solution": "মামা অন্তুকে তার নখগুলো যে পরিষ্কার নয় সেটি বললেন। তিনি বলেন, রোগবালাইয়ের শুরু এই নখগুলো থেকেই। তাই নিয়মিত নখগুলো ছোট পরিষ্কার রাখতে হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744544,
+      "value": {
+        "options": [],
+        "question": "\"পরিষ্কার দেখালেই হাত আসলে পরিষ্কার হয় না।\"-কথাটি বুঝিয়ে লেখ।\u003Cbr\u003E\n&nbsp;",
+        "solution": "\u003Cdiv\u003Eআমরা হাত দিয়ে অনেক কিছু ধরি, অনেকের সাথে হাত মেলাই। এ সবকিছুতেই জীবাণু থাকতে পারে যা হাতে লেগে যায়। খাওয়ার আগে অথবা টয়লেট করার পর সাবান দিয়ে হাত না ধুলে এমনটা হয়। এরকম জীবাণু খালি চোখে দেখা যায় না। এগুলো খাবারের সঙ্গে আমাদের পেটে গিয়ে বিভিন্ন রোগ সৃষ্টি করে। তাই বলা হয়েছে পরিষ্কার দেখালেই হাত আসলে পরিষ্কার হয় না।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744545,
+      "value": {
+        "options": [],
+        "question": "পরিচ্ছন্ন",
+        "solution": "পরিমার্জিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744546,
+      "value": {
+        "options": [],
+        "question": "_____ মামা অন্তুর সঙ্গে কিছু সময় কাটালেন।",
+        "solution": "\u003Cdiv\u003Eসন্ধ্যায়\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744547,
+      "value": {
+        "options": [],
+        "question": "যদি _____ থাকতে চাও, তো হাত ধুয়ে নাও।",
+        "solution": "\u003Cdiv\u003Eসুস্থ\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744548,
+      "value": {
+        "options": [],
+        "question": "ভালো",
+        "solution": "মন্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744549,
+      "value": {
+        "options": [],
+        "question": "বাইরে",
+        "solution": "ভেতরে",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744550,
+      "value": {
+        "options": {
+          "ক": "চাচা",
+          "খ": "মামা",
+          "গ": "বাবা",
+          "ঘ": "মা"
+        },
+        "question": "অন্তুকে দেখতে কে ছুটি নিয়ে আসেন?",
+        "solution": "খ. মামা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744551,
+      "value": {
+        "options": {
+          "ক": "মোরগ-পোলাও",
+          "খ": "পিজ্জা",
+          "গ": "বিরিয়ানি",
+          "ঘ": "কাচ্চি"
+        },
+        "question": "অন্তুর প্রিয় খাবার কোনটি?",
+        "solution": "গ. বিরিয়ানি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744552,
+      "value": {
+        "options": {
+          "ক": "সকালে",
+          "খ": "দুপুরে",
+          "গ": "সন্ধ্যায়",
+          "ঘ": "রাতে"
+        },
+        "question": "মামা কখন অন্তুর সঙ্গে কিছু সময় কাটান?",
+        "solution": "গ. সন্ধ্যায়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744553,
+      "value": {
+        "options": {
+          "ক": "মুখ",
+          "খ": "নাক",
+          "গ": "দাঁত",
+          "ঘ": "নখ"
+        },
+        "question": "রোগবালাইয়ের শুরু কোথা থেকে?",
+        "solution": "ঘ. নখ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744554,
+      "value": {
+        "options": {
+          "ক": "বাবা",
+          "খ": "মামা",
+          "গ": "মা",
+          "ঘ": "বোন"
+        },
+        "question": "অন্তুর ভালো আচরণ দেখে কে মুচকি হাসেন?",
+        "solution": "গ. মা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744555,
+      "value": {
+        "options": [],
+        "question": "ন্ত",
+        "solution": "ন + ত, অত্যন্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744556,
+      "value": {
+        "options": [],
+        "question": "ঞ্চ",
+        "solution": "ঞ + চ, বঞ্চিত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744557,
+      "value": {
+        "options": [],
+        "question": "ন্ট",
+        "solution": "ন + ট, নান্টু",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744558,
+      "value": {
+        "options": [],
+        "question": "নিরবচ্ছিন্নভাবে চলা",
+        "solution": "অবিরাম",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-11-27T06:36:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186786,
+      "value": {
+        "options": {
+          "a": "ছুটির জন্য",
+          "b": "অসংস্থির জন্য",
+          "c": "খেলার জন্য",
+          "d": "ফুটা পায়েস খাওয়ার জন্য"
+        },
+        "question": "মামা কেন অন্তুর শরীরের খোঁজ নিতে এসেছিলেন?",
+        "chapter_id": "1342",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186787,
+      "value": {
+        "options": {
+          "a": "খাওয়ার আগে হাত ধোয়া",
+          "b": "সাবান দিয়ে হাত ধোয়া",
+          "c": "টয়লেট করার পরে হাত ধোয়া",
+          "d": "সকালে হাত ধোয়া"
+        },
+        "question": "অন্তুর হাত ধোয়ার অভ্যাস গড়ে তোলার জন্য মামা কী পরামর্শ দিয়েছিলেন?",
+        "chapter_id": "1342",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186788,
+      "value": {
+        "options": {
+          "a": "বিরিয়ানি",
+          "b": "পোলাও",
+          "c": "পায়েস",
+          "d": "ছানার পোলাও"
+        },
+        "question": "কোন খাবার অন্তুর প্রিয়?",
+        "chapter_id": "1342",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 162249,
+      "value": {
+        "options": {
+          "a": "কারণ অন্তু পরিষ্কার থাকতে চায়",
+          "b": "কারণ অন্তুর অসুখ-বিসুখ কমাতে হবে",
+          "c": "কারণ মামা খুশি হতে চান",
+          "d": "কারণ অন্তুর মা অসুস্থ"
+        },
+        "question": "মামা কেন অন্তুকে হাত ধোয়ার গুরুত্ব বোঝাচ্ছেন?",
+        "chapter_id": "1342",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-08-01T18:13:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 162250,
+      "value": {
+        "options": {
+          "a": "বিরিয়ানি খাওয়ার আগে হাত ধোয়া",
+          "b": "টয়লেটের পর হাত ধোয়া",
+          "c": "দূরে কোথাও না খাওয়া",
+          "d": "খালি হাতে খাবার না খাওয়া"
+        },
+        "question": "অন্তুর মামা কিভাবে তার স্বাস্থ্যবিধি সম্পর্কে সতর্ক থাকার কথা বলেছেন?",
+        "chapter_id": "1342",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-08-01T18:13:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136843,
+      "value": {
+        "options": [],
+        "question": "অন্তুর হাত ধোয়ার অভ্যাসের গুরুত্ব কী এবং এটি কেন অপরিহার্য বলে মনে করছেন মামা?",
+        "solution": "সমাধান:\n\nউত্তরের ধরন ও পরিকল্পনা: প্রথমে সংক্ষেপে মূল কারণ বলা হবে, পরে জীবাণু কীভাবে হাত থেকে শরীরে পৌঁছে অসুখ সৃষ্টি করে তা বর্ণনা করা হবে, এরপর হাত ধোয়ার সঠিক পদ্ধতি ও গুরুত্বপূর্ণ সময়গুলো দেওয়া হবে এবং শেষ করে মামার কথার যৌক্তিক ব্যাখ্যা সংক্ষেপে উপস্থাপন করা হবে।\n\n1. মূল উত্তর (সংক্ষেপে): হাত পরিষ্কার না থাকলে সেখানে জীবাণু (ব্যাকটেরিয়া, ভাইরাস) জমা থাকে এবং তা খাদ্য, মুখ, নাক বা চোখে ছড়িয়ে পড়ে—ফলে অসুস্থতা যেমন পেটের সমস্যাসহ শ্বাসনালী সংক্রান্ত সংক্রমণ হতে পারে। এজন্য নিয়মিত হাত ধোয়া অপরিহার্য।\n\n2. কীভাবে অসুখ লেগে যায় (যুক্তি/তত্ত্ব): \n- কাঁচা খাদ্য, আলতো স্পর্শ বা মল-মলিন অবস্থায় কণ্ঠে ও বস্ত্রে থাকা জীবাণু সহজেই হাত দিয়ে ধরতে পারে।\n- হাত থেকে মুখ বা খাবারে জীবাণু গেলে পচনশীল বা সংক্রামক রোগের কারণ হয়ে ওঠে। \n- তাই হাত ধোয়ার সময় জীবাণু বাইরের আবরণ (তেল/ময়লা) ও জীবাণুমাত্রা কমে যায় এবং সংক্রমণের ঝুঁকি কমে।\n\n3. হাত ধোয়ার সঠিক ধাপ (সংক্ষিপ্ত নির্দেশ): \n- প্রথমে হাত ভেজানো, সাবান লাগানো, অন্তত ২০ সেকেন্ড ধরে আলতো করে ঘষা (হাতের তালু, পিঠ, আঙুলের ফাঁক, আঙুলের পেছন, নখের নিচ), তারপর পরিষ্কার পানি দিয়ে ধুয়ে নেবেন এবং পরিষ্কার কাপড় বা টিস্যু দিয়ে শুকিয়ে নেবেন। এতে অধিকাংশ সাধারণ জীবাণু নষ্ট বা ধুয়ে পড়ে যায়।\n\n4. কখন হাত ধোয়া জরুরি (প্রধান মুহূর্তগুলো): খাবার খাওয়ার আগে, টয়লেট ব্যবহারের পরে, বাইরে থেকে ঘরে এসে, জ্বালানি/কাঠ/দূষিত জিনিস ধরার পরে, শিশুর সেবা করার আগে-পরেও ইত্যাদি।  \n\n5. মামার যুক্তি সংক্ষেপে: মামা মনে করেন হাত ধোয়া অপরিহার্য কারণ তা রোগ-জীবাণু কমিয়ে সুস্থ্যতা বজায় রাখে, পরিবারের সবাইকে সংক্রমণ থেকে রক্ষা করে এবং দুর্ভাগ্যজনক চিকিৎসা খরচ ও কষ্ট প্রতিরোধ করে। উদাহরণস্বরূপ, হাত ধোয়া করলে ডায়রিয়া ও শ্বাসনালী সংক্রমণের ঘটনা অনেক কমে যায়—এটাই মামার উদ্বেগের যৌক্তিক ব্যাখ্যা।\n\nউপসংহার: তাই মামার বক্তব্য যুক্তিযুক্ত — হাত পরিষ্কার রাখা রোগ প্রতিরোধের সবচেয়ে সহজ, কার্যকর ও সাশ্রয়ী উপায়।",
+        "chapter_id": "1342",
+        "explanation": "কারণ অপরিষ্কার হাতে ব্যাকটেরিয়া ও ভাইরাস জমে থাকে যা খাবার, মুখ বা ক্ষতের মাধ্যমে শরীরে ঢুকে রোগ-সংক্রমণ ঘটাতে পারে। নিয়মিত সাবান ও পানিতে হাত ধোলে এসব জীবাণু ধুয়ে যায়, তাই অসুখ ছড়ানো রোধ হয়—এজন্য মামা এটাকে অপরিহার্য মনে করেন।",
+        "correct_answer": "কারণ হাত পরিষ্কার না রাখলে জীবাণু আক্রান্ত হতে পারে এবং অসুখ-বিসুখ লেগে থাকে।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-28T12:21:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136735,
+      "value": {
+        "options": {
+          "a": "বিকাশের",
+          "b": "স্বাস্থ্যবিধি সম্পর্কে",
+          "c": "শিক্ষা সম্পর্কে",
+          "d": "কথা বলার"
+        },
+        "question": "অন্তুর মামা তাকে কী ধরনের সবক দেন?",
+        "solution": "সমাধান:\n1. প্রথমে প্রশ্নটি পড়ে বোঝা উচিত মামা কাউকে কী শিখিয়েছেন — এখানে বিকল্পগুলোর মধ্যে কোনটি সরাসরি কোনো ধরনের শেখানোর কথা বলছে তা দেখুন।\n2. বিকল্পগুলোর বিশ্লেষণ: (a) \"বিকাশের\" অনেকভাবে অর্থ হতে পারে এবং স্পষ্ট কোনো শেখার ধরন নির্দেশ করে না; (c) \"শিক্ষা সম্পর্কে\" সাধারণ শিক্ষার কথা বলে, কিন্তু প্রশ্নে বিশেষ একটি ধরনের সাবকের কথা বলা হয়েছে; (d) \"কথা বলার\" দক্ষতা শেখানো হলে সেটা স্পষ্টভাবে বলা হত।\n3. (b) \"স্বাস্থ্যবিধি সম্পর্কে\" একটি নির্দিষ্ট এবং বাস্তবসম্মত ধরনের সাবক যা মামা আস্তে আস্তে শিখাতে পারেন — তাই এটা সবচেয়ে উপযুক্ত উত্তর।\nঅতএব সঠিক উত্তরটি হলো (b) স্বাস্থ্যবিধি সম্পর্কে।",
+        "chapter_id": "1342",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136736,
+      "value": {
+        "options": {
+          "a": "বাড়িতে বেশি সময় কাটানো",
+          "b": "হাত ধোয়ার অভ্যাস গড়ে তোলা",
+          "c": "ভোজনের প্রতি আগ্রহী হওয়া",
+          "d": "শুধু খেলাধুলা করা"
+        },
+        "question": "অন্তুর ভালো অভ্যাস গড়ে তোলার জন্য তাকে কী করতে বলা হয়?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্ন থেকে লক্ষ্য করি—\"ভালো অভ্যাস গড়ে তোলা\" বলতে স্বাস্থ্যজনিত ও পরিচ্ছন্নতা সম্পর্কিত অভ্যাস বোঝানো হয়েছে।  \nধাপ ২: প্রতিটি বিকল্প মূল্যায়ন করি: (a) বাড়িতে বেশি সময় কাটানো—এটি সবসময় ভালো নয়; (c) ভোজনের প্রতি আগ্রহী হওয়া—খাবারের প্রতি আগ্রহ হওয়া মানেই স্বাস্থ্যকর অভ্যাস নয়; (d) শুধু খেলাধুলা করা—শরীরচর্চা ভালো, কিন্তু পুরো ভালো অভ্যাস যেটি স্বাস্থ্য ও সংক্রামক রোগ প্রতিরোধে সরাসরি কার্যকর তা নয়।  \nধাপ ৩: (b) হাত ধোয়ার অভ্যাস গড়ে তোলা হলো সঠিক কারণ এটি ব্যক্তিগত পরিচ্ছন্নতা বজায় রাখে এবং সংক্রমণ প্রতিরোধে সরাসরি সাহায্য করে। তাই সঠিক উত্তর: b.",
+        "chapter_id": "1342",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130200,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): অন্তুর স্বাস্থ্যের যত্ন নেওয়ার উপায় কি কি?",
+          "খ": "(অনুধাবন): অন্তু কেন বকাবকি শুনছে, তা কি বুঝতে পারছ?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): অন্তুর অভ্যাস ও স্বাস্থ্য সমস্যা বিশ্লেষণ করে আলোচনা করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): শিশুরhealthcare ব্যবস্থায় কি ধরনের পরিবর্তন আনা উচিত তা প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: অন্তু নামের একটি ছেলে খুব চঞ্চল। মামা তাকে স্বাস্থ্যের যত্ন নেওয়ার উপদেশ দেন।",
+        "solution": "সমাধান:\nউত্তর পদ্ধতি: প্রথমে প্রদত্ত তথ্য থেকে অন্তুর বৈশিষ্ট্য (বহু চঞ্চলতা এবং মামার বকাবকি) থেকে সম্ভাব্য স্বাস্থ্যের ঝুঁকি ও অভ্যাস অনুমান করা হবে। তার পরে প্রতিটি প্রশ্নভাগে সমস্যা নির্ধারণ, কারণ বিশ্লেষণ, উপযুক্ত প্রতিকার এবং প্রয়োগযোগ্য সুপারিশ সংক্ষেপে দেওয়া হবে। কাজটি কার্যকর করতে পর্যায়ক্রমে — নিরীক্ষা → বিশ্লেষণ → পরিকল্পনা → বাস্তবায়ন → পর্যবেক্ষণ — পদ্ধতি অনুসরণ করা হবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (জ্ঞানমূলক): অন্তুর স্বাস্থ্যের যত্ন নেওয়ার উপায় কি কি?\n- প্রতিদিনের রুটিন ঠিক করা: সুষম ঘুম, নির্দিষ্ট নিদ্রার সময়, খাবারের সময় পালন।  \n- পুষ্টিকর খাদ্য: ফল, সবজি, পর্যাপ্ত প্রোটিন ও ক্যালসিয়াম; অতিরিক্ত তেলে ভাজা ও মিষ্টি সীমিত করা।  \n- ব্যক্তিগত পরিচ্ছন্নতা: নিয়মিত হাত—মুখ ধোয়া, টুথব্রাশ ব্যবহার, ক্ষতিকর আচার থেকে বিরত থাকা।  \n- শারীরিক কার্যকলাপ: নিয়মানুবর্তিতা ভ্রমণ/খেলার মাধ্যমে দৈনিক কমপক্ষে ১ ঘন্টা সক্রিয়তা।  \n- নিরাপত্তা ও চঞ্চলতার ব্যবস্থাপনা: খেলাধুলায় হেলমেট, সুরক্ষিত পরিবেশ, বড়দের তত্ত্বাবধান।  \n- রোগপ্রতিরোধ: সময়মতো টিকা, নিয়মিত স্বাস্থ্য-চেকআপ, দাঁত ও চোখের পরীক্ষা।  \n- আচরণগত স্বাস্থ্য: ধৈর্য, নিয়মিত সময়সূচি, পজিটিভ রিইনফোর্সমেন্ট ও সীমাবদ্ধতা স্থাপন।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (অনুধাবন): অন্তু কেন বকাবকি শুনছে, তা কি বুঝতে পারছ?\n- কারণ পর্যালোচনাঃ\n  1) চঞ্চল আচরণ বাড়তি ঝুঁকি ও ঝামেলা সৃষ্টি করে (বেআইনি বা ঝুঁকিপূর্ণ কাজ), তাই বড়রা সতর্ক করেন।  \n  2) নিয়ম-শৃঙ্খলা না মানার ফলে পরিবেশে বিঘ্ন ঘটতে পারে — এই কারণে বকাবকি।  \n  3) স্বাস্থ্য বা নিরাপত্তা ঝুঁকি (অপর্যাপ্ত ঘুম, খারাপ খাবার, অতিরিক্ত স্ক্রীন টাইম) থাকলে অভিভাবক আগ্রহ নিয়ে সতর্ক করেন।  \n- সংক্ষেপে: মামার বকাবকি মূলত অন্তুর কল্যাণ ও নিরাপত্তা নিশ্চিত করার চেষ্টা; এটি আচরণ সংশোধনের উদ্দেশ্য বলেই অনুধাবন করা উচিত।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বিশ্লেষণ/প্রয়োগ): অন্তুর অভ্যাস ও স্বাস্থ্য সমস্যা বিশ্লেষণ করে আলোচনা করো।\n- পর্যবেক্ষণ ও সমস্যা চিহ্নিতকরণ:\n  1) চঞ্চলতা → মনোযোগ কম হওয়া, দুর্ঘটনার ঝুঁকি বেশি, ক্লাসে সমস্যা।  \n  2) যদি অপর্যাপ্ত ঘুম/খাদ্য থাকে → দুর্বল প্রতিরোধ ক্ষমতা, মানসিক অস্থিরতা।  \n  3) অনুশাসনহীনতা → স্বাস্থ্যকর অভ্যাস গড়া কঠিন।  \n- কারণ বিশ্লেষণ:\n  1) বিকাশগত কারণ: শিশুর স্বভাবগত উচ্চ উদ্দীপনা।  \n  2) পরিবেশগত কারণ: অনিয়মিত রুটিন, অতিরিক্ত স্ক্রীন টাইম, পর্যাপ্ত তত্ত্বাবকের অভাব।  \n  3) পুষ্টি/স্বাস্থ্যের কারণ: অনুপযুক্ত খাদ্য বা নিদ্রাহীনতা মানসিক ও শারীরিক চঞ্চলতা বাড়াতে পারে।  \n- প্রযোজ্য ব্যবস্থা (অ্যাপ্লিকেশন):\n  1) আচরণ নিয়ন্ত্রণ: ছোট-ছোট নিয়ম, ইতিবাচক পুরস্কার পদ্ধতি, অনুশাসন ধাপে ধাপে শেখানো।  \n  2) স্বাস্থ্য ব্যবস্থাপনা: সুষম খাদ্য, সময়মত ঘুম, দৈনন্দিন খেলাধুলা।  \n  3) প্রয়োজন হলে পেশাদার সহায়তা: যদি অত্যধিক অস خیال্য বা মনোযোগ সমস্যা থাকে, পেডিয়াট্রিশিয়ান বা ক্লিনিক্যাল সাইকোলজিস্টের পরামর্শ নেবে।  \n- নিরীক্ষণ: তিন-চার সপ্তাহের প্রকৃত রুটিন বাস্তবায়ন করে উন্নতি মূল্যায়ন এবং প্রয়োজনীয় সমন্বয় করা।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মূল্যায়ন/সৃজন): শিশুর healthcare ব্যবস্থায় কি ধরনের পরিবর্তন আনা উচিত তা প্রস্তাবনা দাও।\n- পরিবার-স্তরে পরিবর্তন:\n  1) অভিভাবক শিক্ষা: পেয়ারেন্টিং ও আচরণগত কৌশল, প্রথমিক স্বাস্থ্য জ্ঞানের প্রশিক্ষণ।  \n  2) পরিবারের মধ্যে স্থায়ী রুটিন ও সীমা: খাদ্য, ঘুম, স্ক্রীন টাইম নিয়ন্ত্রণ।  \n- স্কুল/কমিউনিটি স্তরে:\n  1) স্কুল-হেলথ প্রোগ্রাম: নিয়মিত স্বাস্থ্য স্ক্রিনিং, পুষ্টি শিক্ষা, খেলাধুলার সুযোগ বৃদ্ধি।  \n  2) কমিউনিটি প্লে-এরিয়া ও নিরাপদ পরিবেশ সৃষ্টির উদ্যোগ।  \n- স্বাস্থ্যসেবা নীতি ও প্রশাসন:\n  1) প্রাথমিক স্বাস্থ্যকেন্দ্রে শিশু-বিশেষ সেবা: ভ্যাকসিন, পুষ্টি পরামর্শ, মানসিক স্বাস্থ্য সাপোর্ট।  \n  2) সহজে 접근যোগ্য কাউন্সেলিং সার্ভিস এবং প্রয়োজনীয় বিশেষজ্ঞ রেফারেল ব্যবস্থা।  \n- প্রযুক্তি ও নীতিগত প্রস্তাবনা:\n  1) নির্ধারিত অ্যাপ বা গাইডলাইন যা অভিভাবককে রুটিন ও আচরণ ট্র্যাক করতে সাহায্য করবে।  \n  2) স্কুল-কাউন্সেলর ও পেডিয়াট্রিক নেটওয়ার্কের মাধ্যমে সংকটকালীন সহায়তা।  \n- মূল্যায়ন ও কার্যকারিতা: পরিবর্তনগুলো প্রয়োগের পরে নিয়মিত মূল্যায়ন (ছবি/নোট/স্বাস্থ্য রিপোর্ট) করে যে কার্যকর তা নিশ্চিত করা।\n\nসংক্ষিপ্ত উপসংহার: অন্তুর জন্য প্রথম ধাপে রুটিন স্থাপন, পুষ্টি ও নিরাপত্তা নিশ্চিত করা এবং ইতিবাচক আচরণ প্রশিক্ষণ সবচেয়ে জরুরি। বড় চাহিদা থাকলে পেশাদার সুপারিশ গ্রহণ ও সমাজভিত্তিক স্বাস্থ্যসেবা উন্নয়ন করাই দীর্ঘকালীন সমাধান।",
+        "chapter_id": "1342",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E এই অংশটি জ্ঞানমূলক কারণ এটি সরাসরি তথ্য বা নিয়ম জানতে বলে — অন্তুর স্বাস্থ্যের যত্ন নেয়ার স্পষ্ট উপায় (পুষ্টিকর খাবার, পর্যাপ্ত ঘুম, ব্যায়াম, ব্যক্তিগত পরিচ্ছন্নতা, নিয়মিত চিকিত্সা) তালিকাভুক্ত করা উচিত। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E এটি অনুধাবন পর্যায় because এখানে কেন বকাবকি হচ্ছে তার কারণ বুঝতে বলা হয়েছে — অন্তু চঞ্চল হলে সে ঝুঁকি ও অসুস্থতার সম্ভাবনা বাড়ায়, তাই মামার সতর্কতা এবং বকাবকি তার ভালো ও নিরাপদ আচরণ করানোর চেষ্টা বোঝায়। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এটি বিশ্লেষণ/প্রয়োগ স্তর কারণ এখানে অন্তুর অভ্যাস ও সম্ভাব্য স্বাস্থ্য সমস্যা চিহ্নিত করে তাদের কারণ-ফল সম্পর্ক বিশ্লেষণ করতে হবে এবং প্রয়োগযোগ্য সমাধান (রুটিন পরিবর্তন, পুষ্টি বা ব্যায়াম) জানাতে হবে। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E এটি মূল্যায়ন/সৃজন স্তর কারণ এখানে শিশুস্বাস্থ্যের ব্যবস্থায় পরিবর্তনের জন্য মূল্যায়ন করে যৌক্তিক প্রস্তাবনা দিতে বলা হয়েছে — নীতি, শিক্ষা, পরিবারিক নির্দেশনা বা স্বাস্থ্যসেবা ব্যবস্থা বদলে_child-friendly_ পদক্ষেপ সাজানো প্রয়োজন তা justified করে উপস্থাপন করতে হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-27T12:31:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 114623,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): সারার উদ্যোগের নাম কী হতে পারে এবং এর উদ্দেশ্য কী?",
+          "খ": "(অনুধাবন): পরিবেশবান্ধব পণ্যের ব্যবহার কেন জরুরি?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): সারার উদ্যোগ কীভাবে সমাজে পরিবর্তন আনতে সহায়ক হচ্ছে তা বিশ্লেষণ করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): পরিবেশ রক্ষায় তরুণ উদ্যোক্তাদের ভূমিকা কিভাবে বৃদ্ধি করা যায় তা প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: সারা একজন তরুণ উদ্যোক্তা। সে একটি পরিবেশবান্ধব পণ্য তৈরি করে যা প্লাস্টিকের পরিবর্তে ব্যবহৃত হয়। তার উদ্যোগটি সমাজে পরিবেশ সচেতনতা বৃদ্ধি করছে ও জনগণের মধ্যে পুনর্ব্যবহারযোগ্য পণ্যের চাহিদা বাড়াচ্ছে। ",
+        "solution": "সমাধান:\n\nউত্তর পদ্ধতি (clear answer approach):\n1. উদ্দীপক থেকে মূল তথ্য সনাক্ত করা — সারা একজন তরুণ উদ্যোক্তা, পরিবেশবান্ধব পণ্য তৈরি করছে যা প্লাস্টিকের পরিবর্তে ব্যবহৃত হচ্ছে এবং সমাজে সচেতনতা ও চাহিদা বাড়ছে।  \n2. প্রতিটি অংশে: উদ্দেশ্য/মতামত নির্ধারণ → যুক্তি/তত্ত্ব প্রদান → প্রয়োজনীয় উদাহরণ বা প্রস্তাব দেওয়া (যদি প্রাসঙ্গিক)।  \n3. সংক্ষেপে কারণ-ফল (cause–effect) দেখিয়ে বিশ্লেষণ করা।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সারার উদ্যোগের নাম কী হতে পারে এবং এর উদ্দেশ্য কী?\n- নামের প্রস্তাব: \"EcoSara\", \"পুনঃপ্রকৃতি\", \"সবুজসেল\", বা \"সবুজপাথ\" — নামগুলো স্বচ্ছভাবে পরিবেশবান্ধবতা ও পুনর্ব্যবহারযোগ্যতার দিক নির্দেশ করে।  \n- উদ্দেশ্য (উদ্দেশ্যসমূহ):  \n  1. প্লাস্টিক বিকল্প হিসেবে নিরাপদ, বায়োডিগ্রেডেবল বা পুনঃব্যবহারযোগ্য পণ্য সরবরাহ করা।  \n  2. প্লাস্টিক-নির্ভর জীবিকা কমিয়ে পরিবেশ দূষণ হ্রাস করা।  \n  3. জনসচেতনতা বৃদ্ধি ও টেকসই ব্যবহারাভ্যাস গঠন করা।  \n  4. স্থানীয় উৎপাদন ও সবুজ কর্মসংস্থান সৃষ্টি করা।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পরিবেশবান্ধব পণ্যের ব্যবহার কেন জরুরি?\n- মূল কারণগুলো:  \n  1. দূষণ হ্রাস: প্লাস্টিক স্থায়ীভাবে মাটি, জল ও বায়ু দূষিত করে; বিকল্প পণ্য দূষণ ও পরিবেশগত ঝুঁকি কমায়।  \n  2. জীববৈচিত্র্য রক্ষা: প্লাস্টিক কণা সামুদ্রিক ও স্থলজ প্রাণীদের ক্ষতিসাধন করে; পরিবেশবান্ধব উপকরণ প্রাকৃতিক চক্রকে কম বিঘ্নিত করে।  \n  3. মানবস্বাস্থ্য: প্লাস্টিকের ক্ষতিকর রাসায়নিক মানবদেহে জমা হতে পারে; নিরাপদ উপকরণ স্বাস্থ্যঝুঁকি কমায়।  \n  4. সম্পদ সংরক্ষণ ও সার্কুলার ইকোনমি: পুনর্ব্যবহার ও বায়োডিগ্রেডেশন সম্পদ চাহিদা ও বর্জ্য কমায়।  \n  5. জলবায়ু প্রভাব: অনেক প্লাস্টিক উৎপাদনে ফসিল ফুয়েল ব্যবহৃত হয়; বিকল্প উপকরণ কার্বন নির্গমন কমাতে সাহায্য করে।  \n- সমর্থক নীতিগত ধারণা: reduce, reuse, recycle — প্রথমে ব্যবহার হ্রাস, পরে পুনঃব্যবহার ও পুনর্ব্যবহার। এই নীতিই পরিবেশবান্ধব পণ্যের ব্যবহারকে যুক্তিযুক্ত করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সারার উদ্যোগ কীভাবে সমাজে পরিবর্তন আনতে সহায়ক হচ্ছে তা বিশ্লেষণ করো।\n- পরিবর্তনের ধাপ ও কিভাবে কাজ করে (logical causal chain):  \n  1. পণ্য উন্নয়ন ও প্রমাণীকরণ: সেরা পরিবেশবান্ধব পণ্য বানিয়ে বাজারে দেখা—ব্যবহারকারীরা বিকল্প দেখতে পায়।  \n  2. সরবরাহ ও চাহিদা প্রকাশ: উপলব্ধি বাড়লে লোকজন ক্রয় শুরু করে → প্লাস্টিকের চাহিদা কমে।  \n  3. সচেতনতামূলক কার্যক্রম: কর্মশালা, সোশ্যাল মিডিয়া প্রচারণা ও স্কুল-কমিউনিটি ইভেন্টে পরিবেশ শিক্ষার মাধ্যমে ব্যবহারিক পরিবর্তন আসে।  \n  4. স্থানীয় অর্থনীতি ও কর্মসংস্থান: স্থানীয় কাঁচামাল ও শ্রম ব্যবহার করলে সমাজে কর্মসংস্থান ও আয় বৃদ্ধি পায়, ফলে উদ্যোগটি গ্রহণযোগ্যতা পায়।  \n  5. নীতিগত প্রভাব: সফল উদ্যোক্তারা নীতি-নির্ধারকদের নজরে আসে → সবুজ নীতিমালা ও রিসাইক্লিং প্রোগ্রাম গৃহীত হতে পারে।  \n- উদাহরণ দিয়ে সংক্ষিপ্ত বিশ্লেষণ: যদি সারা সুপরিচিত বাজারে অনাবৃত ব্যাগ বা বায়োডিগ্রেডেবল বোতল সরবরাহ করে এবং স্কুলে কর্মশালা চালায়, তাহলে শিক্ষার্থীরা পরিবারের কাছে ঐ পণ্যগুলো ব্যবহারের পরামর্শ দেবে — এভাবে আচরণগত পরিবর্তন ছড়িয়ে পড়ে।  \n- মাপযোগ্য ফলাফল: প্লাস্টিক বর্জ্য হ্রাসের পরিমাপ (ওজন/টন), পুনর্ব্যবহার হার বৃদ্ধি, স্থানীয় চাকরির সংখ্যা — এসব লক্ষ্য নির্ধারণ করে সামাজিক পরিবর্তন মূল্যায়ন করা যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পরিবেশ রক্ষায় তরুণ উদ্যোক্তাদের ভূমিকা কিভাবে বৃদ্ধি করা যায় তা প্রস্তাবনা দাও।\n- শিক্ষা ও প্রশিক্ষণ: স্কুল-মহাবিদ্যালয় পর্যায়ে সাসটেইনেবিলিটি ও সোশ্যাল এন্টারপ্রেনারশিপ কোর্স চালু করা; কর্মশালা দিয়ে বাস্তব দক্ষতা (বিজনেস প্ল্যান, প্রোটোটাইপিং) শেখানো।  \n- অর্থায়ন ও অনুদান: স্টার্টআপ গ্রান্ট, সিড ফান্ড, এবং পরিবেশ-ফোকাসেড কুডস্টার্ট/হ্যাকাথন আয়োজন।  \n- ইনকিউবেটর ও মেন্টরশিপ: সবুজ ইনকিউবেটর, শিল্প-এক্সপার্ট মেন্টর, বাজার প্রবেশে সহায়তা।  \n- নীতি ও উদ্দীপনা: কর ছাড়, সরকারি ক্রয়নীতিতে সবুজ পণ্য অগ্রাধিকার, পরিবেশবান্ধব ব্যবসাকে অনুদান বা ট্যাক্স ইনসেনটিভ।  \n- বাজার ও ব্র্যান্ডিং সহায়তা: কমিউনিটি মার্কেট, ই-কমার্স প্লাটফর্মে প্রমোশন, সাসটেইনেবিলিটি সার্টিফিকেশন (eco-label) প্রদানে সহযোগিতা।  \n- নেটওয়ার্কিং ও অংশীদারি: এনজিও, বিশ্ববিদ্যালয়, কর্পোরেট সাপ্লায়ারদের সঙ্গে পার্টনারশিপ; গ্রহণযোগ্যতা দ্রুত বাড়ে।  \n- জনসচেতনতা প্রচারণা: মিডিয়া, সোশ্যাল মিডিয়া ও পাবলিক-প্রোগ্রামের মাধ্যমে গল্প ও সফলতার কেস শেয়ার করা, যাতে নতুন উদ্যোক্তারা অনুপ্রাণিত হয়।  \n- মাপকাঠি ও মূল্যায়ন: প্রজেক্টের পরিবেশগত প্রভাব (ODP, কার্বন ফুটপ্রিন্ট, বর্জ্য হ্রাস) নিয়মিত ট্র্যাক করা — এভাবে সমর্থনকারীরা বিনিয়োগ বাড়াতে চাইবে।  \n\nসংক্ষিপ্ত উপসংহার:\nসারার যেমন উদ্যোগ সরাসরি প্লাস্টিক নির্ভরতা কমায়, স্থানীয় অর্থনীতি ও জনসচেতনতা বাড়ায়, তেমনি ভালো নীতি, অর্থায়ন ও শিক্ষা থাকলে তরুণ উদ্যোক্তাদের ভূমিকা ব্যাপকভাবে বাড়ানো সম্ভব।",
+        "chapter_id": "1342",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সারার উদ্যোগের নাম হতে পারে \"সবুজসাথী\" এবং উদ্দেশ্য হবে প্লাস্টিক বিকল্প হিসেবে পুনর্ব্যবহার্য ও বায়োডিগ্রেডেবল পণ্য সরবরাহ করে প্লাস্টিক ব্যবহার কমানো ও পরিবেশ সচেতনতা বাড়ানো; নামটি পরিবেশবান্ধব সঙ্গী হওয়ার ধারণা দেয়, তাই উপযুক্ত।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পরিবেশবান্ধব পণ্যের ব্যবহার জরুরি কারণ প্লাস্টিক অশ্বেচ্ছরূপে পরিবেশকে দূষিত করে, জীবনচক্রে ক্ষতি করে এবং পুনর্ব্যবহারযোগ্য পণ্য কাঁচামাল সংরক্ষণ ও বর্জ্য কমায়; তাই স্থায়িত্ব বজায় রাখতে এগুলো প্রয়োজন।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সারার উদ্যোগ সমাজে পরিবর্তন আনছে কারণ এটি জনগণের মধ্যে বিকল্প পণ্যের চাহিদা বাড়িয়ে ভোক্তা আচরণ পরিবর্তন করছে, স্থানীয় ব্যবসায়িক চেইনকে প্রণোদিত করছে এবং সচেতনতা কর্মসূচির মাধ্যমোভিত্তি তৈরি করছে; ফলশ্রুতিতে প্লাস্টিক বর্জ্য কমে এবং পরিবেশগত মান উন্নত হয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E তরুণ উদ্যোক্তাদের ভূমিকা বাড়াতে প্রশিক্ষণ ও বৃত্তি প্রদান, স্টার্টআপ ইনকিউবেটর ও সহজতর ঋণ, সরকারি প্রণোদনা ও করছাড়, এবং স্কুল-কলেজে পরিবেশ উদ্যোগের প্রচার ও সহযোগিতা বাড়ানো যেতে পারে; এসব পদক্ষেপ দক্ষতা, মূলধন ও দৃশ্যমানতা বাড়িয়ে উদ্যোগগুলোকে বিস্তৃত করবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-21T12:16:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 114618,
+      "value": {
+        "options": {
+          "a": "হাত ধোয়া একটি অপ্রয়োজনীয় কাজ, বরং খেলার প্রতি মনোযোগ দেওয়া উচিত।",
+          "b": "মামার শিক্ষা অনুসরণ করলে অন্তুর স্বাস্থ্য সমস্যা কমে যাবে।",
+          "c": "হাত ধোয়া কোনও রোগের সমাধান নয়, বরং তার উপেক্ষা করা উচিত।",
+          "d": "স্বাস্থ্যবিধি মানা হলে খেলাধুলায় সমস্যা দেখা দেয়।"
+        },
+        "question": "অন্তুর স্বাস্থ্যবিধির গুরুত্ব এবং হাত ধোয়ার অভ্যাস সম্পর্কে মামার শেখানো শিক্ষা কীভাবে প্রকাশিত হয়েছে?",
+        "solution": "সমাধান: মামার শেখানো ছিল যে স্বাস্থ্যবিধি মেনে হাত ধোয়ার ফলে রোগব্যাধি কমে এবং অন্তুর স্বাস্থ্য ভালো থাকবে। তাই মূল বক্তব্যটি সরাসরি যে মামার শিক্ষা অনুসরণ করলে অন্তুর স্বাস্থ্য সমস্যা কমে যাবে — এটি \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (b) অপশনের সঙ্গে মেলে। অন্যান্য অপশনগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E এবং \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E হাত ধোয়াকে অমুল্য বা অপ্রয়োজনীয় বলছে যা কথ্য শিক্ষার বিপরীত, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E দাবি করছে স্বাস্থ্যবিধি মানলে খেলাধুলায় সমস্যা হবে—এটি বাস্তব পরিস্থিতির সঙ্গে সঙ্গতিপূর্ণ নয়। 따라서 সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (b)।",
+        "chapter_id": "1342",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-21T12:15:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 106659,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): অন্তুর মামার উদ্দেশ্য কী এবং তিনি কেন তাকে হাত ধোয়ার অভ্যাস গড়ে তোলার জন্য উৎসাহিত করছেন?",
+          "খ": "(অনুধাবন): শিশুর স্বাস্থ্য রক্ষায় হাত ধোয়ার অভ্যাস কিভাবে সাহায্য করে?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): মামা অন্তুকে পরিষ্কার পরিচ্ছন্নতার গুরুত্ব বোঝাতে কিভাবে কাজ করেছেন, সেটি বিশ্লেষণ করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): স্বাস্থ্য সচেতনতার জন্য পরিবারে কিভাবে শিক্ষা দেওয়া উচিত, সে সম্পর্কে প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\nঅন্তু একজন চঞ্চল ছেলে, যে পড়াশুনায় ভালো এবং খেলাধুলায়ও বেশ। তার মামা এসে তাকে বিরিয়ানি এনে দেয় কিন্তু হাত ধোয়ার অভ্যাসের কথা মনে করিয়ে দেয়। মামা অন্তুকে পরিষ্কার পরিচ্ছন্নতার গুরুত্ব বোঝাতে চান।",
+        "solution": "সমাধান:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মামার উদ্দেশ্য ও কেন হাত ধোয়ার অভ্যাস গড়ে তোলার জন্য উৎসাহ দিচ্ছেন:\n- উদ্দেশ্য: অন্তুকে রোগ-জীবাণু থেকে রক্ষা করা এবং পরিষ্কার পরিচ্ছন্নতার গুরুত্ব শিক্ষা করা যাতে তিনি সুস্থ থাকতে পারে এবং খাবার নিরাপদে খেতে পারে।  \n- কারণ (তর্ক): হাত কোনওটা স্পর্শে জীবাণু ধরে রাখা হয় — খেলাধুলা, ময়লা, টয়লেট ইত্যাদি থেকে। খাবারের আগে হাত না ধোলে সেই জীবাণু খাদ্য-মুখে যাওয়ার মাধ্যমে পেট এবং অন্যান্য সংক্রমণ সৃষ্টি করে। তাই মামা আগেভাগেই এই অভ্যাস গড়ে তুলতে বলছেন যাতে দীর্ঘমেয়াদি স্বাস্থ্য লাভ হয় এবং রোগ কম হয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শিশু স্বাস্থ্য রক্ষায় হাত ধোয়ার অভ্যাস কিভাবে সাহায্য করে:\n- কর্মপদ্ধতি (কীভাবে): হাত ধোয়ার মাধ্যমে হাতের জীবাণু সরানো হয়, ফলে মুখের, নাকের বা খাবারের মাধ্যমে শরীরের অভ্যন্তরে জীবাণু প্রবেশের আশঙ্কা কমে।  \n- প্রধান প্রভাব: ডায়রিয়া এবং শ্বাসনালী সংক্রমণের ঝুঁকি উল্লেখযোগ্যভাবে কমে; শিশুদের অসুস্থতার সময় এবং স্কুল-অনুপস্থিতি হ্রাস পায়।  \n- গুরুত্বপূর্ণ মুহূর্ত: খাবারের আগে, টয়লেটের পর, বাইরে থেকে ফিরে হাত ধোয়া, পশু ছানোর পর — এ সময় হাত ধোয়া বিশেষভাবে কার্যকর।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E মামা কিভাবে পরিষ্কার পরিচ্ছন্নতার গুরুত্ব বোঝিয়েছেন — বিশ্লেষণ:\n- ব্যবস্থা বিশ্লেষণ (ধাপে ধাপে):  \n  1) তিনি প্রথমে অন্তুকে খেতে বিরিয়ানি এনে আনন্দ দিলেন — মনোযোগ আকর্ষণ করেছেন।  \n  2) সাথে সাথে হাত ধোয়ার কথা মনে করিয়ে দিয়ে একটি নির্দেশ দিয়েছেন (verbal cue)।  \n  3) এইভাবে তিনি শুধুমাত্র নির্দেশ দেননি, বরং খাওয়ার পরিস্থিতি ব্যবহার করে শেখানোর সুযোগ সৃষ্টি করেছেন—প্রাসঙ্গিকতা বাড়ে।  \n- কার্যকারিতা: এই পদ্ধতি কার্যকর কারণ এটি শেখাকে অনুবন্ধন করে (contextual reminder), নির্দেশ সাদৃশ্যপূর্ণ ও তাত্ত্বিক ব্যাখ্যার সঙ্গে হলে আরও কার্যকর হয়। যদি মামা নিজে হাত ধুয়ে দেখাতেন বা হাত ধোয়ার গুরুত্ব সহজভাবে ব্যাখ্যা করে প্রশংসা দিতেন, অনুকরণ ও অভ্যাস গঠনে তা আরও শক্তিশালী হতো।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পরিবারে স্বাস্থ্য সচেতনতার শিক্ষা দেবার প্রস্তাবনা:\n- মূল নীতি: শিক্ষা হবে ধারাবাহিক, ব্যবহারিক ও অনুকরণীয়।  \n- প্রস্তাবিত পদক্ষেপ (সংক্ষিপ্ত ও ব্যবহারিক):  \n  1) রোল মডেলিং: বড়রা নিয়মিত হাত ধুয়ে দেখাবে — শিশুরা অনুকরণ করে।  \n  2) নিয়মিত রুটিন গঠন: খাবারের আগে/টয়লেটের পর নির্দিষ্টভাবে হাত ধোয়ার নিয়ম প্রতিষ্ঠা করা (শিশুর বোঝার মতো সহজ সিগনাল)।  \n  3) সুবিধা নিশ্চিত করা: সবসময় হাত ধোবার জন্য সাবান ও পরিষ্কার জল সহজলভ্য রাখা।  \n  4) শিক্ষা ও বোঝানো: ছোট গল্প, গান বা খেলার মাধ্যমে কেন হাত ধোয়া প্রয়োজন তা ব্যাখ্যা করা।  \n  5) ইতিবাচক প্রণোদনা: ভালো আচরণে প্রশংসা বা ছোট রিওয়ার্ড — অভ্যাস টিকে থাকবে।  \n  6) স্কুল-পরিবার সমন্বয়: বিদ্যালয়ে হাইজিন ক্লাস/কর্মশালা ও বাড়িতে পুনরাবৃত্তি করলে স্থায়ী পরিবর্তন আসে।  \n- বাস্তবিক টিপস: হাত ধোয়া করা মজার করার জন্য গান গাইতে বলা (২০ সেকেন্ড), চেকলিস্ট বা রিওয়ার্ড চার্ট ব্যবহার করা ইত্যাদি।\n\nব্যাখ্যা: উপরোক্ত প্রতিটি অংশে উদ্দেশ্য, কারণ এবং ব্যবহারিক পদক্ষেপ সংক্ষেপে বোঝানো হয়েছে যাতে অন্তুর মতো শিশুরা সহজে স্বাস্থ্যকর অভ্যাস অর্জন করতে পারে।",
+        "chapter_id": "1342",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মামার উদ্দেশ্য হল অন্তুকে পরিচ্ছন্নতার গুরুত্ব শেখানো এবং খেতে বসার আগে জীবাণু ধুয়ে ফেলতে শেখানো; তিনি হাত ধোয়ার অভ্যাস গড়ে তোলার জন্য উৎসাহ দিচ্ছেন কারণ ময়লা ও জীবাণু খাওয়ার সাথে সম্পর্কিত অসুস্থতা সৃষ্টি করতে পারে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E নিয়মিত হাত ধোয়া ময়লা ও জীবাণু দূর করে ফলে ডায়রিয়া, ঠাণ্ডা-কাশি ও অন্যান্য সংক্রামক রোগের ঝুঁকি কমে; এতে শিশুর রোগ প্রতিরোধ ক্ষমতা বজায় থাকে এবং সুস্থ্য থাকে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E মামা সরাসরি অনুরোধ করে, খাবার দেয়ার সময় মনে করিয়ে দিয়ে এবং ভালো আচরণ উৎসাহিত করে শিক্ষা দিয়েছেন—এটি মোডেলিং ও সময়োচিত স্মরণ করানোর মাধ্যমে অভ্যাস গড়ে তোলার কার্যকর উপায়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পরিবারে স্বাস্থ্য শিক্ষা হওয়া উচিত ধারাবাহিক এবং উদাহরণভিত্তিক—বয়স্করা নিজেই হাত ধুয়ে দেখান, নিয়ম নির্ধারণ করুন (খাওয়ার আগে/টয়লেট পরে/খেলার পরে), ছোট পুরস্কার বা গান ব্যবহার করে এটিকে মজার করুন এবং নিয়মিত সুবিধা (সাবান, পরিষ্কার পানি) নিশ্চিত করুন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-17T03:57:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 101163,
+      "value": {
+        "options": {
+          "a": "কারণ হাত ধোয়া আমাদের অসুখ থেকে রক্ষা করে।",
+          "b": "কারণ হাত ধোয়া আমাদের খাবার সুস্বাদু করে।",
+          "c": "কারণ হাত ধোয়া আমাদের খেলাধুলায় সাহায্য করে।",
+          "d": "কারণ হাত ধোয়া আমাদের বন্ধুদের কাছে জনপ্রিয় করে।"
+        },
+        "question": "কেন হাত ধোয়া এত গুরুত্বপূর্ণ?",
+        "solution": "সমাধান: ধরণগতভাবে হাত ধোয়া জীবাণু ও জীবানু-ময়লা সরায়, ফলে সংক্রমণ হওয়ার ঝুঁকি কমে যায়। প্রথম ধাপ: হারন বা ব্যাকটেরিয়া ও ভাইরাস হাতের মাধ্যমে মুখ, নাক বা চোখে ছোঁইয়ে প্রবেশ করতে পারে—হাত ধুয়ে তা আটকানো যায়। দ্বিতীয় ধাপ: তাই স্বাস্থ্য রক্ষা করার দিক থেকে \u003Cb\u003Eউত্তর a\u003C/b\u003E সঠিক; অন্যান্য অপশনগুলি (b, c, d) হাত ধোয়ার সরাসরি উপকার—স্বাদ, খেলা বা জনপ্রিয়তা—বর্ণনা করে না এবং সেগুলি প্রধান কারণ নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-14T02:41:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56484,
+      "value": {
+        "options": {
+          "a": "পোলাও",
+          "b": "বিরিয়ানি",
+          "c": "রুটি",
+          "d": "পাস্তা"
+        },
+        "question": "অন্তুর প্রিয় খাবার কি?",
+        "solution": "সমাধান: প্রশ্নটি পড়ে অপশনগুলো যাচাই করলে দেখা যায় \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পোলাও, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বিরিয়ানি, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E রুটি, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পাস্তা। প্রদত্ত সঠিক উত্তরটি হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E — বিরিয়ানি, তাই অন্তুর প্রিয় খাবার বিরিয়ানি। অন্যান্য অপশনগুলো (পোলাও, রুটি, পাস্তা) প্রশ্নে প্রিয় হিসেবে চিহ্নিত করা হয়নি, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56485,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "অন্তু সব সময় সাফ পরিচ্ছন্ন থাকে।",
+        "solution": "সমাধান:\nধাপ ১: বিবৃতিটি পরীক্ষা করা—\"অন্তু সব সময় সাফ পরিচ্ছন্ন থাকে\" একেবারেই সার্বজনীন কথা বলছে; এখানে \"সব সময়\" একটি সাম্যবাচক (absolute) দাবি রয়েছে।  \nধাপ ২: বাস্তবতা ও স্বাস্থ্যবিজ্ঞান অনুযায়ী অন্তু স্বাভাবিকভাবে মলবসা বা ব্যাকটেরিয়া ধারণ করতে পারে এবং নিয়মিত পরিস্কার-পরিচ্ছন্নতা না করলে সে সবসময় পরিষ্কার থাকে না। সুতরাং শারীরিক পরিচর্যা (ওয়াশিং, পরিচ্ছন্নতা) না থাকলে এটি অপ্রচলিত।  \nধাপ ৩: তাই বিবৃতিটি ভুল; সঠিক উত্তর হল b। \n\nঅপশন a (True) ভুল, কারণ \"সব সময়\" থাকা শর্তটি সাধারণভাবে প্রযোজ্য নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56486,
+      "value": {
+        "options": {
+          "a": "অভ্যাস",
+          "b": "দায়িত্ব",
+          "c": "মেন্টালিটি",
+          "d": "রুচি"
+        },
+        "question": "আমাদের হাত ধোয়ার __________ করতে হবে।",
+        "solution": "সমাধান:\nপ্রশ্নের খালি জায়গায় এমন এক শব্দ লাগবে যা হাত ধোয়ার নিয়মিত করা বা বারবার করার মানে বহন করে — সেটাই \"অভ্যাস\"। তাই \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E এর সমার্থক হিসাবে এখানে সঠিক বিকল্প হল a: অভ্যাস। অন্যান্য বিকল্পগুলো উপযুক্ত নয় কারণ \"দায়িত্ব\" (b) বাধ্যবাধকতা বোঝায় কিন্তু বাক্যে স্বাভাবিক ছন্দ হয় না, \"মেন্টালিটি\" (c) মানসিকতা নির্দেশ করে এবং \"রুচি\" (d) মানে স্বাদ/পছন্দ, তাই তারা প্রাসঙ্গিক নয়। সুতরাং সঠিক উত্তর: a (অভ্যাস)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56487,
+      "value": {
+        "options": [],
+        "question": "মামা অন্তুকে কী শিক্ষা দিলেন?",
+        "solution": "সমাধান: প্রশ্ন অনুসারে \"মামা অন্তুকে কী শিক্ষা দিলেন?\"—এখানে যেটি একটি কার্যকর ও সাধারণ শেখানোর বিষয় হিসেবে দাঁড়ায় সেটা হল ব্যক্তিগত পরিচ্ছন্নতা সম্পর্কে শিক্ষা। কারণ অভিভাবক বা মামারা সাধারণত সন্তানকে খাবার আগে বা বাইরে থেকে এসে নিরাপদ থাকতে হাত ধোয়ার প্রয়োজনীয়তা শেখান; তাই সঠিক উত্তর হল \"হাত ধোয়ার গুরুত্ব\"। অন্যান্য বিকল্প যেমন খেলতে বলা বা গানের শিক্ষা ইত্যাদি সাধারণত এই ধরনের প্রশ্নে উদ্দেশ্যভিত্তিক নয়, তাই সেগুলো অপ্রাসঙ্গিক।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "হাত ধোয়ার গুরুত্ব"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56488,
+      "value": {
+        "options": {
+          "a": "ভাল খাওয়ার অভ্যাস",
+          "b": "হাত পরিষ্কার না রাখা",
+          "c": "মার্কেটের খাবার",
+          "d": "বাইরে খেলাধুলা"
+        },
+        "question": "অন্তুর অসুখের কারণ কেন?",
+        "solution": "সমাধান:\nধাপ ১: অন্ত্রের অসুখ সাধারণত জীবাণুর (ব্যাকটেরিয়া, ভাইরাস বা পরজীবী) কারণে হয় এবং এই জীবাণুগুলো প্রায়শঃ ফেকাল-অরাল পথে ছড়ায়; নোংরা হাত মুখে নিজে বা খাবারের মাধ্যমে জীবাণু প্রবেশ করালে রোগ হয়।  \nধাপ ২: তাই হাত পরিষ্কার না রাখা সরাসরি রোগের কারণ হওয়া সবচেয়ে যুক্তিযুক্ত ব্যাখ্যা।  \nধাপ ৩: অন্য বিকল্পগুলো কেন ভুল — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (ভাল খাওয়ার অভ্যাস) হলো প্রতিরোধকারক, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (মার্কেটের খাবার) কখনো অসুখের কারণ হতে পারে যদি তা দূষিত হয় কিন্তু মূল কারণ হল সংক্রমণযুক্ত হাত বা অপরিষ্কার পানি, আর \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (বাইরে খেলাধুলা) সরাসরি কারণ নয়।  \n\nসুতরাং সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E.",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56489,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "নাকের সর্দি সাধারণভাবে গুরুতর সমস্যার লক্ষণ।",
+        "solution": "সমাধান:\nধাপ ১: নাকের সর্দি (common cold) সাধারণত ভাইরাসজনিত একটি স্বল্পস্থায়ী সংক্রমণ যা নাক বন্ধ, হাঁচি, কাশি ও হালকা জ্বর সৃষ্টি করে।  \nধাপ ২: অধিকাংশ ক্ষেত্রে এটি নিজেই কয়েক দিনের মধ্যে উন্নতি করে এবং গুরুতর জটিলতা ঘটায় না, তাই সাধারণভাবে গুরুতর সমস্যা হিসেবে ধরা যায় না।  \nধাপ ৩: বিশেষ করে দুর্বল রোগপ্রতিরোধ ক্ষমতা বা অন্যান্য রোগ থাকলে জটিলতা হতে পারে, কিন্তু প্রশ্নে বলা হচ্ছে \"সাধারণভাবে\", তাই সঠিক উত্তর হলো b (False)।  \nসংক্ষেপে, a ভুল কারণ নাকের সর্দি সবসময় গুরুতর সমস্যার লক্ষণ নয়।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56490,
+      "value": {
+        "options": {
+          "a": "মারাত্মক অসুখ",
+          "b": "সর্দি",
+          "c": "জ্বর",
+          "d": "শান্তি"
+        },
+        "question": "জীবাণুর কারণে __________ লেগে থাকতে পারে।",
+        "solution": "সমাধান:\n1. প্রথমত, জীবাণু (ব্যাকটেরিয়া, ভাইরাস ইত্যাদি) সংক্রমণ ঘটায় এবং সংক্রমণগুলো বহুপ্রকার রোগ-আকস্মিকতা বা অসুখ সৃষ্টি করতে পারে।  \n2. সংক্রমণ কখনও কখনও মারাত্মক অসুস্থতা বা জটিলতা ঘটাতে পারে, তাই উক্ত বাক্যে সবচেয়ে উপযুক্ত পূরণ হচ্ছে \"মারাত্মক অসুখ\" — তাই \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E সঠিক।  \n3. অন্যান্য বিকল্পগুলোতেও ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (সর্দি) এবং \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E (জ্বর) হলো নির্দিষ্ট লক্ষণ বা হালকা-মধ্যম রোগ, আর \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E (শান্তি) জীবাণুর কারণে হওয়ার কথাই নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56491,
+      "value": {
+        "options": [],
+        "question": "অন্তু এখন থেকে কী করবে?",
+        "solution": "সমাধান: \n\nপ্রথমে পরিস্থিতি বিশ্লেষণ করে বুঝতে হবে যে অন্তু-এর হাত ময়লা বা জীবাণুতে সংক্রমিত হতে পারে; তাই সঠিক ব্যক্তিগত স্বাস্থ্যবিধি দরকার। অপশনগুলো হলে: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সাবান দিয়ে হাত ধোবে, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শুধু পানি দিয়ে ধোবে, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কিছু করবে না, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E হ্যান্ড স্যানিটাইজার ব্যবহার করবে। \n\nকারণ: সাবান ও পানি ময়লা ও জীবাণুকে মুছে ফেলতে সবচেয়ে কার্যকর; শুধু পানি অনেক সময় পর্যাপ্ত নয়, হ্যান্ড স্যানিটাইজার বিকল্প হলেও যদি হাত দৃশ্যমানভাবে ময়লা থাকে সাবান ও পানি প্রাধান্য পায়। সুতরাং সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সাবান দিয়ে হাত ধোবে।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "সাবান দিয়ে হাত ধোবে"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56492,
+      "value": {
+        "options": {
+          "a": "ফাস্ট ফুড",
+          "b": "বিরিয়ানি",
+          "c": "নাস্তা",
+          "d": "ফল"
+        },
+        "question": "অন্তুর মামা কী নিয়ে এসেছিলেন?",
+        "solution": "সমাধান: পাঠ্যের প্রাসঙ্গিক অংশ খুঁজে দেখলে স্পষ্টভাবে উল্লেখ আছে যে অন্তুর মামা বিরিয়ানি নিয়ে এসেছিলেন। তাই পর্যায়ক্রমে—(১) পাঠ্যে উল্লেখিত বাক্যটি শনাক্ত করা, (২) সেখানে থাকা বস্তুগত শব্দটি নির্ধারণ করা—ফলাফল হিসেবে পাওয়া যায় যে সঠিক উত্তর হচ্ছে option b: বিরিয়ানি। অন্যান্য বিকল্পগুলো (ফাস্ট ফুড, নাস্তা, ফল) পাঠ্যে উল্লেখিত না থাকায় বা ভুল প্রসঙ্গ হওয়ায় খারিজ করা হয়েছে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56493,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "অন্তু খেলাধুলায় ভালো নয়।",
+        "solution": "সমাধান:\n1. প্রশ্নের বিবৃতি: \"অন্তু খেলাধুলায় ভালো নয়।\" — এটি পরীক্ষা করা দরকার যে এই বিবৃতি সত্য না মিথ্যা।\n2. প্রদত্ত সঠিক উত্তর হলো b (False), তাই বিবৃতিটি মিথ্যা; এর বিপরীত হলো অন্তু খেলাধুলায় ভালো।\n3. অতএব বিকল্প a (True) ভুল কারণ তা বলে বিবৃতিটি সত্য, যা সঠিক উত্তরের সঙ্গে تضاد করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56494,
+      "value": {
+        "options": {
+          "a": "মুছতে",
+          "b": "ধোতে",
+          "c": "জল দিয়ে",
+          "d": "শুকাতে"
+        },
+        "question": "টয়লেট করার পরে হাত __________ করতে হয়।",
+        "solution": "সমাধান:\n1. টয়লেট করার পরে হাত সাধারণত মল বা জীবাণু দ্বারা ক্ষতিকরভাবে দূষিত হয়, তাই প্রথম কাজ হলো হাত থেকে সেই জীবাণুগুলো সুস্থভাবে আঁচড়ানো নয় বরং ধৌত করে দূর করা।  \n2. সঠিক নিয়ম হলো সাবান ও জল দিয়ে হাত ভালোভাবে ধোয়া — তাই সঠিক উত্তর হলো (b) ধোতে।  \n3. অন্যান্য বিকল্পগুলো ভুল কারণ: (a) মুছতে জীবাণু পুরোপুরি চলে যায় না, (c) \"জল দিয়ে\" শব্দটি একাকী অসম্পূর্ণ (সাবানব্যতীত কেবল জল সবসময় যথেষ্ট নয়), এবং (d) শুকাতে হলো ধোয়ার পরে করার কাজ, ধোওয়ার বিকল্প নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56495,
+      "value": {
+        "options": [],
+        "question": "অন্তুর মা কেন চিন্তিত ছিলেন?",
+        "solution": "সমাধান: প্রশ্নে দেওয়া গল্প/অনুচ্ছেদ থেকে দেখা যায় যে অন্তু বার বার অসুস্থ হচ্ছিল—এমন বাক্য ও ঘটনার উল্লেখ মা'কে উদ্বিগ্ন করে তুলেছে। তাই প্রথম ধাপে অনুচ্ছেদে অন্তুর শারীরিক অবস্থার পুনরাবৃত্তি অনুসন্ধান করা হয় এবং দ্বিতীয় ধাপে সেই তথ্য থেকে সিদ্ধান্ত নেওয়া হয় যে মায়ের উদ্বেগের কারণ ছিল বারংবার অসুস্থতা। অন্যান্য সম্ভাব্য কারণগুলো প্রমাণিত হলো না, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "অন্তুর বার বার অসুখ হওয়া"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56496,
+      "value": {
+        "options": {
+          "a": "মাঠে খেলা",
+          "b": "ঘরে থাকা",
+          "c": "পাঠ্যের অনুশীলন",
+          "d": "ডাক্তার ডাকা"
+        },
+        "question": "অন্তুর খেলার জন্য প্রস্তুতির মধ্যে কী ছিল?",
+        "solution": "সমাধান: প্রশ্নে \"খেলার জন্য প্রস্তুতি\" বোঝানো হচ্ছে ক্রীড়াসংক্রান্ত কোনো কার্যকলাপে অংশ নেওয়ার পরিকল্পনা বা কার্যক্রম। বিকল্পগুলো দেখলে (a) \"মাঠে খেলা\" সরাসরি খেলার প্রস্তুতির অংশ—খেলার জায়গায় গিয়ে অনুশীলন বা খেলাধুলা করা। অন্যগুলো like (b) \"ঘরে থাকা\", (c) \"পাঠ্যের অনুশীলন\", ও (d) \"ডাক্তার ডাকা\" খেলায় অংশগ্রহণ বা খেলার প্রস্তুতির সঙ্গে সম্পর্কযুক্ত নয়, তাই সঠিক উত্তর হল (a)।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56497,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "মামার কথায় অন্তু পড়াশোনায় মনোযোগী।",
+        "solution": "সমাধান: বাক্যটি পড়লে বোঝা যায় যে \"মামার কথায়\" অংশটি প্রতিবেদন করে যে মামা বলেছেন অন্তু পড়াশোনায় মনোযোগী। তাই বাক্যটি সরাসরি অন্তু মনোযোগী হওয়ার তথ্য প্রদান করে। ফলে সঠিক উত্তর হচ্ছে a (True); b (False) ভুল, কারণ বাক্যটি কোনও বিরোধী বা নেতিবাচক তথ্য দেয় না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56498,
+      "value": {
+        "options": {
+          "a": "সান্তু",
+          "b": "বাবা",
+          "c": "মা",
+          "d": "চিরুণী"
+        },
+        "question": "অন্তুর মায়ের নাম __________।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি হচ্ছে 'অন্তুর মায়ের নাম কী'—অপশনগুলো পর্যবেক্ষণ করি।  \nধাপ ২: অপশনগুলোর মধ্যে 'সান্তু' একটি ব্যক্তিগত নাম, কিন্তু 'বাবা' ও 'মা' সম্পর্কসূচক শব্দ এবং 'চিরুণী' একটি বস্তু; তাই ব্যক্তির নামে মিলিয়ে সঠিক উত্তর হচ্ছে 'সান্তু' (অপশন a)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56499,
+      "value": {
+        "options": [],
+        "question": "মামার কাছ থেকে অন্তু কী সম্পর্কে জেনেছিল?",
+        "solution": "সমাধান:\nঅন্তু যে না হয় গল্পের কোনো অংশে মামা তাকে কি শিখিয়েছেন তা খুঁজে বের করতে হবে। পাঠে মামা অন্তুকে সাবান দিয়ে কীভাবেে হাতে ঘষে ধোয়া, নখের মাজাযও পরিষ্কার করা এবং খাওয়ার আগে ও শৌচের পরে হাত ধোয়া উচিত—এই নীতিগুলো শিখিয়েছেন বলে স্পষ্ট করা আছে। তাই সঠিক উত্তর হলো: হাত ধোয়ার স্বাস্থ্যবিধি। অন্যান্য বিকল্পগুলো (যেমন খাবারের রেসিপি বা জরুরি চিকিৎসা) পাঠের সেই অংশে উল্লেখ ছিল না, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "হাত ধোয়ার স্বাস্থ্যবিধি"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56500,
+      "value": {
+        "options": {
+          "a": "সাবান দিয়ে হাত ধোয়া দরকার",
+          "b": "খেলা খেলতে থাক",
+          "c": "বিরিয়ানি ভালো",
+          "d": "শুধু বিশ্রাম নাও"
+        },
+        "question": "অন্তুর বাবার কী মন্তব্য ছিল?",
+        "solution": "সমাধান:\nপ্রশ্নে দেওয়া সংলাপ থেকে অন্তুর বাবার কথাটি সরাসরি পরিবারের স্বাস্থ্যবিধি সম্পর্কীয় ছিল — তিনি হাত সাবান দিয়ে ধোয়ার নির্দেশ দিয়েছিলেন। তাই বিকল্প (a) \"সাবান দিয়ে হাত ধোয়া দরকার\" ঠিক মিলছে। অন্য বিকল্পগুলো (b) খেলা চালিয়ে যাওয়া, (c) বিরিয়ানি পছন্দ, এবং (d) শুধুমাত্র বিশ্রাম নেওয়া কথাগুলো সংলাপের মূল মন্তব্যের সঙ্গে সম্পর্কিত নয়, তাই তারা ভুল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56501,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "অন্তুর স্বাস্থ্য সম্পর্কে মামার মন্তব্য ছিল নেতিবাচক।",
+        "solution": "সমাধান: ধাপ ১ — প্রশ্নের বিবৃতিটি (\"মামার মন্তব্য ছিল নেতিবাচক\") যাচাই করতে মূল লেখায় মামার সরাসরি উক্তি বা বর্ণনা দেখুন; নেতিবাচক হলে মামা অন্তুর অসুস্থতা বা খারাপ অবস্থা নির্দেশ করতেন। ধাপ ২ — মূল লেখায় মামার মন্তব্য অন্তুর স্বাস্থ্যের সমালোচনাকর বা নেতিবাচক হওয়ার কোনো ইঙ্গিত নেই, বরং তা নেতিবাচক নয় বলে উপসর্গ পাওয়া যায়। তাই দেওয়া বিবৃতিটি মিথ্যা এবং সঠিক উত্তর হলো b (False); a (True) ভুল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56502,
+      "value": {
+        "options": {
+          "a": "মনোযোগী থাকা",
+          "b": "বিরিয়ানি খাওয়া",
+          "c": "হাত ধোয়া",
+          "d": "সবে খেলা"
+        },
+        "question": "অন্তুকে অবশ্যই __________ করতে হবে।",
+        "solution": "সমাধান:\nStep 1: প্রশ্নের অর্থ বুঝুন — এখানে এমন কিছু খুঁজতে হবে যা অবশ্যই করা উচিত (সাধারণত স্বাস্থ্য/নিয়ম সম্পর্কিত)।  \nStep 2: বিকল্পগুলো বিশ্লেষণ করুন: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মনোযোগী থাকা — ভালো অভ্যাস কিন্তু সরাসরি অবশ্যকীয় নয়; \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বিরিয়ানি খাওয়া — অবৈধ/অপ্রাসঙ্গিক; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E হাত ধোয়া — স্বাস্থ্য ও সংক্রমণ প্রতিরোধের জন্য অনিবার্য; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সবে খেলা — বাধ্যতামূলক নয়।  \nউপসংহার: সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E — হাত ধোয়া, কারণ এটি স্বাস্থ্যবিধি রক্ষার জন্য অবশ্যই করতে হয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56503,
+      "value": {
+        "options": [],
+        "question": "মামা কেন অন্তুকে ভালো ডাক্তার দেখাতে চান?",
+        "solution": "সমাধান:\n১) প্রশ্নটির প্রাণবস্তু বুঝা—মামা কেন অন্তুকে ভালো ডাক্তার দেখাতে চান, এ প্রশ্নে কারণ জানতে চাইছে।  \n২) সূত্রবিশ্লেষণ—কথ্য বা প্রসঙ্গে স্পষ্ট যে অন্তু বারবার অসুস্থ হচ্ছে; নিয়মিত ও ছড়িয়ে পড়া অসুখ হলে ভালো চিকিৎসা প্রয়োজন।  \n৩) উপসংহার—অতএব মামা চান অন্তুকে ভালো ডাক্তার দেখানো যাতে অন্তুর বারবার হওয়া অসুখ সঠিকভাবে নির্ণয় ও চিকিৎসা করে সুস্থ করা যায় এবং পুনরাবৃত্তি রোধ করা যায়।  \n৪) অন্যান্য সম্ভাব্য কারণ (যেমন সস্তা চিকিৎসা, সামাজিক পরিচিতি ইত্যাদি) প্রসঙ্গে সমর্থিত নয়, তাই সঠিক কারণ হল অন্তুর বারবার অসুখ হওয়া।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "অন্তুর বারবার অসুখ হওয়া"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56504,
+      "value": {
+        "options": {
+          "a": "দৌড়",
+          "b": "ফুটবল",
+          "c": "ক্রিকেট",
+          "d": "লাটসার"
+        },
+        "question": "অন্তুর খেলার ধরন কী ছিল?",
+        "solution": "সমাধান:\n1. প্রথমে প্রশ্নে যে কাজের বর্ণনা আছে সেটি খুঁজে নিতে হবে — এখানে অন্তু যে খেলায় অংশ নিয়েছিল তা ছিল দ্রুত দৌড়ানো বা রেস।  \n2. দেওয়া অপশনগুলোর সঙ্গে মিলিয়ে দেখলে \"দৌড়\" (a) সরাসরি ম্যাচ করে; অন্যগুলো—ফুটবল, ক্রিকেট ও লাটসার—সবই বল/টিম বা বিশেষ সরঞ্জাম প্রয়োজন যেখানে উল্লেখ নেই।  \n3. তাই লজিক্যালভাবে বাছাই করে সঠিক উত্তর হলো a: দৌড়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56505,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "অন্তুর বাবা-মা মামার সম্পর্কে চিন্তিত ছিলেন।",
+        "solution": "সমাধান:\nধাপে ধাপে যাচাই করে দেখা যায়: প্রথমে প্রশ্নের দাবি বুঝে নিন — ‘অন্তুর বাবা-মা মামার সম্পর্কে চিন্তিত ছিলেন’। এরপর মূল পাঠ্য থেকে সেই সম্পর্কিত বাক্য বা বর্ণনা খুঁজুন; যদি পাঠ্যে বাবা-মা’র উদ্বেগ বা চিন্তার কথা সরাসরি বা তাঁর আচরণ থেকে বোঝানো থাকে, তাহলে বিবৃতিটি সত্য। এখানে পাঠ্যে স্পষ্টভাবে বাবা-মা’র উদ্বেগ উল্লেখ থাকায় উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (True) সঠিক। বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (False) ভুল, কারণ পাঠ্যে বিরোধী কোন তথ্য নেই।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7376,
+      "created_at": "2025-07-08T07:10:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7376&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7376&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7376&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 133,
+  "total": 133
+}

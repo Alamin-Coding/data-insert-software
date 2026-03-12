@@ -1,0 +1,339 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746495,
+      "value": {
+        "options": {
+          "ক": "কৃষিকাজে",
+          "খ": "অসুস্থ হলে",
+          "গ": "রাস্তা তৈরিতে",
+          "ঘ": "বিশেষ রান্নায়"
+        },
+        "question": "নির্মাণ কাজে প্রকৌশলী গুরুত্বপূর্ণ দায়িত্ব পালন করেন। প্রকৌশলীর প্রয়োজন হয়-",
+        "solution": "গ. রাস্তা তৈরিতে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746496,
+      "value": {
+        "options": {
+          "ক": "আইনজীবী",
+          "খ": "চিকিৎসক",
+          "গ": "শিক্ষক",
+          "ঘ": "ফার্মাসিস্ট"
+        },
+        "question": "আমাদের আইনি সহায়তা দেন কে?",
+        "solution": "ক. আইনজীবী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746497,
+      "value": {
+        "options": {
+          "ক": "অফিসে",
+          "খ": "আদালতে",
+          "গ": "ক্ষেত-খামারে",
+          "ঘ": "কারখানায়"
+        },
+        "question": "চাকরির সাথে জড়িত তারা সাধারণত কোথায় কাজ করেন?",
+        "solution": "ক. অফিসে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746498,
+      "value": {
+        "options": {
+          "ক": "সবজি চাষ করা",
+          "খ": "ক্রয়-বিক্রয় করা",
+          "গ": "চাকরি করা",
+          "ঘ": "রাস্তা পরিষ্কার করা"
+        },
+        "question": "ব্যবসা ও বিক্রয় ব্যবস্থাপনার অন্যতম কাজ হচ্ছে-",
+        "solution": "খ. ক্রয়-বিক্রয় করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746499,
+      "value": {
+        "options": {
+          "ক": "প্রকৌশলী",
+          "খ": "আইনজীবী",
+          "গ": "ফার্মাসিস্ট",
+          "ঘ": "শিক্ষক"
+        },
+        "question": "আমাদের সুস্থ রাখতে কে ঔষধ তৈরি করেন?",
+        "solution": "গ. ফার্মাসিস্ট",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746500,
+      "value": {
+        "options": {
+          "ক": "শ্রমজীবী",
+          "খ": "পরিচ্ছন্নকর্মী",
+          "গ": "কারখানা শ্রমিক",
+          "ঘ": "শিক্ষক"
+        },
+        "question": "কোন ব্যক্তি বিশেষ দক্ষতা অর্জন না করলে এ পেশায় থাকতে পারেন না?",
+        "solution": "ঘ. শিক্ষক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746501,
+      "value": {
+        "options": {
+          "ক": "রিকশাচালক",
+          "খ": "ব্যবসায়ী",
+          "গ": "সেবামূলক কর্মী",
+          "ঘ": "ডাক্তার"
+        },
+        "question": "মানুষকে তথ্য সরবরাহ করে সাহায্য করেন-",
+        "solution": "গ. সেবামূলক কর্মী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746494,
+      "value": {
+        "options": {
+          "ক": "অনলাইনে",
+          "খ": "বিদেশে",
+          "গ": "স্থানীয়ভাবে",
+          "ঘ": "রাস্তায়"
+        },
+        "question": "আজকাল কোথায় বিক্রয় ব্যবস্থাপনা করা হয়?",
+        "solution": "ক. অনলাইনে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7394,
+      "created_at": "2025-11-27T09:30:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7394&grade=7&lesson=13437&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7394&grade=7&lesson=13437&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7394&grade=7&lesson=13437&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 8,
+  "total": 8
+}

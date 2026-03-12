@@ -1,0 +1,263 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746678,
+      "value": {
+        "options": {
+          "ক": "শেখ মুজিবুর রহমান",
+          "খ": "এ. কে. ফজলুল হক",
+          "গ": "হোসেন শহীদ সোহরাওয়ার্দী",
+          "ঘ": "মওলানা ভাসানী"
+        },
+        "question": "৬ দফা দাবি পেশ করেন কে?",
+        "solution": "ক. শেখ মুজিবুর রহমান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746679,
+      "value": {
+        "options": {
+          "ক": "মুসলিম লীগ",
+          "খ": "যুক্তফ্রন্ট",
+          "গ": "আওয়ামী লীগ",
+          "ঘ": "জামায়াতে ইসলামী"
+        },
+        "question": "বঙ্গবন্ধুর নেতৃত্বে ১৯৭০ সালের সাধারণ নির্বাচনে জয়লাভ করে একটি দল। উক্ত দলটি হলো-",
+        "solution": "গ. আওয়ামী লীগ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746680,
+      "value": {
+        "options": {
+          "ক": "ইয়াহিয়া খান",
+          "খ": "আইয়ুব খান",
+          "গ": "টিক্কা খান",
+          "ঘ": "ইস্কান্দার মির্জা"
+        },
+        "question": "'৬৯-এর গণঅভ্যুত্থানের ফলে পাকিস্তানের কোন প্রেসিডেন্ট পদত্যাগে বাধ্য হন?",
+        "solution": "খ. আইয়ুব খান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746681,
+      "value": {
+        "options": {
+          "ক": "শহিদ ড. শামসুজ্জোহা",
+          "খ": "শহিদ রফিক",
+          "গ": "শহিদ সালাম",
+          "ঘ": "শহিদ শফিউর"
+        },
+        "question": "৬৯-এর গণঅভ্যুত্থানে শহিদ হন কে?",
+        "solution": "ক. শহিদ ড. শামসুজ্জোহা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746682,
+      "value": {
+        "options": {
+          "ক": "১৯৫০ সালের",
+          "খ": "১৯৫৪ সালের",
+          "গ": "১৯৬৫ সালের",
+          "ঘ": "১৯৭০ সালের"
+        },
+        "question": "কত সালের নির্বাচনে যুক্তফ্রন্ট বিজয়ী হয়?",
+        "solution": "খ. ১৯৫৪ সালের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746683,
+      "value": {
+        "options": {
+          "ক": "৩০ জন",
+          "খ": "৩৫ জন",
+          "গ": "৩২ জন",
+          "ঘ": "৩৮ জন"
+        },
+        "question": "আগরতলা মামলার আসামি ছিলেন কয়জন?",
+        "solution": "খ. ৩৫ জন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7402&grade=7&lesson=13458&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7402&grade=7&lesson=13458&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7402&grade=7&lesson=13458&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}

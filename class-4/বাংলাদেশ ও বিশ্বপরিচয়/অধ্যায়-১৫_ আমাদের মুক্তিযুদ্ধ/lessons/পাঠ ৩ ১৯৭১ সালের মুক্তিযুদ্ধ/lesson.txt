@@ -1,0 +1,453 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746684,
+      "value": {
+        "options": {
+          "ক": "২৫শে মার্চ",
+          "খ": "২৬শে মার্চ",
+          "গ": "২৭শে মার্চ",
+          "ঘ": "২৮শে মার্চ"
+        },
+        "question": "বঙ্গবন্ধুর পক্ষে মেজর জিয়াউর রহমান কত তারিখে স্বাধীনতার ঘোষণা দেন?",
+        "solution": "গ. ২৭শে মার্চ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746685,
+      "value": {
+        "options": {
+          "ক": "২৫শে মার্চ",
+          "খ": "২৯শে মার্চ",
+          "গ": "১০ই এপ্রিল",
+          "ঘ": "১৪ই এপ্রিল"
+        },
+        "question": "কত তারিখে মুজিবনগর সরকার গঠিত হয়?",
+        "solution": "গ. ১০ই এপ্রিল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746686,
+      "value": {
+        "options": {
+          "ক": "শেখ মুজিবুর রহমান",
+          "খ": "তাজউদ্দীন আহমদ",
+          "গ": "সৈয়দ নজরুল ইসলাম",
+          "ঘ": "ক্যাপ্টেন মনসুর আলী"
+        },
+        "question": "মুজিবনগর সরকারের রাষ্ট্রপতি কে ছিলেন?",
+        "solution": "ক. শেখ মুজিবুর রহমান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746687,
+      "value": {
+        "options": {
+          "ক": "১০ লক্ষ",
+          "খ": "২০ লক্ষ",
+          "গ": "৩০ লক্ষ",
+          "ঘ": "৪০ লক্ষ"
+        },
+        "question": "মুক্তিযুদ্ধে কত লক্ষ মানুষ শহিদ হন?",
+        "solution": "গ. ৩০ লক্ষ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746688,
+      "value": {
+        "options": {
+          "ক": "২১শে ফেব্রুয়ারি",
+          "খ": "২৫শে মার্চ",
+          "গ": "২৬শে মার্চ",
+          "ঘ": "২৫শে এপ্রিল"
+        },
+        "question": "বাংলাদেশের ইতিহাসে কোন রাত কালরাত হিসেবে পরিচিত?",
+        "solution": "খ. ২৫শে মার্চ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746689,
+      "value": {
+        "options": {
+          "ক": "১৯৭১ সালের ১৬ই ডিসেম্বর",
+          "খ": "১৯৭১ সালের ২১শে ফেব্রুয়ারি",
+          "গ": "১৯৭১ সালের ২৬শে মার্চ",
+          "ঘ": "১৯৭১ সালের ২৫শে মার্চ"
+        },
+        "question": "কত তারিখ পর্যন্ত যুদ্ধ চলে?",
+        "solution": "ক. ১৯৭১ সালের ১৬ই ডিসেম্বর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746690,
+      "value": {
+        "options": {
+          "ক": "মেজর জিয়াউর রহমানের",
+          "খ": "শেখ মুজিবুর রহমানের",
+          "গ": "তাজউদ্দীন আহমদের",
+          "ঘ": "সৈয়দ নজরুল ইসলামের"
+        },
+        "question": "\"এবারের সংগ্রাম আমাদের মুক্তির সংগ্রাম\"- উক্তিটি কার?",
+        "solution": "খ. শেখ মুজিবুর রহমানের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746691,
+      "value": {
+        "options": {
+          "ক": "কালুরঘাট বেতারকেন্দ্র",
+          "খ": "চট্টগ্রাম বেতারকেন্দ্র",
+          "গ": "ঢাকা বেতারকেন্দ্র",
+          "ঘ": "কলকাতা বেতারকেন্দ্র"
+        },
+        "question": "২৬শে মার্চ মেজর জিয়াউর রহমান কোন বেতারকেন্দ্র থেকে স্বাধীনতার ঘোষণা দেন?",
+        "solution": "ক. কালুরঘাট বেতারকেন্দ্র",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746692,
+      "value": {
+        "options": {
+          "ক": "৬ মাস",
+          "খ": "৭ মাস",
+          "গ": "৮ মাস",
+          "ঘ": "৯ মাস"
+        },
+        "question": "কয় মাস ধরে মুক্তিযুদ্ধ চলে?",
+        "solution": "ঘ. ৯ মাস",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746693,
+      "value": {
+        "options": {
+          "ক": "৭ই জানুয়ারি",
+          "খ": "৯ই এপ্রিল",
+          "গ": "২৫শে মার্চ",
+          "ঘ": "৭ই মার্চ"
+        },
+        "question": "১৯৭১ সালের কত তারিখে ঢাকার রেসকোর্স ময়দানে এক বিশাল জনসভা অনুষ্ঠিত হয়?",
+        "solution": "ঘ. ৭ই মার্চ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746694,
+      "value": {
+        "options": {
+          "ক": "সৈয়দ নজরুল ইসলাম",
+          "খ": "তাজউদ্দীন আহমদ",
+          "গ": "শেখ মুজিবুর রহমান",
+          "ঘ": "খন্দকার মোশতাক আহমদ"
+        },
+        "question": "মুজিবনগর সরকারের প্রধানমন্ত্রী ছিলেন-",
+        "solution": "খ. তাজউদ্দীন আহমদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7402,
+      "created_at": "2025-11-27T09:37:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7402&grade=7&lesson=13459&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7402&grade=7&lesson=13459&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7402&grade=7&lesson=13459&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 11,
+  "total": 11
+}

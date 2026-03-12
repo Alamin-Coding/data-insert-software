@@ -1,0 +1,643 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747429,
+      "value": {
+        "options": {
+          "ক": "নিজেকে নিরাপদ রাখা",
+          "খ": "আহত ব্যক্তিকে স্থির রাখা",
+          "গ": "সাহায্য চাওয়া",
+          "ঘ": "আহত ব্যক্তিকে শান্ত রাখা"
+        },
+        "question": "প্রাথমিক চিকিৎসার প্রথম কাজ কী?",
+        "solution": "গ. সাহায্য চাওয়া",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747430,
+      "value": {
+        "options": {
+          "ক": "বরফ",
+          "খ": "পানি",
+          "গ": "বার্নল",
+          "ঘ": "নারিকেল তেল"
+        },
+        "question": "শরীরের পুড়ে যাওয়া স্থানে কী ব্যবহার করা যাবে না?",
+        "solution": "ক. বরফ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747431,
+      "value": {
+        "options": {
+          "ক": "বাসায় চলে আসব",
+          "খ": "খেলতে থাকব",
+          "গ": "তাকে সাহায্য করব",
+          "ঘ": "তাকে বাদ দিয়ে দিব"
+        },
+        "question": "তোমার বন্ধু খেলতে গিয়ে আহত হয়। এ অবস্থায় তুমি কী করবে?",
+        "solution": "গ. তাকে সাহায্য করব",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747432,
+      "value": {
+        "options": {
+          "ক": "২৮ বার",
+          "খ": "৩০ বার",
+          "গ": "৩২ বার",
+          "ঘ": "৩৪ বার"
+        },
+        "question": "পানিতে ডোবা ব্যক্তিকে কতবার বুকে চাপ দিতে হয়?",
+        "solution": "খ. ৩০ বার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747433,
+      "value": {
+        "options": {
+          "ক": "বরফ লাগাবে",
+          "খ": "ওঝা ডাকবে",
+          "গ": "মুখ দিয়ে বিষ বের করবে",
+          "ঘ": "তাকে স্থির অবস্থায় রাখবে"
+        },
+        "question": "কেয়ার বোনকে সাপে কেটেছে। ডাক্তার না আসা পর্যন্ত কেয়া কী করবে?",
+        "solution": "ঘ. তাকে স্থির অবস্থায় রাখবে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747434,
+      "value": {
+        "options": {
+          "ক": "পানি",
+          "খ": "ঔষধ",
+          "গ": "কাপড়",
+          "ঘ": "বরফ"
+        },
+        "question": "সাপে কাটা স্থানে কী লাগানো যাবে না?",
+        "solution": "ঘ. বরফ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747435,
+      "value": {
+        "options": {
+          "ক": "৫ মিনিট",
+          "খ": "১০ মিনিট",
+          "গ": "১৫ মিনিট",
+          "ঘ": "৩০ মিনিট"
+        },
+        "question": "আগুনে পোড়া স্থানে কমপক্ষে কতক্ষণ ঠান্ডা পানি ঢালতে হবে?",
+        "solution": "খ. ১০ মিনিট",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747436,
+      "value": {
+        "options": {
+          "ক": "কান",
+          "খ": "নাক",
+          "গ": "মুখ",
+          "ঘ": "বুক"
+        },
+        "question": "রোগীর মুখে মুখ লাগিয়ে ফুঁ দেওয়ার সময় কী চেপে ধরতে হবে?",
+        "solution": "খ. নাক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747437,
+      "value": {
+        "options": {
+          "ক": "বায়ু",
+          "খ": "পানি",
+          "গ": "বিদ্যুৎ",
+          "ঘ": "আগুন"
+        },
+        "question": "মানবদেহের মধ্য দিয়ে কি প্রবাহিত হতে পারে?",
+        "solution": "গ. বিদ্যুৎ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747438,
+      "value": {
+        "options": {
+          "ক": "প্রতিবেশীর",
+          "খ": "গুরুজনের",
+          "গ": "ডাক্তারের",
+          "ঘ": "সাপুড়ের"
+        },
+        "question": "সাপে কাটলে যত দ্রুত সম্ভব কার পরামর্শ নিতে হবে?",
+        "solution": "গ. ডাক্তারের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747439,
+      "value": {
+        "options": {
+          "ক": "উপুড় করে",
+          "খ": "স্থির অবস্থায়",
+          "গ": "চিত করে",
+          "ঘ": "শোয়ানো"
+        },
+        "question": "সাপে কাটা রোগীকে যথাসম্ভব কী অবস্থায় রাখতে হবে?",
+        "solution": "খ. স্থির অবস্থায়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747440,
+      "value": {
+        "options": {
+          "ক": "মলম",
+          "খ": "স্যাভলন",
+          "গ": "নারিকেল তেল",
+          "ঘ": "পটাশ"
+        },
+        "question": "তোমার হাত সামান্য পুড়ে গেলে তুমি পানির সাথে কী মিশিয়ে লাগাবে?",
+        "solution": "গ. নারিকেল তেল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747441,
+      "value": {
+        "options": {
+          "ক": "মাথা",
+          "খ": "বুক",
+          "গ": "পা",
+          "ঘ": "থুতনি"
+        },
+        "question": "পানিতে ডোবা রোগীর কোনটি আলতো করে উপরে তুলে ধরতে হবে?",
+        "solution": "ঘ. থুতনি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747442,
+      "value": {
+        "options": {
+          "ক": "শুকনো কাঠ",
+          "খ": "ভেজা বাঁশ",
+          "গ": "রড",
+          "ঘ": "ভেজা কাঠ"
+        },
+        "question": "তোমার বন্ধু বিদ্যুৎস্পৃষ্ট হলে তুমি তাকে কোনটি ব্যবহার করে বিদ্যুতের উৎস থেকে আলাদা করবে?",
+        "solution": "ক. শুকনো কাঠ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747443,
+      "value": {
+        "options": {
+          "ক": "হৃৎপিন্ড",
+          "খ": "মাথা",
+          "গ": "নাক",
+          "ঘ": "কান"
+        },
+        "question": "সাপে কাটা স্থানটি শরীরের কোন অবস্থান থেকে যথেষ্ট নিচে রাখতে হবে?",
+        "solution": "ক. হৃৎপিন্ড",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747444,
+      "value": {
+        "options": {
+          "ক": "মোবাইল ফোন",
+          "খ": "লম্বা লাঠি",
+          "গ": "আগুন",
+          "ঘ": "পানি"
+        },
+        "question": "জঙ্গল বা ঝোপঝাড়ে যেতে অবশ্যই কী ব্যবহার করতে হবে?",
+        "solution": "খ. লম্বা লাঠি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7414,
+      "created_at": "2025-11-27T10:52:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7414&grade=7&lesson=13518&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7414&grade=7&lesson=13518&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7414&grade=7&lesson=13518&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 16,
+  "total": 16
+}

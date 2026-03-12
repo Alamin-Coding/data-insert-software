@@ -1,0 +1,339 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 747485,
+      "value": {
+        "options": {
+          "ক": "কমছে",
+          "খ": "শেষ হচ্ছে",
+          "গ": "বাড়ছে",
+          "ঘ": "পরিবর্তন হচ্ছে"
+        },
+        "question": "পৃথিবীর জনসংখ্যা ক্রমাগত-",
+        "solution": "গ. বাড়ছে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7416,
+      "created_at": "2025-11-27T10:54:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747486,
+      "value": {
+        "options": {
+          "ক": "চাষের জমি তৈরি",
+          "খ": "সামাজিক বনায়ন",
+          "গ": "অভয়ারণ্য তৈরি",
+          "ঘ": "কীটনাশক প্রয়োগ"
+        },
+        "question": "বনভূমি ধ্বংসের কারণ কোনটি?",
+        "solution": "ক. চাষের জমি তৈরি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7416,
+      "created_at": "2025-11-27T10:54:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747487,
+      "value": {
+        "options": {
+          "ক": "প্রাকৃতিক বিপর্যয়",
+          "খ": "জনসংখ্যা বৃদ্ধি",
+          "গ": "বোমা বর্ষণ",
+          "ঘ": "পর্যাপ্ত পানির অভাব"
+        },
+        "question": "আমাদের প্রাকৃতিক সম্পদ কমে যাওয়ার প্রধান কারণ কী?",
+        "solution": "খ. জনসংখ্যা বৃদ্ধি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7416,
+      "created_at": "2025-11-27T10:54:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747488,
+      "value": {
+        "options": {
+          "ক": "শিল্পকারখানা",
+          "খ": "পানি সম্পদ",
+          "গ": "প্রাকৃতিক সম্পদ",
+          "ঘ": "মৃত্তিকা সম্পদ"
+        },
+        "question": "তোমার বাবা বাগান কেটে একটি চাষের জমি তৈরি করল। এর ফলে কোনটির ধ্বংস সাধন হলো?",
+        "solution": "গ. প্রাকৃতিক সম্পদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7416,
+      "created_at": "2025-11-27T10:54:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747489,
+      "value": {
+        "options": {
+          "ক": "নতুন প্রাণীর সৃষ্টি",
+          "খ": "বৃষ্টিপাত বৃদ্ধি",
+          "গ": "গাছপালা ও পশু-পাখির বিলুপ্তি",
+          "ঘ": "নতুন বন সৃষ্টি"
+        },
+        "question": "বনভূমি ধ্বংসের ফলে কী হয়?",
+        "solution": "গ. গাছপালা ও পশু-পাখির বিলুপ্তি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7416,
+      "created_at": "2025-11-27T10:54:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747490,
+      "value": {
+        "options": {
+          "ক": "বন্যা",
+          "খ": "খরা",
+          "গ": "ঝড়",
+          "ঘ": "সবগুলো"
+        },
+        "question": "পরিবেশ ধ্বংসের ফলে কী ধরনের প্রাকৃতিক দুর্যোগ সৃষ্টি হচ্ছে?",
+        "solution": "ঘ. সবগুলো",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7416,
+      "created_at": "2025-11-27T10:54:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747491,
+      "value": {
+        "options": {
+          "ক": "প্রাকৃতিক বিপর্যয়",
+          "খ": "বিজ্ঞান ও প্রযুক্তির অগ্রগতি",
+          "গ": "মৌলিক চাহিদা বৃদ্ধি",
+          "ঘ": "অধিক ফসল উৎপাদন"
+        },
+        "question": "জনসংখ্যা বৃদ্ধির কারণ নিচের কোনটি?",
+        "solution": "খ. বিজ্ঞান ও প্রযুক্তির অগ্রগতি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7416,
+      "created_at": "2025-11-27T10:54:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 747492,
+      "value": {
+        "options": {
+          "ক": "বনভূমি ধ্বংস",
+          "খ": "অধিক বৃষ্টিপাত",
+          "গ": "জনসংখ্যা বৃদ্ধি",
+          "ঘ": "প্রাকৃতিক দুর্যোগ"
+        },
+        "question": "ভূমিক্ষয় ও ভূমিধসের প্রধান কারণ কী?",
+        "solution": "ক. বনভূমি ধ্বংস",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 124,
+      "book_grade_id": 7,
+      "content_chunk_id": 7416,
+      "created_at": "2025-11-27T10:54:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 124,
+        "title": "প্রাথমিক বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7416&grade=7&lesson=13523&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7416&grade=7&lesson=13523&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7416&grade=7&lesson=13523&per_page=200&question_paper_id=47682&subject=124&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 8,
+  "total": 8
+}

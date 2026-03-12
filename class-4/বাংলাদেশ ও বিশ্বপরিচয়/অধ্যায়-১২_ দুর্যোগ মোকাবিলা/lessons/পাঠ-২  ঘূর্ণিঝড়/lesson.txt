@@ -1,0 +1,377 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 746613,
+      "value": {
+        "options": {
+          "ক": "খরা",
+          "খ": "তীব্র বাতাস",
+          "গ": "বন্যা",
+          "ঘ": "ভূমিকম্প"
+        },
+        "question": "সবকিছু উড়িয়ে নিয়ে যায় বা ভেঙে ফেলে—",
+        "solution": "খ. তীব্র বাতাস",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746614,
+      "value": {
+        "options": {
+          "ক": "ঘূর্ণিঝড়",
+          "খ": "ভূমিকম্প",
+          "গ": "জলাবদ্ধতা",
+          "ঘ": "আগুন লাগা"
+        },
+        "question": "প্রাকৃতিক কারণে কোন দুর্যোগ দেখা যায়?",
+        "solution": "ক. ঘূর্ণিঝড়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746615,
+      "value": {
+        "options": {
+          "ক": "৪৫ ফুট",
+          "খ": "২০ ফুট",
+          "গ": "২৫ ফুট",
+          "ঘ": "৩০ ফুট"
+        },
+        "question": "জলোচ্ছ্বাস কত ফুট পর্যন্ত উঁচু হতে পারে?",
+        "solution": "ক. ৪৫ ফুট",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746616,
+      "value": {
+        "options": {
+          "ক": "ভয় দেখানো",
+          "খ": "সতর্ক করা",
+          "গ": "লোভ দেখানো",
+          "ঘ": "সাহস দেখানো"
+        },
+        "question": "বিভিন্ন নম্বরের সংকেতের মাধ্যমে মানুষকে কী করা হয়?",
+        "solution": "খ. সতর্ক করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746617,
+      "value": {
+        "options": {
+          "ক": "ভূমিকম্পে",
+          "খ": "অগ্নিকাণ্ডে",
+          "গ": "টর্নেডোতে",
+          "ঘ": "ঘূর্ণিঝড়ে"
+        },
+        "question": "উপকূলীয় এলাকার অনেক ক্ষতি হয়—",
+        "solution": "ঘ. ঘূর্ণিঝড়ে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746618,
+      "value": {
+        "options": {
+          "ক": "১ - ৫ নম্বর",
+          "খ": "১ - ৬ নম্বর",
+          "গ": "১ - ৮ নম্বর",
+          "ঘ": "১ - ১০ নম্বর"
+        },
+        "question": "ঘূর্ণিঝড়ের হুঁশিয়ারি সংকেত কত পর্যন্ত?",
+        "solution": "ঘ. ১ - ১০ নম্বর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746619,
+      "value": {
+        "options": {
+          "ক": "বন্যা",
+          "খ": "খরা",
+          "গ": "ভূমিকম্প",
+          "ঘ": "জলোচ্ছ্বাস"
+        },
+        "question": "ঘূর্ণিঝড় ভয়ঙ্কর হলে সাগরের ঢেউ অনেক উঁচু হয়ে মানুষের ঘরবাড়ি, পশুপাখি, রাস্তাঘাট ভাসিয়ে নিয়ে যায়। এটাকে কী বলে?",
+        "solution": "ঘ. জলোচ্ছ্বাস",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746620,
+      "value": {
+        "options": {
+          "ক": "ভূমিকম্প",
+          "খ": "অগ্নিকাণ্ড",
+          "গ": "টর্নেডো",
+          "ঘ": "ঘূর্ণিঝড়"
+        },
+        "question": "নিম্নচাপের কারণে সৃষ্টি হয়—",
+        "solution": "ঘ. ঘূর্ণিঝড়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 746621,
+      "value": {
+        "options": {
+          "ক": "যাতায়াত ব্যবস্থার",
+          "খ": "সাংস্কৃতিক অনুষ্ঠানের",
+          "গ": "সংকেত প্রচারের",
+          "ঘ": "সংগীত অনুষ্ঠানের"
+        },
+        "question": "দুর্যোগকালে রেডিও, টেলিভিশন এবং বিভিন্ন খবরের কাগজে কীসের ব্যবস্থা করা হয়?",
+        "solution": "গ. সংকেত প্রচারের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 286,
+      "book_grade_id": 7,
+      "content_chunk_id": 7399,
+      "created_at": "2025-11-27T09:35:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 286,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7399&grade=7&lesson=13451&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7399&grade=7&lesson=13451&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7399&grade=7&lesson=13451&per_page=200&question_paper_id=47701&subject=286&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 9,
+  "total": 9
+}

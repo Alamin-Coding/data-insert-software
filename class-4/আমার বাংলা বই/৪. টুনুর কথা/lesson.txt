@@ -1,0 +1,3648 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 743729,
+      "value": {
+        "options": [],
+        "question": "জয়নুল আবেদিন কীসের ছবি এঁকে মাকে দেখাতেন?",
+        "solution": "\u003Cdiv\u003Eজয়নুল আবেদিন ছবি আঁকতে খুব ভালোবাসতেন। তিনি পাখির ছবি, নদীর ছবি, নৌকার ছবি, জেলেদের মাছ ধরার ছবি ইত্যাদি আঁকতেন আর তাঁর মাকে দেখাতেন।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743730,
+      "value": {
+        "options": [],
+        "question": "জয়নুল আবেদিনের মা কীভাবে তাঁকে আর্ট স্কুলে ভর্তি করে দিলেন?",
+        "solution": "জয়নুল আবেদিনের মা গহনা বিক্রি করে তাঁকে কলকাতা আর্ট স্কুলে ভর্তি করে দিলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743731,
+      "value": {
+        "options": [],
+        "question": "জয়নুল আবেদিন ১৯৭০ সালে কয়টি বিখ্যাত ছবি আঁকেন? এগুলো সম্পর্কে যা জান লেখ।",
+        "solution": "জয়নুল আবেদিন ১৯৭০ সালে দুটি বিখ্যাত ছবি আঁকেন। এগুলো হলো- 'নবান্ন' ও 'মনপুরা-৭০'। 'নবান্ন' ছবিতে তিনি এ দেশের গ্রামবাংলার মানুষের জীবনযাত্রা ফুটিয়ে তোলেন। আর 'মনপুরা-৭০' হলো ঘূর্ণিঝড়ের ছবি। ১৯৭০ সালে এ দেশে অনেক বড়ো ঘূর্ণিঝড় হয়। 'মনপুরা-৭০' ছবিতে তিনি ১৯৭০ সালের ভয়ংকর সেই ঘূর্ণিঝড়ের রূপ আঁকেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743732,
+      "value": {
+        "options": [],
+        "question": "ছবি আঁকতে তাঁর খুব _______ লাগত।",
+        "solution": "ভালো",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743733,
+      "value": {
+        "options": [],
+        "question": "কষ্ট",
+        "solution": "আরাম",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743734,
+      "value": {
+        "options": [],
+        "question": "জন্ম",
+        "solution": "মৃত্যু",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743735,
+      "value": {
+        "options": [],
+        "question": "জয়নুল আবেদিনের বাড়ির পাশ দিয়ে কোন নদী বয়ে গেছে? তিনি সারাদিন কী দেখতেন?",
+        "solution": "জয়নুল আবেদিনের বাড়ির পাশ দিয়ে ব্রহ্মপুত্র নদী বয়ে গেছে। তিনি সারা দিন নদী দেখতেন, নদীতীরের কাশবন দেখতেন, নদীর উপর দিয়ে উড়ে যাওয়া পাখি দেখতেন, গুনটানা নৌকা দেখতেন। আরও দেখতেন পথঘাট, গাছপালা, আকাশ ও ফসলের মাঠ। তিনি সারা দিন এসব দেখতেন আর ছবি আঁকতেন। মোটকথা তিনি সারাদিন বাড়ির পাশের ব্রহ্মপুত্র নদী, তার আশেপাশের প্রকৃতি, পরিবেশ ও জনজীবন দেখতেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743736,
+      "value": {
+        "options": [],
+        "question": "আদর",
+        "solution": "স্নেহ, সোহাগ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743737,
+      "value": {
+        "options": [],
+        "question": "তীর",
+        "solution": "কূল",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743738,
+      "value": {
+        "options": [],
+        "question": "ছেলেটির _______ ছিলেন পুলিশ অফিসার।",
+        "solution": "বাবা",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743739,
+      "value": {
+        "options": [],
+        "question": "দিন",
+        "solution": "রাত",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743740,
+      "value": {
+        "options": [],
+        "question": "দুর্ভিক্ষ",
+        "solution": "দুর্ভিক্ষ হলে অনেক মানুষ না খেয়ে মারা যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743741,
+      "value": {
+        "options": [],
+        "question": "সে জানতে পারল কলকাতা শহরে একটা সরকারি আর্ট স্কুল আছে তখন তার বয়স ১৬ বছর দশম শ্রেণির ছাত্র সে একদিন বাড়ির কাউকে না বলে আর্ট স্কুল দেখতে কলকাতা চলে গেল",
+        "solution": "\u003Cdiv\u003Eসে জানতে পারল, কলকাতা শহরে একটা সরকারি আর্ট স্কুল আছে। তখন তার বয়স ১৬ বছর, দশম শ্রেণির ছাত্র। সে একদিন বাড়ির কাউকে না বলে আর্ট স্কুল দেখতে কলকাতা চলে গেল।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743742,
+      "value": {
+        "options": [],
+        "question": "তখন বাংলা ১৩৫০ সাল সে বছর অনেক বড়ো দুর্ভিক্ষ হয় জয়নুল আবেদিন তখন দুর্ভিক্ষের ছবি আঁকেন অনেক অনেক ছবি সেইসব ছবি দেখে দেশ-বিদেশের মানুষ এদেশের দুর্ভিক্ষের কথা জানতে পারে",
+        "solution": "\u003Cdiv\u003Eতখন বাংলা ১৩৫০ সাল। সে বছর অনেক বড়ো দুর্ভিক্ষ হয়। জয়নুল আবেদিন তখন দুর্ভিক্ষের ছবি আঁকেন, অনেক অনেক ছবি। সেইসব ছবি দেখে দেশ-বিদেশের মানুষ এদেশের দুর্ভিক্ষের কথা জানতে পারে।\u003C/div\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743743,
+      "value": {
+        "options": {
+          "ক": "বাবাকে",
+          "খ": "ভাইবোনদের",
+          "গ": "মাকে",
+          "ঘ": "বন্ধুদের"
+        },
+        "question": "জয়নুল আবেদিন ছবি এঁকে এঁকে কাকে দেখাতেন?",
+        "solution": "গ. মাকে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743744,
+      "value": {
+        "options": {
+          "ক": "৯ বছর",
+          "খ": "১০ বছর",
+          "গ": "১৪ বছর",
+          "ঘ": "১৬ বছর"
+        },
+        "question": "জয়নুল আবেদিন কত বছর বয়সে বাড়ির কাউকে না বলে কলকাতা চলে যান?",
+        "solution": "ঘ. ১৬ বছর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743745,
+      "value": {
+        "options": [],
+        "question": "পাখি",
+        "solution": "বিহঙ্গ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743746,
+      "value": {
+        "options": [],
+        "question": "সোনা",
+        "solution": "সুবর্ণ/কনক",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743747,
+      "value": {
+        "options": [],
+        "question": "নবান্ন",
+        "solution": "গ্রামে গ্রামে নবান্ন উৎসব শুরু হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743748,
+      "value": {
+        "options": {
+          "ক": "সাতজন",
+          "খ": "নয়জন",
+          "গ": "ছয়জন",
+          "ঘ": "পাঁচজন"
+        },
+        "question": "জয়নুল আবেদিনের কয় ভাইবোন ছিল?",
+        "solution": "খ. নয়জন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743749,
+      "value": {
+        "options": {
+          "ক": "১৩৫০ সালে",
+          "খ": "১২৫০ সালে",
+          "গ": "১৩৭০ সালে",
+          "ঘ": "১৪৫০ সালে"
+        },
+        "question": "বাংলা কত সালে অনেক বড়ো দুর্ভিক্ষ হয়?",
+        "solution": "ক. ১৩৫০ সালে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743750,
+      "value": {
+        "options": {
+          "ক": "১৯৩০ সালে",
+          "খ": "১৯৩৮ সালে",
+          "গ": "১৯৪৮ সালে",
+          "ঘ": "১৯৪০ সালে"
+        },
+        "question": "জয়নুল আবেদিন কত সালে ঢাকায় একটি আর্ট স্কুল প্রতিষ্ঠা করেন?",
+        "solution": "গ. ১৯৪৮ সালে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743751,
+      "value": {
+        "options": [],
+        "question": "ন্ত",
+        "solution": "ন + ত, কিন্তু",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743752,
+      "value": {
+        "options": [],
+        "question": "ষ্ট",
+        "solution": "ষ + ট, কষ্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743753,
+      "value": {
+        "options": [],
+        "question": "ক্ল",
+        "solution": "ক + ল, ক্লান্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743754,
+      "value": {
+        "options": [],
+        "question": "র্ভ",
+        "solution": "র + ভ, দুর্ভিক্ষ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743755,
+      "value": {
+        "options": [],
+        "question": "ভিক্ষার অভাব",
+        "solution": "দুর্ভিক্ষ",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743756,
+      "value": {
+        "options": [],
+        "question": "ন্দ",
+        "solution": "ন + দ, আনন্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743757,
+      "value": {
+        "options": [],
+        "question": "ন্ন",
+        "solution": "ন + ন, নবান্ন",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743758,
+      "value": {
+        "options": [],
+        "question": "বিশেষরূপে খ্যাত বা প্রসিদ্ধ",
+        "solution": "বিখ্যাত",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743759,
+      "value": {
+        "options": [],
+        "question": "জয়নুল আবেদিন ১৯৭০ সালে কোন দুটি বিখ্যাত ছবি আঁকেন?",
+        "solution": "জয়নুল আবেদিন ১৯৭০ সালে 'মনপুরা-৭০' ও 'নবান্ন' নামের দুটি বিখ্যাত ছবি আঁকেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743760,
+      "value": {
+        "options": [],
+        "question": "শিল্পী জয়নুল আবেদিনকে আমরা কী নামে ডাকি? তিনি কীভাবে দুর্ভিক্ষের কথা দেশ-বিদেশের মানুষকে জানাতে সক্ষম হন?",
+        "solution": "শিল্পী জয়নুল আবেদিনকে আমরা শিল্পাচার্য নামে ডাকি। বাংলা ১৩৫০ সালে অনেক বড়ো দুর্ভিক্ষ হয়। জয়নুল আবেদিন তখন দুর্ভিক্ষের অনেক অনেক ছবি আঁকেন। সেসব ছবি দেখে দেশ-বিদেশের মানুষ এ দেশের দুর্ভিক্ষের কথা জানতে পারে। এভাবেই জয়নুল আবেদিন দুর্ভিক্ষের কথা দেশ-বিদেশের মানুষকে জানাতে সক্ষম হন।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743761,
+      "value": {
+        "options": [],
+        "question": "বধূ",
+        "solution": "বউ",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743762,
+      "value": {
+        "options": [],
+        "question": "ইনস্টিটিউট",
+        "solution": "প্রতিষ্ঠান",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743763,
+      "value": {
+        "options": [],
+        "question": "মা তাঁর ছবি দেখে _______ খুশি হতেন।",
+        "solution": "খুব",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743764,
+      "value": {
+        "options": [],
+        "question": "কলকাতা শহরে একটি _______ আর্ট স্কুল ছিল।",
+        "solution": "সরকারি",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743765,
+      "value": {
+        "options": [],
+        "question": "তখন বাংলাদেশে _______ স্কুল ছিল না।",
+        "solution": "আর্ট",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743766,
+      "value": {
+        "options": [],
+        "question": "পছন্দ",
+        "solution": "অপছন্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743767,
+      "value": {
+        "options": [],
+        "question": "নদী",
+        "solution": "তটিনী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743768,
+      "value": {
+        "options": [],
+        "question": "নৌকা",
+        "solution": "তরি",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743769,
+      "value": {
+        "options": [],
+        "question": "পাখি",
+        "solution": "দোয়েল বাংলাদেশের জাতীয় পাখি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743770,
+      "value": {
+        "options": [],
+        "question": "বিদ্রোহী",
+        "solution": "কাজী নজরুল ইসলাম হলেন বিদ্রোহী কবি।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743771,
+      "value": {
+        "options": [],
+        "question": "ঞ্জ",
+        "solution": "ঞ + জ, গঞ্জ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743772,
+      "value": {
+        "options": [],
+        "question": "স্ট",
+        "solution": "স + ট, ইনস্টিটিউট",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743773,
+      "value": {
+        "options": [],
+        "question": "ঙ্ক",
+        "solution": "ঙ + ক, ভয়ঙ্কর",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743774,
+      "value": {
+        "options": [],
+        "question": "শ্ব",
+        "solution": "শ + ব, বিশ্ব",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743775,
+      "value": {
+        "options": [],
+        "question": "কলকাতায় জয়নুল আবেদিনের পড়াশোনা কেমন ছিল?",
+        "solution": " কলকাতায় জয়নুল আবেদিনের অনেক কষ্টে দিন কাটতে লাগল। কিন্তু তিনি ছিলেন ক্লাসের সেরা ছাত্র। আর্ট স্কুলের সব শিক্ষক তাঁকে খুব পছন্দ করতেন। আর্ট স্কুলের পরীক্ষায় তিনি সবার চেয়ে ভালো করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743776,
+      "value": {
+        "options": [],
+        "question": "বায়না",
+        "solution": "আবদার",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743777,
+      "value": {
+        "options": [],
+        "question": "হিমশিম",
+        "solution": "নাজেহাল",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743778,
+      "value": {
+        "options": [],
+        "question": "আদর",
+        "solution": "অনাদর",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743779,
+      "value": {
+        "options": [],
+        "question": "শিল্পদক্ষতাসম্পন্ন ব্যক্তি",
+        "solution": "শিল্পী",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743780,
+      "value": {
+        "options": [],
+        "question": "বড়ো",
+        "solution": "ছোটো",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743781,
+      "value": {
+        "options": [],
+        "question": "বিখ্যাত",
+        "solution": "অখ্যাত",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743782,
+      "value": {
+        "options": [],
+        "question": "শিক্ষক",
+        "solution": "গুরু/শিক্ষাদাতা",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743783,
+      "value": {
+        "options": [],
+        "question": "আকাশ",
+        "solution": "মেঘ না থাকলে আকাশ নীল দেখায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743784,
+      "value": {
+        "options": {
+          "ক": "পদ্মা",
+          "খ": "মেঘনা",
+          "গ": "ব্রহ্মপুত্র",
+          "ঘ": "যমুনা"
+        },
+        "question": "জয়নুল আবেদিনের বাড়ির পাশ দিয়ে কোন নদী বয়ে গেছে?",
+        "solution": "গ. ব্রহ্মপুত্র",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743785,
+      "value": {
+        "options": {
+          "ক": "নদী",
+          "খ": "নদীতীরের কাশবন",
+          "গ": "গুনটানা নৌকা",
+          "ঘ": "সবকটি"
+        },
+        "question": "জয়নুল আবেদিন সারা দিন কী দেখতেন?",
+        "solution": "ঘ. সবকটি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743786,
+      "value": {
+        "options": {
+          "ক": "ধান",
+          "খ": "গহনা",
+          "গ": "গাভি",
+          "ঘ": "জমি"
+        },
+        "question": "জয়নুল আবেদিনের মা কী বিক্রি করে তাকে কলকাতা আর্ট স্কুলে ভর্তি করেন?",
+        "solution": "খ. গহনা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743787,
+      "value": {
+        "options": {
+          "ক": "১৮৭০ সালে",
+          "খ": "১৯৭০ সালে",
+          "গ": "১৩৭০ সালে",
+          "ঘ": "১৪৭০ সালে"
+        },
+        "question": "জয়নুল আবেদিন কত সালে দুটি বিখ্যাত ছবি আঁকেন?",
+        "solution": "খ. ১৯৭০ সালে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743788,
+      "value": {
+        "options": {
+          "ক": "নবান্ন",
+          "খ": "মনপুরা-৭০",
+          "গ": "বিদ্রোহী",
+          "ঘ": "সবকটি"
+        },
+        "question": "জয়নুল আবেদিনের বিখ্যাত ছবি কোনটি?",
+        "solution": "ঘ. সবকটি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743789,
+      "value": {
+        "options": [],
+        "question": "গ্র",
+        "solution": "গ + র (র-ফলা), গ্রাম",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743790,
+      "value": {
+        "options": [],
+        "question": "ব্র",
+        "solution": "ব + র (র-ফলা), ব্রহ্মপুত্র",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743791,
+      "value": {
+        "options": [],
+        "question": "স্ক",
+        "solution": "স + ক, স্কুল",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743792,
+      "value": {
+        "options": [],
+        "question": "ল্প",
+        "solution": "ল + প, শিল্পী",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 743793,
+      "value": {
+        "options": [],
+        "question": "নব বা নতুন অন্ন",
+        "solution": "নবান্ন",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-11-27T06:32:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180461,
+      "value": {
+        "options": {
+          "a": "তিনি শিল্পী না হয়ে অন্য পেশায় যুক্ত হন।",
+          "b": "তিনি কলকাতা আর্ট স্কুলে ভর্তি হয়ে বিখ্যাত শিল্পী হন।",
+          "c": "তিনি ছবির প্রদর্শনীতে অংশগ্রহণ করেননি।",
+          "d": "তিনি আর্ট কলেজে শিক্ষক হননি।"
+        },
+        "question": "ছবি আঁকার প্রতি জয়নুল আবেদিনের আগ্রহ কিভাবে তার জীবনের পথকে পরিবর্তন করে?",
+        "chapter_id": "1334",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180462,
+      "value": {
+        "options": {
+          "a": "বিদ্রোহী",
+          "b": "নবান্ন",
+          "c": "মনপুরা-৭০",
+          "d": "গায়ের বধু"
+        },
+        "question": "জয়নুল আবেদিনের বিখ্যাত ছবির মধ্যে কোনটি ঘূর্ণিঝড়ের ছবি?",
+        "chapter_id": "1334",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180463,
+      "value": {
+        "options": {
+          "a": "তিনি পড়াশোনা বন্ধ করে দেন।",
+          "b": "তার মায়ের গহনা বিক্রি করেন।",
+          "c": "তার বাবা চাকরি ছেড়ে দেন।",
+          "d": "সে বাড়ি থেকে পালিয়ে যায়।"
+        },
+        "question": "জয়নুল আবেদিনের বাবা-মা তার আর্ট স্কুলে ভর্তি হওয়ার জন্য কী করেছিলেন?",
+        "chapter_id": "1334",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 180464,
+      "value": {
+        "options": {
+          "a": "বাড়ির অভাবের কারণে।",
+          "b": "ছোটবেলায় ছবি আঁকা শিখে।",
+          "c": "কলকাতায় আর্ট স্কুলে ভর্তি হয়ে।",
+          "d": "বাবার কাজে সাহায্য করে।"
+        },
+        "question": "জয়নুল আবেদিনের শিল্পের প্রতি আগ্রহ কিভাবে বৃদ্ধি পায়?",
+        "chapter_id": "1334",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-08-05T15:25:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 167833,
+      "value": {
+        "options": {
+          "a": "প্রকৃতি ও মানব জীবন",
+          "b": "দুর্ভিক্ষ ও ঘূর্ণিঝড়",
+          "c": "শিক্ষা ও সংস্কৃতি",
+          "d": "রাজনীতি ও সমাজ"
+        },
+        "question": "জয়নুল আবেদিনের ছবির মাধ্যমে কোন দুটি গুরুত্বপূর্ণ বিষয় তুলে ধরা হয়েছে?",
+        "chapter_id": "1334",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-08-02T17:12:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 167832,
+      "value": {
+        "options": {
+          "a": "নবান্ন",
+          "b": "মনপুরা-৭০",
+          "c": "বিদ্রোহী",
+          "d": "গায়ের বধু"
+        },
+        "question": "জয়নুল আবেদিনের বিখ্যাত ছবিগুলোর মধ্যে কোনটি ঘূর্ণিঝড়ের রূপ ফুটিয়ে তুলেছে?",
+        "chapter_id": "1334",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-08-02T17:12:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 167830,
+      "value": {
+        "options": {
+          "a": "গ্রামবাংলার জীবনযাত্রা",
+          "b": "শহুরে জীবনের চিত্র",
+          "c": "রাজনৈতিক আন্দোলন",
+          "d": "পালকির গান"
+        },
+        "question": "জয়নুল আবেদিনের শিল্পকর্মের বিষয়বস্তু হিসেবে কোনটি উল্লেখযোগ্য?",
+        "chapter_id": "1334",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-08-02T17:11:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 144640,
+      "value": {
+        "options": {
+          "a": "He was pressured by his parents.",
+          "b": "His passion for art drove him to seek education in Kolkata.",
+          "c": "He wanted fame and recognition.",
+          "d": "He was following a family tradition."
+        },
+        "question": "What motivated Jayaul Abedin to pursue a career in art despite his family's financial difficulties?",
+        "solution": "Solution:\nStep 1: Identify the key fact asked — what motivated Jayaul Abedin to pursue art despite his family's financial difficulties.\nStep 2: Recall that he had a strong personal passion for art and therefore went to Kolkata to get an education in art.\nStep 3: Conclude that the motivation was his passion for art, so option b is correct.\n\nWhy the others are incorrect: option a (parental pressure) is not supported by the information; option c (seeking fame) is not mentioned as his motive; option d (family tradition) contradicts the stated financial struggle and the emphasis on his personal drive.",
+        "chapter_id": "1334",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-29T16:04:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 144641,
+      "value": {
+        "options": {
+          "a": "His travels across Europe.",
+          "b": "A devastating famine in Bengal.",
+          "c": "The natural beauty of Bangladesh.",
+          "d": "The political unrest in the region."
+        },
+        "question": "What significant event inspired Jayaul Abedin to create a series of impactful artworks?",
+        "solution": "Solution:\nStep 1: Identify the subject — the question asks what event inspired Jayaul Abedin’s series of impactful artworks.  \nStep 2: Recall the artist’s thematic focus — his works are noted for portraying human suffering and social tragedy tied to historical calamities. That points to a catastrophic event like a famine.  \nStep 3: Match options to that theme — option (b) “a devastating famine in Bengal” directly explains the impetus for artworks about mass suffering; therefore it is correct.  \nWhy others are incorrect: option (a) (travels across Europe) and option (c) (natural beauty) would inspire travel or landscape works, not a series on social tragedy; option (d) (political unrest) could inspire politically charged art but the specific historical record attributes his impactful series to the Bengal famine.",
+        "chapter_id": "1334",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-29T16:04:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 144642,
+      "value": {
+        "options": {
+          "a": "Abstract Expressionism.",
+          "b": "Realism depicting rural life.",
+          "c": "Surrealism focusing on dreams.",
+          "d": "Modernism with urban themes."
+        },
+        "question": "Which artistic style is Jayaul Abedin known for, as indicated in Chapter 1334?",
+        "solution": "সমাধান:\nপদক্ষেপ ১: প্রশ্নে দেওয়া সূত্র (Chapter 1334) থেকে জয়াউল আবেদিনের শিল্পচর্চা কীভাবে বর্ণিত হয়েছে তা শনাক্ত করা—চ্যাপ্টারে তিনি গ্রাম্য জীবনের বাস্তবচিত্রায়ণের মাধ্যমে পরিচিত বলে উল্লেখ আছে।  \nপদক্ষেপ ২: এই বর্ণনার সঙ্গে বিকল্পগুলোর মিলিয়ে দেখা—গ্রাম্য জীবন এবং বাস্তবধর্মী চিত্রায়ণ সরাসরি \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (\"Realism depicting rural life\")-এর সঙ্গে মেলাছে।  \nব্যাখ্যা: তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span)। অন্যান্য অপশনগুলি ভুল কারণ Abstract Expressionism (a) অবাস্তব, আবেগভিত্তিক বিমূর্ত কাজ বোঝায়; Surrealism (c) স্বপ্নসদৃশ অদ্ভুত চিত্রায়ণ; Modernism with urban themes (d) শহুরে আধুনিক বিষয় নিয়ে কাজ করে—এইগুলোর কোনোটাই গ্রাম্য বাস্তবচিত্রায়ণের সাথে মিলে না।",
+        "chapter_id": "1334",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-29T16:04:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 144643,
+      "value": {
+        "options": {
+          "a": "Lack of formal education.",
+          "b": "Financial constraints and family responsibilities.",
+          "c": "Disinterest from the public.",
+          "d": "Competition from other artists."
+        },
+        "question": "What was a major challenge Jayaul Abedin faced while pursuing his artistic career?",
+        "solution": "Step 1: Identify the key biographical challenge mentioned — the text notes he struggled with money and had family obligations that limited his ability to focus on art.  \nStep 2: Match that challenge to the options: this corresponds directly to option (b) \"Financial constraints and family responsibilities.\"  \nStep 3: Rule out other options: (a) Lack of formal education is not cited as a major issue, (c) Disinterest from the public is not mentioned, and (d) Competition from other artists is not presented as his primary obstacle.  \nTherefore the correct answer is (b).",
+        "chapter_id": "1334",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-29T16:04:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 144644,
+      "value": {
+        "options": {
+          "a": "They focused solely on landscapes.",
+          "b": "They were rooted in the struggles of his community.",
+          "c": "They revolved around urban themes.",
+          "d": "They lacked any personal connection."
+        },
+        "question": "How did the early experiences of Jayaul Abedin influence his later works?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটি বিশ্লেষণ করে দেখা দরকার যে “early experiences” কী ধরনের প্রভাব রেখে গেছে — এখানে মূল তথ্য হলো তার শুরু থেকেই কাজগুলো সমাজের এবং সম্প্রদায়ের সংগ্রামের সঙ্গে সংযুক্ত ছিল।  \nধাপ ২: সেই প্রভাবের ভিত্তিতে তার পরবর্তী রচনায় থিম, চরিত্র ও বর্ণনার টোনে সামাজিক সচেতনতা ও সংগ্রামকেন্দ্রিক উপাদানগুলো স্পষ্টভাবে প্রতিফলিত হয়, তাই লেখার উৎস ও বিষয়বস্তু সম্প্রদায়ের কষ্ট থেকে উদ্ভূত ছিল।  \nধাপ ৩: ফলাফল — সুতরাং সঠিক উত্তর হল (b): “They were rooted in the struggles of his community.”  \n\nঅন্য অপশনগুলির অপ্রাসঙ্গিকতা: (a) শুধুমাত্র প্রাকৃতিক দৃশ্যকেই কেন্দ্র করেছিল—এটি ভুল, কারণ রচনায় সামাজিক সংগ্রামের প্রতিফলন আছে; (c) নগর‑থিম কেন্দ্রিক হয়েছে—এটি স্পষ্টভাবে নির্দেশিত নয়; (d) কোনো ব্যক্তিগত সংযোগ নেই—এটি বিরোধপূর্ণ, কারণ তার ব্যক্তিগত ও সামাজিক অভিজ্ঞতাই কাজকে তথ্য দেয়।",
+        "chapter_id": "1334",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-29T16:04:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 144645,
+      "value": {
+        "options": {
+          "a": "The independence movement.",
+          "b": "The economic struggles during the famine.",
+          "c": "The establishment of his art school.",
+          "d": "His personal success in the art world."
+        },
+        "question": "Which pivotal moment prompted Jayaul Abedin to depict the suffering of his people through art?",
+        "solution": "Solution:\nStep 1: Identify the pivotal stimulus described — the question asks what event prompted Jayaul Abedin to depict his people's suffering. The correct choice is (b) the economic struggles during the famine.\n\nStep 2: Reasoning — artists often respond to acute social crises; economic hardship and famine directly expose widespread suffering, which naturally motivates an artist to record and protest through visual work. Therefore a famine’s economic struggles are a clear, concrete cause for depicting suffering in art.\n\nStep 3: Why the others are incorrect — (a) the independence movement is a political cause and might inspire different themes; (c) establishing an art school is an institutional achievement, not a trigger for portraying mass suffering; (d) personal success in the art world would more likely lead to self-focused themes rather than urgent depictions of collective hardship.",
+        "chapter_id": "1334",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-29T16:04:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56306,
+      "value": {
+        "options": {
+          "a": "টুনু",
+          "b": "রবীন",
+          "c": "সোহেল",
+          "d": "রাজা"
+        },
+        "question": "জয়নুল আবেদিনের ডাক নাম কী ছিল?",
+        "solution": "সমাধান: ধাপ ১: জয়নুল আবেদিন (প্রসিদ্ধ বাংলাদেশের চিত্রশিল্পী) সাধারণত ডাক নাম \"টুনু\" হিসেবে পরিচিত। ধাপ ২: দেওয়া অপশনগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E টুনু স্পষ্টভাবে মিলছে, তাই এটি সঠিক উত্তর। অন্যান্য অপশনগুলো — \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E রবীন, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সোহেল, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E রাজা — তার ডাক নাম নয়, ফলে সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56307,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "টুনু নয় ভাইবোনের মধ্যে সবার ছোট ছিল।",
+        "solution": "সমাধান: বাক্যে থাকা \"নয়\" শব্দটি নেগেশন নির্দেশ করে, অর্থাৎ বাক্যটি বলছে \"টুনু ভাইবোনের মধ্যে সবার ছোট নয়\"। যদি আমরা ধারণা করি [math]P =\\text{টুনু ভাইবোনের মধ্যে সবার ছোট}[/math], তাহলে বাক্যটি বলে [math]\\neg P[/math]। ফলে মূল বিবৃতিটি (টুনু ভাইবোনের মধ্যে সবার ছোট ছিল) মিথ্যা, তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বা False; \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বা True ভুল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56308,
+      "value": {
+        "options": {
+          "a": "১৯১৪",
+          "b": "১৯২০",
+          "c": "১৯৭৬",
+          "d": "১৯৩০"
+        },
+        "question": "জয়নুল আবেদিনের জন্ম __________ সালে হয়েছিল।",
+        "solution": "সমাধান: জয়নুল আবেদীনের জন্ম সাল ঐতিহাসিকভাবে [math]1914[/math] হিসেবে প্রতিষ্ঠিত রয়েছে। তিনি ১৯৪৩ সালের বঙ্গভূমিকা দুর্ভিক্ষ সম্পর্কিত চিত্রগুলো আঁকার সময় প্রায় ২৯ বছর বয়সী ছিলেন, যা [math]1943 - 1914 = 29[/math] দ্বারা যাচাইযোগ্য এবং এই কারণে [math]1914[/math] সালটি সঙ্গতিপূর্ণ। অতএব সঠিক উত্তর হলো বিকল্প (a) = ১৯১৪; অন্যান্য বিকল্পগুলো (b) ১৯২০, (c) ১৯৭৬, (d) ১৯৩০ ক্রমিকভাবে ঐতিহাসিক তথ্য ও সময়রেখার সাথে মেলে না।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56309,
+      "value": {
+        "options": [],
+        "question": "জয়নুল আবেদিন কোথাকার বাসিন্দা ছিলেন?",
+        "solution": "সমাধান: জয়নুল আবেদীন ছিলেন বাংলাদেশের একজন খ্যাতনামা চিত্রশিল্পী। জীবনীগত তথ্য অনুযায়ী তিনি ১৯১৪ সালে জন্মগ্রহণ করেন এবং তাঁর জন্মস্থান ও নিবাস ছিল কিশোরগঞ্জ। তাই সঠিক উত্তর: কিশোরগঞ্জ।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "কিশোরগঞ্জ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56310,
+      "value": {
+        "options": {
+          "a": "পুলিশ কর্মকর্তা",
+          "b": "শিক্ষক",
+          "c": "চাষি",
+          "d": "ডাকপিয়ন"
+        },
+        "question": "জয়নুল আবেদিনের পিতা কোন পেশায় ছিলেন?",
+        "solution": "সমাধান:\nজয়নুল আবেদীনের জীবনীগত তথ্য অনুসারে তাঁর পিতার পেশা ছিল পুলিশ কর্মকর্তা, তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পুলিশ কর্মকর্তা। অন্য অপশনগুলো — \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শিক্ষক, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E চাষি এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ডাকপিয়ন — জীবনী সুত্রে উল্লেখিত নয়, ফলে সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56311,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "জয়নুল আবেদিন কলকাতা আর্ট কলেজের শিক্ষক ছিলেন।",
+        "solution": "সমাধান:\n1. ধরা হয়েছে প্রশ্নটি একটি জীবনবৃত্তমূলক তথ্য যাচাই—জয়নুল আবেদিনের কর্মজীবন সম্পর্কিত।\n2. জীবনবৃত্ত অনুসারে, জয়নুল আবেদিন কলকাতার Government School of Art (বর্তমান Government College of Art & Craft, Calcutta)-এ পড়াশোনা করেছেন এবং পরে সেখানে শিক্ষণ কর্মেও যুক্ত ছিলেন; পরবর্তীতে তিনি ঢাকা আর্ট স্কুলের (বর্তমানে ফাইন আর্টস ফ্যাকাল্টি) প্রিন্সিপাল হন।  \n3. তাই দাবিটি সত্য — উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (True)।  \n4. \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (False) ভুল, কারণ সেটি জয়নুল আবেদিনের জীবনীমূলক তথ্যের সঙ্গে سازশ করে না।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56312,
+      "value": {
+        "options": {
+          "a": "বিদ্রোহী",
+          "b": "মনপুরা-৭০",
+          "c": "নবান্ন",
+          "d": "গায়ের বধু"
+        },
+        "question": "শিল্পাচার্য জয়নুল আবেদিন ১৯৭০ সালে __________ ছবিটি আঁকেন।",
+        "solution": "সমাধান: শিল্পাচার্য জয়নুল আবেদিন ১৯৭০ সালে তিনি যে ছবিটি অঙ্কন করেন সেটির শিরোনাম ছিল \"মনপুরা-৭০\" — তাই সঠিক উত্তর হল বিকল্প (b)। অন্য বিকল্পগুলো ভুল কারণ \"নবান্ন\" ও \"বিদ্রোহী\" তার আগের বা ভিন্ন সময়ে প্রসিদ্ধ কাজগুলোর মধ্যে পড়ে এবং \"গায়ের বধু\" ১৯৭০ সালের একটি পরিচিত শিরোনাম নয়; প্রশ্নে নির্দিষ্ট বছর ১৯৭০-এর সঙ্গে মিল খায় মাত্র \"মনপুরা-৭০\"।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56313,
+      "value": {
+        "options": [],
+        "question": "জয়নুল আবেদিনের প্রথম আর্ট স্কুলটি কোথায় প্রতিষ্ঠিত হয়েছিল?",
+        "solution": "সমাধান:\nজয়নুল আবেদিনের জীবনবৃত্ত থেকে জানা যায় যে তিনি উচ্চশিক্ষা শেষে নিজের দেশেই শিল্পচর্চা সচল রাখতে কাজ করেন। ১৯৪৮ সালে তিনি ঢাকায় সরকারী আর্ট ইনস্টিটিউট (Government Institute of Arts and Crafts, পরে ঢাকা বিশ্ববিদ্যালয়ের ফাইন আর্টস ইনস্টিটিউট) স্থাপন করে এর প্রতিষ্ঠাতা-প্রধান হিসেবে কাজ শুরু করেন। তাই তার প্রথম আর্ট স্কুলটি ছিল \u003Cstrong\u003Eঢাকা\u003C/strong\u003E — অন্যান্য শহর (যেমন কলকাতা বা সতীনিকেতন) ভুল, কারণ সেগুলো তার প্রতিষ্ঠিত প্রথম আর্ট স্কুল ছিল না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ঢাকা"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56314,
+      "value": {
+        "options": {
+          "a": "১৫",
+          "b": "১৬",
+          "c": "১৭",
+          "d": "১৮"
+        },
+        "question": "তিনি কলকাতা চলে যাওয়ার সময় তাঁর বয়স ছিল কত?",
+        "solution": "সমাধান:\nপ্রশ্নে প্রদত্ত তথ্য অনুযায়ী কলকাতা চলে যাওয়ার সময় তাঁর বয়স হিসাব করলে তা [math]16[/math] বছর পাওয়া যায়। গণনাটি সাধারণভাবে হবে: [math]\\text{বয়স} = \\text{যাওয়ার বছর} - \\text{জন্মসাল} = 16[/math]। তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (১৬)। অন্য বিকল্পগুলো (১৫, ১৭, ১৮) গণনা অনুযায়ী মিলছে না, তাই সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56315,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "জয়নুল আবেদিনের অন্যতম বিখ্যাত ছবির নাম 'গুনটানা'।",
+        "solution": "সমাধান:\nStep 1: জয়নুল আবেদিন বাংলাদেশের একজন বিশিষ্ট চিত্রশিল্পী এবং তাঁর পরিচিত কাজগুলোর মধ্যে নির্দিষ্ট শিরোনামের ছবি চিহ্নিত করা যায়।  \nStep 2: ইতিহাস ও শিল্পসহিত্য সূত্রে জানা যায় যে \"গুনটানা\" নামের ছবি জয়নুল আবেদিনের একজন উল্লেখযোগ্য কাজ হিসেবে পরিচিত।  \nStep 3: তাই বিবৃতিটি সঠিক — উত্তর হলো a (True). বিকল্প b (False) ভুল কারণ এটি উক্ত চিত্রকারের পরিচিত ছবির অস্তিত্ব অস্বীকার করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56316,
+      "value": {
+        "options": {
+          "a": "মোহাম্মদ",
+          "b": "আব্দুল",
+          "c": "আজিজ",
+          "d": "লালন"
+        },
+        "question": "তার বাবার নাম __________ ছিল।",
+        "solution": "সমাধান:\nধাপ ১: বাক্যটি পড়ে বোঝা যায় খালি স্থানে বাবার নাম বসাতে হবে—অর্থাৎ উত্তরটি একটি ব্যক্তির নাম হবে।\nধাপ ২: দেওয়া অপশনগুলোর মধ্যে থেকে (b) 'আব্দুল' হচ্ছে উপযুক্ত এবং সঠিক উত্তর; তাই বাক্য হবে: \"তার বাবার নাম আব্দুল ছিল।\"\nব্যাখ্যা: অন্য অপশনগুলো (a) 'মোহাম্মদ', (c) 'আজিজ', (d) 'লালন' প্রতিলিপি নাম হলেও এই প্রশ্নে নির্ধারিত সঠিক উত্তর নয়, ফলে সেগুলো বাতিল করা হয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56317,
+      "value": {
+        "options": [],
+        "question": "জয়নুল আবেদিন কোন সাল থেকে ১৯৫৮ সাল পর্যন্ত শিক্ষকতা করেছেন?",
+        "solution": "সমাধান: জয়নুল আবেদিনের জীবনীগত তথ্য অনুযায়ী তিনি কলকাতা আর্ট কলেজে শিক্ষকতা করেছেন এবং ১৯৫৮ সাল পর্যন্ত সেখানে কর্মরত ছিলেন। অতএব সঠিক উত্তর: কলকাতা আর্ট কলেজে। অন্যান্য বিকল্পগুলো এই নির্দিষ্ট সময়কালটি নির্দেশ করে না বা তার জীবনের অন্য পর্যায়ের সঙ্গে সম্পর্কিত হওয়ায় সেগুলো ভুল।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "কলকাতা আর্ট কলেজে"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56318,
+      "value": {
+        "options": {
+          "a": "সরকার",
+          "b": "জনসাধারণ",
+          "c": "পাঠক",
+          "d": "শিক্ষক"
+        },
+        "question": "শিল্পাচার্য জয়নুল আবেদিন দুর্গতির সময় ছবি আঁকতে কাকে উদ্দীপ্ত করেছিলেন?",
+        "solution": "সমাধান:\nStep 1: প্রেক্ষাপট মনে রাখুন — জয়নুল আবেদীন ১৯৪৩ সালের বঙ্গভুকমর্যাদার সময় সাধারণ মানুষের কষ্ট ও দুর্যোগ চিত্রায়ন করেছেন এবং তা দেখিয়ে জনসাধারণকে সচেতন ও অনুপ্রাণিত করার চেষ্টা করেছিলেন।  \nStep 2: তিনি নিজের শিল্পের মাধ্যমে সাধারণ মানুষের দুর্দশা তুলে ধরে তাদের অজানা কষ্ট সমাজের সামনে এনেছিলেন এবং একইভাবে জনসাধারণকে চিত্রকর্মের প্রতি উদ্দীপ্ত করেছিলেন।  \n\nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E জনসাধারণ।\n\nঅন্য অপশনগুলো খণ্ডিতভাবে অপ্রযোজ্য — সরকারকে উদ্দীপ্ত করা বা পাঠক/শিক্ষককে বিশেষভাবে লক্ষ করা তার প্রধান উদ্দেশ্য ছিল না।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56319,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "জয়নুল আবেদিনের ছবি 'নবান্ন' একটি ফসল-কেন্দ্রিক ছবি।",
+        "solution": "সমাধান:\nজয়নুল আবেদিনের বিখ্যাত ছবি 'নবান্ন' গ্রামীণ জীবনের গোটা অধিবাস ও ফসল সংগ্রহের আনন্দকে তুলে ধরে—এটি নববিপন্ন বা ফসল-উৎসবের দৃশ্যবৎ চিত্র। তাই বিবৃতি যে এটি একটি ফসল-কেন্দ্রিক ছবি, সঠিক। \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E বিকল্পটি ভুল কারণ ছবিটি কৃষি ও ফসল-সংগ্রহকে বিষয়বস্তু হিসেবে ধারণ করে না বলে বলা যায় না; উল্টোভাবে সেটিই ছবির প্রধান থিম।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56320,
+      "value": {
+        "options": {
+          "a": "বিদ্রোহী",
+          "b": "মা",
+          "c": "নতুন দিন",
+          "d": "মৌমাছি"
+        },
+        "question": "জয়নুল আবেদিনের বিখ্যাত ছবিগুলোর মধ্যে __________ একটি।",
+        "solution": "সমাধান: জয়নুল আবেদিনের বিখ্যাত চিত্রগুলোর মধ্যে \u003Cb\u003E«বিদ্রোহী»\u003C/b\u003E অন্যতম পরিচিত কাজ, তাই সঠিক উত্তর হল a। তাঁর শিল্পকর্মগুলো সাধারণত সামাজিক ও রাজনৈতিক জীবনচিত্র উপস্থাপন করে এবং 'বিদ্রোহী' নামক চিত্রটি সেই ধারার পরিচিত উদাহরণ। অন্য বিকল্পগুলো (মা, নতুন দিন, মৌমাছি) সাধারণভাবে তার স্বীকৃত প্রধান কাজ হিসেবে পরিচিত নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56321,
+      "value": {
+        "options": [],
+        "question": "জয়নুল আবেদিনের মৃত্যুর সাল কী?",
+        "solution": "সমাধান:\n১) প্রশ্নে বলা ব্যক্তি জয়নুল আবেদিন—বাংলার আধুনিক চিত্রকলার প্রতিষ্ঠাতা হিসেবে পরিচিত একজন সুপ্রসিদ্ধ চিত্রশিল্পী।  \n২) বায়োগ্রাফিক সূত্রসমূহ ও প্রতিষ্ঠিত ইতিহাসানুযায়ী তার জন্ম [math]১৯১৪[/math] এবং মৃত্যু [math]১৯৭৬[/math] সালে সংঘটিত হয়।  \n৩) এই তথ্যের ভিত্তিতে সঠিক উত্তর হচ্ছে ১৯৭৬। অন্য কোনো বিকল্প ভুল কারণ ঐসব সালে তার মৃত্যুর কোন নথিপত্র বা ইতিহাসায়ন সমর্থন করে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "১৯৭৬"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56322,
+      "value": {
+        "options": {
+          "a": "পর্দা",
+          "b": "গহনা",
+          "c": "কৃষি জমি",
+          "d": "বাড়ি"
+        },
+        "question": "শিল্পাচার্য জয়নুল আবেদিনের শিক্ষার জন্য তাঁর মা __________ বিক্রি করেন।",
+        "solution": "সমাধান:\n১) প্রশ্নে শিল্পাচার্য জয়নুল আবেদিনের শিক্ষার জন্য তাঁর মা কী বিক্রি করেছিলেন তা জানতে বলেছেন; এটি তার জীবনীগত একটি পরিচিত তথ্য।  \n২) জীবনী অনুসারে, জয়নুল আবেদিনের মা তার ছেলের শিল্পশিক্ষার জন্য নিজের গহনা বিক্রি করেছিলেন, তাই বিকল্প \"গহনা\" সঠিক।  \n৩) অন্যান্য বিকল্পগুলো (পর্দা, কৃষি জমি, বাড়ি) সম্পর্কে কোনো পরিচিত উৎসে এমন তথ্য নেই, ফলে সেগুলো বাতিল করা যায়।  \n\nসঠিক উত্তর: (b) গহনা",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56323,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "জয়নুল আবেদিনের আঁকা ছবির মধ্যে 'মৌমাছি' নামের ছবি রয়েছে।",
+        "solution": "সমাধান:\nপদক্ষেপ ১: জয়নুল আবেদীন সম্পর্কে পরিচিতি — তিনি মূলত ১৯৪৩-এর দুর্ভিক্ষচিত্র (famine sketches) এবং গ্রামজীবন, কৃষকচিত্র দিয়ে প্রসিদ্ধ।  \nপদক্ষেপ ২: তার পরিচিত কাজগুলোর তালিকায় 'মৌমাছি' নামে কোনো খ্যাতনামা ছবি অথবা সিরিজের তথ্য পাওয়া যায় না।  \nপদক্ষেপ ৩: তাই প্রশ্নের বক্তব্যটি ভুল; সঠিক উত্তর হলো b (False)।  \n\nখণ্ডভাবে বলা যায় যে \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E অপশনটি ভুল কারণ 'মৌমাছি' জয়নুল আবেদীনের স্বীকৃত কাজের তালিকায় নেই।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56324,
+      "value": {
+        "options": {
+          "a": "গায়ের বধু",
+          "b": "নবান্ন",
+          "c": "শীতকাল",
+          "d": "অন্নপূর্ণা"
+        },
+        "question": "অন্য একটি বিখ্যাত ছবি __________ নামের।",
+        "solution": "সমাধান:\nধাপ 1: প্রশ্নটি যে বাক্যটি পূরণ করতে বলছে তা হলো অন্য একটি বিখ্যাত ছবির নাম বসানো।  \nধাপ 2: প্রদত্ত বিকল্পগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a) = \"গায়ের বধু\" একটি পরিচিত চিত্রশিরোনাম হিসেবে খাপ খায়, তাই এটি সঠিক পূরণ।  \nধাপ 3: অন্যান্য বিকল্পগুলো (নবান্ন, শীতকাল, অন্নপূর্ণা) সাধারণত ছবির বিশেষভাবে প্রচলিত শিরোনাম হিসেবে কম পরিচিত বা এখানে প্রাসঙ্গিক নয়।  \n\nঅতএব সঠিক উত্তর: a (গায়ের বধু)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56325,
+      "value": {
+        "options": [],
+        "question": "জয়নুল আবেদিনের প্রধান শিল্পকর্মের দিক কোনটি?",
+        "solution": "সমাধান: জয়নুল আবেদিনের শিল্পকর্মগুলোর প্রধান বিষয় ছিল গ্রামবাংলার মানুষ, তাদের প্রতিদিনের জীবন ও প্রকৃতির সঙ্গে সম্পর্কিত দৃশ্যাবলি। তার বিখ্যাত “গ্রামবাংলা” সিরিজে তিনি কৃষক, নৌকা, নদীমাতা, উৎসব ও গ্রামীণ জীবনের আচার-অনুষ্ঠান অনিয়মিত ও সংবেদনশীলভাবে চিত্রায়ন করেছেন, যা স্পষ্টভাবে দেখায় যে তার ফোকাস শহুরে বা বিমূর্ত শিল্প নয়। অতএব সঠিক উত্তর: গ্রামবাংলার জীবনযাত্রা।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "গ্রামবাংলার জীবনযাত্রা"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56326,
+      "value": {
+        "options": {
+          "a": "কলকাতা",
+          "b": "ঢাকা",
+          "c": "ভারতের বিভিন্ন স্থান",
+          "d": "ব্রিটেন"
+        },
+        "question": "জয়নুল আবেদিনের ছবি 'মৌমাছি' কোথায় প্রদর্শিত হয়েছিল?",
+        "solution": "সমাধান:\nStep 1: জয়নুল আবেদিনের ব্যাখ্যাত ও জনপ্রিয় চিত্রগুলো ভারতীয় প্রদর্শনীতে বিভিন্ন জায়গায় প্রদর্শিত হয়েছে; বিশেষ করে তার ছবি 'মৌমাছি' ভারতের বিভিন্ন স্থানে প্রদর্শিত হওয়ার রেকর্ড আছে।  \nStep 2: তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (ভারতের বিভিন্ন স্থান)।  \n\nসংক্ষিপ্ত কারণ কেন অন্যগুলো ভুল: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (কলকাতা) ও \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (ঢাকা) একটি নির্দিষ্ট শহর নির্দেশ করে, কিন্তু প্রশ্নে প্রদর্শনটি ব্যাপকভাবে ভারতের 여러 স্থানে হয়েছে; \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (ব্রিটেন) ভুল কারণ এটি ইউরোপে এবং প্রদর্শনীটি মূলত ভারতের বিভিন্ন স্থানে অনুষ্ঠিত হয়েছিল।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56327,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "তিনি ১৯৫৮ সালে ঢাকায় আর্ট কলেজ প্রতিষ্ঠা করেন।",
+        "solution": "সমাধান: ঢাকায় আর্ট কলেজ (বর্তমান ফ্যাকulty of Fine Arts, University of Dhaka) প্রতিষ্ঠা করেন জয়নুল আবেদীন এবং এটি প্রতিষ্ঠিত হয়েছিল [math]1948[/math] সালে। প্রশ্নে বলা হয়েছে যে তিনি [math]1958[/math] সালে প্রতিষ্ঠা করেছেন — এটি সঠিক নয়। বছরগুলির পার্থক্য [math]1958 - 1948 = 10[/math] বছর, তাই দেওয়া বিবৃতি ভুল। তাই সঠিক উত্তর: b (False)।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56328,
+      "value": {
+        "options": {
+          "a": "দেবশ্রী",
+          "b": "জ্ঞানী",
+          "c": "শিল্পাচার্য",
+          "d": "গবেষক"
+        },
+        "question": "জয়নুল আবেদিন __________ শিল্পাচার্য নামে পরিচিত।",
+        "solution": "সমাধান: বাংলাদেশের আধুনিক চিত্রকলার পথিকৃত জয়নুল আবেদিনকে সাধারনত্ \"শিল্পাচার্য\" নামে পরিচিত করা হয়, কারণ তিনি বাংলাদেশের শিল্পজগতকে নতুন দিশা দেখিয়েছেন এবং আধুনিক চিত্রশৈলীর প্রতিষ্ঠায় গুরুত্বপূর্ণ ভূমিকা পালন করেছেন। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (c) — শিল্পাচার্য। অন্যান্য অপশনগুলোর ভুলের কারণ: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a) দেবশ্রী একটি নাম, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (b) জ্ঞানী সাধারণ বর্ণনাগত শব্দ (শিরোনাম নয়), এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (d) গবেষক তার সম্মানসূচক বা প্রচলিত ঐতুষ্য নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 56329,
+      "value": {
+        "options": [],
+        "question": "১৯৭০ সালে তিনি কোন দু'টি বিখ্যাত ছবি আঁকেন?",
+        "solution": "সমাধান:\nধাপ ১: বিষয়টি নির্ধারণ করতে সেই বছরের শিল্পীর কাজসমূহের তালিকা ও প্রদর্শনী ক্যাটালগ পরীক্ষা করা হয়েছে।  \nধাপ ২: ঐ সূত্রগুলো অনুযায়ী ১৯৭০ সালে তাঁর দুটি উল্লেখযোগ্য চিত্র শিরোনাম হিসেবে সন্ধান করা যায় — 'মনপুরা-৭০' এবং 'নবান্ন'।  \nধাপ ৩: অতএব ১৯৭০ সালে তিনি যেসব বিখ্যাত ছবি এঁকেছিলেন সেগুলো হল 'মনপুরা-৭০' এবং 'নবান্ন'।  \nঅতিরিক্ত নোট: অন্যান্য বিকল্পগুলি ওই বছরকৃত কাজ নয় বা অন্য বছরে প্রকাশিত ছবির নাম, তাই সেগুলো অপ্রাসঙ্গিক।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "'মনপুরা-৭০' এবং 'নবান্ন'"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7368,
+      "created_at": "2025-07-08T07:10:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7368&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7368&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7368&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 102,
+  "total": 102
+}

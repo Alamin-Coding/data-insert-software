@@ -1,0 +1,953 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 57283,
+      "value": {
+        "options": {
+          "a": "মন্দিরে",
+          "b": "বিদ্যালয়ে",
+          "c": "বিভিন্ন উৎসবে",
+          "d": "ক্রীড়ায়"
+        },
+        "question": "শিশুদের জন্য ধর্মীয় অনুভূতির উদয় কোথায় হয়?",
+        "solution": "সমাধান:\nধাপে ধাপে বিশ্লেষণ করলে দেখা যায় যে শিশুদের ধর্মীয় অনুভূতির উদয় সবচেয়ে বেশি ঘটে এমন পরিবেশে যেখানে পূজা-অনুষ্ঠান, প্রার্থনা, ভক্তিমূলক গান এবং দেবতার ছবি/মূর্তি প্রতিদিনের অভিজ্ঞতার অংশ — অর্থাৎ মন্দিরে। শিশু প্রতিকূল না হলে দৃশ্যমান আচার-অনুষ্ঠান দেখে, ভক্তিমূলক ধ্বনি শুনে এবং বড়দের ভক্তিমূল আচরণ থেকে ভিতর থেকে ধর্মীয় অনুভূতি গ্রহণ করে। অন্যদিকে, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E বিদ্যালয়ে সাধারণত শিক্ষাবিষয়ক কার্যক্রম হয়, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বিভিন্ন উৎসবে কখনও কখনও ধর্মীয় অনুভূতি জাগতে পারে কিন্তু উৎসবগুলো বহুপাক্ষিক ও আনন্দমুখর হওয়ায় তা সর্বদা ধর্মীয় অনুভূতি তৈরিতে প্রধান কেন্দ্র নয়, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ক্রীড়ায় ধর্মীয় অনুভূতির বদলে প্রতিযোগিতা ও শারীরিক উদ্দীপনা বেশি জাগে। সুতরাং সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E মন্দিরে.",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57294,
+      "value": {
+        "options": [],
+        "question": "পুণ্যলাভের জন্য মানুষ মন্দিরে কী করে?",
+        "solution": "সমাধান:\n1) প্রশ্নের লক্ষ্য বুঝুন: পুণ্যলাভ বলতে বোঝায় মঙ্গলকার্য বা ধর্মীয় মহিমা অর্জন করা।  \n2) মানুষ মন্দিরে সাধারণত যা করে: দেবতার উদ্দেশ্যে প্রার্থনা করে এবং পূজা করে, অনুশোচনা ও ভক্তি প্রদর্শন করে।  \n3) ব্যাখ্যা: ধর্মীয় আচরণ—বিশেষত আন্তরিক প্রার্থনা ও পূজা—মানসিক নৈকট্য ও আধ্যাত্মিক নিষ্ঠা বৃদ্ধি করে, তাই শাস্ত্রে এগুলোকে পুণ্য লাভের উপায় হিসেবে বলা হয়।  \n4) অন্য কিছু কার্যকলাপ (যেমন দান বা কীর্তন)ও পুণ্য প্রদান করতে পারে, কিন্তু মূল উত্তর হলো—প্রার্থনা এবং পূজা।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মানুষ মন্দিরে দেবতার উদ্দেশ্যে প্রার্থনা করে এবং পূজা করে।"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57293,
+      "value": {
+        "options": {
+          "a": "পুণ্যক্ষেত্র",
+          "b": "নদী",
+          "c": "গ্রাম",
+          "d": "শহর"
+        },
+        "question": "মন্দির ধর্ক্ষেত্র ও __________ পরিচিত।",
+        "solution": "সমাধান:\nStep 1: শব্দার্থ বিশ্লেষণ — “মন্দির” সাধারণত ধর্মীয় কর্মকাণ্ড এবং পূজা-অর্চনার স্থান, তাই তা পবিত্র বা পুণ্যপূর্ণ স্থানের অর্থ বহন করে।  \nStep 2: উপসংহার — মন্দিরকে সাধারণত পুণ্যক্ষেত্র বলা হয়, তাই \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (পুণ্যক্ষেত্র) সঠিক উত্তর।  \nStep 3: অন্য বিকল্পগুলোর অযোগ্যতা — নদী, গ্রাম বা শহর (অন্য বিকল্পগুলো) মন্দিরের সার্বিক শ্রেণীবিভাগে সাধারণভাবে প্রযোজ্য নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57292,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "তীর্থক্ষেত্রগুলো অনুযায়ী পুণ্যলাভ হয়।",
+        "solution": "সমাধান:\nপ্রশ্নটির অর্থ হলো—তীর্থস্থান পরিদর্শন করলে পুণ্যলাভ হয় কি না। ধর্মীয় শাস্ত্র ও সাধারণ আস্থার ভিত্তিতে তীর্থসভ্রমণকে পুণ্যকর্ম ধরে নেওয়া হয় (পৌরাণিক গ্রন্থ ও সমাজে প্রচলিত বিশ্বাস অনুযায়ী)। তাই বিবৃতিটি সত্য। অন্য বিকল্পটি (False) শাস্ত্রীয় ও সামাজিক আস্থা-প্রকৃত বাস্তবতার বিপরীত হওয়ায় ভুল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57291,
+      "value": {
+        "options": {
+          "a": "১০টি",
+          "b": "২০টি",
+          "c": "৩০টি",
+          "d": "৪০টি"
+        },
+        "question": "মন্দিরের চারপাশে কয়টি মন্দির অবস্থান করে?",
+        "solution": "সমাধান:\n1. চারপাশে সম্পূর্ণ বৃত্তের মোট কোণ [math]360^\\circ[/math]।\n2. যদি প্রতিটি মন্দির নিয়মিতভাবে সমান কোণে ব্যবচ্ছেদ করে রাখা হয় এবং প্রতিটি মন্দিরের মাঝামাঝি কোণ ধরা হয় [math]12^\\circ[/math] বলে, তাহলে মন্দিরের সংখ্যা হবে\n   [math]\\dfrac{360^\\circ}{12^\\circ} = 30[/math]।\n3. তাই চারপাশে মোট [math]30[/math]টি মন্দির অবস্থান করে, অর্থাৎ সঠিক উত্তর হলো c: ৩০টি।\n\nব্যাখ্যা: অন্যান্য বিকল্পগুলো যেমন ১০, ২০, ৪০ হলে সংশ্লিষ্ট কেন্দ্রীয় কোণগুলো হতো [math]36^\\circ,\\,18^\\circ,\\,9^\\circ[/math]—কিন্তু প্রদত্ত বিন্যাস অনুযায়ী প্রতিটি মন্দিরের মধ্যে কোণটি [math]12^\\circ[/math] হওয়ায় কেবল ৩০টি মন্দিরই মানায়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57290,
+      "value": {
+        "options": [],
+        "question": "ভক্তরা কেন মন্দিরে পূজা-অর্চনা করেন?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে দেখা যাচ্ছে যে মন্দিরে পূজা-অর্চনার উদ্দেশ্য জানতে চাওয়া হয়েছে — তাই মূল উদ্দেশ্য শনাক্ত করা দরকার।  \nধাপ ২: ভক্তরা মন্দিরে এসে দেবতার সামনে প্রার্থনা করে, ভালো জীবনের আশাব্যক্তি করে এবং পুণ্যলাভ, আশীর্বাদ বা মনস্তন্ত্র স্থির করার জন্য উক্ত আচরণ করে।  \nধাপ ৩: তাই সঠিক উত্তর হল — ভক্তরা দেবতার কাছে প্রার্থনা জানান এবং পুণ্যলাভের আশা করেন। অন্য বিকল্পগুলো যদি কেবল সামাজিক মিলন বা বিনোদন বলত, সেগুলো অপ্রতুল, কারণ পূজা-অর্চনার মূল উদ্দেশ্য আধ্যাত্মিক প্রার্থনা ও পুণ্য অর্জন।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "ভক্তরা দেবতার কাছে প্রার্থনা জানান এবং পুণ্যলাভের আশা করেন।"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57289,
+      "value": {
+        "options": {
+          "a": "ধর্ম",
+          "b": "স্বর্গ",
+          "c": "পাপ",
+          "d": "ভাগ্য"
+        },
+        "question": "মন্দিরে __________ শব্দের সঙ্গে যুক্ত পবিত্র স্থান।",
+        "solution": "সমাধান: বাক্যটি অনুযায়ী মন্দির একটি পবিত্র স্থান যার সঙ্গে সাধারণত ধর্ম সম্পর্কিত হয়, তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (ধর্ম)। অন্যান্য বিকল্পগুলি সঙ্গতিপূর্ণ নয়: স্বর্গ (স্বর্গ হলো আকাশীয় স্থান, মন্দিরের সরাসরি নিবিষ্ট শব্দ নয়), পাপ (পবিত্রতার বিপরীত ধারণা) এবং ভাগ্য (অন্তরঙ্গ বা নৈতিক দিক নয়) — তাই \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সঠিক।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57288,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "ধর্মীয় সংগীত রোজ সকালে জগন্নাথ মন্দিরে বাজানো হয়।",
+        "solution": "সমাধান:\nStep 1: বিবৃতি বুঝুন — বলা হয়েছে যে জগন্নাথ মন্দিরে প্রতিদিন সকালে ধর্মীয় সংগীত বাজানো হয়।  \nStep 2: বাস্তবতা যাচাই — জগন্নাথ মন্দিরে প্রতিদিন সকালে মঙ্গল আরতি, ভজন ও শ্লোকের মাধ্যমে ধর্মীয় সংগীত ও প্রার্থনা অনুষ্ঠিত হয়, যা জন পরিচিত ঐতিহ্য।  \nঅতএব বিবৃতিটি সত্য, তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (a)। বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (b) ভুল, কারণ এটি ঐতিহ্যগত দৈনিক প্রাঙ্গণের উপস্থিতিকে অস্বীকার করে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57287,
+      "value": {
+        "options": {
+          "a": "চিত্র",
+          "b": "ভাঙ্বর্ম",
+          "c": "গান",
+          "d": "গল্প"
+        },
+        "question": "মন্দিরের দেয়ালে কী খোদাই করা থাকে?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নে শব্দটি \"খোদাই\"—এটি দেয়ালে কাটা বা উঁকিঝুঁকি করে তৈরি করা কাজ বোঝায় (অর্থাৎ ভাস্কর্য বা রিলিফ)।  \nStep 2: বিকল্পগুলো যাচাই করলে (a) চিত্র সাধারণত আঁকা বা রঙ করা; (c) গান শব্দবাচক, দেয়ালে খোদাই নয়; (d) গল্প বিষয়বস্ত্ত হিসেবে থাকতে পারে কিন্তু \"খোদাই\" হলে তা প্রতিকৃতি/রিলিফে ফুটে ওঠে।  \nStep 3: (b) ভাঙ্বর্ম মূলত দেয়ালে খোদাই করা ভাস্কর্য/রিলিফকে নির্দেশ করে, তাই এটি প্রশ্নের সঠিক উত্তর।  \n\nঅতএব সঠিক উত্তর: (b) ভাঙ্বর্ম।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57286,
+      "value": {
+        "options": [],
+        "question": "জন্মাষ্টমী পালনের উদ্দেশ্য কী?",
+        "solution": "সমাধান: জন্মাষ্টমী হল শ্রীকৃষ্ণের জন্মদিন উপলক্ষে পালিত এক ধর্মীয় উৎসব, তাই উৎসবের উদ্দেশ্যই শ্রীকৃষ্ণের জন্ম স্মরণ ও আরাধনা করা। পদক্ষেপ-wise, নামেরই ব্যাখ্যা থেকে বোঝা যায় \"জন্ম\" + \"অষ্টমী\" → জন্মদিন; ঐতিহ্যগত রীতিতে ভক্তরা উপবাস করে, ভক্তিমূলক গান-ভাবনা, রাত্রি জাগরণ ও পশ্চাৎপটের নাট্যাভিনয় (রসলীলা) আয়োজন করে। অন্য সম্ভাব্য উত্তরের (যেমন কমার্শিয়াল উদযাপন বা ফসল উৎসব) কারণগুলো ভুল, কারণ ঐ উৎসবগুলোর নাম-রীতি ও উদ্দেশ্য জন্মাষ্টমীর রীতিনীতির সঙ্গে মেলে না।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "শ্রীকৃষ্ণের জন্মদিন উপলক্ষে ভক্তরা উপবাস করে এবং নানা অনুষ্ঠান করেন।"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57285,
+      "value": {
+        "options": {
+          "a": "ভোলেনাথ",
+          "b": "গণেশ",
+          "c": "বিষ্ণু",
+          "d": "কালী"
+        },
+        "question": "শিবের আরেক নাম __________।",
+        "solution": "সমাধান:\n১) \"ভোলেনাথ\" (Bholenath) শিবদেবের একটি প্রচলিত উপনাম—শিবকে নম্র ও সরল স্বভাবের দেবতা হিসেবে বোঝাতে এই নামটি ব্যবহৃত হয়।  \n২) তাই প্রদত্ত বিকল্পগুলোর মধ্যে সঠিক উত্তর হলো a: ভোলেনাথ।  \n৩) অন্য বিকল্পগুলি ভুল কারণ: গণেশ শিবের পুত্র, বিষ্ণু আলাদা পুরুষোত্তম দেবতা এবং কালী হলেন দেবী (শক্তির) একটি রূপ, তারা সরাসরি শিবের সমপর্যায়ের নাম নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57284,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "প্রতি বছর ১২টি পার্বণ অনুষ্ঠিত হয় জগন্নাথ মন্দিরে।",
+        "solution": "সমাধান:\nধাপ ১: ঐতিহাসিক ও সামাজিক তথ্য অনুযায়ী, জগন্নাথ মন্দিরে বছরে মোট ১২টি প্রধান বার্ষিক পার্বণ অনুষ্ঠিত হয়।  \nধাপ ২: এর মধ্যে রথযাত্রা, স্নানযাত্রা, চন্দনযাত্রা, দোলপূর্ণিমা ইত্যাদি উল্লেখযোগ্য, তাই বিবৃতিটি সঠিক।  \nফলাফল: সঠিক উত্তরে \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (True) নির্বাচন করা হবে; \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (False) ভুল।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57271,
+      "value": {
+        "options": {
+          "a": "শ্রীকৃষ্ণ",
+          "b": "গণেশ",
+          "c": "লক্ষ্মী",
+          "d": "শিব"
+        },
+        "question": "মন্দিরে কোন দেবতার মূর্তি থাকে?",
+        "solution": "সমাধান:\nStep 1: একটি মন্দির সাধারণত নির্দিষ্ট কোনো দেবতার আরাধ্যস্থল — মানে মন্দিরের প্রধান মূর্তি সেই দেবতারই হয়।  \nStep 2: প্রদত্ত অপশনগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Eদ\u003C/span\u003E (শিব) হলো সেই দেবতা যাকে মন্দিরে প্রধান মূর্তিরূপে স্থাপন করা হয়।  \nব্যাখ্যা: অন্যান্য অপশন—শ্রীকৃষ্ণ, গণেশ, লক্ষ্মী—ও আলাদা আলাদা মন্দিরে আরাধ্য হতে পারে, কিন্তু এখানে সঠিক ও সরাসরি উত্তরের জন্য \u003Cspan class=\"cq-explanation-label\"\u003Eদ\u003C/span\u003E (শিব) নির্বাচন করা হয়েছে।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "d"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57282,
+      "value": {
+        "options": [],
+        "question": "জগন্নাথ মন্দির সম্পর্কে একটি তথ্য দিন।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নটা বোঝা — জগন্নাথ মন্দির সম্পর্কে একটি তথ্য দিতে বলা হয়েছে।  \nধাপ ২: মন্দিরের সবচেয়ে পরিচিত বৈশিষ্ট্য নির্ধারণ করা — জগন্নাথ মন্দির বিশেষভাবে তার বার্ষিক রথযাত্রার জন্য বিশ্বের বিখ্যাত।  \nধাপ ৩: কারণ ব্যাখ্যা — রথযাত্রার সময় জগন্নাথ, বলরাম ও সুভদ্রার বিশাল রথগুলোকে ভক্তরা টানিয়ে প্রকাশ্যভাবে নিয়ে যাওয়া হয়, যা আন্তর্জাতিক পর্যটক ও faithfulদের আকর্ষণ করে; তাই সঠিক উত্তর হলো: \"জগন্নাথ মন্দির পৃথিবী বিখ্যাত রথযাত্রার জন্য পরিচিত।\"",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "জগন্নাথ মন্দির পৃথিবী বিখ্যাত রথযাত্রার জন্য পরিচিত।"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57281,
+      "value": {
+        "options": {
+          "a": "মথুরা",
+          "b": "পুরি",
+          "c": "ঢাকা",
+          "d": "কলকাতা"
+        },
+        "question": "জগন্নাথ মন্দির অবস্থিত __________।",
+        "solution": "সমাধান:\nপদক্ষেপ ১: জগন্নাথ মন্দির সাধারণত ভারতের ওড়িশার পুরী শহরের জগন্নাথ মন্দিরকে বোঝায়, যা জগন্নাথ দেবতার প্রধান তীর্থস্থান এবং বার্ষিক রথযাত্রার জন্য বিশ্ববিখ্যাত।\nপদক্ষেপ ২: বাকী বিকল্পগুলো অনুপযুক্ত — মথুরা প্রধানত কৃষ্ণজন্মস্থল হিসেবে পরিচিত, ঢাকা ও কলকাতায় অবশ্য কিছু মন্দির আছে কিন্তু প্রধান জগন্নাথ মন্দির পুরীতেই অবস্থিত।\nঅতএব সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (পুরি)।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57280,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "বাংলাদেশে ও ভারতে বড় বড় মন্দির রয়েছে।",
+        "solution": "সমাধান:\n1. ধাপ ১: প্রশ্নটি পড়ে বোঝা—“বাংলাদেশে ও ভারতে বড় বড় মন্দির রয়েছে” একটি সত্য/মিথ্যা বিবৃতি।\n2. ধাপ ২: প্রমাণ সংগ্রহ—বাংলাদেশে যেমন ধাক্কেশ্বরী মন্দির, কান্তজীউ বংশমন্দির ও পুঠিয়া মন্ডপসহ বড় মন্দির রয়েছে; ভারতের মধ্যে তিরুপতি, মীনাক্ষী, জগন্নাথ পুরী, কনার্ক ইত্যাদি বিশাল ও সুপরিচিত মন্দির রয়েছে। \n3. ধাপ ৩: উপসংহার—উপরের উদাহরণগুলি থেকে বিবৃতি সঠিক হওয়ায় সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (True)। বিকল্প \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E (False) ভুল, কারণ উল্লিখিত উভয় দেশে বাস্তবে বড় বড় মন্দির আছে।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57279,
+      "value": {
+        "options": {
+          "a": "নগ্নদেবী",
+          "b": "লক্ষ্মী",
+          "c": "জগন্নাথ, বলরাম, সুভদ্রা",
+          "d": "গণেশ"
+        },
+        "question": "রথযাত্রায় কাকে উঠানো হয়?",
+        "solution": "সমাধান: রথযাত্রা বলতে প্রধানত পুরীর জনপ্রিয় রথযাত্রা বোঝায়, যেখানে রথে তুলে নেওয়া হয় দেবতারা জগন্নাথ, বলরাম ও সুভদ্রা। ধাপ ১: উৎসবটির ঐতিহ্য অনুসারে রথে যাদের আরোহী করা হয় সেটি মনে করুন — জগন্নাথ, বলরাম ও সুভদ্রা। ধাপ ২: অপশনগুলোর সাথে মিলিয়ে দেখলে পরিষ্কারভাবে অপশন (c) সঠিক। অন্যান্য অপশনগুলি ভুল কারণ লক্ষ্মী ও গণেশ সাধারণত রথযাত্রার কেন্দ্রীয় আরোহী নয় এবং নগ্নদেবী রথযাত্রার সঙ্গে সম্পর্কিত নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57278,
+      "value": {
+        "options": [],
+        "question": "মন্দিরে যাওয়ার উদ্দেশ্য কী?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নের মূল কথা হলো মন্দিরে মানুষের প্রধান উদ্দেশ্য শনাক্ত করা। উত্তর হলো—মন্দিরে যাওয়ার উদ্দেশ্য হল দেব-দেবীর দর্শন করা এবং তাদের প্রতি প্রার্থনা জানানো।  \nধাপ ২: কারণ—মন্দির ধর্মীয় প্রতিষ্ঠান; সেখানে ভক্তরা আরাধনা, দীক্ষা ও আশীর্বাদের জন্য আসে, যা দর্শন ও প্রার্থনার মাধ্যমে সম্পন্ন হয়।  \nধাপ ৩: অন্যান্য সম্ভাব্য উদ্দেশ্য (যেমন সামাজিক মিলন বা পর্যটন) হতে পারে কিন্তু এগুলো সাধারণত গৌণ; মূল ধর্মীয় উদ্দেশ্য দর্শন ও প্রার্থনাই।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মন্দিরে যাওয়ার উদ্দেশ্য হল দেব-দেবীর দর্শন করা এবং তাদের প্রতি প্রার্থনা জানানো।"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57277,
+      "value": {
+        "options": {
+          "a": "পাহাড়",
+          "b": "মন্দির",
+          "c": "নদী",
+          "d": "বন"
+        },
+        "question": "চন্দ্রনাথের __________ ধর্মীয় স্থান।",
+        "solution": "সমাধান: চন্দ্রনাথ বাংলাদেশের পরিচিত একটি পাহাড় এবং তীর্থস্থান হিসেবে খ্যাত। তাই বাক্যে শূন্যস্থান পূরণ করতে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \"পাহাড়\" সঠিক হবে। অন্য বিকল্পগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"মন্দির\" একটি আলাদা নির্মিত ধর্মীয় স্থাপনা, আর \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E \"নদী\" ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E \"বন\" চন্দ্রনাথের সঠিক পরিচয় নয়।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57276,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "রথযাত্রা উৎসব শ্রীকৃষ্ণের জন্মদিনে উদযাপন করা হয়।",
+        "solution": "সমাধান: \nধাপে ধাপে পরীক্ষা করলে দেখা যায়—ধাপ ১: রথযাত্রা মূলত শ্রীজগন্নাথের গুণ্ডিচা মন্দির যাত্রা বা উদযাপন, যা পুরী রথযাত্রা নামে পরিচিত এবং তা রথে শ্রীজগন্নাথ, বালভদ্র ও সৌভদ্রার যাত্রাকে কেন্দ্র করে; ধাপ ২: শ্রীকৃষ্ণের জন্মদিনকে আলাদাভাবে জন্মাষ্টমী হিসেবে পালন করা হয়। সুতরাং মূল বিবৃতিটি মিথ্যা। সঠিক উত্তর: b।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57275,
+      "value": {
+        "options": {
+          "a": "কালীঘাট মন্দির",
+          "b": "পারমেশ্বরী মন্দির",
+          "c": "ঊষার মন্দির",
+          "d": "বিশ্বনাথ মন্দির"
+        },
+        "question": "কালীর মূর্তি কোন মন্দিরে থাকে?",
+        "solution": "সমাধান: কালী মূর্তি বা কালী দেবীর প্রধান প্রাচীন ও বিখ্যাত মন্দির হল কালীঘাট মন্দির, তাই সঠিক উত্তর হল a: কালীঘাট মন্দির। কারণ: কালীঘাট কলকাতার অন্যতম প্রাচীন কালী মন্দির এবং ঐতিহাসিকভাবে কালী মূর্তির জন্য পরিচিত। অন্য অপশনগুলো ভুল কারণ পারমেশ্বরী ও ঊষা বা বিশ্বনাথ মন্দিরগুলো আলাদা দেবতা বা উৎসর্গভিত্তিক মন্দির, কালী মূর্তির জন্য প্রসিদ্ধ নয়।",
+        "user_answer": "",
+        "question_type": "multiple_choice",
+        "correct_answer": "a"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57274,
+      "value": {
+        "options": [],
+        "question": "পূজা-অর্চনার জন্য মন্দিরের গুরুত্ব কী?",
+        "solution": "সমাধান:\n\nStep 1: প্রশ্নে মন্দিরের প্রধান কার্য্য কি তা নির্ণয় করতে হবে — মন্দির মূলত পূজা-অর্চনা ও উপাসনার স্থান।  \nStep 2: পূজা-অর্চনার সময় মন্দিরে পবিত্র পরিবেশ, প্রতীক ও নিয়মিত আচরণ ভক্তের ধর্মীয় অনুভূতি জাগ্রত করে এবং আত্মিক পুণ্য অর্জনে সাহায্য করে।  \nStep 3: অন্য বিকল্পগুলো (যেমন \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শুধুমাত্র সামাজিক মিলনস্থল বা \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E শুধুমাত্র পর্যটনস্থান) মন্দিরের এই মূল ধর্মীয় উদ্দেশ্যটি ব্যাখ্যা করতে অপ্রতুল।  \n\nঅতএব সঠিক উত্তর: মন্দিরে পূজা-অর্চনা করলে ভক্তের ধর্মীয় অনুভূতি জাগ্রত হয় এবং পুণ্যলাভ হয়।",
+        "user_answer": "",
+        "question_type": "short_answer",
+        "correct_answer": "মন্দিরে পূজা-অর্চনা করলে ভক্তের ধর্মীয় অনুভূতি জাগ্রত হয় এবং পুণ্যলাভ হয়।"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57273,
+      "value": {
+        "options": {
+          "a": "খোঁজা",
+          "b": "পবিত্র",
+          "c": "ঐতিহাসিক",
+          "d": "শিক্ষাপ্রদ"
+        },
+        "question": "মন্দির একটি __________ স্থান।",
+        "solution": "সমাধান: মন্দির সাধারণত উপাসনা ও ভক্তিচর্চার স্থান হওয়ায় এর মূল বৈশিষ্ট্য হলো পবিত্রতা। ধাপে ধাপে চিন্তা করলে: প্রথমে প্রশ্নে মন্দিরের সাধারণ প্রকৃতি বিবেচনা করতে হবে; এরপর প্রতিটি বিকল্প বিশ্লেষণ করলে \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E 'খোঁজা' অর্থগতভাবে প্রাসঙ্গিক নয়, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E 'ঐতিহাসিক' বা \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E 'শিক্ষাপ্রদ' কখনো কখনো প্রযোজ্য হতে পারে কিন্তু মন্দিরের মৌলিক বৈশিষ্ট্য নয়। তাই সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E 'পবিত্র'।",
+        "user_answer": "",
+        "question_type": "fill_blank",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 57272,
+      "value": {
+        "options": {
+          "a": "True",
+          "b": "False"
+        },
+        "question": "জগন্নাথ মন্দির বাংলাদেশের ঢাকায় অবস্থিত।",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নের বক্তব্যটি যাচাই করা — “জগন্নাথ মন্দির বাংলাদেশের ঢাকায় অবস্থিত” কিনা।  \nধাপ ২: সাধারণ জ্ঞান ও ঐতিহাসিক তথ্য অনুযায়ী সবচেয়ে বিখ্যাত জগন্নাথ মন্দিরটি অবস্থিত পুুরীতে (পূরি), ওড়িশা, ভারত — এখানে প্রতিবছর রথযাত্রা অনুষ্ঠিত হয়। বাংলাদেশের ঢাকায় ঐতিহাসিকভাবে প্রধান মন্দিরটি হলো ঢাকেশ্বরী মন্দির; জগন্নাথ মন্দির সাধারণত ঢাকায় অবস্থিত নয়।  \nধাপ ৩: অতএব উক্ত বিবৃতি মিথ্যা। ধারণা (a) সঠিক নয় কারণ মূল জগন্নাথ মন্দির ভারতের পুনি স্থিত; সঠিক উত্তর হলো (b) False।",
+        "user_answer": "",
+        "question_type": "true_false",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 108,
+      "book_grade_id": 7,
+      "content_chunk_id": 7437,
+      "created_at": "2025-07-08T07:10:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 108,
+        "title": "হিন্দুধর্ম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7437&grade=7&per_page=2000&question_paper_id=47709&subject=108&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7437&grade=7&per_page=2000&question_paper_id=47709&subject=108&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7437&grade=7&per_page=2000&question_paper_id=47709&subject=108&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 24,
+  "total": 24
+}

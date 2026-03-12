@@ -1,0 +1,4819 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 744785,
+      "value": {
+        "options": [],
+        "question": "চড়ুইয়ের মতো চঞ্চল স্বভাবের পাখি কোনটি? তার গঠন বৈশিষ্ট্য লেখ।",
+        "solution": "চড়ুইয়ের মতো চঞ্চল স্বভাবের পাখি বুলবুলি। বুলবুলির মাথা ও গলা কালো। মাথার উপর রাজকীয় কালো ঝুঁটি। এর তলপেট সাদা। তলপেটের শেষে লাল ছোপ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744786,
+      "value": {
+        "options": [],
+        "question": "পানির সঙ্গে যার সখ্য, সেই পাখিটির নাম কী? সেই পাখি সম্পর্কে বর্ণনা দাও।",
+        "solution": "পানির সঙ্গে যার সখ্য, সেই পাখিটির নাম পানকৌড়ি। পুকুর, খাল ও বিল এদের বিচরণক্ষেত্র। এ পাখি ডুব দিয়ে তিন মিটার পর্যন্ত সাঁতরাতে পারে। পায়ের পাতা হাঁসের মতো বলে জলে বিচরণ এদের জন্য সহজ। এদের ঠোঁট তীক্ষ্ণ ও বাঁকানো। তীক্ষ্ণ বাঁকানো ঠোঁট দিয়ে এরা মাছ ধরে খায়। এরা জলজ কীটপতঙ্গ খেতে ভালোবাসে।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744787,
+      "value": {
+        "options": [],
+        "question": "শোভা",
+        "solution": "সৌন্দর্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744788,
+      "value": {
+        "options": [],
+        "question": "হলুদাভ",
+        "solution": "হলুদের আভাযুক্ত, হলদেটে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744789,
+      "value": {
+        "options": [],
+        "question": "দোয়েল থাকে লোকালয়ে আর _____ জঙ্গলে।",
+        "solution": "অগভীর",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744790,
+      "value": {
+        "options": [],
+        "question": "সুন্দর",
+        "solution": "কুৎসিত",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744791,
+      "value": {
+        "options": [],
+        "question": "অগভীর",
+        "solution": "গভীর",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744792,
+      "value": {
+        "options": [],
+        "question": "মাথা",
+        "solution": "মস্তক",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744793,
+      "value": {
+        "options": [],
+        "question": "পাখি",
+        "solution": "বিহঙ্গ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744794,
+      "value": {
+        "options": [],
+        "question": "লোকালয়",
+        "solution": "লোকালয় চড়ুই পাখির প্রিয় জায়গা।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744795,
+      "value": {
+        "options": [],
+        "question": "হলুদাভ",
+        "solution": "টুনটুনি পাখির পায়ের রং হলুদাভ।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744796,
+      "value": {
+        "options": [],
+        "question": "কীটপতঙ্গ",
+        "solution": "চড়ুই কীটপতঙ্গ খেয়ে ফসলের শত্রু নাশ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744797,
+      "value": {
+        "options": [],
+        "question": "আচ্ছা মা ভোর না হতেই পাখিরা কিচিরমিচির করা শুরু করে দেয় পাখিরা কি রাতে ঘুমায় না মা বলেন তা হবে কেন",
+        "solution": "আচ্ছা মা, ভোর না হতেই পাখিরা কিচিরমিচির করা শুরু করে দেয়। পাখিরা কি রাতে ঘুমায় না? মা বলেন, তা হবে কেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 49,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 49,
+        "name": "বিরাম চিহ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744798,
+      "value": {
+        "options": {
+          "ক": "দোয়েলের",
+          "খ": "টুনটুনির",
+          "গ": "মাছরাঙার",
+          "ঘ": "পানকৌড়ির"
+        },
+        "question": "'এদের গায়ের রঙ সাদা-কালো'- কাদের?",
+        "solution": "ক. দোয়েলের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744799,
+      "value": {
+        "options": {
+          "ক": "বুলবুলি",
+          "খ": "ফিঙে",
+          "গ": "পানকৌড়ি",
+          "ঘ": "টুনটুনি"
+        },
+        "question": "পানির সঙ্গে যার সখ্য, সেই পাখিটির নাম কী?",
+        "solution": "গ. পানকৌড়ি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744800,
+      "value": {
+        "options": {
+          "ক": "পানডুবি",
+          "খ": "ফিঙে",
+          "গ": "চড়ুই",
+          "ঘ": "বুলবুলি"
+        },
+        "question": "কোন পাখির মাথার উপর রাজকীয় কালো ঝুঁটি?",
+        "solution": "ঘ. বুলবুলি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744801,
+      "value": {
+        "options": [],
+        "question": "ঝগড়া করতে যে পছন্দ করে",
+        "solution": "কলহপ্রিয়",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744802,
+      "value": {
+        "options": [],
+        "question": "বার্তা বহন করে যে",
+        "solution": "দূত",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744803,
+      "value": {
+        "options": [],
+        "question": "স্ক",
+        "solution": "স + ক, বয়স্ক",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744804,
+      "value": {
+        "options": [],
+        "question": "চ্ছ",
+        "solution": "চ + ছ, ইচ্ছা",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744805,
+      "value": {
+        "options": [],
+        "question": "পরিবেশ",
+        "solution": "পরিবেশ মানুষকে প্রভাবিত করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744805,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744806,
+      "value": {
+        "options": [],
+        "question": "ক্লাস",
+        "solution": "শিক্ষক ক্লাসে এলে তাঁকে দাঁড়িয়ে সম্মান করা উচিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744806,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744807,
+      "value": {
+        "options": [],
+        "question": "পাখিরা কোথায় কীভাবে বিচরণ করে?",
+        "solution": "পাখিরা ঝোপে-ঝাড়ে, নদীতীরে বিচরণ করে। কখনো তারা দল বেঁধে আকাশে উড়ে বেড়ায়। কখনো পাতার ফাঁকে চুপ করে বসে থাকে। কখনো খাবারের জন্য পোকামাকড়ের ওপর ঝাঁপিয়ে পড়ে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744808,
+      "value": {
+        "options": [],
+        "question": "ভোর",
+        "solution": "প্রভাত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744809,
+      "value": {
+        "options": [],
+        "question": "রাজকীয়",
+        "solution": "জাঁকজমকপূর্ণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744810,
+      "value": {
+        "options": [],
+        "question": "চড়ুইয়ের প্রিয় জায়গা ______।",
+        "solution": "লোকালয়",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744811,
+      "value": {
+        "options": [],
+        "question": "_____ প্রকৃতির শোভা।",
+        "solution": "পাখিরা",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744812,
+      "value": {
+        "options": [],
+        "question": "মধুর",
+        "solution": "তিক্ত",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744813,
+      "value": {
+        "options": [],
+        "question": "মা",
+        "solution": "জননী",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744814,
+      "value": {
+        "options": [],
+        "question": "ঘর",
+        "solution": "গৃহ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744815,
+      "value": {
+        "options": [],
+        "question": "রাতি",
+        "solution": "নিশি",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744816,
+      "value": {
+        "options": [],
+        "question": "বিচরণ",
+        "solution": "বাংলাদেশজুড়ে বিভিন্ন পাখির বিচরণ দেখা যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744817,
+      "value": {
+        "options": [],
+        "question": "নাশ",
+        "solution": "চড়ুই কীটপতঙ্গ খেয়ে ফসলের শত্রু নাশ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744818,
+      "value": {
+        "options": {
+          "ক": "টিয়া, বাবুই",
+          "খ": "কোকিল, চড়ুই",
+          "গ": "চড়ুই, বাবুই",
+          "ঘ": "চড়ুই, শালিক"
+        },
+        "question": "সাম্য কোন দুয়েকটা পাখি দেখেছে?",
+        "solution": "ঘ. চড়ুই, শালিক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744819,
+      "value": {
+        "options": {
+          "ক": "টুনটুনি",
+          "খ": "পানকৌড়ি",
+          "গ": "টিয়া",
+          "ঘ": "ধনেশ"
+        },
+        "question": "পোকামাকড় খেয়ে পরিবেশ সুন্দর রাখে-",
+        "solution": "ক. টুনটুনি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744820,
+      "value": {
+        "options": [],
+        "question": "কোনো কিছু জানানো",
+        "solution": "ঘোষণা",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744821,
+      "value": {
+        "options": [],
+        "question": "সংযত নয় যে",
+        "solution": "দুর্বিনীত, অসংযত",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744822,
+      "value": {
+        "options": [],
+        "question": "ন্দ",
+        "solution": "ন + দ, আনন্দ",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744823,
+      "value": {
+        "options": [],
+        "question": "স্বভাব",
+        "solution": "যার স্বভাব ভালো তাকে সবাই পছন্দ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744823,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744824,
+      "value": {
+        "options": [],
+        "question": "কানন",
+        "solution": "বাগান।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744825,
+      "value": {
+        "options": [],
+        "question": "ঘুলঘুলি",
+        "solution": "বাতাস চলাচলের জন্য ঘরের দেওয়ালের ওপর দিকে জাফরি বসানো ছোটো জানালা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744826,
+      "value": {
+        "options": [],
+        "question": "বড়ো",
+        "solution": "ছোটো",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744827,
+      "value": {
+        "options": [],
+        "question": "সাদা",
+        "solution": "কালো",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744828,
+      "value": {
+        "options": [],
+        "question": "প্রিয়",
+        "solution": "অপ্রিয়",
+        "correct_answer": null
+      },
+      "question_type_id": 45,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 45,
+        "name": "বীপরিত শব্দ",
+        "answer_type": "checkbox"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744829,
+      "value": {
+        "options": [],
+        "question": "গাছ",
+        "solution": "তরু",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744830,
+      "value": {
+        "options": [],
+        "question": "জলজ",
+        "solution": "শাপলা একটি জলজ উদ্ভিদ।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744831,
+      "value": {
+        "options": [],
+        "question": "খড়কুটো",
+        "solution": "আমগাছে একটি পাখি খড়কুটো দিয়ে বাসা বানিয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744832,
+      "value": {
+        "options": {
+          "ক": "চড়ুই",
+          "খ": "দোয়েল",
+          "গ": "টুনটুনি",
+          "ঘ": "মাছরাঙা"
+        },
+        "question": "কে আমাদের ঘরেরই কেউ?",
+        "solution": "ক. চড়ুই",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744833,
+      "value": {
+        "options": {
+          "ক": "মাছরাঙা",
+          "খ": "পানকৌড়ি",
+          "গ": "চড়ুই",
+          "ঘ": "টুনটুনি"
+        },
+        "question": "কীটপতঙ্গ খেয়ে ফসলের শত্রু নাশ করে-",
+        "solution": "গ. চড়ুই",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744834,
+      "value": {
+        "options": {
+          "ক": "ফুলেরা",
+          "খ": "পাখিরা",
+          "গ": "প্রজাপতিরা",
+          "ঘ": "মায়েরা"
+        },
+        "question": "কারা ভোরের দূত?",
+        "solution": "খ. পাখিরা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744835,
+      "value": {
+        "options": {
+          "ক": "বন্ধু",
+          "খ": "শত্রু",
+          "গ": "অপকারী",
+          "ঘ": "আত্মীয়"
+        },
+        "question": "পাখিরা মানুষের-",
+        "solution": "ক. বন্ধু",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744836,
+      "value": {
+        "options": {
+          "ক": "বুলবুলি",
+          "খ": "পানকৌড়ি",
+          "গ": "টুনটুনি",
+          "ঘ": "দোয়েল"
+        },
+        "question": "খুব দ্রুত উড়তে পারে-",
+        "solution": "ক. বুলবুলি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744837,
+      "value": {
+        "options": [],
+        "question": "কোনো কিছু জানার আগ্রহ",
+        "solution": "কৌতূহল",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744838,
+      "value": {
+        "options": [],
+        "question": "অনেক ফুল ফোটে যেখানে",
+        "solution": "কানন",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744839,
+      "value": {
+        "options": [],
+        "question": "ক্ল",
+        "solution": "ক + ল, ক্লান্তি",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744840,
+      "value": {
+        "options": [],
+        "question": "ন্ত",
+        "solution": "ন + ত, অন্তহীন",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744841,
+      "value": {
+        "options": [],
+        "question": "জ্ঞ",
+        "solution": "জ + ঞ, জ্ঞানী",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744842,
+      "value": {
+        "options": [],
+        "question": "ঙ্গ",
+        "solution": "ঙ + গ, মঙ্গলবার",
+        "correct_answer": null
+      },
+      "question_type_id": 44,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 44,
+        "name": "যুক্তবর্ণ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744742,
+      "value": {
+        "options": [],
+        "question": "বিচরণ",
+        "solution": "বেড়ানো বা ঘোরাফেরা করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744742,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744743,
+      "value": {
+        "options": [],
+        "question": "পরিবেশ",
+        "solution": "চারপাশের অবস্থা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744743,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744744,
+      "value": {
+        "options": [],
+        "question": "সখ্য",
+        "solution": "বন্ধুতা, ভাব।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744744,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744745,
+      "value": {
+        "options": {
+          "ক": "নষ্ট করে",
+          "খ": "দূষণ করে",
+          "গ": "সবুজ রাখে",
+          "ঘ": "সুন্দর রাখে"
+        },
+        "question": "পাখিরা পরিবেশকে-",
+        "solution": "ঘ. সুন্দর রাখে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744745,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744746,
+      "value": {
+        "options": [],
+        "question": "পাখিদের ভোরের দূত বলা হয়েছে কেন?",
+        "solution": "চিরসবুজের এই বাংলাদেশে পাখপাখালিতে ভরপুর। বিভিন্নভাবে এসব পাখি আমাদের উপকার করে। বিশেষ করে ভোর না হতেই কিচিরমিচির শব্দ করে আমাদেরকে নতুন একটি দিনের সংবাদ দিয়ে থাকে। তাই পাখিদের ভোরের দূত বলা হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744746,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744747,
+      "value": {
+        "options": [],
+        "question": "জাতীয় পাখি দোয়েলের খাদ্য কী?",
+        "solution": "আমাদের জাতীয় পাখি দোয়েল। নানা ফুলের মধু ও কীটপতঙ্গ দোয়েলের প্রধান খাদ্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744747,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744748,
+      "value": {
+        "options": [],
+        "question": "ঝুঁটি",
+        "solution": "শীর্ষস্থান, খোঁপা।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744748,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744749,
+      "value": {
+        "options": [],
+        "question": "দূত",
+        "solution": "বার্তাবাহক।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744749,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744750,
+      "value": {
+        "options": {
+          "ক": "বন",
+          "খ": "লোকালয়",
+          "গ": "স্কুলঘর",
+          "ঘ": "আস্তাবল"
+        },
+        "question": "চড়ুই পাখির প্রিয় জায়গা-",
+        "solution": "খ. লোকালয়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744750,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744751,
+      "value": {
+        "options": [],
+        "question": "কোন পাখি পরিবেশ সুন্দর রাখতে সাহায্য করে? কীভাবে?",
+        "solution": "টুনটুনি পাখি পরিবেশ সুন্দর রাখতে সাহায্য করে। টুনটুনি পাখি মানুষের কাছাকাছি থাকতে ভালোবাসে। তাছাড়া এদের প্রিয় খাবার ফুলের মধু ও পোকামাকড়। আর এভাবেই পোকামাকড় খেয়ে এরা আমাদের পরিবেশ সুন্দর রাখতে সাহায্য করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744751,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744752,
+      "value": {
+        "options": [],
+        "question": "চমৎকার",
+        "solution": "সুন্দর, মনোহর।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744752,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744753,
+      "value": {
+        "options": [],
+        "question": "লোকালয়",
+        "solution": "যেখানে লোকজনের বসবাস আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744753,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744754,
+      "value": {
+        "options": [],
+        "question": "পাখিরা মানুষের বন্ধু, এরা অনেক _____।",
+        "solution": "উপকারী",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744754,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744755,
+      "value": {
+        "options": {
+          "ক": "মাছ",
+          "খ": "মাংস",
+          "গ": "কীটপতঙ্গ",
+          "ঘ": "গাছের পাতা"
+        },
+        "question": "পানকৌড়ি খেতে ভালোবাসে-",
+        "solution": "গ. কীটপতঙ্গ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744755,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744756,
+      "value": {
+        "options": [],
+        "question": "বুলবুলি পাখি দেখতে কেমন?",
+        "solution": "নানা রকম পাখপাখালিতে ভরা আমাদের এ বাংলাদেশ। পরিচিত পাখিগুলোর মধ্যে বুলবুলি দেখতে বেশ সুন্দর। এদের মাথা ও গলা কালো। মাথার উপর রাজকীয় কালো ঝুঁটি। এদের তলপেট সাদা। তলপেটের শেষে লাল ছোপ রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744756,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744757,
+      "value": {
+        "options": [],
+        "question": "নাশ",
+        "solution": "ধ্বংস, নষ্ট, ক্ষয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744757,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744758,
+      "value": {
+        "options": [],
+        "question": "নানা ফুলের মধু ও _____ পাখিদের প্রিয় খাবার।",
+        "solution": "কীটপতঙ্গ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744758,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744759,
+      "value": {
+        "options": [],
+        "question": "চড়ুই পাখি _____ থাকতেই বেশি পছন্দ করে।",
+        "solution": "লোকালয়ে",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744759,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744760,
+      "value": {
+        "options": [],
+        "question": "আমাদের _____ রক্ষার প্রতি সচেতন হওয়া উচিত।",
+        "solution": "পরিবেশ",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744760,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744761,
+      "value": {
+        "options": [],
+        "question": "কোন পাখি আমাদের ঘরেরই কেউ? কেন?",
+        "solution": "চড়ুই পাখি আমাদের ঘরেরই কেউ। কারণ চড়ুই পাখি আমাদের বাসাবাড়ির ঘুলঘুলিতে খড়, টুকরো কাপড়, শুকনো ঘাস ইত্যাদি দিয়ে বাসা তৈরি করে। লোকালয়ই এদের প্রিয় জায়গা। তাই আমরা মনে করি, চড়ুই আমাদের ঘরেরই কেউ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744761,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744762,
+      "value": {
+        "options": [],
+        "question": "জগৎ",
+        "solution": "পাখি এ জগৎ সুন্দর করে তোলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744762,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744763,
+      "value": {
+        "options": [],
+        "question": "দূত",
+        "solution": "পাখিদের ভোরের দূত বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744763,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744764,
+      "value": {
+        "options": [],
+        "question": "শস্যদানা",
+        "solution": "অনেক পাখি শস্যদানা খেতে ভালোবাসে।",
+        "correct_answer": null
+      },
+      "question_type_id": 43,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 43,
+        "name": "বাক্য গঠন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 10,
+          "name": "অনুশীলনী",
+          "pivot": {
+            "question_bank_id": 744764,
+            "question_bank_label_id": 10
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 744765,
+      "value": {
+        "options": [],
+        "question": "সাম্য মাকে পাখিদের কথা জিজ্ঞেস করে কেন?",
+        "solution": "সাম্য চড়ুই, শালিকের মতো দুয়েকটা পাখি দেখেছে। কিন্তু আরও যে নানা ধরনের পাখি আছে, সেসব পাখির কথা সাম্যর জানতে ইচ্ছে করে। তাই সাম্য মাকে পাখিদের কথা জিজ্ঞেস করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744766,
+      "value": {
+        "options": [],
+        "question": "ফসলের শত্রু নাশ করে কোন পাখি?",
+        "solution": "ফসলের শত্রু নাশ করে চড়ুই পাখি। চড়ুই পাখি ফসলের জন্য অপকারী কীটপতঙ্গ খেয়ে ফসলের শত্রু নাশ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744767,
+      "value": {
+        "options": [],
+        "question": "সাম্যর মা কেন পাখিদের মানুষের বন্ধু বলেছেন?",
+        "solution": "সাম্যর মা পাখিদের মানুষের বন্ধু বলেছেন। কারণ পাখিরা অনেক উপকারী। কিছু কিছু পাখি পোকামাকড় খেয়ে পরিবেশকে সুন্দর রাখে। ফসলের কীটপতঙ্গ খেয়ে ফসলের শত্রু নাশ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744768,
+      "value": {
+        "options": [],
+        "question": "টুনটুনি পাখির গঠন বৈশিষ্ট্য সম্পর্কে লেখ।",
+        "solution": "টুনটুনি ছোট্ট একটি পাখি। এর পালকের রং জলপাই সবুজ। মাথায় লালচে রঙের ছোপ। লম্বা ঠোঁটের রং কালচে খয়েরি। পায়ের রং হলুদাভ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744769,
+      "value": {
+        "options": [],
+        "question": "\"পাখিরা প্রকৃতির শোভা।\" - একথা বলা হয়েছে কেন?",
+        "solution": "বাংলাদেশের প্রকৃতির সাথে মিশে আছে বিভিন্ন প্রজাতির পাখি। তারা এ দেশের গাছে গাছে, ঝোপে-ঝাড়ে, নদীতীরে বিচরণ করে। তারা দল বেঁধে আকাশে উড়ে বেড়ায়। তারা ফসলের মাঠের পোকামাকড় খেয়ে ফসলের শত্রু নাশ করে। অনেক পাখি পোকামাকড় খেয়ে পরিবেশ সুন্দর রাখে। রংবেরঙের সুন্দর পাখিগুলো প্রকৃতিকে সৌন্দর্যে পরিপূর্ণ করেছে। তাই বলা হয়েছে, “পাখিরা প্রকৃতির শোভা।",
+        "correct_answer": null
+      },
+      "question_type_id": 48,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 48,
+        "name": "রচনামূলক প্রশ্ন",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744770,
+      "value": {
+        "options": [],
+        "question": "রাতি",
+        "solution": "রাত।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744771,
+      "value": {
+        "options": [],
+        "question": "কুসুমকলি",
+        "solution": "ফুলের কলি।",
+        "correct_answer": null
+      },
+      "question_type_id": 47,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 47,
+        "name": "শব্দার্থ",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744772,
+      "value": {
+        "options": [],
+        "question": "ছোট আরেক পাখি _____।",
+        "solution": "টুনটুনি",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744773,
+      "value": {
+        "options": [],
+        "question": "পাখিরা যেন ভোরের _____।",
+        "solution": "দূত",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744774,
+      "value": {
+        "options": [],
+        "question": "চড়ুইয়ের মতো _____ স্বভাবের আরেকটি পাখি হলো বুলবুলি।",
+        "solution": "চঞ্চল",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744775,
+      "value": {
+        "options": [],
+        "question": "পানির সঙ্গে যার সখ্য, সেই পাখিটির নাম _____।",
+        "solution": "পানকৌড়ি",
+        "correct_answer": null
+      },
+      "question_type_id": 42,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 42,
+        "name": "শুন্যস্থান",
+        "answer_type": "fill_in_the_blanks"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744776,
+      "value": {
+        "options": [],
+        "question": "পা",
+        "solution": "চরণ",
+        "correct_answer": null
+      },
+      "question_type_id": 59,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 59,
+        "name": "সমার্থক শব্দ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744777,
+      "value": {
+        "options": {
+          "ক": "বুলবুলির",
+          "খ": "পানকৌড়ির",
+          "গ": "টুনটুনির",
+          "ঘ": "চড়ুইয়ের"
+        },
+        "question": "ফুলের মধুই সবচেয়ে প্রিয়। শূন্যস্থানে কোনটি বসবে?",
+        "solution": "গ. টুনটুনির",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744778,
+      "value": {
+        "options": {
+          "ক": "চড়ুইয়ের",
+          "খ": "টুনটুনির",
+          "গ": "ডাহুকের",
+          "ঘ": "খঞ্জনার"
+        },
+        "question": "শস্যদানা কাদের প্রিয় খাদ্য?",
+        "solution": "ক. চড়ুইয়ের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744779,
+      "value": {
+        "options": {
+          "ক": "ফিঙে",
+          "খ": "পানকৌড়ি",
+          "গ": "মাছরাঙা",
+          "ঘ": "বুলবুলি"
+        },
+        "question": "কোন পাখি ডুব দিয়ে তিন মিটার পর্যন্ত সাঁতরাতে পারে?",
+        "solution": "খ. পানকৌড়ি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744780,
+      "value": {
+        "options": {
+          "ক": "বুলবুলি",
+          "খ": "পানকৌড়ি",
+          "গ": "টুনটুনি",
+          "ঘ": "দোয়েল"
+        },
+        "question": "চড়ুইয়ের মতো চঞ্চল স্বভাবের আরেকটি পাখি কোনটি?",
+        "solution": "ক. বুলবুলি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744781,
+      "value": {
+        "options": [],
+        "question": "রাতে বিচরণ করে যে প্রাণী",
+        "solution": "নিশাচর",
+        "correct_answer": null
+      },
+      "question_type_id": 60,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 60,
+        "name": "এক কথায় প্রকাশ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744782,
+      "value": {
+        "options": [],
+        "question": "সাম্যকে কোন কথাগুলো ভাবিয়ে তুলল?",
+        "solution": "সাম্যকে নিম্নোক্ত কবিতার কথাগুলো ভাবিয়ে তুলল-\"পাখি সব করে রব রাতি পোহাইল। কাননে কুসুমকলি সকলি ফুটিল।” কেননা ভোর হলেই পাখি ডেকে ওঠে, ঘুম ভেঙে যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744783,
+      "value": {
+        "options": [],
+        "question": "দোয়েল পাখি কী দিয়ে বাসা বানায় এবং কী খায়?",
+        "solution": "দোয়েল পাখি ছোটো ডাল, খড়কুটো ও শিকড়বাকড় দিয়ে বাসা বানায়। আর এরা খায় প্রধানত নানা ফুলের মধু এবং কীটপতঙ্গ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 744784,
+      "value": {
+        "options": [],
+        "question": "চড়ুই পাখির শারীরিক গঠন বৈশিষ্ট্য বর্ণনা কর।",
+        "solution": "চড়ুই শারীরিক আকারে ছোট্ট পাখি। এদের মাথা ছাই রঙের। এদের পিঠে বাদামি পালক এবং তার উপরে কালো ছোটো দাগ। ডানার উপরে সাদা অথবা লালচে রেখা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-11-27T06:37:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186793,
+      "value": {
+        "options": {
+          "a": "চড়ুই",
+          "b": "দোয়েল",
+          "c": "বুলবুলি",
+          "d": "পানকৌড়ি"
+        },
+        "question": "বাংলাদেশের পাখির জাতীয় পাখি কোনটি?",
+        "chapter_id": "1345",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186794,
+      "value": {
+        "options": {
+          "a": "দোয়েল",
+          "b": "চড়ুই",
+          "c": "টুনটুনি",
+          "d": "বুলবুলি"
+        },
+        "question": "বাংলাদেশের পাখিদের মধ্যে কোন পাখি কীটপতঙ্গ খেয়ে পরিবেশ সুন্দর রাখে?",
+        "chapter_id": "1345",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 186795,
+      "value": {
+        "options": {
+          "a": "শুধু দুটি",
+          "b": "একাধিক",
+          "c": "চারটি",
+          "d": "অনেক রকমের"
+        },
+        "question": "বাংলাদেশে পাখির সংখ্যা কত রকমের বলে উল্লেখ করা হয়েছে?",
+        "chapter_id": "1345",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-08-07T08:12:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 172295,
+      "value": {
+        "options": [],
+        "question": "পাখিরা পরিবেশকে কীভাবে উপকারী প্রভাব ফেলে এবং তাদের খাদ্য কি?",
+        "chapter_id": "1345",
+        "explanation": "পাখিরা কীটপতঙ্গ খেয়ে পরিবেশ থেকে ক্ষতিকর পোকামাকড় কমিয়ে ফেলে, dadurch ফসল ও উদ্ভিদের স্বাস্থ্য ভালো থাকে এবং পরিবেশ পরিচ্ছন্ন হয়। অনেক পাখি বিশেষত রক্তচোষা বা সূর্যপাখি প্রভৃতি বিভিন্ন ফুলের মধু খায়, এবং মধু খাওয়ার সময় তারা ফুলে পরাগবহন করে ফলে উদ্ভিদের বউদ্ধিক প্রজনন সহজ হয়।",
+        "correct_answer": "পাখিরা কীটপতঙ্গ খেয়ে পরিবেশকে পরিচ্ছন্ন করে এবং বিভিন্ন ফুলের মধু তাদের প্রধান খাদ্য।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-08-04T01:37:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 172296,
+      "value": {
+        "options": [],
+        "question": "পাখিদের পরিবেশের উপকারিতা ও তাদের খাদ্য সম্পর্কে বিভিন্ন পাখির উদাহরণ কি?",
+        "chapter_id": "1345",
+        "explanation": "ব্যাখ্যা: পাখিরা কীটপতঙ্গ ও ক্ষতিকর ছোট প্রাণী খেয়ে পরিবেশ ও ফসলকে পরিষ্কার ও সুরক্ষিত রাখে এবং ফুলের মধু খেয়ে ফুলের পরাগবাহী হিসেবে কাজ করে। দোয়েল, চড়ুই ও টুনটুনি মতো পাখিরা প্রধানত কীটপতঙ্গ খায় এবং কিছু পাখি ফুলের মধু গ্রহণ করে, তাই দেওয়া উত্তর সঠিক।",
+        "correct_answer": "পাখিরা পরিবেশকে পরিচ্ছন্ন রাখে এবং দোয়েল, চড়ুই ও টুনটুনি বিভিন্ন খাদ্য হিসেবে কীটপতঙ্গ খায় ও ফুলের মধু গ্রহণ করে।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-08-04T01:37:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 162256,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে ছয়টি খতুর মধ্যে কোন খতুতে পাখিরা বিশেষভাবে সক্রিয় হয়ে ওঠে এবং তাদের খাদ্য হিসেবে কীটপতঙ্গ খায়?",
+        "chapter_id": "1345",
+        "explanation": "ব্যাখ্যা: বসন্তকালে তাপমাত্রা বেড়ে কীটপতঙ্গের প্রজনন ও সংখ্যা বেড়ে যায়, ফলে পাখিদের খাবারের প্রাচুর্য ঘটে। পাশাপাশি বসন্ত পাখিদের প্রজননকাল হওয়ায় ডিম এবং ছানার বৃদ্ধি জন্য প্রোটিনসমৃদ্ধ কীটপতঙ্গ বেশি খেতে হয়, তাই তারা বিশেষভাবে সক্রিয় থাকে।",
+        "correct_answer": "বসন্তকাল"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-08-01T18:13:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 162253,
+      "value": {
+        "options": {
+          "a": "চড়ুই",
+          "b": "দোয়েল",
+          "c": "বুলবুলি",
+          "d": "টুনটুনি"
+        },
+        "question": "কোন পাখি আমাদের জাতীয় পাখি হিসেবে পরিচিত?",
+        "chapter_id": "1345",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-08-01T18:13:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 162254,
+      "value": {
+        "options": {
+          "a": "গম",
+          "b": "ধান",
+          "c": "মধু",
+          "d": "চিনি"
+        },
+        "question": "পাখিদের খাদ্য হিসেবে কোনটি উল্লেখ করা হয়েছে?",
+        "chapter_id": "1345",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-08-01T18:13:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 162255,
+      "value": {
+        "options": {
+          "a": "মাটি",
+          "b": "জল",
+          "c": "শোভা",
+          "d": "বায়ু"
+        },
+        "question": "পাখিরা প্রকৃতির কোন অংশ?",
+        "chapter_id": "1345",
+        "correct_answer": "c"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-08-01T18:13:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139315,
+      "value": {
+        "options": [],
+        "question": "পাখিরা ভোরে কেন ডাকতে শুরু করে?",
+        "solution": "সমাধান:\n\nউত্তর‑দৃষ্টিভঙ্গি:\nপাখির ভোরে ডাক আমাদের বলছে যে তারা জীববৈজ্ঞানিক ও পরিবেশগত কারণে সক্রিয় হচ্ছে—এটি কেবল শব্দ নয়, বরং তাদের অঞ্চলসীমানা, যুগল আহ্বান এবং সক্রিয়তার প্রকাশ। তাই বলা যায়, তারা ভোরের দূত হয়ে প্রকৃতির সৌন্দর্য ও সজীবতা প্রকাশ করে।\n\nধাপভিত্তিক ব্যাখ্যা ও যুক্তি:\n1. প্রাথমিক উদ্দীপক: ভোরের আলো (ফটোপিরিয়ড) এবং দৈনন্দিন ঘড়ির সংকেত (circadian rhythm) পাখিদের সঙ্গীত-আচরণ ট্রIGGER করে। হরমোনীয় পরিবর্তন (যেমন টেস্টোস্টেরন) সকালে গান গাওয়ার প্রবণতা বাড়ায়।  \n2. উদ্দেশ্য ও কার্যকারিতা: পাখিরা সাধারণত দুটো প্রধান কারণে ভোরে ডাক দেয়—(ক) অঞ্চল সুরক্ষা বা টেরিটোরিয়াল মার্কিং এবং (খ) যুগল আকর্ষণ ও প্রজনন সংকেত। ভোরে গান করলে শব্দ কম প্রতিযোগিতা এবং বাতাসের স্থিতিশীলতার কারণে দূরে পৌঁছে—অর্থাৎ যোগাযোগ বেশি কার্যকর।  \n3. পরিবেশগত সুবিধা: ভোরের সময় সাধারণত পাখি চলাচলের শব্দ ও মানবিক গোলযোগ কম থাকে; তাপমাত্রা ও বায়ুমণ্ডলীয় অবস্থা (উদাহরণস্বরূপ তাপমাত্রা ইনভার্শন) কণ্ঠস্বরকে দূরে পৌঁছতে সাহায্য করে। ফলে তাদের গান শ্রোতাকে সহজে পৌঁছায় এবং সংকেত স্পষ্ট হয়।  \n4. নৈবেদনিক ও সামাজিক প্রভাব: ভোরের ডাক সমগ্র বনায়ন/শহরফ্রেমকে জীবন্ত করে তোলে—এ কারণে লোকেরা এটি 'ভোরের দূত' হিসেবে দেখে, অর্থাত্‌ প্রকৃতির সৌন্দর্য ও সজীবতার প্রকাশ। এটি একদিকে জীববৈচিত্র্যের কার্যকরী যোগাযোগ, অন্যদিকে মানুষের দৃষ্টিতে সৌন্দর্যবোধ জাগ্রত করে।  \n\nউপসংহার:\nপাখির ভোরবেলা ডাকার কারণগুলো বৈজ্ঞানিকভাবে তাদের প্রজনন, অঞ্চলবিধান ও যোগাযোগের প্রয়োজনের সঙ্গে সরাসরি সংযুক্ত; একই সঙ্গে সেই আচরণ আমাদের জন্য প্রকৃতির সৌন্দর্য ও সজীবতার প্রতীক—অর্থাৎ তারা সত্যিই ভোরের দূত।",
+        "chapter_id": "1345",
+        "explanation": "ব্যাখ্যা: পাখিদের অভ্যন্তরীণ ঘড়ি এবং দিন শুরুতে সক্রিয় হওয়ার স্বভাবের কারণে তারা ভোরে গান করে—এটি অঞ্চল দখল করা, সঙ্গী আকর্ষণ এবং যোগাযোগের একটি উপায়। তাদের মিষ্টি কণ্ঠ ও সক্রিয়তা ভোরের পরিবেশকে প্রাণবন্ত ও সুন্দর করে তোলে, তাই মানুষ তাদেরকে \"ভোরের দূত\" হিসেবে দেখে।",
+        "correct_answer": "ভোরের দূত হিসেবে তাদের উপস্থিতি প্রকৃতির সৌন্দর্য ও সজীবতা প্রকাশ করে।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:58:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139316,
+      "value": {
+        "options": [],
+        "question": "দোয়েলের প্রধান খাদ্য কী এবং এটি কোথায় বাসা বাঁধে?",
+        "solution": "সমাধান:\nউত্তর সহজভাবে দুই অংশে বিভক্ত — (১) কী খায় এবং (২) কোথায় বাসা বাঁধে। উপরের পর্যবেক্ষণ ও পাখির শরীরের গঠন দেখে লজিক্যালভাবে তা নির্ণয় করা যায়।\n\nউত্তর নির্ণয়ের পদ্ধতি ও যুক্তি:\n1. পর্যবেক্ষণ: দোয়েলকে সাধারণত ফুল থেকে মধু চুষতে ও কিট-পতঙ্গ ধরতে দেখা যায়। তাই তার খাদ্যবৃত্তি সরাসরি পর্যবেক্ষণেই বোঝা যায়।  \n2. দেহের রূপ–গঠন: দোয়েলের ঠোঁট পাতলা ও নমনীয় হওয়ায় ফুলের মধুতে পৌঁছানো সহজ এবং কীট ধরতেও উপযোগী। এই বৈশিষ্ট্য খাদ্যাভাস সম্পর্কে সমর্থন দেয়।  \n3. বাসস্থানের বিচার: দোয়েল নিরাপদ ও সহজে লুকিয়ে থাকা স্থানে বাসা বানায়—শহরের লোকালয়, গাছের ডালে বা অগভীর ঝোপে যেখানে eggs/ছানা রক্ষা করা যায়। সাধারণত ঘন কাণ্ড-ঝোপ বা ডালপালায় স্নিগ্ধ কবরের কাঁচা বাসা দেখা যায়।\n\nসংক্ষিপ্ত উত্তর:\nদোয়েলের প্রধান খাদ্য হলো মধু ও কীটপতঙ্গ; এবং এটি লোকালয়ে গাছের ডালে ও অগভীর ঝোপে বাসা বাঁধে।",
+        "chapter_id": "1345",
+        "explanation": "ব্যাখ্যা: দোয়েল মূলত ফুলের মধু ও ছোট কীটপতঙ্গ খায়, কারণ এর ঠোঁট ও খাদ্যচাহিদা ফুল থেকে মধু চুষা ও পत्तাভাগে থাকা কীট ধরতে উপযোগী। এটি সাধারণত মানুষের আশেপাশের লোকালয়ে গাছের ডাল, শাখার ফাঁক বা অগভীর ঝোপে কাপ বা আড়ালভিত্তিক বাসা বাঁধে যাতে খাদ্য ও নিরাপত্তা সহজে মেলে।",
+        "correct_answer": "মধু এবং কীটপতঙ্গ, লোকালয়ে ডাল ও অগভীর ঝোপে বাসা বাঁধে।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:58:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139317,
+      "value": {
+        "options": [],
+        "question": "চড়ুই এবং টুনটুনির মধ্যে প্রধান খাদ্য এবং বাসস্থানের পার্থক্য কী?",
+        "solution": "সমাধান:\n\nউত্তর নির্ণয়ের পদ্ধতি: খাদ্য ও বাসস্থান সম্পর্কিত লক্ষণগুলো বিশ্লেষণ করে দুটির মধ্যে পার্থক্য নিরূপণ করতে হবে — বিশেষ করে ঠোঁটের আকার, খাদ্যাভ্যাস ও কোথায় তারা বেশি থাকে তা দেখে সিদ্ধান্ত নেয়া যায়।\n\nধাপে ধাপে বিশ্লেষণ:\n1. চড়ুই (উদাহরণ: হাউস স্প্যারো)  \n   - খাদ্য: প্রধানত শস্যদানা ও বীজ খায় (প্রয়োজনে ছোট পোকামাকড়ও খেতে পারে)।  \n   - ঠোঁট ও গঠণাঃ ছোট, শক্ত ও অনমনীয় কনিকার ঠোঁট, যা দানা ভাঙ্গতে উপযোগী।  \n   - বাসস্থান: মানুষের কাছাকাছি লোকালয়ে, বাড়ির ছাদের নিচে, খড়ের গুড়ায় বা ঝোপে বাসা করে — শহর ও গ্রামের আশেপাশেই বেশি দেখা যায়।  \n   - পরিবেশগত ভূমিকা: শস্যভোজী হওয়ায় লোকালয়-জীবনে ঘনিষ্ঠ সম্পর্ক থাকে; কিছু ক্ষেত্রে বীজের বিলোপে প্রভাব ফেলে।\n\n2. টুনটুনি (উদাহরণ: পার্পল সানবার্ড)  \n   - খাদ্য: প্রধানত ফুলের মধু খান (নেক্টার), সঙ্গে ছোট পোকামাকড়ও খেয়ে পুষ্টি পূরণ করে।  \n   - ঠোঁট ও গঠণাঃ পাতলা, বেশক্ষণ দীর্ঘ বা বাঁকা ঠোঁট থাকে, যা ফুলের ভিতরে ঢুকিয়ে মধু চুষতে সুবিধা দেয়।  \n   - বাসস্থান: ফুল-বাগান, বাগানবাড়ি, গাছঝুঁটি ও জঙ্গলে ফুলবহুল স্থানে বেশি থাকে।  \n   - পরিবেশগত ভূমিকা: ফুলপোক্ততা (পলিনেশন) করে, পাশাপাশি পোকামাকড় নিয়ন্ত্রণে সাহায্য করে — পরিবেশ সুন্দর রাখে ও উদ্ভিদ প্রজননে অবদান রাখে।\n\nযুক্তি (লজিকাল রিজনিং): ঠোঁটের আকার সরাসরি খাদ্য ধরণকে নির্দেশ করে — দানা ভাঙার জন্য শক্ত গোঁড়া ঠোঁট দরকার, ফুলের মধু পান করার জন্য লম্বা পাতলা ঠোঁট দরকার। খাদ্যের প্রকারই বাসস্থানের নির্বাচন নির্ধারণ করে: চড়ুই শস্য-মানবাশ্রিত জায়গায় থাকে, টুনটুনি ফুল-সমৃদ্ধ বাগান ও গাছবাগানে থাকে।\n\nসংক্ষেপে উত্তর: চড়ুই প্রধানত শস্যদানা খায় এবং লোকালয়ে (মানববসতি নিকট) থাকে; টুনটুনি ফুলের মধু ও ছোট পোকামাকড় খেয়ে থাকে এবং ফুলবহুল বাগান ও গাছবাগানে থেকে পরিবেশ সুন্দর রাখে।",
+        "chapter_id": "1345",
+        "explanation": "চড়ুই সাধারণত শক্তচোচা ও শস্যভোজী হওয়ায় শস্যদানা খায় এবং মানুষের কাছাকাছি আম-বাড়ি, খোলা মাঠ বা আঙ্গিনায় থাকতে স্বাচ্ছন্দ্যবোধ করে; তাই তার বাসস্থান লোকালয়ের নিকটবর্তী। টুনটুনি ফুলের মধু ও ছোট পোকামাকড় খায়, যা পরাগায়ন ও পোকামাকড় নিয়ন্ত্রণের মাধ্যমে পরিবেশকে সুন্দর ও সুষম রাখতে সাহায্য করে।",
+        "correct_answer": "চড়ুই শস্যদানা খায় এবং লোকালয়ে থাকে, টুনটুনি ফুলের মধু ও পোকামাকড় খেয়ে পরিবেশ সুন্দর রাখে।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:58:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139318,
+      "value": {
+        "options": [],
+        "question": "পানকৌড়ির বিশেষত্ব কী এবং এটি কোথায় বিচরণ করে?",
+        "solution": "সমাধান:\n1. প্রশ্ন বিশ্লেষণ: জানতে চাওয়া হয়েছে পানকৌড়ির বিশেষত্ব (শারীরিক/ব্যবহারের দিক থেকে) এবং এর বিচরণস্থল—অতএব খাদ্যাভাস ও বাসস্থান পরীক্ষা করেই উত্তর দেওয়া যাক।\n\n2. বিশেষত্ব (খাদ্যাভাস ও অভিযোজন): পানকৌড়ি মূলত জলজ কীটপতঙ্গ শিকার করে খায়—এটি شکارী (predator) প্রাণী। শিকার ধরার জন্য এর দেহে জলজ পরিবেশে চলাচল ও শিকার ধরার উপযোগী অভিযোজন থাকে (যেমন পানির উপর বা পানির দিকে হাত-পা/চঞ্চুর যোগ্যতা, শিকার ধরার ধরা-ধরা ক্ষমতা বা প্রবেশকারী ঠোঁট-পদার্থ)। এই খাদ্যাভাসের কারণে এটি জলজ খাদ্যজালেই এক ধরণের উপযোগী ভূমিকা পালন করে।\n\n3. বিচরণস্থান (আবাসস্থল): পানকৌড়ি সাধারণত পুকুর, খাল, বিল ও অন্যান্য জলাভূমির তীরে বা এর কাছাকাছি বিচরণ করে—কারণ এসব স্থানে জলজ কীটপতঙ্গ সহজলভ্য এবং বংশবিস্তার ও আশ্রয়ের সুযোগ রয়েছে।\n\n4. যুক্তি সংক্ষিপ্তভাবে: শিকারী খাদ্যাভাস ও জলসংলগ্ন অভিযোজন থাকার ফলে পানকৌড়ি জলাভূমির তীরে-বেষ্টিত এলাকায় বেশি পাওয়া যায়; তাই এর বিশেষত্ব হলো জলজ কীটপতঙ্গ খাওয়া এবং পুকুর, খাল ও বিলের কাছে বিচরণ করা।",
+        "chapter_id": "1345",
+        "explanation": "পানকৌড়ি জলজ কীটপতঙ্গ খেয়ে বাঁচে, তাই এর খাদ্য ও শিকার পাওয়ার সুবিধার জন্য পুকুর, খাল ও বিলের ধারে বিচরণ করে। এদের লং, জলতরল ঘর্ষণ প্রতিরোধী পা থাকে যা পানির পৃষ্ঠে হেঁটে শিকারে সাহায্য করে, তাই শান্ত জলাশয়ের পাশে বেশি দেখা যায়।",
+        "correct_answer": "এটি জলজ কীটপতঙ্গ খেতে পারে এবং পুকুর, খাল ও বিলের কাছে বিচরণ করে।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:58:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139319,
+      "value": {
+        "options": [],
+        "question": "কেন পাখিদের পরিবেশের জন্য উপকারী বলা হয়েছে?",
+        "solution": "সমাধান:\nউত্তর প্রদানের পদ্ধতি: পাখিদের পরিবেশগত ভূমিকা শনাক্ত করে তাদের কার্যপদ্ধতি ব্যাখ্যা করা হবে এবং কিছু যুগোপযোগী উদাহরণ দেওয়া হবে।\n\nধাপ ১ — পরিচ্ছন্নতা রাখতে সাহায্য: কিছু পাখি (বিশেষত দাগু পাখি/ভালচারগুলো) মৃতদেহ ও বর্জ্য খেয়ে পরিবেশ থেকে দূষণকারি জিনিস অপসারণ করে। এতে দুর্গন্ধ ও রোগজীবাণুর বিস্তার কমে।\n\nধাপ ২ — কীটপতঙ্গ ও ক্ষতিকর জন্তু নিয়ন্ত্রণ: অনেক পাখি কীটপতঙ্গ, পতঙ্গ ও ছোট স্তন্যপায়ী শত্রু খেয়ে ফেলে। উদাহরণস্বরূপ, টিয়া/সারউইলস, ইঁদুর শিকারী বাকসাই (barn owl) ও বিভিন্ন চড়ুইজাতীয় কীটনাশক হিসেবে কাজ করে। এতে ফসলের ক্ষতি কমে এবং কীটনাশকের ওপর নির্ভরতা হ্রাস পায়।\n\nধাপ ৩ — পরিবেশগত ফলাফল ও যুক্তি: বর্জ্য অপসারণ ও কীটনাশনে সাহায্য করার ফলে রোগব্যাধি ও ফসলের ক্ষতি কমে, খাদ্যচক্রে সুষমতা বজায় থাকে এবং মানব-প্রকৃতির সম্পর্ক আরও টেকসই হয়।\n\nউপসংহার: উপরোক্ত কারণে বলা হয় যে কিছু পাখি পরিবেশকে পরিচ্ছন্ন রাখতে সাহায্য করে এবং কীটপতঙ্গ নিয়ন্ত্রণ করে, তাই তারা পরিবেশের জন্য উপকারী।",
+        "chapter_id": "1345",
+        "explanation": "ব্যাখ্যা: কিছু পাখি পচনশীল পদার্থ ও মৃতদেহ খেয়ে পরিবেশ পরিষ্কার রাখে, এবং অনেক পাখি কীটপতঙ্গ খেয়ে তাদের সংখ্যা নিয়ন্ত্রণ করে। এতে রোগজীবাণু ও ফসলের ক্ষতি কমে এবং পরিবেশ স্বাস্থ্যবান থাকে, তাই পাখি উপকারী।",
+        "correct_answer": "কারণ কিছু পাখি পরিবেশকে পরিচ্ছন্ন রাখতে সাহায্য করে এবং কীটপতঙ্গ নিয়ন্ত্রণ করে।"
+      },
+      "question_type_id": 1,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:58:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139310,
+      "value": {
+        "options": {
+          "a": "চড়ুই সবুজ রঙের এবং টুনটুনি সাদা রঙের।",
+          "b": "টুনটুনির মাথায় লালচে রঙের ছোপ আছে, চড়ুইয়ের নেই।",
+          "c": "চড়ুই জলজ কীটপতঙ্গ খেতে ভালোবাসে, টুনটুনি ফুলের মধু।",
+          "d": "টুনটুনি শহরে বেশি থাকে, চড়ুই গ্রামে।"
+        },
+        "question": "চড়ুই এবং টুনটুনির মধ্যে প্রধান কি পার্থক্য রয়েছে?",
+        "solution": "সমাধান:\nধাপ ১: দেখা উচিত কোন বৈশিষ্ট্যটি সাধারণ ও স্পষ্টভাবে উভয়ের মধ্যে আলাদা। চড়ুই (house sparrow) ও টুনটুনি (bulbul/নাম না ভেদে সাধারণ টুনটুনি) দেখতে সাধারণত রঙ ও মাথার চিহ্ন দেখে আলাদা করা যায়।  \nধাপ ২: টুনটুনির মাথায় অনেকটাই পরিচিত লালচে বা রঙিন ছোপ/চিহ্ন থাকা একটি দৃশ্যমান বৈশিষ্ট্য, যা চড়ুইতে থাকে না। তাই \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সঠিক উত্তর।  \n\nঅন্য অপশনগুলির ভুল হওয়ার সংক্ষিপ্ত কারণ:\n- \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E — সব চড়ুই সবুজ নয় এবং সব টুনটুনি সাদা নয়; রঙের এই সাধারণীকরণ ভুল।  \n- \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E — উভয় পাখিই বিভিন্ন ধরনের খোঁচা ও মধু/কীট খাবার খেতে পারে; এইভাবে বিভাজন করা যায় না।  \n- \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E — উভয়ই শহর ও গ্রামে দেখা যায়; কেবল একটিতে সীমাবদ্ধ নয়।",
+        "chapter_id": "1345",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:58:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139311,
+      "value": {
+        "options": {
+          "a": "দোয়েল",
+          "b": "বুলবুলি",
+          "c": "পানকৌড়ি",
+          "d": "চড়ুই"
+        },
+        "question": "কোন পাখিটি পানি ও জলজ কীটপতঙ্গ খেতে বেশি পছন্দ করে?",
+        "solution": "সমাধান:\n1. প্রথমে প্রত্যেক পাখির খাবার ও বাসস্থানের বৈশিষ্ট্য নির্ণয় করা হয়: দোয়েল ও বুলবুলি সাধারণত ফল-মূল, ফলভোজী ও কিছু কীটখেকো; চড়ুই প্রধানত বীজ ও স্থলকীট খায়।  \n2. পানকৌড়ি (কিংফিশার) বিশেষত জলাশয় ও পানির কাছাকাছি বাস করে এবং মাছ, পানিজালজ কীটপতঙ্গ ও জলজ প্রাণীই তার প্রধান আহার।  \n3. তুলনায় সবচেয়ে বেশি পানি ও জলজ কীটপতঙ্গ খাওয়ার প্রবৃত্তি থাকার কারণে সঠিক উত্তর হল বিকল্প c: পানকৌড়ি; অন্যগুলো এই ধরনের খাদ্যের উপর নির্ভরশীল নয়।",
+        "chapter_id": "1345",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:58:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139312,
+      "value": {
+        "options": {
+          "a": "শব্দ করে অন্যান্য প্রাণীর দিকে নজর দেয়।",
+          "b": "কীটপতঙ্গ খেয়ে পরিবেশকে পরিচ্ছন্ন রাখে।",
+          "c": "মানুষের ঘরের কাছাকাছি থাকে।",
+          "d": "গাছের ফল খেয়ে খাদ্য উৎপাদন বাড়ায়।"
+        },
+        "question": "মায়ের মতে, পাখিরা পরিবেশকে কীভাবে উপকারী করে?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে দরকার কী — মায়ের মন্তব্য অনুযায়ী পাখির যে গুণটি পরিবেশকে উপকারী করে তা নির্বাচন করা।  \nধাপ ২: প্রতিটি অপশন মূল্যায়ন করি — (a) পাখির শব্দ অন্যান্য প্রাণীকে সতর্ক করে হলেও এটি প্রধানভাবে পরিবেশগত উপকারিতা নয়; (b) পাখি অনেক কীটপতঙ্গ খেয়ে তাদের সংখ্যা নিয়ন্ত্রণ করে এবং ফসল ও উদ্ভিদ রক্ষা করে, ফলে পরিবেশ ও কৃষি স্বাস্থ্যবান থাকে; (c) মানুষদের ঘরের কাছাকাছি থাকা কোনো পরিবেশগত উপকারিতা নির্দেশ করে না; (d) পাখি গাছের ফল খেলে কখনো কখনো বীজ ছড়ায়, কিন্তু সরাসরি \"খাদ্য উৎপাদন বাড়ায়\" এটা সব সময় সঠিক বলা যায় না।  \nফলাফল: সঠিক উত্তর হলো b — কীটপতঙ্গ খেয়ে পরিবেশকে পরিচ্ছন্ন রাখে।",
+        "chapter_id": "1345",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:58:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139313,
+      "value": {
+        "options": {
+          "a": "পাখিরা রাতে ঘুমায় না।",
+          "b": "বিকেলবেলা পাখি ঘুমায়।",
+          "c": "পাখিরাও রাতে ঘুমায়।",
+          "d": "পাখিরা দিনে ঘুমিয়ে রাত জেগে থাকে।"
+        },
+        "question": "পাখিরা ঘুমায় কি না, এ সম্পর্কে মায়ের উক্তিতে কি উল্লেখ করা হয়েছে?",
+        "solution": "সমাধান:\n1. প্রথমে মায়ের উক্তিটি শনাক্ত করি — তিনি বলেছেন যে পাখিরাও রাতে ঘুমায়।  \n2. বিকল্পগুলোর সঙ্গে মিলিয়ে দেখি: বিকল্প c: \"পাখিরাও রাতে ঘুমায়।\" ঠিক মায়ের উক্তির মতো বলা হয়েছে, তাই এটি সঠিক।  \n3. অন্যগুলো ভুল কারণ: বিকল্প a (পাখিরা রাতে ঘুমায় না) মায়ের উক্তির বিপরীত, বিকল্প b (বিকেলবেলা পাখি ঘুমায়) ও বিকল্প d (পাখিরা দিনে ঘুমিয়ে রাত জেগে থাকে) মায়ের বক্তব্যের সঙ্গে সঙ্গতিপূর্ণ নয়। তাই সঠিক উত্তর হল c।",
+        "chapter_id": "1345",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:58:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139314,
+      "value": {
+        "options": {
+          "a": "এরা পানির পাখি।",
+          "b": "এদের গায়ের রং সাদা-কালো এবং গান গায়।",
+          "c": "এরা শুধু শহরে থাকে।",
+          "d": "এরা বড় বড় পাখি।"
+        },
+        "question": "দোয়েল পাখির বিশেষত্ব কী?",
+        "solution": "সমাধান:\nধাপ ১: দোয়েল পাখির সাধারণ বৈশিষ্ট্য বিবেচনা করা—দোয়েল সাধারণত সাদা-কালো পালকবিশিষ্ট এবং সুন্দর গলা ও মাধুর্যপূর্ণ কণ্ঠের জন্য পরিচিত।  \nধাপ ২: বিকল্পগুলো যাচাই করা—(a) দোয়েল সাধারণত জলজ প্রজাতি নয়; (c) শুধু শহরে থাকে না, গ্রাম ও বনেও থাকে; (d) বড় পাখি নয়, তুলনামূলকভাবে ছোট-মাঝারি।  \nঅতএব সঠিক উত্তর হলো b: এদের গায়ের রং সাদা-কালো এবং গান গায়।",
+        "chapter_id": "1345",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:58:43.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139215,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): পাখিদের মধ্যে কোন পাখিগুলো বাংলাদেশের জাতীয় পরিচয় বহন করে এবং কেন?",
+          "খ": "(অনুধাবন): পাখিরা পরিবেশকে কীভাবে সাহায্য করে এবং তাদের খাদ্য তালিকায় কী কী রয়েছে?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): পাখিদের বিচরণ ক্ষেত্র ও খাদ্য অনুসন্ধানের পদ্ধতি নিয়ে আলোচনা করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): পাখিদের সংরক্ষণে স্থানীয় সমাজের ভূমিকা কীভাবে বাড়ানো যায় তা প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\nভোর হলেই পাখিরা ডেকে ওঠে, যা প্রকৃতির সৌন্দর্য বাড়ায়। বাংলাদেশের পাখিরা মানুষের বন্ধু এবং বিভিন্ন পরিবেশের সাথে অভিযোজিত। বুলবুলি, টুনটুনি, চড়ুই ইত্যাদি পাখিরা খাদ্যের জন্য কীটপতঙ্গ খায় এবং পরিবেশের পরিচ্ছন্নতা বজায় রাখে।",
+        "solution": "সমাধান:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পখিদের মধ্যে কোন পাখিগুলো বাংলাদেশের জাতীয় পরিচয় বহন করে এবং কেন?\nউত্তর ও ব্যাখ্যা:\n- বাংলাদেশের জাতীয় পাখি হল দোয়েল (Oriental Magpie Robin; বৈজ্ঞানিক নাম [math]Copsychus\\;saularis[/math])।  \n- কেন: দোয়েল এর মিষ্টি ও সুরেলা কণ্ঠস্বর বাংলার গ্রামীণ ও শহরতলী উভয় পরিবেশেই সাধারণভাবে শোনা যায়; এটি মানুষের সাথে ঘনিষ্ঠভাবে অভিযোজিত ও বহুল প্রচলিত; সাংস্কৃতিক ও সাহিত্যিক চর্চায় দোয়েলের প্রতীকী স্থান রয়েছে; সহজে পরিচিত হওয়ায় জাতীয় পরিচয়ের প্রতীক হিসেবে উপযুক্ত।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পাখিরা পরিবেশকে কীভাবে সাহায্য করে এবং তাদের খাদ্য তালিকায় কী কী রয়েছে?\nউত্তর ও ব্যাখ্যা:\n- পরিবেশগত ভূমিকা:\n  1. কীটনাশক হিসেবে কাজ: বুলবুলি, টুনটুনি, চড়ুই-এর মতো কীটভক্ষণী পাখিরা কীটপতঙ্গ খেয়ে ফসল ও বৃক্ষরোগ কমায়।  \n  2. বীজবহন ও ছড়ানি: ফলখাওয়া পাখি বীজ বহন করে বন্যায় নতুন গাছ জন্ম দেয়।  \n  3. পরাগায়ন: কিছু পাখি ফুলের পরাগ সংবহন করে পরাগায়নে সহায়ক।  \n  4. ভক্ষণাতীত বর্জ্য ও মৃতদেহ পরিষ্কার করা: গর্তখেকো ও কিছু বড়পাখি অনাহারে থাকা অবশিষ্টাংশ অপসারণ করে পরিবেশ পরিষ্কার রাখে।  \n  5. পরিবেশগত সূচক: পাখির সংখ্যা ও বৈচিত্র্য প্রকৃতির স্বাস্থ্যের নির্দেশ দেয়।  \n- খাদ্য তালিকা (সাধারণ শ্রেণীভিত্তিক উদাহরণ):\n  1. কীটপতঙ্গ ও পোকা (বুলবুলি, টুনটুনি, চড়ুই)  \n  2. বীজ ও শস্য (দানা-বাদাম খাওয়া পাখি)  \n  3. ফল ও ফলমূল (ফলখাওয়া পাখি)  \n  4. জলজ প্রাণী ও মাছ (কোয়েল, খলিক, মাছশিকারি পাখি)  \n  5. নেকটার/ফুলের রস (কিছু পাখি, যেমন ট্রফটেল জাতীয়, যদি প্রযোজ্য)\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাখিদের বিচরণ ক্ষেত্র ও খাদ্য অনুসন্ধানের পদ্ধতি নিয়ে আলোচনা করো।\nউত্তর ও কর্মপদ্ধতি:\n- বিচরণ ক্ষেত্র (home range / foraging radius):\n  1. প্রকারভেদ: ছোট আকারের পাখি (উদাহরণ: বুলবুলি) সাধারণত ছোট অঞ্চল—বাগান বা বৃক্ষগুচ্ছ—এ নিজ খাদ্য সংগ্রহ করে; বৃহত শিকারী পাখি বা মাইগ্রেটরি প্রজাতি অনেক কিলোমিটার বিচরণ করতে পারে।  \n  2. প্রভাবক: খাদ্যপ্রাপ্যতা, প্রজননকাল, আবহাওয়া, মানবহস্তক্ষেপ ও আঢল প্রতিরোধ ইত্যাদি ক্ষেত্রের আকার নির্ধারণ করে।\n- খাদ্য অনুসন্ধানের পদ্ধতি (সংক্ষেপে):\n  1. ভিজ্যুয়াল অনুসন্ধান: ডালপালা, পাতার নীচে বা মাটিতে চোখ দিয়ে কীট দেখেই শিকার।  \n  2. সুনকশা (gleaning): শাখা-পত্র থেকে স্থির বা ধরণ করে কীট অপসারণ করা।  \n  3. হকিং/সার্চিং: উড়ে উড়ে পোকা বা শিকার ধরার পদ্ধতি।  \n  4. ডাইভিং/স্পিয়ারিং: মৎস্যাশিকার পাখিদের পানি-ভিত্তিক শিকার ধরার পদ্ধতি।  \n- পর্যবেক্ষণ ও গবেষণা পদ্ধতি (প্রয়োগের নির্দেশ):\n  1. সরাসরি পর্যবেক্ষণ: পয়েন্ট কাউন্ট, ট্রান্সেক্ট চালিয়ে খাদ্য সংগ্রহের আচরণ নোট করা।  \n  2. ব্যান্ডিং/রিংিং: ব্যক্তির স্থানচলন ও ক্ষেত্রআকার নির্ণয়ে।  \n  3. টেলিমেট্রি/GPS ট্র্যাকিং: বৃহত বা মাইগ্রেটরি পাখির মাইগ্রেশন ও বিচরণ ক্ষেত্র বিশ্লেষণে।  \n  4. খাদ্যবিশ্লেষণ: মলপরীক্ষা বা পাতলা পেটে/ফ্যাঁকালে খাদ্য অংশের বিশ্লেষণ করে ডায়েট জানা।  \n  5. নিਰੀক্ষক ক্যামেরা ও ভিডিও: গোপনী খাদ্যগ্রহণ আচরণ ধরা।  \n- সংক্ষেপে যুক্তি: ক্ষেত্রে আচরণ নির্ধারণ করতে মাঠ পর্যবেক্ষণ ও প্রযুক্তিগত ট্র্যাকিং একত্রে ব্যবহার করলে সবচেয়ে নির্ভরযোগ্য ফল পাওয়া যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পাখিদের সংরক্ষণে স্থানীয় সমাজের ভূমিকা কীভাবে বাড়ানো যায় তা প্রস্তাবনা দাও।\nউত্তর ও প্রস্তাবনা (কার্যকরী ধারা):\n1. জনসচেতনতা ও শিক্ষা:\n   - স্কুল-স্তরে ধরাবাঁধা পরিবেশ শিক্ষানুসারে পাখি ও তাদের ভূমিকা সম্পর্কে পাঠচক্র।  \n   - কমিউনিটি ওয়ার্কশপ, ফোকলেসন ও পোস্টার/সামাজিক মিডিয়া প্রচার।  \n2. স্থানীয় অংশগ্রহণমূলক কর্মসূচি:\n   - সিটিজেন সাইন্স প্রকল্প—পাখি গণনা/বার্ষিক রিপোর্টে স্থানীয়রা অংশগ্রহণ করবে।  \n   - কমিউনিটি-ভিত্তিক বাসস্থান পুনরুদ্ধার (গাছরোপণ, আদি পথের বন সংরক্ষণ)।  \n3. উৎসাহ ও আর্থিক প্রণোদনা:\n   - ইকোট্যুরিজম থেকে আয় ভাগ করে নেওয়া; স্থানীয় গাইড ও হোমস্টে উদ্যোগ বাড়ানো।  \n   - ক্ষতি ক্ষতিপূরণ বা বিকল্প আয়-উৎস প্রদান করে মানুষকে পাখি-বন্ধু আচরণে উৎসাহিত করা।  \n4. ব্যবহারিক উদ্যোগ:\n   - নেস্টিং বক্স, ফলবৃক্ষ রোপণ, ঝোপ-ও ঘন বনাঞ্চল সংরক্ষণ করা।  \n   - পরিবেশবান্ধব কৃষিপদ্ধতি প্রচার: কীটনাশক কমিয়ে জৈব নিয়ন্ত্রণে স্থানীয় পাখিদের সহায়তা করা।  \n5. আইনগত ও প্রশাসনিক সমন্বয়:\n   - স্থানীয় পরিবেশ কমিটি গঠন, স্থানীয় নিয়মনীতি করে শিকার ও বাসস্থান ধ্বংস রোধ।  \n6. দৃষ্টান্তমূলক কার্যক্রম:\n   - সফল স্থানীয় প্রজেক্টের নমুনা তুলে অন্য অঞ্চলে অনুকরণে সাহায্য করা।  \n\nকারণ ও যুক্তি: স্থানীয়দের জ্ঞান, অংশগ্রহণ ও লাভভিত্তিক প্রণোদনা দিলে সংরক্ষণ টেকসই হয়—এতে কেবল পাখিই নয় স্থানীয় জীববৈচিত্র্য ও মানুষের সংস্কৃতিও রক্ষা পায়।",
+        "chapter_id": "1345",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দোয়েলকে (Oriental Magpie Robin) বাংলাদেশের জাতীয় পাখি বলা হয়, কারণ এর মনোমুগ্ধকর গান, দেশে ব্যাপকভাবে দেখা এবং সাংস্কৃতিক প্রতীক হিসেবে মানুষের মাঝে বিশেষ গ্রহণযোগ্যতা রয়েছে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পাখিরা কীটপতঙ্গ খেয়ে আগাছা ও কীট নিয়ন্ত্রণ করে, ফল ও বীজ ছড়িয়ে দিয়ে বনভূমির পুনরায় বৃদ্ধি সহায়তা করে এবং কিছু পাখি পরাগায়ণেও অংশ নেয়; তাদের খাদ্যে কীট, কেঁচো, ফল, বীজ, মাছ ও ফলফুলের রস ইত্যাদি থাকে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাখিদের বিচরণ ক্ষেত্র খাদ্য সরবরাহ ও প্রজননক্ষেত্রের উপর নির্ভর করে—কোনো প্রজাতি অঞ্চলভিত্তিক আগ্রাসী ও শত্রুভিত্তিক অঞ্চল রক্ষা করে, আর খাদ্য অনুসন্ধানে তারা উড়ে ধরা (aerial hawking), ডাল-পাতা থেকে তুলে নেওয়া (gleaning), মাটিতে খোঁজা ও পানির পৃষ্ঠে ফিডিং ইত্যাদি কৌশল ব্যবহার করে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E স্থানীয় সমাজের ভূমিকা বাড়াতে শিক্ষা ও সচেতনতা কর্মসূচি, পেশাদারী সহায়তায় কমিউনিটি-ভিত্তিক সংরক্ষণ এলাকা তৈরী, বাসস্থান রক্ষা, pesticider ব্যবহার কমানো ও নেস্টিং বক্স/হ্যাবিট্যাট উন্নয়নের মতো বাস্তব পদক্ষেপ নেওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:53:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139212,
+      "value": {
+        "options": {
+          "a": "বুলবুলি",
+          "b": "চড়ুই",
+          "c": "দোয়েল",
+          "d": "টুনটুনি"
+        },
+        "question": "যে পাখিগুলো আমাদের ঘরের কাছে থাকার জন্য পরিচিত, তাদের মধ্যে কোনটি বাংলাদেশের জাতীয় পাখি?",
+        "solution": "সমাধান: পদক্ষেপ ১: প্রশ্নে দেওয়া পাখিগুলোর মধ্যে কোনটি বাংলাদেশের জাতীয় পাখি তা জানার জন্য পরিচিত তথ্য যাচাই করি।  \nপদক্ষেপ ২: জানা যায় যে বাংলাদেশের জাতীয় পাখি হলো দোয়েল (Oriental Magpie Robin)। তাই সঠিক উত্তর হলো দোয়েল, অর্থাৎ বিকল্প (c)।  \nব্যাখ্যা: বুলবুলি, চড়ুই ও টুনটুনি সাধারণ আশেপাশের পাখি হলেও এগুলোকে জাতীয় পাখি হিসেবে ঘোষণা করা হয়নি; জাতীয় সম্মানে দোয়েলই নির্বাচিত।",
+        "chapter_id": "1345",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:53:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 139213,
+      "value": {
+        "options": {
+          "a": "শস্যদানা, পরিবেশ দূষণ করে",
+          "b": "কীটপতঙ্গ, পরিবেশ পরিচ্ছন্ন রাখে",
+          "c": "মধু, পরিবেশ নষ্ট করে",
+          "d": "ফল, শুধুমাত্র মানুষের জন্য উপকারী"
+        },
+        "question": "শীতকালে পাখিরা কি ধরনের খাদ্য গ্রহণ করে এবং কেন তারা পরিবেশের জন্য উপকারী?",
+        "solution": "সমাধান:\nধাপ ১: পর্যবেক্ষণ—অনেকে শীতকালে পাখির প্রধান খাদ্য হিসেবে কীটপতঙ্গ (লুটপোকার, লার্ভা ইত্যাদি) খায়, ফলে তারা কীটপতি হারের ওপর নিয়ন্ত্রণ বজায় রাখে।  \nধাপ ২: ব্যাখ্যা—কীটপতঙ্গ খেকে পাখিরা ফসল ও উদ্ভিদের ক্ষতিকর জনসংখ্যা কমায়, ফলশ্রুতিতে কীটনাশকের ব্যবহার কমে এবং পরিবেশ পরিচ্ছন্ন থাকে।  \nধাপ ৩: অন্যান্য বিকল্পগুলো কেন ভুল—a এবং c অপশনগুলোর সম্পর্কিত বিবৃতি অযথা বা ভুল (পাখিরা সাধারণত শস্যদানা বা মধু খেলে পরিবেশ দূষণ করে না), এবং d হচ্ছে অসম্পূর্ণ (কিছু পাখি ফল খায় কিন্তু \"শুধুমাত্র মানুষের জন্য উপকারী\" বলা সঠিক নয়)।  \n\nসঠিক উত্তর: b",
+        "chapter_id": "1345",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T18:53:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136741,
+      "value": {
+        "options": {
+          "a": "কারণ তারা ভোরের শোরগোল বাড়ায়।",
+          "b": "কারণ তারা ভোরে গান গায় এবং সকালকে জানান দেয়।",
+          "c": "কারণ তারা রাত জাগে।",
+          "d": "কারণ তারা শীতল আবহাওয়ার জন্য অপেক্ষা করে।"
+        },
+        "question": "কবিতায় পাখিরা কেন 'ভোরের দূত' বলা হয়েছে?",
+        "solution": "সমাধান:\nধাপ ১: “ভোরের দূত” বলতে কবিতায় সাধারণত এমন কে বা কীকে বোঝানো হয় যা ভোরের আগমনের খবর বা সংকেত দেয়।  \nধাপ ২: পাখিরা ভোরে গান গেয়ে ও কুইক করে সকালের আগমন জানান দেয়, তাই সঠিক উত্তর হলো (b) — কারণ তারা ভোরে গান গায় এবং সকালকে জানান দেয়।  \nধাপ ৩: অন্যগুলো ভুল কারণ: (a) শুধুমাত্র “শোরগোল বাড়ায়” বলে কবিগত অর্থ ব্যাখ্যা হয় না; (c) সব পাখি রাত জাগে না; (d) শীতল আবহাওয়ার জন্য অপেক্ষা করা কবিতার এই সংজ্ঞার সঙ্গে সম্পর্কিত নয়।",
+        "chapter_id": "1345",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 136742,
+      "value": {
+        "options": {
+          "a": "উৎপাদন বাড়িয়ে",
+          "b": "পরিবেশকে পরিচ্ছন্ন রেখে",
+          "c": "মানুষের ক্ষতি করে",
+          "d": "শস্য উৎপাদনে সাহায্য করে"
+        },
+        "question": "পাখিরা পরিবেশকে কীভাবে সাহায্য করে?",
+        "solution": "সমাধান:\nStep 1: পাখিরা কীটপতঙ্গ খেয়ে, মৃত জৈব পদার্থ পরিষ্কার করে এবং আবহাওয়া ও পরিবেশের এক্টিভ রোল পালন করে পরিবেশকে পরিচ্ছন্ন রাখে।  \nStep 2: এই কারণে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \"পরিবেশকে পরিচ্ছন্ন রেখে\" সঠিক উত্তর।  \nঅন্যান্য বিকল্পগুলো কারণগতভাবে ভুল বা কম সঠিক: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পাখির প্রধান কাজ সরাসরি উৎপাদন বাড়ানো না, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E অধিকাংশ পাখি মানুষের ক্ষতি করে না, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E শস্য উৎপাদনে কিছু সাহায্য করতে পারে কিন্তু মূল ও সর্বজনীন ভূমিকা হলো পরিবেশ পরিচ্ছন্ন রাখা।",
+        "chapter_id": "1345",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-28T12:12:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130204,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): পাখিরা পরিবেশকে কীভাবে সহায়তা করে?",
+          "খ": "(অনুধাবন): পাখিদের বিভিন্ন ধরনের খাদ্য সম্পর্কে আলোচনা করো।",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): পাখিদের অভ্যাস ও আচরণ আমাদের জীবনে কিভাবে প্রভাব ফেলে তা বিশ্লেষণ করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): পাখির সংখ্যা কমে যাওয়ার কারণে পরিবেশে কী প্রভাব পড়তে পারে তা বলো।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: পাখিরা প্রকৃতির একটা অংশ। তারা পরিবেশে কীভাবে সহায়ক হয় তা নিয়ে আলোচনা করো।",
+        "solution": "সমাধান:\n\nউত্তর প্রদানের ধরন (পদ্ধতি): প্রতিটি অংশের জন্য—(১) মূল ধারণা সংক্ষেপে বলা হবে, (২) পরিবেশে প্রভাব দেখানোর প্রক্রিয়া বা কারণ ব্যাখ্যা করা হবে, (৩) প্রয়োজন হলে স্বল্প উদাহরণ দেওয়া হবে এবং (৪) সংক্ষেপে উপসংহার দেওয়া হবে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পাখিরা পরিবেশকে কীভাবে সহায়তা করে?\n- মূল ধারণা: পাখিরা পরিবেশে একাধিক উপায়ে সহায়ক; তারা পুষ্টি চক্র বজায় রাখে, উদ্ভিদপ্রজননে অংশগ্রহণ করে, রোগবালাই নিয়ন্ত্রণ করে এবং পরিবেশগত সংকেত প্রদান করে।  \n- প্রক্রিয়া/কারণ:\n  1. বীজ বপি/বীজ পরিবহন (seed dispersal): ফলভক্ষণকারী পাখিরা ফলের বীজ বহন করে বিভিন্ন স্থানে ফেলে নতুন গাছ জন্ম দেয়, ফলে বন বিস্তার ও উদ্ভিদবৈচিত্র্য বজায় থাকে।  \n  2. পালিনেশন (pollination): কিছু পাখি (যেমন সানবার্ড/শহরের উচিযর ধরনের পাখি) ফুল থেকে রসে হাত লাগিয়ে ফুল পরাগায়ণ করে।  \n  3. কীটনাশক হিসেবে কাজ: কীটখাদক পাখিরা (যেমন লালচে পাখি, চড়ুই ধরনের) বহু কৃষি/বাগান সমস্যা সৃষ্টি করে এমন কীটপতঙ্গ খেয়ে ফেলে় ফলন রক্ষা করে।  \n  4. শ্রেণীবদ্ধকারী ও পরিষ্কারকারক: ভক্ষক ও স্ক্যাভেঞ্জার পাখি (যেমন কাক) মৃতদেহ ও অবশিষ্ট খাদ্য মুছে পরিবেশ পরিচ্ছন্ন রাখে এবং রোগ সঞ্চারের সম্ভাবনা কমায়।  \n  5. বায়ুচক্র ও মাটির পুষ্টি: পাখি মল-মূত্র দ্বারা মাটির উর্বরতা বাড়ায় এবং পুষ্টি পুনরাবৃত্তি ত্বরান্বিত করে।  \n  6. বায়োকনডিশনার (bioindicator): পাখির সংখ্যা ও আচরণ পরিবেশগত পরিবর্তন—দূষণ, আবাসস্থলের অবনতি—র পূর্বসঙ্কেত দেয়।  \n- সংক্ষেপে: পাখিরা экো-сিস্টেমে সমতা বজায় রাখতে, ফসলের সুরক্ষা করতে ও পরিবেশের স্বাস্থ্যের সংকেত দিতে গুরুত্বপূর্ণ ভূমিকা রাখে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পাখিদের বিভিন্ন ধরনের খাদ্য সম্পর্কে আলোচনা করো।\n- মূল শ্রেণীবিভাগ ও উদাহরণ:\n  1. কীটনাশক (Insectivores): কীটপতঙ্গ খায়—উদাহরণ: অনেক চড়ুই, বাটপার্জা। ভূমিকা: কীট নিয়ন্ত্রণ।  \n  2. শস্যভক্ষী/দানাদার (Granivores): শস্য ও বীজ খায়—উদাহরণ: চালকের পাখি (sparrow), কোকিলের কিছু প্রজাতি। ভূমিকা: বীজ ভক্ষণ ও কিছু ক্ষেত্রে বীজ বিস্তার।  \n  3. ফলভক্ষী (Frugivores): ফল ও বীজ খায়—উদাহরণ: তোতাপাখি, বকুলজাতীয় পাখি। ভূমিকা: বীজ পরিবহন ও বন পুনর্গঠন।  \n  4. রসভক্ষি/নেক্টারিভোর (Nectarivores): ফুলের রস খায়—উদাহরণ: সানবার্ড; ভূমিকা: পরাগায়ণ।  \n  5. মাংসহাৰী (Carnivores): মাছ, শুঁটকি, ছোট স্তন্যপায়ী খায়—উদাহরণ: মাছধরা (kingfisher), গৃহিণীর কয়েক প্রজাতি। ভূমিকা: শিকারী নিয়ন্ত্রণ, টrophic balance।  \n  6. স্ক্যাভেঞ্জার/উপসামারি (Scavengers): মৃতদেহ খায়—উদাহরণ: গিদ্দ (vultures), কাক। ভূমিকা: পরিবেশ পরিষ্কার, রোগ বিস্তার হ্রাস।  \n  7. অমিফেড্র (Omnivores): উদ্ভিদ ও প্রাণী উভয় খায়—অনেক কাক, ময়ূরসহ কিছু পাখি।  \n- সংক্ষেপে: পাখিদের খাদ্যাভ্যাস তাদের ভূমিকা ও বাসস্থানে নির্ধারণ করে; একাধিক খাদ্যশৈলীর সমন্বয় ইকোসিস্টেমকে স্থিতিশীল করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাখিদের অভ্যাস ও আচরণ আমাদের জীবনে কিভাবে প্রভাব ফেলে তা বিশ্লেষণ করো।\n- মূল ধারণা: পাখিদের আচরণ সরাসরি ও পরোক্ষভাবে কৃষি, জনস্বাস্থ্য, সংস্কৃতি ও পরিবেশগত স্থিতি প্রভাবিত করে।  \n- বিশ্লেষণ (কার্যক্রম ও ফলাফল):\n  1. কীটশিকারী আচরণ → ফসল সংরক্ষণ: বেশি কীটখাদক পাখি মানে কৃষকরা রাসায়নিক কীটনাশক কম ব্যবহার করতে পারে, ফলে খরচ কমে ও পরিবেশের সুস্থতা আসে। (উপপদক্ষেপ: ফলন বৃদ্ধি, পরিবেশগত দূষণ হ্রাস)।  \n  2. মাইগ্রেশন (বিপথে চলা/অভিবাসন) → ঋতুভিত্তিক খাদ্যচক্র ও পর্যটন আকর্ষণ: পাখিদের মাইগ্রেশন দর্শনীয়, প্রাকৃতিক পর্যটন বাড়ে; তবে মাইগ্রেশনে রোগ ছড়ানোর সম্ভাবনাও থেকে যায়।  \n  3. বাসা বানানো ও আওয়াজ → মানববাড়িতে প্রভাব: শহরে কিছু পাখি বাসা করে ও শব্দ সৃষ্টি করে—কখনো অস্বস্তি, কখনো আনন্দ (সাংস্কৃতিক, নৈসর্গিক)।  \n  4. রোগবাহী হোক বা না হোক → জনস্বাস্থ্য: পাখির কারণে কিছু রোগসংক্রমণের ঝুঁকি থাকে (উদাহরণ: পাখি-আধারিত কিছু রোগ), তাই নিরীক্ষা প্রয়োজন; আবার স্ক্যাভেঞ্জার পাখি মৃতপদার্থ পরিষ্কার করে রোগ বিস্তার কমায়।  \n  5. পরিবেশগত শিক্ষা ও সাংস্কৃতিক প্রভাব: পাখির আচরণ লোককথা, শিল্প, বিজ্ঞানকে অনুপ্রাণিত করে—মানবসমাজে নৈতিক ও নান্দনিক প্রভাব।  \n- উপসংহার: পাখিদের আচরণ কৃষি উৎপাদন, জনস্বাস্থ্য ও সামাজিক-অর্থনৈতিক দিকগুলোতে গুরুত্বপূর্ণ প্রভাব ফেলে; সুষ্ঠু পর্যবেক্ষণ ও সংরক্ষণ প্রয়োজন।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পাখির সংখ্যা কমে যাওয়ার কারণে পরিবেশে কী প্রভাব পড়তে পারে তা বলো।\n- মূল্যায়ন/প্রভাব:\n  1. কীটনিয়ন্ত্রণে ঘাটতি → ফসল ক্ষতি বাড়া: কীটনাশক পাখি কমে গেলে কীটসংখ্যা বেড়ে ফসলের ক্ষতি ও বিক্রয় কমে যাবে; কৃষককে কেমিক্যাল ব্যবহার বাড়াতে হতে পারে।  \n  2. বীজ পরিবহন ও পুনর্গঠনে ব্যাঘাত → বন ও উদ্ভিদবৈচিত্র্য হ্রাস: ফলভক্ষণকারী পাখির অভাব বন পুনর্নবীকরণ ব্যাহত করবে, ফলে গাছের প্রজাতিগত বৈচিত্র্য ক্ষুণ্ন হবে।  \n  3. টrophic cascade (পুষ্টি চেইনে পরিবর্তন): শিকারী ও শিকার সম্পর্কের গণ্ডি বদলালে নিম্নস্তরের জনসংখ্যা অত্যধিক বা লoph হয়, যা ইকোসিস্টেমের স্থিতি নষ্ট করে।  \n  4. স্ক্যাভেঞ্জার কমলে জঞ্জাল/মৃতদেহ বেশি থাকবে → রোগ বিস্তার বাড়তে পারে।  \n  5. পরিবেশগত ইঙ্গিতক (bioindicator) হারানো → দূষণ বা আবাসস্থলের অবনতির প্রাথমিক সংকেত মিস হবে, ফলে সমস্যা দ্রুত শনাক্ত ও সমাধান করা কঠিন হবে।  \n  6. পারিপার্শ্বিক অর্থনৈতিক ও সাংস্কৃতিক ক্ষতি: পাখি-নির্ভর পর্যটন কমে যাবে, লোকসংস্কৃতি ও প্রাকৃতিক সৌন্দর্য ক্ষতিগ্রস্ত হবে।  \n- সংক্ষেপে: পাখির সংখ্যা কমলে ইকোসিস্টেমের কার্যকারিতা, কৃষি উৎপাদন, জনস্বাস্থ্য ও সামাজিক-অর্থনৈতিক ক্ষেত্রগুলোতে বহুমুখী নেতিবাচক প্রভাব পড়বে; তাই সংরক্ষণ জরুরি।\n\nসমাপ্তি: উপরোক্ত বিশ্লেষণ থেকে স্পষ্ট যে পাখির ভূমিকা বহুমুখী ও অপরিহার্য—তাদের সংরক্ষণ ও বাসস্থান রক্ষার মাধ্যমে একস্থির, স্বাস্থ্যকর ও উৎপাদনক্ষম পরিবেশ নিশ্চিত করা যায়।",
+        "chapter_id": "1345",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E পাখিরা ফুলে-পরাগসঞ্চারণ, বীজ ছড়ানো, পতঙ্গ ও ক্ষতিকর পতঙ্গ খেয়ে রাখা এবং মাটিতে পুষ্টি ফিরিয়ে আয়ের মাধ্যমে জৈবিক ভারসাম্য বজায় রাখে, ফলে পরিবেশ সুস্থ থাকে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পাখিরা নেকটর, বীজ, ফল, কেঁকড়া ও অন্যান্য কীটপতঙ্গ, মাছ এবং কখনো-কখনো মৃতদেহ খায়; তাদের ঠোঁট ও পাচনপ্রণালী ওই খাদ্যের সঙ্গে খাপ খাইয়ে গঠিত।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাখিদের অভ্যাস—যেমন আণুবীক্ষণিক পরগা ও বীজ নিয়ে চলাচল, টেরিলিং করা—কৃষি ও প্রাকৃতিক পরিবেশে পেস্ট নিয়ন্ত্রণ, ফসল বংশবিস্তার ও পরিবেশগত সংকেত হিসেবে আমাদের জীবনকে প্রভাবিত করে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পাখি কমে গেলে বীজের ছড়াছড়ি ও পরাগসঞ্চারণ কমে, কীটকের আক্রমণ বাড়তে পারে, খাদ্যজালে خلل পড়ে এবং সামগ্রিক জীববৈচিত্র্য ও পরিবেশগত সেবা ক্ষতিগ্রস্ত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-27T12:31:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130196,
+      "value": {
+        "options": {
+          "a": "চড়ুই",
+          "b": "দোয়েল",
+          "c": "বুলবুলি",
+          "d": "টুনটুনি"
+        },
+        "question": "কোন পাখি আমাদের জাতীয় পাখি?",
+        "solution": "সমাধান:\n1. প্রশ্নে যেটা জানতে চাওয়া হয়েছে তা হলো আমাদের জাতীয় পাখি কোনটি — বাংলাদেশে সরকারিভাবে ঘোষিত জাতীয় পাখি হলো দোয়েল (Oriental Magpie Robin)।\n2. দিয়া দেওয়া অপশনগুলোর মধ্যে (b) দোয়েলটি জাতীয় পাখি হওয়ায় সেটিই সঠিক নির্বাচন করা হয়।\n3. অন্য অপশনগুলো ভুল কারণ চড়ুই, বুলবুলি ও টুনটুনি জাতীয় পাখি হিসেবে ঘোষিত নয়।\n\nসঠিক উত্তর: (b) দোয়েল।",
+        "chapter_id": "1345",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-27T12:30:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130197,
+      "value": {
+        "options": {
+          "a": "বুলবুলি",
+          "b": "টুনটুনি",
+          "c": "দোয়েল",
+          "d": "চড়ুই"
+        },
+        "question": "বাংলাদেশের কোন পাখি ফলমূল খেতে ভালোবাসে?",
+        "solution": "সমাধান:\nধাপে ধাপে চিন্তা করলে প্রথমে পাখিগুলোর খাদ্যাভাস দেখি। দোয়েল প্রাথমিকভাবে কীট-পোকা খায়, তবে অনেক প্রজাতিই ফলও খায় এবং গ্রামবাংলার পরিবেশে দোয়েলকে ফলমূল খেতে দেখা যায়। অন্যদিকে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E টুনটুনি মূলত কীটভোজী, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E চড়ুই প্রধানত বাজি ও বীজ/দানা খেয়ে থাকে, এবং \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বুলবুলেও ফলখাওয়ার প্রবৃত্তি আছে কিন্তু সাধারণ শৈল্পিক/জাতীয় পরিচয়ে এবং পাঠ্যপুস্তকের প্রশ্নে ফলমূল খাওয়ার উত্তর হিসেবে দোয়েলকে (প্রদত্ত অপশনে) ঠিক ধরা হয়। তাই সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দোয়েল।",
+        "chapter_id": "1345",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-27T12:30:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 130198,
+      "value": {
+        "options": {
+          "a": "দোয়েল",
+          "b": "চড়ুই",
+          "c": "বুলবুলি",
+          "d": "টুনটুনি"
+        },
+        "question": "কোন পাখি মানুষের কাছে থাকার জন্য বেশি পছন্দ করে?",
+        "solution": "সমাধান:\nধাপ ১: পর্যবেক্ষণ করলে দেখা যায় যে চড়ুই মানুষের আবাসস্থলের খুব কাছাকাছি বাস করে — ছাদ-বেড়ায় বাসা বাঁধে, মানুষের দেওয়া খাবার বা পাইকারি আলস্যে খেতে মানায়।  \nধাপ ২: তুলনায়, দোয়েল, বুলবুলি ও টুনটুনি প্রধানত উদ্যান, গাছপালা বা ঝোপে বেশি সময় কাটায় এবং চড়ুইয়ের মতো ঘনিষ্ঠভাবে মানুষের কাছে স্থায়ীভাবে বসবাস করে না।  \nঅতএব সঠিক উত্তর: চড়ুই (b)।",
+        "chapter_id": "1345",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-27T12:30:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 114626,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): বিভিন্ন পাখির নাম উল্লেখ করে তাদের বৈশিষ্ট্য তুলে ধরো।",
+          "খ": "(অনুধাবন): পাখিদের পরিবেশের ওপর প্রভাব কিরকম?",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): পাখিরা মানুষের জীবনে কীভাবে সহায়ক হতে পারে তা বিশ্লেষণ করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): পাখির সংখ্যা বাড়ানোর জন্য পরিবেশের সুরক্ষায় কী পদক্ষেপ নেওয়া উচিত তা প্রস্তাবনা দাও।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: পাখির দেশ বাংলাদেশে বিভিন্ন ধরনের পাখির বিচরণ রয়েছে, যেমন চড়ুই, টুনটুনি, ও পানকৌড়ি। পাখিরা প্রকৃতির শোভা বাড়ায় এবং পরিবেশকে পরিচ্ছন্ন রাখতে সাহায্য করে। ",
+        "solution": "সমাধান:\nউত্তর তৈরির পদ্ধতি: প্রথমে প্রদত্ত উদ্দীপক থেকে মূল তথ্য পড়ে নেওয়া—পাখিদের নাম ও সাধারণ ভূমিকা—তারপর প্রতিটি অংশ অনুসারে জ্ঞানগত বর্ণনা, পরিবেশগত প্রভাবের ব্যাখ্যা, মানবজীবনে প্রয়োগ বিশ্লেষণ এবং পাখির সংরক্ষণে বাস্তবসম্মত পদক্ষেপ প্রস্তাব করা হবে। প্রতিটি উত্তরে সংক্ষিপ্ত যুক্তি ও প্রয়োজনীয় উদাহরণ দেওয়া হলো।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (জ্ঞানমূলক): বিভিন্ন পাখির নাম ও বৈশিষ্ট্য\n- চড়ুই (sparrow): ছোট আকার, প্রায়শই মানববসতি অঞ্চলে থাকে, বীজ ও ছোট কীট খায়, সহজে অভিযোজিত, দ্রুত বংশবৃদ্ধি করে।  \n- টুনটুনি (bulbul): মাঝারি আকার, মিষ্টি কণ্ঠ ও সঙ্গীতময় গলা, ফল ও কীট খায়, বাগান-ও-পাহাড়ীয় স্থান পছন্দ করে।  \n- পানকৌড়ি (পান-পাখি/জলচর, যেমন হাঁস বা জাবানী): জলজ পরিবেশে বসবাস, জলজ খাদ্য (মাছ, কীট, পানাশ্মা) খায়, সুরক্ষার জন্য কেন্ডাল বা লম্বা পায় থাকে (জলচর প্রজাতির ক্ষেত্রে)।  \n(উদাহরণ হিসেবে উপরের তিনটি প্রজাতির বৈশিষ্ট্য দেওয়া হল; অন্যান্য পাখির ক্ষেত্রেও অনুরূপভাবে আকার, খাদ্য, আবাস ও আচরণ উল্লেখ করা যায়।)\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (অনুধাবন): পাখিদের পরিবেশের ওপর প্রভাব\n- কীটনাশক নিয়ন্ত্রণ: অনেক পাখি কীট-পতঙ্গ খেয়ে ফসলের ক্ষতি কমায় — ফলে কৃত্রিম কীটনাশক কম ব্যবহারের সুযোগ হয়।  \n- বীজ ছড়ানো ও প্রজনন: ফল-মুয়ো পাখিরা বীজ বহন করে উদ্ভিদ বিস্তারে সাহায্য করে, যা বন্য জীববৈচিত্র্য বজায় রাখতে সহায়ক।  \n- পচনশীল পদার্থ ও পরিশোধন: কিছু পাখি মৃতদেহ বা দাগা পদার্থ খেয়ে পরিবেশকে পরিষ্কার করে; জলচর পাখি জলরাশি ও আর্দ্রভূমিকে সুস্থ রাখে।  \n- পরিবেশগত সূচক: পাখির উপস্থিতি/সংখ্যা পরিবেশের স্বাস্থ্যের সূচক—কম পাখি হলে বাস্তুতন্ত্রে সমস্যা নির্দেশ করে।  \nএই সব কারণেই পাখির কার্যকলাপ পরিবেশকে সুষম ও পরিচ্ছন্ন রাখতে গুরুত্বপূর্ণ।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (বিশ্লেষণ/প্রয়োগ): পাখি মানুষের জীবনে কীভাবে সহায়ক\n- কৃষিকে সহায়তা: পোকামাকড় খেয়ে ফসলরক্ষায় সহায়তা—ফসল উৎপাদন বাড়ে, খরচ কমে। (উদাহরণ: চড়ুই বা শিকারি পাখি শস্য ক্ষেতের ক্ষতিকর কীট কমায়)  \n- অর্থনৈতিক ও সামাজিক উপকারিতা: পাখি পর্যটন (birdwatching) থেকে আয়, স্থানীয় লোকজ জীবন ও ঐতিহ্যে স্থান পাওয়া।  \n- স্বাস্থ্য ও পরিবেশগত সেবা: পাখির ফসলিক নিয়ন্ত্রণ ও বীজবিতরণ মানুষের খাদ্য নিরাপত্তা ও বনায়নকে সুবিধা দেয়।  \n- বৈজ্ঞানিক ও শিক্ষামূলক ভূমিকা: পাখি পর্যবেক্ষণ থেকে পরিবেশগত পরিবর্তন, জলবায়ু ও বাস্তুতন্ত্রের অবস্থা বোঝা যায়।  \nবিশ্লেষণগতভাবে বলা যায়—পাখির সরবরাহকৃত এসব পরিষেবা (ecosystem services) সরাসরি বা পরোক্ষভাবে মানুষের জীবনমান উন্নত করে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (মূল্যায়ন/সৃজন): পাখির সংখ্যা বাড়ানোর জন্য পরিবেশ সুরক্ষায় পদক্ষেপ (প্রাথমিক এবং কার্যকর)\n1. আবাস সংরক্ষণ ও পুনরুদ্ধার: স্থানীয় গাছোপালা রক্ষা করা, বন ও জলাভূমি সংরক্ষণ—পাখিদের দানা ও আহারের জায়গা নিশ্চিত করবে।  \n2. কীটনাশক ও রাসায়নিক নিয়ন্ত্রণ: কৃষিতে ক্ষতিকর রাসায়নিক কমিয়ে জৈব সরকারি পদ্ধতি উদ্বুদ্ধ করা—খাবার শৃঙ্খলে বিষক্রিয়ার হ্রাস পাবে।  \n3. শিকার ও অবৈধ ধরনে কড়া নিয়ন্ত্রণ: স্থানীয় আইন শক্ত করা, পর্যবেক্ষণ ও জরিমানা বাড়ানো।  \n4. বাস্তুতন্ত্র-বন্ধুত্বপূর্ণ গৃহস্থালী ব্যবস্থা: বাগানে স্থানীয় ফলদায়ী ও ফুলফলানো গাছ লাগানো, নেস্টবক্স বা লুকানো ডানার ব্যবস্থা করা—ক্রমে পাখি আশ্রয় পাবেন।  \n5. জনসচেতনতা ও শিক্ষা: স্কুল, গ্রাম পর্যায়ে পাখি ও পরিবেশের গুরুত্ব নিয়ে প্রচার—কমিউনিটি অংশগ্রহণ বাড়াবে।  \n6. সংরক্ষণ উদ্যোগ ও মনিটরিং: স্থানীয় পাখির জনগণনা ও স্বাস্থ্য পর্যবেক্ষণ করে কার্যকর নীতি গ্রহণ; সংরক্ষণ এলাকার সৃষ্টি।  \nপ্রয়োগের অগ্রাধিকার: প্রথমে আবাসগত নিরাপত্তা ও কীটনাশক হ্রাস, সঙ্গে জনসচেতনতা—এর ফলে দীর্ঘমেয়াদে পাখি পুনরুদ্ধার সম্ভব ও টেকসই হয়।",
+        "chapter_id": "1345",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E চড়ুই, টুনটুনি, পানকৌড়ি ইত্যাদি পাখির নামগুলো উদ্ধৃত করে বলা যায়—চড়ুই ছোট ও চঞ্চল, সাধারণত স্থলে ও গাছায় বাস করে; টুনটুনি সুন্দর কণ্ঠসম্পন্ন ও গাছের ডালে ঘুরি; পানকৌড়ি জলজ পরিবেশে বসবাস করে, দীর্ঘ পা ও ঠোঁট দিয়ে মাছ বা কাঁকড়া খায়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E পাখিরা পরিবেশে কীটপতঙ্গ নিয়ন্ত্রণ করে, মৃতজীবন পরিস্কার করে এবং বীজ ছড়িয়ে প্রকৃতির ভারসাম্য বজায় রাখে; তাদের উপস্থিতি পরিবেশের স্বাস্থ্যের একটি সূচক হিসেবেও কাজ করে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পাখিরা মানুষের জীবনে সহায়ক কারণ তারা কীটনাশক ছাড়াই ফসল রক্ষা করে, বীজ-পতরণে সাহায্য করে এবং খাদ্য ও অর্থনৈতিক সুযোগ দেয়; তাছাড়া মনোরম কণ্ঠ ও সৌন্দর্য মানসিক স্বাস্থ্যের জন্য উপকারী।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পাখির সংখ্যা বাড়াতে গাছপালা রক্ষা ও নতুন গাছ লাগানো, জলাশয় সংরক্ষণ, পেস্টিসাইড ব্যবহার কমানো, আবাসস্থল সংরক্ষণ ও জনসচেতনতা বৃদ্ধি—এসব নীতি গ্রহণ করা উচিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-21T12:16:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 114621,
+      "value": {
+        "options": {
+          "a": "পাখিরা পরিবেশে কোনও উপকারিতা করে না।",
+          "b": "পাখিরা কীটপতঙ্গ খেয়ে পরিবেশকে পরিচ্ছন্ন রাখে।",
+          "c": "পাখিরা শুধুমাত্র মানুষের ক্ষতি করে।",
+          "d": "পাখিরা কেবল ফুলের মধু খায় এবং অন্যান্য খাদ্য গ্রহণ করে না।"
+        },
+        "question": "পাখিদের পরিবেশের উপকারিতা সম্পর্কে যা উল্লেখ করা হয়েছে, তা কি সঠিক?",
+        "solution": "সমাধান:\nধাপ ১: প্রশ্নে যে বর্ণনা দেওয়া রয়েছে তা যাচাই করতে হবে — পাখিরা কীটপতঙ্গ খেয়ে পরিবেশে কী ভূমিকা রাখে।  \nধাপ ২: বাস্তবে অনেক পাখি কীটপতঙ্গ খেয়ে তাদের সংখ্যা কমায়, ফলে ফসলের ক্ষতি, রোগজীবাণুর বিস্তার ও পরিবেশে অপ্রয়োজনীয় কীটবৃদ্ধি নিয়ন্ত্রণ পায়; এই কারণে পাখিরা পরিবেশকে পরিচ্ছন্ন ও সুষম রাখতে সাহায্য করে।  \nউপসংহার: দায়িত্বশীল ও যুক্তিযুক্ত বিবেচনায় সঠিক উত্তর হলো (b)।  \n\nবাকি বিকল্পগুলোর সংক্ষিপ্ত ব্যাখ্যা: (a) ভুল — পাখিরা স্পষ্টভাবে পরিবেশে উপকারী ভূমিকা রাখে; (c) ভুল — পাখিরা সবসময় মানুষের ক্ষতি করে না, অনেক ক্ষেত্রে উপকারী; (d) ভুল — পাখির খাদ্যবৈচিত্র্য আছে, তারা কেবল ফুলের মধুই খায় না।",
+        "chapter_id": "1345",
+        "correct_answer": "b"
+      },
+      "question_type_id": 2,
+      "book_id": 105,
+      "book_grade_id": 7,
+      "content_chunk_id": 7379,
+      "created_at": "2025-07-21T12:15:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 105,
+        "title": "আমার বাংলা বই",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7379&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7379&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7379&grade=7&per_page=2000&question_paper_id=47485&subject=105&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 131,
+  "total": 131
+}
